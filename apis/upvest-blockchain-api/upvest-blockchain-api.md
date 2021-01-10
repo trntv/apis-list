@@ -8,8 +8,8 @@ The Upvest Blockchain API is a multi-protocol blockchain API for building blockc
 
 
 **Categories**:
-
 - [Blockchain](https://github.com/apis-list/apis-list#blockchain)
+
 
 
 

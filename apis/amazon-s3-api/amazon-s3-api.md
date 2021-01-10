@@ -8,8 +8,8 @@ Amazon Simple Storage Service (Amazon S3) is storage for the internet.  You can 
 
 
 **Categories**:
-
 - [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
+
 
 
 

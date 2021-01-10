@@ -8,8 +8,8 @@ A free API to retrieve some quotes of Game of Thrones!
 
 
 **Categories**:
-
 - [Other](https://github.com/apis-list/apis-list#other)
+
 
 
 

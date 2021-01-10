@@ -8,12 +8,12 @@ Gather and compare all kinds of interesting data, they weren't really interactiv
 
 
 **Categories**:
-
 - [Mapping](https://github.com/apis-list/apis-list#mapping)
-
 - [Mobile](https://github.com/apis-list/apis-list#mobile)
-
 - [Social](https://github.com/apis-list/apis-list#social)
+
+
+
 
 
 

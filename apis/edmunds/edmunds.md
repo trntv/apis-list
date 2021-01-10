@@ -6,8 +6,8 @@ A dataset containing all the car makes. Edmunds has detailed specs, customer rat
 
 
 **Categories**:
-
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
+
 
 
 

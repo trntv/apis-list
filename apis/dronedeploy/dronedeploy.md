@@ -8,20 +8,17 @@ Integrate your existing service into DroneDeploy and reach tens of thousands of 
 
 
 **Categories**:
-
 - [Geospatial](https://github.com/apis-list/apis-list#geospatial)
-
 - [Mapping](https://github.com/apis-list/apis-list#mapping)
-
 - [Orthomosaics](https://github.com/apis-list/apis-list#orthomosaics)
-
 - [Remote Sensing](https://github.com/apis-list/apis-list#remote-sensing)
-
 - [Robots](https://github.com/apis-list/apis-list#robots)
-
 - [Images](https://github.com/apis-list/apis-list#images)
-
 - [Drones](https://github.com/apis-list/apis-list#drones)
+
+
+
+es)
 
 
 

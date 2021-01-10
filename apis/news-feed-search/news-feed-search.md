@@ -6,8 +6,8 @@ Otherwise, please contact our support. Free news search API. Easily search and f
 
 
 **Categories**:
-
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
+
 
 
 

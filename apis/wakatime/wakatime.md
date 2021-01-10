@@ -8,10 +8,10 @@ Developer reference documentation for the WakaTime API.  Developer reference doc
 
 
 **Categories**:
-
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
-
 - [Time Tracking](https://github.com/apis-list/apis-list#time-tracking)
+
+
 
 
 

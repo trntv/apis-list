@@ -6,8 +6,8 @@ So far we support the following. Careerjet public search API If you are a webmas
 
 
 **Categories**:
-
 - [Jobs](https://github.com/apis-list/apis-list#jobs)
+
 
 
 

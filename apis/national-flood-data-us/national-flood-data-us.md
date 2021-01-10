@@ -8,8 +8,8 @@ We offer the data in the various formats described below to meet a variety or pa
 
 
 **Categories**:
-
 - [Other](https://github.com/apis-list/apis-list#other)
+
 
 
 

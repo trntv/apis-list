@@ -8,20 +8,17 @@
 
 
 **Categories**:
-
 - [Reporting](https://github.com/apis-list/apis-list#reporting)
-
 - [Virtualization](https://github.com/apis-list/apis-list#virtualization)
-
 - [Other](https://github.com/apis-list/apis-list#other)
-
 - [Visualizations](https://github.com/apis-list/apis-list#visualizations)
-
 - [Charts](https://github.com/apis-list/apis-list#charts)
-
 - [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
-
 - [Marketing](https://github.com/apis-list/apis-list#marketing)
+
+
+
+ng)
 
 
 

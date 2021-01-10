@@ -8,8 +8,8 @@ The Old Reader API. The Old Reader API.  Contribute to theoldreader/api developm
 
 
 **Categories**:
-
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
+
 
 
 

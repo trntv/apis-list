@@ -6,12 +6,12 @@ All results are returned in easy-to-read JSON format.  Our sports data API provi
 
 
 **Categories**:
-
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
-
 - [Gambling](https://github.com/apis-list/apis-list#gambling)
-
 - [Sports](https://github.com/apis-list/apis-list#sports)
+
+
+
 
 
 

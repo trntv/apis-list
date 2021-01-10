@@ -8,8 +8,8 @@ The image capturing function used by Naver Service can be used for customer serv
 
 
 **Categories**:
-
 - [Captcha](https://github.com/apis-list/apis-list#captcha)
+
 
 
 

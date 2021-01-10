@@ -6,10 +6,10 @@ Minor Planet Center API Overview Asterank offers a database API for the Minor Pl
 
 
 **Categories**:
-
 - [Math & Science](https://github.com/apis-list/apis-list#math-and-science)
-
 - [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
+
+
 
 
 

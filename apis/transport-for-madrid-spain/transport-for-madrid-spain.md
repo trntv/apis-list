@@ -6,8 +6,8 @@ Madrid BUS transport API. 404 - File or directory not found. The resource you ar
 
 
 **Categories**:
-
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
+
 
 
 

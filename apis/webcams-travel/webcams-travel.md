@@ -8,8 +8,8 @@ We aggregate and distribute landscape webcams worldwide. Add webcams to your app
 
 
 **Categories**:
-
 - [Travel](https://github.com/apis-list/apis-list#travel)
+
 
 
 

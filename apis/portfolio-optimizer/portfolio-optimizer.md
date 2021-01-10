@@ -8,14 +8,14 @@ API for investment portfolio optimization.  The science of portfolio optimizatio
 
 
 **Categories**:
-
 - [Math](https://github.com/apis-list/apis-list#math)
-
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
-
 - [Financial](https://github.com/apis-list/apis-list#financial)
-
 - [Algorithms](https://github.com/apis-list/apis-list#algorithms)
+
+
+
+
 
 
 

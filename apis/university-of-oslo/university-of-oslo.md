@@ -6,8 +6,8 @@ Universitet i Oslo (lisensgiver) gir deg som lisenstaker rett til å bruke datae
 
 
 **Categories**:
-
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
+
 
 
 

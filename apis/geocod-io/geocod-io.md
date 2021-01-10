@@ -8,8 +8,8 @@ Geocode spreadsheets or use our API - without restrictions. Geocode spreadsheets
 
 
 **Categories**:
-
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
 
 
 

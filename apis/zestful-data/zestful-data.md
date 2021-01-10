@@ -8,8 +8,8 @@ The Zestful's ingredient parser API turns plain recipe strings into beautiful, s
 
 
 **Categories**:
-
 - [Food](https://github.com/apis-list/apis-list#food)
+
 
 
 

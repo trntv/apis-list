@@ -8,12 +8,12 @@ Google AdSense provides a free, flexible way to earn money from your websites, m
 
 
 **Categories**:
-
 - [Advertising](https://github.com/apis-list/apis-list#advertising)
-
 - [SEO](https://github.com/apis-list/apis-list#seo)
-
 - [Marketing](https://github.com/apis-list/apis-list#marketing)
+
+
+
 
 
 

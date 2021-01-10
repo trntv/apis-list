@@ -6,14 +6,14 @@ org.  New ones are being added all the time! The database is also being expanded
 
 
 **Categories**:
-
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
-
 - [Trivia](https://github.com/apis-list/apis-list#trivia)
-
 - [Games & Comics](https://github.com/apis-list/apis-list#games-and-comics)
-
 - [Government](https://github.com/apis-list/apis-list#government)
+
+
+
+
 
 
 

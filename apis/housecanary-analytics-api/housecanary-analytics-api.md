@@ -8,10 +8,10 @@ Gain speed and reduce errors with values a. Real estate investors and lenders ca
 
 
 **Categories**:
-
 - [Real Estate](https://github.com/apis-list/apis-list#real-estate)
-
 - [Reporting](https://github.com/apis-list/apis-list#reporting)
+
+
 
 
 

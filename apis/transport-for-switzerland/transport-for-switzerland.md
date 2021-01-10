@@ -6,8 +6,8 @@ Here you can view mobility data free of charge and access various services. The 
 
 
 **Categories**:
-
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
+
 
 
 

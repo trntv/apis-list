@@ -8,8 +8,8 @@ Enigma Businesses provides the most accurate and reliable information on small a
 
 
 **Categories**:
-
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
+
 
 
 

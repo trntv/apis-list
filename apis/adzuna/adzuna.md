@@ -6,16 +6,15 @@ Overview Quickstart Expert user? Allergic to lengthy documentation sites?Follow 
 
 
 **Categories**:
-
 - [Marketing](https://github.com/apis-list/apis-list#marketing)
-
 - [Business](https://github.com/apis-list/apis-list#business)
-
 - [Jobs](https://github.com/apis-list/apis-list#jobs)
-
 - [Advertising](https://github.com/apis-list/apis-list#advertising)
-
 - [Feeds](https://github.com/apis-list/apis-list#feeds)
+
+
+
+)
 
 
 

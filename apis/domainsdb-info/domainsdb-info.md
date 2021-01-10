@@ -6,8 +6,8 @@ Registered domain names search checks the lists of registered domains for names 
 
 
 **Categories**:
-
 - [Development](https://github.com/apis-list/apis-list#development)
+
 
 
 

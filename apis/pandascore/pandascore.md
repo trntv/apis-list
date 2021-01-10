@@ -8,18 +8,16 @@ Get events and detailed match data in real time from major league tournaments, o
 
 
 **Categories**:
-
 - [Fantasy Sports](https://github.com/apis-list/apis-list#fantasy-sports)
-
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-
 - [Games & Comics](https://github.com/apis-list/apis-list#games-and-comics)
-
 - [Sports](https://github.com/apis-list/apis-list#sports)
-
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
-
 - [ESports](https://github.com/apis-list/apis-list#esports)
+
+
+
+s)
 
 
 

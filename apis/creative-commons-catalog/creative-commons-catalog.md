@@ -6,8 +6,8 @@ The Creative Commons Catalog API ('cccatalog-api') is a system that allows progr
 
 
 **Categories**:
-
 - [Development](https://github.com/apis-list/apis-list#development)
+
 
 
 

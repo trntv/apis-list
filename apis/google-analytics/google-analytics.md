@@ -8,10 +8,10 @@ Google Analytics provides APIs to collect, configure, and report on user-interac
 
 
 **Categories**:
-
 - [Business](https://github.com/apis-list/apis-list#business)
-
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
+
+
 
 
 

@@ -8,8 +8,8 @@ Generates Lorem Ipsum text
 
 
 **Categories**:
-
 - [Testing](https://github.com/apis-list/apis-list#testing)
+
 
 
 

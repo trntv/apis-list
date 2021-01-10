@@ -8,10 +8,10 @@ Additionally, you may use the VK API to control much of the functionality on the
 
 
 **Categories**:
-
 - [Social](https://github.com/apis-list/apis-list#social)
-
 - [European](https://github.com/apis-list/apis-list#european)
+
+
 
 
 

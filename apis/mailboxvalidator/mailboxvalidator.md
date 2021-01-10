@@ -8,8 +8,8 @@ MailboxValidator provides single email validation API that checks if an email ad
 
 
 **Categories**:
-
 - [Business](https://github.com/apis-list/apis-list#business)
+
 
 
 

@@ -6,8 +6,8 @@ IP Geolocation API is a free JSON REST API service for locating your visitors in
 
 
 **Categories**:
-
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
 
 
 

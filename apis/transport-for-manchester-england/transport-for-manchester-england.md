@@ -6,8 +6,8 @@ The s. Welcome to Transport for Greater Manchester’s new Real-Time Open Data P
 
 
 **Categories**:
-
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
+
 
 
 

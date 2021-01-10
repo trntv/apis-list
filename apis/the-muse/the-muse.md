@@ -8,8 +8,8 @@ Check out our easy-to-use and public API to provide job and company listings.  C
 
 
 **Categories**:
-
 - [Jobs](https://github.com/apis-list/apis-list#jobs)
+
 
 
 

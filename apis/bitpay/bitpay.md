@@ -8,12 +8,12 @@ A simple, RESTful API to the most powerful bitcoin infrastructure on the planet.
 
 
 **Categories**:
-
 - [Payments](https://github.com/apis-list/apis-list#payments)
-
 - [Bitcoin/Bitcoin Wallets](https://github.com/apis-list/apis-list#bitcoin-bitcoin-wallets)
-
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
+
+
+
 
 
 

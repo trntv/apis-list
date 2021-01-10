@@ -8,8 +8,8 @@ In this day and age, everyone and their dog has an API. So why not have an API f
 
 
 **Categories**:
-
 - [Animals](https://github.com/apis-list/apis-list#animals)
+
 
 
 

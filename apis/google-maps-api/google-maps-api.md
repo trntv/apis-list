@@ -8,8 +8,8 @@ Choose Google Maps Platform to create immersive location experiences and make be
 
 
 **Categories**:
-
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
 
 
 

@@ -6,10 +6,10 @@
 
 
 **Categories**:
-
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
-
 - [Tracking](https://github.com/apis-list/apis-list#tracking)
+
+
 
 
 

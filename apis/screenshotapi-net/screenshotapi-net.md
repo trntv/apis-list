@@ -6,8 +6,8 @@ Use one simple API call to generate screenshots of any website. Use this screens
 
 
 **Categories**:
-
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
+
 
 
 

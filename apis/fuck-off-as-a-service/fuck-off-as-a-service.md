@@ -6,8 +6,8 @@ Introduction FOAAS (Fuck Off As A Service) provides a modern, RESTful, scalable 
 
 
 **Categories**:
-
 - [Social](https://github.com/apis-list/apis-list#social)
+
 
 
 

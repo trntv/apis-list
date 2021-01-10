@@ -6,8 +6,8 @@ about “Terms of Service; Didn't Read” (short: ToS;DR) is a project started i
 
 
 **Categories**:
-
 - [Open Licenses](https://github.com/apis-list/apis-list#open-licenses)
+
 
 
 

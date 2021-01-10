@@ -8,8 +8,8 @@ The Gmail API: modern, fast, RESTful. The Gmail API: modern, fast, RESTful
 
 
 **Categories**:
-
 - [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
+
 
 
 

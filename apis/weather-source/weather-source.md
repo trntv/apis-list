@@ -8,14 +8,14 @@ Powerful Weather API built for systems that demand speed, reliability and heavy 
 
 
 **Categories**:
-
 - [Databases](https://github.com/apis-list/apis-list#databases)
-
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
-
 - [Astronomy](https://github.com/apis-list/apis-list#astronomy)
-
 - [Weather](https://github.com/apis-list/apis-list#weather)
+
+
+
+
 
 
 

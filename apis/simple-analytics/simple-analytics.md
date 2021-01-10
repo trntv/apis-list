@@ -8,8 +8,8 @@ Simple Analytics does not own your data. That’s why we care a lot about the in
 
 
 **Categories**:
-
 - [Other](https://github.com/apis-list/apis-list#other)
+
 
 
 

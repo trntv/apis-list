@@ -8,8 +8,8 @@ With this API, you can use RESTful req. The Custom Search JSON API lets you deve
 
 
 **Categories**:
-
 - [Search](https://github.com/apis-list/apis-list#search)
+
 
 
 

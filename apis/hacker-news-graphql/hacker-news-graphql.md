@@ -8,8 +8,8 @@ Convenient HackerNews GraphQL wrapper API.  Filter, sort, search and relations
 
 
 **Categories**:
-
 - [Social](https://github.com/apis-list/apis-list#social)
+
 
 
 

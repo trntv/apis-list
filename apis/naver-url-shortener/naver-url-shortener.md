@@ -8,8 +8,8 @@ Access to Naver’s URL shortening API.  단축URL 웹 페이지의 링크 정�
 
 
 **Categories**:
-
 - [URL Shortening](https://github.com/apis-list/apis-list#url-shortening)
+
 
 
 

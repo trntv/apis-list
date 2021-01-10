@@ -6,8 +6,8 @@ The StackExchange API provides RESTful services to all the sites on the StackExc
 
 
 **Categories**:
-
 - [Other](https://github.com/apis-list/apis-list#other)
+
 
 
 

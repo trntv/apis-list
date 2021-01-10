@@ -8,8 +8,8 @@ Everything you need to start playing with the Ticketmaster API. Everything you n
 
 
 **Categories**:
-
 - [Events](https://github.com/apis-list/apis-list#events)
+
 
 
 

@@ -6,16 +6,15 @@ Introduction Welcome to the BitcoinAverage API! The world's best and longest run
 
 
 **Categories**:
-
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
-
 - [Cryptocurrency](https://github.com/apis-list/apis-list#cryptocurrency)
-
 - [Feeds](https://github.com/apis-list/apis-list#feeds)
-
 - [Financial](https://github.com/apis-list/apis-list#financial)
-
 - [Commerce & Marketplaces](https://github.com/apis-list/apis-list#commerce-and-marketplaces)
+
+
+
+)
 
 
 

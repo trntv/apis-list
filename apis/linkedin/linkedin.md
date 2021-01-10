@@ -8,12 +8,12 @@ Make it convenient for your users to sign in with their professional identity.  
 
 
 **Categories**:
-
 - [Social](https://github.com/apis-list/apis-list#social)
-
 - [Enterprise](https://github.com/apis-list/apis-list#enterprise)
-
 - [Login Authentication](https://github.com/apis-list/apis-list#login-authentication)
+
+
+
 
 
 

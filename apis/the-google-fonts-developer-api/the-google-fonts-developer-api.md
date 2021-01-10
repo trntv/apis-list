@@ -8,8 +8,8 @@ High-quality fonts to use on your web site
 
 
 **Categories**:
-
 - [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
+
 
 
 

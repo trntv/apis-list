@@ -8,8 +8,8 @@ Live cricket scores
 
 
 **Categories**:
-
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
+
 
 
 

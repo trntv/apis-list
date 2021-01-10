@@ -8,8 +8,8 @@ Jikan is an unofficial MyAnimeList REST based API. Jikan is an unofficial MyAnim
 
 
 **Categories**:
-
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+
 
 
 

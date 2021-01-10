@@ -8,8 +8,8 @@ Unleash the power of Machine Learning by using the Powerful and Easy-to-Use API 
 
 
 **Categories**:
-
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+
 
 
 

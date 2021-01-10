@@ -8,8 +8,8 @@ Data feed of the governmental severe weather warnings The Foreca WarningFeed int
 
 
 **Categories**:
-
 - [Other](https://github.com/apis-list/apis-list#other)
+
 
 
 

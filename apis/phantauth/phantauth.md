@@ -8,14 +8,14 @@ Random User Generator + OpenID Connect Provider.  Like Lorem Ipsum, but for user
 
 
 **Categories**:
-
 - [Other](https://github.com/apis-list/apis-list#other)
-
 - [Authentication](https://github.com/apis-list/apis-list#authentication)
-
 - [Authorization](https://github.com/apis-list/apis-list#authorization)
-
 - [Testing](https://github.com/apis-list/apis-list#testing)
+
+
+
+
 
 
 

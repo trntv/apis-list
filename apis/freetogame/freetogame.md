@@ -6,8 +6,8 @@ Free-to-play games database API.  Free-To-Play Games Database API Create using t
 
 
 **Categories**:
-
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+
 
 
 

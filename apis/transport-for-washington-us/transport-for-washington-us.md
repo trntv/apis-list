@@ -6,8 +6,8 @@ GTFS Changes and GTFS-RT Debut Metro has officially launched GTFS-RT! Developers
 
 
 **Categories**:
-
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
+
 
 
 

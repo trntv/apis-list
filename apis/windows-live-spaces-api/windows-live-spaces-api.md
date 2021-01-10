@@ -8,8 +8,8 @@ Included a blogging system, photo gallery, lists, friends, a guestbook, and a so
 
 
 **Categories**:
-
 - [Blogging](https://github.com/apis-list/apis-list#blogging)
+
 
 
 

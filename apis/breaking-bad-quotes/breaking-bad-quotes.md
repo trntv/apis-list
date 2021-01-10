@@ -8,10 +8,10 @@ A free API to retrieve some quotes of Breaking Bad, bitch!.  A free API to retri
 
 
 **Categories**:
-
 - [Other](https://github.com/apis-list/apis-list#other)
-
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
+
+
 
 
 

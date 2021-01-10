@@ -6,10 +6,10 @@ The Formstack API allows users and 3rd-party applications to access Formstack re
 
 
 **Categories**:
-
 - [Forms](https://github.com/apis-list/apis-list#forms)
-
 - [Business](https://github.com/apis-list/apis-list#business)
+
+
 
 
 

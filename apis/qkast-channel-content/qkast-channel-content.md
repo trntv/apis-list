@@ -8,8 +8,8 @@ qKast API documentation and examples.  Contribute to egfx/qKast development by c
 
 
 **Categories**:
-
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
+
 
 
 

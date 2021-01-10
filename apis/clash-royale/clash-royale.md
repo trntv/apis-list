@@ -8,10 +8,10 @@ API that provides informations about Clash Royale game
 
 
 **Categories**:
-
 - [Games & Comics](https://github.com/apis-list/apis-list#games-and-comics)
-
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+
+
 
 
 

@@ -6,10 +6,10 @@ citybik. es/v2/networks { "networks":. CityBikes API Documentation Welcome to th
 
 
 **Categories**:
-
 - [Sport](https://github.com/apis-list/apis-list#sport)
-
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
+
+
 
 
 

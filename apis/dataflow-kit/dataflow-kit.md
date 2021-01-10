@@ -8,8 +8,8 @@ Web Scraper API to extract information from web sites, scrape SERPs, convert web
 
 
 **Categories**:
-
 - [Other](https://github.com/apis-list/apis-list#other)
+
 
 
 

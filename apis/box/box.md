@@ -12,18 +12,16 @@ the Box Developer Console
 
 
 **Categories**:
-
 - [Enterprise](https://github.com/apis-list/apis-list#enterprise)
-
 - [Security](https://github.com/apis-list/apis-list#security)
-
 - [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
-
 - [Content](https://github.com/apis-list/apis-list#content)
-
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
-
 - [Content Management](https://github.com/apis-list/apis-list#content-management)
+
+
+
+t)
 
 
 

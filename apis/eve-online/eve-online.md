@@ -8,10 +8,10 @@ An OpenAPI for EVE Online
 
 
 **Categories**:
-
 - [Games & Comics](https://github.com/apis-list/apis-list#games-and-comics)
-
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+
+
 
 
 

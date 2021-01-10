@@ -8,8 +8,8 @@ Search changelogs from open source projects, or use the REST API for a parsed JS
 
 
 **Categories**:
-
 - [Development](https://github.com/apis-list/apis-list#development)
+
 
 
 

@@ -8,10 +8,10 @@ The MTG API allows developers to easily consume MTG card and set data in JSON fo
 
 
 **Categories**:
-
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-
 - [Games & Comics](https://github.com/apis-list/apis-list#games-and-comics)
+
+
 
 
 

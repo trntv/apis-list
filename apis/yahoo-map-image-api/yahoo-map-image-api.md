@@ -8,10 +8,10 @@ Measure, monetize, advertise and improve your apps with Yahoo tools. Join the 20
 
 
 **Categories**:
-
 - [Mapping](https://github.com/apis-list/apis-list#mapping)
-
 - [Images](https://github.com/apis-list/apis-list#images)
+
+
 
 
 

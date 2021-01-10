@@ -8,8 +8,8 @@ Get abbreviations and meanings
 
 
 **Categories**:
-
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
+
 
 
 

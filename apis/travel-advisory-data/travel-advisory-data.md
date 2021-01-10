@@ -6,8 +6,8 @@ This is a simple REST API that replies with an UTF8 encoded JSON Object. This AP
 
 
 **Categories**:
-
 - [Travel](https://github.com/apis-list/apis-list#travel)
+
 
 
 

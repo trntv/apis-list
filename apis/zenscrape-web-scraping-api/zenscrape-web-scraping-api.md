@@ -9,8 +9,8 @@ Our scraping API handles all problems that are related to web scraping. Website 
 
 
 **Categories**:
-
 - [Other](https://github.com/apis-list/apis-list#other)
+
 
 
 

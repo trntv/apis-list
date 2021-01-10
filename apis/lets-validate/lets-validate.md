@@ -8,14 +8,14 @@ Uncovers the technologies used on websites and URL to thumbnail.  API that uncov
 
 
 **Categories**:
-
 - [Screenshots](https://github.com/apis-list/apis-list#screenshots)
-
 - [Images](https://github.com/apis-list/apis-list#images)
-
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
-
 - [Development](https://github.com/apis-list/apis-list#development)
+
+
+
+
 
 
 

@@ -8,8 +8,8 @@ Uses a simple HTTP endpoint.  Address Autocomplete | Use our Autocomplete API to
 
 
 **Categories**:
-
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
+
 
 
 

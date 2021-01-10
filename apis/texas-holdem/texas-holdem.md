@@ -8,10 +8,10 @@ With this API you can easily create a full Texas Holdem game, just create the gr
 
 
 **Categories**:
-
 - [Games & Comics](https://github.com/apis-list/apis-list#games-and-comics)
-
 - [Gambling](https://github.com/apis-list/apis-list#gambling)
+
+
 
 
 

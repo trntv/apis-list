@@ -8,8 +8,8 @@ Your daily lectionary readings…. Your daily lectionary readings…
 
 
 **Categories**:
-
 - [Calendar](https://github.com/apis-list/apis-list#calendar)
+
 
 
 

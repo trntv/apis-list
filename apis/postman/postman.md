@@ -6,8 +6,8 @@ Browser not supported Try using a different browser or the desktop app. View a l
 
 
 **Categories**:
-
 - [Development](https://github.com/apis-list/apis-list#development)
+
 
 
 

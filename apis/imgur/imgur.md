@@ -8,10 +8,10 @@ Imgur: The magic of the Internet. Imgur's API exposes the entire Imgur infrastru
 
 
 **Categories**:
-
 - [Photography](https://github.com/apis-list/apis-list#photography)
-
 - [Social](https://github.com/apis-list/apis-list#social)
+
+
 
 
 

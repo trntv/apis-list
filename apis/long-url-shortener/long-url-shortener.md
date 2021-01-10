@@ -6,8 +6,8 @@ com Home API Privacy Terms Report Contact Paste a link to shorten it. Or use API
 
 
 **Categories**:
-
 - [URL Shortening](https://github.com/apis-list/apis-list#url-shortening)
+
 
 
 

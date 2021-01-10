@@ -8,12 +8,12 @@ Similar to other blogging platforms.  Posting could be done by logging into the 
 
 
 **Categories**:
-
 - [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
-
 - [Photography](https://github.com/apis-list/apis-list#photography)
-
 - [Social](https://github.com/apis-list/apis-list#social)
+
+
+
 
 
 

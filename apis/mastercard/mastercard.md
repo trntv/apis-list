@@ -8,8 +8,8 @@ Mastercard official API
 
 
 **Categories**:
-
 - [Payments](https://github.com/apis-list/apis-list#payments)
+
 
 
 

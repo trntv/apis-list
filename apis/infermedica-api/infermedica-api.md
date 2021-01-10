@@ -8,30 +8,22 @@ The most advanced Symptom Checker and Patient Triage API. Infermedica provides a
 
 
 **Categories**:
-
 - [Medical](https://github.com/apis-list/apis-list#medical)
-
 - [Medicine](https://github.com/apis-list/apis-list#medicine)
-
 - [Health](https://github.com/apis-list/apis-list#health)
-
 - [Healthcare](https://github.com/apis-list/apis-list#healthcare)
-
 - [Medical Records](https://github.com/apis-list/apis-list#medical-records)
-
 - [Machine Learning](https://github.com/apis-list/apis-list#machine-learning)
-
 - [COVID-19](https://github.com/apis-list/apis-list#covid-19)
-
 - [Coronavirus](https://github.com/apis-list/apis-list#coronavirus)
-
 - [Big Data](https://github.com/apis-list/apis-list#big-data)
-
 - [Voice Assistants](https://github.com/apis-list/apis-list#voice-assistants)
-
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
-
 - [Bots](https://github.com/apis-list/apis-list#bots)
+
+
+
+st#bots)
 
 
 

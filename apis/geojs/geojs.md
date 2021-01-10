@@ -8,8 +8,8 @@ REST/JSON/JSONP GeoIP API.  REST/JSON/JSONP GeoIP API
 
 
 **Categories**:
-
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
 
 
 

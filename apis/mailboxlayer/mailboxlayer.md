@@ -8,12 +8,12 @@ Simple and powerful email verification JSON API using SMTP, typo checks, syntax 
 
 
 **Categories**:
-
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
-
 - [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
-
 - [Security](https://github.com/apis-list/apis-list#security)
+
+
+
 
 
 

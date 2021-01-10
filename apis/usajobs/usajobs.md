@@ -8,10 +8,10 @@ USAJOBS API Terms of Service As a USAJOBS API Consumer, you agree to the followi
 
 
 **Categories**:
-
 - [Jobs](https://github.com/apis-list/apis-list#jobs)
-
 - [Government](https://github.com/apis-list/apis-list#government)
+
+
 
 
 

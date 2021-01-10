@@ -8,16 +8,15 @@ com is the most popular place to securely buy, store, and trade Bitcoin, Ethereu
 
 
 **Categories**:
-
 - [Currency](https://github.com/apis-list/apis-list#currency)
-
 - [European](https://github.com/apis-list/apis-list#european)
-
 - [Financial](https://github.com/apis-list/apis-list#financial)
-
 - [Bitcoin/Bitcoin Wallets](https://github.com/apis-list/apis-list#bitcoin-bitcoin-wallets)
-
 - [Government](https://github.com/apis-list/apis-list#government)
+
+
+
+)
 
 
 

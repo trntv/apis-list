@@ -8,10 +8,10 @@ A simple way to share and discover interesting events from your friends, followe
 
 
 **Categories**:
-
 - [Calendars](https://github.com/apis-list/apis-list#calendars)
-
 - [Events](https://github.com/apis-list/apis-list#events)
+
+
 
 
 

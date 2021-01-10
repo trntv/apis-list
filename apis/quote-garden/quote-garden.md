@@ -6,8 +6,8 @@ A RESTful API for quotes.  The database currently includes more than 75000 quote
 
 
 **Categories**:
-
 - [Health](https://github.com/apis-list/apis-list#health)
+
 
 
 

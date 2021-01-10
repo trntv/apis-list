@@ -8,8 +8,8 @@ Location Search Web Service (RESTful API) enable you to find nearest city inform
 
 
 **Categories**:
-
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
 
 
 

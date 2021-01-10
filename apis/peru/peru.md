@@ -8,8 +8,8 @@ Central bank of Peru
 
 
 **Categories**:
-
 - [Government](https://github.com/apis-list/apis-list#government)
+
 
 
 

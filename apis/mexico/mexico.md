@@ -8,8 +8,8 @@ Contribute to IcaliaLabs/sepomex development by creating an account on GitHub. A
 
 
 **Categories**:
-
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
 
 
 

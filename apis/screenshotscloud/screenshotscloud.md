@@ -8,14 +8,14 @@ With our website screenshot API you can automate high quality real browser scree
 
 
 **Categories**:
-
 - [Screenshots](https://github.com/apis-list/apis-list#screenshots)
-
 - [Browsers](https://github.com/apis-list/apis-list#browsers)
-
 - [Domains](https://github.com/apis-list/apis-list#domains)
-
 - [Photography](https://github.com/apis-list/apis-list#photography)
+
+
+
+
 
 
 

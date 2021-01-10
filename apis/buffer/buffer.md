@@ -8,10 +8,10 @@ Buffer makes it super easy to share any page you're reading. Buffer makes it sup
 
 
 **Categories**:
-
 - [Scheduling](https://github.com/apis-list/apis-list#scheduling)
-
 - [Social](https://github.com/apis-list/apis-list#social)
+
+
 
 
 

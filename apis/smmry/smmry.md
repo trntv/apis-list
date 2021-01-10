@@ -8,12 +8,12 @@ Summarize articles, text, websites, essays and documents for free with SMMRY. Su
 
 
 **Categories**:
-
 - [Text](https://github.com/apis-list/apis-list#text)
-
 - [Tools](https://github.com/apis-list/apis-list#tools)
-
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
+
+
+
 
 
 

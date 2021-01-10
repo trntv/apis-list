@@ -8,8 +8,8 @@ Apiary provides the leading API-First platform designed specifically to help com
 
 
 **Categories**:
-
 - [Development](https://github.com/apis-list/apis-list#development)
+
 
 
 

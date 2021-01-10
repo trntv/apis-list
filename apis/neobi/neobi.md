@@ -6,8 +6,8 @@ A comprehensive Cannabis database includes products, prices, stock and inventory
 
 
 **Categories**:
-
 - [Other](https://github.com/apis-list/apis-list#other)
+
 
 
 

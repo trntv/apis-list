@@ -6,8 +6,8 @@ We also provide top headlines from which you can filter by topic such as world, 
 
 
 **Categories**:
-
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
+
 
 
 

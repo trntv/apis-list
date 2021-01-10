@@ -6,8 +6,8 @@ The use of this API is strictly under the Terms of Use of the IUCN Red List of T
 
 
 **Categories**:
-
 - [Animals](https://github.com/apis-list/apis-list#animals)
+
 
 
 

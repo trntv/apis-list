@@ -8,8 +8,8 @@ Here’s a categorized list of all the Music APIs. Notice one that is missing or
 
 
 **Categories**:
-
 - [Credits](https://github.com/apis-list/apis-list#credits)
+
 
 
 

@@ -6,10 +6,10 @@ Additionally, a 404 Not Found error was encountered while trying to use an Error
 
 
 **Categories**:
-
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
-
 - [Cryptocurrency](https://github.com/apis-list/apis-list#cryptocurrency)
+
+
 
 
 

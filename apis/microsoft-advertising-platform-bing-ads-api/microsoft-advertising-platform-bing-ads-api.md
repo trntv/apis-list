@@ -8,8 +8,8 @@ Official developer documentation for Microsoft Advertising. Provides programmati
 
 
 **Categories**:
-
 - [Marketing](https://github.com/apis-list/apis-list#marketing)
+
 
 
 

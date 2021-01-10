@@ -6,8 +6,8 @@ Accurate & reliable Exchange Rates API trusted by tens of thousands of developer
 
 
 **Categories**:
-
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
+
 
 
 

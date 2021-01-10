@@ -8,8 +8,8 @@ Transitland's centralized web service API for both querying and editing aggregat
 
 
 **Categories**:
-
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
+
 
 
 

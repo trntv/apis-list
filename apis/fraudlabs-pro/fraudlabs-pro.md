@@ -8,8 +8,8 @@ FraudLabs Pro Rest API to screen the order transaction for online fraud.  FraudL
 
 
 **Categories**:
-
 - [Security](https://github.com/apis-list/apis-list#security)
+
 
 
 

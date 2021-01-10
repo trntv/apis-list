@@ -8,8 +8,8 @@ Cloud Speech Recognition API. Transform speech to text with high accuracy in mul
 
 
 **Categories**:
-
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+
 
 
 

@@ -6,10 +6,10 @@ This may happen as a result of the following: Javascript is disabled or blocked 
 
 
 **Categories**:
-
 - [Open Source](https://github.com/apis-list/apis-list#open-source)
-
 - [Development](https://github.com/apis-list/apis-list#development)
+
+
 
 
 

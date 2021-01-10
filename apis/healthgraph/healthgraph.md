@@ -8,8 +8,8 @@ RunKeeper's web-based HealthGraph API presents Health Graph data, and provides i
 
 
 **Categories**:
-
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
+
 
 
 

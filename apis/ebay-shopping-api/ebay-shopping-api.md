@@ -6,8 +6,8 @@ If you're interested in . Offers access to public read-only data such as searchi
 
 
 **Categories**:
-
 - [Commerce & Marketplaces](https://github.com/apis-list/apis-list#commerce-and-marketplaces)
+
 
 
 

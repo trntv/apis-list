@@ -8,8 +8,8 @@ The missing minimalistic JSON real-time UV Index API for awesome Developers, Inn
 
 
 **Categories**:
-
 - [Weather](https://github.com/apis-list/apis-list#weather)
+
 
 
 

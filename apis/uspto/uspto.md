@@ -6,10 +6,10 @@ Open data and mobility "Open data" is publicly available data that is structured
 
 
 **Categories**:
-
 - [Patent](https://github.com/apis-list/apis-list#patent)
-
 - [Government](https://github.com/apis-list/apis-list#government)
+
+
 
 
 

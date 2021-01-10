@@ -8,8 +8,8 @@ API of The Report Of The Week Reviews.  Contribute to andyklimczak/TheReportOfTh
 
 
 **Categories**:
-
 - [Food & Drinks](https://github.com/apis-list/apis-list#food-and-drinks)
+
 
 
 

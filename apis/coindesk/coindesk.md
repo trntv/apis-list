@@ -8,16 +8,15 @@ Bitcoin Price Index. CoinDesk provides a simple and free API to make its Bitcoin
 
 
 **Categories**:
-
 - [Currency](https://github.com/apis-list/apis-list#currency)
-
 - [Bitcoin/Bitcoin Wallets](https://github.com/apis-list/apis-list#bitcoin-bitcoin-wallets)
-
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
-
 - [Cryptocurrency](https://github.com/apis-list/apis-list#cryptocurrency)
-
 - [Financial](https://github.com/apis-list/apis-list#financial)
+
+
+
+)
 
 
 

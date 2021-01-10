@@ -8,10 +8,10 @@ A simple tool to generate names for use in designs and mockups.  - thm/uinames. 
 
 
 **Categories**:
-
 - [Testing](https://github.com/apis-list/apis-list#testing)
-
 - [Random](https://github.com/apis-list/apis-list#random)
+
+
 
 
 

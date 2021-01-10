@@ -6,8 +6,8 @@ The Licenses API returns metadata about popular open source licenses and informa
 
 
 **Categories**:
-
 - [Open Licenses](https://github.com/apis-list/apis-list#open-licenses)
+
 
 
 

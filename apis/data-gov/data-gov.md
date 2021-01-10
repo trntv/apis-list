@@ -6,8 +6,8 @@ Our aim is to make it easier for. Signup for a single API key and use it across 
 
 
 **Categories**:
-
 - [Government](https://github.com/apis-list/apis-list#government)
+
 
 
 

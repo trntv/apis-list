@@ -8,8 +8,8 @@ Documentation, code and integration guides for the currencylayer JSON API - reli
 
 
 **Categories**:
-
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
+
 
 
 

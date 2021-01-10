@@ -8,8 +8,8 @@ com. Contribute to cmccandless/license-api development by creating an account on
 
 
 **Categories**:
-
 - [Development](https://github.com/apis-list/apis-list#development)
+
 
 
 

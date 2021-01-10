@@ -8,8 +8,8 @@ This page helps you quickly create your first source, dataset, model, and predic
 
 
 **Categories**:
-
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+
 
 
 

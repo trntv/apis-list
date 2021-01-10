@@ -8,8 +8,8 @@ Providing a places search that can be searched by latitude/longitude, keyword ma
 
 
 **Categories**:
-
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
 
 
 

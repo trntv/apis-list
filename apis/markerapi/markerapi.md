@@ -8,8 +8,8 @@ Trademark search API to search the US trademarks database (USPTO) based on a sea
 
 
 **Categories**:
-
 - [Business](https://github.com/apis-list/apis-list#business)
+
 
 
 

@@ -8,8 +8,8 @@ API for HTTP Cats.  API for HTTP Cats
 
 
 **Categories**:
-
 - [Animals](https://github.com/apis-list/apis-list#animals)
+
 
 
 

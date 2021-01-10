@@ -8,16 +8,15 @@ The Open Charge Map API Use of the OCM API is subject to terms and conditions. B
 
 
 **Categories**:
-
 - [Environment](https://github.com/apis-list/apis-list#environment)
-
 - [Sustainability](https://github.com/apis-list/apis-list#sustainability)
-
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
-
 - [Mapping](https://github.com/apis-list/apis-list#mapping)
-
 - [Vehicle](https://github.com/apis-list/apis-list#vehicle)
+
+
+
+)
 
 
 

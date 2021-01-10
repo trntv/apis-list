@@ -6,8 +6,8 @@ Scraper. AI is a no-code data extraction tool that allows you to extract data fr
 
 
 **Categories**:
-
 - [Development](https://github.com/apis-list/apis-list#development)
+
 
 
 

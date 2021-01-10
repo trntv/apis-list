@@ -8,8 +8,8 @@ These factors include permissions, inclusion of vulnerable third party javascrip
 
 
 **Categories**:
-
 - [Security](https://github.com/apis-list/apis-list#security)
+
 
 
 

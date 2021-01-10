@@ -6,10 +6,10 @@ Recipe Puppy API Recipe Puppy has a very simple API.  This api lets you search t
 
 
 **Categories**:
-
 - [Food](https://github.com/apis-list/apis-list#food)
-
 - [Food & Drinks](https://github.com/apis-list/apis-list#food-and-drinks)
+
+
 
 
 

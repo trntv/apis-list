@@ -8,14 +8,14 @@ Node. Node. js server for providing Ron Swanson quotes. Contribute to jamesseanw
 
 
 **Categories**:
-
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
-
 - [Celebrities](https://github.com/apis-list/apis-list#celebrities)
-
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-
 - [Humor](https://github.com/apis-list/apis-list#humor)
+
+
+
+
 
 
 

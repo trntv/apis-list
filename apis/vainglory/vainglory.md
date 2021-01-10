@@ -8,8 +8,8 @@ Vainglory Players, Matches and Telemetry
 
 
 **Categories**:
-
 - [Games & Comics](https://github.com/apis-list/apis-list#games-and-comics)
+
 
 
 

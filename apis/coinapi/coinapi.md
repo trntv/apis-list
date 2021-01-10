@@ -7,10 +7,10 @@ and unified data APIs to cryptocurrency markets. All cryptocurrency exchanges in
 
 
 **Categories**:
-
 - [Cryptocurrency](https://github.com/apis-list/apis-list#cryptocurrency)
-
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
+
+
 
 
 

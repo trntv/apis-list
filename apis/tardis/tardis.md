@@ -8,10 +8,10 @@ dev is the the most comprehensive digital assets data platform, providing access
 
 
 **Categories**:
-
 - [Cryptocurrency](https://github.com/apis-list/apis-list#cryptocurrency)
-
 - [Financial](https://github.com/apis-list/apis-list#financial)
+
+
 
 
 

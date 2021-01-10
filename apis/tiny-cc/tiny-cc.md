@@ -6,8 +6,8 @@ Easy-to-use URL shortener.  Supports custom short link ending.  API documentatio
 
 
 **Categories**:
-
 - [URL Shortening](https://github.com/apis-list/apis-list#url-shortening)
+
 
 
 

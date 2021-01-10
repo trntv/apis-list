@@ -6,8 +6,8 @@ API MetaWeather provides an API that delivers JSON over HTTPS for access to our 
 
 
 **Categories**:
-
 - [Weather](https://github.com/apis-list/apis-list#weather)
+
 
 
 

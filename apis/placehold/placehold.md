@@ -8,8 +8,8 @@ Contents1 What Is Placeholder. com?2 How To Use Our Placeholders3 How To Set Ima
 
 
 **Categories**:
-
 - [Development](https://github.com/apis-list/apis-list#development)
+
 
 
 

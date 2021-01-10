@@ -6,8 +6,8 @@ js and Java.  Quickly use official Hytale API in your projects. . Quickly use of
 
 
 **Categories**:
-
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+
 
 
 

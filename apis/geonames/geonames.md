@@ -8,18 +8,16 @@ Important: Do not use the 'demo' account for your app or your tests. It is only 
 
 
 **Categories**:
-
 - [Postal](https://github.com/apis-list/apis-list#postal)
-
 - [Weather](https://github.com/apis-list/apis-list#weather)
-
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
-
 - [Reference](https://github.com/apis-list/apis-list#reference)
-
 - [Databases](https://github.com/apis-list/apis-list#databases)
-
 - [Mapping](https://github.com/apis-list/apis-list#mapping)
+
+
+
+g)
 
 
 

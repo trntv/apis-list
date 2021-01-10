@@ -6,8 +6,8 @@ Testing the TravelTime API is free. Transform location site search.  Search and 
 
 
 **Categories**:
-
 - [Mapping](https://github.com/apis-list/apis-list#mapping)
+
 
 
 

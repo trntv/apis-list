@@ -6,16 +6,15 @@ Enables your customers to sign in to your web site quickly and securely using th
 
 
 **Categories**:
-
 - [Commerce & Marketplaces](https://github.com/apis-list/apis-list#commerce-and-marketplaces)
-
 - [Financial](https://github.com/apis-list/apis-list#financial)
-
 - [Invoicing](https://github.com/apis-list/apis-list#invoicing)
-
 - [Login Authentication](https://github.com/apis-list/apis-list#login-authentication)
-
 - [Payments](https://github.com/apis-list/apis-list#payments)
+
+
+
+)
 
 
 

@@ -8,8 +8,8 @@ Les données des acteurs du territoire de la Métropole de Lyon
 
 
 **Categories**:
-
 - [Government](https://github.com/apis-list/apis-list#government)
+
 
 
 

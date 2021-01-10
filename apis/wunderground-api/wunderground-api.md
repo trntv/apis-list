@@ -6,8 +6,8 @@ Log in | Join. Reliable data, accurate forecast, & global coverage in 80 languag
 
 
 **Categories**:
-
 - [Weather](https://github.com/apis-list/apis-list#weather)
+
 
 
 

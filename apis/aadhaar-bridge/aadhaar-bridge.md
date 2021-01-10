@@ -6,12 +6,12 @@ Aadhaar is a 12-digit unique identification number issued by the Indian governme
 
 
 **Categories**:
-
 - [Countries](https://github.com/apis-list/apis-list#countries)
-
 - [India](https://github.com/apis-list/apis-list#india)
-
 - [Government](https://github.com/apis-list/apis-list#government)
+
+
+
 
 
 

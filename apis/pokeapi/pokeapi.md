@@ -8,10 +8,10 @@ This is a full RESTful API linked to an extensive database detailing everything 
 
 
 **Categories**:
-
 - [Games & Comics](https://github.com/apis-list/apis-list#games-and-comics)
-
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+
+
 
 
 

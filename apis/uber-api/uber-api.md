@@ -8,8 +8,8 @@ API to request Uber rides.  Discover how the Uber API can easily enhance your ap
 
 
 **Categories**:
-
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
+
 
 
 

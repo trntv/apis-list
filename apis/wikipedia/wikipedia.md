@@ -8,14 +8,14 @@ Documentation and examples: https://www. mediawiki. org/wiki/Special:MyLanguage/
 
 
 **Categories**:
-
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
-
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
-
 - [Reference](https://github.com/apis-list/apis-list#reference)
-
 - [Wiki](https://github.com/apis-list/apis-list#wiki)
+
+
+
+
 
 
 

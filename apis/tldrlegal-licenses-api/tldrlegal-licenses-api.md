@@ -6,8 +6,8 @@
 
 
 **Categories**:
-
 - [Open Licenses](https://github.com/apis-list/apis-list#open-licenses)
+
 
 
 

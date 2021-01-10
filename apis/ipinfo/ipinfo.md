@@ -6,8 +6,8 @@ If you'd. .  Developers Guide The quickest and easiest way to get started with I
 
 
 **Categories**:
-
 - [Development](https://github.com/apis-list/apis-list#development)
+
 
 
 

@@ -8,8 +8,8 @@ Access to Mercurial’s API.  Note: This page is primarily intended for develope
 
 
 **Categories**:
-
 - [Development](https://github.com/apis-list/apis-list#development)
+
 
 
 

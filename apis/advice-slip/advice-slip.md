@@ -8,14 +8,14 @@ Parameters callback string To define your own callback function name and return 
 
 
 **Categories**:
-
 - [Personality](https://github.com/apis-list/apis-list#personality)
-
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-
 - [Humor](https://github.com/apis-list/apis-list#humor)
-
 - [Health](https://github.com/apis-list/apis-list#health)
+
+
+
+
 
 
 

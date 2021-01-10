@@ -6,10 +6,10 @@ Tradier's technology platform - an innovative set of fully hosted APIs, modules 
 
 
 **Categories**:
-
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
-
 - [Financial](https://github.com/apis-list/apis-list#financial)
+
+
 
 
 

@@ -8,8 +8,8 @@ The OpenAPI Specification: a broadly adopted industry standard for describing mo
 
 
 **Categories**:
-
 - [Development](https://github.com/apis-list/apis-list#development)
+
 
 
 

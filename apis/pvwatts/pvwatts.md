@@ -6,8 +6,8 @@ system_capacit. format Yes Type: string Default: None Options: json, xml The out
 
 
 **Categories**:
-
 - [Environment](https://github.com/apis-list/apis-list#environment)
+
 
 
 

@@ -8,8 +8,8 @@ An easy-to-use forward and reverse geocoding API. Worldwide coverage. Affordable
 
 
 **Categories**:
-
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
 
 
 

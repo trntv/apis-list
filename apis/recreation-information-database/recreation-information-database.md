@@ -6,8 +6,8 @@ Recreation. gov is your source for discovering and experiencing America's federa
 
 
 **Categories**:
-
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
+
 
 
 

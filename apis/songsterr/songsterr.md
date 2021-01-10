@@ -8,8 +8,8 @@ One accurate tab per song. Huge selection of 500,000 tabs. No abusive ads.  Guit
 
 
 **Categories**:
-
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
+
 
 
 

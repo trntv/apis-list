@@ -8,8 +8,8 @@ National Plan & Provider Enumeration System, info on healthcare providers regist
 
 
 **Categories**:
-
 - [Health](https://github.com/apis-list/apis-list#health)
+
 
 
 

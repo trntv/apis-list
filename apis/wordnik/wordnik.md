@@ -8,12 +8,12 @@ The Wordnik API Docs. Dictionary functions
 
 
 **Categories**:
-
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
-
 - [Spelling](https://github.com/apis-list/apis-list#spelling)
-
 - [Reference](https://github.com/apis-list/apis-list#reference)
+
+
+
 
 
 

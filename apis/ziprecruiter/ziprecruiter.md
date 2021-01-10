@@ -8,8 +8,8 @@ Learn why 1,000s of PARTNERS, PUBLISHERS, and AFFILIATES use our jobs API, email
 
 
 **Categories**:
-
 - [Jobs](https://github.com/apis-list/apis-list#jobs)
+
 
 
 

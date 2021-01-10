@@ -18,7 +18,7 @@
 {{- end }}
 
 **Categories**:
-{{ range .api.Categories }}
+{{ range .api.Categories -}}
 - [{{ . }}](https://github.com/apis-list/apis-list#{{ . | slug }})
 {{ end }}
 

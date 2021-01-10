@@ -8,14 +8,14 @@ Free and HTTPS secured JSON API offering instant VAT number validation, reliable
 
 
 **Categories**:
-
 - [Commerce & Marketplaces](https://github.com/apis-list/apis-list#commerce-and-marketplaces)
-
 - [Taxes](https://github.com/apis-list/apis-list#taxes)
-
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
-
 - [Financial](https://github.com/apis-list/apis-list#financial)
+
+
+
+
 
 
 

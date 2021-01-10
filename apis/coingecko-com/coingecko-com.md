@@ -8,8 +8,8 @@ Free, comprehensive cryptocurrency API.  Access free crypto API such as real-tim
 
 
 **Categories**:
-
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
+
 
 
 

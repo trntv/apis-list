@@ -8,8 +8,8 @@ Simple & no-nonsense podcast search & directory API. Search the meta data of all
 
 
 **Categories**:
-
 - [Podcasts](https://github.com/apis-list/apis-list#podcasts)
+
 
 
 

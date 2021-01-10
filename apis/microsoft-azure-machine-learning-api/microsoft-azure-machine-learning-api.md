@@ -8,8 +8,8 @@ Azure Cognitive Services brings AI within reach of every developer through a fam
 
 
 **Categories**:
-
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+
 
 
 

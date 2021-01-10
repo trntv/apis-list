@@ -8,10 +8,10 @@ Let’s you search and lookup metadata about artists, tracks and albums.  Spotif
 
 
 **Categories**:
-
 - [Data Mining](https://github.com/apis-list/apis-list#data-mining)
-
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
+
+
 
 
 

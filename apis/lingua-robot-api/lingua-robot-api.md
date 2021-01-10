@@ -8,8 +8,8 @@ English dictionary API providing an access to the data of over 800 000 English l
 
 
 **Categories**:
-
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
+
 
 
 

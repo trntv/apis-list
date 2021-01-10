@@ -8,8 +8,8 @@ Skills API.  Contribute to workforce-data-initiative/skills-api development by c
 
 
 **Categories**:
-
 - [Jobs](https://github.com/apis-list/apis-list#jobs)
+
 
 
 

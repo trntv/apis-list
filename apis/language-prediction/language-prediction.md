@@ -8,8 +8,8 @@ The API returns maximum 3 detected languages and a numeric confidences between 0
 
 
 **Categories**:
-
 - [Natural Language Processing](https://github.com/apis-list/apis-list#natural-language-processing)
+
 
 
 

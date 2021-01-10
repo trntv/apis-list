@@ -8,8 +8,8 @@ API Découpage Administratif - (API Geo) est une des APIs du service public.  In
 
 
 **Categories**:
-
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
 
 
 

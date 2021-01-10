@@ -6,8 +6,8 @@ The FBI Wanted API is designed to help developers easily get information on the 
 
 
 **Categories**:
-
 - [Government](https://github.com/apis-list/apis-list#government)
+
 
 
 

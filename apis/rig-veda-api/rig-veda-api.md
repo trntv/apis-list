@@ -6,8 +6,8 @@ All of the poets and gods in the Rig Veda, presented with the mandal and sukta n
 
 
 **Categories**:
-
 - [Other](https://github.com/apis-list/apis-list#other)
+
 
 
 

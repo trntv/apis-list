@@ -6,8 +6,8 @@ The Bot API allows you to easily create programs that use Telegram messages forâ
 
 
 **Categories**:
-
 - [Social](https://github.com/apis-list/apis-list#social)
+
 
 
 

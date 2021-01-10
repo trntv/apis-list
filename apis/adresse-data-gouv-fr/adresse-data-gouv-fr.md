@@ -6,8 +6,8 @@ Pour que les services d’urgence arrivent au bon endroit, pour vous permettre d
 
 
 **Categories**:
-
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
 
 
 

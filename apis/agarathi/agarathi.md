@@ -8,8 +8,8 @@ Tamil language Dictionary API. Fonts API - Subscription
 
 
 **Categories**:
-
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
+
 
 
 

@@ -9,12 +9,12 @@ Let's cooperate!
 
 
 **Categories**:
-
 - [Financial](https://github.com/apis-list/apis-list#financial)
-
 - [Open Banking Api](https://github.com/apis-list/apis-list#open-banking-api)
-
 - [Payments](https://github.com/apis-list/apis-list#payments)
+
+
+
 
 
 

@@ -8,8 +8,8 @@ Create thousands of QR codes with design and logo automatically. Integrate custo
 
 
 **Categories**:
-
 - [Tools](https://github.com/apis-list/apis-list#tools)
+
 
 
 

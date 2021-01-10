@@ -6,8 +6,8 @@ Free JSON data storage service, ideal for small scale web apps, website, mobile 
 
 
 **Categories**:
-
 - [Other](https://github.com/apis-list/apis-list#other)
+
 
 
 

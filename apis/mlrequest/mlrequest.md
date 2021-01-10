@@ -8,10 +8,10 @@ Models are duplicated across 5 data centers around the world with latency-routed
 
 
 **Categories**:
-
 - [Machine Learning](https://github.com/apis-list/apis-list#machine-learning)
-
 - [Artificial Intelligence](https://github.com/apis-list/apis-list#artificial-intelligence)
+
+
 
 
 

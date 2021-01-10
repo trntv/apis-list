@@ -11,8 +11,8 @@ Get your API Key from - https&#x3A;//TheCatAPI
 
 
 **Categories**:
-
 - [Animals](https://github.com/apis-list/apis-list#animals)
+
 
 
 

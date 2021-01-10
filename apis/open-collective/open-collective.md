@@ -8,8 +8,8 @@ Learn more about it here: https://medium. GraphQL API The future of the Open Col
 
 
 **Categories**:
-
 - [Social](https://github.com/apis-list/apis-list#social)
+
 
 
 

@@ -8,12 +8,12 @@ Get data from Google Spreadsheet in a matter of seconds.  You can copy the HTML 
 
 
 **Categories**:
-
 - [Conversions](https://github.com/apis-list/apis-list#conversions)
-
 - [Databases](https://github.com/apis-list/apis-list#databases)
-
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
+
+
+
 
 
 

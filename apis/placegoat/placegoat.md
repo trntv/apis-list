@@ -6,8 +6,8 @@ PlaceGOAT Tired of all these placeholder services that just cater to superficial
 
 
 **Categories**:
-
 - [Development](https://github.com/apis-list/apis-list#development)
+
 
 
 

@@ -8,8 +8,8 @@ This is an auto-generated MediaWiki API documentation page. Documentation and ex
 
 
 **Categories**:
-
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
+
 
 
 

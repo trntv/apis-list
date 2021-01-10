@@ -6,8 +6,8 @@ A collection of exchange rates
 
 
 **Categories**:
-
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
+
 
 
 

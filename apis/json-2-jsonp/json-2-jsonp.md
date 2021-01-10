@@ -8,8 +8,8 @@ Requests are served as content type 'application/javascript' and cached for 4 ho
 
 
 **Categories**:
-
 - [Development](https://github.com/apis-list/apis-list#development)
+
 
 
 

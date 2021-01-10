@@ -8,8 +8,8 @@ Generous free tier, offering Enterprise-grade APIs for everyone!. Affordable Geo
 
 
 **Categories**:
-
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
 
 
 

@@ -8,8 +8,8 @@ Here you will find everything you need to get started with your integration of o
 
 
 **Categories**:
-
 - [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
+
 
 
 

@@ -8,12 +8,12 @@ he API supports competitions in over 90 countries and over 140 national leagues.
 
 
 **Categories**:
-
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
-
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
-
 - [Sports](https://github.com/apis-list/apis-list#sports)
+
+
+
 
 
 

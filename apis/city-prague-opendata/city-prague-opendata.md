@@ -6,8 +6,8 @@ Vítejte na celoměstském portálu pro otevřená data hlavního města Prahy. 
 
 
 **Categories**:
-
 - [Government](https://github.com/apis-list/apis-list#government)
+
 
 
 

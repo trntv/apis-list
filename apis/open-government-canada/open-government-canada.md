@@ -6,8 +6,8 @@ Collaborative open source project led by the Government of Canada. Collaborative
 
 
 **Categories**:
-
 - [Government](https://github.com/apis-list/apis-list#government)
+
 
 
 

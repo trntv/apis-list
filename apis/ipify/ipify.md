@@ -8,8 +8,8 @@ ipify API is a simple public IP address API, easy enough to integrate into any a
 
 
 **Categories**:
-
 - [Development](https://github.com/apis-list/apis-list#development)
+
 
 
 

@@ -8,8 +8,8 @@ Have I Been Pwned allows you to search across multiple data breaches to see if y
 
 
 **Categories**:
-
 - [Security](https://github.com/apis-list/apis-list#security)
+
 
 
 

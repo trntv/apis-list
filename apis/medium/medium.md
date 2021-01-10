@@ -8,14 +8,14 @@ Documentation for Medium's OAuth2 API. Documentation for Medium's OAuth2 API. Co
 
 
 **Categories**:
-
 - [Writing](https://github.com/apis-list/apis-list#writing)
-
 - [Health](https://github.com/apis-list/apis-list#health)
-
 - [Personality](https://github.com/apis-list/apis-list#personality)
-
 - [Social](https://github.com/apis-list/apis-list#social)
+
+
+
+
 
 
 

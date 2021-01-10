@@ -6,8 +6,8 @@ API Documentation cleanuri. com exposes its data via an Application Programming 
 
 
 **Categories**:
-
 - [URL Shortening](https://github.com/apis-list/apis-list#url-shortening)
+
 
 
 

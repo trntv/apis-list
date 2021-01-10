@@ -8,8 +8,8 @@ Open demographic data such as population tables, population rank and life expect
 
 
 **Categories**:
-
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
+
 
 
 

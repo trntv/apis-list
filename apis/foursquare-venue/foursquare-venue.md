@@ -6,8 +6,8 @@ Providing a places search that can be searched by hierarchical list of categorie
 
 
 **Categories**:
-
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
 
 
 

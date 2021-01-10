@@ -8,8 +8,8 @@ With Calendarific API you can display the dates of public holidays, bank holiday
 
 
 **Categories**:
-
 - [Localization](https://github.com/apis-list/apis-list#localization)
+
 
 
 

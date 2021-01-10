@@ -7,12 +7,12 @@ A JSON/plain-text which returns the (approx) current time for a provided timezon
 
 
 **Categories**:
-
 - [Other](https://github.com/apis-list/apis-list#other)
-
 - [Time](https://github.com/apis-list/apis-list#time)
-
 - [Location](https://github.com/apis-list/apis-list#location)
+
+
+
 
 
 

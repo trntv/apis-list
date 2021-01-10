@@ -8,14 +8,14 @@ This simple RESTful interface is powerful, convenient, and great for writing mob
 
 
 **Categories**:
-
 - [Customer Relationship Management](https://github.com/apis-list/apis-list#customer-relationship-management)
-
 - [Office](https://github.com/apis-list/apis-list#office)
-
 - [Login Authentication](https://github.com/apis-list/apis-list#login-authentication)
-
 - [Enterprise](https://github.com/apis-list/apis-list#enterprise)
+
+
+
+
 
 
 

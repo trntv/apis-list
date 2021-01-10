@@ -6,8 +6,8 @@ Open Source News Fetcher.  2021 Copyright. All Rights Reserved. The Sponsored Li
 
 
 **Categories**:
-
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
+
 
 
 

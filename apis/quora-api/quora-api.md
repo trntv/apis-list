@@ -6,10 +6,10 @@ Connect the people who have knowledge to the people who need it, to bring togeth
 
 
 **Categories**:
-
 - [Q&A](https://github.com/apis-list/apis-list#qanda)
-
 - [Classification](https://github.com/apis-list/apis-list#classification)
+
+
 
 
 

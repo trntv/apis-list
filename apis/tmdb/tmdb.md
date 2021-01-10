@@ -8,12 +8,12 @@ TMDb provides powerful searches as well as powerful movie discovery.  The Movie 
 
 
 **Categories**:
-
 - [Search](https://github.com/apis-list/apis-list#search)
-
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
+
+
+
 
 
 

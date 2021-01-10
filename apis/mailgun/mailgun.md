@@ -6,8 +6,8 @@ Learn more today!. Transactional Email API Service For Developers. Free first 10
 
 
 **Categories**:
-
 - [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
+
 
 
 

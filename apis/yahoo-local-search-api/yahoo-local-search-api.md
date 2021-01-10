@@ -8,12 +8,12 @@ Join the 200,000 developers using Yahoo tools to build their app businesses. Loc
 
 
 **Categories**:
-
 - [Mapping](https://github.com/apis-list/apis-list#mapping)
-
 - [Search](https://github.com/apis-list/apis-list#search)
-
 - [Localization](https://github.com/apis-list/apis-list#localization)
+
+
+
 
 
 

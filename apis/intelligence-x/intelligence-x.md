@@ -8,8 +8,8 @@ Public SDK for Intelligence X. Contribute to IntelligenceX/SDK development by cr
 
 
 **Categories**:
-
 - [Security](https://github.com/apis-list/apis-list#security)
+
 
 
 

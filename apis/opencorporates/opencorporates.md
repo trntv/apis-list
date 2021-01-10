@@ -6,14 +6,14 @@ Introduction This documentation covers the main API (the so-called REST API).  T
 
 
 **Categories**:
-
 - [Enterprise](https://github.com/apis-list/apis-list#enterprise)
-
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
-
 - [Reference](https://github.com/apis-list/apis-list#reference)
-
 - [Financial](https://github.com/apis-list/apis-list#financial)
+
+
+
+
 
 
 

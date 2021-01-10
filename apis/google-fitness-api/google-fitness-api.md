@@ -8,8 +8,8 @@ Google Fit is an open ecosystem that makes it easy to store, access, and manage 
 
 
 **Categories**:
-
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
+
 
 
 

@@ -8,8 +8,8 @@ Used by Google products to create short URLs that can be easily shared, tweeted,
 
 
 **Categories**:
-
 - [URL Shortening](https://github.com/apis-list/apis-list#url-shortening)
+
 
 
 

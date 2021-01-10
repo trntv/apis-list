@@ -6,14 +6,14 @@ Add intelligence to your energy products. Automated Forecasting API for timeseri
 
 
 **Categories**:
-
 - [Energy](https://github.com/apis-list/apis-list#energy)
-
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
-
 - [Machine Learning](https://github.com/apis-list/apis-list#machine-learning)
-
 - [Intelligence](https://github.com/apis-list/apis-list#intelligence)
+
+
+
+
 
 
 

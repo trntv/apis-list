@@ -8,8 +8,8 @@ Description of download interface to build calls to the Movebank database using 
 
 
 **Categories**:
-
 - [Animals](https://github.com/apis-list/apis-list#animals)
+
 
 
 

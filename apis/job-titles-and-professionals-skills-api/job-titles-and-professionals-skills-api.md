@@ -8,14 +8,14 @@ Like job and skill match etc.  The API is growing every day thanks to the mycru.
 
 
 **Categories**:
-
 - [Human Ressource](https://github.com/apis-list/apis-list#human-ressource)
-
 - [Job Titles](https://github.com/apis-list/apis-list#job-titles)
-
 - [Jobs](https://github.com/apis-list/apis-list#jobs)
-
 - [Skills](https://github.com/apis-list/apis-list#skills)
+
+
+
+
 
 
 

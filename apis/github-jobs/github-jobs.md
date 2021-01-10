@@ -6,8 +6,8 @@ The GitHub Jobs API allows you to search, and view jobs with JSON over HTTP.  To
 
 
 **Categories**:
-
 - [Jobs](https://github.com/apis-list/apis-list#jobs)
+
 
 
 

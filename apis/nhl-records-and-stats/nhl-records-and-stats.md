@@ -8,8 +8,8 @@ Documenting the publicly accessible portions of the NHL API
 
 
 **Categories**:
-
 - [Sport](https://github.com/apis-list/apis-list#sport)
+
 
 
 

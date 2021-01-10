@@ -8,8 +8,8 @@ Prerequisites: Visual Studio 4. The API is designed on a demo base for a furnitu
 
 
 **Categories**:
-
 - [Search](https://github.com/apis-list/apis-list#search)
+
 
 
 

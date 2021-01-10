@@ -8,8 +8,8 @@ A simple API to return the meta tags of any site in a digestable JSON format.  A
 
 
 **Categories**:
-
 - [Development](https://github.com/apis-list/apis-list#development)
+
 
 
 

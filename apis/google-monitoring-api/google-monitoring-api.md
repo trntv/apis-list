@@ -8,8 +8,8 @@ This page describes some of the features of the Cloud Monitoring API v3. For the
 
 
 **Categories**:
-
 - [Development](https://github.com/apis-list/apis-list#development)
+
 
 
 

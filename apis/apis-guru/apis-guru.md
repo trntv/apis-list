@@ -6,8 +6,8 @@ Our goal is to create a machine-readable Wikipedia for WEB APIs.  If you have an
 
 
 **Categories**:
-
 - [Development](https://github.com/apis-list/apis-list#development)
+
 
 
 

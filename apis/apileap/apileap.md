@@ -6,10 +6,10 @@ Internal Server Error The server encountered an internal error and was unable to
 
 
 **Categories**:
-
 - [Screenshots](https://github.com/apis-list/apis-list#screenshots)
-
 - [Development](https://github.com/apis-list/apis-list#development)
+
+
 
 
 

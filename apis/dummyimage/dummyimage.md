@@ -8,8 +8,8 @@ Particularly nice, when compared to some of its competitors, in that it offers a
 
 
 **Categories**:
-
 - [Development](https://github.com/apis-list/apis-list#development)
+
 
 
 

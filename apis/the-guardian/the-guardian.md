@@ -6,8 +6,8 @@ All accessible with a single open platform key.  Get Started. Access a huge rang
 
 
 **Categories**:
-
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
+
 
 
 

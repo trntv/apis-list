@@ -7,10 +7,10 @@ Use biometric and demographic data to search the same medical references used by
 
 
 **Categories**:
-
 - [Healthcare](https://github.com/apis-list/apis-list#healthcare)
-
 - [Medical](https://github.com/apis-list/apis-list#medical)
+
+
 
 
 

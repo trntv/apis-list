@@ -8,12 +8,12 @@ Introduction Hello Developers Welcome to the YNAB API! (If you aren't a develope
 
 
 **Categories**:
-
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
-
 - [Budget](https://github.com/apis-list/apis-list#budget)
-
 - [Financial](https://github.com/apis-list/apis-list#financial)
+
+
+
 
 
 

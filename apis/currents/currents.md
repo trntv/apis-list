@@ -8,8 +8,8 @@ Currents - Capture the world news through simple json News API. Currents - Captu
 
 
 **Categories**:
-
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
+
 
 
 

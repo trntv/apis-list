@@ -6,14 +6,14 @@ Enables developers to create web and mobile applications that find local busines
 
 
 **Categories**:
-
 - [Commerce & Marketplaces](https://github.com/apis-list/apis-list#commerce-and-marketplaces)
-
 - [Search](https://github.com/apis-list/apis-list#search)
-
 - [Localization](https://github.com/apis-list/apis-list#localization)
-
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
+
+
+
 
 
 

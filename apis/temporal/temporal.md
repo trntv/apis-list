@@ -6,8 +6,8 @@ IPFS API Upload files, pin hashes, and send pubsub messages using our proprietar
 
 
 **Categories**:
-
 - [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
+
 
 
 

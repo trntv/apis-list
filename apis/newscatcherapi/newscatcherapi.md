@@ -8,8 +8,8 @@ Search news articles from all over the world in real-time with News API. News AP
 
 
 **Categories**:
-
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
+
 
 
 

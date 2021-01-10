@@ -8,8 +8,8 @@ An API-first, open source software platform for the Internet of Things.  - zetta
 
 
 **Categories**:
-
 - [IoT & Home Automation](https://github.com/apis-list/apis-list#iot-and-home-automation)
+
 
 
 

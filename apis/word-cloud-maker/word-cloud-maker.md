@@ -8,12 +8,12 @@ Multi color and different sizes illustrate the frequency, and the “vibe” of 
 
 
 **Categories**:
-
 - [Text](https://github.com/apis-list/apis-list#text)
-
 - [Tools](https://github.com/apis-list/apis-list#tools)
-
 - [Classification](https://github.com/apis-list/apis-list#classification)
+
+
+
 
 
 

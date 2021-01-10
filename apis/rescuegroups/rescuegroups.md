@@ -6,10 +6,10 @@ org APIs Not all adoptable pet data APIs are made equal! Choosing the right API 
 
 
 **Categories**:
-
 - [Animals](https://github.com/apis-list/apis-list#animals)
-
 - [Adoption](https://github.com/apis-list/apis-list#adoption)
+
+
 
 
 

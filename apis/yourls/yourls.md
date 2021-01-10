@@ -8,8 +8,8 @@ Generate or get existing short URLs, with sequential or custom keyword.  ➤ Abo
 
 
 **Categories**:
-
 - [URL Shortening](https://github.com/apis-list/apis-list#url-shortening)
+
 
 
 

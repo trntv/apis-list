@@ -6,8 +6,8 @@ This is most commonly done through Fail2Ban, which comes prepackaged with an Abu
 
 
 **Categories**:
-
 - [Security](https://github.com/apis-list/apis-list#security)
+
 
 
 

@@ -8,30 +8,22 @@ Web reference View full API for JS Client. Authentication, analytics, cloud mess
 
 
 **Categories**:
-
 - [OAuth](https://github.com/apis-list/apis-list#oauth)
-
 - [Databases](https://github.com/apis-list/apis-list#databases)
-
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
-
 - [Development](https://github.com/apis-list/apis-list#development)
-
 - [Backend-As-A-Service](https://github.com/apis-list/apis-list#backend-as-a-service)
-
 - [Authentication](https://github.com/apis-list/apis-list#authentication)
-
 - [Security](https://github.com/apis-list/apis-list#security)
-
 - [Login Authentication](https://github.com/apis-list/apis-list#login-authentication)
-
 - [Real Time](https://github.com/apis-list/apis-list#real-time)
-
 - [Hosting](https://github.com/apis-list/apis-list#hosting)
-
 - [Authorization](https://github.com/apis-list/apis-list#authorization)
-
 - [Mobile](https://github.com/apis-list/apis-list#mobile)
+
+
+
+#mobile)
 
 
 

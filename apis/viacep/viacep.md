@@ -6,8 +6,8 @@ Webservice gratuito para pesquisa de endereço via CEP, suporta Ajax e retorno n
 
 
 **Categories**:
-
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
 
 
 

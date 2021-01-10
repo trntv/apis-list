@@ -6,8 +6,8 @@ You can embed Hebcal. com content directly onto your synagogue website with our.
 
 
 **Categories**:
-
 - [Calendar](https://github.com/apis-list/apis-list#calendar)
+
 
 
 

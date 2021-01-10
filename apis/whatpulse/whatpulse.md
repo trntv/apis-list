@@ -8,8 +8,8 @@ Get to know your time with your computer
 
 
 **Categories**:
-
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
 
 
 

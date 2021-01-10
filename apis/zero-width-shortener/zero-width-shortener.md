@@ -8,8 +8,8 @@ Shorten URLs with invisible spaces. URL shortener that shortens URLs using space
 
 
 **Categories**:
-
 - [URL Shortening](https://github.com/apis-list/apis-list#url-shortening)
+
 
 
 

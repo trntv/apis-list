@@ -8,8 +8,8 @@ Get real-time ETAs, availability, price estimates, ride status through the Lyft 
 
 
 **Categories**:
-
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
+
 
 
 

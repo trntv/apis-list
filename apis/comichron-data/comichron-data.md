@@ -8,8 +8,8 @@ com - comichron-data/api. JSON API for monthly sales data from comichron
 
 
 **Categories**:
-
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+
 
 
 

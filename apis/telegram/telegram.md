@@ -6,16 +6,15 @@ We offer two kinds of APIs for developers.  The Bot API allows you to easily cre
 
 
 **Categories**:
-
 - [Social](https://github.com/apis-list/apis-list#social)
-
 - [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
-
 - [Mobile](https://github.com/apis-list/apis-list#mobile)
-
 - [Photography](https://github.com/apis-list/apis-list#photography)
-
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
+
+
+
+)
 
 
 

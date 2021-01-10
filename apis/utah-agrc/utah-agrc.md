@@ -8,8 +8,8 @@ Geocoding API Methods API methods for finding a geolocation (x,y) for addresses.
 
 
 **Categories**:
-
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
 
 
 

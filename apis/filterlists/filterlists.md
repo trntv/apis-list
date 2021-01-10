@@ -6,8 +6,8 @@ By Collin M. Barrett. FilterLists is the independent, comprehensive directory of
 
 
 **Categories**:
-
 - [Security](https://github.com/apis-list/apis-list#security)
+
 
 
 

@@ -8,14 +8,14 @@ identifies the content of images and videos, classify images based on content, e
 
 
 **Categories**:
-
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
-
 - [Color Extraction](https://github.com/apis-list/apis-list#color-extraction)
-
 - [Content Moderation](https://github.com/apis-list/apis-list#content-moderation)
-
 - [Visual Content Recognition](https://github.com/apis-list/apis-list#visual-content-recognition)
+
+
+
+
 
 
 

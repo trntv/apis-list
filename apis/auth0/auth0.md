@@ -8,18 +8,16 @@ Rapidly integrate authentication and authorization for web, mobile, and legacy a
 
 
 **Categories**:
-
 - [Authentication](https://github.com/apis-list/apis-list#authentication)
-
 - [Login Authentication](https://github.com/apis-list/apis-list#login-authentication)
-
 - [Identity](https://github.com/apis-list/apis-list#identity)
-
 - [API Design](https://github.com/apis-list/apis-list#api-design)
-
 - [API Management](https://github.com/apis-list/apis-list#api-management)
-
 - [API Strategy](https://github.com/apis-list/apis-list#api-strategy)
+
+
+
+y)
 
 
 

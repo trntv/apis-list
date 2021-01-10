@@ -6,8 +6,8 @@ API Documentation tinyuid. com exposes its data via an Application Programming I
 
 
 **Categories**:
-
 - [URL Shortening](https://github.com/apis-list/apis-list#url-shortening)
+
 
 
 

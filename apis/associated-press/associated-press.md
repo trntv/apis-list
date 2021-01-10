@@ -6,10 +6,10 @@ AP Media API Get all your AP multimedia content in one place Access the content 
 
 
 **Categories**:
-
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
-
 - [Images](https://github.com/apis-list/apis-list#images)
+
+
 
 
 

@@ -6,14 +6,14 @@ eBay Developers Program Celebrates 20 Years This year we’re celebrating 25 yea
 
 
 **Categories**:
-
 - [Shopping](https://github.com/apis-list/apis-list#shopping)
-
 - [Search](https://github.com/apis-list/apis-list#search)
-
 - [Auctions](https://github.com/apis-list/apis-list#auctions)
-
 - [Commerce & Marketplaces](https://github.com/apis-list/apis-list#commerce-and-marketplaces)
+
+
+
+
 
 
 

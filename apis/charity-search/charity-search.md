@@ -6,8 +6,8 @@ Available API analytics options include detailed traffic breakdowns and reports 
 
 
 **Categories**:
-
 - [Business](https://github.com/apis-list/apis-list#business)
+
 
 
 

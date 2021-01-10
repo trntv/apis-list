@@ -8,14 +8,14 @@ Connect your app or website users to over 100 million points of interests with P
 
 
 **Categories**:
-
 - [Localization](https://github.com/apis-list/apis-list#localization)
-
 - [Reference](https://github.com/apis-list/apis-list#reference)
-
 - [Check-In](https://github.com/apis-list/apis-list#check-in)
-
 - [Mapping](https://github.com/apis-list/apis-list#mapping)
+
+
+
+
 
 
 

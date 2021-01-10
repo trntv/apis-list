@@ -10,36 +10,25 @@ Adopting EarthCache into your development environment eliminates the need for mu
 
 
 **Categories**:
-
 - [Monitoring](https://github.com/apis-list/apis-list#monitoring)
-
 - [Satellite](https://github.com/apis-list/apis-list#satellite)
-
 - [Remote-Sensing](https://github.com/apis-list/apis-list#remote-sensing)
-
 - [Images](https://github.com/apis-list/apis-list#images)
-
 - [Intelligence](https://github.com/apis-list/apis-list#intelligence)
-
 - [Space](https://github.com/apis-list/apis-list#space)
-
 - [Satellites](https://github.com/apis-list/apis-list#satellites)
-
 - [B2B](https://github.com/apis-list/apis-list#b2b)
-
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
-
 - [Aggregation](https://github.com/apis-list/apis-list#aggregation)
-
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
-
 - [Business](https://github.com/apis-list/apis-list#business)
-
 - [Big Data](https://github.com/apis-list/apis-list#big-data)
-
 - [Machine-To-Machine](https://github.com/apis-list/apis-list#machine-to-machine)
-
 - [Geospatial](https://github.com/apis-list/apis-list#geospatial)
+
+
+
+geospatial)
 
 
 

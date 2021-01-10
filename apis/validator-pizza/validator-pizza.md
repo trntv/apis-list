@@ -8,8 +8,8 @@ pizza is made to prevent users to register to websites with a disposable email a
 
 
 **Categories**:
-
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
+
 
 
 

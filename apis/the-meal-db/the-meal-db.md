@@ -6,8 +6,8 @@ If you love our service and want extra features you can sign up as a Patreon sup
 
 
 **Categories**:
-
 - [Food](https://github.com/apis-list/apis-list#food)
+
 
 
 

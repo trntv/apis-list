@@ -8,8 +8,8 @@ The QR-Code generator gets your data and generates a QR-Code
 
 
 **Categories**:
-
 - [Bar & QR Codes](https://github.com/apis-list/apis-list#bar-and-qr-codes)
+
 
 
 

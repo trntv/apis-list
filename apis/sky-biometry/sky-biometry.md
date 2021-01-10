@@ -8,8 +8,8 @@ SkyBiometry uses completely different computer vision algorithms for face detect
 
 
 **Categories**:
-
 - [Recognition](https://github.com/apis-list/apis-list#recognition)
+
 
 
 

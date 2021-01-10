@@ -8,16 +8,15 @@ Try refining your search, or use the navigation above to locate the post. integr
 
 
 **Categories**:
-
 - [Intelligence](https://github.com/apis-list/apis-list#intelligence)
-
 - [Big Data](https://github.com/apis-list/apis-list#big-data)
-
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
-
 - [Real Time](https://github.com/apis-list/apis-list#real-time)
-
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
+
+
+
+)
 
 
 

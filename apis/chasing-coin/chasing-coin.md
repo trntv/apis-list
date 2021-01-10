@@ -8,8 +8,8 @@ Cryptocurrency, coin and token resource on the web. Full and free cryptocurrency
 
 
 **Categories**:
-
 - [Cryptocurrency](https://github.com/apis-list/apis-list#cryptocurrency)
+
 
 
 

@@ -6,10 +6,10 @@ INSPIRE API Q: I want to do automated searching and receive machine readable res
 
 
 **Categories**:
-
 - [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
-
 - [Math & Science](https://github.com/apis-list/apis-list#math-and-science)
+
+
 
 
 

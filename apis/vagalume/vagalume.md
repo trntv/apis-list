@@ -6,8 +6,8 @@ Vagalume » API » Documentação Documentação Conteúdo disponível na API do
 
 
 **Categories**:
-
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
+
 
 
 

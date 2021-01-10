@@ -8,8 +8,8 @@ io. Initially used to report incidents that may be dangerous during times of unr
 
 
 **Categories**:
-
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
 
 
 

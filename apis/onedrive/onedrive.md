@@ -6,8 +6,8 @@ OneDrive API works on every platform, so you don't have to. OneDrive API works o
 
 
 **Categories**:
-
 - [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
+
 
 
 

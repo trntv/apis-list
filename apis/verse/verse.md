@@ -6,8 +6,8 @@ Check what's the latest version of your favorite open-source project.  無効な
 
 
 **Categories**:
-
 - [Development](https://github.com/apis-list/apis-list#development)
+
 
 
 

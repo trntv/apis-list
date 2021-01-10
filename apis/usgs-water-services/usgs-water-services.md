@@ -8,10 +8,10 @@ Home page for water resources information from the US Geological Survey.  Home p
 
 
 **Categories**:
-
 - [Math & Science](https://github.com/apis-list/apis-list#math-and-science)
-
 - [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
+
+
 
 
 

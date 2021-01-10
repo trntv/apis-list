@@ -6,8 +6,8 @@ Access to data is a good thing, right? Please donate today, so we can continue t
 
 
 **Categories**:
-
 - [Other](https://github.com/apis-list/apis-list#other)
+
 
 
 

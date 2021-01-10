@@ -8,12 +8,12 @@ Used by 10,000+ developers worldwide. . Suite of utility API's (validate emails,
 
 
 **Categories**:
-
 - [Development](https://github.com/apis-list/apis-list#development)
-
 - [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
-
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
+
+
+
 
 
 

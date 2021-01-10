@@ -22,7 +22,6 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 ### {{ $category }}
 {{ range $apis -}}
 {{- if eq .IsActive true -}}
-    https://github.com/apis-list/apis-list/blob/main/apis/1forge-com/1forge-com.md
 - [{{ .Name }}](https://github.com/apis-list/apis-list/blob/main/apis/{{.Slug}}/{{.Slug}}.md) - {{ .Description | short }}
 {{ end -}}
 {{ end -}}

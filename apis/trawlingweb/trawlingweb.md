@@ -8,8 +8,8 @@ com API We structure, store, and index millions of web pages per day in vertical
 
 
 **Categories**:
-
 - [Data Mining" "News Monitoring" "Big Data" "Feed" "Integration" "Metadata" "Monitoring" "Natural Language Processing" "News Services" "Real Time](https://github.com/apis-list/apis-list#data-mining-news-monitoring-big-data-feed-integration-metadata-monitoring-natural-language-processing-news-services-real-time)
+
 
 
 

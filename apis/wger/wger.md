@@ -8,10 +8,10 @@ de/api/v2/ Authentication Public endpoints, such as the list of exercises or the
 
 
 **Categories**:
-
 - [Sport](https://github.com/apis-list/apis-list#sport)
-
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
+
+
 
 
 

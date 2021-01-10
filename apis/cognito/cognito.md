@@ -8,8 +8,8 @@ Can take a customer's cellphone number and return name, address history, full SS
 
 
 **Categories**:
-
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
+
 
 
 

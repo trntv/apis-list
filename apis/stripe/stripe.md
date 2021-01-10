@@ -6,14 +6,14 @@ Complete reference documentation for the Stripe API. Includes representative cod
 
 
 **Categories**:
-
 - [Invoicing](https://github.com/apis-list/apis-list#invoicing)
-
 - [Commerce & Marketplaces](https://github.com/apis-list/apis-list#commerce-and-marketplaces)
-
 - [Payments](https://github.com/apis-list/apis-list#payments)
-
 - [Financial](https://github.com/apis-list/apis-list#financial)
+
+
+
+
 
 
 

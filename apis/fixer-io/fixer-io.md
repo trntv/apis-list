@@ -8,8 +8,8 @@ The API tracks rates published daily by the European Central Bank. JSON API for 
 
 
 **Categories**:
-
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
+
 
 
 

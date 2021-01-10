@@ -8,8 +8,8 @@ Get realtime delivery and transparency to develop your iOS and Android apps.  #P
 
 
 **Categories**:
-
 - [Development](https://github.com/apis-list/apis-list#development)
+
 
 
 

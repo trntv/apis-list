@@ -8,8 +8,8 @@ Purge Help API - Other languages Afrikaans asturianu azərbaycanca Bahasa Indone
 
 
 **Categories**:
-
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
 
 
 

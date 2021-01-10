@@ -8,8 +8,8 @@ Real-time and historical currency rates JSON API.  CurrencyScoop is a developer-
 
 
 **Categories**:
-
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
+
 
 
 

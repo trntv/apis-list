@@ -8,8 +8,8 @@ Provision and manage your Classroom courses
 
 
 **Categories**:
-
 - [Education](https://github.com/apis-list/apis-list#education)
+
 
 
 

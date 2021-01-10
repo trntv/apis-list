@@ -6,8 +6,8 @@ Access database of artists, labels, releases, marketplace and more. Here’s you
 
 
 **Categories**:
-
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
+
 
 
 

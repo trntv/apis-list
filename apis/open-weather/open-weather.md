@@ -7,8 +7,8 @@ Simple and fast and free weather API from OpenWeatherMap you have access to curr
 
 
 **Categories**:
-
 - [Weather](https://github.com/apis-list/apis-list#weather)
+
 
 
 

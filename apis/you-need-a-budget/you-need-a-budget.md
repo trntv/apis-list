@@ -8,8 +8,8 @@ Introduction Hello Developers Welcome to the YNAB API! (If you aren't a develope
 
 
 **Categories**:
-
 - [Financial](https://github.com/apis-list/apis-list#financial)
+
 
 
 

@@ -8,12 +8,12 @@ The Salesforce Platform connects the entire customer journey across Sales, Servi
 
 
 **Categories**:
-
 - [Office](https://github.com/apis-list/apis-list#office)
-
 - [Customer Relationship Management](https://github.com/apis-list/apis-list#customer-relationship-management)
-
 - [Enterprise](https://github.com/apis-list/apis-list#enterprise)
+
+
+
 
 
 

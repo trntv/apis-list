@@ -8,8 +8,8 @@ Access the full text of the Google Books repository.  Access the full text of th
 
 
 **Categories**:
-
 - [Books](https://github.com/apis-list/apis-list#books)
+
 
 
 

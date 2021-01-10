@@ -6,8 +6,8 @@ ALL CAPS AS A SERVICE curl -X POST \ -d '{"INPUT": "hello world"}' \ -H 'Content
 
 
 **Categories**:
-
 - [Development](https://github.com/apis-list/apis-list#development)
+
 
 
 

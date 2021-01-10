@@ -8,8 +8,8 @@ Solar radiation and forecasting data globally available and free for researchers
 
 
 **Categories**:
-
 - [Other](https://github.com/apis-list/apis-list#other)
+
 
 
 

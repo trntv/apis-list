@@ -8,16 +8,15 @@ You'll fit in here. Using JavaScript, CSS, and SVG, developers now have a fast, 
 
 
 **Categories**:
-
 - [Health](https://github.com/apis-list/apis-list#health)
-
 - [Sports](https://github.com/apis-list/apis-list#sports)
-
 - [Wearable](https://github.com/apis-list/apis-list#wearable)
-
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
-
 - [Fitness](https://github.com/apis-list/apis-list#fitness)
+
+
+
+)
 
 
 

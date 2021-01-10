@@ -8,8 +8,8 @@ Google Maps has 35 repositories available. Follow their code on GitHub
 
 
 **Categories**:
-
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
 
 
 

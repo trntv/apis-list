@@ -8,8 +8,8 @@ Free powerful API for generating dummy images with unique features like delay, a
 
 
 **Categories**:
-
 - [Development](https://github.com/apis-list/apis-list#development)
+
 
 
 

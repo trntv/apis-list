@@ -6,8 +6,8 @@ A comprehensive resource of dictionary and thesaurus data powered by Merriam-Web
 
 
 **Categories**:
-
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
+
 
 
 

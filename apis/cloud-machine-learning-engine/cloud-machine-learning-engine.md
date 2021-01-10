@@ -9,8 +9,8 @@ Take your ML projects to production, quickly and cost-effectively.
 
 
 **Categories**:
-
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+
 
 
 

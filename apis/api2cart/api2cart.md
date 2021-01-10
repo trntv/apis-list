@@ -6,16 +6,15 @@ Connect your B2B eCommerce solution with 40+ shopping platforms and marketplaces
 
 
 **Categories**:
-
 - [API](https://github.com/apis-list/apis-list#api)
-
 - [Integration](https://github.com/apis-list/apis-list#integration)
-
 - [Api](https://github.com/apis-list/apis-list#api)
-
 - [Integration.](https://github.com/apis-list/apis-list#integration)
-
 - [Commerce & Marketplaces](https://github.com/apis-list/apis-list#commerce-and-marketplaces)
+
+
+
+)
 
 
 

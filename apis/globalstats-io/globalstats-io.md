@@ -8,8 +8,8 @@ Enrich your games' experience by adding a global highscore for your games.  We o
 
 
 **Categories**:
-
 - [Games & Comics](https://github.com/apis-list/apis-list#games-and-comics)
+
 
 
 

@@ -8,8 +8,8 @@ Access metadata, user’s entire library of music and do much more. The Napster 
 
 
 **Categories**:
-
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
+
 
 
 

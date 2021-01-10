@@ -8,8 +8,8 @@ With this API, you can use RESTful req. Create a search engine for your website,
 
 
 **Categories**:
-
 - [Search](https://github.com/apis-list/apis-list#search)
+
 
 
 

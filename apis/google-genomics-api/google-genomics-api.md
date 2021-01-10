@@ -8,8 +8,8 @@ Beta This product or feature is covered by the Pre-GA Offerings Terms of the Goo
 
 
 **Categories**:
-
 - [Health](https://github.com/apis-list/apis-list#health)
+
 
 
 

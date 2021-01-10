@@ -6,8 +6,8 @@ Welcome to the PredictBGL API The PredictBGL API allows you to build the power o
 
 
 **Categories**:
-
 - [Health](https://github.com/apis-list/apis-list#health)
+
 
 
 

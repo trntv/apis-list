@@ -8,10 +8,10 @@ Allows companies to conduct commerce with Best Buy services within their own e-c
 
 
 **Categories**:
-
 - [Referrals](https://github.com/apis-list/apis-list#referrals)
-
 - [Commerce & Marketplaces](https://github.com/apis-list/apis-list#commerce-and-marketplaces)
+
+
 
 
 

@@ -6,8 +6,8 @@ The following parameters are optional lang - The language of the insult you want
 
 
 **Categories**:
-
 - [Other](https://github.com/apis-list/apis-list#other)
+
 
 
 

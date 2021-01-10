@@ -8,8 +8,8 @@ The Twitch API enables you to develop your own applications using the rich featu
 
 
 **Categories**:
-
 - [Social](https://github.com/apis-list/apis-list#social)
+
 
 
 

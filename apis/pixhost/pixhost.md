@@ -8,8 +8,8 @@ Upload images, photos, galleries
 
 
 **Categories**:
-
 - [Photography](https://github.com/apis-list/apis-list#photography)
+
 
 
 

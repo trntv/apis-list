@@ -8,16 +8,15 @@ Eventbrite Python SDK. Contribute to eventbrite/eventbrite-sdk-python developmen
 
 
 **Categories**:
-
 - [Tickets](https://github.com/apis-list/apis-list#tickets)
-
 - [Social](https://github.com/apis-list/apis-list#social)
-
 - [Events](https://github.com/apis-list/apis-list#events)
-
 - [Marketing](https://github.com/apis-list/apis-list#marketing)
-
 - [Registration](https://github.com/apis-list/apis-list#registration)
+
+
+
+)
 
 
 

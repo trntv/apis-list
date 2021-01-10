@@ -8,10 +8,10 @@ Works on websites, iOS, mobile and desktop applications. The browser log in flow
 
 
 **Categories**:
-
 - [Social](https://github.com/apis-list/apis-list#social)
-
 - [Login Authentication](https://github.com/apis-list/apis-list#login-authentication)
+
+
 
 
 

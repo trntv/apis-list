@@ -8,10 +8,10 @@ Open API for the maker community. We are a community of makers who help each oth
 
 
 **Categories**:
-
 - [Products](https://github.com/apis-list/apis-list#products)
-
 - [Development](https://github.com/apis-list/apis-list#development)
+
+
 
 
 

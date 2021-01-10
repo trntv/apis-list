@@ -8,8 +8,8 @@ Generate random cartoon avatars
 
 
 **Categories**:
-
 - [Testing](https://github.com/apis-list/apis-list#testing)
+
 
 
 

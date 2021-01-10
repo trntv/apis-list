@@ -6,8 +6,8 @@ A simple free reverse geocoding API for turning coordinates into human readable 
 
 
 **Categories**:
-
 - [Other](https://github.com/apis-list/apis-list#other)
+
 
 
 

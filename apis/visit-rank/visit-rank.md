@@ -8,10 +8,10 @@ Get a rank for any of 385 million domains. Visit Rank tells how popular and infl
 
 
 **Categories**:
-
 - [SEO](https://github.com/apis-list/apis-list#seo)
-
 - [Search](https://github.com/apis-list/apis-list#search)
+
+
 
 
 

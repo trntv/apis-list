@@ -6,8 +6,8 @@ In order to keep DigitalOcean bot-free, please complete this security check Plea
 
 
 **Categories**:
-
 - [Development](https://github.com/apis-list/apis-list#development)
+
 
 
 

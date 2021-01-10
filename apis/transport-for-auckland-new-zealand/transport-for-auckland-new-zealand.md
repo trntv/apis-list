@@ -6,8 +6,8 @@ Welcome to the Auckland Transport Developer Portal! The Auckland Transport devel
 
 
 **Categories**:
-
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
+
 
 
 

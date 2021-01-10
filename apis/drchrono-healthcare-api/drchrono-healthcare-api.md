@@ -8,8 +8,8 @@ Electronic medical records, practice management and medical billing API.  Explor
 
 
 **Categories**:
-
 - [Healthcare](https://github.com/apis-list/apis-list#healthcare)
+
 
 
 

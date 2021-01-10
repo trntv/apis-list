@@ -6,8 +6,8 @@ Firefox Addons API
 
 
 **Categories**:
-
 - [Web](https://github.com/apis-list/apis-list#web)
+
 
 
 

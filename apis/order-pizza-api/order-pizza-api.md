@@ -8,8 +8,8 @@ A RESTful API as pizza restaurant ordering system. swagger Explore
 
 
 **Categories**:
-
 - [Food](https://github.com/apis-list/apis-list#food)
+
 
 
 

@@ -8,8 +8,8 @@ A data platform for customers to create, manage, share and query data.  Service:
 
 
 **Categories**:
-
 - [Databases](https://github.com/apis-list/apis-list#databases)
+
 
 
 

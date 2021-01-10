@@ -8,10 +8,10 @@ WhereIsMyTransport connects public transport data in one place. WhereIsMyTranspo
 
 
 **Categories**:
-
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
-
 - [Countries](https://github.com/apis-list/apis-list#countries)
+
+
 
 
 

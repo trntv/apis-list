@@ -8,8 +8,8 @@ Simple HTTP endpoint and SDKs.  Try free now. Extract USPS addresses from any te
 
 
 **Categories**:
-
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
+
 
 
 

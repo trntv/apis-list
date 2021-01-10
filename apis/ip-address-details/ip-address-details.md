@@ -6,8 +6,8 @@ We're the trusted source for IP address information, handling 20 billion IP geol
 
 
 **Categories**:
-
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
 
 
 

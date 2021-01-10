@@ -8,12 +8,12 @@ Grabs email addresses from a URL
 
 
 **Categories**:
-
 - [Extraction](https://github.com/apis-list/apis-list#extraction)
-
 - [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
-
 - [Development](https://github.com/apis-list/apis-list#development)
+
+
+
 
 
 

@@ -6,8 +6,8 @@ FoodData Central is an integrated data system that provides expanded nutrient pr
 
 
 **Categories**:
-
 - [Health](https://github.com/apis-list/apis-list#health)
+
 
 
 

@@ -8,10 +8,10 @@ Web Service allows you to search the Internet for images
 
 
 **Categories**:
-
 - [Photography](https://github.com/apis-list/apis-list#photography)
-
 - [Search](https://github.com/apis-list/apis-list#search)
+
+
 
 
 

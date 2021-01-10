@@ -8,8 +8,8 @@ It can also detect multiple barcodes at once. It reads the following barcode for
 
 
 **Categories**:
-
 - [Bar & QR Codes](https://github.com/apis-list/apis-list#bar-and-qr-codes)
+
 
 
 

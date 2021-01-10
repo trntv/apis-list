@@ -6,10 +6,10 @@ The Mapbox Maps API reads and renders raster map tilesets and vector map tileset
 
 
 **Categories**:
-
 - [Location](https://github.com/apis-list/apis-list#location)
-
 - [Maps](https://github.com/apis-list/apis-list#maps)
+
+
 
 
 

@@ -6,8 +6,8 @@
 
 
 **Categories**:
-
 - [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
+
 
 
 

@@ -8,12 +8,12 @@ LETTRIA est un outil de traitement du langage naturel (NLP) dédié à la compr�
 
 
 **Categories**:
-
 - [Artificial Intelligence](https://github.com/apis-list/apis-list#artificial-intelligence)
-
 - [French](https://github.com/apis-list/apis-list#french)
-
 - [Natural Language Processing](https://github.com/apis-list/apis-list#natural-language-processing)
+
+
+
 
 
 

@@ -8,8 +8,8 @@ It is mainly created for discord bots. . A chatbot api which is completely free
 
 
 **Categories**:
-
 - [Bots](https://github.com/apis-list/apis-list#bots)
+
 
 
 

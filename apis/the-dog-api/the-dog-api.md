@@ -8,10 +8,10 @@ An API all about dogs.  A public service API all about Dogs, free to use when ma
 
 
 **Categories**:
-
 - [Fun](https://github.com/apis-list/apis-list#fun)
-
 - [Animals](https://github.com/apis-list/apis-list#animals)
+
+
 
 
 

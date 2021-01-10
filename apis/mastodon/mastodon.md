@@ -8,8 +8,8 @@ Welcome to the Mastodon documentation!.  Welcome to the Mastodon documentation!
 
 
 **Categories**:
-
 - [Social](https://github.com/apis-list/apis-list#social)
+
 
 
 

@@ -12,12 +12,12 @@ Stream's API and SDKs enable developers to build messaging solutions very quickl
 
 
 **Categories**:
-
 - [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
-
 - [Api](https://github.com/apis-list/apis-list#api)
-
 - [Social](https://github.com/apis-list/apis-list#social)
+
+
+
 
 
 

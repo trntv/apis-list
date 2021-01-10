@@ -6,8 +6,8 @@ Exchange rates API is a free service for current and historical foreign exchange
 
 
 **Categories**:
-
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
+
 
 
 

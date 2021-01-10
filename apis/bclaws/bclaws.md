@@ -6,8 +6,8 @@ CiviX Server API CiviX Server is an electronic library providing free public acc
 
 
 **Categories**:
-
 - [Government](https://github.com/apis-list/apis-list#government)
+
 
 
 

@@ -8,12 +8,12 @@ Yammer Developer Site was created using ReadMe. Discuss ideas, share updates, an
 
 
 **Categories**:
-
 - [Social](https://github.com/apis-list/apis-list#social)
-
 - [Blogging](https://github.com/apis-list/apis-list#blogging)
-
 - [Enterprise](https://github.com/apis-list/apis-list#enterprise)
+
+
+
 
 
 

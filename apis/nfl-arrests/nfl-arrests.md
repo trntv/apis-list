@@ -6,8 +6,8 @@ If this is your site, make sure that the filename case matches the URL.  For roo
 
 
 **Categories**:
-
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
+
 
 
 

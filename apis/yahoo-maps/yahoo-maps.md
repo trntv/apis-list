@@ -8,10 +8,10 @@ Yahoo Maps lets you easily embed rich and interactive maps using your choice of 
 
 
 **Categories**:
-
 - [Mapping](https://github.com/apis-list/apis-list#mapping)
-
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
+
 
 
 

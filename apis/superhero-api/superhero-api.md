@@ -6,8 +6,8 @@ Biography. From both the universe, and more.  Images. Get all SuperHeroes and Vi
 
 
 **Categories**:
-
 - [Humor](https://github.com/apis-list/apis-list#humor)
+
 
 
 

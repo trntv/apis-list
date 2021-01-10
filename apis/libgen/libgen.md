@@ -6,8 +6,8 @@ An English-language guide to using the LibGen API.  An English-language guide to
 
 
 **Categories**:
-
 - [Books](https://github.com/apis-list/apis-list#books)
+
 
 
 

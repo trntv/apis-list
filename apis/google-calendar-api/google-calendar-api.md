@@ -8,8 +8,8 @@ Create and manage events and calendars for Google Calendar.  Create and manage e
 
 
 **Categories**:
-
 - [Calendar](https://github.com/apis-list/apis-list#calendar)
+
 
 
 

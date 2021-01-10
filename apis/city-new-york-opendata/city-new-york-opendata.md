@@ -8,8 +8,8 @@ NYC Open Data helps New Yorkers use and learn about City data. NYC Open Data hel
 
 
 **Categories**:
-
 - [Government](https://github.com/apis-list/apis-list#government)
+
 
 
 

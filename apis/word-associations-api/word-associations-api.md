@@ -8,8 +8,8 @@ Provides service to get associations for a word or phrase. Words are grouped by 
 
 
 **Categories**:
-
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+
 
 
 

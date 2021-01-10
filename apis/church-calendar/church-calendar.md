@@ -6,8 +6,8 @@ Liturgical Calendar API Browse the calendar on-line, Learn how to obtain data fr
 
 
 **Categories**:
-
 - [Calendar](https://github.com/apis-list/apis-list#calendar)
+
 
 
 

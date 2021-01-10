@@ -6,8 +6,8 @@ Free API to check and predict the nationality of a name.  Free API to check and 
 
 
 **Categories**:
-
 - [Development](https://github.com/apis-list/apis-list#development)
+
 
 
 

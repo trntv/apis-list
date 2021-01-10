@@ -8,8 +8,8 @@ It can be used to set up a food delivery network, crowdsource the price for a lo
 
 
 **Categories**:
-
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
+
 
 
 

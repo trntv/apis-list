@@ -6,8 +6,8 @@ Our Anomaly API gives you IP & Domain Data for your Business.  Lookup threat int
 
 
 **Categories**:
-
 - [Security](https://github.com/apis-list/apis-list#security)
+
 
 
 

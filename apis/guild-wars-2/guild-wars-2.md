@@ -6,10 +6,10 @@ The current version of the API. The Guild Wars 2 API (application programming in
 
 
 **Categories**:
-
 - [Games & Comics](https://github.com/apis-list/apis-list#games-and-comics)
-
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+
+
 
 
 

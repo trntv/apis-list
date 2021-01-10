@@ -8,10 +8,10 @@ A public service API all about cat pictures.  A public service API all about Cat
 
 
 **Categories**:
-
 - [Fun](https://github.com/apis-list/apis-list#fun)
-
 - [Cats](https://github.com/apis-list/apis-list#cats)
+
+
 
 
 

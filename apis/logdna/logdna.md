@@ -6,8 +6,8 @@ Learn about logging, how to get started, and how to maximize our log collection,
 
 
 **Categories**:
-
 - [Other](https://github.com/apis-list/apis-list#other)
+
 
 
 

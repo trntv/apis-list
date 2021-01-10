@@ -8,8 +8,8 @@ OwlBot is an english dictionary API
 
 
 **Categories**:
-
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
+
 
 
 

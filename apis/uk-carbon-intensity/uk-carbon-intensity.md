@@ -6,8 +6,8 @@ Carbon Intensity API Great Britain Scroll down for code samples and responses. C
 
 
 **Categories**:
-
 - [Environment](https://github.com/apis-list/apis-list#environment)
+
 
 
 

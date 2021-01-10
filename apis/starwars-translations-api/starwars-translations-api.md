@@ -8,12 +8,12 @@ Translate from imperial language ( English that is ) to one of the Starwars lang
 
 
 **Categories**:
-
 - [Translation](https://github.com/apis-list/apis-list#translation)
-
 - [Movies](https://github.com/apis-list/apis-list#movies)
-
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+
+
+
 
 
 

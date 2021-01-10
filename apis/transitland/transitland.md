@@ -8,8 +8,8 @@ Transitland is a community-edited edited open data service aggregating transit n
 
 
 **Categories**:
-
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
+
 
 
 

@@ -8,8 +8,8 @@ IO ♛ Keep all games in one profile ✔ See what friends are playing, and find 
 
 
 **Categories**:
-
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+
 
 
 

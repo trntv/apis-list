@@ -6,8 +6,8 @@ Developers can easily add advanced computer vision functionality to Android, iOS
 
 
 **Categories**:
-
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+
 
 
 

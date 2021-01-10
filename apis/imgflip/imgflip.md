@@ -8,8 +8,8 @@ Get 100 of memes with Imgflip API, or add text/caption to memes directly from th
 
 
 **Categories**:
-
 - [Meme](https://github.com/apis-list/apis-list#meme)
+
 
 
 

@@ -8,12 +8,12 @@ Pocket proportionally rewards the participating nodes with native cryptographic 
 
 
 **Categories**:
-
 - [Development](https://github.com/apis-list/apis-list#development)
-
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
-
 - [Blockchain](https://github.com/apis-list/apis-list#blockchain)
+
+
+
 
 
 

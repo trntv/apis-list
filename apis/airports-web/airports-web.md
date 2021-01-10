@@ -6,8 +6,8 @@ Covered Airports mostly Germany. Request Airport name and website URL for airpor
 
 
 **Categories**:
-
 - [Other](https://github.com/apis-list/apis-list#other)
+
 
 
 

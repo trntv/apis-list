@@ -8,8 +8,8 @@ Google’s product is quite similar to Amazon’s but it’s actually. Amazon Ma
 
 
 **Categories**:
-
 - [Credits](https://github.com/apis-list/apis-list#credits)
+
 
 
 

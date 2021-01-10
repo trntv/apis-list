@@ -6,12 +6,12 @@ Hosted API documentation for every OAS (Swagger) and RAML spec out there. Powere
 
 
 **Categories**:
-
 - [Cloud](https://github.com/apis-list/apis-list#cloud)
-
 - [Development](https://github.com/apis-list/apis-list#development)
-
 - [Applications](https://github.com/apis-list/apis-list#applications)
+
+
+
 
 
 

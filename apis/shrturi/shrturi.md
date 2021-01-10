@@ -6,8 +6,8 @@ API Documentation This is version 3 of the shrturi. com API. It follows common R
 
 
 **Categories**:
-
 - [URL Shortening](https://github.com/apis-list/apis-list#url-shortening)
+
 
 
 

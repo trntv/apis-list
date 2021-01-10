@@ -6,8 +6,8 @@ Generate fake data and get by REST API requests. Collection of completely free A
 
 
 **Categories**:
-
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
+
 
 
 

@@ -6,10 +6,10 @@ From the location of the bike stations to the availability of bikes and parking 
 
 
 **Categories**:
-
 - [Sport](https://github.com/apis-list/apis-list#sport)
-
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
+
+
 
 
 

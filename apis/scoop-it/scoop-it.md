@@ -8,8 +8,8 @@ Scoop. it enables professionals and businesses to research and publish content t
 
 
 **Categories**:
-
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
+
 
 
 

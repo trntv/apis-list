@@ -6,12 +6,12 @@ com/614/info. If you want to fetch comics and metadata automatically, you can us
 
 
 **Categories**:
-
 - [Humor](https://github.com/apis-list/apis-list#humor)
-
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-
 - [Games & Comics](https://github.com/apis-list/apis-list#games-and-comics)
+
+
+
 
 
 

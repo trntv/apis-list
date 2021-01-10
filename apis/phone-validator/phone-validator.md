@@ -6,10 +6,10 @@ Free phone number validation provided by PhoneValidator.  Works with all U.  Che
 
 
 **Categories**:
-
 - [Databases](https://github.com/apis-list/apis-list#databases)
-
 - [Communications](https://github.com/apis-list/apis-list#communications)
+
+
 
 
 

@@ -8,12 +8,12 @@ An extremely mature, well organized and continuely updated resource of comic inf
 
 
 **Categories**:
-
 - [Games & Comics](https://github.com/apis-list/apis-list#games-and-comics)
-
 - [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
-
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+
+
+
 
 
 

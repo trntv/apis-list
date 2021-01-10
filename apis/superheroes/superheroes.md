@@ -6,8 +6,8 @@ From both the universe, and more. Biography. Powerstats. Connections.  Images.  
 
 
 **Categories**:
-
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+
 
 
 
