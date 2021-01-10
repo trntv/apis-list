@@ -1,20 +1,23 @@
 # ReqRes
 
+
 A hosted REST-API ready to respond to AJAX requests
+
+
 
 **Categories**:
 
-- [Testing](https://github/apis-list/apis-list#testing)
+- [Testing](https://github.com/apis-list/apis-list#testing)
 
-- [Development](https://github/apis-list/apis-list#development)
+- [Development](https://github.com/apis-list/apis-list#development)
 
-- [Tools](https://github/apis-list/apis-list#tools)
+- [Tools](https://github.com/apis-list/apis-list#tools)
 
-- [Applications](https://github/apis-list/apis-list#applications)
+- [Applications](https://github.com/apis-list/apis-list#applications)
 
-- [Authentication](https://github/apis-list/apis-list#authentication)
+- [Authentication](https://github.com/apis-list/apis-list#authentication)
 
-- [Open Data](https://github/apis-list/apis-list#open-data)
+- [Open Data](https://github.com/apis-list/apis-list#open-data)
 
 
 

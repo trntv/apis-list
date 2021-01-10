@@ -1,16 +1,19 @@
 # Nexchange
 
+
 API for crypto currency exchange.
+
+
 
 **Categories**:
 
-- [Cryptocurrency](https://github/apis-list/apis-list#cryptocurrency)
+- [Cryptocurrency](https://github.com/apis-list/apis-list#cryptocurrency)
 
-- [Currency](https://github/apis-list/apis-list#currency)
+- [Currency](https://github.com/apis-list/apis-list#currency)
 
-- [Financial](https://github/apis-list/apis-list#financial)
+- [Financial](https://github.com/apis-list/apis-list#financial)
 
-- [Blockchain & Cryptocurrencies](https://github/apis-list/apis-list#blockchain-and-cryptocurrencies)
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
 
 
 

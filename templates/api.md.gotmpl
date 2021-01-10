@@ -1,5 +1,5 @@
 # {{ .api.Name }}
-{{- if .api.Logo -}}
+{{ if .api.Logo -}}
 <p align="center">
     <img width="400" src="{{ .api.Logo }}" />
 </p>
@@ -7,13 +7,19 @@
 
 {{ .api.Description }}
 
+{{ if .api.SpecificationUri -}}
+## Specification:
+**Type**: {{ .api.SpecificationType }}
+**URI**: {{ .api.SpecificationUri }}
+{{ end -}}
+
 {{- if .api.DiscussionURI -}}
-💬 Discussion: [Discuss {{ .api.Name }}](.api.DiscussionURI)
+## 💬 Discussion: [Discuss {{ .api.Name }}](.api.DiscussionURI)
 {{- end }}
 
 **Categories**:
 {{ range .api.Categories }}
-- [{{ . }}](https://github/apis-list/apis-list#{{ . | slug }})
+- [{{ . }}](https://github.com/apis-list/apis-list#{{ . | slug }})
 {{ end }}
 
 {{ if .Libraries }}
@@ -21,7 +27,7 @@
 {{ range $platform, $libraries := .Libraries }}
 ### {{ $platform }}
 {{- range $libraries  }}
-- {{ .Name }}: [Documentation]({{ .HomepageURI }}), [Source code]({{ .SourceCodeURI }})
+- {{ .Name }}: [Documentation]({{ .HomepageURI }}){{ if .SourceCodeURI }}, [Source code]({{ .SourceCodeURI }}){{ end }}
 {{- end }}
 {{ end }}
 {{ end }}

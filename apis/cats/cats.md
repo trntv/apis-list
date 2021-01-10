@@ -1,5 +1,6 @@
 # Cats
 
+
 com
 
 Here you'll find the API reference & Code examples for:
@@ -7,9 +8,11 @@ Here you'll find the API reference & Code examples for:
 
 Get your API Key from - https&#x3A;//TheCatAPI
 
+
+
 **Categories**:
 
-- [Animals](https://github/apis-list/apis-list#animals)
+- [Animals](https://github.com/apis-list/apis-list#animals)
 
 
 

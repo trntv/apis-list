@@ -1,4 +1,5 @@
-# Getscreenshot By Rasterwise<p align="center">
+# Getscreenshot By Rasterwise
+<p align="center">
     <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/getscreenshot-by-rasterwise/logo_256x256.png" />
 </p>
 
@@ -6,13 +7,13 @@ A successful request to the API will return a simple JSON that includes a URL po
 
 This RESTful API can be accessed by any standard/popular client with HTTP capabilities. This means that almost any language with an HTTP request library or built-in module can make calls to GetScreenshot
 
+
+
 **Categories**:
 
-- [Webhooks](https://github/apis-list/apis-list#webhooks)
+- [Webhooks](https://github.com/apis-list/apis-list#webhooks)
 
-- [Images](https://github/apis-list/apis-list#images)
-
-
+- [Images](https://github.com/apis-list/apis-list#images)
 
 
 

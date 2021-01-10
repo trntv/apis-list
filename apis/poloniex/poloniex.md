@@ -1,14 +1,17 @@
 # Poloniex
 
+
 US based digital asset exchange
+
+
 
 **Categories**:
 
-- [Blockchain & Cryptocurrencies](https://github/apis-list/apis-list#blockchain-and-cryptocurrencies)
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
 
-- [Cryptocurrency](https://github/apis-list/apis-list#cryptocurrency)
+- [Cryptocurrency](https://github.com/apis-list/apis-list#cryptocurrency)
 
-- [Bitcoin/Bitcoin Wallets](https://github/apis-list/apis-list#bitcoin-bitcoin-wallets)
+- [Bitcoin/Bitcoin Wallets](https://github.com/apis-list/apis-list#bitcoin-bitcoin-wallets)
 
 
 

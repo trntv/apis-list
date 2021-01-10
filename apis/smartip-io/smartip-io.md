@@ -1,5 +1,6 @@
 # Smartip.Io
 
+
 - Crypto data
 Gather information about any crypto transaction related to a specific IP address. 
 - Currency data
@@ -14,11 +15,13 @@ SmartIP offers the following data points:
 - Location data
 Localize your users, apply geographical restrictions to your website and increase customer satisfaction
 
+
+
 **Categories**:
 
-- [Big Data](https://github/apis-list/apis-list#big-data)
+- [Big Data](https://github.com/apis-list/apis-list#big-data)
 
-- [Localization](https://github/apis-list/apis-list#localization)
+- [Localization](https://github.com/apis-list/apis-list#localization)
 
 
 

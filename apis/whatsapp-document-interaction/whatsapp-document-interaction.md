@@ -1,4 +1,5 @@
-# Whatsapp Document Interaction<p align="center">
+# Whatsapp Document Interaction
+<p align="center">
     <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/whatsapp-document-interaction/logo_256x256.png" />
 </p>
 
@@ -19,11 +20,11 @@
  
  https://wa
 
+
+
 **Categories**:
 
-- [Social](https://github/apis-list/apis-list#social)
-
-
+- [Social](https://github.com/apis-list/apis-list#social)
 
 
 

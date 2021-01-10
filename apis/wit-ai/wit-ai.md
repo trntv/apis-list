@@ -1,12 +1,15 @@
 # Wit.ai
 
+
 Natural Language Processing
+
+
 
 **Categories**:
 
-- [Machine Learning](https://github/apis-list/apis-list#machine-learning)
+- [Machine Learning](https://github.com/apis-list/apis-list#machine-learning)
 
-- [AI & ML](https://github/apis-list/apis-list#ai-and-ml)
+- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 
 
 

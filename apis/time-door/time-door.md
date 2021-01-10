@@ -1,36 +1,37 @@
-# Time Door<p align="center">
+# Time Door
+<p align="center">
     <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/time-door/logo_256x256.png" />
 </p>
 
 Time Door is an API for statistical insights into time series data.  Time Door is an API for statistical insights into time series data. It is easy to integrate and handles fast and messy real-world data. Sign up for free
 
+
+
 **Categories**:
 
-- [Monitoring](https://github/apis-list/apis-list#monitoring)
+- [Monitoring](https://github.com/apis-list/apis-list#monitoring)
 
-- [Time](https://github/apis-list/apis-list#time)
+- [Time](https://github.com/apis-list/apis-list#time)
 
-- [Intelligence](https://github/apis-list/apis-list#intelligence)
+- [Intelligence](https://github.com/apis-list/apis-list#intelligence)
 
-- [Open Data](https://github/apis-list/apis-list#open-data)
+- [Open Data](https://github.com/apis-list/apis-list#open-data)
 
-- [AI & ML](https://github/apis-list/apis-list#ai-and-ml)
+- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 
-- [Analytics](https://github/apis-list/apis-list#analytics)
+- [Analytics](https://github.com/apis-list/apis-list#analytics)
 
-- [Data Mining](https://github/apis-list/apis-list#data-mining)
+- [Data Mining](https://github.com/apis-list/apis-list#data-mining)
 
-- [Algorithms](https://github/apis-list/apis-list#algorithms)
+- [Algorithms](https://github.com/apis-list/apis-list#algorithms)
 
-- [Science & Math](https://github/apis-list/apis-list#science-and-math)
+- [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
 
-- [Machine Learning](https://github/apis-list/apis-list#machine-learning)
+- [Machine Learning](https://github.com/apis-list/apis-list#machine-learning)
 
-- [Artificial Intelligence](https://github/apis-list/apis-list#artificial-intelligence)
+- [Artificial Intelligence](https://github.com/apis-list/apis-list#artificial-intelligence)
 
-- [Big Data](https://github/apis-list/apis-list#big-data)
-
-
+- [Big Data](https://github.com/apis-list/apis-list#big-data)
 
 
 

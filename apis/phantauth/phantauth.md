@@ -1,23 +1,21 @@
-# PhantAuth<p align="center">
+# PhantAuth
+<p align="center">
     <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/phantauth/logo_256x256.png" />
 </p>
 
 Random User Generator + OpenID Connect Provider.  Like Lorem Ipsum, but for user accounts and authentication
 
+
+
 **Categories**:
 
-- [Other](https://github/apis-list/apis-list#other)
+- [Other](https://github.com/apis-list/apis-list#other)
 
-- [Authentication](https://github/apis-list/apis-list#authentication)
+- [Authentication](https://github.com/apis-list/apis-list#authentication)
 
-- [Authorization](https://github/apis-list/apis-list#authorization)
+- [Authorization](https://github.com/apis-list/apis-list#authorization)
 
-- [Testing](https://github/apis-list/apis-list#testing)
-
-
-
-
-
+- [Testing](https://github.com/apis-list/apis-list#testing)
 
 
 

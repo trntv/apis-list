@@ -1,16 +1,19 @@
 # Mapbox
 
+
 Access to MapBox’s API
+
+
 
 **Categories**:
 
-- [Geography](https://github/apis-list/apis-list#geography)
+- [Geography](https://github.com/apis-list/apis-list#geography)
 
-- [Visualizations](https://github/apis-list/apis-list#visualizations)
+- [Visualizations](https://github.com/apis-list/apis-list#visualizations)
 
-- [Maps & Geo](https://github/apis-list/apis-list#maps-and-geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 
-- [Mapping](https://github/apis-list/apis-list#mapping)
+- [Mapping](https://github.com/apis-list/apis-list#mapping)
 
 
 

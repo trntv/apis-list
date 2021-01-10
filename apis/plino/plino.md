@@ -1,14 +1,17 @@
 # Plino
 
+
 Plino - A responsive spam filtering system - Tasdik Rahman.  Plino - A responsive spam filtering system - Tasdik Rahman
+
+
 
 **Categories**:
 
-- [Security](https://github/apis-list/apis-list#security)
+- [Security](https://github.com/apis-list/apis-list#security)
 
-- [Development](https://github/apis-list/apis-list#development)
+- [Development](https://github.com/apis-list/apis-list#development)
 
-- [Spam](https://github/apis-list/apis-list#spam)
+- [Spam](https://github.com/apis-list/apis-list#spam)
 
 
 

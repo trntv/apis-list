@@ -1,24 +1,25 @@
-# languagelayer<p align="center">
+# languagelayer
+<p align="center">
     <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/languagelayer/logo_256x256.png" />
 </p>
 
 Free, powerful language detection JSON API for 173 languages, supporting single and batch requests, PHP, JavaScript, Python, Ruby, Java, and more. Free, powerful language detection JSON API for 173 languages, supporting single and batch requests, PHP, JavaScript, Python, Ruby, Java, and more.
 
+
+
 **Categories**:
 
-- [Text](https://github/apis-list/apis-list#text)
+- [Text](https://github.com/apis-list/apis-list#text)
 
-- [Words](https://github/apis-list/apis-list#words)
+- [Words](https://github.com/apis-list/apis-list#words)
 
-- [Validation & Verification](https://github/apis-list/apis-list#validation-and-verification)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
 
-- [Language](https://github/apis-list/apis-list#language)
+- [Language](https://github.com/apis-list/apis-list#language)
 
-- [Recognition](https://github/apis-list/apis-list#recognition)
+- [Recognition](https://github.com/apis-list/apis-list#recognition)
 
-- [Text Analysis](https://github/apis-list/apis-list#text-analysis)
-
-
+- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 
 
 

@@ -1,22 +1,25 @@
-# GeoNames<p align="center">
+# GeoNames
+<p align="center">
     <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/geonames/logo_256x256.png" />
 </p>
 
 Important: Do not use the 'demo' account for your app or your tests. It is only meant for the sample links on the docu. GeoNames Web Services Documentation GeoNames is mainly using REST webservices
 
+
+
 **Categories**:
 
-- [Postal](https://github/apis-list/apis-list#postal)
+- [Postal](https://github.com/apis-list/apis-list#postal)
 
-- [Weather](https://github/apis-list/apis-list#weather)
+- [Weather](https://github.com/apis-list/apis-list#weather)
 
-- [Maps & Geo](https://github/apis-list/apis-list#maps-and-geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 
-- [Reference](https://github/apis-list/apis-list#reference)
+- [Reference](https://github.com/apis-list/apis-list#reference)
 
-- [Databases](https://github/apis-list/apis-list#databases)
+- [Databases](https://github.com/apis-list/apis-list#databases)
 
-- [Mapping](https://github/apis-list/apis-list#mapping)
+- [Mapping](https://github.com/apis-list/apis-list#mapping)
 
 
 

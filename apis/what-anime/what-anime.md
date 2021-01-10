@@ -2,9 +2,12 @@
 
 
 
+
+
+
 **Categories**:
 
-- [Entertainment](https://github/apis-list/apis-list#entertainment)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 
 
 

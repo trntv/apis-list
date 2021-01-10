@@ -1,4 +1,5 @@
-# Evident Proof<p align="center">
+# Evident Proof
+<p align="center">
     <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/evident-proof/logo_256x256.png" />
 </p>
 
@@ -6,14 +7,14 @@ Users of Evident Proof can plug any data source sitting on current databases to 
  
 The Evident Proof API allows developers to access and integrate the functionality of Evident Proof with other applications and systems
 
+
+
 **Categories**:
 
-- [Other](https://github/apis-list/apis-list#other)
+- [Other](https://github.com/apis-list/apis-list#other)
 
 
 
-
-
-data),
+,
 
 

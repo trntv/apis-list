@@ -1,20 +1,23 @@
 # Yelp Fusion API
 
+
 Allows greater developer access to native Yelp data and features.  Yelp for Developers - Build with Yelp
+
+
 
 **Categories**:
 
-- [Directories](https://github/apis-list/apis-list#directories)
+- [Directories](https://github.com/apis-list/apis-list#directories)
 
-- [Commerce & Marketplaces](https://github/apis-list/apis-list#commerce-and-marketplaces)
+- [Commerce & Marketplaces](https://github.com/apis-list/apis-list#commerce-and-marketplaces)
 
-- [Localization](https://github/apis-list/apis-list#localization)
+- [Localization](https://github.com/apis-list/apis-list#localization)
 
-- [Recommendations](https://github/apis-list/apis-list#recommendations)
+- [Recommendations](https://github.com/apis-list/apis-list#recommendations)
 
-- [Search](https://github/apis-list/apis-list#search)
+- [Search](https://github.com/apis-list/apis-list#search)
 
-- [Business](https://github/apis-list/apis-list#business)
+- [Business](https://github.com/apis-list/apis-list#business)
 
 
 

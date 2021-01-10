@@ -1,12 +1,15 @@
 # Open Trivia
 
+
 Free to use, user-contributed trivia questions!
+
+
 
 **Categories**:
 
-- [Entertainment](https://github/apis-list/apis-list#entertainment)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 
-- [Games & Comics](https://github/apis-list/apis-list#games-and-comics)
+- [Games & Comics](https://github.com/apis-list/apis-list#games-and-comics)
 
 
 

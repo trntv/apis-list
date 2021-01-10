@@ -1,26 +1,29 @@
 # Microsoft Graph
 
+
 Find out how you can use the Microsoft Graph API to connect to the data that drives productivity - mail, calendar, contacts, documents, directory, devices, and more. API for accessing stored files and photos for personal and enterprise users with high resolution thumbnails and Microsoft Office APIs
+
+
 
 **Categories**:
 
-- [Calendars](https://github/apis-list/apis-list#calendars)
+- [Calendars](https://github.com/apis-list/apis-list#calendars)
 
-- [Files & Storage](https://github/apis-list/apis-list#files-and-storage)
+- [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
 
-- [Collaboration](https://github/apis-list/apis-list#collaboration)
+- [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 
-- [Documents & Productivity](https://github/apis-list/apis-list#documents-and-productivity)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
 
-- [Contacts](https://github/apis-list/apis-list#contacts)
+- [Contacts](https://github.com/apis-list/apis-list#contacts)
 
-- [Directories](https://github/apis-list/apis-list#directories)
+- [Directories](https://github.com/apis-list/apis-list#directories)
 
-- [Email & SMS](https://github/apis-list/apis-list#email-and-sms)
+- [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
 
-- [Aggregation](https://github/apis-list/apis-list#aggregation)
+- [Aggregation](https://github.com/apis-list/apis-list#aggregation)
 
-- [Notes](https://github/apis-list/apis-list#notes)
+- [Notes](https://github.com/apis-list/apis-list#notes)
 
 
 

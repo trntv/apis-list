@@ -1,24 +1,27 @@
 # SecurityTrails
 
+
 Welcome to SecurityTrails! This page will help you get started. You'll be up and running in a jiffy!
+
+
 
 **Categories**:
 
-- [Data-As-A-Service](https://github/apis-list/apis-list#data-as-a-service)
+- [Data-As-A-Service](https://github.com/apis-list/apis-list#data-as-a-service)
 
-- [Domains](https://github/apis-list/apis-list#domains)
+- [Domains](https://github.com/apis-list/apis-list#domains)
 
-- [Safety](https://github/apis-list/apis-list#safety)
+- [Safety](https://github.com/apis-list/apis-list#safety)
 
-- [Security](https://github/apis-list/apis-list#security)
+- [Security](https://github.com/apis-list/apis-list#security)
 
-- [API](https://github/apis-list/apis-list#api)
+- [API](https://github.com/apis-list/apis-list#api)
 
-- [Banking](https://github/apis-list/apis-list#banking)
+- [Banking](https://github.com/apis-list/apis-list#banking)
 
-- [Big Data](https://github/apis-list/apis-list#big-data)
+- [Big Data](https://github.com/apis-list/apis-list#big-data)
 
-- [Compliance](https://github/apis-list/apis-list#compliance)
+- [Compliance](https://github.com/apis-list/apis-list#compliance)
 
 
 

@@ -1,18 +1,21 @@
 # PurgoMalum
 
+
 That’s an error. Access is forbidden. That’s all we know. 403
+
+
 
 **Categories**:
 
-- [Validation & Verification](https://github/apis-list/apis-list#validation-and-verification)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
 
-- [Content](https://github/apis-list/apis-list#content)
+- [Content](https://github.com/apis-list/apis-list#content)
 
-- [Family](https://github/apis-list/apis-list#family)
+- [Family](https://github.com/apis-list/apis-list#family)
 
-- [Text](https://github/apis-list/apis-list#text)
+- [Text](https://github.com/apis-list/apis-list#text)
 
-- [Words](https://github/apis-list/apis-list#words)
+- [Words](https://github.com/apis-list/apis-list#words)
 
 
 

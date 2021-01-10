@@ -1,12 +1,15 @@
 # Sharedcount
 
+
 Social media like and share data for any URL.  Project doesnt exist. yet! Make it yours! Sign up now! {}
+
+
 
 **Categories**:
 
-- [Analytics](https://github/apis-list/apis-list#analytics)
+- [Analytics](https://github.com/apis-list/apis-list#analytics)
 
-- [Social](https://github/apis-list/apis-list#social)
+- [Social](https://github.com/apis-list/apis-list#social)
 
 
 

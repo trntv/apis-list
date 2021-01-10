@@ -1,13 +1,16 @@
 # Mozilla Addons
 
+
 Firefox Addons API
+
+
 
 **Categories**:
 
-- [Web](https://github/apis-list/apis-list#web)
+- [Web](https://github.com/apis-list/apis-list#web)
 
 
 
-esome-apis/apis-list#solar-data),
+pis/apis-list#solar-data),
 
 

@@ -1,22 +1,25 @@
-# UPC database<p align="center">
+# UPC database
+<p align="center">
     <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/upc-database/logo_256x256.png" />
 </p>
 
 Integrate your own applications using our new API. Integrate your own applications using our new API
 
+
+
 **Categories**:
 
-- [Products](https://github/apis-list/apis-list#products)
+- [Products](https://github.com/apis-list/apis-list#products)
 
-- [Reference](https://github/apis-list/apis-list#reference)
+- [Reference](https://github.com/apis-list/apis-list#reference)
 
-- [Open Data](https://github/apis-list/apis-list#open-data)
+- [Open Data](https://github.com/apis-list/apis-list#open-data)
 
-- [Barcodes](https://github/apis-list/apis-list#barcodes)
+- [Barcodes](https://github.com/apis-list/apis-list#barcodes)
 
-- [Databases](https://github/apis-list/apis-list#databases)
+- [Databases](https://github.com/apis-list/apis-list#databases)
 
-- [Commerce & Marketplaces](https://github/apis-list/apis-list#commerce-and-marketplaces)
+- [Commerce & Marketplaces](https://github.com/apis-list/apis-list#commerce-and-marketplaces)
 
 
 

@@ -19,7 +19,10 @@ type API struct {
 	DiscussionURI string   `yaml:"discussion_uri,omitempty"`
 	Type          string   `yaml:"type"`
 	Contact       string   `yaml:"contact,omitempty"`
-	IsActive        bool     `yaml:"is_active"`
+	IsActive      bool     `yaml:"is_active"`
+
+	SpecificationType string `yaml:"specification_type"`
+	SpecificationUri  string `yaml:"specification_uri"`
 
 	Libraries Libraries `yaml:"libraries,omitempty"`
 }

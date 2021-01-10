@@ -1,14 +1,17 @@
 # Tronald Dump
 
+
 Tronald Dump Api & web archive for the dumbest things Donald Trump has ever said
+
+
 
 **Categories**:
 
-- [Humor](https://github/apis-list/apis-list#humor)
+- [Humor](https://github.com/apis-list/apis-list#humor)
 
-- [Politics](https://github/apis-list/apis-list#politics)
+- [Politics](https://github.com/apis-list/apis-list#politics)
 
-- [Entertainment](https://github/apis-list/apis-list#entertainment)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 
 
 
