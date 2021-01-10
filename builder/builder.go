@@ -26,7 +26,7 @@ func Render(l APIs, dir string) error {
 		return err
 	}
 
-	readmeFile, err := os.OpenFile(path.Join(dir, "README.md"), os.O_CREATE|os.O_RDWR, os.ModePerm)
+	readmeFile, err := os.OpenFile(path.Join(dir, "README.md"), os.O_CREATE|os.O_RDWR|os.O_TRUNC, os.ModePerm)
 	if err != nil {
 		return err
 	}

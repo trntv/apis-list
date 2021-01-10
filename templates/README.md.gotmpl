@@ -9,27 +9,27 @@ It includes APIs description, links to docs, specification, list of SDK and libr
 This list intended to be maintained by wide open source community, so any contributions appreciated.
 If you want to add/edit/remove/etc APIs from this list, please see the [contributing guide](CONTRIBUTE.md).
 
-Discuss any topic related to the specific API you can [here](https://github.com/apis-directory/apis-directory/discussions/categories/apis)
+Discuss any topic related to the specific API you can [here](https://github.com/apis-list/apis-list/discussions/categories/apis)
 
 ## Index
-{{ range $category, $apis := .apis -}}
+{{- range $category, $apis := .apis }}
 - [{{ $category }}](#{{ $category | slug}})
 {{ end -}}
+- [🪦 Graveyard](#graveyard)
 
 ## APIs
 {{ range $category, $apis := .apis }}
 ### {{ $category }}
-{{ range $apis }}
+{{ range $apis -}}
 {{- if eq .IsActive true -}}
-- [{{ .Name }}](https://github.com/apis-directory/apis-directory/tree/master/{{.Slug}}) - {{ .Description | short }}
-{{- end }}
+- [{{ .Name }}](https://github.com/apis-list/apis-list/tree/main/{{.Slug}}) - {{ .Description | short }}
+{{ end -}}
+{{ end -}}
 {{ end }}
-{{ end }}
-- [🪦 Graveyard](#graveyard)
 
 ## 🪦 Graveyard
-{{ range .graveyard }}
-- [{{ .Name }}](https://github.com/apis-directory/apis-directory/tree/master/{{.Slug}}) - {{ .Description | short }}
+{{ range .graveyard -}}
+- [{{ .Name }}](https://github.com/apis-list/apis-list/tree/main/{{.Slug}}) - {{ .Description | short }}
 {{ end }}
 
 ## Contributors
