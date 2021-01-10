@@ -1,0 +1,118 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "https://raw.githubusercontent.com/apis-list/apis-list/main/schema.json",
+  "type": "object",
+  "required": [
+    "name",
+    "slug",
+    "categories",
+    "uri",
+    "is_active"
+  ],
+  "properties": {
+    "name": {
+      "$id": "#/properties/name",
+      "type": "string"
+    },
+    "slug": {
+      "$id": "#/properties/slug",
+      "type": "string"
+    },
+    "categories": {
+      "$id": "#/properties/categories",
+      "type": "array",
+      "additionalItems": true,
+      "items": {
+        "$id": "#/properties/categories/items",
+        "anyOf": [
+          {
+            "$id": "#/properties/categories/items/anyOf/0",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    "description": {
+      "$id": "#/properties/description",
+      "type": "string"
+    },
+    "uri": {
+      "$id": "#/properties/uri",
+      "type": "string"
+    },
+    "is_paid": {
+      "$id": "#/properties/is_paid",
+      "type": "boolean"
+    },
+    "is_opensource": {
+      "$id": "#/properties/is_opensource",
+      "type": "boolean"
+    },
+    "logo": {
+      "$id": "#/properties/logo",
+      "type": "string"
+    },
+    "discussion_uri": {
+      "$id": "#/properties/discussion_uri",
+      "type": "string"
+    },
+    "type": {
+      "$id": "#/properties/type",
+      "type": "string"
+    },
+    "contact": {
+      "$id": "#/properties/contact",
+      "type": "string"
+    },
+    "is_active": {
+      "$id": "#/properties/is_active",
+      "type": "boolean"
+    },
+    "libraries": {
+      "$id": "#/properties/libraries",
+      "type": "array",
+      "additionalItems": true,
+      "items": {
+        "$id": "#/properties/libraries/items",
+        "anyOf": [
+          {
+            "$id": "#/properties/libraries/items/anyOf/0",
+            "type": "object",
+            "required": [
+              "name",
+              "homepage_uri"
+            ],
+            "properties": {
+              "name": {
+                "$id": "#/properties/libraries/items/anyOf/0/properties/name",
+                "type": "string"
+              },
+              "description": {
+                "$id": "#/properties/libraries/items/anyOf/0/properties/description",
+                "type": "string"
+              },
+              "homepage_uri": {
+                "$id": "#/properties/libraries/items/anyOf/0/properties/homepage_uri",
+                "type": "string"
+              },
+              "source_code_uri": {
+                "$id": "#/properties/libraries/items/anyOf/0/properties/source_code_uri",
+                "type": "string"
+              },
+              "version": {
+                "$id": "#/properties/libraries/items/anyOf/0/properties/version",
+                "type": "string"
+              },
+              "platform": {
+                "$id": "#/properties/libraries/items/anyOf/0/properties/platform",
+                "type": "string"
+              }
+            },
+            "additionalProperties": true
+          }
+        ]
+      }
+    }
+  },
+  "additionalProperties": true
+}

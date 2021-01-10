@@ -1,0 +1,10 @@
+# This is taskctl's configuration file.
+# More information at https://github.com/taskctl/taskctl
+tasks:
+  builder:format:
+    command:
+      - go fmt ./builder/...
+
+  tools:check-links:
+    command:
+      - npm run check-links

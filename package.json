@@ -1,0 +1,14 @@
+{
+  "name": "apis-list",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "check-links": "node tools/check-links.js ${PWD}/apis.yaml"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "yaml": "^1.10.0"
+  }
+}

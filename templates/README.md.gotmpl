@@ -1,0 +1,45 @@
+**Before you begin**
+This project is under heavy development. Structure, tooling, content are being constantly reviewing and improving.
+You can join project creation if you have any ideas how to make it better or time to help.
+
+# Public APIs directory
+This project is an attempt to categorise and compile information about different public APIs into one place.
+It includes APIs description, links to docs, specification, list of SDK and libraries, logo etc.
+
+This list intended to be maintained by wide open source community, so any contributions appreciated.
+If you want to add/edit/remove/etc APIs from this list, please see the [contributing guide](CONTRIBUTE.md).
+
+Discuss any topic related to the specific API you can [here](https://github.com/apis-directory/apis-directory/discussions/categories/apis)
+
+## Index
+{{ range $category, $apis := .apis -}}
+- [{{ $category }}](#{{ $category | slug}})
+{{ end -}}
+
+## APIs
+{{ range $category, $apis := .apis }}
+### {{ $category }}
+{{ range $apis }}
+{{- if eq .IsActive true -}}
+- [{{ .Name }}](https://github.com/apis-directory/apis-directory/tree/master/{{.Slug}}) - {{ .Description | short }}
+{{- end }}
+{{ end }}
+{{ end }}
+- [🪦 Graveyard](#graveyard)
+
+## 🪦 Graveyard
+{{ range .graveyard }}
+- [{{ .Name }}](https://github.com/apis-directory/apis-directory/tree/master/{{.Slug}}) - {{ .Description | short }}
+{{ end }}
+
+## Contributors
+
+This project exists because of people who spent their time to make software development a little bit better. Thank you!
+
+
+## Similar projects
+This project was heavily inspired by:
+- [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs)
+- [public-apis/public-apis](https://github.com/public-apis/public-apis)
+- [APIs-guru/openapi-directory](APIs-guru/openapi-directory)
+
