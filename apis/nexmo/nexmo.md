@@ -8,9 +8,9 @@ Make and receive phone calls, send and receive SMS worldwide.  Libraries in Node
 
 
 **Categories**:
-- [Communications](https://github.com/apis-list/apis-list#communications)
 - [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
 - [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
+- [Communications](https://github.com/apis-list/apis-list#communications)
 
 
 

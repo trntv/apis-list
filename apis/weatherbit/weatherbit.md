@@ -8,12 +8,12 @@ Weather API Documentation.  Use our Weather API to access weather forecasts, and
 
 
 **Categories**:
-- [Climate](https://github.com/apis-list/apis-list#climate)
-- [Data-As-A-Service](https://github.com/apis-list/apis-list#data-as-a-service)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Weather](https://github.com/apis-list/apis-list#weather)
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
 - [Big Data](https://github.com/apis-list/apis-list#big-data)
+- [Climate](https://github.com/apis-list/apis-list#climate)
+- [Data-As-A-Service](https://github.com/apis-list/apis-list#data-as-a-service)
 
 
 

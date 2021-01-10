@@ -8,10 +8,10 @@ Contribute to AniList/ApiV2-GraphQL-Docs development by creating an account on G
 
 
 **Categories**:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-- [Animation](https://github.com/apis-list/apis-list#animation)
 - [Japanese](https://github.com/apis-list/apis-list#japanese)
 - [Movies](https://github.com/apis-list/apis-list#movies)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+- [Animation](https://github.com/apis-list/apis-list#animation)
 
 
 

@@ -6,9 +6,9 @@ IP Vigilante provides a free geographical IP locator API, so the developers can 
 
 
 **Categories**:
+- [Location](https://github.com/apis-list/apis-list#location)
 - [Postal](https://github.com/apis-list/apis-list#postal)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
-- [Location](https://github.com/apis-list/apis-list#location)
 
 
 

@@ -8,9 +8,9 @@ You have 1000 daily quota calls for your project. API Generator for telephones, 
 
 
 **Categories**:
-- [Random](https://github.com/apis-list/apis-list#random)
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
 - [Development](https://github.com/apis-list/apis-list#development)
+- [Random](https://github.com/apis-list/apis-list#random)
 
 
 

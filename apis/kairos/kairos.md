@@ -8,15 +8,18 @@ Face recognition, emotion analysis and measuring engagement of people in images 
 
 
 **Categories**:
-- [3D](https://github.com/apis-list/apis-list#3d)
-- [Recognition](https://github.com/apis-list/apis-list#recognition)
 - [Photography](https://github.com/apis-list/apis-list#photography)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
-- [Images](https://github.com/apis-list/apis-list#images)
 - [Tools](https://github.com/apis-list/apis-list#tools)
 - [Authentication](https://github.com/apis-list/apis-list#authentication)
 - [Authorization](https://github.com/apis-list/apis-list#authorization)
 - [Identity](https://github.com/apis-list/apis-list#identity)
+- [Images](https://github.com/apis-list/apis-list#images)
+- [Recognition](https://github.com/apis-list/apis-list#recognition)
+
+
+
+tps://github.com/apis-list/apis-list#identity)
 
 
 

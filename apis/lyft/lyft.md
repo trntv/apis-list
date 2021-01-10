@@ -5,11 +5,13 @@
 
 Get real-time ETAs, availability, price estimates, ride status through the Lyft API. Learn more about how you can create delightful experiences that transport people —leveraging the power of Lyft's API.
 
+## Specification:
+**Type**: swagger
+**URI**: https://api.lyft.com/v1/spec
 
 
 **Categories**:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
-
 
 
 

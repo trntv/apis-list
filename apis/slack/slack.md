@@ -8,11 +8,11 @@ Slack APIs allow you to integrate complex services with Slack to go beyond the i
 
 
 **Categories**:
-- [Social](https://github.com/apis-list/apis-list#social)
 - [Tools](https://github.com/apis-list/apis-list#tools)
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 - [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
 - [Search](https://github.com/apis-list/apis-list#search)
+- [Social](https://github.com/apis-list/apis-list#social)
 
 
 

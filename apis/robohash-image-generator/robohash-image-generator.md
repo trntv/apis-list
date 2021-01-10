@@ -8,10 +8,10 @@ Generates cool looking robot image for any text
 
 
 **Categories**:
-- [Animation](https://github.com/apis-list/apis-list#animation)
-- [Avatars](https://github.com/apis-list/apis-list#avatars)
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Robots](https://github.com/apis-list/apis-list#robots)
+- [Animation](https://github.com/apis-list/apis-list#animation)
+- [Avatars](https://github.com/apis-list/apis-list#avatars)
 
 
 

@@ -6,8 +6,8 @@ Prague City Open Data.  Vítejte na celoměstském portálu pro otevřená data 
 
 
 **Categories**:
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Government](https://github.com/apis-list/apis-list#government)
+- [Open Data](https://github.com/apis-list/apis-list#open-data)
 
 
 

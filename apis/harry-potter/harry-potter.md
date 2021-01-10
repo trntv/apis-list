@@ -8,10 +8,10 @@ Harry Potter API Documentation Response Formats Authentication All Routes Sortin
 
 
 **Categories**:
-- [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Books](https://github.com/apis-list/apis-list#books)
 - [Movies](https://github.com/apis-list/apis-list#movies)
+- [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
 
 
 

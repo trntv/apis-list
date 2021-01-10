@@ -3,6 +3,9 @@
 
 © Copyright 2018, Noun Project. . © Copyright 2018, Noun Project
 
+## Specification:
+**Type**: swagger
+**URI**: http://api.thenounproject.com/config/api-doc
 
 
 **Categories**:
@@ -12,12 +15,5 @@
 - [Other](https://github.com/apis-list/apis-list#other)
 - [Visualizations](https://github.com/apis-list/apis-list#visualizations)
 
-
-
-)
-
-
-
--list/apis-list#collecting),
 
 

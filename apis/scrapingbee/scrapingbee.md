@@ -14,10 +14,10 @@ ScrapingBee is a simple API that does all the above for you. It is truly the mos
 
 
 **Categories**:
-- [Data-As-A-Service](https://github.com/apis-list/apis-list#data-as-a-service)
-- [Extraction](https://github.com/apis-list/apis-list#extraction)
 - [Software-As-A-Service](https://github.com/apis-list/apis-list#software-as-a-service)
 - [Data Mining](https://github.com/apis-list/apis-list#data-mining)
+- [Data-As-A-Service](https://github.com/apis-list/apis-list#data-as-a-service)
+- [Extraction](https://github.com/apis-list/apis-list#extraction)
 
 
 

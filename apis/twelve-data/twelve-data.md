@@ -8,9 +8,9 @@ Stock market data (real-time & historical). Explore real time stock market data,
 
 
 **Categories**:
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 - [Financial](https://github.com/apis-list/apis-list#financial)
 - [Cryptocurrency](https://github.com/apis-list/apis-list#cryptocurrency)
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 
 
 

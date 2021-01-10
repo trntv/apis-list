@@ -5,17 +5,14 @@
 
 An OpenAPI for EVE Online
 
+## Specification:
+**Type**: swagger
+**URI**: https://esi.tech.ccp.is/latest/swagger.json
 
 
 **Categories**:
-- [Games & Comics](https://github.com/apis-list/apis-list#games-and-comics)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-
-
-
-
-
-ithub/apis-list/apis-list#entertainment)
+- [Games & Comics](https://github.com/apis-list/apis-list#games-and-comics)
 
 
 

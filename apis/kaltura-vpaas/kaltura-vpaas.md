@@ -9,16 +9,16 @@ Kaltura VPaaS eliminates all complexities involved in handling video at scale: i
 
 
 **Categories**:
+- [Applications](https://github.com/apis-list/apis-list#applications)
+- [Trim](https://github.com/apis-list/apis-list#trim)
+- [Media Workflows](https://github.com/apis-list/apis-list#media-workflows)
+- [Media](https://github.com/apis-list/apis-list#media)
+- [Video Processing](https://github.com/apis-list/apis-list#video-processing)
+- [Asset Management](https://github.com/apis-list/apis-list#asset-management)
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
 - [Clipping](https://github.com/apis-list/apis-list#clipping)
 - [Interactive Video](https://github.com/apis-list/apis-list#interactive-video)
 - [Tools](https://github.com/apis-list/apis-list#tools)
-- [Media Workflows](https://github.com/apis-list/apis-list#media-workflows)
-- [Media](https://github.com/apis-list/apis-list#media)
-- [Video Processing](https://github.com/apis-list/apis-list#video-processing)
-- [Applications](https://github.com/apis-list/apis-list#applications)
-- [Asset Management](https://github.com/apis-list/apis-list#asset-management)
-- [Trim](https://github.com/apis-list/apis-list#trim)
 
 
 

@@ -8,10 +8,10 @@ Get online news, blogs, social and TV/radio through a JSON API - easy integratio
 
 
 **Categories**:
-- [Feeds](https://github.com/apis-list/apis-list#feeds)
-- [Media](https://github.com/apis-list/apis-list#media)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
+- [Feeds](https://github.com/apis-list/apis-list#feeds)
+- [Media](https://github.com/apis-list/apis-list#media)
 
 
 

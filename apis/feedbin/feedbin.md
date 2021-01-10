@@ -8,8 +8,8 @@ Feedbin API Documentation. Contribute to feedbin/feedbin-api development by crea
 
 
 **Categories**:
-- [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
 - [Feeds](https://github.com/apis-list/apis-list#feeds)
+- [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
 
 
 

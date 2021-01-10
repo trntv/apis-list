@@ -8,8 +8,8 @@ While we try to avoid it, we may occasionally need to make breaking changes; sub
 
 
 **Categories**:
-- [Reference](https://github.com/apis-list/apis-list#reference)
 - [Wiki](https://github.com/apis-list/apis-list#wiki)
+- [Reference](https://github.com/apis-list/apis-list#reference)
 
 
 

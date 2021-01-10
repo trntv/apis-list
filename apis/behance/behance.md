@@ -9,10 +9,10 @@ Behance is the world's largest creative network for showcasing and discovering c
 
 **Categories**:
 - [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
+- [Other](https://github.com/apis-list/apis-list#other)
 
 
 
-
-/github/apis-list/apis-list#art-and-design), [Solar Data](https://github/apis-list/apis-list#solar-data), [Art](https://github/apis-list/apis-list#art),
+a](https://github/apis-list/apis-list#solar-data), [Art](https://github/apis-list/apis-list#art),
 
 

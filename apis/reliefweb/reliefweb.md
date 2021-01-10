@@ -11,13 +11,13 @@ and much much more
 **Categories**:
 - [Coronavirus](https://github.com/apis-list/apis-list#coronavirus)
 - [Environment](https://github.com/apis-list/apis-list#environment)
-- [COVID-19](https://github.com/apis-list/apis-list#covid-19)
 - [Earthquakes](https://github.com/apis-list/apis-list#earthquakes)
+- [Government](https://github.com/apis-list/apis-list#government)
+- [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
+- [COVID-19](https://github.com/apis-list/apis-list#covid-19)
 - [Non-Profit](https://github.com/apis-list/apis-list#non-profit)
 - [Community](https://github.com/apis-list/apis-list#community)
-- [Government](https://github.com/apis-list/apis-list#government)
 - [Emergency](https://github.com/apis-list/apis-list#emergency)
-- [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
 
 
 

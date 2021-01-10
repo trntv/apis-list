@@ -5,6 +5,9 @@
 
 Numbers.  Number of the day, random number generation , number facts and anything else you want to do with numbers. Number of the day, random number generation , number facts and anything else you want to do with numbers
 
+## Specification:
+**Type**: openapi
+**URI**: https://api.math.tools/yaml/math.tools.numbers.openapi.yaml
 
 
 **Categories**:
@@ -12,10 +15,6 @@ Numbers.  Number of the day, random number generation , number facts and anythin
 - [Math](https://github.com/apis-list/apis-list#math)
 - [Recreation](https://github.com/apis-list/apis-list#recreation)
 - [Reference](https://github.com/apis-list/apis-list#reference)
-
-
-
-
 
 
 

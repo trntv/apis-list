@@ -6,10 +6,10 @@ API Usage /Clues Url: /api/clues Options All options are optional: value(int): t
 
 
 **Categories**:
-- [Games & Comics](https://github.com/apis-list/apis-list#games-and-comics)
-- [Trivia](https://github.com/apis-list/apis-list#trivia)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+- [Games & Comics](https://github.com/apis-list/apis-list#games-and-comics)
+- [Trivia](https://github.com/apis-list/apis-list#trivia)
 
 
 

@@ -6,10 +6,10 @@ The API is an open source multi ledger API, that allows developers to build mult
 
 
 **Categories**:
-- [Cryptocurrency](https://github.com/apis-list/apis-list#cryptocurrency)
-- [Blockchain](https://github.com/apis-list/apis-list#blockchain)
 - [Accounting](https://github.com/apis-list/apis-list#accounting)
 - [Open Source](https://github.com/apis-list/apis-list#open-source)
+- [Cryptocurrency](https://github.com/apis-list/apis-list#cryptocurrency)
+- [Blockchain](https://github.com/apis-list/apis-list#blockchain)
 
 
 

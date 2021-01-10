@@ -6,20 +6,20 @@ Multilingual summarization, keywords and sentiment analysis, language recognitio
 
 
 **Categories**:
-- [Machine Learning](https://github.com/apis-list/apis-list#machine-learning)
-- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
+- [Extraction](https://github.com/apis-list/apis-list#extraction)
+- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+- [Aggregation](https://github.com/apis-list/apis-list#aggregation)
+- [Natural Language Processing](https://github.com/apis-list/apis-list#natural-language-processing)
+- [Artificial Intelligence](https://github.com/apis-list/apis-list#artificial-intelligence)
+- [Intelligence](https://github.com/apis-list/apis-list#intelligence)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
+- [Annotations](https://github.com/apis-list/apis-list#annotations)
 - [Documents](https://github.com/apis-list/apis-list#documents)
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
-- [Intelligence](https://github.com/apis-list/apis-list#intelligence)
-- [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
 - [Images](https://github.com/apis-list/apis-list#images)
-- [Artificial Intelligence](https://github.com/apis-list/apis-list#artificial-intelligence)
-- [Extraction](https://github.com/apis-list/apis-list#extraction)
-- [Aggregation](https://github.com/apis-list/apis-list#aggregation)
-- [Natural Language Processing](https://github.com/apis-list/apis-list#natural-language-processing)
-- [Annotations](https://github.com/apis-list/apis-list#annotations)
+- [Machine Learning](https://github.com/apis-list/apis-list#machine-learning)
 
 
 

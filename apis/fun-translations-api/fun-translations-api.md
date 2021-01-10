@@ -8,10 +8,10 @@ World's best fun translation tools via REST API.  Yoda speak converter, pirate c
 
 
 **Categories**:
-- [Translation](https://github.com/apis-list/apis-list#translation)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Languages](https://github.com/apis-list/apis-list#languages)
 - [Text](https://github.com/apis-list/apis-list#text)
+- [Translation](https://github.com/apis-list/apis-list#translation)
 
 
 

@@ -8,13 +8,13 @@ Whether you have one input or billions, you are only steps away from using AI to
 
 
 **Categories**:
-- [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
 - [Recognition](https://github.com/apis-list/apis-list#recognition)
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Photography](https://github.com/apis-list/apis-list#photography)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Tagging](https://github.com/apis-list/apis-list#tagging)
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
 
 
 

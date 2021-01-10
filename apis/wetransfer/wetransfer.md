@@ -8,9 +8,9 @@ Put us in unexpected places, challenge the traditional creative flow, think big,
 
 
 **Categories**:
+- [Documents](https://github.com/apis-list/apis-list#documents)
 - [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
 - [Cloud Storage & File Sharing](https://github.com/apis-list/apis-list#cloud-storage-and-file-sharing)
-- [Documents](https://github.com/apis-list/apis-list#documents)
 
 
 

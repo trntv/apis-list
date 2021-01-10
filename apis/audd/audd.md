@@ -8,12 +8,12 @@ AudD Music Recognition API Docs: how to identify songs in audio using our API
 
 
 **Categories**:
+- [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
+- [API](https://github.com/apis-list/apis-list#api)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Lyrics](https://github.com/apis-list/apis-list#lyrics)
 - [Machine Learning](https://github.com/apis-list/apis-list#machine-learning)
 - [Recognition](https://github.com/apis-list/apis-list#recognition)
-- [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
-- [API](https://github.com/apis-list/apis-list#api)
 
 
 

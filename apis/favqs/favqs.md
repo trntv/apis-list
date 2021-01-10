@@ -8,12 +8,12 @@ FavQs allows you to collect, discover, and share your favorite quotes.  A list o
 
 
 **Categories**:
+- [Catalogs](https://github.com/apis-list/apis-list#catalogs)
+- [Reference](https://github.com/apis-list/apis-list#reference)
 - [Words](https://github.com/apis-list/apis-list#words)
 - [Writing](https://github.com/apis-list/apis-list#writing)
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-- [Catalogs](https://github.com/apis-list/apis-list#catalogs)
-- [Reference](https://github.com/apis-list/apis-list#reference)
 
 
 

@@ -8,11 +8,11 @@ Millions of Viber users call, text, and send photos to each other, worldwide - f
 
 
 **Categories**:
+- [Communications](https://github.com/apis-list/apis-list#communications)
+- [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
 - [Voice](https://github.com/apis-list/apis-list#voice)
 - [Social](https://github.com/apis-list/apis-list#social)
-- [Communications](https://github.com/apis-list/apis-list#communications)
-- [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
 
 
 

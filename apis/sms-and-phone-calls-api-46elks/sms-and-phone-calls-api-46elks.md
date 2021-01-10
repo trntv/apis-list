@@ -8,9 +8,9 @@
 
 
 **Categories**:
+- [Voice](https://github.com/apis-list/apis-list#voice)
 - [Sms](https://github.com/apis-list/apis-list#sms)
 - [Phone Calls](https://github.com/apis-list/apis-list#phone-calls)
-- [Voice](https://github.com/apis-list/apis-list#voice)
 
 
 

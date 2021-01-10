@@ -5,15 +5,15 @@
 
 Introduction Hello Developers Welcome to the YNAB API! (If you aren't a developer or you have no idea what an "API" is and you just want to sign in to your YNAB account, you can do that here. ) The
 
+## Specification:
+**Type**: swagger
+**URI**: https://api.youneedabudget.com/papi/spec-v1-swagger.json
 
 
 **Categories**:
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 - [Budget](https://github.com/apis-list/apis-list#budget)
 - [Financial](https://github.com/apis-list/apis-list#financial)
-
-
-
 
 
 

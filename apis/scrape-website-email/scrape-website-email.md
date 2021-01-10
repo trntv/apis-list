@@ -8,9 +8,9 @@ Grabs email addresses from a URL
 
 
 **Categories**:
+- [Development](https://github.com/apis-list/apis-list#development)
 - [Extraction](https://github.com/apis-list/apis-list#extraction)
 - [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
-- [Development](https://github.com/apis-list/apis-list#development)
 
 
 

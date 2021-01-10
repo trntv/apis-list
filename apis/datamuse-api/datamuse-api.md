@@ -7,14 +7,14 @@ You can use it in your apps to find words that match a given set o. Word-finding
 
 **Categories**:
 - [Reference](https://github.com/apis-list/apis-list#reference)
-- [Natural Language Processing](https://github.com/apis-list/apis-list#natural-language-processing)
 - [Words](https://github.com/apis-list/apis-list#words)
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 - [Text](https://github.com/apis-list/apis-list#text)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
-- [Search](https://github.com/apis-list/apis-list#search)
 - [Education](https://github.com/apis-list/apis-list#education)
+- [Natural Language Processing](https://github.com/apis-list/apis-list#natural-language-processing)
+- [Search](https://github.com/apis-list/apis-list#search)
 - [Writing](https://github.com/apis-list/apis-list#writing)
 
 

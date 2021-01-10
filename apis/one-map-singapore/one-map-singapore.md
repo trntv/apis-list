@@ -8,10 +8,10 @@
 
 
 **Categories**:
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Mapping](https://github.com/apis-list/apis-list#mapping)
 - [Asia](https://github.com/apis-list/apis-list#asia)
 - [Location](https://github.com/apis-list/apis-list#location)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 
 
 
