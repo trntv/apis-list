@@ -15,12 +15,12 @@ It is truly the most simple web scraping API ever
 
 
 **Categories**:
+- [SaaS](https://github.com/apis-list/apis-list#saas)
+- [Development](https://github.com/apis-list/apis-list#development)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers-and-data-mining)
 - [Data-As-A-Service](https://github.com/apis-list/apis-list#data-as-a-service)
 - [Extraction](https://github.com/apis-list/apis-list#extraction)
-- [SaaS](https://github.com/apis-list/apis-list#saas)
-- [Development](https://github.com/apis-list/apis-list#development)
 
 
 

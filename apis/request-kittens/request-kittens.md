@@ -8,10 +8,10 @@ GET http://requestkittens. com/cats A randomized set of category-specific cat im
 
 
 **Categories**:
-- [Animals](https://github.com/apis-list/apis-list#animals)
-- [Databases](https://github.com/apis-list/apis-list#databases)
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Recognition](https://github.com/apis-list/apis-list#recognition)
+- [Animals](https://github.com/apis-list/apis-list#animals)
+- [Databases](https://github.com/apis-list/apis-list#databases)
 
 
 

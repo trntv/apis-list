@@ -8,8 +8,8 @@ io to filter out bot traffic, customize content based on visitor's location, dis
 
 
 **Categories**:
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+- [Open Data](https://github.com/apis-list/apis-list#open-data)
 
 
 

@@ -8,10 +8,10 @@ Our fast & reliable SERP API enables you to scrape search results in realtime an
 
 
 **Categories**:
-- [Development](https://github.com/apis-list/apis-list#development)
-- [Search](https://github.com/apis-list/apis-list#search)
 - [Extraction](https://github.com/apis-list/apis-list#extraction)
 - [Optimization](https://github.com/apis-list/apis-list#optimization)
+- [Development](https://github.com/apis-list/apis-list#development)
+- [Search](https://github.com/apis-list/apis-list#search)
 
 
 

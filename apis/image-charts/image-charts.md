@@ -8,9 +8,9 @@ A drop-in-replacement for the deprecated Google Image Charts. Easiest way to emb
 
 
 **Categories**:
-- [Charts](https://github.com/apis-list/apis-list#charts)
 - [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
 - [Visualizations](https://github.com/apis-list/apis-list#visualizations)
+- [Charts](https://github.com/apis-list/apis-list#charts)
 
 
 

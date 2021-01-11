@@ -1,22 +1,21 @@
 # SecurityTrails
 
 
-Welcome to SecurityTrails! This page will help you get started. You'll be up and running in a jiffy!
+SecurityTrails currently offers three different products that can help you enrich your data, search for information, and find relevant security information for organizations in no time
 
 
 
 **Categories**:
-- [Domains](https://github.com/apis-list/apis-list#domains)
-- [Security](https://github.com/apis-list/apis-list#security)
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 - [Banking](https://github.com/apis-list/apis-list#banking)
 - [Big Data](https://github.com/apis-list/apis-list#big-data)
-- [Compliance](https://github.com/apis-list/apis-list#compliance)
 - [Data-As-A-Service](https://github.com/apis-list/apis-list#data-as-a-service)
+- [Domains](https://github.com/apis-list/apis-list#domains)
+- [Security](https://github.com/apis-list/apis-list#security)
 
 
 
-github.com/apis-list/apis-list#safety)
+y)
 
 
 

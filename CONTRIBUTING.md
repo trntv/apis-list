@@ -22,8 +22,9 @@ If you want to modify api's data, make changes in `apis.yaml`
 This is a list of APIs that should be added to list. You can pick one, collect all needed information and add it list. 
 - https://developers.naver.com/products/shortenurl/
 - https://developer.amazon.com/apps-and-games/services-and-apis
+- https://genderapi.io  
 - AWS Services
 - Google APIs
 
 # Does API definition has schema?
-Yes, it has - [schema.json]()
+Yes, it has - [schema.json](https://github.com/apis-list/apis-list/blob/main/schema.json)

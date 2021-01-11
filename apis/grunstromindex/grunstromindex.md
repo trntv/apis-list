@@ -8,9 +8,9 @@ The green electricity index shows when a lot of renewable electricity is in the 
 
 
 **Categories**:
+- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Environment](https://github.com/apis-list/apis-list#environment)
 - [Energy](https://github.com/apis-list/apis-list#energy)
-- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 
 
 

@@ -6,8 +6,12 @@ Discover Amadeus travel APIs and connect to the flight search, flight booking, h
 
 
 **Categories**:
-- [Air Travel](https://github.com/apis-list/apis-list#air-travel)
+- [Travel](https://github.com/apis-list/apis-list#travel)
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
+
+
+
+ion)
 - [Travel](https://github.com/apis-list/apis-list#travel)
 
 

@@ -8,9 +8,9 @@ The MAC address API allows you to retrieve OUI vendor information, detect virtua
 
 
 **Categories**:
-- [Development](https://github.com/apis-list/apis-list#development)
 - [Security](https://github.com/apis-list/apis-list#security)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
+- [Development](https://github.com/apis-list/apis-list#development)
 
 
 

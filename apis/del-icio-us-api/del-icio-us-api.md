@@ -8,8 +8,8 @@ Keep, share, and discover the best of the Web using Delicious, the world's leadi
 
 
 **Categories**:
-- [Social](https://github.com/apis-list/apis-list#social)
 - [Bookmarks](https://github.com/apis-list/apis-list#bookmarks)
+- [Social](https://github.com/apis-list/apis-list#social)
 
 
 

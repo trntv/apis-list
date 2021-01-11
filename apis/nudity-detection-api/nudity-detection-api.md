@@ -8,8 +8,9 @@ io detects nudity in images and helps to recognise and filter undesired content.
 
 
 **Categories**:
-- [Image Moderation](https://github.com/apis-list/apis-list#image-moderation)
-
+- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+- [Images](https://github.com/apis-list/apis-list#images)
+- [Recognition](https://github.com/apis-list/apis-list#recognition)
 
 
 

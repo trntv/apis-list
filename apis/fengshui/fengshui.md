@@ -8,14 +8,14 @@ Let’s you enter your name and the name of your partner/lover/crush to find Lov
 **Categories**:
 - [Tools](https://github.com/apis-list/apis-list#tools)
 - [Other](https://github.com/apis-list/apis-list#other)
-- [Chinese](https://github.com/apis-list/apis-list#chinese)
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 - [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
 - [Environment](https://github.com/apis-list/apis-list#environment)
 - [Religion](https://github.com/apis-list/apis-list#religion)
 
 
 
-ols)
+
 
 
 

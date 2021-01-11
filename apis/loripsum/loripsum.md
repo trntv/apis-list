@@ -8,8 +8,8 @@ This Lorem Ipsum generator fits all your Lipsum needs! Come on over, make some L
 
 
 **Categories**:
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Testing](https://github.com/apis-list/apis-list#testing)
+- [Open Data](https://github.com/apis-list/apis-list#open-data)
 
 
 

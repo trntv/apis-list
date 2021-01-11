@@ -8,8 +8,8 @@ Detects 164 languages. Supports short texts, batch requests, JavaScript, Python,
 
 
 **Categories**:
-- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 
 
 

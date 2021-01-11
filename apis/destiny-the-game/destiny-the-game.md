@@ -9,7 +9,11 @@ These endpoints constitute the functionality exposed by Bungie. net
 
 **Categories**:
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-- [Games & Comics](https://github.com/apis-list/apis-list#games-and-comics)
+- [Games](https://github.com/apis-list/apis-list#games)
+
+
+
+ames-and-comics)
 
 
 

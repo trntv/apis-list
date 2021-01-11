@@ -8,8 +8,8 @@ A simple way to share and discover interesting events from your friends, followe
 
 
 **Categories**:
-- [Calendar](https://github.com/apis-list/apis-list#calendar)
 - [Events](https://github.com/apis-list/apis-list#events)
+- [Calendar](https://github.com/apis-list/apis-list#calendar)
 
 
 

@@ -8,9 +8,12 @@ A powerful API for developers and companies to explore and develop new apps base
 
 
 **Categories**:
-- [Development](https://github.com/apis-list/apis-list#development)
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
-- [Iota](https://github.com/apis-list/apis-list#iota)
+- [Development](https://github.com/apis-list/apis-list#development)
+
+
+
+Iota](https://github.com/apis-list/apis-list#iota)
 - [Tangle](https://github.com/apis-list/apis-list#tangle)
 
 

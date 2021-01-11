@@ -6,9 +6,9 @@ Click the link to create a password, then come back here and sign in. We have ma
 
 
 **Categories**:
+- [Reference](https://github.com/apis-list/apis-list#reference)
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 - [Government](https://github.com/apis-list/apis-list#government)
-- [Reference](https://github.com/apis-list/apis-list#reference)
 
 
 

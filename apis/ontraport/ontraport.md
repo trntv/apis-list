@@ -6,11 +6,15 @@ Introduction The base URL for all of the requests detailed in this documentation
 
 
 **Categories**:
-- [Business](https://github.com/apis-list/apis-list#business)
-- [Automation](https://github.com/apis-list/apis-list#automation)
-- [Customer Relationship Management](https://github.com/apis-list/apis-list#customer-relationship-management)
+- [CRM](https://github.com/apis-list/apis-list#crm)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Marketing](https://github.com/apis-list/apis-list#marketing)
+- [Business](https://github.com/apis-list/apis-list#business)
+- [Automation](https://github.com/apis-list/apis-list#automation)
+
+
+
+ing](https://github.com/apis-list/apis-list#marketing)
 
 
 

@@ -8,12 +8,12 @@ Transform your data from XML or JSON to high quality, beautiful and readable doc
 
 
 **Categories**:
-- [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
-- [Graphics](https://github.com/apis-list/apis-list#graphics)
-- [Integration](https://github.com/apis-list/apis-list#integration)
 - [Tools](https://github.com/apis-list/apis-list#tools)
 - [Payments](https://github.com/apis-list/apis-list#payments)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
+- [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
+- [Graphics](https://github.com/apis-list/apis-list#graphics)
+- [Integration](https://github.com/apis-list/apis-list#integration)
 
 
 

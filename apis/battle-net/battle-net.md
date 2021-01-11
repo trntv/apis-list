@@ -6,7 +6,11 @@ Blizzard Entertainment
 
 
 **Categories**:
-- [Games & Comics](https://github.com/apis-list/apis-list#games-and-comics)
+- [Games](https://github.com/apis-list/apis-list#games)
+
+
+
+ames-and-comics)
 
 
 

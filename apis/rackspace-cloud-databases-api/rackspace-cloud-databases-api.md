@@ -6,8 +6,8 @@ Can be created, updated, and deleted using the OS::Trove::Instance resource.  Cl
 
 
 **Categories**:
-- [Cloud](https://github.com/apis-list/apis-list#cloud)
 - [Databases](https://github.com/apis-list/apis-list#databases)
+- [Cloud](https://github.com/apis-list/apis-list#cloud)
 
 
 

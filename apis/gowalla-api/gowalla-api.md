@@ -8,9 +8,9 @@ Gather and compare all kinds of interesting data, they weren't really interactiv
 
 
 **Categories**:
-- [Social](https://github.com/apis-list/apis-list#social)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Mobile](https://github.com/apis-list/apis-list#mobile)
+- [Social](https://github.com/apis-list/apis-list#social)
 
 
 

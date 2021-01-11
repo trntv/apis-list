@@ -6,10 +6,10 @@ To ge. API-First Development The Shodan website, including Shodan Images and Sho
 
 
 **Categories**:
-- [DevOps](https://github.com/apis-list/apis-list#devops)
 - [Security](https://github.com/apis-list/apis-list#security)
 - [Search](https://github.com/apis-list/apis-list#search)
 - [IoT & Home Automation](https://github.com/apis-list/apis-list#iot-and-home-automation)
+- [DevOps](https://github.com/apis-list/apis-list#devops)
 
 
 

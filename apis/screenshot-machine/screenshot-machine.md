@@ -6,9 +6,9 @@ Free screenshot api for capturing web pages.  Let our website screenshot generat
 
 
 **Categories**:
+- [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 - [Optimization](https://github.com/apis-list/apis-list#optimization)
 - [Photography](https://github.com/apis-list/apis-list#photography)
-- [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 
 
 

@@ -8,10 +8,14 @@
 
 
 **Categories**:
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Marketing](https://github.com/apis-list/apis-list#marketing)
-- [Real Estate](https://github.com/apis-list/apis-list#real-estate)
-- [Printing](https://github.com/apis-list/apis-list#printing)
+- [Business](https://github.com/apis-list/apis-list#business)
 - [B2B](https://github.com/apis-list/apis-list#b2b)
+
+
+
+b)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 
 

@@ -8,9 +8,9 @@ Don't let sourcing and maintaining holiday information get in the way of buildin
 
 
 **Categories**:
-- [Holidays](https://github.com/apis-list/apis-list#holidays)
 - [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 - [Calendar](https://github.com/apis-list/apis-list#calendar)
+- [Holidays](https://github.com/apis-list/apis-list#holidays)
 
 
 

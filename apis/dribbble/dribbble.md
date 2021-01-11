@@ -8,8 +8,8 @@ Except where otherwise noted, content on this site is licensed under a Creative 
 
 
 **Categories**:
-- [Other](https://github.com/apis-list/apis-list#other)
 - [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
+- [Other](https://github.com/apis-list/apis-list#other)
 
 
 

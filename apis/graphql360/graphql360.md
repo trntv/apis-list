@@ -9,11 +9,15 @@ Create and consume 360 degree panoramic tours using a GraphQL API.  GraphQL 360 
 
 **Categories**:
 - [Images](https://github.com/apis-list/apis-list#images)
-- [Games & Comics](https://github.com/apis-list/apis-list#games-and-comics)
+- [Games](https://github.com/apis-list/apis-list#games)
 - [Graphics](https://github.com/apis-list/apis-list#graphics)
 - [Photography](https://github.com/apis-list/apis-list#photography)
 - [Real Estate](https://github.com/apis-list/apis-list#real-estate)
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
+
+
+
+nd-dictionaries)
 
 
 

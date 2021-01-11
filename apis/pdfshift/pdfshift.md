@@ -9,11 +9,14 @@ The service is focused to help developers set up the conversion quickly and focu
 
 
 **Categories**:
-- [Conversion](https://github.com/apis-list/apis-list#conversion)
+- [SaaS](https://github.com/apis-list/apis-list#saas)
+- [Conversions](https://github.com/apis-list/apis-list#conversions)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
 - [Development](https://github.com/apis-list/apis-list#development)
-- [Html](https://github.com/apis-list/apis-list#html)
-- [SaaS](https://github.com/apis-list/apis-list#saas)
+
+
+
+aS](https://github.com/apis-list/apis-list#saas)
 - [Conversions](https://github.com/apis-list/apis-list#conversions)
 
 

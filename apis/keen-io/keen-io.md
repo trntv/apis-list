@@ -6,8 +6,8 @@ Keen IO is a powerful, flexible, and scalable solution that’s literally Big Da
 
 
 **Categories**:
-- [Analytics](https://github.com/apis-list/apis-list#analytics)
 - [Machine Learning](https://github.com/apis-list/apis-list#machine-learning)
+- [Analytics](https://github.com/apis-list/apis-list#analytics)
 
 
 

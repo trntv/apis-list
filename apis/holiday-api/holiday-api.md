@@ -7,17 +7,21 @@ Start developing for free. Public holiday API service for several supported coun
 
 **Categories**:
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [B2B](https://github.com/apis-list/apis-list#b2b)
-- [Accounting](https://github.com/apis-list/apis-list#accounting)
-- [Time](https://github.com/apis-list/apis-list#time)
-- [Air Travel](https://github.com/apis-list/apis-list#air-travel)
-- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
-- [Holidays](https://github.com/apis-list/apis-list#holidays)
-- [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
-- [Banking](https://github.com/apis-list/apis-list#banking)
-- [Development](https://github.com/apis-list/apis-list#development)
 - [Calendar](https://github.com/apis-list/apis-list#calendar)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
+- [Development](https://github.com/apis-list/apis-list#development)
+- [Travel](https://github.com/apis-list/apis-list#travel)
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
+- [Time](https://github.com/apis-list/apis-list#time)
+- [Accounting](https://github.com/apis-list/apis-list#accounting)
 - [Data-As-A-Service](https://github.com/apis-list/apis-list#data-as-a-service)
+- [B2B](https://github.com/apis-list/apis-list#b2b)
+- [Banking](https://github.com/apis-list/apis-list#banking)
+- [Holidays](https://github.com/apis-list/apis-list#holidays)
+
+
+
+ice)
 
 
 

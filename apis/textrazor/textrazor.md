@@ -6,9 +6,9 @@
 
 
 **Categories**:
+- [Reference](https://github.com/apis-list/apis-list#reference)
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
-- [Reference](https://github.com/apis-list/apis-list#reference)
 
 
 

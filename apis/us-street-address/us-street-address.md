@@ -8,11 +8,11 @@ How to verify one or more addresses using the SmartyStreets US Street Address AP
 
 
 **Categories**:
+- [Postal](https://github.com/apis-list/apis-list#postal)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
 - [Addresses](https://github.com/apis-list/apis-list#addresses)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
-- [Postal](https://github.com/apis-list/apis-list#postal)
-- [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
 
 
 

@@ -6,11 +6,10 @@ Firefox Addons API
 
 
 **Categories**:
-- [Web](https://github.com/apis-list/apis-list#web)
+- [Development](https://github.com/apis-list/apis-list#development)
 
 
 
-
-pis/apis-list#solar-data),
+olar-data),
 
 

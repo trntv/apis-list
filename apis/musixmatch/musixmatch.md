@@ -6,9 +6,12 @@ Power your music project by licensing access to the world’s most authoritative
 
 
 **Categories**:
-- [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
-- [Lyrics](https://github.com/apis-list/apis-list#lyrics)
 - [Metadata](https://github.com/apis-list/apis-list#metadata)
+- [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
+
+
+
+data](https://github.com/apis-list/apis-list#metadata)
 
 
 

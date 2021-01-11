@@ -8,9 +8,12 @@ Worldwide geocoding, geoparsing and autocomplete for addresses. Geocodify is a f
 
 
 **Categories**:
-- [Geography](https://github.com/apis-list/apis-list#geography)
-- [Geology](https://github.com/apis-list/apis-list#geology)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Localization](https://github.com/apis-list/apis-list#localization)
+
+
+
+https://github.com/apis-list/apis-list#localization)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Other](https://github.com/apis-list/apis-list#other)
 

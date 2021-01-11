@@ -8,10 +8,10 @@ Easily create custom HTTP resources complete with fake data.  fakeJSON's API sca
 
 
 **Categories**:
-- [Data-As-A-Service](https://github.com/apis-list/apis-list#data-as-a-service)
-- [Databases](https://github.com/apis-list/apis-list#databases)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Testing](https://github.com/apis-list/apis-list#testing)
+- [Data-As-A-Service](https://github.com/apis-list/apis-list#data-as-a-service)
+- [Databases](https://github.com/apis-list/apis-list#databases)
 
 
 

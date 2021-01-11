@@ -6,8 +6,8 @@ Except with a few lines of code such that ?orderby=rand works. So: EVERY OTHER A
 
 
 **Categories**:
-- [Personality](https://github.com/apis-list/apis-list#personality)
 - [Health](https://github.com/apis-list/apis-list#health)
+- [Personality](https://github.com/apis-list/apis-list#personality)
 
 
 

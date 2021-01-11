@@ -8,8 +8,8 @@ Automatic background removal real-time service powered by AI. Automatic backgrou
 
 
 **Categories**:
-- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
+- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 
 
 

@@ -8,9 +8,9 @@ Collect real-time trade or order book data for free, manage user exchange accoun
 
 
 **Categories**:
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 
 
 

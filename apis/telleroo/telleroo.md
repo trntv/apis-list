@@ -6,9 +6,9 @@ com" API Sandbox: "https://sandbox. com" Welcome to Telleroo API documentation! 
 
 
 **Categories**:
+- [Payments](https://github.com/apis-list/apis-list#payments)
 - [Automation](https://github.com/apis-list/apis-list#automation)
 - [Banking](https://github.com/apis-list/apis-list#banking)
-- [Payments](https://github.com/apis-list/apis-list#payments)
 
 
 

@@ -8,12 +8,12 @@ PageCDN provides a state of the art opensource content delivery network that use
 
 
 **Categories**:
-- [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
-- [Development](https://github.com/apis-list/apis-list#development)
-- [Library](https://github.com/apis-list/apis-list#library)
 - [Tools](https://github.com/apis-list/apis-list#tools)
 - [Other](https://github.com/apis-list/apis-list#other)
 - [Cloud](https://github.com/apis-list/apis-list#cloud)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
+- [Development](https://github.com/apis-list/apis-list#development)
+- [Library](https://github.com/apis-list/apis-list#library)
 
 
 

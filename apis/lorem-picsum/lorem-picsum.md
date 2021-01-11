@@ -8,9 +8,9 @@ Lorem Ipsum, but for photos.
 
 
 **Categories**:
-- [Photography](https://github.com/apis-list/apis-list#photography)
 - [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
 - [Random](https://github.com/apis-list/apis-list#random)
+- [Photography](https://github.com/apis-list/apis-list#photography)
 
 
 

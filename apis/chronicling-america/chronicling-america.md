@@ -6,10 +6,13 @@ Newspaper Directory to find information about American newspapers published betw
 
 
 **Categories**:
-- [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
 - [History](https://github.com/apis-list/apis-list#history)
 - [Reference](https://github.com/apis-list/apis-list#reference)
-- [Government](https://github.com/apis-list/apis-list#government)
+- [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
+
+
+
+Government](https://github.com/apis-list/apis-list#government)
 
 
 

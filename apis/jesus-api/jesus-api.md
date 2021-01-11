@@ -6,10 +6,10 @@ Upgrade to Hostinger By upgrading to premium hosting you will unlock all availab
 
 
 **Categories**:
-- [Religion](https://github.com/apis-list/apis-list#religion)
-- [Development](https://github.com/apis-list/apis-list#development)
 - [Random](https://github.com/apis-list/apis-list#random)
 - [Images](https://github.com/apis-list/apis-list#images)
+- [Religion](https://github.com/apis-list/apis-list#religion)
+- [Development](https://github.com/apis-list/apis-list#development)
 
 
 

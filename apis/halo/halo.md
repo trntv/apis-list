@@ -7,7 +7,11 @@ With this API you’ll be able to craft your own experiences using the same APIs
 
 **Categories**:
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-- [Games & Comics](https://github.com/apis-list/apis-list#games-and-comics)
+- [Games](https://github.com/apis-list/apis-list#games)
+
+
+
+ames-and-comics)
 
 
 

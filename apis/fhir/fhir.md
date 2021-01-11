@@ -8,8 +8,8 @@ Fast Healthcare Interoperability Resources test data
 
 
 **Categories**:
-- [Health](https://github.com/apis-list/apis-list#health)
 - [Testing](https://github.com/apis-list/apis-list#testing)
+- [Health](https://github.com/apis-list/apis-list#health)
 
 
 

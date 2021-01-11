@@ -8,8 +8,8 @@ Welcome, Application Developers! We are very happy that you’re considering bui
 
 
 **Categories**:
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Government](https://github.com/apis-list/apis-list#government)
+- [Open Data](https://github.com/apis-list/apis-list#open-data)
 
 
 

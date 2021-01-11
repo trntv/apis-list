@@ -6,9 +6,9 @@ reference The reference of the accounting transaction. reference The reference o
 
 
 **Categories**:
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Search](https://github.com/apis-list/apis-list#search)
 - [Jobs](https://github.com/apis-list/apis-list#jobs)
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
 
 
 

@@ -8,9 +8,9 @@ XYZ Menus API provides access to a Database of over 350,000 Restaurant Menus wit
 
 
 **Categories**:
+- [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest)
 - [Food & Drinks](https://github.com/apis-list/apis-list#food-and-drinks)
 - [Business](https://github.com/apis-list/apis-list#business)
-- [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest)
 
 
 

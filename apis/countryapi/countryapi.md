@@ -8,8 +8,8 @@ A Rest Api of simple country information that you need. Gets all the countries, 
 
 
 **Categories**:
-- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 
 
 

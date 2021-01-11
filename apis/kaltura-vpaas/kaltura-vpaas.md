@@ -8,9 +8,9 @@ Build video apps and add native video capabilities to your products. Kaltura VPa
 
 
 **Categories**:
+- [Analytics](https://github.com/apis-list/apis-list#analytics)
 - [Marketing](https://github.com/apis-list/apis-list#marketing)
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
-- [Analytics](https://github.com/apis-list/apis-list#analytics)
 
 
 

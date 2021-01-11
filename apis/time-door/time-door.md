@@ -8,16 +8,16 @@ Time Door is an API for statistical insights into time series data.  Time Door i
 
 
 **Categories**:
-- [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
-- [DevOps](https://github.com/apis-list/apis-list#devops)
-- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
-- [Machine Learning](https://github.com/apis-list/apis-list#machine-learning)
-- [Time](https://github.com/apis-list/apis-list#time)
-- [Algorithms](https://github.com/apis-list/apis-list#algorithms)
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
-- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers-and-data-mining)
 - [Big Data](https://github.com/apis-list/apis-list#big-data)
+- [Open Data](https://github.com/apis-list/apis-list#open-data)
+- [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
+- [Time](https://github.com/apis-list/apis-list#time)
+- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers-and-data-mining)
+- [DevOps](https://github.com/apis-list/apis-list#devops)
+- [Machine Learning](https://github.com/apis-list/apis-list#machine-learning)
+- [Algorithms](https://github.com/apis-list/apis-list#algorithms)
 
 
 

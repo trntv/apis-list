@@ -8,11 +8,11 @@ Daily cat facts! 🐱. Daily cat facts! 🐱
 
 
 **Categories**:
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Bots](https://github.com/apis-list/apis-list#bots)
 - [Education](https://github.com/apis-list/apis-list#education)
 - [Fun](https://github.com/apis-list/apis-list#fun)
 - [Animals](https://github.com/apis-list/apis-list#animals)
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 
 
 

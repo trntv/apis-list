@@ -10,8 +10,8 @@ Raw historical market data is available both in exchange native and normalized f
 
 
 **Categories**:
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 
 
 

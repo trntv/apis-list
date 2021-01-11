@@ -1,13 +1,18 @@
 # ODWeather
 
 
-ODWeather API Explore swagger. ODWeather API Explore swagger
+Weather for boating
 
+## Specification:
+**Type**: swagger
+**URI**: https://api.oceandrivers.com/static/resources.json
 
 
 **Categories**:
-- [Boating](https://github.com/apis-list/apis-list#boating)
-- [Marine](https://github.com/apis-list/apis-list#marine)
+- [Weather](https://github.com/apis-list/apis-list#weather)
+
+
+
 - [Weather](https://github.com/apis-list/apis-list#weather)
 
 

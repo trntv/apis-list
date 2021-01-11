@@ -1,7 +1,18 @@
 # Riot Games
 
 
-This is just part of our ongoing effort t. .  About the Riot Games API With this site we hope to provide the League of Legends developer community with access to game data in a secure and reliable way. About the Riot Games API With this site we hope to provide the League of Legends developer community with access to game data in a secure and reliable way
+Provide the League of Legends developer community with access to game data in a secure and reliable way.
+
+
+
+**Categories**:
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+- [Games](https://github.com/apis-list/apis-list#games)
+- [Analytics](https://github.com/apis-list/apis-list#analytics)
+
+
+
+ame data in a secure and reliable way
 
 
 

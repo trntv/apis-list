@@ -6,10 +6,8 @@
 
 
 **Categories**:
-- [Static Analysis](https://github.com/apis-list/apis-list#static-analysis)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
 - [Development](https://github.com/apis-list/apis-list#development)
-
-
 
 
 

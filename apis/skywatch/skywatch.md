@@ -8,17 +8,17 @@ Instead, EarthCache allows development teams to focus on the business applicatio
 
 
 **Categories**:
-- [Aggregation](https://github.com/apis-list/apis-list#aggregation)
-- [DevOps](https://github.com/apis-list/apis-list#devops)
+- [Analytics](https://github.com/apis-list/apis-list#analytics)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
+- [B2B](https://github.com/apis-list/apis-list#b2b)
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Space](https://github.com/apis-list/apis-list#space)
-- [Analytics](https://github.com/apis-list/apis-list#analytics)
-- [Big Data](https://github.com/apis-list/apis-list#big-data)
-- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
-- [B2B](https://github.com/apis-list/apis-list#b2b)
+- [Aggregation](https://github.com/apis-list/apis-list#aggregation)
 - [Business](https://github.com/apis-list/apis-list#business)
+- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+- [Big Data](https://github.com/apis-list/apis-list#big-data)
+- [DevOps](https://github.com/apis-list/apis-list#devops)
+- [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Environment](https://github.com/apis-list/apis-list#environment)
 
 

@@ -12,12 +12,12 @@ the Box Developer Console
 
 
 **Categories**:
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 - [Content Management](https://github.com/apis-list/apis-list#content-management)
 - [Business](https://github.com/apis-list/apis-list#business)
 - [Security](https://github.com/apis-list/apis-list#security)
 - [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
-- [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
 
 
 

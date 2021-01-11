@@ -6,8 +6,12 @@ This Hearthstone API provides up to date Hearthstone data pulled directly from t
 
 
 **Categories**:
-- [Games & Comics](https://github.com/apis-list/apis-list#games-and-comics)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+- [Games](https://github.com/apis-list/apis-list#games)
+
+
+
+t#entertainment)
 
 
 

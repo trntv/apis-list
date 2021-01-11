@@ -7,10 +7,10 @@ Allthough this Text To Speech or text to voice utility is intended for software 
 
 
 **Categories**:
-- [Languages](https://github.com/apis-list/apis-list#languages)
-- [Voice](https://github.com/apis-list/apis-list#voice)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [IoT & Home Automation](https://github.com/apis-list/apis-list#iot-and-home-automation)
+- [Languages](https://github.com/apis-list/apis-list#languages)
+- [Voice](https://github.com/apis-list/apis-list#voice)
 
 
 

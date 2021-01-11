@@ -8,8 +8,12 @@ Start building your own website today using official PUBG data
 
 
 **Categories**:
+- [Games](https://github.com/apis-list/apis-list#games)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-- [Games & Comics](https://github.com/apis-list/apis-list#games-and-comics)
+
+
+
+ames-and-comics)
 
 
 

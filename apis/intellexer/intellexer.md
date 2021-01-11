@@ -6,21 +6,24 @@ Processing (NLP) Service including sentiment analysis, content extraction, and l
 
 
 **Categories**:
-- [Content Management](https://github.com/apis-list/apis-list#content-management)
-- [Machine Learning](https://github.com/apis-list/apis-list#machine-learning)
-- [Development](https://github.com/apis-list/apis-list#development)
-- [Text](https://github.com/apis-list/apis-list#text)
+- [Extraction](https://github.com/apis-list/apis-list#extraction)
+- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
+- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Keywords](https://github.com/apis-list/apis-list#keywords)
-- [Parsing](https://github.com/apis-list/apis-list#parsing)
-- [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
+- [Content Management](https://github.com/apis-list/apis-list#content-management)
 - [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers-and-data-mining)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
-- [Search](https://github.com/apis-list/apis-list#search)
-- [Extraction](https://github.com/apis-list/apis-list#extraction)
-- [Natural Language Processing](https://github.com/apis-list/apis-list#natural-language-processing)
-- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 - [Big Data](https://github.com/apis-list/apis-list#big-data)
-- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+- [Natural Language Processing](https://github.com/apis-list/apis-list#natural-language-processing)
+- [Search](https://github.com/apis-list/apis-list#search)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
+- [Machine Learning](https://github.com/apis-list/apis-list#machine-learning)
+- [Text](https://github.com/apis-list/apis-list#text)
+- [Development](https://github.com/apis-list/apis-list#development)
+
+
+
+ & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 
 
 

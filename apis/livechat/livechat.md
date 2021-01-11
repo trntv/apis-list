@@ -8,10 +8,10 @@ Online Customer Service software with customizable chat, embeddable widgets, hel
 
 
 **Categories**:
-- [Business](https://github.com/apis-list/apis-list#business)
-- [Other](https://github.com/apis-list/apis-list#other)
 - [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
 - [Real Time](https://github.com/apis-list/apis-list#real-time)
+- [Business](https://github.com/apis-list/apis-list#business)
+- [Other](https://github.com/apis-list/apis-list#other)
 
 
 

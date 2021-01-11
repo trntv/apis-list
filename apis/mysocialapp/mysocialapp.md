@@ -8,9 +8,9 @@ Build scalable news feed for your app. MySocialApp is simple, powerful APIs are 
 
 
 **Categories**:
+- [Social](https://github.com/apis-list/apis-list#social)
 - [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
 - [Development](https://github.com/apis-list/apis-list#development)
-- [Social](https://github.com/apis-list/apis-list#social)
 
 
 

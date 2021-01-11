@@ -11,7 +11,10 @@ Let's cooperate!
 **Categories**:
 - [Payments](https://github.com/apis-list/apis-list#payments)
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
-- [Open Banking Api](https://github.com/apis-list/apis-list#open-banking-api)
+
+
+
+Open Banking Api](https://github.com/apis-list/apis-list#open-banking-api)
 
 
 
