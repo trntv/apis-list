@@ -3,18 +3,19 @@
 
 Read More. Global marine weather data from multiple sources in one single API!
 
+**Docs / Website**: https://stormglass.io
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Weather](https://github.com/apis-list/apis-list#weather)
 
 
-
-ions/api-specifications.yaml
-
-
-**Categories**:
-- [Weather](https://github.com/apis-list/apis-list#weather)
 
 
 

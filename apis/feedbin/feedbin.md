@@ -5,14 +5,17 @@
 
 Feedbin API Documentation. Contribute to feedbin/feedbin-api development by creating an account on GitHub. Feedbin API Documentation
 
+**Docs / Website**: https://github.com/feedbin/feedbin-api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
-
-
-
-tps://github.com/apis-list/apis-list#news-and-feeds)
 
 
 

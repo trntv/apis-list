@@ -3,9 +3,16 @@
 
 JSON API for returning meaty lorem ipsum filler text. JSON API for returning meaty lorem ipsum filler text
 
+**Docs / Website**: https://baconipsum.com/json-api/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Testing](https://github.com/apis-list/apis-list#testing)
 - [Tools](https://github.com/apis-list/apis-list#tools)
@@ -13,12 +20,6 @@ JSON API for returning meaty lorem ipsum filler text. JSON API for returning mea
 - [Fun](https://github.com/apis-list/apis-list#fun)
 
 
-
-
-
-
-
-)
 
 
 

@@ -5,10 +5,18 @@
 
 Welcome to the Mastodon documentation!.  Welcome to the Mastodon documentation!
 
+**Docs / Website**: https://docs.joinmastodon.org/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
+
 
 
 

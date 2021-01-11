@@ -5,10 +5,18 @@
 
 In this day and age, everyone and their dog has an API. So why not have an API for dogs? Shibe. online is that API
 
+**Docs / Website**: http://shibe.online/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Animals](https://github.com/apis-list/apis-list#animals)
+
 
 
 

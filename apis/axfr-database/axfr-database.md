@@ -5,10 +5,18 @@
 
 AXFR public database
 
+**Docs / Website**: http://api.axfrcheck.com
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Security](https://github.com/apis-list/apis-list#security)
+
 
 
 

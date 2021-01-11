@@ -5,9 +5,16 @@
 
 Automatic image keywording and categorization API.  The Everypixel Image Recognition sees images like a human, but costs several times cheaper. This model is designed to evaluate user photos taken both by a professional camera and by a camera of a smartphone
 
+**Docs / Website**: https://labs.everypixel.com/api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Keywords](https://github.com/apis-list/apis-list#keywords)
 - [Recognition](https://github.com/apis-list/apis-list#recognition)
@@ -16,13 +23,6 @@ Automatic image keywording and categorization API.  The Everypixel Image Recogni
 - [Catalogs](https://github.com/apis-list/apis-list#catalogs)
 
 
-
-thub.com/apis-list/apis-list#images)
-- [Keywords](https://github.com/apis-list/apis-list#keywords)
-
-
-
-ds)
 
 
 

@@ -5,10 +5,18 @@
 
 Programming Quotes API for open source projects.  Contribute to skolakoda/programming-quotes-api development by creating an account on GitHub
 
+**Docs / Website**: https://github.com/skolakoda/programming-quotes-api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Health](https://github.com/apis-list/apis-list#health)
+
 
 
 

@@ -3,11 +3,17 @@
 
 A.  callsign lookups. Look up information about United States ham radio callsigns. No-nonsense amateur radio U. S
 
+**Docs / Website**: https://callook.info
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Other](https://github.com/apis-list/apis-list#other)
-
 
 
 

@@ -9,12 +9,21 @@ Stream's API and SDKs enable developers to build messaging solutions very quickl
 * Chat threads - With threads and replies you can build structured chat experiences. * Reactions - Add emoji reactions to messages just like Slack, Facebook or iMessage. 
 * Flexible API - Proven reliability that is flexible enough to build any chat experience. Stream provides an easy to use API, React components and UI kit for Chat
 
+**Docs / Website**: https://getstream.io/chat/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
+
+
 
 
 

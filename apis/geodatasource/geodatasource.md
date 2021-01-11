@@ -5,10 +5,18 @@
 
 Location Search Web Service (RESTful API) enable you to find nearest city information based on latitude and longitude provided. Location Search Web Service (RESTful API) enable you to find nearest city information based on latitude and longitude provided
 
+**Docs / Website**: https://www.geodatasource.com/web-service
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
 
 
 

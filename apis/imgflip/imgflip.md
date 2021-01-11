@@ -5,10 +5,18 @@
 
 Get 100 of memes with Imgflip API, or add text/caption to memes directly from this awesome API.  RESTful JSON API for making memes with Imgflip's meme generator
 
+**Docs / Website**: https://imgflip.com/api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Meme](https://github.com/apis-list/apis-list#meme)
+
 
 
 

@@ -5,9 +5,16 @@
 
 Build web and mobile apps that communicate with vehicles
 
+**Docs / Website**: https://smartcar.com/docs/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [SaaS](https://github.com/apis-list/apis-list#saas)
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
 - [Vehicle](https://github.com/apis-list/apis-list#vehicle)
@@ -16,12 +23,6 @@ Build web and mobile apps that communicate with vehicles
 - [Platform-As-A-Service](https://github.com/apis-list/apis-list#platform-as-a-service)
 
 
-
-t#platform-as-a-service)
-
-
-
-e)
 
 
 

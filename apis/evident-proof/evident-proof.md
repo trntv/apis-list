@@ -7,14 +7,19 @@ Users of Evident Proof can plug any data source sitting on current databases to 
  
 The Evident Proof API allows developers to access and integrate the functionality of Evident Proof with other applications and systems
 
+**Docs / Website**: https://evident-proof.com/developer
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Other](https://github.com/apis-list/apis-list#other)
 
 
 
-
-,
 
 

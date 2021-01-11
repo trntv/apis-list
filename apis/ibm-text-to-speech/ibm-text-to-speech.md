@@ -3,9 +3,16 @@
 
 Convert text to speech
 
+**Docs / Website**: https://cloud.ibm.com/docs/text-to-speech/getting-started.html
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
 - [Languages](https://github.com/apis-list/apis-list#languages)
 - [Natural Language Processing](https://github.com/apis-list/apis-list#natural-language-processing)
@@ -13,8 +20,6 @@ Convert text to speech
 - [Voice](https://github.com/apis-list/apis-list#voice)
 
 
-
-)
 
 
 

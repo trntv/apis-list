@@ -5,10 +5,18 @@
 
 Celebrity information
 
+**Docs / Website**: https://market.mashape.com/daxeel/celebinfo
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
+
 
 
 

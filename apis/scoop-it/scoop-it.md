@@ -5,10 +5,18 @@
 
 Scoop. it enables professionals and businesses to research and publish content through its content curation tool
 
+**Docs / Website**: http://www.scoop.it/dev
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
+
 
 
 

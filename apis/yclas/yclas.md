@@ -5,9 +5,16 @@
 
 Be creative and create any type of marketplace Whether you are looking for a website for your Real Estate firm, a buy-and-sell preloved goods website or a. With Yclas API you have a full backend to create adversitements, categories, locations, geolocations and much more in a simple and easy to use API
 
+**Docs / Website**: https://yclas.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Marketplace](https://github.com/apis-list/apis-list#marketplace)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Lists](https://github.com/apis-list/apis-list#lists)
@@ -15,12 +22,6 @@ Be creative and create any type of marketplace Whether you are looking for a web
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 
 
-
-is-list/apis-list#platform-as-a-service)
-
-
-
-)
 
 
 

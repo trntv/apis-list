@@ -5,10 +5,18 @@
 
 Lob provides direct mail and address verification APIs that allow businesses to send timely, personalized, automated offline communications to their customers. Lob provides direct mail and address verification APIs that allow businesses to send timely, personalized, automated offline communications to their customers
 
+**Docs / Website**: https://lob.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
+
 
 
 

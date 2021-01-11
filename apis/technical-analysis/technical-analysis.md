@@ -5,10 +5,19 @@
 
 Coin predictions as a service. Automatically fetch coin data from various exchanges and put it though our strategies. Cryptocurrency prices, technical analysis and sentiment detection
 
+**Docs / Website**: https://technical-analysis-api.com
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
+
+
 
 
 

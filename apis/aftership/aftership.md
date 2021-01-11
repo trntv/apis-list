@@ -5,9 +5,16 @@
 
 If you don'. Provides multi-carrier shipment tracking APIs. Overview How to get your API Key? Before you started with using our REST API services, you will need to obtain your API key under your own user account.  Login to your AfterShip account
 
+**Docs / Website**: https://www.aftership.com/docs/api/4/overview
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 

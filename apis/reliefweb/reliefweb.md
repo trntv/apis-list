@@ -6,9 +6,16 @@
 ReliefWeb API to get the latest updates when a disaster happens. Do you want to have the latest information about humanitarian training all around the world? Use ReliefWeb API to get ReliefWeb's posted training that fits better with your goals and embed the information into your corporate training system
 and much much more
 
+**Docs / Website**: https://apidoc.rwlabs.org/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Health](https://github.com/apis-list/apis-list#health)
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
@@ -17,9 +24,9 @@ and much much more
 
 
 
-b.com/apis-list/apis-list#health)
-- [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
-- [Emergency](https://github.com/apis-list/apis-list#emergency)
+
+
+list/apis-list#emergency)
 - [Community](https://github.com/apis-list/apis-list#community)
 - [Non-Profit](https://github.com/apis-list/apis-list#non-profit)
 

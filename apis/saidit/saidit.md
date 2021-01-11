@@ -5,10 +5,18 @@
 
 Raw Saidit API Wrapper. Raw Saidit API Wrapper. Contribute to IThinkImOKAY/rsaw development by creating an account on GitHub
 
+**Docs / Website**: https://github.com/IThinkImOKAY/rsaw
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
+
 
 
 

@@ -3,9 +3,16 @@
 
 Trivia Questions. Get answers, (and the correct questions) from 20+ years of Jeopardy episodes
 
+**Docs / Website**: http://jservice.io
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Games](https://github.com/apis-list/apis-list#games)
 - [Trivia](https://github.com/apis-list/apis-list#trivia)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
@@ -13,9 +20,9 @@ Trivia Questions. Get answers, (and the correct questions) from 20+ years of Jeo
 
 
 
-https://github.com/apis-list/apis-list#open-data)
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-- [Games & Comics](https://github.com/apis-list/apis-list#games-and-comics)
+
+
+ics](https://github.com/apis-list/apis-list#games-and-comics)
 
 
 

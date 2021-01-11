@@ -5,10 +5,18 @@
 
 MailboxValidator provides single email validation API that checks if an email address is valid and exists. Email validation service to check for invalid email addresses. It connects to the mail server and checks whether the mailbox exists or not
 
+**Docs / Website**: https://www.mailboxvalidator.com/api-single-validation
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Business](https://github.com/apis-list/apis-list#business)
+
 
 
 

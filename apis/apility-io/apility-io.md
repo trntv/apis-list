@@ -5,16 +5,22 @@
 
 
 
+**Docs / Website**: https://apility.io/apidocs/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Other](https://github.com/apis-list/apis-list#other)
 
 
 
 
-tion. Auth0 is deprecating the Signals branding, IP Signals API, and Apility. io API.  This doesn't affect the Auth0 product function
 
-**Categories**:  [Solar Data](https://github/apis-list/apis-list#solar-data),
+ies**:  [Solar Data](https://github/apis-list/apis-list#solar-data),
 
 

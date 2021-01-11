@@ -5,18 +5,19 @@
 
 IP Address Geolocation to Country, City, Region, Latitude, Longitude, ZIP Code, ISP, Domain, Time Zone, Area Code, Mobile Data, Usage Type, Elevation and so on. IP Address Geolocation to Country, City, Region, Latitude, Longitude, ZIP Code, ISP, Domain, Time Zone, Area Code, Mobile Data, Usage Type, Elevation and so on
 
+**Docs / Website**: https://www.ip2location.com/web-service/ip2location
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Marketing](https://github.com/apis-list/apis-list#marketing)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
-
-
-
-ps://github.com/apis-list/apis-list#mapping)
-
-
 
 
 

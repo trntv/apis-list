@@ -5,10 +5,18 @@
 
 Contribute to lukePeavey/quotable development by creating an account on GitHub. Random Quotes API
 
+**Docs / Website**: https://github.com/lukePeavey/quotable
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Health](https://github.com/apis-list/apis-list#health)
+
 
 
 

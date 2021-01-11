@@ -5,21 +5,20 @@
 
 The largest video game database online
 
+**Docs / Website**: https://www.giantbomb.com/api/documentation
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Games](https://github.com/apis-list/apis-list#games)
 
 
-
-ames-and-comics)
-
-
-
-
-
-ub/apis-list/apis-list#games-and-comics)
 
 
 

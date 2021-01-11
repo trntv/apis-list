@@ -3,10 +3,18 @@
 
 Sample XML response Sample JSON response
 
+**Docs / Website**: http://www.penguinrandomhouse.biz/webservices/rest/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Books](https://github.com/apis-list/apis-list#books)
+
 
 
 

@@ -5,9 +5,16 @@
 
 Buffer makes it super easy to share any page you're reading. Buffer makes it super easy to share any page you're reading.  Keep your Buffer topped up and we automagically share them for you through the day
 
+**Docs / Website**: https://buffer.com/developers/api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Scheduling](https://github.com/apis-list/apis-list#scheduling)
 - [Social](https://github.com/apis-list/apis-list#social)
 

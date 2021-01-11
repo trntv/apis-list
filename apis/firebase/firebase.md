@@ -5,9 +5,16 @@
 
 Web reference View full API for JS Client. Authentication, analytics, cloud messaging, crash reporting, ads and more
 
+**Docs / Website**: https://firebase.google.com/docs/reference/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Authentication & User Management](https://github.com/apis-list/apis-list#authentication-and-user-management)
 - [Security](https://github.com/apis-list/apis-list#security)
 - [Mobile](https://github.com/apis-list/apis-list#mobile)
@@ -18,9 +25,9 @@ Web reference View full API for JS Client. Authentication, analytics, cloud mess
 
 
 
-apis-list/apis-list#open-data)
-- [Development](https://github.com/apis-list/apis-list#development)
-- [Backend-As-A-Service](https://github.com/apis-list/apis-list#backend-as-a-service)
+
+
+t#backend-as-a-service)
 - [Security](https://github.com/apis-list/apis-list#security)
 - [Authorization](https://github.com/apis-list/apis-list#authorization)
 

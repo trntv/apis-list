@@ -5,17 +5,21 @@
 
 The Wordnik API Docs. Dictionary functions
 
+**Docs / Website**: http://developer.wordnik.com/docs.html#!/word
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
 - [Text](https://github.com/apis-list/apis-list#text)
 - [Reference](https://github.com/apis-list/apis-list#reference)
 
 
-
-ist/apis-list#content-and-dictionaries)
-- [Spelling](https://github.com/apis-list/apis-list#spelling)
 
 
 

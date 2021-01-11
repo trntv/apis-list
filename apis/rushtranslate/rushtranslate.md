@@ -6,12 +6,21 @@
 RushTranslate offers certified document translation services in over 60 languages provided by native speaking professionals. RushTranslate provides a REST API for human translation services allowing programmatic placement and management of orders.  Our API is perfect for high volume users who want to automate their workflow. 
 . The RushTranslate API enables human-powered translation services in applications.  The API is used to create orders, retrieve files, request revisions, and more. Responses are JSON formatted
 
+**Docs / Website**: https://rushtranslate.com/docs
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Translation](https://github.com/apis-list/apis-list#translation)
 - [Business](https://github.com/apis-list/apis-list#business)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
+
+
 
 
 

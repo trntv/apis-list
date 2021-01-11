@@ -5,9 +5,16 @@
 
 Welcome, Application Developers! We are very happy that you’re considering building with Open Data DC.  Our goal is for this site to be your platform for developing apps around DC’s freely available, machine readable data
 
+**Docs / Website**: http://opendata.dc.gov/pages/using-apis
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Government](https://github.com/apis-list/apis-list#government)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 

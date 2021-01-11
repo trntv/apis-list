@@ -5,22 +5,24 @@
 
 Bitcoin Price Index. CoinDesk provides a simple and free API to make its Bitcoin Price Index (BPI) data programmatically available to others.  Find out how to use it here
 
+**Docs / Website**: http://www.coindesk.com/api/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 - [Currency](https://github.com/apis-list/apis-list#currency)
 
 
 
-s)
-- [Cryptocurrency](https://github.com/apis-list/apis-list#cryptocurrency)
-- [Financial](https://github.com/apis-list/apis-list#financial)
 
 
-
-)
 
 
 

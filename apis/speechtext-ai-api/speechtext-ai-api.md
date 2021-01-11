@@ -5,10 +5,18 @@
 
 Cloud Speech Recognition API. Transform speech to text with high accuracy in multiple languages. Generate summaries with important highlights from audio and video files. Start for free
 
+**Docs / Website**: https://speechtext.ai/speech-recognition-api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+
 
 
 

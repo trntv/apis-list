@@ -5,10 +5,18 @@
 
 The QR-Code generator gets your data and generates a QR-Code
 
+**Docs / Website**: https://api.stakdek.de/blog?id=1006
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Bar & QR Codes](https://github.com/apis-list/apis-list#bar-and-qr-codes)
+
 
 
 

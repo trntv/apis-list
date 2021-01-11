@@ -5,18 +5,21 @@
 
 Lorem Ipsum, but for photos.
 
+**Docs / Website**: https://picsum.photos/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
 - [Random](https://github.com/apis-list/apis-list#random)
 - [Photography](https://github.com/apis-list/apis-list#photography)
 
 
 
-
-
-
-pis-list/apis-list#photography),
 
 

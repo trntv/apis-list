@@ -5,14 +5,23 @@
 
 com is the most popular place to securely buy, store, and trade Bitcoin, Ethereum, and other top cryptocurrencies. Market Prices and exchanges rates api. Blockchain
 
+**Docs / Website**: https://blockchain.info/api/exchange_rates_api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Currency](https://github.com/apis-list/apis-list#currency)
 - [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
 - [Government](https://github.com/apis-list/apis-list#government)
+
+
 
 
 

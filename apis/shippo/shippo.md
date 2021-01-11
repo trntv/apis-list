@@ -5,9 +5,16 @@
 
 Find the best shipping rates, integrate with e-commerce platforms, print shipping labels, track package delivery, and verify addresses with either our shipping API or web app. Shippo in an API and dashboard that connects you to multiple shipping providers, simplifying the process of implementing a shipping solution.  Shippo is the best multi-carrier shipping software for e-commerce businesses
 
+**Docs / Website**: https://goshippo.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Addresses](https://github.com/apis-list/apis-list#addresses)
 - [B2B](https://github.com/apis-list/apis-list#b2b)
 - [Logistics](https://github.com/apis-list/apis-list#logistics)
@@ -15,9 +22,9 @@ Find the best shipping rates, integrate with e-commerce platforms, print shippin
 
 
 
-/github.com/apis-list/apis-list#addresses)
-- [B2B](https://github.com/apis-list/apis-list#b2b)
-- [Commerce & Marketplaces](https://github.com/apis-list/apis-list#commerce-and-marketplaces)
+
+
+om/apis-list/apis-list#commerce-and-marketplaces)
 
 
 

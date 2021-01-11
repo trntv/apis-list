@@ -5,9 +5,16 @@
 
 XYZ Menus API provides access to a Database of over 350,000 Restaurant Menus with over 30,000,000 individual menu items
 
+**Docs / Website**: https://menuapi.xyz
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest)
 - [Food & Drinks](https://github.com/apis-list/apis-list#food-and-drinks)
 - [Business](https://github.com/apis-list/apis-list#business)

@@ -5,10 +5,18 @@
 
 
 
+**Docs / Website**: https://www.deepcode.ai/docs/Overview%252FOverview
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+
 
 
 

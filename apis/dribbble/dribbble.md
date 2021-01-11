@@ -5,14 +5,20 @@
 
 Except where otherwise noted, content on this site is licensed under a Creative Commons CC-BY license. Dribbble on Dribbble Dribbble on GitHub @dribbbleapi. Dribbble is a community of designers answering that question each day
 
+**Docs / Website**: http://developer.dribbble.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
 - [Other](https://github.com/apis-list/apis-list#other)
 
 
 
-esign](https://github/apis-list/apis-list#design),
 
 

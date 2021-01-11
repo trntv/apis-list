@@ -5,12 +5,21 @@
 
 Access the Untappd API documentation to power your app or project. . Untappd is a mobile web app that allows you to socially share beers that you're enjoying
 
+**Docs / Website**: https://untappd.com/api/docs
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Beer](https://github.com/apis-list/apis-list#beer)
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Food & Drinks](https://github.com/apis-list/apis-list#food-and-drinks)
+
+
 
 
 

@@ -3,9 +3,16 @@
 
 We can't find what you're looking for. Crime, school and transportation data for US cities. Not Found Sorry
 
+**Docs / Website**: https://www.citycontext.com/api-reference#/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Demographics](https://github.com/apis-list/apis-list#demographics)
@@ -17,12 +24,9 @@ We can't find what you're looking for. Crime, school and transportation data for
 
 
 
-https://github.com/apis-list/apis-list#transportation)
 
 
-
-ithub.com/apis-list/apis-list#education)
-- [Demographics](https://github.com/apis-list/apis-list#demographics)
+aphics)
 
 
 

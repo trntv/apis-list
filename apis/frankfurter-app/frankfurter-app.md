@@ -3,10 +3,18 @@
 
 Documentation and code examples for the Frankfurter currency data API.  Documentation and code examples for the Frankfurter currency data API
 
+**Docs / Website**: https://www.frankfurter.app/docs/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
+
 
 
 

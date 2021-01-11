@@ -5,15 +5,20 @@
 
 Worlds largest library of GIFs
 
+**Docs / Website**: https://developers.giphy.com/docs/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Photography](https://github.com/apis-list/apis-list#photography)
 - [Search](https://github.com/apis-list/apis-list#search)
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Other](https://github.com/apis-list/apis-list#other)
-
-
 
 
 

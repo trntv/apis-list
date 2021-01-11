@@ -5,10 +5,18 @@
 
 RunKeeper's web-based HealthGraph API presents Health Graph data, and provides information about a user and friends.  Join the community of over 45 million runners who make every run amazing with Runkeeper.  Track your workouts and reach your fitness goals!
 
+**Docs / Website**: https://runkeeper.com/developer/healthgraph/registration-authorization
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
+
 
 
 

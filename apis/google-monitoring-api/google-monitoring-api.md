@@ -5,10 +5,18 @@
 
 This page describes some of the features of the Cloud Monitoring API v3. For the API reference documentation, see either of the following pages: API resources Metrics The Monitoring API v3 gives yo
 
+**Docs / Website**: https://cloud.google.com/monitoring/api/v3/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
+
 
 
 

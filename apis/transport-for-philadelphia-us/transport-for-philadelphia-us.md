@@ -5,10 +5,18 @@
 
 SEPTA API New - June 5 2015 - Apps for Philly Transportation Hackathon SEPTA and SEPTAdev is proud to be a sponsor of Apps for Philly Transit and we welcome all participants. In additiona to prizes
 
+**Docs / Website**: http://www3.septa.org/hackathon/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
+
 
 
 

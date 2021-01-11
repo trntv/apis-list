@@ -5,21 +5,25 @@
 
 SparkPost is a cloud based email delivery service that sends 25% of the worlds legitimate emails. Emails are delivered to the inbox quickly via a RESTful API or SMTP.
 
+**Docs / Website**: https://developers.sparkpost.com
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
 - [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
 
 
 
- first 100K message each month for free.  Join our slack community at slack
 
 
-
-**Categories**:
-- [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
+-list#chats-and-messaging)
 - [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
 - [Infrastructure-As-A-Service](https://github.com/apis-list/apis-list#infrastructure-as-a-service)

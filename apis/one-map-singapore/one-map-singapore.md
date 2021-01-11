@@ -5,18 +5,18 @@
 
 ####. #######. ##. Introduction. ###. ########
 
+**Docs / Website**: https://docs.onemap.sg/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
-
-
-
-](https://github.com/apis-list/apis-list#asia)
-- [Location](https://github.com/apis-list/apis-list#location)
-
-
 
 
 

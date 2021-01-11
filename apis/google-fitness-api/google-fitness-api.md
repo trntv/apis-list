@@ -5,10 +5,18 @@
 
 Google Fit is an open ecosystem that makes it easy to store, access, and manage fitness data
 
+**Docs / Website**: https://developers.google.com/fit/?hl=en
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
+
 
 
 

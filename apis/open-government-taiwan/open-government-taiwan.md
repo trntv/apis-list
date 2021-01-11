@@ -5,10 +5,18 @@
 
 哈囉!我是客服小幫手，請問你今天想詢問哪一方面的問題呢?.  哈囉!我是客服小幫手，請問你今天想詢問哪一方面的問題呢?
 
+**Docs / Website**: https://data.gov.tw/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Government](https://github.com/apis-list/apis-list#government)
+
 
 
 

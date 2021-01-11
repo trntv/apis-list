@@ -5,9 +5,16 @@
 
 The TasteDive API can be used to integrate recommendations in other products. The TasteDive API can be used to integrate recommendations in other products
 
+**Docs / Website**: https://tastedive.com/read/api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Books](https://github.com/apis-list/apis-list#books)
@@ -17,13 +24,9 @@ The TasteDive API can be used to integrate recommendations in other products. Th
 
 
 
-list#movies)
-- [Podcasts](https://github.com/apis-list/apis-list#podcasts)
 
 
-
-pis-list/apis-list#podcasts)
-- [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
+-list/apis-list#music-and-audio)
 
 
 

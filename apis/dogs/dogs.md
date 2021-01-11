@@ -5,10 +5,18 @@
 
 Over 20,000 images of dogs programmaticaly accessible by over 120 breeds. Image supplied by the Stanford Dogs Dataset.  Dog CEO's Dog API. Dog CEO's Dog API
 
+**Docs / Website**: https://dog.ceo/dog-api/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Animals](https://github.com/apis-list/apis-list#animals)
+
 
 
 

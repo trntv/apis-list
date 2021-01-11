@@ -5,10 +5,18 @@
 
 Cross-platform mod support
 
+**Docs / Website**: https://docs.mod.io
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+
 
 
 

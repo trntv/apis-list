@@ -5,10 +5,18 @@
 
 Get ready to unbox the joy of music!
 
+**Docs / Website**: https://developer.kkbox.com
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
+
 
 
 

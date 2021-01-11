@@ -5,19 +5,20 @@
 
 Parameters callback string To define your own callback function name and return the. HTTP Method GET URL https://api. adviceslip. com/advice Description Returns a random advice slip as a slip object
 
+**Docs / Website**: http://api.adviceslip.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Personality](https://github.com/apis-list/apis-list#personality)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Fun](https://github.com/apis-list/apis-list#fun)
 - [Health](https://github.com/apis-list/apis-list#health)
-
-
-
-
-
-
 
 
 

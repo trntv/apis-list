@@ -5,10 +5,18 @@
 
 NexTrip API
 
+**Docs / Website**: https://svc.metrotransit.org/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
+
 
 
 

@@ -5,10 +5,18 @@
 
 A FINAL FANTASY XIV: Online REST API - Game data, characters, free companies, linkshells, lodestone, markets & maps
 
+**Docs / Website**: https://xivapi.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+
 
 
 

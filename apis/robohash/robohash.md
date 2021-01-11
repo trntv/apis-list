@@ -5,9 +5,16 @@
 
 Generate Unique images from any text Robohash is a easy web service that makes it easy to provide unique, robot/alien/monster/whatever images for any text.  Put in any text, such as IP address, emai. Generate Unique images from any text Robohash is a easy web service that makes it easy to provide unique, robot/alien/monster/whatever images for any text
 
+**Docs / Website**: https://robohash.org/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Testing](https://github.com/apis-list/apis-list#testing)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 

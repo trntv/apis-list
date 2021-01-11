@@ -5,10 +5,18 @@
 
 The Twitch API enables you to develop your own applications using the rich feature set that Twitch provides.  Twitch Developer Documentation
 
+**Docs / Website**: https://dev.twitch.tv/docs
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
+
 
 
 

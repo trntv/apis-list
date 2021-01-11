@@ -5,14 +5,23 @@
 
 Connect your app or website users to over 100 million points of interests with Places, using Autocomplete, Geocoding & Place Search APIs
 
+**Docs / Website**: https://developers.google.com/places/?hl=en
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Reference](https://github.com/apis-list/apis-list#reference)
 - [Check-In](https://github.com/apis-list/apis-list#check-in)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Localization](https://github.com/apis-list/apis-list#localization)
 - [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest)
+
+
 
 
 

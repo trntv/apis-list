@@ -5,15 +5,18 @@
 
 The Amiibo RESTful API
 
+**Docs / Website**: https://amiiboapi.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Games](https://github.com/apis-list/apis-list#games)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-
-
-
-t#entertainment)
 
 
 

@@ -5,10 +5,18 @@
 
 What is the Binary Jazz genrenator? Much like Binary Jazz itself, the genrenator is the product of a bunch of us chatting and tossing ideas around and something sticks.  In this case, it came from a….  What is the Binary Jazz genrenator? Much like Binary Jazz itself, the genrenator is the product of a bunch of us chatting and tossing ideas around and something sticks
 
+**Docs / Website**: https://binaryjazz.us/genrenator-api/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
+
 
 
 

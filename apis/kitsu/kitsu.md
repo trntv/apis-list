@@ -3,9 +3,16 @@
 
 We apologize for any inconvenience. A place where APIs are kept. This site https://kitsu. docs. apiary. io/ is experiencing technical difficulty. We are aware of the issue and are working as quick as possible to correct the issue
 
+**Docs / Website**: https://kitsu.docs.apiary.io/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Collecting](https://github.com/apis-list/apis-list#collecting)
 - [Japanese](https://github.com/apis-list/apis-list#japanese)
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
@@ -14,6 +21,8 @@ We apologize for any inconvenience. A place where APIs are kept. This site https
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Animation](https://github.com/apis-list/apis-list#animation)
 - [Books](https://github.com/apis-list/apis-list#books)
+
+
 
 
 

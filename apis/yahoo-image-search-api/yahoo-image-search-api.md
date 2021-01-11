@@ -5,9 +5,16 @@
 
 Web Service allows you to search the Internet for images
 
+**Docs / Website**: 
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Search](https://github.com/apis-list/apis-list#search)
 - [Photography](https://github.com/apis-list/apis-list#photography)
 

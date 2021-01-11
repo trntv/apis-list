@@ -5,16 +5,18 @@
 
 Fast Healthcare Interoperability Resources test data
 
+**Docs / Website**: 
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Testing](https://github.com/apis-list/apis-list#testing)
 - [Health](https://github.com/apis-list/apis-list#health)
-
-
-
-Medical](https://github.com/apis-list/apis-list#medical)
-
 
 
 

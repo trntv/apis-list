@@ -5,13 +5,19 @@
 
 Deezer API provides a nice set of services to build up web applications allowing the discovery of Deezer's music catalogue.  You have to login to accept the terms and conditions of the simple API.  Login Back to top Follow @deezer Terms of use Contact & Support
 
+**Docs / Website**: http://developers.deezer.com/api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Search](https://github.com/apis-list/apis-list#search)
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
-
 
 
 

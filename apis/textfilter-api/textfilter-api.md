@@ -5,10 +5,19 @@
 
 Convert web page content into epub, Kindle/mobi and multi-column PDF files
 
+**Docs / Website**: http://votable.net/textfilter/?i=1
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
+
+
 
 
 

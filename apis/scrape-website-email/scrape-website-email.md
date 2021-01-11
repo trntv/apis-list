@@ -5,13 +5,19 @@
 
 Grabs email addresses from a URL
 
+**Docs / Website**: https://market.mashape.com/tommytcchan/scrape-website-email
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Extraction](https://github.com/apis-list/apis-list#extraction)
 - [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
-
 
 
 

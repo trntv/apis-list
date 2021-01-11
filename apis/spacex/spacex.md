@@ -5,14 +5,17 @@
 
 :rocket: Open Source REST API for rocket, core, capsule, pad, and launch data - r-spacex/SpaceX-API.  :rocket: Open Source REST API for rocket, core, capsule, pad, and launch data - r-spacex/SpaceX-API
 
+**Docs / Website**: https://github.com/r-spacex/SpaceX-API
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
-
-
-
-Science & Math](https://github.com/apis-list/apis-list#science-and-math)
 
 
 

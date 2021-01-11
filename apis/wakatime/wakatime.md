@@ -5,14 +5,17 @@
 
 Developer reference documentation for the WakaTime API.  Developer reference documentation for the WakaTime API
 
+**Docs / Website**: https://wakatime.com/developers
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
-
-
-
-Time Tracking](https://github.com/apis-list/apis-list#time-tracking)
 
 
 

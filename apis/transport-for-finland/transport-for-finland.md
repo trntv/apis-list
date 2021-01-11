@@ -6,10 +6,18 @@
 Route planning algorithms and APIs…. Digitransit Platform is an open source journey planning solution that combines several open source components into a
 modern, highly available route planning service
 
+**Docs / Website**: https://digitransit.fi/en/developers/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
+
 
 
 

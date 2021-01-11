@@ -5,13 +5,19 @@
 
 Search through user Flickr content, contacts, upload or replace photos.  Flickr is almost certainly the best online photo management and sharing application in the world.  Show off your favorite photos and videos to the world, securely and privately show content to your friends and family, or blog the photos and videos you take with a cameraphone
 
+**Docs / Website**: https://www.flickr.com/services/api/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Photography](https://github.com/apis-list/apis-list#photography)
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
-
 
 
 

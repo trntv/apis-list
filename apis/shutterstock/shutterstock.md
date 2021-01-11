@@ -5,9 +5,16 @@
 
 Streamline user experience with the stock image, video, and music API trusted by Facebook, Google, Wix, and more. Get started with a free image API today. The Shutterstock API provides access to Shutterstock's library of media, as well as information about customers' accounts and the contributors that provide the media. It allows customer platforms to search for media, view information and previews for the media, and license and download media
 
+**Docs / Website**: https://www.shutterstock.com/developers/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Search](https://github.com/apis-list/apis-list#search)
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
@@ -15,12 +22,6 @@ Streamline user experience with the stock image, video, and music API trusted by
 - [Photography](https://github.com/apis-list/apis-list#photography)
 
 
-
-ages](https://github.com/apis-list/apis-list#images)
-
-
-
-s)
 
 
 

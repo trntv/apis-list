@@ -3,9 +3,16 @@
 
 Get data about characters, episodes, quotes, and deaths
 
+**Docs / Website**: https://breakingbadapi.com/documentation
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
 

@@ -3,10 +3,18 @@
 
 Generate fake data and get by REST API requests. Collection of completely free APIs that helps web developers and web designers wittht generating fake data
 
+**Docs / Website**: https://fakerapi.it
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
+
 
 
 

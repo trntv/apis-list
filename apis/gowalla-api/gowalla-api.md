@@ -5,12 +5,21 @@
 
 Gather and compare all kinds of interesting data, they weren't really interactive with Gowalla itself
 
+**Docs / Website**: 
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Mobile](https://github.com/apis-list/apis-list#mobile)
 - [Social](https://github.com/apis-list/apis-list#social)
+
+
 
 
 

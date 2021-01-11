@@ -3,9 +3,16 @@
 
 Provides the full commerce solution to bring your unique, revenue-driving experiences to life, fast.  It's called Composable Commerce-as-a-Service
 
+**Docs / Website**: https://developers.elasticpath.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Business](https://github.com/apis-list/apis-list#business)
 - [Addresses](https://github.com/apis-list/apis-list#addresses)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
@@ -15,12 +22,6 @@ Provides the full commerce solution to bring your unique, revenue-driving experi
 - [Products](https://github.com/apis-list/apis-list#products)
 
 
-
-](https://github.com/apis-list/apis-list#content-management)
-
-
-
-ory)
 
 
 

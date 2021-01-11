@@ -3,9 +3,16 @@
 
 SecurityTrails currently offers three different products that can help you enrich your data, search for information, and find relevant security information for organizations in no time
 
+**Docs / Website**: https://securitytrails.com/corp/apidocs
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 - [Banking](https://github.com/apis-list/apis-list#banking)
 - [Big Data](https://github.com/apis-list/apis-list#big-data)
@@ -14,12 +21,6 @@ SecurityTrails currently offers three different products that can help you enric
 - [Security](https://github.com/apis-list/apis-list#security)
 
 
-
-y)
-
-
-
-nce)
 
 
 

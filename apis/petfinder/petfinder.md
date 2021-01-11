@@ -5,13 +5,19 @@
 
 Learn how to use our API to build your own website or applications backed by the same data we use on Petfinder. com. Adoption.  Access support documentation for our free Petfinder API
 
+**Docs / Website**: https://www.petfinder.com/developers/v2/docs/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Adoption](https://github.com/apis-list/apis-list#adoption)
 - [Animals](https://github.com/apis-list/apis-list#animals)
 - [Search](https://github.com/apis-list/apis-list#search)
-
 
 
 

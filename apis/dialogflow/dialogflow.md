@@ -5,9 +5,16 @@
 
 Natural Language Interactions for Bots, Applications, Services, and Devices.  Virtual agents for bots, applications, services, and devices
 
+**Docs / Website**: https://dialogflow.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Machine Learning](https://github.com/apis-list/apis-list#machine-learning)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 

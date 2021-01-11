@@ -3,9 +3,16 @@
 
 openFDA. openFDA
 
+**Docs / Website**: https://open.fda.gov
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Big Data](https://github.com/apis-list/apis-list#big-data)
 - [Food & Drinks](https://github.com/apis-list/apis-list#food-and-drinks)
@@ -13,12 +20,6 @@ openFDA. openFDA
 - [Health](https://github.com/apis-list/apis-list#health)
 
 
-
-github.com/apis-list/apis-list#healthcare)
-
-
-
-h)
 
 
 

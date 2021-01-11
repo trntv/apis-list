@@ -5,10 +5,18 @@
 
 Uses a simple HTTP endpoint.  Address Autocomplete | Use our Autocomplete API to suggest valid addresses as users type in realtime. Address Autocomplete | Use our Autocomplete API to suggest valid addresses as users type in realtime
 
+**Docs / Website**: https://smartystreets.com/docs/cloud/us-autocomplete-api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
+
 
 
 

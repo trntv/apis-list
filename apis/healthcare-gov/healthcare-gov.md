@@ -5,18 +5,19 @@
 
 HealthCare. gov for Developers We’re making our source code freely available on GitHub. All of our educational content about the Health Insurance Marketplace® is available in machine-readable format
 
+**Docs / Website**: https://www.healthcare.gov/developers/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Health](https://github.com/apis-list/apis-list#health)
 
 
-
-APIs-guru/unofficial_openapi_specs/master/healthcare.gov/1.0.0/swagger.yaml
-
-
-**Categories**:
-- [Health](https://github.com/apis-list/apis-list#health)
 
 
 

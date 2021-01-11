@@ -5,12 +5,21 @@
 
 Extract relevant content from articles. ContentXtractor automatically extracts relevant content from articles/blog with a simple API call
 
+**Docs / Website**: https://contentxtractor.com
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Content Management](https://github.com/apis-list/apis-list#content-management)
 - [Extraction](https://github.com/apis-list/apis-list#extraction)
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
+
+
 
 
 

@@ -5,14 +5,23 @@
 
 com/api" on this server. 55f57a5c.  Reference #18. Zomato API. 5 million restaurants across 10,000 cities globally. zomato. Access Denied You don't have permission to access "http://developers. Zomato APIs give you access to the freshest and most exhaustive information for over 1. 1610136439. 2954540
 
+**Docs / Website**: https://developers.zomato.com/api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest)
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Food & Drinks](https://github.com/apis-list/apis-list#food-and-drinks)
 - [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 - [Localization](https://github.com/apis-list/apis-list#localization)
+
+
 
 
 

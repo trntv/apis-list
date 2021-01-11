@@ -5,10 +5,18 @@
 
 Dive into Colorado’s water, including wells, surface water conditions, and water rights. Dive into Colorado’s water, including wells, surface water conditions, and water rights. Analyze Colorado’s business entities, DBAs, tax, and UCC filing information
 
+**Docs / Website**: https://data.colorado.gov/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Government](https://github.com/apis-list/apis-list#government)
+
 
 
 

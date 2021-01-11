@@ -5,21 +5,25 @@
 
 A drop-in-replacement for the deprecated Google Image Charts. Easiest way to embed charts as image in emails, pdfs etc.
 
+**Docs / Website**: https://www.image-charts.com
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
 - [Visualizations](https://github.com/apis-list/apis-list#visualizations)
 - [Charts](https://github.com/apis-list/apis-list#charts)
 
 
 
-json
 
 
-**Categories**:
-- [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
-- [Marketing](https://github.com/apis-list/apis-list#marketing)
+marketing)
 - [Reporting](https://github.com/apis-list/apis-list#reporting)
 - [Virtualization](https://github.com/apis-list/apis-list#virtualization)
 - [Other](https://github.com/apis-list/apis-list#other)

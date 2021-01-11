@@ -5,9 +5,16 @@
 
 Free, powerful language detection JSON API for 173 languages, supporting single and batch requests, PHP, JavaScript, Python, Ruby, Java, and more. Free, powerful language detection JSON API for 173 languages, supporting single and batch requests, PHP, JavaScript, Python, Ruby, Java, and more.
 
+**Docs / Website**: https://languagelayer.com
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Text](https://github.com/apis-list/apis-list#text)
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
 - [Language](https://github.com/apis-list/apis-list#language)
@@ -15,12 +22,6 @@ Free, powerful language detection JSON API for 173 languages, supporting single 
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 
 
-
-Words](https://github.com/apis-list/apis-list#words)
-
-
-
-s)
 
 
 

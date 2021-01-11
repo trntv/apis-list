@@ -5,10 +5,18 @@
 
 Search, browse and learn about the Federal Register. Federal Register 2. 0 is the unofficial daily publication for rules, proposed rules, and notices of Federal agencies and organizations, as well as executive orders and other presidential documents.  Search, browse and learn about the Federal Register
 
+**Docs / Website**: https://www.federalregister.gov/reader-aids/developer-resources
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Government](https://github.com/apis-list/apis-list#government)
+
 
 
 

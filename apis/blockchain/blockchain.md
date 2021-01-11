@@ -5,14 +5,17 @@
 
 The easiest and most trusted transaction search engine and block explorer.  The easiest and most trusted transaction search engine and block explorer
 
+**Docs / Website**: https://www.blockchain.info/api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
-
-
-
-Cryptocurrency](https://github.com/apis-list/apis-list#cryptocurrency)
 
 
 

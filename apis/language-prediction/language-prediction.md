@@ -5,10 +5,18 @@
 
 The API returns maximum 3 detected languages and a numeric confidences between 0 and 1
 
+**Docs / Website**: https://rapidapi.com/BigLobster/api/language-identification-prediction
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Natural Language Processing](https://github.com/apis-list/apis-list#natural-language-processing)
+
 
 
 

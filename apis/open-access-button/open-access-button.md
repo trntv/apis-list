@@ -3,9 +3,16 @@
 
 Free, legal research articles delivered instantly or automatically requested from authors.
 
+**Docs / Website**: https://openaccessbutton.org/api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
 - [Search](https://github.com/apis-list/apis-list#search)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
@@ -14,8 +21,6 @@ Free, legal research articles delivered instantly or automatically requested fro
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 
 
-
-/github.com/apis-list/apis-list#law)
 
 
 

@@ -5,10 +5,18 @@
 
 The RESTful AMA Pro Motocross lap times for every racer on the start gate
 
+**Docs / Website**: http://promotocrossapi.com
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
+
 
 
 

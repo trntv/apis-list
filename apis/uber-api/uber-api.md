@@ -5,10 +5,18 @@
 
 API to request Uber rides.  Discover how the Uber API can easily enhance your app’s user experience and take your innovation further with a wide range of new capabilities
 
+**Docs / Website**: https://developer.uber.com
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
+
 
 
 

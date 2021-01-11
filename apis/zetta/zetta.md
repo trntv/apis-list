@@ -5,10 +5,18 @@
 
 An API-first, open source software platform for the Internet of Things.  - zettajs/zetta
 
+**Docs / Website**: https://github.com/zettajs/zetta/wiki
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [IoT & Home Automation](https://github.com/apis-list/apis-list#iot-and-home-automation)
+
 
 
 

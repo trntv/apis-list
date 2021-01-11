@@ -5,15 +5,18 @@
 
 Deck of Cards - an API for playing cards
 
+**Docs / Website**: http://deckofcardsapi.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Games](https://github.com/apis-list/apis-list#games)
-
-
-
-ames-and-comics)
 
 
 

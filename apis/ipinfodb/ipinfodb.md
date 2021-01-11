@@ -5,10 +5,18 @@
 
 Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address. Supported both IPv4 and IPv6 address
 
+**Docs / Website**: https://ipinfodb.com/api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
 
 
 

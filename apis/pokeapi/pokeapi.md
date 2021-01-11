@@ -5,21 +5,20 @@
 
 This is a full RESTful API linked to an extensive database detailing everything about the Pokémon main game series.  We've covered everything from Pokémon to Berry Flavors
 
+**Docs / Website**: https://pokeapi.co/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Games](https://github.com/apis-list/apis-list#games)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 
 
-
-t#entertainment)
-
-
-
-
-
-ithub/apis-list/apis-list#entertainment)
 
 
 

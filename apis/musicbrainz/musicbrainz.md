@@ -5,9 +5,16 @@
 
 The API discussed here is an interface to the MusicBrainz Database. It is aimed at developers of media players, CD rippers, taggers, and other applications requiring music metadata.  The API's archi
 
+**Docs / Website**: https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 

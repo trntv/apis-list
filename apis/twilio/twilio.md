@@ -5,9 +5,16 @@
 
 APIs for SMS, Voice, Video and more
 
+**Docs / Website**: https://www.twilio.com/solutions
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
 - [Communications](https://github.com/apis-list/apis-list#communications)
 - [Cloud](https://github.com/apis-list/apis-list#cloud)
@@ -16,9 +23,9 @@ APIs for SMS, Voice, Video and more
 
 
 
-hub.com/apis-list/apis-list#cloud)
-- [Voice](https://github.com/apis-list/apis-list#voice)
-- [Webhooks](https://github.com/apis-list/apis-list#webhooks)
+
+
+s)
 
 
 

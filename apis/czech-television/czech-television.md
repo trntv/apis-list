@@ -5,10 +5,18 @@
 
 iVysílání | TV program | Vše o ČT | Pořady A–Z | eShop.  iVysílání | TV program | Vše o ČT | Pořady A–Z | eShop
 
+**Docs / Website**: http://www.ceskatelevize.cz/xml/tv-program/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
+
 
 
 

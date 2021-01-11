@@ -5,21 +5,22 @@
 
 Various sports events, results, players, teams and high quality artwork. TheSportsDB is an open, crowd sourced database of Sports metadata with Events, TV listings, Artwork, Scores and a free JSON Sports API
 
+**Docs / Website**: http://www.thesportsdb.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
 - [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
 - [Databases](https://github.com/apis-list/apis-list#databases)
 
 
-
-https://github.com/apis-list/apis-list#art-and-design)
-
-
-
-)
 
 
 

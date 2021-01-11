@@ -5,13 +5,19 @@
 
 The largest social networking website for artists and art enthusiasts.  Find out how applications and websites integrate with DeviantArt and get started with oAuth 2. 0
 
+**Docs / Website**: https://www.deviantart.com/developers/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
 - [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
-
 
 
 

@@ -5,10 +5,18 @@
 
 Hosted by the USGS Core Science Analytics and Synthesis.  Page designed through the cooperative efforts of interagency ITIS Teams. Point of Contact: itiswebmaster@itis. gov
 
+**Docs / Website**: https://www.itis.gov/ws_description.html
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
+
 
 
 

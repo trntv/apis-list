@@ -5,18 +5,19 @@
 
 Provides service to get associations for a word or phrase. Words are grouped by semantics, meaning, and psychological perception.  Word Association API - Word Associations Network
 
+**Docs / Website**: https://wordassociations.net/en/api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 
 
-
-entation/swagger.json
-
-
-**Categories**:
-- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 
 
 

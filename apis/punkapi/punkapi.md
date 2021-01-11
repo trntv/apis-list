@@ -5,10 +5,18 @@
 
 Brewdog's DIY Dog as a searchable, filterable API. Brewdog's DIY Dog as a searchable, filterable API
 
+**Docs / Website**: https://punkapi.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Food & Drinks](https://github.com/apis-list/apis-list#food-and-drinks)
+
 
 
 

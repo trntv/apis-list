@@ -3,10 +3,18 @@
 
 2123 SETURI DE DATE 26000 FIȘIERE CORELATE 106 INSTITUȚII 14 GRUPURI 3873 ADRESE DE LEGĂTURĂ EXTERNE
 
+**Docs / Website**: http://data.gov.ro/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Government](https://github.com/apis-list/apis-list#government)
+
 
 
 

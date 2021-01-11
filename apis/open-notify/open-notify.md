@@ -3,9 +3,16 @@
 
 API Examples Current ISS Location The International Space Station is moving at close to 28,000 km/h so its location changes really fast! Where is it right now? Documentation: ISS Location Now Examp
 
+**Docs / Website**: http://open-notify.org/Open-Notify-API/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Real Time](https://github.com/apis-list/apis-list#real-time)
 - [Notifications](https://github.com/apis-list/apis-list#notifications)
 - [Events](https://github.com/apis-list/apis-list#events)
@@ -15,13 +22,6 @@ API Examples Current ISS Location The International Space Station is moving at c
 - [Fun](https://github.com/apis-list/apis-list#fun)
 
 
-
-ist/apis-list#humor)
-- [Real Time](https://github.com/apis-list/apis-list#real-time)
-
-
-
-mor)
 
 
 

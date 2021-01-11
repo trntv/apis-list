@@ -5,10 +5,18 @@
 
 NS beschikt over een grote hoeveelheid data met informatie over de geplande en actuele dienstregeling. NS beschikt over een grote hoeveelheid data met informatie over de geplande en actuele dienstregeling
 
+**Docs / Website**: http://www.ns.nl/reisinformatie/ns-api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
+
 
 
 

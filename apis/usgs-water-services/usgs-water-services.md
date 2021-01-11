@@ -5,14 +5,17 @@
 
 Home page for water resources information from the US Geological Survey.  Home page for water resources information from the US Geological Survey
 
+**Docs / Website**: https://waterservices.usgs.gov/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
-
-
-
-Science & Math](https://github.com/apis-list/apis-list#science-and-math)
 
 
 

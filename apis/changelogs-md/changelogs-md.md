@@ -5,10 +5,18 @@
 
 Search changelogs from open source projects, or use the REST API for a parsed JSON changelog format. . Search changelogs from open source projects, or use the REST API for a parsed JSON changelog format
 
+**Docs / Website**: https://changelogs.md
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
+
 
 
 

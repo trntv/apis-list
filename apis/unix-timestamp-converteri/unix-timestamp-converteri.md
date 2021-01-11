@@ -3,13 +3,19 @@
 
 ﻿ Unix Timestamp Converter API Unix Timestamp converter REST API Convert Unix Timestamps to DateTime objects and DateTime objects to Unix Timestamps This WebService was built in 20 minutes using Li. Convert UNIX timestamps to datetime and vice versa
 
+**Docs / Website**: http://unixtime.co.za
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Conversions](https://github.com/apis-list/apis-list#conversions)
 - [Time](https://github.com/apis-list/apis-list#time)
 - [Development](https://github.com/apis-list/apis-list#development)
-
 
 
 

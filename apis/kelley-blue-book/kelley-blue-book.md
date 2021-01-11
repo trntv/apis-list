@@ -5,9 +5,16 @@
 
 Please try again. Unable to load webpage Sorry, we were unable to load the requested page
 
+**Docs / Website**: http://developer.kbb.com/#!/data/1-Default
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Vehicle](https://github.com/apis-list/apis-list#vehicle)
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
 

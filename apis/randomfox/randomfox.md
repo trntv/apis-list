@@ -3,13 +3,19 @@
 
 Random image of a fox
 
+**Docs / Website**: https://randomfox.ca/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Random](https://github.com/apis-list/apis-list#random)
 - [Animals](https://github.com/apis-list/apis-list#animals)
-
 
 
 

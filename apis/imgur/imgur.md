@@ -5,9 +5,16 @@
 
 Imgur: The magic of the Internet. Imgur's API exposes the entire Imgur infrastructure via a standardized programmatic interface
 
+**Docs / Website**: https://api.imgur.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Photography](https://github.com/apis-list/apis-list#photography)
 

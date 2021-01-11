@@ -3,17 +3,25 @@
 
 Cryptocurrencies prices, market capitalization, volume and more.
 
+**Docs / Website**: https://api.coinpaprika.com
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 
 
 
-Bitcoin/Bitcoin Wallets](https://github.com/apis-list/apis-list#bitcoin-bitcoin-wallets)
-- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
+
+
+s-list/apis-list#blockchain-and-cryptocurrencies)
 
 
 

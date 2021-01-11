@@ -5,16 +5,18 @@
 
 IEX Cloud is a financial data infrastructure platform that connects developers and financial data creators
 
+**Docs / Website**: https://iexcloud.io/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 - [Cloud](https://github.com/apis-list/apis-list#cloud)
-
-
-
-Financial](https://github.com/apis-list/apis-list#financial)
-
 
 
 

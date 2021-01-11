@@ -5,17 +5,22 @@
 
 Welcome to Teleport for Developers! We're building the largest and most up-to-date quality of life database for Planet Earth using 300+ different data dimensions from 70+ different sources, all upd
 
+**Docs / Website**: https://developers.teleport.org/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
 - [Images](https://github.com/apis-list/apis-list#images)
 
 
-
-(https://github.com/apis-list/apis-list#video-and-media)
 
 
 

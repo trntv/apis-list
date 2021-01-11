@@ -5,19 +5,21 @@
 
 You have 1000 daily quota calls for your project. API Generator for telephones, text, numbers, passwords, names, social security numbers, and cards.  Use Randommer free REST API to generate numbers, telephone, validate phone numbers, calculate hashes, get american names,and generate placeholder text
 
+**Docs / Website**: https://randommer.io/randommer-api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Random](https://github.com/apis-list/apis-list#random)
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
 - [Development](https://github.com/apis-list/apis-list#development)
 
 
-
-
-
-
-naries)
 
 
 

@@ -5,10 +5,18 @@
 
 Generate random cartoon avatars
 
+**Docs / Website**: http://avatars.adorable.io
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Testing](https://github.com/apis-list/apis-list#testing)
+
 
 
 

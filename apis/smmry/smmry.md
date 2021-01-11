@@ -5,19 +5,21 @@
 
 Summarize articles, text, websites, essays and documents for free with SMMRY. Summarize articles, text, websites, essays and PDF documents online for free with SMMRY
 
+**Docs / Website**: https://smmry.com/api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 - [Text](https://github.com/apis-list/apis-list#text)
 - [Tools](https://github.com/apis-list/apis-list#tools)
 
 
-
-
-
-
-ithub/apis-list/apis-list#text-analysis)
 
 
 

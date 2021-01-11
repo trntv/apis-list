@@ -3,10 +3,18 @@
 
 A Remake of the original api, using the MERN stack
 
+**Docs / Website**: https://www.swapi.tech/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+
 
 
 

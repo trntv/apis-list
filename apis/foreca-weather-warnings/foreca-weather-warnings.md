@@ -5,14 +5,19 @@
 
 Data feed of the governmental severe weather warnings The Foreca WarningFeed integrates weather warnings from many national warning systems worldwide and presents them in a harmonized global offeri. The Foreca WarningFeed integrates weather warnings from many national warning systems worldwide and presents them in a harmonized global offering.  The feed is an additional module that can be activated for Foreca Weather API, Weather File Feed accounts or delivered as GeoJSON files
 
+**Docs / Website**: https://developer.foreca.com/weatherdata
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Other](https://github.com/apis-list/apis-list#other)
 
 
 
-
-,
 
 

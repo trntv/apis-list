@@ -5,10 +5,18 @@
 
 Persistent counting and A/B testing
 
+**Docs / Website**: 
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
+
 
 
 

@@ -5,9 +5,16 @@
 
 The Houndify Voice AI platform helps brands build voice user interfaces that enhance brand identity and retain data ownership and customer relationships. Integrate voice and conversational intelligence into your products through an independent platform that is always learning
 
+**Docs / Website**: https://www.houndify.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
 - [Natural Language Processing](https://github.com/apis-list/apis-list#natural-language-processing)
@@ -19,9 +26,8 @@ The Houndify Voice AI platform helps brands build voice user interfaces that enh
 
 
 
-anscription)
-- [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
-- [Voice](https://github.com/apis-list/apis-list#voice)
+
+
 - [Speech-To-Meaning](https://github.com/apis-list/apis-list#speech-to-meaning)
 
 

@@ -5,18 +5,18 @@
 
 Official Documentation for the Binance Spot APIs and Streams - binance/binance-spot-api-docs. Official Documentation for the Binance Spot APIs and Streams - binance/binance-spot-api-docs
 
+**Docs / Website**: https://github.com/binance/binance-spot-api-docs
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
-
-
-
-nancial)
-- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
-
-
 
 
 

@@ -5,10 +5,19 @@
 
 Google’s product is quite similar to Amazon’s but it’s actually. Amazon Machine Learning&nbsp;made a lot of noise when it came out&nbsp;last month.  Shortly afterwards, someone posted a link to Google Prediction API&nbsp;on HackerNews and it quickly became one of the most popular’s posts
 
+**Docs / Website**: http://www.louisdorard.com/blog/machine-learning-apis-comparison
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
+
+
 
 
 

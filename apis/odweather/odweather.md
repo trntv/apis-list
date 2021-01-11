@@ -3,22 +3,23 @@
 
 Weather for boating
 
+**Docs / Website**: http://api.oceandrivers.com/static/docs.html
+
 ## Specification:
 **Type**: swagger
 **URI**: https://api.oceandrivers.com/static/resources.json
 
+## 💬 Discussion:
+[Create discussion](link)
 
-**Categories**:
+## Categories:
 - [Weather](https://github.com/apis-list/apis-list#weather)
 
 
 
-- [Weather](https://github.com/apis-list/apis-list#weather)
 
 
-
-om/apis-list/apis-list#weather)
-- [Boating](https://github.com/apis-list/apis-list#boating)
+//github.com/apis-list/apis-list#boating)
 
 
 

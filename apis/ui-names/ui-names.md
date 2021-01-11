@@ -5,9 +5,16 @@
 
 A simple tool to generate names for use in designs and mockups.  - thm/uinames. A simple tool to generate names for use in designs and mockups
 
+**Docs / Website**: https://github.com/thm/uinames
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Random](https://github.com/apis-list/apis-list#random)
 - [Testing](https://github.com/apis-list/apis-list#testing)
 

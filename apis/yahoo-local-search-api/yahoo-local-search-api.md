@@ -5,12 +5,21 @@
 
 Join the 200,000 developers using Yahoo tools to build their app businesses. Local Web Services. Measure, monetize, advertise and improve your apps with Yahoo tools
 
+**Docs / Website**: https://developer.yahoo.com/search/local/localSearch.html
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Search](https://github.com/apis-list/apis-list#search)
 - [Localization](https://github.com/apis-list/apis-list#localization)
+
+
 
 
 

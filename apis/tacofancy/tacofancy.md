@@ -5,17 +5,18 @@
 
 Making an API for https://github. Making an API for https://github. com/sinker/tacofancy - evz/tacofancy-api
 
+**Docs / Website**: https://github.com/evz/tacofancy-api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Food & Drinks](https://github.com/apis-list/apis-list#food-and-drinks)
 - [Fun](https://github.com/apis-list/apis-list#fun)
-
-
-
-
-- [Food](https://github.com/apis-list/apis-list#food)
-
 
 
 

@@ -5,15 +5,20 @@
 
 With this API you can easily create a full Texas Holdem game, just create the graphic and associate it with the results
 
+**Docs / Website**: https://www.mashape.com/neurone/Texas-Holdem
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Casino & Gambling](https://github.com/apis-list/apis-list#casino-and-gambling)
 - [Games](https://github.com/apis-list/apis-list#games)
 
 
-
-ames-and-comics)
 
 
 

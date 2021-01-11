@@ -5,19 +5,25 @@
 
 Hire in any profession you can think of using our API, on demand–developers, designers, photographers, copywriters, delivery people, manufacturers and more.  Task humans from software. Task humans from software
 
+**Docs / Website**: https://developers.freelancer.com
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Jobs](https://github.com/apis-list/apis-list#jobs)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Business](https://github.com/apis-list/apis-list#business)
 
 
 
-n)
-- [Cloud](https://github.com/apis-list/apis-list#cloud)
-- [Crowdsourcing](https://github.com/apis-list/apis-list#crowdsourcing)
-- [Machine Learning](https://github.com/apis-list/apis-list#machine-learning)
+
+
+(https://github.com/apis-list/apis-list#machine-learning)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 
 

@@ -5,10 +5,18 @@
 
 Description of download interface to build calls to the Movebank database using HTTP/CSV or JSON/JavaScript requests - movebank/movebank-api-doc. Description of download interface to build calls to the Movebank database using HTTP/CSV or JSON/JavaScript requests - movebank/movebank-api-doc
 
+**Docs / Website**: https://github.com/movebank/movebank-api-doc
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Animals](https://github.com/apis-list/apis-list#animals)
+
 
 
 

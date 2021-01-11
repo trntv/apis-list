@@ -4,9 +4,16 @@
 The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram. The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram. 
 To learn how to create…
 
+**Docs / Website**: https://core.telegram.org/bots/api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Cloud](https://github.com/apis-list/apis-list#cloud)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
@@ -15,12 +22,6 @@ To learn how to create…
 - [Bots](https://github.com/apis-list/apis-list#bots)
 
 
-
-ile)
-
-
-
-s)
 
 
 

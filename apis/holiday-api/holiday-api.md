@@ -3,9 +3,16 @@
 
 Start developing for free. Public holiday API service for several supported countries.  Don't let sourcing and maintaining holiday information get in the way of building your product
 
+**Docs / Website**: https://holidayapi.pl/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Calendar](https://github.com/apis-list/apis-list#calendar)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
@@ -21,13 +28,9 @@ Start developing for free. Public holiday API service for several supported coun
 
 
 
-ice)
 
 
-
-.com/apis-list/apis-list#european)
-- [Commerce & Marketplaces](https://github.com/apis-list/apis-list#commerce-and-marketplaces)
-- [Time](https://github.com/apis-list/apis-list#time)
+Time](https://github.com/apis-list/apis-list#time)
 
 
 

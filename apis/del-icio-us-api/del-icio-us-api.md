@@ -5,9 +5,16 @@
 
 Keep, share, and discover the best of the Web using Delicious, the world's leading social bookmarking service
 
+**Docs / Website**: https://delicious.com/developers#title1
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Bookmarks](https://github.com/apis-list/apis-list#bookmarks)
 - [Social](https://github.com/apis-list/apis-list#social)
 

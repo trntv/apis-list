@@ -12,15 +12,24 @@ You have to handle:
 Scraping Ninja is a simple API that does all the above for you. 
 It is truly the most simple web scraping API ever
 
+**Docs / Website**: https://www.scrapingbee.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [SaaS](https://github.com/apis-list/apis-list#saas)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers-and-data-mining)
 - [Data-As-A-Service](https://github.com/apis-list/apis-list#data-as-a-service)
 - [Extraction](https://github.com/apis-list/apis-list#extraction)
+
+
 
 
 

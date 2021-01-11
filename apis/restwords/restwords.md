@@ -3,14 +3,23 @@
 
 You can GET to retrieve your text and you can POST to change your stored text.  Store up to 2000 ASCII chararacters.
 
+**Docs / Website**: https://www.restwords.com
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Other](https://github.com/apis-list/apis-list#other)
 
 
 
-ost there — you just need to create a web app to handle this domain. Go to the "Web" tab inside PythonAnywhere and clic. Restwords is a text blob manager and is completely free.  You may use it to store any sort of text (anything that can be saved as an ASCII string)
+
+
+blob manager and is completely free.  You may use it to store any sort of text (anything that can be saved as an ASCII string)
 
 
 

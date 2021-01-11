@@ -3,9 +3,16 @@
 
 backends. contrib. 1', 'vpn. anode. Enrich your contact lists with intelligent demographics. ModelBack.  ABSOLUTE_URL_OVERRIDES {} ADMINS [] ALLOWED_HOSTS ['127. co', '45. 111. vpn. 77.  Add gender age, income, education, ancestry, crime, and political leaning to your customer insights. auth. co', 'h. . 157'] APPEND_SLASH True AUTHENTICATION_BACKENDS ('django. 0
 
+**Docs / Website**: https://datademograph.com
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Demographics](https://github.com/apis-list/apis-list#demographics)
 - [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers-and-data-mining)
@@ -16,8 +23,8 @@ backends. contrib. 1', 'vpn. anode. Enrich your contact lists with intelligent d
 
 
 
-- [Demographics](https://github.com/apis-list/apis-list#demographics)
-- [Customer Relationship Management](https://github.com/apis-list/apis-list#customer-relationship-management)
+
+ist#customer-relationship-management)
 - [People](https://github.com/apis-list/apis-list#people)
 
 

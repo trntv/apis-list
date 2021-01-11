@@ -5,15 +5,18 @@
 
 Models are duplicated across 5 data centers around the world with latency-routed requests at less than 60ms response time. No servers, dependencies, or maintenance - simply make a request to a /predict or /learn endpoint to get started. Enable any application to be intelligent with serverless, high-performance machine learning contained in a simple API
 
+**Docs / Website**: https://dan.com/buy-domain/mlrequest.com?redirected=true&tld=com
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Machine Learning](https://github.com/apis-list/apis-list#machine-learning)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
-
-
-
-t#artificial-intelligence)
 
 
 

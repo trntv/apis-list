@@ -5,9 +5,16 @@
 
 Automate data extraction from your documents with Artificial Intelligence
 
+**Docs / Website**: https://rossum.ai/developers/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Payments](https://github.com/apis-list/apis-list#payments)
 - [Extraction](https://github.com/apis-list/apis-list#extraction)
 - [Machine Learning](https://github.com/apis-list/apis-list#machine-learning)
@@ -15,12 +22,6 @@ Automate data extraction from your documents with Artificial Intelligence
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 
 
-
-//github.com/apis-list/apis-list#documents-and-productivity)
-
-
-
-y)
 
 
 

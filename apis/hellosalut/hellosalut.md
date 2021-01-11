@@ -5,10 +5,18 @@
 
 Say hello to your website visitors in their native language.  Say hello to your website visitors in their native language
 
+**Docs / Website**: https://www.fourtonfish.com/hellosalut/hello/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
 
 
 

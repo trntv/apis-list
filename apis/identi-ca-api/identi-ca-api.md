@@ -5,14 +5,16 @@
 
 It pumps your life in and out of your friends, family and colleagues. Runs pump. io, the high-performance Open Source social engine
 
+**Docs / Website**: 
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
-- [Social](https://github.com/apis-list/apis-list#social)
+## 💬 Discussion:
+[Create discussion](link)
 
-
-
-
+## Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
 
 

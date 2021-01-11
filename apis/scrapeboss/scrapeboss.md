@@ -5,9 +5,16 @@
 
 Contact with an owner of ScrapeBoss. com domain name. Return developer friendly JSON data for almost any article
 
+**Docs / Website**: https://scrapeboss.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Extraction](https://github.com/apis-list/apis-list#extraction)
 - [Automation](https://github.com/apis-list/apis-list#automation)
 - [Social](https://github.com/apis-list/apis-list#social)
@@ -16,12 +23,6 @@ Contact with an owner of ScrapeBoss. com domain name. Return developer friendly 
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
 
 
-
-pis-list#automation)
-
-
-
-ng)
 
 
 

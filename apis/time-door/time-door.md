@@ -5,9 +5,16 @@
 
 Time Door is an API for statistical insights into time series data.  Time Door is an API for statistical insights into time series data. It is easy to integrate and handles fast and messy real-world data. Sign up for free
 
+**Docs / Website**: https://timedoor.io
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
 - [Big Data](https://github.com/apis-list/apis-list#big-data)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
@@ -22,8 +29,8 @@ Time Door is an API for statistical insights into time series data.  Time Door i
 
 
 
-- [Analytics](https://github.com/apis-list/apis-list#analytics)
-- [Machine Learning](https://github.com/apis-list/apis-list#machine-learning)
+
+ning)
 
 
 

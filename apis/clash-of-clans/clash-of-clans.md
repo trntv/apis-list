@@ -5,15 +5,18 @@
 
 Access Clan Search, Global and Local Leaderboards, Clan and Player Profiles and Leagues. Channel Your Inner Builder with the Clash of Clans API
 
+**Docs / Website**: https://developer.clashofclans.com
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Games](https://github.com/apis-list/apis-list#games)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-
-
-
-t#entertainment)
 
 
 

@@ -5,17 +5,24 @@
 
 You'll fit in here. Using JavaScript, CSS, and SVG, developers now have a fast, easy way to build apps and clock faces for Fitbit OS. Web API for accessing data from Fitbit activity trackers, Aria scale, and manually entered logs
 
+**Docs / Website**: https://dev.fitbit.com/build/reference/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
 - [Health](https://github.com/apis-list/apis-list#health)
 
 
 
-thub.com/apis-list/apis-list#wearable)
-- [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
-- [Fitness](https://github.com/apis-list/apis-list#fitness)
+
+
+/apis-list#fitness)
 
 
 

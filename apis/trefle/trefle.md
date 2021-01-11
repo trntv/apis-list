@@ -3,9 +3,16 @@
 
 Trefle is a botanical API and data source
 
+**Docs / Website**: https://trefle.io/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Environment](https://github.com/apis-list/apis-list#environment)
 - [Agriculture](https://github.com/apis-list/apis-list#agriculture)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
@@ -13,12 +20,9 @@ Trefle is a botanical API and data source
 
 
 
-Directories](https://github.com/apis-list/apis-list#directories)
-- [Hacking](https://github.com/apis-list/apis-list#hacking)
 
 
-
-rectories](https://github.com/apis-list/apis-list#directories)
+s](https://github.com/apis-list/apis-list#directories)
 
 
 

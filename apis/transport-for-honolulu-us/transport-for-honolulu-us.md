@@ -5,10 +5,18 @@
 
 « Return to TheBusHEA Web Services API The Web API (Application Programming Interface) allows a developer to access our real-time AVL data.  To utilize OTS's web services, an application id (AppID)
 
+**Docs / Website**: http://hea.thebus.org/api_info.asp
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
+
 
 
 

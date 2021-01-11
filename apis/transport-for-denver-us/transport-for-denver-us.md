@@ -5,10 +5,18 @@
 
 All passengers are required to wear face masks on RTD services. Capacity is limited to approximately 15 passengers per bus, 20 on larger buses, and 30 riders per rail car.  If you are unable to main. All passengers are required to wear face masks on RTD services
 
+**Docs / Website**: http://www.rtd-denver.com/gtfs-developer-guide.shtml
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
+
 
 
 

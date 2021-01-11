@@ -5,10 +5,18 @@
 
 An API for the english language. Definitions, related words, rhymes, and more. Use it to find definitions for more than 150,000 words
 
+**Docs / Website**: https://www.wordsapi.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
+
 
 
 

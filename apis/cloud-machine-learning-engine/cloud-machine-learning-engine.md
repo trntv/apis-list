@@ -6,10 +6,18 @@
 Take your ML projects to production, quickly and cost-effectively. 
 . Cloud-based machine learning and pattern matching tool. A development platform to build AI applications that run on GCP and on-premises
 
+**Docs / Website**: https://cloud.google.com/ml-engine/docs/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+
 
 
 

@@ -5,22 +5,22 @@
 
 Simple API to convert an OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude. Convert an OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude
 
+**Docs / Website**: https://www.getthedata.com/bng2latlong
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Geography](https://github.com/apis-list/apis-list#geography)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Postal](https://github.com/apis-list/apis-list#postal)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 
 
-
-Open Data](https://github.com/apis-list/apis-list#open-data)
-- [Postal](https://github.com/apis-list/apis-list#postal)
-
-
-
-l)
 
 
 

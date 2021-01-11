@@ -5,10 +5,18 @@
 
 The image capturing function used by Naver Service can be used for customer service to identify people and computers to prevent abusing
 
+**Docs / Website**: https://developers.naver.com/products/captcha
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Captcha](https://github.com/apis-list/apis-list#captcha)
+
 
 
 

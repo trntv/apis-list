@@ -5,10 +5,18 @@
 
 Translate from English to Shakespeare English
 
+**Docs / Website**: https://funtranslations.com/api/shakespeare
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Translation](https://github.com/apis-list/apis-list#translation)
+
 
 
 

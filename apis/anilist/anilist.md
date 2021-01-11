@@ -5,23 +5,21 @@
 
 Contribute to AniList/ApiV2-GraphQL-Docs development by creating an account on GitHub. AniList API V2 GraphQL Documentation.
 
+**Docs / Website**: https://github.com/AniList/ApiV2-GraphQL-Docs
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Animation](https://github.com/apis-list/apis-list#animation)
 - [Japanese](https://github.com/apis-list/apis-list#japanese)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 
 
 
-ion](https://github.com/apis-list/apis-list#animation)
-
-
-
-
-
-
-
-ist/apis-list#tv),
 
 

@@ -5,9 +5,16 @@
 
 The Rick and Morty API is a REST and GraphQL API based on the television show Rick and Morty. The Rick and Morty API is a REST and GraphQL API based on the television show Rick and Morty
 
+**Docs / Website**: https://rickandmortyapi.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Comics & Anime](https://github.com/apis-list/apis-list#comics-and-anime)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 

@@ -5,10 +5,18 @@
 
 Create and manage events and calendars for Google Calendar.  Create and manage events and calendars for Google Calendar
 
+**Docs / Website**: https://developers.google.com/google-apps/calendar/?hl=en
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Calendar](https://github.com/apis-list/apis-list#calendar)
+
 
 
 

@@ -3,14 +3,17 @@
 
 Upcoming Space Launches
 
+**Docs / Website**: https://ll.thespacedevs.com/2.1.0/swagger
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
-
-
-
-Math & Science](https://github.com/apis-list/apis-list#math-and-science)
 
 
 

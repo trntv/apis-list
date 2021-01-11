@@ -5,9 +5,16 @@
 
 This Lorem Ipsum generator fits all your Lipsum needs! Come on over, make some Lipsum and copy-paste like a pro!. This Lorem Ipsum generator fits all your Lipsum needs! Come on over, make some Lipsum and copy-paste like a pro!
 
+**Docs / Website**: http://loripsum.net/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Testing](https://github.com/apis-list/apis-list#testing)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 

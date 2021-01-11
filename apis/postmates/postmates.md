@@ -3,10 +3,18 @@
 
 Build on-demand delivery into your app or website.  error code: 1009
 
+**Docs / Website**: https://postmates.com/developer/docs
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
+
 
 
 

@@ -5,9 +5,16 @@
 
 USAJOBS API Terms of Service As a USAJOBS API Consumer, you agree to the following terms and conditions, and any policies, guidelines or amendments thereto that may be presented to you from time to. USAJOBS API Terms of Service As a USAJOBS API Consumer, you agree to the following terms and conditions, and any policies, guidelines or amendments thereto that may be presented to you from time to
 
+**Docs / Website**: https://developer.usajobs.gov/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Jobs](https://github.com/apis-list/apis-list#jobs)
 - [Government](https://github.com/apis-list/apis-list#government)
 

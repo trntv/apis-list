@@ -5,15 +5,18 @@
 
 Discover APIs, learn how to use them, try them out interactively, and sign up to acquire keys.  Discover APIs, learn how to use them, try them out interactively, and sign up to acquire keys
 
+**Docs / Website**: https://dev.wegmans.io
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Shopping](https://github.com/apis-list/apis-list#shopping)
-
-
-
-t#commerce-and-marketplaces)
 
 
 

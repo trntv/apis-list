@@ -6,14 +6,22 @@
 Chrome based screenshot API to convert URLs to images.  ApiFlash is an easy to use screenshot API for developers.  It is powerful and
  cost efficient as it is operating on top of AWS Lambda and Google Chrome
 
+**Docs / Website**: https://apiflash.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Tools](https://github.com/apis-list/apis-list#tools)
+
 
 
 

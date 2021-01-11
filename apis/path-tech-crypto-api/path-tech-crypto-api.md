@@ -5,10 +5,19 @@
 
 Single interface to retrieve transactions across crypto exchanges and wallets
 
+**Docs / Website**: https://path.tech
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
+
+
 
 
 

@@ -5,10 +5,18 @@
 
 Tamil language Dictionary API. Fonts API - Subscription
 
+**Docs / Website**: https://agarathi.com/api/dictionary
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
+
 
 
 

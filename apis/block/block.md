@@ -5,15 +5,23 @@
 
 The most versatile and secure wallet for all your coins
 
+**Docs / Website**: https://block.io/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
 
 
 
-Cryptocurrency](https://github.com/apis-list/apis-list#cryptocurrency)
-- [Bitcoin/Bitcoin Wallets](https://github.com/apis-list/apis-list#bitcoin-bitcoin-wallets)
+
+
+st#bitcoin-bitcoin-wallets)
 
 
 

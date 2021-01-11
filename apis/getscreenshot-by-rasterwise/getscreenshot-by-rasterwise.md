@@ -7,9 +7,16 @@ A successful request to the API will return a simple JSON that includes a URL po
 
 This RESTful API can be accessed by any standard/popular client with HTTP capabilities. This means that almost any language with an HTTP request library or built-in module can make calls to GetScreenshot
 
+**Docs / Website**: https://getscreenshot.rasterwise.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Webhooks](https://github.com/apis-list/apis-list#webhooks)
 

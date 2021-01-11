@@ -5,9 +5,16 @@
 
 All requests are made to endpoints beginning: https://api. gfycat. com/v1 All requests must be secure, i. e. https, not. Introduction Gfycat’s API is OAuth2 based and uses JSON for input and responses
 
+**Docs / Website**: https://developers.gfycat.com/api/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Animation](https://github.com/apis-list/apis-list#animation)
 - [Meme](https://github.com/apis-list/apis-list#meme)
@@ -16,8 +23,6 @@ All requests are made to endpoints beginning: https://api. gfycat. com/v1 All re
 - [Photography](https://github.com/apis-list/apis-list#photography)
 
 
-
-y)
 
 
 

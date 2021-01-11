@@ -5,18 +5,19 @@
 
 Free, powerful HTML to PDF API supporting both URL and raw HTML conversion. Free, powerful HTML to PDF API supporting both URL and raw HTML conversion. Unlimited document size, lightning-fast and compatible PHP, Python, Ruby, etc
 
+**Docs / Website**: https://pdflayer.com
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
 - [Tools](https://github.com/apis-list/apis-list#tools)
 - [Conversions](https://github.com/apis-list/apis-list#conversions)
-
-
-
-//github.com/apis-list/apis-list#documents-and-productivity)
-
-
 
 
 

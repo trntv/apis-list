@@ -5,10 +5,18 @@
 
 Requests are served as content type 'application/javascript' and cached for 4 hours for better performance. Simply pass 2 parameters (url and callback function name) to the json2jsonp. com domain.  Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using pure JavaScript. Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using pure JavaScript
 
+**Docs / Website**: https://json2jsonp.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
+
 
 
 

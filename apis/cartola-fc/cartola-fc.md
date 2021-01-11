@@ -5,10 +5,18 @@
 
 The Cartola FC API serves to check the partial points of your team. 🎩 CartrolandoFC é um site para consultar os pontos parciais do seu time no Cartola FC. - wgenial/cartrolandofc
 
+**Docs / Website**: https://github.com/wgenial/cartrolandofc
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
+
 
 
 

@@ -5,9 +5,16 @@
 
 Daily cat facts! 🐱. Daily cat facts! 🐱
 
+**Docs / Website**: https://alexwohlbruck.github.io/cat-facts/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Bots](https://github.com/apis-list/apis-list#bots)
 - [Education](https://github.com/apis-list/apis-list#education)
@@ -15,12 +22,6 @@ Daily cat facts! 🐱. Daily cat facts! 🐱
 - [Animals](https://github.com/apis-list/apis-list#animals)
 
 
-
-
-
-
-
-)
 
 
 

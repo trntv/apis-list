@@ -5,9 +5,16 @@
 
 The best way to gather anyone’s documents, directly from your app & without hassle. Offer the best online onboarding experience, document collection and approval workflows to your clients and partners (eSignature included)
 
+**Docs / Website**: https://clustdoc.com/developers
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Forms](https://github.com/apis-list/apis-list#forms)
 - [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
 - [Business](https://github.com/apis-list/apis-list#business)
@@ -22,12 +29,8 @@ The best way to gather anyone’s documents, directly from your app & without ha
 
 
 
-- [SaaS](https://github.com/apis-list/apis-list#saas)
 
-
-
-ion](https://github.com/apis-list/apis-list#collaboration)
-- [Customer Relationship Management](https://github.com/apis-list/apis-list#customer-relationship-management)
+ent](https://github.com/apis-list/apis-list#customer-relationship-management)
 
 
 

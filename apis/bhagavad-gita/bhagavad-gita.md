@@ -5,13 +5,19 @@
 
 Bhagwat Geeta in Hindi and English. Read Bhagavad Gita online in a simple, beautiful and easy-to-use interface; Gita Saar In Hindi; Bhagavad Gita quotes
 
+**Docs / Website**: https://bhagavadgita.io/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Books](https://github.com/apis-list/apis-list#books)
 - [Other](https://github.com/apis-list/apis-list#other)
 - [Religion](https://github.com/apis-list/apis-list#religion)
-
 
 
 

@@ -5,11 +5,20 @@
 
 A simple API to request a user's real-time approval on any device or platform via Email, SMS, Slack, and in-app mobile Push. I found a great domain name for sale.  Check it out!
 
+**Docs / Website**: https://approveapi.com
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
+
+
 
 
 

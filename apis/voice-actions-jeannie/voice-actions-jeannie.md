@@ -5,13 +5,19 @@
 
 Jeannie (Voice Actions) is a virtual assistant with over two Million downloads, now also available via API.  The objective of this service is to provide you and your robot with the smartest answer to any natural language question, just like Siri
 
+**Docs / Website**: 
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Tools](https://github.com/apis-list/apis-list#tools)
 - [Voice](https://github.com/apis-list/apis-list#voice)
 - [Applications](https://github.com/apis-list/apis-list#applications)
-
 
 
 

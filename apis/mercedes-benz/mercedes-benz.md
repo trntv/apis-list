@@ -5,9 +5,16 @@
 
 Get access to our live API products or newer initiatives in development. Easily integrate our live APIs in your production environment or experiment with exciting new APIs even before they are ready for prime time.  Get access to our live API products or newer initiatives in development
 
+**Docs / Website**: https://developer.mercedes-benz.com/apis
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
 - [Vehicle](https://github.com/apis-list/apis-list#vehicle)
 

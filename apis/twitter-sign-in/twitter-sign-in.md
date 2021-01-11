@@ -5,11 +5,20 @@
 
 Works on websites, iOS, mobile and desktop applications. The browser log in flow is appropriate for websites and applications which are able to open or embed a web browser. At a very high level: The application renders a “Sign in with Twitter” link or bu
 
+**Docs / Website**: https://dev.twitter.com/web/sign-in
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Authentication & User Management](https://github.com/apis-list/apis-list#authentication-and-user-management)
+
+
 
 
 

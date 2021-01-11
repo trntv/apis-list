@@ -5,10 +5,18 @@
 
 Real-time and historical currency rates JSON API.  CurrencyScoop is a developer-friendly REST API with real-time and historical exchange rates for 168 world currencies and 1600 cryptocurrencies
 
+**Docs / Website**: https://currencyscoop.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
+
 
 
 

@@ -5,10 +5,18 @@
 
 Build a clearer picture of your customers in minutes with our data-focused APIs.  Build a clearer picture of your customers in minutes with our data-focused APIs
 
+**Docs / Website**: https://www.fullcontact.com/developer/docs/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
+
 
 
 

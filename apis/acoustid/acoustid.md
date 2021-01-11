@@ -3,11 +3,20 @@
 
 Web Service The AcoustID web service currently supports only two operations, searching in the fingerprint database and submitting new fingerprints into the database. Usage Guidelines Remember that
 
+**Docs / Website**: https://acoustid.org/webservice
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
+
+
 
 
 

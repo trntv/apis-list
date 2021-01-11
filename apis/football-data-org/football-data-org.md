@@ -5,14 +5,17 @@
 
 A restful API for football data.  A restful API for football data
 
+**Docs / Website**: http://api.football-data.org/index
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
-
-
-
-://github.com/apis-list/apis-list#sport-and-fitness)
 
 
 

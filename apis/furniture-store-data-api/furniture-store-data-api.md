@@ -5,10 +5,18 @@ You will learn how to provide any type of data via api in seconds.  The great th
 Functionality: Can let your user get data based on keyset and its value set by specifying any TokenKey and value on which basis the API request can be validated. 
 Prerequisites: Visual Studio 4. The API is designed on a demo base for a furniture store repository which provides furniture store data against a token and name of the furniture store
 
+**Docs / Website**: https://getrit.com/API/Token
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Search](https://github.com/apis-list/apis-list#search)
+
 
 
 

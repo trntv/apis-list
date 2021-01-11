@@ -5,10 +5,18 @@
 
 Open repository of non-working days ics files. Open repository of non-working days ics files.  Contribute to gadael/icsdb development by creating an account on GitHub
 
+**Docs / Website**: https://github.com/gadael/icsdb
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Calendar](https://github.com/apis-list/apis-list#calendar)
+
 
 
 

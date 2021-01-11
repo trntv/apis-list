@@ -5,18 +5,19 @@
 
 Powerful cryptocurrency rates JSON API delivering real-time crypto exchange rate and conversion data for more than 25 exchanges and 385 coins worldwide
 
+**Docs / Website**: https://coinlayer.com
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Currency](https://github.com/apis-list/apis-list#currency)
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
 - [Conversions](https://github.com/apis-list/apis-list#conversions)
-
-
-
-ttps://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
-
-
 
 
 

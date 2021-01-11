@@ -5,9 +5,16 @@
 
 A simple JSON store for your web or mobile app
 
+**Docs / Website**: 
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
 

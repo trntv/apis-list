@@ -5,17 +5,18 @@
 
 Google AdSense provides a free, flexible way to earn money from your websites, mobile sites, and site search results with relevant and engaging ads. Free, flexible way to earn money from your websites, mobile sites, and site search results
 
+**Docs / Website**: https://developers.google.com/adsense/?hl=en
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Marketing](https://github.com/apis-list/apis-list#marketing)
 - [SEO](https://github.com/apis-list/apis-list#seo)
-
-
-
-
-- [Marketing](https://github.com/apis-list/apis-list#marketing)
-
 
 
 

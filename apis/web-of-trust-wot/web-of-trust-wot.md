@@ -6,10 +6,18 @@
 As a result, before July 1, 2020, you will need to update your requests. Please stand by, while we are checking your browser. Reputation API
 Note After July 1, 2020, requests to the v0. 4 endpoints will no longer be supported and may stop to responses
 
+**Docs / Website**: https://support.mywot.com/hc/en-us/articles/360024398673-3-Using-the-API
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Security](https://github.com/apis-list/apis-list#security)
+
 
 
 

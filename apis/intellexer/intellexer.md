@@ -3,9 +3,16 @@
 
 Processing (NLP) Service including sentiment analysis, content extraction, and language detection.  The Intellexer API enables developers to embed text analysis solutions in consumer or enterprise applications, or web-services.  You can use Intellexer API with any software component that issue an HTTPS requests
 
+**Docs / Website**: http://esapi.intellexer.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Extraction](https://github.com/apis-list/apis-list#extraction)
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
@@ -23,12 +30,9 @@ Processing (NLP) Service including sentiment analysis, content extraction, and l
 
 
 
- & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 
 
-
-Classification](https://github.com/apis-list/apis-list#classification)
-- [Content Management](https://github.com/apis-list/apis-list#content-management)
+gement](https://github.com/apis-list/apis-list#content-management)
 
 
 

@@ -5,13 +5,19 @@
 
 The simplest way to cost effectively store, serve, backup, and archive a virtually infinite amount of media, content, images, and static files for your apps. API that provides easy access to store and receive files as simple object storage with easy to understand pricing. 2 Month Free Trial
 
+**Docs / Website**: https://www.digitalocean.com/products/spaces
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Platform-As-A-Service](https://github.com/apis-list/apis-list#platform-as-a-service)
 - [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
 - [Cloud](https://github.com/apis-list/apis-list#cloud)
-
 
 
 

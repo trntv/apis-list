@@ -5,10 +5,18 @@
 
 Beta This product or feature is covered by the Pre-GA Offerings Terms of the Google Cloud Platform Terms of Service. Pre-GA products and features may have limited support, and changes to pre-GA pro
 
+**Docs / Website**: https://cloud.google.com/genomics/reference/rest/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Health](https://github.com/apis-list/apis-list#health)
+
 
 
 

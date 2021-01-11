@@ -3,10 +3,18 @@
 
 502 Bad Gateway nginx.  提供PM2. 5(细颗粒物)及空气质量指数(AQI)实时查询的网站，同时开放PM2. 5监测数据查询的API给开发者使用！
 
+**Docs / Website**: http://www.pm25.in/api_doc
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Environment](https://github.com/apis-list/apis-list#environment)
+
 
 
 

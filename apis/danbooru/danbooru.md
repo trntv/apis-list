@@ -3,9 +3,16 @@
 
 Get images cartegorized by tags.
 
+**Docs / Website**: https://danbooru.donmai.us/posts?tags=help%3Aapi
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Comics & Anime](https://github.com/apis-list/apis-list#comics-and-anime)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Social](https://github.com/apis-list/apis-list#social)
@@ -13,10 +20,5 @@ Get images cartegorized by tags.
 
 
 
-
-
-
-
-is-list#forums), [Entertainment](https://github/apis-list/apis-list#entertainment), [Social](https://github/apis-list/apis-list#social),
 
 

@@ -5,10 +5,18 @@
 
 Open demographic data such as population tables, population rank and life expectancy
 
+**Docs / Website**: http://api.population.io
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
+
 
 
 

@@ -5,16 +5,18 @@
 
 Put us in unexpected places, challenge the traditional creative flow, think big, go wild. File Sharing.  Integrate WeTransfer into your product, your platform, your life
 
+**Docs / Website**: https://developers.wetransfer.com
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
 - [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
-
-
-
-tps://github.com/apis-list/apis-list#cloud-storage-and-file-sharing)
-
 
 
 

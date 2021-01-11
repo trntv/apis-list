@@ -5,9 +5,16 @@
 
 WhereIsMyTransport connects public transport data in one place. WhereIsMyTransport connects public transport data in one place.  Our platform helps cities understand transport systems, getting commuters where they want to go
 
+**Docs / Website**: https://developer.whereismytransport.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
 - [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 

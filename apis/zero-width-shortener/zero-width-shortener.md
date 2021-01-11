@@ -5,10 +5,18 @@
 
 Shorten URLs with invisible spaces. URL shortener that shortens URLs using spaces that have zero width, making them invisible to humans
 
+**Docs / Website**: https://docs.zws.im
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [URL Shortening](https://github.com/apis-list/apis-list#url-shortening)
+
 
 
 

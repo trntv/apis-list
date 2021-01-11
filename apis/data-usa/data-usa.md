@@ -5,10 +5,18 @@
 
 public data. Data USA provides an open, easy-to-use platform that turns data into knowledge.  The most comprehensive visualization of U. The most comprehensive visualization of U. S
 
+**Docs / Website**: https://datausa.io/about/api/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Government](https://github.com/apis-list/apis-list#government)
+
 
 
 

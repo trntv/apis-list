@@ -6,9 +6,16 @@ content - typically a PDF - from many Open Access journals and repositories. We 
 .  CORE harvests, maintains, enriches and makes available metadata and full text
 content - typically a PDF - from many Open Access journals and repositories
 
+**Docs / Website**: https://core.ac.uk/services#api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Education](https://github.com/apis-list/apis-list#education)
 - [Library](https://github.com/apis-list/apis-list#library)
 - [Reference](https://github.com/apis-list/apis-list#reference)
@@ -16,9 +23,8 @@ content - typically a PDF - from many Open Access journals and repositories
 
 
 
-science)
-- [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
-- [Education](https://github.com/apis-list/apis-list#education)
+
+
 - [Library](https://github.com/apis-list/apis-list#library)
 
 

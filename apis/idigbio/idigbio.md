@@ -5,21 +5,24 @@
 
 Making data and images of millions of biological specimens available on the web
 
+**Docs / Website**: https://github.com/idigbio/idigbio-search-api/wiki
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Animals](https://github.com/apis-list/apis-list#animals)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 
 
 
-blishing)
-- [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
 
 
-
-Math & Science](https://github.com/apis-list/apis-list#math-and-science)
+(https://github.com/apis-list/apis-list#math-and-science)
 
 
 

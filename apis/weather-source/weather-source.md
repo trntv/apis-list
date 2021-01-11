@@ -5,19 +5,20 @@
 
 Powerful Weather API built for systems that demand speed, reliability and heavy load.  On-demand access to Hyper-local Global Weather History, Forecast, Nowcast, Climate, Hazards & Astronomical data.  Analytics-grade, Built for enterprises
 
+**Docs / Website**: http://weathersource.com/weather-api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Weather](https://github.com/apis-list/apis-list#weather)
 - [Databases](https://github.com/apis-list/apis-list#databases)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Space](https://github.com/apis-list/apis-list#space)
-
-
-
-her)
-
-
 
 
 

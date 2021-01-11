@@ -5,15 +5,20 @@
 
 Largest source of music and video metadata on the planet. Gracenote is the leader in entertainment metadata, helping people connect to the music, TV shows, movies and sports they love across the world’s most popular entertainment platforms and devices, from Apple to Amazon to Comcast and Ford
 
+**Docs / Website**: https://developer.gracenote.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Photography](https://github.com/apis-list/apis-list#photography)
 - [Reference](https://github.com/apis-list/apis-list#reference)
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
-
-
 
 
 

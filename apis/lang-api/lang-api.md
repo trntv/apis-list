@@ -5,9 +5,16 @@
 
 They have a limited free plan and a variety of paid plans starting for $9 per month. Introduction LangAPI exists to help developers rapidly translate and localize their apps for users worldwide. We automate translation between a huge number of languages, including Spanish, French, . LangAPI helps developers to translate and localize their apps
 
+**Docs / Website**: https://docs.langapi.co/#introduction/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Translation](https://github.com/apis-list/apis-list#translation)
 - [Languages](https://github.com/apis-list/apis-list#languages)
 

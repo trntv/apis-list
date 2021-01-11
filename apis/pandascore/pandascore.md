@@ -5,9 +5,16 @@
 
 Get events and detailed match data in real time from major league tournaments, or fetch data about players, tournaments, leagues, matches, teams and more !  Pandascore, the e-sports data and live API.
 
+**Docs / Website**: https://pandascore.co
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Games](https://github.com/apis-list/apis-list#games)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
@@ -15,9 +22,9 @@ Get events and detailed match data in real time from major league tournaments, o
 
 
 
-Open Data](https://github.com/apis-list/apis-list#open-data)
-- [ESports](https://github.com/apis-list/apis-list#esports)
-- [Fantasy Sports](https://github.com/apis-list/apis-list#fantasy-sports)
+
+
+(https://github.com/apis-list/apis-list#fantasy-sports)
 
 
 

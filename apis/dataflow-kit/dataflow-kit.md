@@ -5,14 +5,19 @@
 
 Web Scraper API to extract information from web sites, scrape SERPs, convert web pages to PDF, and capture screenshots. Dataflow kit - API documentation
 
+**Docs / Website**: https://dataflowkit.com/doc-api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Other](https://github.com/apis-list/apis-list#other)
 
 
 
-
-,
 
 

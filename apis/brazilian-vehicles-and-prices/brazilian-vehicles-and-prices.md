@@ -5,9 +5,16 @@
 
 Você pode usar a biblioteca em PHP desenvolvida para consumir a API https://github. com/deividfortuna/fipe. A API está online desde 2015 e totalmente gratuíta.  O que acha de me pagar um cerveja? 🍺 A
 
+**Docs / Website**: https://deividfortuna.github.io/fipe/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
 - [Vehicle](https://github.com/apis-list/apis-list#vehicle)
 

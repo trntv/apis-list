@@ -5,10 +5,18 @@
 
 Free powerful API for generating dummy images with unique features like delay, aspect ratio, variable resolution, themes, flags and offline mode. Free powerful API for generating dummy images with unique features like delay, aspect ratio, variable resolution, themes, flags and offline mode
 
+**Docs / Website**: http://satyr.io/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
+
 
 
 

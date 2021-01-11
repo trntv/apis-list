@@ -3,14 +3,17 @@
 
 USGS Earthquake Hazards Program, responsible for monitoring, reporting, and researching earthquakes and earthquake hazards. USGS Earthquake Hazards Program, responsible for monitoring, reporting, and researching earthquakes and earthquake hazards
 
+**Docs / Website**: https://earthquake.usgs.gov/fdsnws/event/1/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
-
-
-
-Math & Science](https://github.com/apis-list/apis-list#math-and-science)
 
 
 

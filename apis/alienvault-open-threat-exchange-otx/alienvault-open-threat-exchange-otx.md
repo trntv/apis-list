@@ -5,10 +5,18 @@
 
 Share and collaborate in developing threat intelligence.  Protect yourself and the community against today's latest threats. Learn about the latest online threats
 
+**Docs / Website**: https://otx.alienvault.com/api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Security](https://github.com/apis-list/apis-list#security)
+
 
 
 

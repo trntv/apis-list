@@ -5,21 +5,19 @@
 
 CheapShark is a price comparison website for digital PC Games.  We keep track of prices across multiple stores including Steam, GreenManGaming, Fanatical, and many others
 
+**Docs / Website**: https://www.cheapshark.com/api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Games](https://github.com/apis-list/apis-list#games)
-
-
-
-s-list#commerce)
-
-
-
-ist/apis-list#entertainment)
-
 
 
 

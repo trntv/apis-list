@@ -6,14 +6,19 @@
 Our web scraping API handles all problems that are related to web scraping. Extracting HTML from websites has never been so easy!. Scraping API: Hassle-Free Data Extraction
 Our scraping API handles all problems that are related to web scraping. Website HTML extraction has never been so easy!
 
+**Docs / Website**: https://zenscrape.com/web-scraping-api/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Other](https://github.com/apis-list/apis-list#other)
 
 
 
-
-,
 
 

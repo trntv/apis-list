@@ -6,16 +6,18 @@
 Perform geospatial processing powered by Google's cloud infrastructure
 .  Perform geospatial processing powered by Google's cloud infrastructure
 
+**Docs / Website**: https://developers.google.com/earth-engine/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
-
-
-
- [Images](https://github.com/apis-list/apis-list#images)
-
 
 
 

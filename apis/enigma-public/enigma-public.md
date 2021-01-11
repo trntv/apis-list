@@ -5,10 +5,18 @@
 
 Enigma Businesses provides the most accurate and reliable information on small and medium businesses in real-time. Enigma Businesses provides the most accurate and reliable information on small and medium businesses in real-time.  This site helps you learn about our unique SMB data, understand how to access it, and discover how to leverage it in your daily business processes
 
+**Docs / Website**: http://docs.enigma.com/public/public_v20_api_about
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
+
 
 
 

@@ -3,9 +3,16 @@
 
 © Copyright 2018, Noun Project. . © Copyright 2018, Noun Project
 
+**Docs / Website**: http://api.thenounproject.com/index.html
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Visualizations](https://github.com/apis-list/apis-list#visualizations)
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Collecting](https://github.com/apis-list/apis-list#collecting)
@@ -13,9 +20,6 @@
 - [Other](https://github.com/apis-list/apis-list#other)
 
 
-
--list#other)
-- [Visualizations](https://github.com/apis-list/apis-list#visualizations)
 
 
 

@@ -5,10 +5,18 @@
 
 Dictionary API and Translation Memory API description. Application Programming Interface of Glosbe gives you free access to several mono- and bilingual Dictionaries and Translation Memories
 
+**Docs / Website**: https://glosbe.com/a-api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
+
 
 
 

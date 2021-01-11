@@ -5,13 +5,19 @@
 
 Open Library is an open, editable library catalog, building towards a web page for every book ever published. Open Library is an open, editable library catalog, building towards a web page for every book ever published. Read, borrow, and discover more than 3M books for free
 
+**Docs / Website**: https://openlibrary.org/developers/api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Search](https://github.com/apis-list/apis-list#search)
 - [Books](https://github.com/apis-list/apis-list#books)
 - [Reference](https://github.com/apis-list/apis-list#reference)
-
 
 
 

@@ -5,10 +5,18 @@
 
 The Gmail API: modern, fast, RESTful. The Gmail API: modern, fast, RESTful
 
+**Docs / Website**: https://developers.google.com/gmail/api/?hl=en
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
+
 
 
 

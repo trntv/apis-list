@@ -5,10 +5,18 @@
 
 Cat as a service (CATAAS) is a REST API to spread peace and love (or not) thanks to cats. Is a REST API to spread peace and love (or not) thanks to cats
 
+**Docs / Website**: https://cataas.com/#/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+
 
 
 

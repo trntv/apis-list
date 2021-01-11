@@ -5,9 +5,16 @@
 
 Transform your data from XML or JSON to high quality, beautiful and readable documents in PDF, HTML, PNG or JPG. Transform your data from XML or JSON to high quality, beautiful and readable documents in PDF, HTML, PNG or JPG
 
+**Docs / Website**: https://prexview.com
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Tools](https://github.com/apis-list/apis-list#tools)
 - [Payments](https://github.com/apis-list/apis-list#payments)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
@@ -16,12 +23,6 @@ Transform your data from XML or JSON to high quality, beautiful and readable doc
 - [Integration](https://github.com/apis-list/apis-list#integration)
 
 
-
- [Graphics](https://github.com/apis-list/apis-list#graphics)
-
-
-
-ls)
 
 
 

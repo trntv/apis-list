@@ -5,10 +5,18 @@
 
 Work calendar service.  Contribute to egno/work-calendar development by creating an account on GitHub. Work calendar service
 
+**Docs / Website**: https://github.com/egno/work-calendar
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Calendar](https://github.com/apis-list/apis-list#calendar)
+
 
 
 

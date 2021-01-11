@@ -6,9 +6,16 @@
 An API to convert HTML/CSS documents to PDF. PDFShift is the reliable, Up-to-date and high-fidelity conversion API with no maintenance costs. Convert any HTML documents to high-fidelity PDF in one single POST request. 
 The service is focused to help developers set up the conversion quickly and focus on their core problem.  Advanced features are available, like watermarking and encryption, and you can see all the available options on the
 
+**Docs / Website**: https://pdfshift.io/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [SaaS](https://github.com/apis-list/apis-list#saas)
 - [Conversions](https://github.com/apis-list/apis-list#conversions)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
@@ -16,12 +23,9 @@ The service is focused to help developers set up the conversion quickly and focu
 
 
 
-aS](https://github.com/apis-list/apis-list#saas)
-- [Conversions](https://github.com/apis-list/apis-list#conversions)
 
 
-
-(https://github.com/apis-list/apis-list#api)
+m/apis-list/apis-list#api)
 - [Api](https://github.com/apis-list/apis-list#api)
 
 

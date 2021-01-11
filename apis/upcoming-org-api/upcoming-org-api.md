@@ -5,13 +5,18 @@
 
 A simple way to share and discover interesting events from your friends, followers, and the artists and organizations you care about
 
+**Docs / Website**: 
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Events](https://github.com/apis-list/apis-list#events)
 - [Calendar](https://github.com/apis-list/apis-list#calendar)
-
-
 
 
 

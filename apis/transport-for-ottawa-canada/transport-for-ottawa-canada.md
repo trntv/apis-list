@@ -5,10 +5,18 @@
 
 OC Transpo next bus arrival API
 
+**Docs / Website**: https://www.octranspo.com/developers
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
+
 
 
 

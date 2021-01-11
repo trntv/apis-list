@@ -5,10 +5,18 @@
 
 Instructions on how to easily look up, verify and append ZIP Code data using the US ZIP Code API from SmartyStreets. Instructions on how to easily look up, verify and append ZIP Code data using the US ZIP Code API from SmartyStreets
 
+**Docs / Website**: https://smartystreets.com/docs/cloud/us-zipcode-api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
 
 
 

@@ -5,9 +5,16 @@
 
 Face recognition, emotion analysis and measuring engagement of people in images or videos for any mobile or web application
 
+**Docs / Website**: https://www.kairos.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Recognition](https://github.com/apis-list/apis-list#recognition)
 - [Photography](https://github.com/apis-list/apis-list#photography)
@@ -18,18 +25,8 @@ Face recognition, emotion analysis and measuring engagement of people in images 
 
 
 
-is-list/apis-list#recognition)
 
 
-
-tps://github.com/apis-list/apis-list#identity)
-
-
-
-tity)
-
-
-
-, [Tools](https://github/apis-list/apis-list#tools), [Authentication](https://github/apis-list/apis-list#authentication),
+ls), [Authentication](https://github/apis-list/apis-list#authentication),
 
 

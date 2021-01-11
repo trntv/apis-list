@@ -5,10 +5,18 @@
 
 High-quality fonts to use on your web site
 
+**Docs / Website**: https://developers.google.com/fonts/?hl=en
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
+
 
 
 

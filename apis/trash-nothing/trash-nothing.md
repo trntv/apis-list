@@ -5,9 +5,16 @@
 
 Developer API trash nothing! provides a REST API which allows developers to build apps on top of the trash nothing platform (with thousands of new posts every day and millions of users from around. Build apps on top of one of the largest freecycling and reuse communities with millions of people giving away thousands of free items every day
 
+**Docs / Website**: https://trashnothing.com/developer
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Sustainability](https://github.com/apis-list/apis-list#sustainability)
 - [Social](https://github.com/apis-list/apis-list#social)
@@ -15,10 +22,6 @@ Developer API trash nothing! provides a REST API which allows developers to buil
 - [Environment](https://github.com/apis-list/apis-list#environment)
 
 
-
-lity)
-- [Social](https://github.com/apis-list/apis-list#social)
-- [Community](https://github.com/apis-list/apis-list#community)
 
 
 

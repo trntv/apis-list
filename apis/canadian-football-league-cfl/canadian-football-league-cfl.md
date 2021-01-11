@@ -3,10 +3,19 @@
 
 CFL API Need assistance? E-mail us or browse the API documentation
 
+**Docs / Website**: http://api.cfl.ca/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
+
+
 
 
 

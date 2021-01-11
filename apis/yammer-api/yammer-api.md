@@ -5,16 +5,18 @@
 
 Yammer Developer Site was created using ReadMe. Discuss ideas, share updates, and crowdsource answers from coworkers around the globe. Yammer gives your team a faster, smarter way to connect and collaborate across your company
 
+**Docs / Website**: https://developer.yammer.com/documentation/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Business](https://github.com/apis-list/apis-list#business)
 - [Social](https://github.com/apis-list/apis-list#social)
-
-
-
-Enterprise](https://github.com/apis-list/apis-list#enterprise)
-
 
 
 

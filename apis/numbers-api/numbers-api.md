@@ -5,20 +5,24 @@
 
 Numbers. Number of the day, random number generation , number facts and anything else you want to do with numbers.
 
+**Docs / Website**: https://math.tools/api/numbers/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Education](https://github.com/apis-list/apis-list#education)
 - [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
 
 
 
-i.math.tools/yaml/math.tools.numbers.openapi.yaml
 
 
-**Categories**:
-- [Education](https://github.com/apis-list/apis-list#education)
-- [Math](https://github.com/apis-list/apis-list#math)
+github.com/apis-list/apis-list#math)
 - [Recreation](https://github.com/apis-list/apis-list#recreation)
 - [Reference](https://github.com/apis-list/apis-list#reference)
 

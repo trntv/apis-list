@@ -5,16 +5,18 @@
 
 Offers an API that allows developers to build location-aware applications for mobile devices
 
+**Docs / Website**: 
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Databases](https://github.com/apis-list/apis-list#databases)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
-
-
-
-Mapping](https://github.com/apis-list/apis-list#mapping)
-
 
 
 

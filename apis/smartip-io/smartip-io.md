@@ -15,9 +15,16 @@ SmartIP offers the following data points:
 - Location data
 Localize your users, apply geographical restrictions to your website and increase customer satisfaction
 
+**Docs / Website**: https://smartip.io
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Big Data](https://github.com/apis-list/apis-list#big-data)
 - [Localization](https://github.com/apis-list/apis-list#localization)
 

@@ -5,10 +5,18 @@
 
 Official developer documentation for Microsoft Advertising. Provides programmatic access to various advertising technologies
 
+**Docs / Website**: https://msdn.microsoft.com/en-us/library/bing-ads-api.aspx
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Marketing](https://github.com/apis-list/apis-list#marketing)
+
 
 
 

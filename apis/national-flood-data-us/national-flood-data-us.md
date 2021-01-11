@@ -5,11 +5,17 @@ Send us an email, and we'll send you a trial credentials to test out the product
 
 We offer the data in the various formats described below to meet a variety or partner use cases. If you have a particular need that you don't see met by the services below, please contact us and we'll likely be able to add what you need. We offer a very friendly free trial period
 
+**Docs / Website**: http://nationalflooddata.com/flood/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Other](https://github.com/apis-list/apis-list#other)
-
 
 
 

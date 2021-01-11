@@ -5,11 +5,20 @@
 
 Allows companies to conduct commerce with Best Buy services within their own e-commerce application.  Come explore our APIs and unleash their possibilities
 
+**Docs / Website**: https://developer.bestbuy.com
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Authentication & User Management](https://github.com/apis-list/apis-list#authentication-and-user-management)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
+
+
 
 
 

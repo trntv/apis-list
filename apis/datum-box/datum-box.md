@@ -5,10 +5,18 @@
 
 Unleash the power of Machine Learning by using the Powerful and Easy-to-Use API of Datumbox
 
+**Docs / Website**: http://www.datumbox.com/machine-learning-api/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+
 
 
 

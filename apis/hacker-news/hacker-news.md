@@ -5,17 +5,24 @@
 
 Documentation and Samples for the Official HN API. Contribute to HackerNews/API development by creating an account on GitHub. Anything that good hackers would find interesting
 
+**Docs / Website**: https://github.com/HackerNews/API
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
 - [Social](https://github.com/apis-list/apis-list#social)
 
 
 
-al](https://github.com/apis-list/apis-list#social)
-- [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
-- [Activity Streams](https://github.com/apis-list/apis-list#activity-streams)
+
+
+/github.com/apis-list/apis-list#activity-streams)
 
 
 

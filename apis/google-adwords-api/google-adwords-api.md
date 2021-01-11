@@ -5,17 +5,18 @@
 
 A SOAP API that provides access to Google Ads accounts, campaigns, and reports. Manage Google AdWords campaigns programmatically
 
+**Docs / Website**: https://developers.google.com/adwords/api/docs/guides/start
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Search](https://github.com/apis-list/apis-list#search)
 - [Marketing](https://github.com/apis-list/apis-list#marketing)
-
-
-
-ising)
-- [Search](https://github.com/apis-list/apis-list#search)
-
 
 
 

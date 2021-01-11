@@ -5,10 +5,18 @@
 
 Provision and manage your Classroom courses
 
+**Docs / Website**: https://developers.google.com/classroom/?hl=en
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Education](https://github.com/apis-list/apis-list#education)
+
 
 
 

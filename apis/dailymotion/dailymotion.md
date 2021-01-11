@@ -5,18 +5,19 @@
 
 Build applications centered around DailyMotion. Explore Dailymotion API documentation to create your video apps and websites
 
+**Docs / Website**: https://developer.dailymotion.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-
-
-
-thub.com/apis-list/apis-list#tv)
-
-
 
 
 

@@ -5,19 +5,18 @@
 
 fr/v1. The API provides realtime and historical data on Coronavirus COVID-19 confirmed cases, deaths, and recovered cases. This. This is the code running in AWS Lambda powering covid-api. mmediagroup
 
+**Docs / Website**: https://github.com/M-Media-Group/Covid-19-API
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Health](https://github.com/apis-list/apis-list#health)
-
-
-
-rus)
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
-- [Health](https://github.com/apis-list/apis-list#health)
-
-
 
 
 

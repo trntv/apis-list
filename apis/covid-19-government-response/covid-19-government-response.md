@@ -3,10 +3,18 @@
 
 
 
+**Docs / Website**: https://covidtracker.bsg.ox.ac.uk
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Health](https://github.com/apis-list/apis-list#health)
+
 
 
 

@@ -3,10 +3,18 @@
 
 Collaborative open source project led by the Government of Canada. Collaborative open source project led by the Government of Canada
 
+**Docs / Website**: http://open.canada.ca/en
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Government](https://github.com/apis-list/apis-list#government)
+
 
 
 

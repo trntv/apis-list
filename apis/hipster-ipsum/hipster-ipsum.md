@@ -5,17 +5,18 @@
 
 Generates Hipster Ipsum text
 
+**Docs / Website**: http://hipsterjesus.com
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Text](https://github.com/apis-list/apis-list#text)
 - [Testing](https://github.com/apis-list/apis-list#testing)
-
-
-
-is-list/apis-list#testing)
-- [Text](https://github.com/apis-list/apis-list#text)
-
 
 
 

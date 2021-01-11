@@ -5,17 +5,20 @@
 
 Open API for the maker community. We are a community of makers who help each other ship products
 
+**Docs / Website**: https://wip.co/api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Products](https://github.com/apis-list/apis-list#products)
 - [Development](https://github.com/apis-list/apis-list#development)
 
 
-
-
-
-evelopment)
 
 
 

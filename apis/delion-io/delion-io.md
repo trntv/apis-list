@@ -5,20 +5,24 @@
 
 A powerful API for developers and companies to explore and develop new apps based on IOTA distributed ledger technology
 
+**Docs / Website**: https://delion.io
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
 - [Development](https://github.com/apis-list/apis-list#development)
 
 
 
-Iota](https://github.com/apis-list/apis-list#iota)
-- [Tangle](https://github.com/apis-list/apis-list#tangle)
 
 
-
- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
+rrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
 
 
 

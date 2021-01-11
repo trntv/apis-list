@@ -5,9 +5,16 @@
 
 “Internet of Things” application and API to store and retrieve data from things using HTTP over the Internet or via a Local Area Network. ThingSpeak is an open source “Internet of Things” application and API to store and retrieve data from things using HTTP over the Internet or via a Local Area Network. With ThingSpeak, you can creat
 
+**Docs / Website**: https://github.com/iobridge/ThingSpeak
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Other](https://github.com/apis-list/apis-list#other)
 - [Open Source](https://github.com/apis-list/apis-list#open-source)
 - [Real Time](https://github.com/apis-list/apis-list#real-time)
@@ -15,14 +22,5 @@
 
 
 
-t-and-home-automation)
-
-
-
-
-
-
-
-ub/apis-list/apis-list#real-time),
 
 

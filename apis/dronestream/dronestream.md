@@ -5,18 +5,18 @@
 
 Tracks United States drone strikes. Real-time and historical data about every reported covert US drone strike
 
+**Docs / Website**: https://dronestre.am/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Other](https://github.com/apis-list/apis-list#other)
-
-
-
-[Military](https://github.com/apis-list/apis-list#military)
-- [Real Time](https://github.com/apis-list/apis-list#real-time)
-
-
 
 
 

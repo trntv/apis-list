@@ -5,10 +5,18 @@
 
 A platform that helps your mobile team build better apps, understand your users, and grow your business. Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business
 
+**Docs / Website**: https://get.fabric.io/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
+
 
 
 

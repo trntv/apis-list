@@ -5,19 +5,23 @@
 
 Explore now. Connect with your friends — and other fascinating people.  Get in-the-moment updates on the things that interest you. And watch events unfold, in real time, from every angle. Guides and reference materials to help you get started, integrate, optimize, and troubleshoot your use of the Twitter Developer Platform
 
+**Docs / Website**: https://developer.twitter.com/en/docs
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
 
 
 
-tter/apidescription?format=wadl
 
 
-**Categories**:
-- [Blogging](https://github.com/apis-list/apis-list#blogging)
-- [Social](https://github.com/apis-list/apis-list#social)
+s-list#social)
 
 
 

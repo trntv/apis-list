@@ -5,10 +5,18 @@
 
 Apiary provides the leading API-First platform designed specifically to help companies accelerate and control the design, development, and documentation of APIs. Collaborative tool to design APIs.
 
+**Docs / Website**: https://apiary.io/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
+
 
 
 

@@ -5,10 +5,18 @@
 
 5 million), book covers and related data. Books published in the Netherlands and Flanders (about 2
 
+**Docs / Website**: https://www.booknomads.com
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Books](https://github.com/apis-list/apis-list#books)
+
 
 
 

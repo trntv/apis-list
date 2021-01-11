@@ -5,10 +5,18 @@
 
 Meta description. A tool to detect face
 
+**Docs / Website**: https://www.faceplusplus.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
+
 
 
 

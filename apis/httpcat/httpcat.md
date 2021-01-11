@@ -5,10 +5,18 @@
 
 API for HTTP Cats.  API for HTTP Cats
 
+**Docs / Website**: https://http.cat/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Animals](https://github.com/apis-list/apis-list#animals)
+
 
 
 

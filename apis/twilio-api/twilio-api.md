@@ -5,15 +5,20 @@
 
 Send SMS super easy, API Documentation & Libraries for SMS, VoIP & Voice. With Twilio, unite communications and strengthen customer relationships across your business â€“ from marketing and sales to customer service and operations
 
+**Docs / Website**: https://www.twilio.com:443/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Cloud](https://github.com/apis-list/apis-list#cloud)
 - [Communications](https://github.com/apis-list/apis-list#communications)
 - [Voice](https://github.com/apis-list/apis-list#voice)
 - [Webhooks](https://github.com/apis-list/apis-list#webhooks)
-
-
 
 
 

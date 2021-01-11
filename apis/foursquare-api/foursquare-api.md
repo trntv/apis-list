@@ -5,14 +5,23 @@
 
 Gives you access to our world-class places database and the ability to interact with Foursquare users and merchants. Start using the only location API you'll ever need.  Foursquare is the most trusted, independent location data platform for understanding how people move through the real world
 
+**Docs / Website**: https://developer.foursquare.com/developer/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Mobile](https://github.com/apis-list/apis-list#mobile)
 - [Photography](https://github.com/apis-list/apis-list#photography)
 - [Search](https://github.com/apis-list/apis-list#search)
+
+
 
 
 

@@ -5,10 +5,18 @@
 
 io. Initially used to report incidents that may be dangerous during times of unrest or protest. Now allows anyone to create maps and markers for anything. - M-Media-Group/Cartes
 
+**Docs / Website**: https://github.com/M-Media-Group/Cartes.io/wiki/API
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
 
 
 

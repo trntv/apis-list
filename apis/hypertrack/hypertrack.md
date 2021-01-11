@@ -3,9 +3,16 @@
 
 Build applications that track the movement of your business
 
+**Docs / Website**: https://docs.hypertrack.com
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Business](https://github.com/apis-list/apis-list#business)
@@ -13,6 +20,8 @@ Build applications that track the movement of your business
 - [Real Time](https://github.com/apis-list/apis-list#real-time)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
+
+
 
 
 

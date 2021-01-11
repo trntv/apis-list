@@ -5,10 +5,18 @@
 
 Learn how to build an API to show and update connections, run actions, perform queries, and listen for triggers
 
+**Docs / Website**: https://platform.ifttt.com/docs/connect_api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
+
 
 
 

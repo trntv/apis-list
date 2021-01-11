@@ -5,9 +5,16 @@
 
 Try refining your search, or use the navigation above to locate the post. integrate the Ryft ONE’s data analysis capabilities into existing big data environments for faster data analysis and real-time intelligence.  No Results Found The page you requested could not be found
 
+**Docs / Website**: http://www.ryft.com/api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Big Data](https://github.com/apis-list/apis-list#big-data)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
@@ -15,12 +22,6 @@ Try refining your search, or use the navigation above to locate the post. integr
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
 
 
-
-ime)
-
-
-
-)
 
 
 

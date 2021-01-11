@@ -5,17 +5,19 @@
 
 Access to Delicious’s API.  Delicious API Documentation.  Contribute to domainersuitedev/delicious-api development by creating an account on GitHub
 
+**Docs / Website**: https://github.com/domainersuitedev/delicious-api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Bookmarks](https://github.com/apis-list/apis-list#bookmarks)
-
-
-
-okmarks)
-
 
 
 

@@ -5,16 +5,18 @@
 
 A social platform that both users and developers can interact with, the company has faced some difficulty in gaining ongoing traction
 
+**Docs / Website**: 
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Webhooks](https://github.com/apis-list/apis-list#webhooks)
 - [Social](https://github.com/apis-list/apis-list#social)
-
-
-
-Blogging](https://github.com/apis-list/apis-list#blogging)
-
 
 
 

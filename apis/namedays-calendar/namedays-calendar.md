@@ -3,10 +3,18 @@
 
 API returns namedays for various countries
 
+**Docs / Website**: https://api.abalin.net/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Calendar](https://github.com/apis-list/apis-list#calendar)
+
 
 
 

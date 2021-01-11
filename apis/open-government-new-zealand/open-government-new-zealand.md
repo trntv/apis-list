@@ -5,10 +5,18 @@
 
 govt. nz provides access to guidance, standards, and data from New Zealand government agencies and government-funded projects. data
 
+**Docs / Website**: https://www.data.govt.nz/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Government](https://github.com/apis-list/apis-list#government)
+
 
 
 

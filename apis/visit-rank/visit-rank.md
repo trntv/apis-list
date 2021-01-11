@@ -5,9 +5,16 @@
 
 Get a rank for any of 385 million domains. Visit Rank tells how popular and influential a web domain is
 
+**Docs / Website**: https://www.webfinery.com/cloud/visitrank
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [SEO](https://github.com/apis-list/apis-list#seo)
 - [Search](https://github.com/apis-list/apis-list#search)
 

@@ -5,10 +5,18 @@
 
 We aggregate and distribute landscape webcams worldwide. Add webcams to your app or website — Browse through the webcams.  Wind map and weather forecast
 
+**Docs / Website**: https://www.windy.com/webcams/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Travel](https://github.com/apis-list/apis-list#travel)
+
 
 
 

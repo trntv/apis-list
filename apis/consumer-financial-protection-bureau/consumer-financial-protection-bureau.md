@@ -5,10 +5,18 @@
 
 Financial services consumer complaint data
 
+**Docs / Website**: https://data.consumerfinance.gov/resource/jhzv-w97w.json
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
+
 
 
 

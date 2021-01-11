@@ -5,10 +5,18 @@
 
 Fonts API - Subscription. . Lookup Tamil words and build your own Tamil dictionary APP using this API
 
+**Docs / Website**: https://agarathi.com/api/dictionary
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Language](https://github.com/apis-list/apis-list#language)
+
 
 
 

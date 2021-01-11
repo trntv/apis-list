@@ -5,11 +5,17 @@
 
 With this API, you can use RESTful req. The Custom Search JSON API lets you develop websites and applications to retrieve and display search results from Programmable Search Engine programmatically
 
+**Docs / Website**: https://developers.google.com/custom-search/json-api/v1/overview
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Search](https://github.com/apis-list/apis-list#search)
-
 
 
 

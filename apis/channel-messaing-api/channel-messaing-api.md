@@ -5,18 +5,19 @@
 
 Channel Messaging API lets your build real-time application
 
+**Docs / Website**: https://www.getchannel.co
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
 - [Customer Service](https://github.com/apis-list/apis-list#customer-service)
 - [Bots](https://github.com/apis-list/apis-list#bots)
-
-
-
- Service](https://github.com/apis-list/apis-list#customer-service)
-
-
 
 
 

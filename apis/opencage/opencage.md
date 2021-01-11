@@ -5,10 +5,18 @@
 
 An easy-to-use forward and reverse geocoding API. Worldwide coverage. Affordable, predictable pricing. Open data.  An easy-to-use forward and reverse geocoding API
 
+**Docs / Website**: https://opencagedata.com
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
 
 
 

@@ -5,14 +5,19 @@
 
 Solar radiation and forecasting data globally available and free for researchers, hobbyists.  We produce real-time estimates of solar radiation and solar power globally, and forecasts based on where cloud cover will move next
 
+**Docs / Website**: https://solcast.com/solar-data-api/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Other](https://github.com/apis-list/apis-list#other)
 
 
 
-
-,
 
 

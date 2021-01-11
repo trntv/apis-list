@@ -3,15 +3,17 @@
 
 API for online Chuck Norris jokes database
 
+**Docs / Website**: http://www.icndb.com/api/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Fun](https://github.com/apis-list/apis-list#fun)
-
-
-
-st#games-and-comics)
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 
 
 

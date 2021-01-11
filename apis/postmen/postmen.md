@@ -5,22 +5,22 @@
 
 Download Postmen's JSON schema. Learn how to generate Postmen API key and make requests. Get information about Postmen Meta key and Data key. Add shipping capability of FedEx, UPS, DHL, USPS and over 40 carriers worldwide
 
+**Docs / Website**: https://docs.postmen.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
 - [Business](https://github.com/apis-list/apis-list#business)
 - [International](https://github.com/apis-list/apis-list#international)
 
 
-
-st/apis-list#transportation)
-- [Shipping](https://github.com/apis-list/apis-list#shipping)
-
-
-
-)
 
 
 

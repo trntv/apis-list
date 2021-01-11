@@ -5,10 +5,18 @@
 
 Online PAULING FILE materials database with nearly 2 million data entries (physical properties, crystal structures, phase diagrams) available via API, ready for modern data-intensive applications. Provides experimental materials science data excerpted from the peer-reviewed publications
 
+**Docs / Website**: https://developer.mpds.io
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
+
 
 
 

@@ -5,9 +5,16 @@
 
 Important: Do not use the 'demo' account for your app or your tests. It is only meant for the sample links on the docu. GeoNames Web Services Documentation GeoNames is mainly using REST webservices
 
+**Docs / Website**: http://www.geonames.org/export/web-services.html
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Postal](https://github.com/apis-list/apis-list#postal)
 - [Weather](https://github.com/apis-list/apis-list#weather)
 - [Reference](https://github.com/apis-list/apis-list#reference)
@@ -15,12 +22,6 @@ Important: Do not use the 'demo' account for your app or your tests. It is only 
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 
 
-
-Mapping](https://github.com/apis-list/apis-list#mapping)
-
-
-
-g)
 
 
 

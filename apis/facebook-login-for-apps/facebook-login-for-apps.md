@@ -3,10 +3,19 @@
 
 Secure, fast, convenient way to login in your app/website.  A secure, quick, and easy way to log users into your app or website
 
+**Docs / Website**: https://developers.facebook.com/docs/facebook-login
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Authentication & User Management](https://github.com/apis-list/apis-list#authentication-and-user-management)
+
+
 
 
 

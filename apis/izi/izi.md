@@ -5,10 +5,18 @@
 
 The response format for all reques. Overview This is the API reference document for accessing the izi. TRAVEL Directory (MTG Content Directory): All API requests are made over HTTPS to API endpoints
 
+**Docs / Website**: http://api-docs.izi.travel/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
+
 
 
 

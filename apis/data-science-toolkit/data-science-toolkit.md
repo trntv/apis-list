@@ -5,14 +5,23 @@
 
 A collection of the best open data sets and open-source tools for data science. A collection of the best open data sets and open-source tools for data science - petewarden/dstk
 
+**Docs / Website**: https://github.com/petewarden/dstk
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Reference](https://github.com/apis-list/apis-list#reference)
 - [Addresses](https://github.com/apis-list/apis-list#addresses)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
+
+
 
 
 

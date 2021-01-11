@@ -3,9 +3,16 @@
 
 © 2021 BetterDoctor, Inc. –The Origin of Accurate Provider Data
 
+**Docs / Website**: https://developer.betterdoctor.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Health](https://github.com/apis-list/apis-list#health)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Big Data](https://github.com/apis-list/apis-list#big-data)
@@ -14,12 +21,6 @@
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 
 
-
-ist/apis-list#insurance)
-
-
-
-ta)
 
 
 

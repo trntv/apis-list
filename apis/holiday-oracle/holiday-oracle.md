@@ -3,10 +3,18 @@
 
 A consensus driven API for national, federal and public holidays servicing over 166 countries and 300 subdivisions worldwide. Holiday and business day data API for app and blockchain developers
 
+**Docs / Website**: https://holidayoracle.io/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Calendar](https://github.com/apis-list/apis-list#calendar)
+
 
 
 

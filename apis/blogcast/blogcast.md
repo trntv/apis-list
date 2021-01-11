@@ -3,9 +3,16 @@
 
 Generate audio versions of your articles. Create realistic voice overs for blogs, videos, podcasts and more from your content using AI text-to-speech software
 
+**Docs / Website**: https://blogcast.host
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
 - [Voice](https://github.com/apis-list/apis-list#voice)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
@@ -14,12 +21,6 @@ Generate audio versions of your articles. Create realistic voice overs for blogs
 - [Podcasts](https://github.com/apis-list/apis-list#podcasts)
 
 
-
--list#artificial-intelligence)
-
-
-
-o)
 
 
 

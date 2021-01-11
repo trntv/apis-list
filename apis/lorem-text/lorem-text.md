@@ -5,10 +5,18 @@
 
 Generates Lorem Ipsum text
 
+**Docs / Website**: https://market.mashape.com/montanaflynn/lorem-text-generator
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Testing](https://github.com/apis-list/apis-list#testing)
+
 
 
 

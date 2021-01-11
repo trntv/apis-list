@@ -5,17 +5,19 @@
 
 Gumroad helps creators do more of what they love by offering tools to get paid online, they have sent over $202M to artists, designers, educators, writers, influencers and more.  Gumroad API Reference The Gumroad OAuth API is based around REST. We return JSON for every request, including errors. To start using the Gumroad API, you'll need to register your OAuth application
 
+**Docs / Website**: https://gumroad.com/api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Payments](https://github.com/apis-list/apis-list#payments)
-
-
-
-pis-list/apis-list#payments)
-
 
 
 

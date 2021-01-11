@@ -5,14 +5,17 @@
 
 Access all stocks discounted cash flow statements, market price, stock markets news, and learn more about Financial Modeling.  Learn M&amp;A, LBO, DCF, Comps, and Financial Statement Modeling thought concrete examples. Stock information and data
 
+**Docs / Website**: https://financialmodelingprep.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
-
-
-
-ttps://github.com/apis-list/apis-list#finance-and-economics)
 
 
 

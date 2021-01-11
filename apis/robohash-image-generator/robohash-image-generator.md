@@ -5,19 +5,19 @@
 
 Generates cool looking robot image for any text
 
+**Docs / Website**: https://www.mashape.com/blaazetech/robohash-image-generator
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Robots](https://github.com/apis-list/apis-list#robots)
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Images](https://github.com/apis-list/apis-list#images)
-
-
-
-n)
-- [Avatars](https://github.com/apis-list/apis-list#avatars)
-
-
 
 
 

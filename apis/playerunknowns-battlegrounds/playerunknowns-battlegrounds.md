@@ -5,15 +5,18 @@
 
 Start building your own website today using official PUBG data
 
+**Docs / Website**: https://pubgtracker.com/site-api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Games](https://github.com/apis-list/apis-list#games)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-
-
-
-ames-and-comics)
 
 
 

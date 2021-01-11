@@ -5,9 +5,16 @@
 
 Enables easy integration of Google natural language understanding technologies into developer applications. Enables easy integration of Google natural language understanding technologies into developer applications
 
+**Docs / Website**: https://cloud.google.com/natural-language/docs/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 

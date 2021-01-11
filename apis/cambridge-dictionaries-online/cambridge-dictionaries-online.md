@@ -5,9 +5,16 @@
 
 Access to Cambridge’s custom-developed API.  License our data. Use Cambridge Dictionary data for language processing, or other applications
 
+**Docs / Website**: http://dictionary.cambridge.org/license.html
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Education](https://github.com/apis-list/apis-list#education)
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
 

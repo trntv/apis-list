@@ -5,14 +5,20 @@
 
 Behance is the world's largest creative network for showcasing and discovering creative work. Behance is the leading online platform to showcase & discover creative work
 
+**Docs / Website**: https://www.behance.net/dev/api/endpoints/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
 - [Other](https://github.com/apis-list/apis-list#other)
 
 
 
-a](https://github/apis-list/apis-list#solar-data), [Art](https://github/apis-list/apis-list#art),
 
 

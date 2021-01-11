@@ -5,16 +5,18 @@
 
 A simple, RESTful API to the most powerful bitcoin infrastructure on the planet.  Start accepting bitcoin, store and spend bitcoin securely, or get the BitPay Card
 
+**Docs / Website**: https://bitpay.com/developers
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
 - [Payments](https://github.com/apis-list/apis-list#payments)
-
-
-
-ryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
-
 
 
 

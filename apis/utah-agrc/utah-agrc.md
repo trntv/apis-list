@@ -5,10 +5,18 @@
 
 Geocoding API Methods API methods for finding a geolocation (x,y) for addresses. Important Note: matchAddress returns the name of the address grid system for the address. For example, "matchAddress
 
+**Docs / Website**: https://api.mapserv.utah.gov
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
 
 
 

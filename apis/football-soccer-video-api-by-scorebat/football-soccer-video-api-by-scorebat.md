@@ -5,22 +5,20 @@
 
 Embed codes of videos of the goals and highlights from a number of football leagues and tournaments including the Premier League, Champions League, La Liga, Serie A, Bundesliga and many more.  ScoreBat
 
+**Docs / Website**: https://www.scorebat.com/video-api/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
 
 
-
-Sports](https://github.com/apis-list/apis-list#sports)
-
-
-
-
-
-
-list/apis-list#sports)
 
 
 

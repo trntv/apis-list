@@ -5,9 +5,16 @@
 
 Slack APIs allow you to integrate complex services with Slack to go beyond the integrations we provide out of the box. . Slack APIs allow you to integrate complex services with Slack to go beyond the integrations we provide out of the box
 
+**Docs / Website**: https://api.slack.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Search](https://github.com/apis-list/apis-list#search)
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Tools](https://github.com/apis-list/apis-list#tools)
@@ -15,8 +22,6 @@ Slack APIs allow you to integrate complex services with Slack to go beyond the i
 - [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
 
 
-
-)
 
 
 

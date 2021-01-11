@@ -5,9 +5,16 @@
 
 Build and train models, and create apps, with a trusted AI-infused platform. Offers a variety of services for building cognitive apps
 
+**Docs / Website**: https://developer.ibm.com/watson/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Machine Learning](https://github.com/apis-list/apis-list#machine-learning)
 

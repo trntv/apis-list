@@ -1,21 +1,26 @@
 **Before you begin**
-This project is under heavy development. Structure, tooling, content are being constantly reviewing and improving.
+
+This project is under heavy development. Structure, tooling and content are being constantly reviewing and improving.
 You can join project creation if you have any ideas how to make it better or time to help.
 
 # List of Public APIs
-This project is an attempt to categorise and compile information about different public APIs into one place.
+This project is an attempt to categorise and compile information about different public APIs into one place. Its goal is to build
+most complete and handy list which will help developers to find APIs most suitable for their needs.
 It includes APIs description, links to docs, specification, list of SDK and libraries, logo etc.
 
 This list intended to be maintained by wide open source community, so any contributions appreciated.
-If you want to add/edit/remove/etc APIs from this list, please see the [contributing guide](https://github.com/apis-list/apis-list/blob/main/CONTIRBUTE.md).
+If you want to add/edit/remove/etc APIs from this list, please see the [contributing guide](https://github.com/apis-list/apis-list/blob/main/CONTRIBUTING.md).
 
 Discuss any topic related to the specific API you can [here](https://github.com/apis-list/apis-list/discussions/categories/apis)
 
 ## Index
+- [APIs](#apis)
 {{ range $category, $apis := .apis -}}
-- [{{ $category }}](#{{ $category | slug}})
+    - [{{ $category }}](#{{ $category | slug}})
 {{ end -}}
 - [🪦 Graveyard](#graveyard)
+- [Contributors](#contributors)
+- [Similar projects](#similar-projects)
 
 ## APIs
 {{ range $category, $apis := .apis }}

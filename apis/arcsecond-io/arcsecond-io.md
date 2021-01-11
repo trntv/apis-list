@@ -5,14 +5,17 @@
 
 io Unified REST APIs for world-wide astronomy data See the associated webapp for all detailed information. REST APIs To access a complete description of the APIs: see the R. Welcome to api. arcsecond
 
+**Docs / Website**: https://api.arcsecond.io/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
-
-
-
-Math & Science](https://github.com/apis-list/apis-list#math-and-science)
 
 
 

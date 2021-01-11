@@ -5,14 +5,18 @@
 
 Electronic medical records, practice management and medical billing API.  Explore free healthcare API and SDK built by developers, for developers.  Leverage health data, an electronic health record (EHR), practice management, and medical billing platform for your use
 
+**Docs / Website**: https://www.drchrono.com/api/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Health](https://github.com/apis-list/apis-list#health)
 
-
-
-are)
 
 
 

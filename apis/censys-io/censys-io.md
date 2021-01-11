@@ -5,10 +5,18 @@
 
 Censys helps organizations, individuals, and researchers find and monitor every server on the Internet to reduce exposure and improve security
 
+**Docs / Website**: https://censys.io/api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Security](https://github.com/apis-list/apis-list#security)
+
 
 
 

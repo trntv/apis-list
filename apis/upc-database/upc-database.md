@@ -5,9 +5,16 @@
 
 Integrate your own applications using our new API. Integrate your own applications using our new API
 
+**Docs / Website**: https://upcdatabase.org/api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Products](https://github.com/apis-list/apis-list#products)
 - [Reference](https://github.com/apis-list/apis-list#reference)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
@@ -16,12 +23,6 @@ Integrate your own applications using our new API. Integrate your own applicatio
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 
 
-
-ist#databases)
-
-
-
-s)
 
 
 

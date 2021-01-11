@@ -3,9 +3,16 @@
 
 Refuge Restrooms. Refuge Restrooms
 
+**Docs / Website**: https://www.refugerestrooms.org/api/docs/#!/restrooms
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Ratings](https://github.com/apis-list/apis-list#ratings)
 - [Tools](https://github.com/apis-list/apis-list#tools)
@@ -16,12 +23,6 @@ Refuge Restrooms. Refuge Restrooms
 - [Lists](https://github.com/apis-list/apis-list#lists)
 
 
-
-ity)
-
-
-
-sts)
 
 
 

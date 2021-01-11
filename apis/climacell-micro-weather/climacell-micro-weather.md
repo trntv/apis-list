@@ -5,9 +5,16 @@
 
 Historical, real-time and nowcast weather data.
 
+**Docs / Website**: https://developer.climacell.co
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
@@ -15,9 +22,9 @@ Historical, real-time and nowcast weather data.
 
 
 
-/apis-list/apis-list#analytics)
-- [Big Data](https://github.com/apis-list/apis-list#big-data)
-- [Health](https://github.com/apis-list/apis-list#health)
+
+
+th)
 - [Dashboards](https://github.com/apis-list/apis-list#dashboards)
 
 

@@ -5,10 +5,18 @@
 
 Particularly nice, when compared to some of its competitors, in that it offers a great deal of flexibility. Dynamic Dummy Image Generator by Russell Heimlich (@kingkool68) Size / Background Color / Foreground Color. Format & Text Documentation Size width x height Colors background color / text color Col.
 
+**Docs / Website**: https://dummyimage.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
+
 
 
 

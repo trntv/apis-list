@@ -3,9 +3,16 @@
 
 Existing instances are supported until 1 December 2021, but as of 7 January 2021, you can&#39;t create instances.  Any instance that is provisioned on 1 December 2021 will be deleted. IBM Watson&trade; Visual Recognition is discontinued
 
+**Docs / Website**: https://cloud.ibm.com/apidocs/visual-recognition/visual-recognition-v3
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Recognition](https://github.com/apis-list/apis-list#recognition)
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Machine Learning](https://github.com/apis-list/apis-list#machine-learning)
@@ -13,8 +20,6 @@ Existing instances are supported until 1 December 2021, but as of 7 January 2021
 - [Development](https://github.com/apis-list/apis-list#development)
 
 
-
-)
 
 
 

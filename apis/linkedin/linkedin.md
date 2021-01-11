@@ -5,12 +5,21 @@
 
 Make it convenient for your users to sign in with their professional identity.  Learn how to leverage LinkedIn's API to Sign In with LinkedIn
 
+**Docs / Website**: https://developer.linkedin.com/docs/signin-with-linkedin
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Authentication & User Management](https://github.com/apis-list/apis-list#authentication-and-user-management)
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Business](https://github.com/apis-list/apis-list#business)
+
+
 
 
 

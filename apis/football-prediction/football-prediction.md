@@ -5,22 +5,20 @@
 
 he API supports competitions in over 90 countries and over 140 national leagues. Predictions for upcoming football matches, odds, results and stats. Football Prediction API provides predictions for upcoming football matches, average bookie odds, results for past matches and performance monitoring for the statistical models
 
+**Docs / Website**: https://boggio-analytics.com/fp-api/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 
 
-
-Sports](https://github.com/apis-list/apis-list#sports)
-
-
-
-
-
-
-tness](https://github/apis-list/apis-list#sport-and-fitness)
 
 
 

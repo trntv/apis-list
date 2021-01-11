@@ -5,22 +5,22 @@
 
 Enhance your projects with free trusted historical, real-time and forecast air quality data. Air pollution and weather data for more than 60 countries worldwide
 
+**Docs / Website**: https://airvisual.com/api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Data-As-A-Service](https://github.com/apis-list/apis-list#data-as-a-service)
 - [Weather](https://github.com/apis-list/apis-list#weather)
 - [Environment](https://github.com/apis-list/apis-list#environment)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 
 
-
-ps://github.com/apis-list/apis-list#climate)
-- [Health](https://github.com/apis-list/apis-list#health)
-
-
-
-s)
 
 
 

@@ -7,17 +7,16 @@
 
 {{ .api.Description }}
 
-{{ if .api.SpecificationUri -}}
+**Docs / Website**: {{ .api.URI }}
+
 ## Specification:
-**Type**: {{ .api.SpecificationType }}
-**URI**: {{ .api.SpecificationUri }}
-{{ end -}}
+**Type**: {{ if  .api.SpecificationType }}{{ .api.SpecificationType }}{{ else }} N/A {{ end }}
+**URI**: {{ if  .api.SpecificationUri }}{{ .api.SpecificationUri }}{{ else }} N/A {{ end }}
 
-{{- if .api.DiscussionURI -}}
-## 💬 Discussion: [Discuss {{ .api.Name }}](.api.DiscussionURI)
-{{- end }}
+## 💬 Discussion:
+{{ if .api.DiscussionURI -}}[Discuss {{ .api.Name }}](.api.DiscussionURI){{else}}[Create discussion](link){{ end }}
 
-**Categories**:
+## Categories:
 {{ range .api.Categories -}}
 - [{{ . }}](https://github.com/apis-list/apis-list#{{ . | slug }})
 {{ end }}

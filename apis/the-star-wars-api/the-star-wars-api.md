@@ -5,10 +5,19 @@
 
 All the Star Wars data you've ever wanted: Planets, Spaceships, Vehicles, People, Films and Species
 
+**Docs / Website**: https://swapi.co
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+
+
 
 
 

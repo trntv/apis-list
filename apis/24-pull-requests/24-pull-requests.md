@@ -5,13 +5,19 @@
 
 24 Pull Requests is a yearly initiative to encourage contributors around the world to send 24 pull requests between December 1st and December 24th
 
+**Docs / Website**: https://24pullrequests.com/api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Events](https://github.com/apis-list/apis-list#events)
 - [Holidays](https://github.com/apis-list/apis-list#holidays)
-
 
 
 

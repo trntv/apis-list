@@ -5,10 +5,18 @@
 
 IO ♛ Keep all games in one profile ✔ See what friends are playing, and find your next great game. Open video game database. Find games by platform, genre, company or find game developers, stores, publishers and many more.  RAWG
 
+**Docs / Website**: https://rawg.io/apidocs
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+
 
 
 

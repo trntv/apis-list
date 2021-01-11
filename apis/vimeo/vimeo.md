@@ -5,9 +5,16 @@
 
 Unlock the power of video and join over 200M professionals, teams, and organizations who use Vimeo to create, collaborate and communicate. Access to Vimeo’s API
 
+**Docs / Website**: https://developer.vimeo.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Social](https://github.com/apis-list/apis-list#social)
@@ -15,9 +22,6 @@ Unlock the power of video and join over 200M professionals, teams, and organizat
 - [Community](https://github.com/apis-list/apis-list#community)
 
 
-
-)
-- [Movies](https://github.com/apis-list/apis-list#movies)
 
 
 

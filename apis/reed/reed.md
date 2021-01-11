@@ -3,10 +3,18 @@
 
 Jobs | Courses | Career advice | Advertise a job Copyright © reed. co. uk 2021
 
+**Docs / Website**: https://www.reed.co.uk/developers
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Jobs](https://github.com/apis-list/apis-list#jobs)
+
 
 
 

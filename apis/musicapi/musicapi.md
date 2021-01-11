@@ -5,10 +5,18 @@
 
 Centralized package to get data from qq, xiami, netease music - LIU9293/musicAPI. Centralized Node. JS API SDK for Xiami, Netease, and QQ music - The Top 3 music providers in China
 
+**Docs / Website**: https://github.com/LIU9293/musicAPI
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
+
 
 
 

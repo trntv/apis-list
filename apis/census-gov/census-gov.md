@@ -3,10 +3,18 @@
 
 We plan on adding all of our publicly available data sets. 997bae7.  Reference #18. gov/data/developers/data-sets. 9e127fb. Here you'll find which of our many data sets are currently available via API. 8037b9d0. 1610139914.  Access Denied You don't have permission to access "http://www. census. 1610137077. html" on this server
 
+**Docs / Website**: https://www.census.gov/data/developers/data-sets.html
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Government](https://github.com/apis-list/apis-list#government)
+
 
 
 

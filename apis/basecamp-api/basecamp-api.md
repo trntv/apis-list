@@ -5,17 +5,19 @@
 
 A web based system for managing collaborative projects.  Simple manipulations of your project are provided through the web user interface. API documentation and wrappers for Basecamp 2. Contribute to basecamp/bcx-api development by creating an account on GitHub
 
+**Docs / Website**: https://github.com/basecamp/bcx-api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Project Management](https://github.com/apis-list/apis-list#project-management)
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 - [Business](https://github.com/apis-list/apis-list#business)
-
-
-
-
-
 
 
 

@@ -5,10 +5,18 @@
 
 Build Voice, SMS, Fax, Networking and Cellular IoT applications on a private, purpose-built global communications network. Access documentation and API references to develop applications with the Telnyx API
 
+**Docs / Website**: https://developers.telnyx.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
+
 
 
 

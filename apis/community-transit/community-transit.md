@@ -5,10 +5,18 @@
 
 Transitland's centralized web service API for both querying and editing aggregated transit data from around the world - transitland/transitland-datastore. Transitland's centralized web service API for both querying and editing aggregated transit data from around the world - transitland/transitland-datastore
 
+**Docs / Website**: https://github.com/transitland/transitland-datastore/blob/master/README.md#api-endpoints
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
+
 
 
 

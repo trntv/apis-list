@@ -5,9 +5,16 @@
 
 The source for financial, economic, and alternative datasets, serving investment professionals.  The source for financial, economic, and alternative datasets, serving investment professionals
 
+**Docs / Website**: https://www.quandl.com/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Search](https://github.com/apis-list/apis-list#search)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 

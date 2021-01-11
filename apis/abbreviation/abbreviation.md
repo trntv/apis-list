@@ -5,10 +5,18 @@
 
 Get abbreviations and meanings
 
+**Docs / Website**: https://market.mashape.com/daxeel/abbreviations
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
+
 
 
 

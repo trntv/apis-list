@@ -5,10 +5,18 @@
 
 Copyright © 2015 Atlassian.  All rights reserved Trademark Privacy. Access to Bitbucket's API
 
+**Docs / Website**: https://developer.atlassian.com/bitbucket/api/2/reference/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
+
 
 
 

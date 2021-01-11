@@ -3,9 +3,16 @@
 
 Pexels provides high quality and completely free stock photos licensed under the Creative Commons Zero (CC0) license
 
+**Docs / Website**: https://www.pexels.com/api/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Open Source](https://github.com/apis-list/apis-list#open-source)
 - [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
 - [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
@@ -13,8 +20,6 @@ Pexels provides high quality and completely free stock photos licensed under the
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 
 
-
-)
 
 
 

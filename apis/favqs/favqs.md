@@ -5,9 +5,16 @@
 
 FavQs allows you to collect, discover, and share your favorite quotes.  A list of quotes, paged 25 at a time. Request GET /api/quotes Response { "page": 1, "last_page": false, "quotes": [ { "tags": [ "linux", "programming", "code", "finnish-american" ], "favorite": fal
 
+**Docs / Website**: https://favqs.com/api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Catalogs](https://github.com/apis-list/apis-list#catalogs)
 - [Reference](https://github.com/apis-list/apis-list#reference)
 - [Text](https://github.com/apis-list/apis-list#text)
@@ -16,10 +23,6 @@ FavQs allows you to collect, discover, and share your favorite quotes.  A list o
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 
 
-
-
-
-e)
 
 
 

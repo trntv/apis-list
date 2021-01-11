@@ -5,19 +5,20 @@
 
 The largest collection of dad jokes on the internet. The largest collection of dad jokes on the internet
 
+**Docs / Website**: https://icanhazdadjoke.com/api
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Fun](https://github.com/apis-list/apis-list#fun)
 - [Meme](https://github.com/apis-list/apis-list#meme)
 - [Health](https://github.com/apis-list/apis-list#health)
 - [Personality](https://github.com/apis-list/apis-list#personality)
-
-
-
-
-
-
 
 
 

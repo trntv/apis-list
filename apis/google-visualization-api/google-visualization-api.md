@@ -5,13 +5,19 @@
 
 * A. Gadgets are no longer the best way to include visualizations on your web page.  This page lists the objects exposed by the Google Visualization API, and the standard methods exposed by all visualizations.  Note: The Google Visualization API namespace is google. visualization
 
+**Docs / Website**: https://developers.google.com/chart/interactive/docs/reference
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Charts](https://github.com/apis-list/apis-list#charts)
 - [Other](https://github.com/apis-list/apis-list#other)
 - [Visualizations](https://github.com/apis-list/apis-list#visualizations)
-
 
 
 

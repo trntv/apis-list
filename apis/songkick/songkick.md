@@ -5,9 +5,16 @@
 
 Find live music near you, track your favorite artists, get instant concert alerts and buy tickets for all the best upcoming concerts.  Find live music near you, track your favorite artists, get instant concert alerts and buy tickets for all the best upcoming concerts
 
+**Docs / Website**: https://www.songkick.com/developer/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [Events](https://github.com/apis-list/apis-list#events)
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
 

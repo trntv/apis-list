@@ -5,10 +5,18 @@
 
 Currents - Capture the world news through simple json News API. Currents - Capture the world news through simple json News API
 
+**Docs / Website**: https://currentsapi.services/
 
+## Specification:
+**Type**:  N/A 
+**URI**:  N/A 
 
-**Categories**:
+## 💬 Discussion:
+[Create discussion](link)
+
+## Categories:
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
+
 
 
 
