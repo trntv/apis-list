@@ -8,11 +8,11 @@ Build the future of business collaboration with Webex! Learn more about the Webe
 
 
 **Categories**:
+- [Teleconferencing](https://github.com/apis-list/apis-list#teleconferencing)
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Syncing](https://github.com/apis-list/apis-list#syncing)
 - [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
-- [Teleconferencing](https://github.com/apis-list/apis-list#teleconferencing)
 
 
 

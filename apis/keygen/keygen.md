@@ -9,13 +9,12 @@ Keygen is a dead-simple software licensing API built for developers of desktop a
 
 **Categories**:
 - [Development](https://github.com/apis-list/apis-list#development)
-- [Licensing](https://github.com/apis-list/apis-list#licensing)
+- [Open Licenses](https://github.com/apis-list/apis-list#open-licenses)
+- [Applications](https://github.com/apis-list/apis-list#applications)
 
 
 
-
-
-Application Development,Data-As-A-Service,Data,Licensing](https://github/apis-list/apis-list#tools-application-development-data-as-a-service-data-licensing)
+s-list/apis-list#tools-application-development-data-as-a-service-data-licensing)
 
 
 

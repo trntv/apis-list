@@ -14,14 +14,10 @@ the Box Developer Console
 **Categories**:
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 - [Content Management](https://github.com/apis-list/apis-list#content-management)
-- [Enterprise](https://github.com/apis-list/apis-list#enterprise)
+- [Business](https://github.com/apis-list/apis-list#business)
 - [Security](https://github.com/apis-list/apis-list#security)
 - [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
-- [Content](https://github.com/apis-list/apis-list#content)
-
-
-
-t)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
 
 
 

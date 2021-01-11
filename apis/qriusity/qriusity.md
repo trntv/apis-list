@@ -6,10 +6,10 @@ The Sponsored Listings displayed above are served automatically by a third party
 
 
 **Categories**:
-- [Trivia](https://github.com/apis-list/apis-list#trivia)
 - [Education](https://github.com/apis-list/apis-list#education)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Games & Comics](https://github.com/apis-list/apis-list#games-and-comics)
+- [Trivia](https://github.com/apis-list/apis-list#trivia)
 
 
 

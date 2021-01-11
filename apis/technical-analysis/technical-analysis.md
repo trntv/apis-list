@@ -8,8 +8,7 @@ Coin predictions as a service. Automatically fetch coin data from various exchan
 
 
 **Categories**:
-- [Bitcoin/Bitcoin Wallets](https://github.com/apis-list/apis-list#bitcoin-bitcoin-wallets)
-
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
 
 
 

@@ -6,14 +6,18 @@ Yelp's API exposes search to 3rd party developers. You can search location using
 
 
 **Categories**:
-- [Business](https://github.com/apis-list/apis-list#business)
-- [Directories](https://github.com/apis-list/apis-list#directories)
-- [Commerce & Marketplaces](https://github.com/apis-list/apis-list#commerce-and-marketplaces)
-- [Localization](https://github.com/apis-list/apis-list#localization)
 - [Search](https://github.com/apis-list/apis-list#search)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
-- [Recommendations](https://github.com/apis-list/apis-list#recommendations)
+- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+- [Business](https://github.com/apis-list/apis-list#business)
+- [Directories](https://github.com/apis-list/apis-list#directories)
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
+- [Localization](https://github.com/apis-list/apis-list#localization)
+
+
+
+b.com/apis-list/apis-list#recommendations)
 
 
 

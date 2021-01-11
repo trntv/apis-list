@@ -8,9 +8,9 @@
 
 
 **Categories**:
-- [Visualizations](https://github.com/apis-list/apis-list#visualizations)
 - [Charts](https://github.com/apis-list/apis-list#charts)
 - [Other](https://github.com/apis-list/apis-list#other)
+- [Visualizations](https://github.com/apis-list/apis-list#visualizations)
 
 
 

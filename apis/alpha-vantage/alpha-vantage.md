@@ -7,8 +7,11 @@ Supports intraday, daily, weekly, and monthly quotes and technical analysis with
 
 **Categories**:
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
-- [Financial](https://github.com/apis-list/apis-list#financial)
-- [Cryptocurrency](https://github.com/apis-list/apis-list#cryptocurrency)
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
+
+
+
+st/apis-list#cryptocurrency)
 
 
 

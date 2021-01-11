@@ -8,10 +8,8 @@ A simple API to request a user's real-time approval on any device or platform vi
 
 
 **Categories**:
-- [Developer](https://github.com/apis-list/apis-list#developer)
+- [Development](https://github.com/apis-list/apis-list#development)
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
-
-
 
 
 

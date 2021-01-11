@@ -6,8 +6,12 @@ Data is offered in JSON format. The following marketplaces are available: eBay, 
 
 
 **Categories**:
-- [Commerce & Marketplaces](https://github.com/apis-list/apis-list#commerce-and-marketplaces)
-- [Enterprise](https://github.com/apis-list/apis-list#enterprise)
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
+- [Business](https://github.com/apis-list/apis-list#business)
+
+
+
+/apis-list/apis-list#enterprise)
 
 
 

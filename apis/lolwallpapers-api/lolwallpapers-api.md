@@ -8,9 +8,9 @@ net. League of Legends Wallpapers website official API.  This is a lightweight p
 
 
 **Categories**:
+- [Images](https://github.com/apis-list/apis-list#images)
 - [Games & Comics](https://github.com/apis-list/apis-list#games-and-comics)
 - [Search](https://github.com/apis-list/apis-list#search)
-- [Images](https://github.com/apis-list/apis-list#images)
 
 
 

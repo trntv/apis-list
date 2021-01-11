@@ -8,7 +8,11 @@ org, JWT…).  REST and GraphQL framework on top of Symfony and React. API Platf
 
 
 **Categories**:
-- [Application Development, Linked Data, Modern Api, Api First Projects, Tool](https://github.com/apis-list/apis-list#application-development-linked-data-modern-api-api-first-projects-tool)
+- [Development](https://github.com/apis-list/apis-list#development)
+
+
+
+, Tool](https://github.com/apis-list/apis-list#application-development-linked-data-modern-api-api-first-projects-tool)
 
 
 

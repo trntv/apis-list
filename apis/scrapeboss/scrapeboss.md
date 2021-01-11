@@ -8,13 +8,16 @@ Contact with an owner of ScrapeBoss. com domain name. Return developer friendly 
 
 
 **Categories**:
-- [Blogging](https://github.com/apis-list/apis-list#blogging)
-- [Content](https://github.com/apis-list/apis-list#content)
-- [Data Mining](https://github.com/apis-list/apis-list#data-mining)
-- [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
-- [Data Extraction](https://github.com/apis-list/apis-list#data-extraction)
 - [Extraction](https://github.com/apis-list/apis-list#extraction)
 - [Automation](https://github.com/apis-list/apis-list#automation)
+- [Social](https://github.com/apis-list/apis-list#social)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers-and-data-mining)
+- [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
+
+
+
+pis-list#automation)
 
 
 

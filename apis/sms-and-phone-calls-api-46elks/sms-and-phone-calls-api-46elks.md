@@ -9,11 +9,8 @@
 
 **Categories**:
 - [Voice](https://github.com/apis-list/apis-list#voice)
-- [Sms](https://github.com/apis-list/apis-list#sms)
+- [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
 - [Phone Calls](https://github.com/apis-list/apis-list#phone-calls)
-
-
-
 
 
 

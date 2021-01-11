@@ -8,8 +8,7 @@ Broadage Sports provides comprehensive sports data API solutions for your projec
 
 
 **Categories**:
-- [Sports](https://github.com/apis-list/apis-list#sports)
-
+- [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
 
 
 

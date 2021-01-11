@@ -5,15 +5,17 @@
 
 Access to GitLab's API.  Documentation for GitLab Community Edition, GitLab Enterprise Edition, Omnibus GitLab, and GitLab Runner
 
-## Specification:
-**Type**: openapi
-**URI**: https://docs.graphhopper.com/openapi.json
 
 
 **Categories**:
+- [Development](https://github.com/apis-list/apis-list#development)
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 - [Open Source](https://github.com/apis-list/apis-list#open-source)
 - [Project Management](https://github.com/apis-list/apis-list#project-management)
+
+
+
+ect-management)
 - [Development](https://github.com/apis-list/apis-list#development)
 
 

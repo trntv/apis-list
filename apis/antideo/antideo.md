@@ -8,11 +8,14 @@ Final result is millions of IP and email records kept up to date and free to use
 
 
 **Categories**:
-- [Spam](https://github.com/apis-list/apis-list#spam)
-- [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
 - [Ip Health](https://github.com/apis-list/apis-list#ip-health)
-- [Phone Number Validation](https://github.com/apis-list/apis-list#phone-number-validation)
+- [Spam](https://github.com/apis-list/apis-list#spam)
+- [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
+
+
+
+Phone Number Validation](https://github.com/apis-list/apis-list#phone-number-validation)
 
 
 

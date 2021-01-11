@@ -8,7 +8,11 @@ Contify's News Feed APIs provides a clean, company-based market and competitive 
 
 
 **Categories**:
-- [Monitoring](https://github.com/apis-list/apis-list#monitoring)
+- [DevOps](https://github.com/apis-list/apis-list#devops)
+
+
+
+ing)
 
 
 

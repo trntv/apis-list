@@ -8,11 +8,15 @@ Be creative and create any type of marketplace Whether you are looking for a web
 
 
 **Categories**:
-- [Commerce & Marketplaces](https://github.com/apis-list/apis-list#commerce-and-marketplaces)
-- [Classifieds](https://github.com/apis-list/apis-list#classifieds)
-- [Classification](https://github.com/apis-list/apis-list#classification)
 - [Lists](https://github.com/apis-list/apis-list#lists)
 - [Platform-As-A-Service](https://github.com/apis-list/apis-list#platform-as-a-service)
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
+- [Marketplace](https://github.com/apis-list/apis-list#marketplace)
+- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+
+
+
+is-list/apis-list#platform-as-a-service)
 
 
 

@@ -8,9 +8,9 @@ Learn how to use our API to build your own website or applications backed by the
 
 
 **Categories**:
-- [Adoption](https://github.com/apis-list/apis-list#adoption)
 - [Animals](https://github.com/apis-list/apis-list#animals)
 - [Search](https://github.com/apis-list/apis-list#search)
+- [Adoption](https://github.com/apis-list/apis-list#adoption)
 
 
 

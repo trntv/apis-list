@@ -8,10 +8,13 @@ Add schedules, show, episode, cast information, . TV Show and web series databas
 
 
 **Categories**:
+- [Actors](https://github.com/apis-list/apis-list#actors)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
-- [Actors](https://github.com/apis-list/apis-list#actors)
-- [Movies](https://github.com/apis-list/apis-list#movies)
+
+
+
+Movies](https://github.com/apis-list/apis-list#movies)
 
 
 

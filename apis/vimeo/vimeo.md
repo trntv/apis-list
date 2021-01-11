@@ -5,16 +5,18 @@
 
 Unlock the power of video and join over 200M professionals, teams, and organizations who use Vimeo to create, collaborate and communicate. Access to Vimeo’s API
 
-## Specification:
-**Type**: openapi
-**URI**: https://raw.githubusercontent.com/vimeo/openapi/master/api.yaml
 
 
 **Categories**:
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
 - [Community](https://github.com/apis-list/apis-list#community)
-- [Content](https://github.com/apis-list/apis-list#content)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
+
+
+
+)
 - [Movies](https://github.com/apis-list/apis-list#movies)
 
 

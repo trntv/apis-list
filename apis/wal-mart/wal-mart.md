@@ -7,7 +7,11 @@
 
 **Categories**:
 - [Shopping](https://github.com/apis-list/apis-list#shopping)
-- [Commerce & Marketplaces](https://github.com/apis-list/apis-list#commerce-and-marketplaces)
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
+
+
+
+t#commerce-and-marketplaces)
 
 
 

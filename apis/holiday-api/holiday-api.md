@@ -6,19 +6,22 @@ Start developing for free. Public holiday API service for several supported coun
 
 
 **Categories**:
-- [Calendar](https://github.com/apis-list/apis-list#calendar)
-- [Air Travel](https://github.com/apis-list/apis-list#air-travel)
-- [Holidays](https://github.com/apis-list/apis-list#holidays)
-- [Data-As-A-Service](https://github.com/apis-list/apis-list#data-as-a-service)
-- [API](https://github.com/apis-list/apis-list#api)
-- [Accounting](https://github.com/apis-list/apis-list#accounting)
-- [Calendars](https://github.com/apis-list/apis-list#calendars)
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [B2B](https://github.com/apis-list/apis-list#b2b)
+- [Accounting](https://github.com/apis-list/apis-list#accounting)
+- [Time](https://github.com/apis-list/apis-list#time)
+- [Air Travel](https://github.com/apis-list/apis-list#air-travel)
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
+- [Holidays](https://github.com/apis-list/apis-list#holidays)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
 - [Banking](https://github.com/apis-list/apis-list#banking)
-- [Countries](https://github.com/apis-list/apis-list#countries)
 - [Development](https://github.com/apis-list/apis-list#development)
-- [Time Tracking](https://github.com/apis-list/apis-list#time-tracking)
-- [European](https://github.com/apis-list/apis-list#european)
+- [Calendar](https://github.com/apis-list/apis-list#calendar)
+- [Data-As-A-Service](https://github.com/apis-list/apis-list#data-as-a-service)
+
+
+
+.com/apis-list/apis-list#european)
 - [Commerce & Marketplaces](https://github.com/apis-list/apis-list#commerce-and-marketplaces)
 - [Time](https://github.com/apis-list/apis-list#time)
 

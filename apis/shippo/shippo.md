@@ -9,9 +9,13 @@ Find the best shipping rates, integrate with e-commerce platforms, print shippin
 
 **Categories**:
 - [Logistics](https://github.com/apis-list/apis-list#logistics)
-- [Multi-Carrier Shipping Api](https://github.com/apis-list/apis-list#multi-carrier-shipping-api)
-- [Shipping](https://github.com/apis-list/apis-list#shipping)
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Addresses](https://github.com/apis-list/apis-list#addresses)
+- [B2B](https://github.com/apis-list/apis-list#b2b)
+
+
+
+/github.com/apis-list/apis-list#addresses)
 - [B2B](https://github.com/apis-list/apis-list#b2b)
 - [Commerce & Marketplaces](https://github.com/apis-list/apis-list#commerce-and-marketplaces)
 

@@ -6,8 +6,7 @@ Click here if you are not redirected. Access to GitHub’s Authentication API. R
 
 
 **Categories**:
-- [Login Authentication](https://github.com/apis-list/apis-list#login-authentication)
-
+- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication-and-user-management)
 
 
 

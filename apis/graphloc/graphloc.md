@@ -8,8 +8,7 @@ Free GraphQL IP Geolocation API
 
 
 **Categories**:
-- [Geocoding](https://github.com/apis-list/apis-list#geocoding)
-
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 
 
 

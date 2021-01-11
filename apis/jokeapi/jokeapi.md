@@ -6,8 +6,12 @@ JokeAPI is a RESTful API that serves jokes from many categories while also offer
 
 
 **Categories**:
-- [Humor](https://github.com/apis-list/apis-list#humor)
+- [Fun](https://github.com/apis-list/apis-list#fun)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+
+
+
+
 
 
 

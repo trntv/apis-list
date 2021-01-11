@@ -6,8 +6,7 @@ Secure, fast, convenient way to login in your app/website.  A secure, quick, and
 
 
 **Categories**:
-- [Login Authentication](https://github.com/apis-list/apis-list#login-authentication)
-
+- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication-and-user-management)
 
 
 

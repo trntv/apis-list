@@ -8,12 +8,12 @@ All requests are made to endpoints beginning: https://api. gfycat. com/v1 All re
 
 
 **Categories**:
+- [Meme](https://github.com/apis-list/apis-list#meme)
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
 - [Photography](https://github.com/apis-list/apis-list#photography)
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Animation](https://github.com/apis-list/apis-list#animation)
-- [Meme](https://github.com/apis-list/apis-list#meme)
 
 
 

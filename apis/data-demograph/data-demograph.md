@@ -6,16 +6,19 @@ backends. contrib. 1', 'vpn. anode. Enrich your contact lists with intelligent d
 
 
 **Categories**:
-- [Api](https://github.com/apis-list/apis-list#api)
-- [Contacts](https://github.com/apis-list/apis-list#contacts)
-- [Data Mining](https://github.com/apis-list/apis-list#data-mining)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers-and-data-mining)
 - [Big Data](https://github.com/apis-list/apis-list#big-data)
-- [Customer Relationship Management](https://github.com/apis-list/apis-list#customer-relationship-management)
-- [Demographics](https://github.com/apis-list/apis-list#demographics)
-- [Populations](https://github.com/apis-list/apis-list#populations)
 - [Diversity](https://github.com/apis-list/apis-list#diversity)
+- [Contacts](https://github.com/apis-list/apis-list#contacts)
+- [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Development](https://github.com/apis-list/apis-list#development)
+- [Demographics](https://github.com/apis-list/apis-list#demographics)
+- [Customer Relationship Management](https://github.com/apis-list/apis-list#customer-relationship-management)
 - [People](https://github.com/apis-list/apis-list#people)
+
+
+
+/apis-list/apis-list#people)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 
 

@@ -9,7 +9,11 @@ Invoicing for online businesses. Simplify your invoicing process and get paid on
 
 **Categories**:
 - [Payments](https://github.com/apis-list/apis-list#payments)
-- [Commerce & Marketplaces](https://github.com/apis-list/apis-list#commerce-and-marketplaces)
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
+
+
+
+t#commerce-and-marketplaces)
 - [Invoicing](https://github.com/apis-list/apis-list#invoicing)
 
 

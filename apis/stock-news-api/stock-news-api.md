@@ -6,8 +6,7 @@ Get the latest stock news from the best news sources. Use our API to get relevan
 
 
 **Categories**:
-- [Financial](https://github.com/apis-list/apis-list#financial)
-
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 
 
 

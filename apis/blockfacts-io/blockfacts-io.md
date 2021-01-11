@@ -9,9 +9,12 @@ SDKs for integration, rich historic tick data.  AllMarkets - US stock market: re
 
 
 **Categories**:
-- [Bitcoin/Bitcoin Wallets](https://github.com/apis-list/apis-list#bitcoin-bitcoin-wallets)
-- [Cryptocurrency](https://github.com/apis-list/apis-list#cryptocurrency)
-- [Financial](https://github.com/apis-list/apis-list#financial)
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
+
+
+
+com/apis-list/apis-list#financial)
 
 
 

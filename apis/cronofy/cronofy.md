@@ -8,11 +8,13 @@ Our Scheduler lets you share your availability with contacts no matter what appl
 
 
 **Categories**:
-- [Webhooks](https://github.com/apis-list/apis-list#webhooks)
-- [Calendars](https://github.com/apis-list/apis-list#calendars)
 - [Scheduling](https://github.com/apis-list/apis-list#scheduling)
 - [Events](https://github.com/apis-list/apis-list#events)
 - [Integration](https://github.com/apis-list/apis-list#integration)
+- [Webhooks](https://github.com/apis-list/apis-list#webhooks)
+- [Calendar](https://github.com/apis-list/apis-list#calendar)
+
+
 
 
 

@@ -8,15 +8,12 @@ Generate PDF from any website. Automate web performance. Turns any link into inf
 
 
 **Categories**:
+- [URLs](https://github.com/apis-list/apis-list#urls)
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Extraction](https://github.com/apis-list/apis-list#extraction)
 - [Colors](https://github.com/apis-list/apis-list#colors)
-- [Screenshots](https://github.com/apis-list/apis-list#screenshots)
-- [URLs](https://github.com/apis-list/apis-list#urls)
+- [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 
-
-
-)
 
 
 

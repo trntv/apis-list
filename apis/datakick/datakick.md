@@ -6,14 +6,10 @@ You may have mistyped the address or the page may have moved. If you are the app
 
 
 **Categories**:
-- [Barcodes](https://github.com/apis-list/apis-list#barcodes)
 - [Products](https://github.com/apis-list/apis-list#products)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Databases](https://github.com/apis-list/apis-list#databases)
-
-
-
-
+- [Bar & QR Codes](https://github.com/apis-list/apis-list#bar-and-qr-codes)
 
 
 

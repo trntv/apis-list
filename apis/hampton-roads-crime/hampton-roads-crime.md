@@ -10,7 +10,10 @@ Let’s you get most recent and historical crime data so you feel safe in your n
 **Categories**:
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
-- [Crime](https://github.com/apis-list/apis-list#crime)
+
+
+
+Crime](https://github.com/apis-list/apis-list#crime)
 
 
 

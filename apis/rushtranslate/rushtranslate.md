@@ -9,12 +9,9 @@ RushTranslate offers certified document translation services in over 60 language
 
 
 **Categories**:
-- [Documents](https://github.com/apis-list/apis-list#documents)
 - [Translation](https://github.com/apis-list/apis-list#translation)
 - [Business](https://github.com/apis-list/apis-list#business)
-
-
-
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
 
 
 

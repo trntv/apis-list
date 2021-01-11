@@ -10,12 +10,8 @@ Explore AYLIEN’s advanced NLP APIs.  Explore AYLIEN’s advanced NLP APIs
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 - [Tools](https://github.com/apis-list/apis-list#tools)
-- [Documents](https://github.com/apis-list/apis-list#documents)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
 - [Language](https://github.com/apis-list/apis-list#language)
-
-
-
-s)
 
 
 

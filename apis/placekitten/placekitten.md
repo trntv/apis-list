@@ -8,10 +8,14 @@ A quick and simple service for getting pictures of kittens for use as placeholde
 
 
 **Categories**:
-- [Humor](https://github.com/apis-list/apis-list#humor)
+- [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
+- [Fun](https://github.com/apis-list/apis-list#fun)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Animals](https://github.com/apis-list/apis-list#animals)
-- [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
+
+
+
+
 
 
 

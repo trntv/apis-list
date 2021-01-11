@@ -9,7 +9,10 @@ Clicky Web Analytics is simply the best way to monitor, analyze, and react to yo
 
 **Categories**:
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
-- [Analytics](https://github.com/apis-list/apis-list#analytics)
+
+
+
+Analytics](https://github.com/apis-list/apis-list#analytics)
 
 
 

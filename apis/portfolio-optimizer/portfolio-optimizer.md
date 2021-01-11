@@ -5,14 +5,16 @@
 
 API for investment portfolio optimization.  The science of portfolio optimization, available as a Web API
 
-## Specification:
-**Type**: openapi
-**URI**: https://docs.portfoliooptimizer.io/openapi/portfoliooptimizer.yaml
 
 
 **Categories**:
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
-- [Financial](https://github.com/apis-list/apis-list#financial)
+- [Algorithms](https://github.com/apis-list/apis-list#algorithms)
+- [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
+
+
+
+apis-list/apis-list#financial)
 - [Algorithms](https://github.com/apis-list/apis-list#algorithms)
 - [Math](https://github.com/apis-list/apis-list#math)
 

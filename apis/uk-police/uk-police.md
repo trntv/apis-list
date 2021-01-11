@@ -6,11 +6,14 @@ Police API Documentation The API provides a rich data source for information, in
 
 
 **Categories**:
+- [Government](https://github.com/apis-list/apis-list#government)
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Security](https://github.com/apis-list/apis-list#security)
-- [Government](https://github.com/apis-list/apis-list#government)
-- [England](https://github.com/apis-list/apis-list#england)
-- [Crime](https://github.com/apis-list/apis-list#crime)
+
+
+
+e](https://github.com/apis-list/apis-list#crime)
 - [Police](https://github.com/apis-list/apis-list#police)
 
 

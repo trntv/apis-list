@@ -8,8 +8,8 @@ Access Clan Search, Global and Local Leaderboards, Clan and Player Profiles and 
 
 
 **Categories**:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Games & Comics](https://github.com/apis-list/apis-list#games-and-comics)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 
 
 

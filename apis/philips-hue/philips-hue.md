@@ -8,10 +8,10 @@ Step 2 Then you need to discover the IP address of the bridge on your network.  
 
 
 **Categories**:
+- [Tools](https://github.com/apis-list/apis-list#tools)
 - [Hardware](https://github.com/apis-list/apis-list#hardware)
 - [Home Automation](https://github.com/apis-list/apis-list#home-automation)
 - [IoT & Home Automation](https://github.com/apis-list/apis-list#iot-and-home-automation)
-- [Tools](https://github.com/apis-list/apis-list#tools)
 
 
 

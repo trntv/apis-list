@@ -6,10 +6,13 @@ Build blockchain applications easily with our web APIs and callbacks. High throu
 
 
 **Categories**:
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
+- [Platform-As-A-Service](https://github.com/apis-list/apis-list#platform-as-a-service)
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
-- [Blockchain](https://github.com/apis-list/apis-list#blockchain)
-- [Cryptocurrency](https://github.com/apis-list/apis-list#cryptocurrency)
-- [Financial](https://github.com/apis-list/apis-list#financial)
+
+
+
+-list/apis-list#financial)
 - [Platform-As-A-Service](https://github.com/apis-list/apis-list#platform-as-a-service)
 - [Bitcoin/Bitcoin Wallets](https://github.com/apis-list/apis-list#bitcoin-bitcoin-wallets)
 

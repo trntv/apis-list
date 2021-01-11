@@ -8,7 +8,11 @@ AtroPIM is a free, modern, open source, GPLv3 licensed, web-based, feature-rich 
 
 
 **Categories**:
-- [Commerce & Marketplaces](https://github.com/apis-list/apis-list#commerce-and-marketplaces)
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
+
+
+
+t#commerce-and-marketplaces)
 
 
 

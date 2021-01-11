@@ -5,9 +5,14 @@
 
 Explore now. Connect with your friends — and other fascinating people.  Get in-the-moment updates on the things that interest you. And watch events unfold, in real time, from every angle. Guides and reference materials to help you get started, integrate, optimize, and troubleshoot your use of the Twitter Developer Platform
 
-## Specification:
-**Type**: wadl
-**URI**: http://api.apigee.com/v1/consoles/twitter/apidescription?format=wadl
+
+
+**Categories**:
+- [Social](https://github.com/apis-list/apis-list#social)
+
+
+
+tter/apidescription?format=wadl
 
 
 **Categories**:

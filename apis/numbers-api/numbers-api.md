@@ -3,11 +3,17 @@
     <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/numbers-api/logo_256x256.png" />
 </p>
 
-Numbers.  Number of the day, random number generation , number facts and anything else you want to do with numbers. Number of the day, random number generation , number facts and anything else you want to do with numbers
+Numbers. Number of the day, random number generation , number facts and anything else you want to do with numbers.
 
-## Specification:
-**Type**: openapi
-**URI**: https://api.math.tools/yaml/math.tools.numbers.openapi.yaml
+
+
+**Categories**:
+- [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
+- [Education](https://github.com/apis-list/apis-list#education)
+
+
+
+i.math.tools/yaml/math.tools.numbers.openapi.yaml
 
 
 **Categories**:

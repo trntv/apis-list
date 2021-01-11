@@ -6,7 +6,11 @@ Onfleet is the easiest way for businesses to manage and analyze their last-mile 
 
 
 **Categories**:
-- [Logistics, Delivery, Route Optimization](https://github.com/apis-list/apis-list#logistics-delivery-route-optimization)
+- [Logistics](https://github.com/apis-list/apis-list#logistics)
+
+
+
+-list/apis-list#logistics-delivery-route-optimization)
 
 
 

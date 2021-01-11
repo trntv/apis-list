@@ -8,8 +8,7 @@ Bitcoin is an innovative payment network and a new kind of money. Find all you n
 
 
 **Categories**:
-- [Bitcoin/Bitcoin Wallets](https://github.com/apis-list/apis-list#bitcoin-bitcoin-wallets)
-
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
 
 
 

@@ -7,7 +7,10 @@ Bing Maps platform provides multiple API options for your application.  Explore 
 
 **Categories**:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
-- [Mapping](https://github.com/apis-list/apis-list#mapping)
+
+
+
+Mapping](https://github.com/apis-list/apis-list#mapping)
 
 
 

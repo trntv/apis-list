@@ -6,9 +6,9 @@ General knowledge on every topic; query it all with natural language input. Easi
 
 
 **Categories**:
-- [Search](https://github.com/apis-list/apis-list#search)
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 - [Reference](https://github.com/apis-list/apis-list#reference)
+- [Search](https://github.com/apis-list/apis-list#search)
 
 
 

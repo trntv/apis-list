@@ -6,7 +6,11 @@ Create new ways to use Tumblr with access to content, likes, followers, and draf
 
 
 **Categories**:
-- [Blogging](https://github.com/apis-list/apis-list#blogging)
+- [Social](https://github.com/apis-list/apis-list#social)
+
+
+
+
 - [Social](https://github.com/apis-list/apis-list#social)
 
 

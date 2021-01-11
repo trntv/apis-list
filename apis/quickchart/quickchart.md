@@ -8,10 +8,10 @@ Open source, no watermarks. . Create a chart image with one API call and embed i
 
 
 **Categories**:
+- [Visualizations](https://github.com/apis-list/apis-list#visualizations)
 - [Other](https://github.com/apis-list/apis-list#other)
 - [Charts](https://github.com/apis-list/apis-list#charts)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
-- [Visualizations](https://github.com/apis-list/apis-list#visualizations)
 
 
 

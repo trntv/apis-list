@@ -9,8 +9,8 @@ Generate memes with a simple link!.  Meme Top Text Bottom Text Link To access th
 
 
 **Categories**:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Meme](https://github.com/apis-list/apis-list#meme)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 
 
 

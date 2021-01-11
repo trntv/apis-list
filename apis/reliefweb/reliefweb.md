@@ -9,14 +9,18 @@ and much much more
 
 
 **Categories**:
-- [Coronavirus](https://github.com/apis-list/apis-list#coronavirus)
 - [Environment](https://github.com/apis-list/apis-list#environment)
 - [Earthquakes](https://github.com/apis-list/apis-list#earthquakes)
 - [Government](https://github.com/apis-list/apis-list#government)
+- [Health](https://github.com/apis-list/apis-list#health)
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
-- [COVID-19](https://github.com/apis-list/apis-list#covid-19)
-- [Non-Profit](https://github.com/apis-list/apis-list#non-profit)
+- [Emergency](https://github.com/apis-list/apis-list#emergency)
 - [Community](https://github.com/apis-list/apis-list#community)
+- [Non-Profit](https://github.com/apis-list/apis-list#non-profit)
+
+
+
+ity)
 - [Emergency](https://github.com/apis-list/apis-list#emergency)
 
 

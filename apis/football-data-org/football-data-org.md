@@ -8,8 +8,11 @@ A restful API for football data.  A restful API for football data
 
 
 **Categories**:
-- [Sport](https://github.com/apis-list/apis-list#sport)
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
+
+
+
+://github.com/apis-list/apis-list#sport-and-fitness)
 
 
 

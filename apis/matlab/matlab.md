@@ -8,10 +8,13 @@ It allows you to create client programs in any programming language with an HTTP
 
 
 **Categories**:
-- [Math](https://github.com/apis-list/apis-list#math)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Visualizations](https://github.com/apis-list/apis-list#visualizations)
-- [Math & Science](https://github.com/apis-list/apis-list#math-and-science)
+- [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
+
+
+
+//github.com/apis-list/apis-list#math-and-science)
 
 
 

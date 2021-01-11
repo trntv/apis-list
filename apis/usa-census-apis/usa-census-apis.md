@@ -6,8 +6,8 @@ These data are currently used to distribute around $400 B in Federal, State and 
 
 
 **Categories**:
-- [Government](https://github.com/apis-list/apis-list#government)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
+- [Government](https://github.com/apis-list/apis-list#government)
 
 
 

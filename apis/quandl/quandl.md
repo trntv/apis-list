@@ -8,8 +8,8 @@ The source for financial, economic, and alternative datasets, serving investment
 
 
 **Categories**:
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Search](https://github.com/apis-list/apis-list#search)
+- [Open Data](https://github.com/apis-list/apis-list#open-data)
 
 
 

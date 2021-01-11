@@ -8,7 +8,11 @@ Offers self-service website and application performance monitoring solutions
 
 
 **Categories**:
-- [Monitoring](https://github.com/apis-list/apis-list#monitoring)
+- [DevOps](https://github.com/apis-list/apis-list#devops)
+
+
+
+ing)
 
 
 

@@ -8,10 +8,8 @@ To get direct support from the Nimiq Team and the community, join our social cha
 
 
 **Categories**:
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
 - [Payments](https://github.com/apis-list/apis-list#payments)
-- [Cryptocurrency](https://github.com/apis-list/apis-list#cryptocurrency)
-
-
 
 
 

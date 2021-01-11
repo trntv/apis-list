@@ -8,9 +8,13 @@ If you’re only interested in a Company’s logo, and don’t need any other da
 
 
 **Categories**:
-- [Images](https://github.com/apis-list/apis-list#images)
-- [Intelligence](https://github.com/apis-list/apis-list#intelligence)
+- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Business](https://github.com/apis-list/apis-list#business)
+- [Images](https://github.com/apis-list/apis-list#images)
+
+
+
+ess)
 
 
 

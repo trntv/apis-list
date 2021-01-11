@@ -8,10 +8,13 @@ Check where a tv show or movie is available
 
 
 **Categories**:
-- [Movies](https://github.com/apis-list/apis-list#movies)
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
-- [Content](https://github.com/apis-list/apis-list#content)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+
+
+
+ist/apis-list#content)
 
 
 

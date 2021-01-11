@@ -8,9 +8,9 @@ ReCAPTCHA lets you embed a CAPTCHA in your web pages in order to protect them ag
 
 
 **Categories**:
-- [Security](https://github.com/apis-list/apis-list#security)
 - [Spam](https://github.com/apis-list/apis-list#spam)
 - [Captcha](https://github.com/apis-list/apis-list#captcha)
+- [Security](https://github.com/apis-list/apis-list#security)
 
 
 

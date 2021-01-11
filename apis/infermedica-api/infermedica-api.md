@@ -5,17 +5,19 @@
 
 The most advanced Symptom Checker and Patient Triage API. Infermedica provides an API for patient triage and preliminary medical diagnosis that can help you implement an intelligent symptom checker or an adaptive patient intake form for your health application
 
-## Specification:
-**Type**: swagger
-**URI**: https://api.infermedica.com/v2/swagger.json
 
 
 **Categories**:
+- [Machine Learning](https://github.com/apis-list/apis-list#machine-learning)
+- [Bots](https://github.com/apis-list/apis-list#bots)
+- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Medicine](https://github.com/apis-list/apis-list#medicine)
 - [Health](https://github.com/apis-list/apis-list#health)
-- [Healthcare](https://github.com/apis-list/apis-list#healthcare)
-- [Machine Learning](https://github.com/apis-list/apis-list#machine-learning)
-- [Coronavirus](https://github.com/apis-list/apis-list#coronavirus)
+- [Big Data](https://github.com/apis-list/apis-list#big-data)
+
+
+
+thub.com/apis-list/apis-list#coronavirus)
 - [Big Data](https://github.com/apis-list/apis-list#big-data)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Medical](https://github.com/apis-list/apis-list#medical)

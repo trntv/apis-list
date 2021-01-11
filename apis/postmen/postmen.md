@@ -8,10 +8,14 @@ Download Postmen's JSON schema. Learn how to generate Postmen API key and make r
 
 
 **Categories**:
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
+- [Transportation](https://github.com/apis-list/apis-list#transportation)
 - [Business](https://github.com/apis-list/apis-list#business)
 - [International](https://github.com/apis-list/apis-list#international)
-- [Commerce & Marketplaces](https://github.com/apis-list/apis-list#commerce-and-marketplaces)
-- [Transportation](https://github.com/apis-list/apis-list#transportation)
+
+
+
+st/apis-list#transportation)
 - [Shipping](https://github.com/apis-list/apis-list#shipping)
 
 

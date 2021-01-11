@@ -8,8 +8,7 @@ Vendors offer a variety of methods and capabilities that allow devices to talk t
 
 
 **Categories**:
-- [Credits](https://github.com/apis-list/apis-list#credits)
-
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 
 
 

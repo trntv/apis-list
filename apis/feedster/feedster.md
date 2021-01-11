@@ -8,8 +8,11 @@ Searchable and categorized collections of RSS feeds
 
 
 **Categories**:
-- [Feeds](https://github.com/apis-list/apis-list#feeds)
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
+
+
+
+tps://github.com/apis-list/apis-list#news-and-feeds)
 
 
 

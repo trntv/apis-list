@@ -8,9 +8,9 @@ Real-time exchange rates for 154 world currencies provided in JSON format and wo
 
 
 **Categories**:
+- [Conversions](https://github.com/apis-list/apis-list#conversions)
 - [Currency](https://github.com/apis-list/apis-list#currency)
 - [Business](https://github.com/apis-list/apis-list#business)
-- [Conversions](https://github.com/apis-list/apis-list#conversions)
 
 
 

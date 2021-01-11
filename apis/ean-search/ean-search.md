@@ -8,11 +8,14 @@ Search our EAN database with over 230 million products by EAN, UPC, ISBN or prod
 
 
 **Categories**:
-- [Bar & QR Codes](https://github.com/apis-list/apis-list#bar-and-qr-codes)
+- [Products](https://github.com/apis-list/apis-list#products)
 - [Search](https://github.com/apis-list/apis-list#search)
 - [Databases](https://github.com/apis-list/apis-list#databases)
-- [Barcodes](https://github.com/apis-list/apis-list#barcodes)
-- [Products](https://github.com/apis-list/apis-list#products)
+- [Bar & QR Codes](https://github.com/apis-list/apis-list#bar-and-qr-codes)
+
+
+
+Products](https://github.com/apis-list/apis-list#products)
 
 
 

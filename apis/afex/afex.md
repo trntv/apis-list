@@ -8,10 +8,8 @@ Never worry about maintaining API documentation again. AFEX API is designed for 
 
 
 **Categories**:
-- [Financial](https://github.com/apis-list/apis-list#financial)
 - [Payments](https://github.com/apis-list/apis-list#payments)
-
-
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 
 
 

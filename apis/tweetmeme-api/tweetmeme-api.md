@@ -8,7 +8,11 @@ Provides third-party integration with the TweetMeme web service, used to track p
 
 
 **Categories**:
-- [Blogging](https://github.com/apis-list/apis-list#blogging)
+- [Social](https://github.com/apis-list/apis-list#social)
+
+
+
+
 - [Social](https://github.com/apis-list/apis-list#social)
 
 

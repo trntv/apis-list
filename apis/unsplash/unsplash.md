@@ -8,9 +8,9 @@ but for photos.  Lorem Ipsum. Lorem Ipsum
 
 
 **Categories**:
-- [Development](https://github.com/apis-list/apis-list#development)
 - [Photography](https://github.com/apis-list/apis-list#photography)
 - [Images](https://github.com/apis-list/apis-list#images)
+- [Development](https://github.com/apis-list/apis-list#development)
 
 
 

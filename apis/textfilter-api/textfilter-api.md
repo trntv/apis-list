@@ -8,8 +8,7 @@ Convert web page content into epub, Kindle/mobi and multi-column PDF files
 
 
 **Categories**:
-- [Documents](https://github.com/apis-list/apis-list#documents)
-
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
 
 
 

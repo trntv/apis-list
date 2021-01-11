@@ -8,12 +8,16 @@ Integrate your own applications using our new API. Integrate your own applicatio
 
 
 **Categories**:
-- [Commerce & Marketplaces](https://github.com/apis-list/apis-list#commerce-and-marketplaces)
 - [Products](https://github.com/apis-list/apis-list#products)
 - [Reference](https://github.com/apis-list/apis-list#reference)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
-- [Barcodes](https://github.com/apis-list/apis-list#barcodes)
+- [Bar & QR Codes](https://github.com/apis-list/apis-list#bar-and-qr-codes)
 - [Databases](https://github.com/apis-list/apis-list#databases)
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
+
+
+
+ist#databases)
 
 
 

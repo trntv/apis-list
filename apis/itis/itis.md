@@ -8,7 +8,7 @@ Hosted by the USGS Core Science Analytics and Synthesis.  Page designed through 
 
 
 **Categories**:
-- [Math & Science](https://github.com/apis-list/apis-list#math-and-science)
+- [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
 
 
 

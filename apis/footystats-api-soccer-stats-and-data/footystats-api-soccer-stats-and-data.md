@@ -6,8 +6,7 @@ Affordable Soccer Stats API for making football predictions. Includes stats such
 
 
 **Categories**:
-- [Sports](https://github.com/apis-list/apis-list#sports)
-
+- [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
 
 
 

@@ -8,11 +8,14 @@ Enhance your projects with free trusted historical, real-time and forecast air q
 
 
 **Categories**:
-- [Sustainability](https://github.com/apis-list/apis-list#sustainability)
-- [Environment](https://github.com/apis-list/apis-list#environment)
 - [Weather](https://github.com/apis-list/apis-list#weather)
-- [Cities](https://github.com/apis-list/apis-list#cities)
-- [Climate](https://github.com/apis-list/apis-list#climate)
+- [Environment](https://github.com/apis-list/apis-list#environment)
+- [Open Data](https://github.com/apis-list/apis-list#open-data)
+- [Data-As-A-Service](https://github.com/apis-list/apis-list#data-as-a-service)
+
+
+
+ps://github.com/apis-list/apis-list#climate)
 - [Health](https://github.com/apis-list/apis-list#health)
 
 

@@ -6,8 +6,8 @@ About Us Cloudmersive is a leader in Highly Scalable Cloud APIs. Sign Up 1-415-2
 
 
 **Categories**:
-- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 
 
 

@@ -8,9 +8,12 @@ Cryptocurrencies Prices. Use CoinMarketCap's free crypto API to get the best, mo
 
 
 **Categories**:
-- [Financial](https://github.com/apis-list/apis-list#financial)
-- [Bitcoin/Bitcoin Wallets](https://github.com/apis-list/apis-list#bitcoin-bitcoin-wallets)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
+
+
+
+://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
 - [Cryptocurrency](https://github.com/apis-list/apis-list#cryptocurrency)
 
 

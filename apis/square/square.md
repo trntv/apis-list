@@ -8,11 +8,15 @@ Square provides support and tools for you to build apps for today’s business n
 
 
 **Categories**:
-- [Credit Cards](https://github.com/apis-list/apis-list#credit-cards)
-- [Commerce & Marketplaces](https://github.com/apis-list/apis-list#commerce-and-marketplaces)
-- [Financial](https://github.com/apis-list/apis-list#financial)
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 - [Payments](https://github.com/apis-list/apis-list#payments)
 - [Business](https://github.com/apis-list/apis-list#business)
+- [Mobile](https://github.com/apis-list/apis-list#mobile)
+
+
+
+pis-list#business)
 - [Invoicing](https://github.com/apis-list/apis-list#invoicing)
 - [Mobile](https://github.com/apis-list/apis-list#mobile)
 

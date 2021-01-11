@@ -8,8 +8,7 @@ All the Star Wars data you've ever wanted: Planets, Spaceships, Vehicles, People
 
 
 **Categories**:
-- [Movies](https://github.com/apis-list/apis-list#movies)
-
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 
 
 

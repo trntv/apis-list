@@ -8,15 +8,11 @@ com/api" on this server. 55f57a5c.  Reference #18. Zomato API. 5 million restaur
 
 
 **Categories**:
-- [Localization](https://github.com/apis-list/apis-list#localization)
-- [Restaurants](https://github.com/apis-list/apis-list#restaurants)
+- [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest)
 - [Social](https://github.com/apis-list/apis-list#social)
-- [Food](https://github.com/apis-list/apis-list#food)
-- [Indian](https://github.com/apis-list/apis-list#indian)
-
-
-
-)
+- [Food & Drinks](https://github.com/apis-list/apis-list#food-and-drinks)
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
+- [Localization](https://github.com/apis-list/apis-list#localization)
 
 
 

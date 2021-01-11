@@ -8,8 +8,7 @@ Enable users to sign into apps and authorize apps to use Google services
 
 
 **Categories**:
-- [Authentication](https://github.com/apis-list/apis-list#authentication)
-
+- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication-and-user-management)
 
 
 

@@ -8,10 +8,14 @@ net offers a free, uncensored and unlimited web search engine API. qmeta
 
 
 **Categories**:
-- [Search Engine](https://github.com/apis-list/apis-list#search-engine)
+- [Free](https://github.com/apis-list/apis-list#free)
+- [Search](https://github.com/apis-list/apis-list#search)
 - [Web Search](https://github.com/apis-list/apis-list#web-search)
 - [Web](https://github.com/apis-list/apis-list#web)
-- [Free](https://github.com/apis-list/apis-list#free)
+
+
+
+list#free)
 
 
 

@@ -8,7 +8,7 @@ If you don'. Provides multi-carrier shipment tracking APIs. Overview How to get 
 
 
 **Categories**:
-- [Shipping](https://github.com/apis-list/apis-list#shipping)
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
 
 

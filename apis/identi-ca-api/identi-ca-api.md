@@ -8,7 +8,11 @@ It pumps your life in and out of your friends, family and colleagues. Runs pump.
 
 
 **Categories**:
-- [Blogging](https://github.com/apis-list/apis-list#blogging)
+- [Social](https://github.com/apis-list/apis-list#social)
+
+
+
+
 - [Social](https://github.com/apis-list/apis-list#social)
 
 

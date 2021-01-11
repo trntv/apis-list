@@ -6,9 +6,9 @@ This is just part of our ongoing effort t. .  About the Riot Games API With this
 
 
 **Categories**:
-- [Games & Comics](https://github.com/apis-list/apis-list#games-and-comics)
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+- [Games & Comics](https://github.com/apis-list/apis-list#games-and-comics)
 
 
 

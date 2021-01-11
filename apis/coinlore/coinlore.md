@@ -8,8 +8,11 @@ Coinlore presents public free crypto tick data api
 
 
 **Categories**:
-- [Bitcoin/Bitcoin Wallets](https://github.com/apis-list/apis-list#bitcoin-bitcoin-wallets)
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
+
+
+
+ryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
 - [Cryptocurrency](https://github.com/apis-list/apis-list#cryptocurrency)
 
 

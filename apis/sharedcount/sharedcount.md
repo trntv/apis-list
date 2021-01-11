@@ -6,8 +6,8 @@ Social media like and share data for any URL.  Project doesnt exist. yet! Make i
 
 
 **Categories**:
-- [Analytics](https://github.com/apis-list/apis-list#analytics)
 - [Social](https://github.com/apis-list/apis-list#social)
+- [Analytics](https://github.com/apis-list/apis-list#analytics)
 
 
 

@@ -8,10 +8,14 @@ This translates text to ERMAHGERD
 
 
 **Categories**:
+- [Fun](https://github.com/apis-list/apis-list#fun)
 - [Meme](https://github.com/apis-list/apis-list#meme)
 - [Translation](https://github.com/apis-list/apis-list#translation)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-- [Humor](https://github.com/apis-list/apis-list#humor)
+
+
+
+
 
 
 

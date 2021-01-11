@@ -6,9 +6,12 @@ Introduction Welcome to the balldontlie API! You can use our free API to access 
 
 
 **Categories**:
-- [Sports](https://github.com/apis-list/apis-list#sports)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
-- [Sport](https://github.com/apis-list/apis-list#sport)
+- [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
+
+
+
+b.com/apis-list/apis-list#sport)
 
 
 

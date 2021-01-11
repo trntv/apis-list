@@ -8,8 +8,8 @@ Simple API that includes a common data for most of the applications. Like user i
 
 
 **Categories**:
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Development](https://github.com/apis-list/apis-list#development)
+- [Open Data](https://github.com/apis-list/apis-list#open-data)
 
 
 

@@ -9,16 +9,10 @@ Powerful augmented reality apps. Create immersive Augmented Reality experiences 
 
 **Categories**:
 - [Browsers](https://github.com/apis-list/apis-list#browsers)
-- [Mapping](https://github.com/apis-list/apis-list#mapping)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+- [Other](https://github.com/apis-list/apis-list#other)
 - [Augmented Reality](https://github.com/apis-list/apis-list#augmented-reality)
 
-
-
-
-
-
-
-hub/apis-list/apis-list#browsers),
 
 

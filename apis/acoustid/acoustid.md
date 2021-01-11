@@ -6,10 +6,8 @@ Web Service The AcoustID web service currently supports only two operations, sea
 
 
 **Categories**:
+- [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
-- [Media](https://github.com/apis-list/apis-list#media)
-
-
 
 
 

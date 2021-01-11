@@ -6,15 +6,17 @@ Find out how you can use the Microsoft Graph API to connect to the data that dri
 
 
 **Categories**:
+- [Notes](https://github.com/apis-list/apis-list#notes)
+- [Calendar](https://github.com/apis-list/apis-list#calendar)
 - [Contacts](https://github.com/apis-list/apis-list#contacts)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
 - [Directories](https://github.com/apis-list/apis-list#directories)
 - [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
-- [Aggregation](https://github.com/apis-list/apis-list#aggregation)
-- [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
-- [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
-- [Notes](https://github.com/apis-list/apis-list#notes)
-- [Calendars](https://github.com/apis-list/apis-list#calendars)
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
+- [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
+- [Aggregation](https://github.com/apis-list/apis-list#aggregation)
+
+
 
 
 

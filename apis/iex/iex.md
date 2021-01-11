@@ -8,9 +8,12 @@ Free Stocks and Market Data. IEX Cloud is a financial data infrastructure platfo
 
 
 **Categories**:
-- [Financial](https://github.com/apis-list/apis-list#financial)
 - [Open Source](https://github.com/apis-list/apis-list#open-source)
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
+
+
+
+ttps://github.com/apis-list/apis-list#finance-and-economics)
 
 
 

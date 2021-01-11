@@ -9,13 +9,9 @@ Free, powerful JSON API offering international and national phone number validat
 
 **Categories**:
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
-- [API](https://github.com/apis-list/apis-list#api)
+- [Development](https://github.com/apis-list/apis-list#development)
 - [Security](https://github.com/apis-list/apis-list#security)
 - [Communications](https://github.com/apis-list/apis-list#communications)
-
-
-
-
 
 
 

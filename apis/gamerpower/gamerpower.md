@@ -6,11 +6,9 @@ The GamerPower API (Aka Game Giveaway Tracker API) is available for everyone to 
 
 
 **Categories**:
-- [Games & Comics](https://github.com/apis-list/apis-list#games-and-comics)
-- [Rewards](https://github.com/apis-list/apis-list#rewards)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-
-
+- [Games & Comics](https://github.com/apis-list/apis-list#games-and-comics)
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
 
 
 

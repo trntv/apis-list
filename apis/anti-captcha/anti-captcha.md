@@ -10,10 +10,7 @@ Access to Anti-Captcha’s API.  Bypass reCAPTCHA, solve image captchas, hCaptch
 **Categories**:
 - [Recognition](https://github.com/apis-list/apis-list#recognition)
 - [Captcha](https://github.com/apis-list/apis-list#captcha)
-- [Authentication](https://github.com/apis-list/apis-list#authentication)
-
-
-
+- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication-and-user-management)
 
 
 

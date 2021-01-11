@@ -5,18 +5,20 @@
 
 SmartQ is an technology company founded in 2017 with the intention of providing innovative tools for the modern world.  KeyServ is such an instrument that takes the hassle out of subscriptions and warranty tracking systems for the IoT generation. The subscription management service for rapid product development. The Subscription Management Service For Rapid Product Development.  You focus on your process, we manage the fiddly parts! Built for the IOT Generation.  Serial / Tracking keys made easy. Callback support, Robust Scheduler, Clear separation between customer-facing and management. KeyServ Solutions is a product of SmartQ (Pty) Ltd
 
-## Specification:
-**Type**: openapi
-**URI**: https://keyserv.solutions/v1/spec.json
 
 
 **Categories**:
-- [Software-As-A-Service](https://github.com/apis-list/apis-list#software-as-a-service)
-- [Subscriptions](https://github.com/apis-list/apis-list#subscriptions)
-- [Development](https://github.com/apis-list/apis-list#development)
-- [Internet Of Things](https://github.com/apis-list/apis-list#internet-of-things)
-- [Accounts](https://github.com/apis-list/apis-list#accounts)
 - [Hardware](https://github.com/apis-list/apis-list#hardware)
+- [Products](https://github.com/apis-list/apis-list#products)
+- [SaaS](https://github.com/apis-list/apis-list#saas)
+- [Payments](https://github.com/apis-list/apis-list#payments)
+- [Development](https://github.com/apis-list/apis-list#development)
+- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot-and-home-automation)
+- [Accounts](https://github.com/apis-list/apis-list#accounts)
+
+
+
+ware](https://github.com/apis-list/apis-list#hardware)
 - [Products](https://github.com/apis-list/apis-list#products)
 
 

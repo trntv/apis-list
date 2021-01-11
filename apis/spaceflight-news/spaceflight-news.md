@@ -8,8 +8,12 @@ The Spaceflight News API lets you add space related news to your apps
 
 
 **Categories**:
-- [Astronomy](https://github.com/apis-list/apis-list#astronomy)
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
+- [Space](https://github.com/apis-list/apis-list#space)
+
+
+
+eds)
 
 
 

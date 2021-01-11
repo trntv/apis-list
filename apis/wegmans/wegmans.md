@@ -8,8 +8,12 @@ Discover APIs, learn how to use them, try them out interactively, and sign up to
 
 
 **Categories**:
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Shopping](https://github.com/apis-list/apis-list#shopping)
-- [Commerce & Marketplaces](https://github.com/apis-list/apis-list#commerce-and-marketplaces)
+
+
+
+t#commerce-and-marketplaces)
 
 
 

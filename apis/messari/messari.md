@@ -8,10 +8,8 @@ Messari provides an institutional grade Bitcoin and blockchain data API, ranging
 
 
 **Categories**:
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
 - [Currency](https://github.com/apis-list/apis-list#currency)
-- [Cryptocurrency](https://github.com/apis-list/apis-list#cryptocurrency)
-
-
 
 
 

@@ -6,11 +6,15 @@ Analytics Concepts In order to use an analytics API to its maximum potential, it
 
 
 **Categories**:
-- [Enterprise](https://github.com/apis-list/apis-list#enterprise)
-- [Advertising](https://github.com/apis-list/apis-list#advertising)
+- [Business](https://github.com/apis-list/apis-list#business)
 - [Applications](https://github.com/apis-list/apis-list#applications)
 - [Marketing](https://github.com/apis-list/apis-list#marketing)
 - [Mobile](https://github.com/apis-list/apis-list#mobile)
+- [Analytics](https://github.com/apis-list/apis-list#analytics)
+
+
+
+ile)
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
 
 

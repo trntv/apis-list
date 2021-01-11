@@ -8,11 +8,14 @@ Server-side code driving iDigBio's search functionality.  - iDigBio/idigbio-sear
 
 
 **Categories**:
-- [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Education](https://github.com/apis-list/apis-list#education)
 - [Publishing](https://github.com/apis-list/apis-list#publishing)
-- [Math & Science](https://github.com/apis-list/apis-list#math-and-science)
+- [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
+- [Open Data](https://github.com/apis-list/apis-list#open-data)
+
+
+
+Math & Science](https://github.com/apis-list/apis-list#math-and-science)
 
 
 

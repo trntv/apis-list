@@ -7,10 +7,13 @@ We also determine whether a recipe is. Let’s you access over 330,000 recipes a
 
 **Categories**:
 - [Databases](https://github.com/apis-list/apis-list#databases)
-- [Food](https://github.com/apis-list/apis-list#food)
-- [Grocery](https://github.com/apis-list/apis-list#grocery)
 - [Food & Drinks](https://github.com/apis-list/apis-list#food-and-drinks)
-- [Restaurants](https://github.com/apis-list/apis-list#restaurants)
+- [Grocery](https://github.com/apis-list/apis-list#grocery)
+- [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest)
+
+
+
+b.com/apis-list/apis-list#restaurants)
 
 
 

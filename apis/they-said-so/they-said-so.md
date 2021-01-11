@@ -6,9 +6,9 @@
 
 
 **Categories**:
-- [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Religion](https://github.com/apis-list/apis-list#religion)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
 
 
 

@@ -6,10 +6,8 @@ Internal Server Error The server encountered an internal error and was unable to
 
 
 **Categories**:
-- [Screenshots](https://github.com/apis-list/apis-list#screenshots)
+- [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 - [Development](https://github.com/apis-list/apis-list#development)
-
-
 
 
 

@@ -6,10 +6,13 @@ Attention Users 04/08/19 - Added support for eight digit IMDb IDs.  01/20/19 - S
 
 
 **Categories**:
-- [Search](https://github.com/apis-list/apis-list#search)
-- [Movies](https://github.com/apis-list/apis-list#movies)
-- [Media](https://github.com/apis-list/apis-list#media)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
+- [Search](https://github.com/apis-list/apis-list#search)
+
+
+
+m/apis-list/apis-list#video-and-media)
 
 
 

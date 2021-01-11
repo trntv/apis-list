@@ -8,14 +8,18 @@ The Houndify Voice AI platform helps brands build voice user interfaces that enh
 
 
 **Categories**:
+- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot-and-home-automation)
+- [Applications](https://github.com/apis-list/apis-list#applications)
 - [Languages](https://github.com/apis-list/apis-list#languages)
 - [Automation](https://github.com/apis-list/apis-list#automation)
+- [Voice](https://github.com/apis-list/apis-list#voice)
+- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+- [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
 - [Natural Language Processing](https://github.com/apis-list/apis-list#natural-language-processing)
-- [Intelligence](https://github.com/apis-list/apis-list#intelligence)
-- [Applications](https://github.com/apis-list/apis-list#applications)
-- [Internet Of Things](https://github.com/apis-list/apis-list#internet-of-things)
-- [Speech-To-Text](https://github.com/apis-list/apis-list#speech-to-text)
-- [Transcription](https://github.com/apis-list/apis-list#transcription)
+
+
+
+anscription)
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
 - [Voice](https://github.com/apis-list/apis-list#voice)
 - [Speech-To-Meaning](https://github.com/apis-list/apis-list#speech-to-meaning)

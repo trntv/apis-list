@@ -6,14 +6,10 @@ IP Sidekick is an API that returns information about an IP address. You can use 
 
 
 **Categories**:
-- [Location](https://github.com/apis-list/apis-list#location)
-- [API](https://github.com/apis-list/apis-list#api)
+- [Development](https://github.com/apis-list/apis-list#development)
 - [Localization](https://github.com/apis-list/apis-list#localization)
 - [Other](https://github.com/apis-list/apis-list#other)
-
-
-
-
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 
 
 

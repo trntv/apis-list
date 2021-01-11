@@ -9,11 +9,8 @@ Access the Untappd API documentation to power your app or project. . Untappd is 
 
 **Categories**:
 - [Social](https://github.com/apis-list/apis-list#social)
-- [Food](https://github.com/apis-list/apis-list#food)
+- [Food & Drinks](https://github.com/apis-list/apis-list#food-and-drinks)
 - [Beer](https://github.com/apis-list/apis-list#beer)
-
-
-
 
 
 

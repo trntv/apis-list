@@ -8,18 +8,11 @@ API documentation for https://www. harvardartmuseums. org - harvardartmuseums/ap
 
 
 **Categories**:
-- [Education](https://github.com/apis-list/apis-list#education)
-- [Media](https://github.com/apis-list/apis-list#media)
-- [Museums](https://github.com/apis-list/apis-list#museums)
 - [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
 - [Collecting](https://github.com/apis-list/apis-list#collecting)
+- [Education](https://github.com/apis-list/apis-list#education)
+- [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
+- [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest)
 
-
-
-)
-
-
-
-pis-list#art),
 
 

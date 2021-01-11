@@ -8,12 +8,8 @@ Get current weather information, historical data and forecasts using weatherstac
 **Categories**:
 - [Data-As-A-Service](https://github.com/apis-list/apis-list#data-as-a-service)
 - [Weather](https://github.com/apis-list/apis-list#weather)
-- [Development](https://github.com/apis-list/apis-list#development)
-- [Climate](https://github.com/apis-list/apis-list#climate)
-
-
-
-
+- [Environment](https://github.com/apis-list/apis-list#environment)
+- [Open Data](https://github.com/apis-list/apis-list#open-data)
 
 
 

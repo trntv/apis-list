@@ -8,11 +8,11 @@ Except where otherwise noted, content on this site is licensed under a Creative 
 
 
 **Categories**:
+- [Other](https://github.com/apis-list/apis-list#other)
 - [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
 
 
 
-
-ata](https://github/apis-list/apis-list#solar-data), [Design](https://github/apis-list/apis-list#design),
+esign](https://github/apis-list/apis-list#design),
 
 

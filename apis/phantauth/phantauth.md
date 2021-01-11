@@ -5,15 +5,16 @@
 
 Random User Generator + OpenID Connect Provider.  Like Lorem Ipsum, but for user accounts and authentication
 
-## Specification:
-**Type**: openapi
-**URI**: https://www.phantauth.net/api.json
 
 
 **Categories**:
 - [Other](https://github.com/apis-list/apis-list#other)
-- [Authentication](https://github.com/apis-list/apis-list#authentication)
-- [Authorization](https://github.com/apis-list/apis-list#authorization)
+- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication-and-user-management)
+- [Testing](https://github.com/apis-list/apis-list#testing)
+
+
+
+ps://github.com/apis-list/apis-list#authorization)
 - [Testing](https://github.com/apis-list/apis-list#testing)
 
 

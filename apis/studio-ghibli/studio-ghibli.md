@@ -6,14 +6,11 @@ Resources from Studio Ghibli films
 
 
 **Categories**:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Animation](https://github.com/apis-list/apis-list#animation)
 - [Catalogs](https://github.com/apis-list/apis-list#catalogs)
-- [Countries](https://github.com/apis-list/apis-list#countries)
-
-
-
-
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+- [Japanese](https://github.com/apis-list/apis-list#japanese)
 
 
 

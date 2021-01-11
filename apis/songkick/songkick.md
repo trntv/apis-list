@@ -8,8 +8,8 @@ Find live music near you, track your favorite artists, get instant concert alert
 
 
 **Categories**:
-- [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
 - [Events](https://github.com/apis-list/apis-list#events)
+- [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
 
 
 

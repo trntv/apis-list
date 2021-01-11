@@ -6,9 +6,12 @@ The Mapbox Geocoding API does forward geocoding (search place names and return c
 
 
 **Categories**:
-- [Maps](https://github.com/apis-list/apis-list#maps)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Search](https://github.com/apis-list/apis-list#search)
-- [Location](https://github.com/apis-list/apis-list#location)
+
+
+
+s://github.com/apis-list/apis-list#location)
 
 
 

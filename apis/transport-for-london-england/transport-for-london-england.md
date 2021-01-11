@@ -5,12 +5,14 @@
 
 Register To use the Unified API, developers should register for an Application ID and Key. Register To use the Unified API, developers should register for an Application ID and Key. Append the app_id and app_key query parameters to your requests. The public TfL data (or 'open data') rele
 
-## Specification:
-**Type**: swagger
-**URI**: https://api.tfl.gov.uk/swagger/docs/v1
 
 
 **Categories**:
+- [Transportation](https://github.com/apis-list/apis-list#transportation)
+
+
+
+ies**:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
 
 

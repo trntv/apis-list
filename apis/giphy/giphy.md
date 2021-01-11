@@ -8,10 +8,10 @@ Worlds largest library of GIFs
 
 
 **Categories**:
-- [Search](https://github.com/apis-list/apis-list#search)
-- [Images](https://github.com/apis-list/apis-list#images)
 - [Other](https://github.com/apis-list/apis-list#other)
 - [Photography](https://github.com/apis-list/apis-list#photography)
+- [Search](https://github.com/apis-list/apis-list#search)
+- [Images](https://github.com/apis-list/apis-list#images)
 
 
 

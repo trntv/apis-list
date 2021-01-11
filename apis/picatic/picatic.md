@@ -8,14 +8,10 @@ Get started for free. Sell tickets directly from your app or website. The ticket
 
 
 **Categories**:
-- [Payments](https://github.com/apis-list/apis-list#payments)
-- [Registration](https://github.com/apis-list/apis-list#registration)
-- [Tickets](https://github.com/apis-list/apis-list#tickets)
 - [Events](https://github.com/apis-list/apis-list#events)
-
-
-
-
+- [Payments](https://github.com/apis-list/apis-list#payments)
+- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication-and-user-management)
+- [Tickets](https://github.com/apis-list/apis-list#tickets)
 
 
 

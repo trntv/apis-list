@@ -10,10 +10,7 @@ Extract relevant content from articles. ContentXtractor automatically extracts r
 **Categories**:
 - [Content Management](https://github.com/apis-list/apis-list#content-management)
 - [Extraction](https://github.com/apis-list/apis-list#extraction)
-- [Content](https://github.com/apis-list/apis-list#content)
-
-
-
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
 
 
 

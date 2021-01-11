@@ -6,9 +6,12 @@ If you love our service and want extra features you can sign up as a Patreon sup
 
 
 **Categories**:
-- [Alcohol](https://github.com/apis-list/apis-list#alcohol)
-- [Food](https://github.com/apis-list/apis-list#food)
 - [Food & Drinks](https://github.com/apis-list/apis-list#food-and-drinks)
+- [Alcohol](https://github.com/apis-list/apis-list#alcohol)
+
+
+
+://github.com/apis-list/apis-list#food-and-drinks)
 
 
 

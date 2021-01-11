@@ -10,10 +10,8 @@ The SMS Service,allows you to send and receive text messages, of up to 160 chara
 **Categories**:
 - [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
 - [Communications](https://github.com/apis-list/apis-list#communications)
-- [Advertising](https://github.com/apis-list/apis-list#advertising)
-- [France](https://github.com/apis-list/apis-list#france)
-
-
+- [Marketing](https://github.com/apis-list/apis-list#marketing)
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 
 
 

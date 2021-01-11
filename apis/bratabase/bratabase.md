@@ -6,7 +6,11 @@ Bratabase API Widget. Hello Developers! Welcome to the developers corner of Brat
 
 
 **Categories**:
-- [Commerce & Marketplaces](https://github.com/apis-list/apis-list#commerce-and-marketplaces)
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
+
+
+
+t#commerce-and-marketplaces)
 
 
 

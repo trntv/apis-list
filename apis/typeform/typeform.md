@@ -8,10 +8,10 @@ Typeform's APIs allow you to create and edit Typeform surveys, and retrieve surv
 
 
 **Categories**:
+- [Mobile](https://github.com/apis-list/apis-list#mobile)
 - [Surveys](https://github.com/apis-list/apis-list#surveys)
 - [Other](https://github.com/apis-list/apis-list#other)
 - [Tools](https://github.com/apis-list/apis-list#tools)
-- [Mobile](https://github.com/apis-list/apis-list#mobile)
 
 
 

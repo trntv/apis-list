@@ -7,7 +7,10 @@ geoPlugin is a free, fast and reliable Geolocation Webservice API to locate your
 
 **Categories**:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
-- [Mapping](https://github.com/apis-list/apis-list#mapping)
+
+
+
+Mapping](https://github.com/apis-list/apis-list#mapping)
 
 
 

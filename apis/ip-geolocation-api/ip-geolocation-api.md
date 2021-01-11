@@ -7,11 +7,15 @@ Our IP API Stack is served globally with latency based routing.  Our IP Address 
 
 **Categories**:
 - [Geoip](https://github.com/apis-list/apis-list#geoip)
-- [Ip Geolocation](https://github.com/apis-list/apis-list#ip-geolocation)
 - [Ip Lookup](https://github.com/apis-list/apis-list#ip-lookup)
-- [Location](https://github.com/apis-list/apis-list#location)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Currency](https://github.com/apis-list/apis-list#currency)
 - [Geography](https://github.com/apis-list/apis-list#geography)
+- [Time](https://github.com/apis-list/apis-list#time)
+
+
+
+geography)
 - [Time](https://github.com/apis-list/apis-list#time)
 
 

@@ -6,8 +6,8 @@ Email Validation High fidelity email verification at the source - no more bounce
 
 
 **Categories**:
-- [Conversions](https://github.com/apis-list/apis-list#conversions)
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
+- [Conversions](https://github.com/apis-list/apis-list#conversions)
 
 
 

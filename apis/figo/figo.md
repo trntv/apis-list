@@ -8,16 +8,19 @@ Banking API that allows you to extract financial data such as transaction histor
 
 
 **Categories**:
-- [Accounts](https://github.com/apis-list/apis-list#accounts)
-- [European](https://github.com/apis-list/apis-list#european)
-- [API](https://github.com/apis-list/apis-list#api)
 - [REST](https://github.com/apis-list/apis-list#rest)
-- [Financial](https://github.com/apis-list/apis-list#financial)
 - [Payments](https://github.com/apis-list/apis-list#payments)
-- [Aggregation](https://github.com/apis-list/apis-list#aggregation)
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 - [Platform-As-A-Service](https://github.com/apis-list/apis-list#platform-as-a-service)
-- [SDK](https://github.com/apis-list/apis-list#sdk)
-- [Financial / Banking](https://github.com/apis-list/apis-list#financial-banking)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
+- [Accounts](https://github.com/apis-list/apis-list#accounts)
+- [Aggregation](https://github.com/apis-list/apis-list#aggregation)
+- [Banking](https://github.com/apis-list/apis-list#banking)
+- [Development](https://github.com/apis-list/apis-list#development)
+
+
+
+t/apis-list#financial-banking)
 - [Banking](https://github.com/apis-list/apis-list#banking)
 
 

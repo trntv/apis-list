@@ -6,9 +6,9 @@ At our core, we maintain a custom datastore that queries your data in a fast, sc
 
 
 **Categories**:
+- [Analytics](https://github.com/apis-list/apis-list#analytics)
 - [Mobile](https://github.com/apis-list/apis-list#mobile)
 - [Real Time](https://github.com/apis-list/apis-list#real-time)
-- [Analytics](https://github.com/apis-list/apis-list#analytics)
 
 
 

@@ -8,8 +8,8 @@ Enables developers to read and write data to Spreaker.  Get started with one of 
 
 
 **Categories**:
-- [Podcasts](https://github.com/apis-list/apis-list#podcasts)
 - [Other](https://github.com/apis-list/apis-list#other)
+- [Podcasts](https://github.com/apis-list/apis-list#podcasts)
 
 
 

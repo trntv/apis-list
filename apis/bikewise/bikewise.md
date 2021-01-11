@@ -6,8 +6,11 @@ Posting in the future we will accept incidents, r. BikeWise API General notes: T
 
 
 **Categories**:
-- [Sport](https://github.com/apis-list/apis-list#sport)
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
+
+
+
+://github.com/apis-list/apis-list#sport-and-fitness)
 - [Cycling](https://github.com/apis-list/apis-list#cycling)
 
 

@@ -8,8 +8,8 @@ Contribute to reddit-archive/reddit development by creating an account on GitHub
 
 
 **Categories**:
-- [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
 - [Social](https://github.com/apis-list/apis-list#social)
+- [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
 
 
 

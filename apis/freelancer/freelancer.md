@@ -8,13 +8,17 @@ Hire in any profession you can think of using our API, on demand–developers, d
 
 
 **Categories**:
-- [Machine Learning](https://github.com/apis-list/apis-list#machine-learning)
-- [Commerce & Marketplaces](https://github.com/apis-list/apis-list#commerce-and-marketplaces)
 - [Business](https://github.com/apis-list/apis-list#business)
 - [Tasks](https://github.com/apis-list/apis-list#tasks)
 - [Automation](https://github.com/apis-list/apis-list#automation)
 - [Cloud](https://github.com/apis-list/apis-list#cloud)
 - [Crowdsourcing](https://github.com/apis-list/apis-list#crowdsourcing)
+- [Machine Learning](https://github.com/apis-list/apis-list#machine-learning)
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
+
+
+
+ist/apis-list#crowdsourcing)
 
 
 

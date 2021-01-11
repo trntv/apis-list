@@ -6,8 +6,8 @@ Support The API and site will always remain free to access at its basic level. I
 
 
 **Categories**:
-- [Directories](https://github.com/apis-list/apis-list#directories)
 - [Databases](https://github.com/apis-list/apis-list#databases)
+- [Directories](https://github.com/apis-list/apis-list#directories)
 
 
 

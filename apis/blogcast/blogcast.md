@@ -6,12 +6,16 @@ Generate audio versions of your articles. Create realistic voice overs for blogs
 
 
 **Categories**:
-- [Blogging](https://github.com/apis-list/apis-list#blogging)
+- [Voice](https://github.com/apis-list/apis-list#voice)
+- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+- [Social](https://github.com/apis-list/apis-list#social)
 - [Conversions](https://github.com/apis-list/apis-list#conversions)
 - [Podcasts](https://github.com/apis-list/apis-list#podcasts)
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
-- [Voice](https://github.com/apis-list/apis-list#voice)
-- [Artificial Intelligence](https://github.com/apis-list/apis-list#artificial-intelligence)
+
+
+
+-list#artificial-intelligence)
 
 
 

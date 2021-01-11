@@ -8,11 +8,14 @@ Plaid helps companies build fintech solutions by making it easy, safe and reliab
 
 
 **Categories**:
-- [Banking](https://github.com/apis-list/apis-list#banking)
 - [Payments](https://github.com/apis-list/apis-list#payments)
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
-- [Financial](https://github.com/apis-list/apis-list#financial)
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
+- [Banking](https://github.com/apis-list/apis-list#banking)
+
+
+
+Analytics](https://github.com/apis-list/apis-list#analytics)
 
 
 

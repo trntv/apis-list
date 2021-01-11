@@ -7,8 +7,11 @@ An open, programmatic interface for controlling smart devices The SmartThings pl
 
 **Categories**:
 - [Automation](https://github.com/apis-list/apis-list#automation)
-- [Internet Of Things](https://github.com/apis-list/apis-list#internet-of-things)
 - [IoT & Home Automation](https://github.com/apis-list/apis-list#iot-and-home-automation)
+
+
+
+me Automation](https://github.com/apis-list/apis-list#iot-and-home-automation)
 
 
 

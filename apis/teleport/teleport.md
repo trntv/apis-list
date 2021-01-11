@@ -10,13 +10,9 @@ Welcome to Teleport for Developers! We're building the largest and most up-to-da
 **Categories**:
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Cameras](https://github.com/apis-list/apis-list#cameras)
-- [Feeds](https://github.com/apis-list/apis-list#feeds)
+- [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
-
-
-
-)
 
 
 

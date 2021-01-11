@@ -8,8 +8,8 @@ Enables easy integration of Google natural language understanding technologies i
 
 
 **Categories**:
-- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
+- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 
 
 

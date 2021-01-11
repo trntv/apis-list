@@ -6,12 +6,16 @@ Allows greater developer access to native Yelp data and features.  Yelp for Deve
 
 
 **Categories**:
-- [Localization](https://github.com/apis-list/apis-list#localization)
-- [Recommendations](https://github.com/apis-list/apis-list#recommendations)
+- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Search](https://github.com/apis-list/apis-list#search)
 - [Business](https://github.com/apis-list/apis-list#business)
 - [Directories](https://github.com/apis-list/apis-list#directories)
-- [Commerce & Marketplaces](https://github.com/apis-list/apis-list#commerce-and-marketplaces)
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
+- [Localization](https://github.com/apis-list/apis-list#localization)
+
+
+
+-list/apis-list#commerce-and-marketplaces)
 
 
 

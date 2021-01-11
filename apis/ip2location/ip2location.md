@@ -8,10 +8,13 @@ IP Address Geolocation to Country, City, Region, Latitude, Longitude, ZIP Code, 
 
 
 **Categories**:
-- [Advertising](https://github.com/apis-list/apis-list#advertising)
-- [API](https://github.com/apis-list/apis-list#api)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
-- [Mapping](https://github.com/apis-list/apis-list#mapping)
+- [Marketing](https://github.com/apis-list/apis-list#marketing)
+- [Development](https://github.com/apis-list/apis-list#development)
+
+
+
+ps://github.com/apis-list/apis-list#mapping)
 
 
 

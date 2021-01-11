@@ -7,7 +7,7 @@ Integrate our Application Programming Interfaces (APIs) with your back-end syste
 
 **Categories**:
 - [Tracking](https://github.com/apis-list/apis-list#tracking)
-- [Shipping](https://github.com/apis-list/apis-list#shipping)
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 
 

@@ -8,7 +8,11 @@ Our endpoints include face detection (detect 1 or multiple faces), face matching
 
 
 **Categories**:
-- [Facial Recognition](https://github.com/apis-list/apis-list#facial-recognition)
+- [Recognition](https://github.com/apis-list/apis-list#recognition)
+
+
+
+cognition)
 
 
 

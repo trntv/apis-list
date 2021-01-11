@@ -9,11 +9,8 @@ Since 2005 Tunefind has been the leading site dedicated to tracking the music fe
 
 **Categories**:
 - [Databases](https://github.com/apis-list/apis-list#databases)
-- [Movies](https://github.com/apis-list/apis-list#movies)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
-
-
-
 
 
 

@@ -8,9 +8,13 @@ Gumroad helps creators do more of what they love by offering tools to get paid o
 
 
 **Categories**:
-- [Social](https://github.com/apis-list/apis-list#social)
-- [Commerce & Marketplaces](https://github.com/apis-list/apis-list#commerce-and-marketplaces)
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Payments](https://github.com/apis-list/apis-list#payments)
+- [Social](https://github.com/apis-list/apis-list#social)
+
+
+
+pis-list/apis-list#payments)
 
 
 

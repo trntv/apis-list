@@ -8,8 +8,11 @@ Cryptocurrencies price API, prices denoted in USD, EUR, CNY, GBP, RUB
 
 
 **Categories**:
-- [Cryptocurrency](https://github.com/apis-list/apis-list#cryptocurrency)
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
+
+
+
+ttps://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
 
 
 
