@@ -19,7 +19,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 
 ## APIs
 {{ range $category, $apis := .apis }}
-{{- $length := len $apis }} {{ if eq $length 0 -}}
+{{- $length := len $apis }} {{ if gt $length 0 -}}
 ### {{ $category }}
 {{ range $apis -}}
 {{- if eq .IsActive true -}}
