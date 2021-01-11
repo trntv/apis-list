@@ -10,14 +10,12 @@ This is a default index page for a new domain. Cloud Wallet enables closed-loop 
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 - [IoT & Home Automation](https://github.com/apis-list/apis-list#iot-and-home-automation)
 - [Cloud](https://github.com/apis-list/apis-list#cloud)
-
-
 
 
 

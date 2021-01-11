@@ -10,19 +10,13 @@ Convert a WGS84 latitude and longitude to OSGB36 easting and northing (British N
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Geography](https://github.com/apis-list/apis-list#geography)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Postal](https://github.com/apis-list/apis-list#postal)
-
-
-
-
-
-apis-list#geography)
 
 
 

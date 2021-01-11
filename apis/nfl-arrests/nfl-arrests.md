@@ -10,12 +10,10 @@ If this is your site, make sure that the filename case matches the URL.  For roo
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
-
-
 
 
 

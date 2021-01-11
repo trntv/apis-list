@@ -10,15 +10,13 @@ Enables developers to create web and mobile applications that find local busines
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Search](https://github.com/apis-list/apis-list#search)
 - [Localization](https://github.com/apis-list/apis-list#localization)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
-
-
 
 
 

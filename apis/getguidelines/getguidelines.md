@@ -11,12 +11,10 @@ Use biometric and demographic data to search the same medical references used by
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Health](https://github.com/apis-list/apis-list#health)
-
-
 
 
 

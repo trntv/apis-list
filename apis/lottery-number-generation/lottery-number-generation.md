@@ -10,7 +10,7 @@ Hundereds of lottery games from various countries are supported. Generate lotter
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Random](https://github.com/apis-list/apis-list#random)
@@ -19,8 +19,6 @@ Hundereds of lottery games from various countries are supported. Generate lotter
 - [Other](https://github.com/apis-list/apis-list#other)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Casino & Gambling](https://github.com/apis-list/apis-list#casino-and-gambling)
-
-
 
 
 

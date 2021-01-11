@@ -10,13 +10,11 @@ Use the links below to find out more about constructing request URLs, different 
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Photography](https://github.com/apis-list/apis-list#photography)
 - [Social](https://github.com/apis-list/apis-list#social)
-
-
 
 
 

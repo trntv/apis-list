@@ -1,6 +1,6 @@
 # Scrape Website Email
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/scrape-website-email/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/scrape-website-email/logo_256x256.png" />
 </p>
 
 Grabs email addresses from a URL
@@ -12,14 +12,12 @@ Grabs email addresses from a URL
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Extraction](https://github.com/apis-list/apis-list#extraction)
 - [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
-
-
 
 
 

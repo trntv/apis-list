@@ -1,6 +1,6 @@
 # Pdfshift 
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/pdfshift/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pdfshift/logo_256x256.png" />
 </p>
 
 An API to convert HTML/CSS documents to PDF. PDFShift is the reliable, Up-to-date and high-fidelity conversion API with no maintenance costs. Convert any HTML documents to high-fidelity PDF in one single POST request. 
@@ -13,7 +13,7 @@ The service is focused to help developers set up the conversion quickly and focu
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [SaaS](https://github.com/apis-list/apis-list#saas)
@@ -23,10 +23,7 @@ The service is focused to help developers set up the conversion quickly and focu
 
 
 
-
-
-m/apis-list/apis-list#api)
-- [Api](https://github.com/apis-list/apis-list#api)
+/apis-list/apis-list#api)
 
 
 

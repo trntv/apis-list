@@ -10,12 +10,10 @@ Discover open source libraries, modules and frameworks you can use in your code.
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Open Source](https://github.com/apis-list/apis-list#open-source)
-
-
 
 
 

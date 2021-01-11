@@ -1,6 +1,6 @@
 # Consumer Financial Protection Bureau
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/consumer-financial-protection-bureau/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/consumer-financial-protection-bureau/logo_256x256.png" />
 </p>
 
 Financial services consumer complaint data
@@ -12,12 +12,10 @@ Financial services consumer complaint data
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
-
-
 
 
 

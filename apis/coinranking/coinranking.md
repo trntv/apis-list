@@ -10,13 +10,11 @@ Base url: https://api. coinranking. com/v2. Introduction Power your projects wit
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
-
-
 
 
 

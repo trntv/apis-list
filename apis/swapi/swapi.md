@@ -10,12 +10,10 @@ A Remake of the original api, using the MERN stack. A Remake of the original api
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
-
-
 
 
 

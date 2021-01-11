@@ -10,14 +10,12 @@ Allows you to generate maps based on data hosted in your CartoDB account.  Docum
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Databases](https://github.com/apis-list/apis-list#databases)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
-
-
 
 
 

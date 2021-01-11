@@ -10,12 +10,10 @@ We plan on adding all of our publicly available data sets. 997bae7.  Reference #
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Government](https://github.com/apis-list/apis-list#government)
-
-
 
 
 

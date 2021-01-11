@@ -10,15 +10,13 @@ Detect language(s) from pieces of text
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Recognition](https://github.com/apis-list/apis-list#recognition)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Language](https://github.com/apis-list/apis-list#language)
 - [Languages](https://github.com/apis-list/apis-list#languages)
-
-
 
 
 

@@ -10,12 +10,10 @@ The Crypto monitor API provides bots that show savings in cryptocurrencies.  Bad
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
-
-
 
 
 

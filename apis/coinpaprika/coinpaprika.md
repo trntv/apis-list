@@ -10,7 +10,7 @@ Cryptocurrencies prices, market capitalization, volume and more.
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
@@ -19,9 +19,7 @@ Cryptocurrencies prices, market capitalization, volume and more.
 
 
 
-
-
-s-list/apis-list#blockchain-and-cryptocurrencies)
+)
 
 
 

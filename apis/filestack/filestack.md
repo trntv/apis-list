@@ -10,7 +10,7 @@ API for image and file manipulation, 250 uploads and 500 uploads per month for f
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Editing](https://github.com/apis-list/apis-list#editing)
@@ -18,8 +18,6 @@ API for image and file manipulation, 250 uploads and 500 uploads per month for f
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
 - [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
 - [Cloud](https://github.com/apis-list/apis-list#cloud)
-
-
 
 
 

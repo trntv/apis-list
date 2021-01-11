@@ -10,7 +10,7 @@ Lightning API for real-time and historical data feeds. Lightning API for real-ti
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
@@ -18,14 +18,6 @@ Lightning API for real-time and historical data feeds. Lightning API for real-ti
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
 
 
-
-
-
-.com/apis-list/apis-list#cryptocurrency)
-
-
-
-s)
 
 
 

@@ -10,7 +10,7 @@ backends. contrib. 1', 'vpn. anode. Enrich your contact lists with intelligent d
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
@@ -22,10 +22,7 @@ backends. contrib. 1', 'vpn. anode. Enrich your contact lists with intelligent d
 
 
 
-
-
-ist#customer-relationship-management)
-- [People](https://github.com/apis-list/apis-list#people)
+(https://github.com/apis-list/apis-list#people)
 
 
 

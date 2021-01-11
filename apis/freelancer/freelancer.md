@@ -1,6 +1,6 @@
 # Freelancer
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/freelancer/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/freelancer/logo_256x256.png" />
 </p>
 
 Hire in any profession you can think of using our API, on demand–developers, designers, photographers, copywriters, delivery people, manufacturers and more.  Task humans from software. Task humans from software
@@ -12,7 +12,7 @@ Hire in any profession you can think of using our API, on demand–developers, d
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Jobs](https://github.com/apis-list/apis-list#jobs)
@@ -21,9 +21,7 @@ Hire in any profession you can think of using our API, on demand–developers, d
 
 
 
-
-
-(https://github.com/apis-list/apis-list#machine-learning)
+ing)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 
 

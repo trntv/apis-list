@@ -10,12 +10,10 @@ A RESTful API for quotes.  The database currently includes more than 75000 quote
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Health](https://github.com/apis-list/apis-list#health)
-
-
 
 
 

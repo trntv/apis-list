@@ -1,6 +1,6 @@
 # Ais Web
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/ais-web/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ais-web/logo_256x256.png" />
 </p>
 
 Aeronautical information in digital media produced by the Department of Airspace Control (DECEA)
@@ -12,12 +12,10 @@ Aeronautical information in digital media produced by the Department of Airspace
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
-
-
 
 
 

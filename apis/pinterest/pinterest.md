@@ -1,6 +1,6 @@
 # Pinterest
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/pinterest/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pinterest/logo_256x256.png" />
 </p>
 
 Enables apps to view the most clicked-through or repinned Pins, view related posts, and user profiles.  Discover recipes, home ideas, style inspiration and other ideas to try
@@ -12,13 +12,11 @@ Enables apps to view the most clicked-through or repinned Pins, view related pos
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Social](https://github.com/apis-list/apis-list#social)
-
-
 
 
 

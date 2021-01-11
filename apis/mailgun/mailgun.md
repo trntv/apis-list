@@ -10,12 +10,10 @@ Learn more today!. Transactional Email API Service For Developers. Free first 10
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
-
-
 
 
 

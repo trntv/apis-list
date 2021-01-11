@@ -10,12 +10,10 @@ BART API The BART API gives you access to pretty much all of the BART service an
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
-
-
 
 
 

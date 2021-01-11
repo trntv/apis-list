@@ -1,6 +1,6 @@
 # AudD
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/audd/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/audd/logo_256x256.png" />
 </p>
 
 AudD Music Recognition API Docs: how to identify songs in audio using our API
@@ -12,7 +12,7 @@ AudD Music Recognition API Docs: how to identify songs in audio using our API
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
@@ -20,8 +20,6 @@ AudD Music Recognition API Docs: how to identify songs in audio using our API
 - [Recognition](https://github.com/apis-list/apis-list#recognition)
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
 - [Development](https://github.com/apis-list/apis-list#development)
-
-
 
 
 

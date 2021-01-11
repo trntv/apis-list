@@ -10,7 +10,7 @@ Gives you access to 1000s of Trivia questions. Your browser will redirect to you
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Trivia](https://github.com/apis-list/apis-list#trivia)
@@ -18,10 +18,7 @@ Gives you access to 1000s of Trivia questions. Your browser will redirect to you
 
 
 
-
-
-st/apis-list#trivia)
-- [Games & Comics](https://github.com/apis-list/apis-list#games-and-comics)
+github.com/apis-list/apis-list#games-and-comics)
 - [Government](https://github.com/apis-list/apis-list#government)
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
 

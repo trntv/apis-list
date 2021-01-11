@@ -10,12 +10,10 @@ about “Terms of Service; Didn't Read” (short: ToS;DR) is a project started i
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Open Licenses](https://github.com/apis-list/apis-list#open-licenses)
-
-
 
 
 

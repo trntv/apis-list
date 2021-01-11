@@ -1,6 +1,6 @@
 # Axfr Database
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/axfr-database/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/axfr-database/logo_256x256.png" />
 </p>
 
 AXFR public database
@@ -12,12 +12,10 @@ AXFR public database
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Security](https://github.com/apis-list/apis-list#security)
-
-
 
 
 

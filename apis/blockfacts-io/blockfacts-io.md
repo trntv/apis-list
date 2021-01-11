@@ -1,6 +1,6 @@
 # BlockFacts.io
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/blockfacts-io/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/blockfacts-io/logo_256x256.png" />
 </p>
 
 SDKs for integration, rich historic tick data.  AllMarkets - US stock market: real-time, stock quotes, stock screener, stock charts and cryptocurrencies
@@ -13,13 +13,11 @@ SDKs for integration, rich historic tick data.  AllMarkets - US stock market: re
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
-
-
 
 
 

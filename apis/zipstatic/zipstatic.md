@@ -10,12 +10,10 @@ Ziptastic API is a super easy to use API that returns the Country, State, City o
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
-
-
 
 
 

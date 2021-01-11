@@ -10,12 +10,10 @@ The API is open source! Contribute directly to the API by writing code, document
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
-
-
 
 
 

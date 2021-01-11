@@ -10,7 +10,7 @@ Multilingual summarization, keywords and sentiment analysis, language recognitio
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Aggregation](https://github.com/apis-list/apis-list#aggregation)
@@ -28,8 +28,6 @@ Multilingual summarization, keywords and sentiment analysis, language recognitio
 
 
 
-
-github.com/apis-list/apis-list#machine-learning)
 
 
 

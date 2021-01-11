@@ -10,12 +10,10 @@ Sign In Register Welcome to the Lufthansa Developer Network!. Use the data of Eu
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Travel](https://github.com/apis-list/apis-list#travel)
-
-
 
 
 

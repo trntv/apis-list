@@ -10,12 +10,10 @@ Collaborative open source project led by the Government of Canada. Collaborative
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Government](https://github.com/apis-list/apis-list#government)
-
-
 
 
 

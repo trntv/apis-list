@@ -10,7 +10,7 @@ We can't find what you're looking for. Crime, school and transportation data for
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
@@ -21,16 +21,6 @@ We can't find what you're looking for. Crime, school and transportation data for
 - [Planning](https://github.com/apis-list/apis-list#planning)
 - [Education](https://github.com/apis-list/apis-list#education)
 - [Real Estate](https://github.com/apis-list/apis-list#real-estate)
-
-
-
-
-
-aphics)
-
-
-
-cation)
 
 
 

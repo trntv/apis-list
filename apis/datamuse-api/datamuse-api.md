@@ -10,7 +10,7 @@ You can use it in your apps to find words that match a given set o. Word-finding
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
@@ -22,8 +22,6 @@ You can use it in your apps to find words that match a given set o. Word-finding
 - [Writing](https://github.com/apis-list/apis-list#writing)
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
-
-
 
 
 

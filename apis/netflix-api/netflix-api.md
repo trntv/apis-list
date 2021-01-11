@@ -10,12 +10,10 @@ The service that handles the (sign-up, discovery and playback) traffic from all 
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
-
-
 
 
 

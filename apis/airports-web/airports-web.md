@@ -10,12 +10,10 @@ Covered Airports mostly Germany. Request Airport name and website URL for airpor
 **URI**: https://airport-web.appspot.com/api/docs/swagger.json
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Other](https://github.com/apis-list/apis-list#other)
-
-
 
 
 

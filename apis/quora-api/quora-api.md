@@ -10,13 +10,11 @@ Connect the people who have knowledge to the people who need it, to bring togeth
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Social](https://github.com/apis-list/apis-list#social)
-
-
 
 
 

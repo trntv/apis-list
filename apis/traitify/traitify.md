@@ -10,7 +10,7 @@ Traitify API documentation and developer portal. Traitify API documentation and 
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
@@ -18,8 +18,6 @@ Traitify API documentation and developer portal. Traitify API documentation and 
 - [Testing](https://github.com/apis-list/apis-list#testing)
 - [Health](https://github.com/apis-list/apis-list#health)
 - [Personality](https://github.com/apis-list/apis-list#personality)
-
-
 
 
 

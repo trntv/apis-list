@@ -1,6 +1,6 @@
 # WakaTime
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/wakatime/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wakatime/logo_256x256.png" />
 </p>
 
 Developer reference documentation for the WakaTime API.  Developer reference documentation for the WakaTime API
@@ -12,12 +12,10 @@ Developer reference documentation for the WakaTime API.  Developer reference doc
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
-
-
 
 
 

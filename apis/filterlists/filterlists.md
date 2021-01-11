@@ -10,12 +10,10 @@ By Collin M. Barrett. FilterLists is the independent, comprehensive directory of
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Security](https://github.com/apis-list/apis-list#security)
-
-
 
 
 

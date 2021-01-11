@@ -10,12 +10,10 @@ Welcome to the PredictBGL API The PredictBGL API allows you to build the power o
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Health](https://github.com/apis-list/apis-list#health)
-
-
 
 
 

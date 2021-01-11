@@ -10,12 +10,10 @@ Bratabase API Widget. Hello Developers! Welcome to the developers corner of Brat
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
-
-
 
 
 

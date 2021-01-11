@@ -10,12 +10,10 @@ A description of all of the nouns in vedic literature, including the flora, faun
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Other](https://github.com/apis-list/apis-list#other)
-
-
 
 
 

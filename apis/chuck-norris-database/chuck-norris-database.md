@@ -10,12 +10,10 @@ API for online Chuck Norris jokes database
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Fun](https://github.com/apis-list/apis-list#fun)
-
-
 
 
 

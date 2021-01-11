@@ -1,6 +1,6 @@
 # Elis
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/elis/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/elis/logo_256x256.png" />
 </p>
 
 Automate data extraction from your documents with Artificial Intelligence
@@ -12,7 +12,7 @@ Automate data extraction from your documents with Artificial Intelligence
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Payments](https://github.com/apis-list/apis-list#payments)
@@ -20,8 +20,6 @@ Automate data extraction from your documents with Artificial Intelligence
 - [Machine Learning](https://github.com/apis-list/apis-list#machine-learning)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
-
-
 
 
 

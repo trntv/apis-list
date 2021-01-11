@@ -10,12 +10,10 @@ A check-in made to a location-based Page
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Check-In](https://github.com/apis-list/apis-list#check-in)
-
-
 
 
 

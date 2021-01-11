@@ -10,7 +10,7 @@ Find out how you can use the Microsoft Graph API to connect to the data that dri
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Aggregation](https://github.com/apis-list/apis-list#aggregation)
@@ -21,8 +21,6 @@ Find out how you can use the Microsoft Graph API to connect to the data that dri
 - [CRM](https://github.com/apis-list/apis-list#crm)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
 - [Directories](https://github.com/apis-list/apis-list#directories)
-
-
 
 
 

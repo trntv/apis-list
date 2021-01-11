@@ -1,6 +1,6 @@
 # Smartcar
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/smartcar/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/smartcar/logo_256x256.png" />
 </p>
 
 Build web and mobile apps that communicate with vehicles
@@ -12,7 +12,7 @@ Build web and mobile apps that communicate with vehicles
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [SaaS](https://github.com/apis-list/apis-list#saas)
@@ -21,8 +21,6 @@ Build web and mobile apps that communicate with vehicles
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Platform-As-A-Service](https://github.com/apis-list/apis-list#platform-as-a-service)
-
-
 
 
 

@@ -10,15 +10,13 @@ Download one of the library to et started.  Full API to take screenshots of any 
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 - [Business](https://github.com/apis-list/apis-list#business)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Browsers](https://github.com/apis-list/apis-list#browsers)
-
-
 
 
 

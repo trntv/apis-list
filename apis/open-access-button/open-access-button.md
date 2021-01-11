@@ -10,7 +10,7 @@ Free, legal research articles delivered instantly or automatically requested fro
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
@@ -19,8 +19,6 @@ Free, legal research articles delivered instantly or automatically requested fro
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
-
-
 
 
 

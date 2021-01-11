@@ -1,6 +1,6 @@
 # Scrapingbee
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/scrapingbee/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/scrapingbee/logo_256x256.png" />
 </p>
 
 Scraping is hard, scraping at scale can be very challenging.  
@@ -18,15 +18,13 @@ ScrapingBee is a simple API that does all the above for you. It is truly the mos
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers-and-data-mining)
 - [Data-As-A-Service](https://github.com/apis-list/apis-list#data-as-a-service)
 - [Extraction](https://github.com/apis-list/apis-list#extraction)
 - [SaaS](https://github.com/apis-list/apis-list#saas)
-
-
 
 
 

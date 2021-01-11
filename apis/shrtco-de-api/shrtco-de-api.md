@@ -1,6 +1,6 @@
 # Shrtco.De Api
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/shrtco-de-api/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/shrtco-de-api/logo_256x256.png" />
 </p>
 
 Secure and reliable Online Tools. Free URL Shortener API without limits
@@ -12,12 +12,10 @@ Secure and reliable Online Tools. Free URL Shortener API without limits
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [URL Shortening](https://github.com/apis-list/apis-list#url-shortening)
-
-
 
 
 

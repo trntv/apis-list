@@ -10,15 +10,13 @@ Barzahlen API v2 allows you to create payment, payout, and refund slips customer
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Payments](https://github.com/apis-list/apis-list#payments)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
 - [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 - [Merchants](https://github.com/apis-list/apis-list#merchants)
-
-
 
 
 

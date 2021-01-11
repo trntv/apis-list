@@ -10,12 +10,10 @@ If you love our service and find this site useful you can sign up as a Patreon s
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Databases](https://github.com/apis-list/apis-list#databases)
-
-
 
 
 

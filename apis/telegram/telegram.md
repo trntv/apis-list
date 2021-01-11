@@ -10,7 +10,7 @@ We offer two kinds of APIs for developers.  The Bot API allows you to easily cre
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Mobile](https://github.com/apis-list/apis-list#mobile)
@@ -18,8 +18,6 @@ We offer two kinds of APIs for developers.  The Bot API allows you to easily cre
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
-
-
 
 
 

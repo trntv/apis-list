@@ -1,6 +1,6 @@
 # WhatPulse
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/whatpulse/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/whatpulse/logo_256x256.png" />
 </p>
 
 Get to know your time with your computer
@@ -12,12 +12,10 @@ Get to know your time with your computer
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
-
-
 
 
 

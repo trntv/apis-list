@@ -10,12 +10,10 @@ Free JSON data storage service, ideal for small scale web apps, website, mobile 
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Other](https://github.com/apis-list/apis-list#other)
-
-
 
 
 

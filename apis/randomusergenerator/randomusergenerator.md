@@ -10,13 +10,11 @@ Random user generator is a FREE API for generating placeholder user information.
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Testing](https://github.com/apis-list/apis-list#testing)
 - [Other](https://github.com/apis-list/apis-list#other)
-
-
 
 
 

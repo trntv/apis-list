@@ -10,13 +10,11 @@ Aadhaar is a 12-digit unique identification number issued by the Indian governme
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Government](https://github.com/apis-list/apis-list#government)
 - [Worldwide](https://github.com/apis-list/apis-list#worldwide)
-
-
 
 
 

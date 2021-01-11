@@ -10,7 +10,7 @@ Search makeup products
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Health](https://github.com/apis-list/apis-list#health)
@@ -19,10 +19,7 @@ Search makeup products
 
 
 
-
-
-is-list/apis-list#open-data)
-- [Fashion](https://github.com/apis-list/apis-list#fashion)
+/github.com/apis-list/apis-list#fashion)
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Health](https://github.com/apis-list/apis-list#health)
 

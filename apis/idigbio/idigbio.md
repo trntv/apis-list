@@ -1,6 +1,6 @@
 # iDigBio
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/idigbio/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/idigbio/logo_256x256.png" />
 </p>
 
 Making data and images of millions of biological specimens available on the web
@@ -12,7 +12,7 @@ Making data and images of millions of biological specimens available on the web
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Animals](https://github.com/apis-list/apis-list#animals)
@@ -20,9 +20,7 @@ Making data and images of millions of biological specimens available on the web
 
 
 
-
-
-(https://github.com/apis-list/apis-list#math-and-science)
+nce)
 
 
 

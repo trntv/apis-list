@@ -10,12 +10,10 @@ The GitHub Jobs API allows you to search, and view jobs with JSON over HTTP.  To
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Jobs](https://github.com/apis-list/apis-list#jobs)
-
-
 
 
 

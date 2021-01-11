@@ -10,12 +10,10 @@ API Documentation This is version 3 of the shrturi. com API. It follows common R
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [URL Shortening](https://github.com/apis-list/apis-list#url-shortening)
-
-
 
 
 

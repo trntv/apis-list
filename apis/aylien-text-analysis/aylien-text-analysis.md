@@ -10,7 +10,7 @@ Explore AYLIEN’s advanced NLP APIs.  Explore AYLIEN’s advanced NLP APIs
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
@@ -19,8 +19,6 @@ Explore AYLIEN’s advanced NLP APIs.  Explore AYLIEN’s advanced NLP APIs
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
 - [Language](https://github.com/apis-list/apis-list#language)
 - [Text](https://github.com/apis-list/apis-list#text)
-
-
 
 
 

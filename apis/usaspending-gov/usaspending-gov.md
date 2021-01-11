@@ -10,12 +10,10 @@ Announcement The USASpending API is in V2. V1 endpoints are currently Deprecated
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Government](https://github.com/apis-list/apis-list#government)
-
-
 
 
 

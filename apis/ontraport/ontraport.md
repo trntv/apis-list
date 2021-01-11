@@ -10,7 +10,7 @@ Introduction The base URL for all of the requests detailed in this documentation
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [CRM](https://github.com/apis-list/apis-list#crm)
@@ -18,8 +18,6 @@ Introduction The base URL for all of the requests detailed in this documentation
 - [Marketing](https://github.com/apis-list/apis-list#marketing)
 - [Business](https://github.com/apis-list/apis-list#business)
 - [Automation](https://github.com/apis-list/apis-list#automation)
-
-
 
 
 

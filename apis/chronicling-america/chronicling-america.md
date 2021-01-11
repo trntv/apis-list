@@ -10,14 +10,12 @@ Newspaper Directory to find information about American newspapers published betw
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [History](https://github.com/apis-list/apis-list#history)
 - [Reference](https://github.com/apis-list/apis-list#reference)
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
-
-
 
 
 

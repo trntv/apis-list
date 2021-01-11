@@ -10,12 +10,10 @@ If you're interested in . Offers access to public read-only data such as searchi
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
-
-
 
 
 

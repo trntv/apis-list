@@ -10,13 +10,11 @@
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
 - [Social](https://github.com/apis-list/apis-list#social)
-
-
 
 
 

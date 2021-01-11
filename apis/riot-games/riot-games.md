@@ -10,7 +10,7 @@ Provide the League of Legends developer community with access to game data in a 
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
@@ -19,10 +19,7 @@ Provide the League of Legends developer community with access to game data in a 
 
 
 
-
-
-hub.com/apis-list/apis-list#entertainment)
-- [Games & Comics](https://github.com/apis-list/apis-list#games-and-comics)
+mes & Comics](https://github.com/apis-list/apis-list#games-and-comics)
 
 
 

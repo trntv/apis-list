@@ -10,7 +10,7 @@ Countly is the best analytics platform to understand and enhance customer journe
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
@@ -18,8 +18,6 @@ Countly is the best analytics platform to understand and enhance customer journe
 - [Authentication & User Management](https://github.com/apis-list/apis-list#authentication-and-user-management)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Open Source](https://github.com/apis-list/apis-list#open-source)
-
-
 
 
 

@@ -1,6 +1,6 @@
 # Houndify
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/houndify/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/houndify/logo_256x256.png" />
 </p>
 
 The Houndify Voice AI platform helps brands build voice user interfaces that enhance brand identity and retain data ownership and customer relationships. Integrate voice and conversational intelligence into your products through an independent platform that is always learning
@@ -12,7 +12,7 @@ The Houndify Voice AI platform helps brands build voice user interfaces that enh
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
@@ -26,9 +26,7 @@ The Houndify Voice AI platform helps brands build voice user interfaces that enh
 
 
 
-
-
-- [Speech-To-Meaning](https://github.com/apis-list/apis-list#speech-to-meaning)
+is-list#speech-to-meaning)
 
 
 

@@ -10,15 +10,13 @@ Buy, sell and store Bitcoin, Ethereum, Ripple (XRP), Litecoin & other cryptocurr
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 - [B2B](https://github.com/apis-list/apis-list#b2b)
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
 - [Currency](https://github.com/apis-list/apis-list#currency)
-
-
 
 
 

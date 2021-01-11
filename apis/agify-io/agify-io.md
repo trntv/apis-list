@@ -10,12 +10,10 @@ Free API to check and predict the age of a name.  Use the API for research, ad t
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
-
-
 
 
 

@@ -1,6 +1,6 @@
 # Apility.io
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/apility-io/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/apility-io/logo_256x256.png" />
 </p>
 
 
@@ -12,15 +12,13 @@
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Other](https://github.com/apis-list/apis-list#other)
 
 
 
-
-
-ies**:  [Solar Data](https://github/apis-list/apis-list#solar-data),
+st#solar-data),
 
 

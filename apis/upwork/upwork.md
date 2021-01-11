@@ -10,14 +10,12 @@ reference The reference of the accounting transaction. reference The reference o
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Search](https://github.com/apis-list/apis-list#search)
 - [Jobs](https://github.com/apis-list/apis-list#jobs)
-
-
 
 
 

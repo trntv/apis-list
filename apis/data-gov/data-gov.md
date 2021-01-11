@@ -10,12 +10,10 @@ Our aim is to make it easier for. Signup for a single API key and use it across 
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Government](https://github.com/apis-list/apis-list#government)
-
-
 
 
 

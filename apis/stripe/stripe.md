@@ -10,14 +10,12 @@ Complete reference documentation for the Stripe API. Includes representative cod
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Payments](https://github.com/apis-list/apis-list#payments)
-
-
 
 
 

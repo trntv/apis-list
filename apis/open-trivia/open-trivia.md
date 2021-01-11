@@ -10,14 +10,12 @@ Free to use, user-contributed trivia questions!
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Games](https://github.com/apis-list/apis-list#games)
 - [Trivia](https://github.com/apis-list/apis-list#trivia)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-
-
 
 
 

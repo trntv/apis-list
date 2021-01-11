@@ -1,6 +1,6 @@
 # ZipRecruiter
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/ziprecruiter/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ziprecruiter/logo_256x256.png" />
 </p>
 
 Learn why 1,000s of PARTNERS, PUBLISHERS, and AFFILIATES use our jobs API, email alerts, and job board. Learn why 1,000s of PARTNERS, PUBLISHERS, and AFFILIATES use our jobs API, email alerts, and job board
@@ -12,12 +12,10 @@ Learn why 1,000s of PARTNERS, PUBLISHERS, and AFFILIATES use our jobs API, email
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Jobs](https://github.com/apis-list/apis-list#jobs)
-
-
 
 
 

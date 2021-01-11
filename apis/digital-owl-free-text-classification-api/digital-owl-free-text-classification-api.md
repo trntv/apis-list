@@ -10,7 +10,7 @@ Free for use text classification, sentiment analysis, semantic similarity and wo
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
@@ -18,8 +18,6 @@ Free for use text classification, sentiment analysis, semantic similarity and wo
 - [Natural Language Processing](https://github.com/apis-list/apis-list#natural-language-processing)
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 - [Text](https://github.com/apis-list/apis-list#text)
-
-
 
 
 

@@ -1,6 +1,6 @@
 # Destiny The Game
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/destiny-the-game/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/destiny-the-game/logo_256x256.png" />
 </p>
 
 These endpoints constitute the functionality exposed by Bungie. net
@@ -12,13 +12,11 @@ These endpoints constitute the functionality exposed by Bungie. net
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Games](https://github.com/apis-list/apis-list#games)
-
-
 
 
 

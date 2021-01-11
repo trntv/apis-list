@@ -10,14 +10,12 @@ Prices are updated every 30 seconds, covering 300+ cryptocurrencies across 42 ex
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
 - [Currency](https://github.com/apis-list/apis-list#currency)
-
-
 
 
 

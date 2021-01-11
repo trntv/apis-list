@@ -10,12 +10,10 @@ Otherwise, please contact our support. Free news search API. Easily search and f
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
-
-
 
 
 

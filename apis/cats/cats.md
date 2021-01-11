@@ -15,12 +15,10 @@ Get your API Key from - https&#x3A;//TheCatAPI
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Animals](https://github.com/apis-list/apis-list#animals)
-
-
 
 
 

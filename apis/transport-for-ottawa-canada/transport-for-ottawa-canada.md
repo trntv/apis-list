@@ -1,6 +1,6 @@
 # Transport For Ottawa, Canada
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/transport-for-ottawa-canada/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-ottawa-canada/logo_256x256.png" />
 </p>
 
 OC Transpo next bus arrival API
@@ -12,12 +12,10 @@ OC Transpo next bus arrival API
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
-
-
 
 
 

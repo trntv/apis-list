@@ -10,13 +10,11 @@ Restful API for searching and retrieving free images and videos. Documentation t
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Photography](https://github.com/apis-list/apis-list#photography)
 - [Development](https://github.com/apis-list/apis-list#development)
-
-
 
 
 

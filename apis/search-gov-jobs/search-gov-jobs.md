@@ -10,12 +10,10 @@ gov • Terms of Service • Site Policies • D. Tap into a list of current job
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Jobs](https://github.com/apis-list/apis-list#jobs)
-
-
 
 
 

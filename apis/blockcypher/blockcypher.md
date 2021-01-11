@@ -10,7 +10,7 @@ Build blockchain applications easily with our web APIs and callbacks. High throu
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Platform-As-A-Service](https://github.com/apis-list/apis-list#platform-as-a-service)
@@ -19,9 +19,7 @@ Build blockchain applications easily with our web APIs and callbacks. High throu
 
 
 
-
-
-ps://github.com/apis-list/apis-list#bitcoin-bitcoin-wallets)
+oin-wallets)
 
 
 

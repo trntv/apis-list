@@ -10,7 +10,7 @@ Flexible natural language processing APIs and complete text analytics platform s
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
@@ -19,8 +19,6 @@ Flexible natural language processing APIs and complete text analytics platform s
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Tools](https://github.com/apis-list/apis-list#tools)
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
-
-
 
 
 

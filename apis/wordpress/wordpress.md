@@ -10,12 +10,10 @@ Languages: English • Русский • API 日本語 (Add your language) The 
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
-
-
 
 
 

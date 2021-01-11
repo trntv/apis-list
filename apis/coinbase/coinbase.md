@@ -11,7 +11,7 @@ Coinbase’s APIs enable a variety of capabilities; from simply gathering read-o
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
@@ -21,9 +21,7 @@ Coinbase’s APIs enable a variety of capabilities; from simply gathering read-o
 
 
 
-
-
-rrency](https://github.com/apis-list/apis-list#currency)
+urrency)
 
 
 

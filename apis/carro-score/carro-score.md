@@ -1,6 +1,6 @@
 # Carro Score
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/carro-score/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/carro-score/logo_256x256.png" />
 </p>
 
 Carro makes finding influencers that love your brand easier than ever before
@@ -12,12 +12,10 @@ Carro makes finding influencers that love your brand easier than ever before
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
-
-
 
 
 

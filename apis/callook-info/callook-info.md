@@ -10,12 +10,10 @@ A.  callsign lookups. Look up information about United States ham radio callsign
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Other](https://github.com/apis-list/apis-list#other)
-
-
 
 
 

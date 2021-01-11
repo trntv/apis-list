@@ -10,14 +10,12 @@ Plino - A responsive spam filtering system - Tasdik Rahman.  Plino - A responsiv
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Spam](https://github.com/apis-list/apis-list#spam)
 - [Security](https://github.com/apis-list/apis-list#security)
-
-
 
 
 

@@ -1,6 +1,6 @@
 # Climacell Micro Weather
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/climacell-micro-weather/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/climacell-micro-weather/logo_256x256.png" />
 </p>
 
 Historical, real-time and nowcast weather data.
@@ -12,7 +12,7 @@ Historical, real-time and nowcast weather data.
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
@@ -22,10 +22,7 @@ Historical, real-time and nowcast weather data.
 
 
 
-
-
-th)
-- [Dashboards](https://github.com/apis-list/apis-list#dashboards)
+list#dashboards)
 
 
 

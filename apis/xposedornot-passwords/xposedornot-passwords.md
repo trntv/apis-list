@@ -10,12 +10,10 @@ XposedOrNot is a collection of ~850 million real time passwords collated from re
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Security](https://github.com/apis-list/apis-list#security)
-
-
 
 
 

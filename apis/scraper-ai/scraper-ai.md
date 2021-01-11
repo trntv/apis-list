@@ -10,12 +10,10 @@ Scraper. AI is a no-code data extraction tool that allows you to extract data fr
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
-
-
 
 
 

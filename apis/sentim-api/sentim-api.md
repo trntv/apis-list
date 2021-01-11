@@ -10,12 +10,10 @@ herokuapp. com/api/v1/ with headers of Accept: "application/json", "Content-Type
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
-
-
 
 
 

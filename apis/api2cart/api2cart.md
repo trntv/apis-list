@@ -10,17 +10,12 @@ Connect your B2B eCommerce solution with 40+ shopping platforms and marketplaces
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Integration](https://github.com/apis-list/apis-list#integration)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Development](https://github.com/apis-list/apis-list#development)
-
-
-
-
-
 
 
 

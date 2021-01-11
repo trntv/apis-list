@@ -1,6 +1,6 @@
 # Wordnik
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/wordnik/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wordnik/logo_256x256.png" />
 </p>
 
 The Wordnik API Docs. Dictionary functions
@@ -12,14 +12,12 @@ The Wordnik API Docs. Dictionary functions
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
 - [Text](https://github.com/apis-list/apis-list#text)
 - [Reference](https://github.com/apis-list/apis-list#reference)
-
-
 
 
 

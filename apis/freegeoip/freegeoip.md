@@ -10,13 +10,11 @@ Free IP Geolocation API with no registration required. Free IP Geolocation API w
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Domains](https://github.com/apis-list/apis-list#domains)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
-
-
 
 
 

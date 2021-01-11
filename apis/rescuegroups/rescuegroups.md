@@ -10,13 +10,11 @@ org APIs Not all adoptable pet data APIs are made equal! Choosing the right API 
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Animals](https://github.com/apis-list/apis-list#animals)
 - [Adoption](https://github.com/apis-list/apis-list#adoption)
-
-
 
 
 

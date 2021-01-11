@@ -1,6 +1,6 @@
 # Imagga Api
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/imagga-api/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/imagga-api/logo_256x256.png" />
 </p>
 
 identifies the content of images and videos, classify images based on content, extracts colors, moderates NSFW content. Imagga Image Recognition API provides solutions for image tagging & categorization, visual search, content moderation. Available in the Cloud and On-Premise
@@ -12,15 +12,13 @@ identifies the content of images and videos, classify images based on content, e
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Colors](https://github.com/apis-list/apis-list#colors)
 - [Content Moderation](https://github.com/apis-list/apis-list#content-moderation)
 - [Recognition](https://github.com/apis-list/apis-list#recognition)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
-
-
 
 
 

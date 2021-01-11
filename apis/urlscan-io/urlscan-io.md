@@ -10,12 +10,10 @@ urlscan. io - Website scanner for suspicious and malicious URLs.  urlscan
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Security](https://github.com/apis-list/apis-list#security)
-
-
 
 
 

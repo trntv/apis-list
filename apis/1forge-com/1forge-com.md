@@ -10,14 +10,10 @@ Real-time forex and crypto quotes via JSON and WebSocket
 **URI**: http://1forge.com/openapi.json
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
-
-
-
-
 
 
 

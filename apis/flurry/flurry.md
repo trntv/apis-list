@@ -10,14 +10,12 @@ Yahoo’s Flurry provides you with a number of APIs enabling you to export your 
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
 - [Applications](https://github.com/apis-list/apis-list#applications)
 - [Big Data](https://github.com/apis-list/apis-list#big-data)
-
-
 
 
 

@@ -10,12 +10,10 @@ mobilites-m, c'est le service unique qui regroupe toutes vos informations de dé
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
-
-
 
 
 

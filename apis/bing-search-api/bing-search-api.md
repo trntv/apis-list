@@ -10,14 +10,12 @@ Add intelligent search to your app, combing hundreds of billions of webpages, im
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Data-As-A-Service](https://github.com/apis-list/apis-list#data-as-a-service)
 - [Search](https://github.com/apis-list/apis-list#search)
 - [Cloud](https://github.com/apis-list/apis-list#cloud)
-
-
 
 
 

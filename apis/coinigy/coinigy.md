@@ -10,19 +10,10 @@ A place where APIs are kept. apiary.  We are aware of the issue and are working 
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
-
-
-
-
-
-tcoin-wallets)
-
-
-
 
 
 

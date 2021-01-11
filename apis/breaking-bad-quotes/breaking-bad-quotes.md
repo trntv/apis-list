@@ -1,6 +1,6 @@
 # Breaking Bad Quotes
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/breaking-bad-quotes/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/breaking-bad-quotes/logo_256x256.png" />
 </p>
 
 A free API to retrieve some quotes of Breaking Bad, bitch!.  A free API to retrieve some quotes of Breaking Bad, bitch!
@@ -12,13 +12,11 @@ A free API to retrieve some quotes of Breaking Bad, bitch!.  A free API to retri
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Other](https://github.com/apis-list/apis-list#other)
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
-
-
 
 
 

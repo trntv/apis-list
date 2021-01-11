@@ -10,13 +10,11 @@ Get NASA data, including imagery, list of asteroids based on their closest appro
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
-
-
 
 
 

@@ -10,12 +10,10 @@ Click here if you are not redirected. Access to GitHub’s Authentication API. R
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Authentication & User Management](https://github.com/apis-list/apis-list#authentication-and-user-management)
-
-
 
 
 

@@ -10,12 +10,10 @@ This is a simple REST API that replies with an UTF8 encoded JSON Object. This AP
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Travel](https://github.com/apis-list/apis-list#travel)
-
-
 
 
 

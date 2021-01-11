@@ -10,13 +10,11 @@ Generate memes with a simple link!.  Meme Top Text Bottom Text Link To access th
 **URI**: https://tl-api.azurewebsites.net/swagger/default/swagger.json
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Meme](https://github.com/apis-list/apis-list#meme)
-
-
 
 
 

@@ -1,6 +1,6 @@
 # Wikitude
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/wikitude/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wikitude/logo_256x256.png" />
 </p>
 
 Powerful augmented reality apps. Create immersive Augmented Reality experiences that transform the world around you
@@ -12,7 +12,7 @@ Powerful augmented reality apps. Create immersive Augmented Reality experiences 
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
@@ -20,8 +20,6 @@ Powerful augmented reality apps. Create immersive Augmented Reality experiences 
 - [Other](https://github.com/apis-list/apis-list#other)
 - [Virtual & Augmented Reality](https://github.com/apis-list/apis-list#virtual-and-augmented-reality)
 - [Browsers](https://github.com/apis-list/apis-list#browsers)
-
-
 
 
 

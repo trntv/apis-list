@@ -10,12 +10,10 @@ The Bot API allows you to easily create programs that use Telegram messages forâ
 **URI**:  N/A 
 
 ## ðŸ’¬ Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
-
-
 
 
 

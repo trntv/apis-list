@@ -10,12 +10,10 @@ Read More. Global marine weather data from multiple sources in one single API!
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Weather](https://github.com/apis-list/apis-list#weather)
-
-
 
 
 

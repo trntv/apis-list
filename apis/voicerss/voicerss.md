@@ -10,12 +10,10 @@ An API to convert Text to Speech, supporting 15+ major languages.  Voice RSS pro
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
-
-
 
 
 

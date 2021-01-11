@@ -10,13 +10,11 @@ Metadefender Cloud provides unique set of APIs for everyone who is working with 
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Security](https://github.com/apis-list/apis-list#security)
 - [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
-
-
 
 
 

@@ -1,6 +1,6 @@
 # Image-Charts
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/image-charts/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/image-charts/logo_256x256.png" />
 </p>
 
 A drop-in-replacement for the deprecated Google Image Charts. Easiest way to embed charts as image in emails, pdfs etc.
@@ -12,7 +12,7 @@ A drop-in-replacement for the deprecated Google Image Charts. Easiest way to emb
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
@@ -21,10 +21,7 @@ A drop-in-replacement for the deprecated Google Image Charts. Easiest way to emb
 
 
 
-
-
-marketing)
-- [Reporting](https://github.com/apis-list/apis-list#reporting)
+/apis-list#reporting)
 - [Virtualization](https://github.com/apis-list/apis-list#virtualization)
 - [Other](https://github.com/apis-list/apis-list#other)
 - [Visualizations](https://github.com/apis-list/apis-list#visualizations)

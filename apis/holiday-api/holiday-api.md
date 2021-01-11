@@ -10,7 +10,7 @@ Start developing for free. Public holiday API service for several supported coun
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
@@ -28,9 +28,7 @@ Start developing for free. Public holiday API service for several supported coun
 
 
 
-
-
-Time](https://github.com/apis-list/apis-list#time)
+e)
 
 
 

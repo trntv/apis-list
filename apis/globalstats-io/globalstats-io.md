@@ -1,6 +1,6 @@
 # Globalstats.Io
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/globalstats-io/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/globalstats-io/logo_256x256.png" />
 </p>
 
 Enrich your games' experience by adding a global highscore for your games.
@@ -12,12 +12,10 @@ Enrich your games' experience by adding a global highscore for your games.
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Games](https://github.com/apis-list/apis-list#games)
-
-
 
 
 

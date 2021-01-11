@@ -1,6 +1,6 @@
 # NPPES
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/nppes/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/nppes/logo_256x256.png" />
 </p>
 
 National Plan & Provider Enumeration System, info on healthcare providers registered in US
@@ -12,12 +12,10 @@ National Plan & Provider Enumeration System, info on healthcare providers regist
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Health](https://github.com/apis-list/apis-list#health)
-
-
 
 
 

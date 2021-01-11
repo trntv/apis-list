@@ -1,6 +1,6 @@
 # License-API
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/license-api/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/license-api/logo_256x256.png" />
 </p>
 
 com. Contribute to cmccandless/license-api development by creating an account on GitHub. Unofficial REST API for choosealicense
@@ -12,12 +12,10 @@ com. Contribute to cmccandless/license-api development by creating an account on
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
-
-
 
 
 

@@ -10,7 +10,7 @@ A-to-B routing with turn-by-turn instructions
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
@@ -18,8 +18,6 @@ A-to-B routing with turn-by-turn instructions
 - [Logistics](https://github.com/apis-list/apis-list#logistics)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Travel](https://github.com/apis-list/apis-list#travel)
-
-
 
 
 

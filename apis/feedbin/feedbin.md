@@ -1,6 +1,6 @@
 # Feedbin
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/feedbin/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/feedbin/logo_256x256.png" />
 </p>
 
 Feedbin API Documentation. Contribute to feedbin/feedbin-api development by creating an account on GitHub. Feedbin API Documentation
@@ -12,12 +12,10 @@ Feedbin API Documentation. Contribute to feedbin/feedbin-api development by crea
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
-
-
 
 
 

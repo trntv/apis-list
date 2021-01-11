@@ -10,12 +10,10 @@ A. Q.  Available products: LegendMeani. Introduction This is version 3 of the ME
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Weather](https://github.com/apis-list/apis-list#weather)
-
-
 
 
 

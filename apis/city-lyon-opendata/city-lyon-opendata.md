@@ -1,6 +1,6 @@
 # City, Lyon Opendata
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/city-lyon-opendata/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/city-lyon-opendata/logo_256x256.png" />
 </p>
 
 Les données des acteurs du territoire de la Métropole de Lyon
@@ -12,12 +12,10 @@ Les données des acteurs du territoire de la Métropole de Lyon
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Government](https://github.com/apis-list/apis-list#government)
-
-
 
 
 

@@ -10,14 +10,12 @@ Uses free and open libraries to let you connect different types of hardware, usi
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Platform-As-A-Service](https://github.com/apis-list/apis-list#platform-as-a-service)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [IoT & Home Automation](https://github.com/apis-list/apis-list#iot-and-home-automation)
-
-
 
 
 

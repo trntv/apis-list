@@ -10,7 +10,7 @@ Let’s you enter your name and the name of your partner/lover/crush to find Lov
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Tools](https://github.com/apis-list/apis-list#tools)
@@ -19,8 +19,6 @@ Let’s you enter your name and the name of your partner/lover/crush to find Lov
 - [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
 - [Environment](https://github.com/apis-list/apis-list#environment)
 - [Religion](https://github.com/apis-list/apis-list#religion)
-
-
 
 
 

@@ -10,7 +10,7 @@ xkcd API
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
@@ -19,10 +19,7 @@ xkcd API
 
 
 
-
-
-d-comics)
-- [Fun](https://github.com/apis-list/apis-list#fun)
+pis-list#fun)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 
 

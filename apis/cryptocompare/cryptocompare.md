@@ -1,6 +1,6 @@
 # CryptoCompare
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/cryptocompare/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cryptocompare/logo_256x256.png" />
 </p>
 
 Cryptocurrencies Comparison. Free cryptocurrency data APIs. Get high-quality historical & real-time trade, order book and volume data through market-leading REST & WebSocket APIs
@@ -12,7 +12,7 @@ Cryptocurrencies Comparison. Free cryptocurrency data APIs. Get high-quality his
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
@@ -21,9 +21,7 @@ Cryptocurrencies Comparison. Free cryptocurrency data APIs. Get high-quality his
 
 
 
-
-
-github.com/apis-list/apis-list#bitcoin-bitcoin-wallets)
+s)
 
 
 

@@ -10,7 +10,7 @@ Processing (NLP) Service including sentiment analysis, content extraction, and l
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Extraction](https://github.com/apis-list/apis-list#extraction)
@@ -30,9 +30,7 @@ Processing (NLP) Service including sentiment analysis, content extraction, and l
 
 
 
-
-
-gement](https://github.com/apis-list/apis-list#content-management)
+ontent-management)
 
 
 

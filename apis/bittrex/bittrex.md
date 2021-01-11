@@ -10,7 +10,7 @@ Bittrex provides a simple and powerful API consisting of REST endpoints for tran
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
@@ -19,8 +19,6 @@ Bittrex provides a simple and powerful API consisting of REST endpoints for tran
 - [Payments](https://github.com/apis-list/apis-list#payments)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
-
-
 
 
 

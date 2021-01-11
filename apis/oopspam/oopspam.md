@@ -10,14 +10,12 @@ Stop bots and manual spam from reaching you or your customer. Stop bots and manu
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Spam](https://github.com/apis-list/apis-list#spam)
 - [Machine Learning](https://github.com/apis-list/apis-list#machine-learning)
 - [Development](https://github.com/apis-list/apis-list#development)
-
-
 
 
 

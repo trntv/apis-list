@@ -10,7 +10,7 @@ JSON API for returning meaty lorem ipsum filler text. JSON API for returning mea
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
@@ -18,8 +18,6 @@ JSON API for returning meaty lorem ipsum filler text. JSON API for returning mea
 - [Tools](https://github.com/apis-list/apis-list#tools)
 - [Text](https://github.com/apis-list/apis-list#text)
 - [Fun](https://github.com/apis-list/apis-list#fun)
-
-
 
 
 

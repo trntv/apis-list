@@ -1,6 +1,6 @@
 # USGS Water Services
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/usgs-water-services/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/usgs-water-services/logo_256x256.png" />
 </p>
 
 Home page for water resources information from the US Geological Survey.  Home page for water resources information from the US Geological Survey
@@ -12,12 +12,10 @@ Home page for water resources information from the US Geological Survey.  Home p
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
-
-
 
 
 

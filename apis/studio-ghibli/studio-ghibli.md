@@ -10,7 +10,7 @@ Resources from Studio Ghibli films
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Japanese](https://github.com/apis-list/apis-list#japanese)
@@ -18,8 +18,6 @@ Resources from Studio Ghibli films
 - [Catalogs](https://github.com/apis-list/apis-list#catalogs)
 - [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-
-
 
 
 

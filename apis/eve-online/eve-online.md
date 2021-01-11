@@ -1,6 +1,6 @@
 # Eve Online
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/eve-online/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/eve-online/logo_256x256.png" />
 </p>
 
 An OpenAPI for EVE Online
@@ -12,13 +12,11 @@ An OpenAPI for EVE Online
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Games](https://github.com/apis-list/apis-list#games)
-
-
 
 
 

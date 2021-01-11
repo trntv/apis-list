@@ -10,12 +10,10 @@ The PWRTelegram MTProto API. Boosted version of the Telegram bot API
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
-
-
 
 
 

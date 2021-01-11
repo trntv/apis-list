@@ -10,7 +10,7 @@ We apologize for any inconvenience. A place where APIs are kept. This site https
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Collecting](https://github.com/apis-list/apis-list#collecting)
@@ -21,8 +21,6 @@ We apologize for any inconvenience. A place where APIs are kept. This site https
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Animation](https://github.com/apis-list/apis-list#animation)
 - [Books](https://github.com/apis-list/apis-list#books)
-
-
 
 
 

@@ -10,12 +10,10 @@ Introduction FOAAS (Fuck Off As A Service) provides a modern, RESTful, scalable 
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
-
-
 
 
 

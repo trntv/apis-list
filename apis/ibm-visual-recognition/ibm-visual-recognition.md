@@ -10,7 +10,7 @@ Existing instances are supported until 1 December 2021, but as of 7 January 2021
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Recognition](https://github.com/apis-list/apis-list#recognition)
@@ -18,8 +18,6 @@ Existing instances are supported until 1 December 2021, but as of 7 January 2021
 - [Machine Learning](https://github.com/apis-list/apis-list#machine-learning)
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 - [Development](https://github.com/apis-list/apis-list#development)
-
-
 
 
 

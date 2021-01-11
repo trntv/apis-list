@@ -10,13 +10,11 @@ Except with a few lines of code such that ?orderby=rand works. So: EVERY OTHER A
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Health](https://github.com/apis-list/apis-list#health)
 - [Personality](https://github.com/apis-list/apis-list#personality)
-
-
 
 
 

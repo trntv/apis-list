@@ -10,13 +10,11 @@ Internal Server Error The server encountered an internal error and was unable to
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 - [Development](https://github.com/apis-list/apis-list#development)
-
-
 
 
 

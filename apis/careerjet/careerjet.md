@@ -10,12 +10,10 @@ So far we support the following. Careerjet public search API If you are a webmas
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Jobs](https://github.com/apis-list/apis-list#jobs)
-
-
 
 
 

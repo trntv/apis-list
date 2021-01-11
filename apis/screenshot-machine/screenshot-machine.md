@@ -10,14 +10,12 @@ Free screenshot api for capturing web pages.  Let our website screenshot generat
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 - [Optimization](https://github.com/apis-list/apis-list#optimization)
 - [Photography](https://github.com/apis-list/apis-list#photography)
-
-
 
 
 

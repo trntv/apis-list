@@ -10,12 +10,10 @@ Describes the iTunes Search API used to place search fields in a website. The Se
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
-
-
 
 
 

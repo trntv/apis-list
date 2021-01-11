@@ -10,12 +10,10 @@ API Documentation tinyuid. com exposes its data via an Application Programming I
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [URL Shortening](https://github.com/apis-list/apis-list#url-shortening)
-
-
 
 
 

@@ -10,12 +10,10 @@ Add an application You can have as many applications as you would like, we don't
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [URL Shortening](https://github.com/apis-list/apis-list#url-shortening)
-
-
 
 
 

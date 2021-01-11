@@ -10,12 +10,10 @@ Posting in the future we will accept incidents, r. BikeWise API General notes: T
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
-
-
 
 
 

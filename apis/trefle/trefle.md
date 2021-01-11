@@ -10,7 +10,7 @@ Trefle is a botanical API and data source
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Environment](https://github.com/apis-list/apis-list#environment)
@@ -20,9 +20,7 @@ Trefle is a botanical API and data source
 
 
 
-
-
-s](https://github.com/apis-list/apis-list#directories)
+ories)
 
 
 

@@ -10,12 +10,10 @@ Secure, fast, convenient way to login in your app/website.  A secure, quick, and
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Authentication & User Management](https://github.com/apis-list/apis-list#authentication-and-user-management)
-
-
 
 
 

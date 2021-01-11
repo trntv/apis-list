@@ -10,12 +10,10 @@ Jobs | Courses | Career advice | Advertise a job Copyright © reed. co. uk 2021
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Jobs](https://github.com/apis-list/apis-list#jobs)
-
-
 
 
 

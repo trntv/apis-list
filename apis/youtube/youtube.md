@@ -10,13 +10,11 @@ Add YouTube functionality to your sites and apps.  Add YouTube functionality to 
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
-
-
 
 
 

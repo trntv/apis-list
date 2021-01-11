@@ -1,6 +1,6 @@
 # Tweetmeme API
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/tweetmeme-api/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/tweetmeme-api/logo_256x256.png" />
 </p>
 
 Provides third-party integration with the TweetMeme web service, used to track popular links on Twitter
@@ -12,12 +12,10 @@ Provides third-party integration with the TweetMeme web service, used to track p
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
-
-
 
 
 

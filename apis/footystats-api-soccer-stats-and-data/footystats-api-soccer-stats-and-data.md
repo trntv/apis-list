@@ -10,12 +10,10 @@ Affordable Soccer Stats API for making football predictions. Includes stats such
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
-
-
 
 
 

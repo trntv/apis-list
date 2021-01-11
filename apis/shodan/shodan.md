@@ -10,15 +10,13 @@ To ge. API-First Development The Shodan website, including Shodan Images and Sho
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Security](https://github.com/apis-list/apis-list#security)
 - [Search](https://github.com/apis-list/apis-list#search)
 - [IoT & Home Automation](https://github.com/apis-list/apis-list#iot-and-home-automation)
 - [DevOps](https://github.com/apis-list/apis-list#devops)
-
-
 
 
 

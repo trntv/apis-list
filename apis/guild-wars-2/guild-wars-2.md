@@ -10,13 +10,11 @@ The current version of the API. The Guild Wars 2 API (application programming in
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Games](https://github.com/apis-list/apis-list#games)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-
-
 
 
 

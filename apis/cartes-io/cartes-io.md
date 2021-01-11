@@ -1,6 +1,6 @@
 # Cartes.io
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/cartes-io/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cartes-io/logo_256x256.png" />
 </p>
 
 io. Initially used to report incidents that may be dangerous during times of unrest or protest. Now allows anyone to create maps and markers for anything. - M-Media-Group/Cartes
@@ -12,12 +12,10 @@ io. Initially used to report incidents that may be dangerous during times of unr
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
-
-
 
 
 

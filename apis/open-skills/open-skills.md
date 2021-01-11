@@ -1,6 +1,6 @@
 # Open Skills
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/open-skills/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/open-skills/logo_256x256.png" />
 </p>
 
 Skills API.  Contribute to workforce-data-initiative/skills-api development by creating an account on GitHub.  Skills API
@@ -12,12 +12,10 @@ Skills API.  Contribute to workforce-data-initiative/skills-api development by c
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Jobs](https://github.com/apis-list/apis-list#jobs)
-
-
 
 
 

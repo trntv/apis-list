@@ -10,7 +10,7 @@ API Examples Current ISS Location The International Space Station is moving at c
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Real Time](https://github.com/apis-list/apis-list#real-time)
@@ -20,8 +20,6 @@ API Examples Current ISS Location The International Space Station is moving at c
 - [Tools](https://github.com/apis-list/apis-list#tools)
 - [Space](https://github.com/apis-list/apis-list#space)
 - [Fun](https://github.com/apis-list/apis-list#fun)
-
-
 
 
 

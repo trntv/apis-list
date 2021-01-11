@@ -10,7 +10,7 @@
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Health](https://github.com/apis-list/apis-list#health)
@@ -19,8 +19,6 @@
 - [Data-As-A-Service](https://github.com/apis-list/apis-list#data-as-a-service)
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
-
-
 
 
 

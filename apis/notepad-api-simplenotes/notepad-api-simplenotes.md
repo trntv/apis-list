@@ -10,7 +10,7 @@ Share the notes with everyone you want.
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
@@ -18,9 +18,7 @@ Share the notes with everyone you want.
 
 
 
-
-
-g between Desktop and Mobile. cc - "SimpleNotes" lets you create, edit and organize all your notes anytime, anywhere. cc!. simplenotes. The Official API from SimpleNotes.  You decide!
+ lets you create, edit and organize all your notes anytime, anywhere. cc!. simplenotes. The Official API from SimpleNotes.  You decide!
 - Write up to 1000 characters
 
 

@@ -1,6 +1,6 @@
 # Dribbble
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/dribbble/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/dribbble/logo_256x256.png" />
 </p>
 
 Except where otherwise noted, content on this site is licensed under a Creative Commons CC-BY license. Dribbble on Dribbble Dribbble on GitHub @dribbbleapi. Dribbble is a community of designers answering that question each day
@@ -12,13 +12,11 @@ Except where otherwise noted, content on this site is licensed under a Creative 
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
 - [Other](https://github.com/apis-list/apis-list#other)
-
-
 
 
 

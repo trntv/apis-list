@@ -10,12 +10,10 @@ Carbon Intensity API Great Britain Scroll down for code samples and responses. C
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Environment](https://github.com/apis-list/apis-list#environment)
-
-
 
 
 

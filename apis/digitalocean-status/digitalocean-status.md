@@ -10,12 +10,10 @@ In order to keep DigitalOcean bot-free, please complete this security check Plea
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
-
-
 
 
 

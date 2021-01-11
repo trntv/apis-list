@@ -10,7 +10,7 @@ Click the link to create a password, then come back here and sign in. We have ma
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Reference](https://github.com/apis-list/apis-list#reference)
@@ -19,10 +19,7 @@ Click the link to create a password, then come back here and sign in. We have ma
 
 
 
-
-
-ist#reference)
-- [Enterprise](https://github.com/apis-list/apis-list#enterprise)
+/apis-list/apis-list#enterprise)
 
 
 

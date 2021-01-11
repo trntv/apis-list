@@ -1,6 +1,6 @@
 # Google Identity Toolkit API.
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/google-identity-toolkit-api/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-identity-toolkit-api/logo_256x256.png" />
 </p>
 
 Enable users to sign into apps and authorize apps to use Google services
@@ -12,12 +12,10 @@ Enable users to sign into apps and authorize apps to use Google services
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Authentication & User Management](https://github.com/apis-list/apis-list#authentication-and-user-management)
-
-
 
 
 

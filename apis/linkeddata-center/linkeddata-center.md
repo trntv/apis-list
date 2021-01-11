@@ -10,12 +10,10 @@ a RDF graph database as a service with W3C SPARQL query and SPARQL update apis
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
-
-
 
 
 

@@ -10,12 +10,10 @@ Biography. From both the universe, and more.  Images. Get all SuperHeroes and Vi
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Fun](https://github.com/apis-list/apis-list#fun)
-
-
 
 
 

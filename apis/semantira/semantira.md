@@ -10,13 +10,11 @@ To get started check out Install the SDK. For detailed explana. In this document
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
-
-
 
 
 

@@ -10,12 +10,10 @@ Our Anomaly API gives you IP & Domain Data for your Business.  Lookup threat int
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Security](https://github.com/apis-list/apis-list#security)
-
-
 
 
 

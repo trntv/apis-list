@@ -22,13 +22,11 @@ Localize your users, apply geographical restrictions to your website and increas
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Big Data](https://github.com/apis-list/apis-list#big-data)
 - [Localization](https://github.com/apis-list/apis-list#localization)
-
-
 
 
 

@@ -10,7 +10,7 @@ Provides the full commerce solution to bring your unique, revenue-driving experi
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Business](https://github.com/apis-list/apis-list#business)
@@ -20,8 +20,6 @@ Provides the full commerce solution to bring your unique, revenue-driving experi
 - [Content Management](https://github.com/apis-list/apis-list#content-management)
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
 - [Products](https://github.com/apis-list/apis-list#products)
-
-
 
 
 

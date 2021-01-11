@@ -1,6 +1,6 @@
 # Genius
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/genius/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/genius/logo_256x256.png" />
 </p>
 
 Allows users to find details about Genius artists and songs. Use our API and help build the world's greatest public knowledge project since Wikipedia
@@ -12,7 +12,7 @@ Allows users to find details about Genius artists and songs. Use our API and hel
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Wiki](https://github.com/apis-list/apis-list#wiki)
@@ -20,8 +20,6 @@ Allows users to find details about Genius artists and songs. Use our API and hel
 - [Annotations](https://github.com/apis-list/apis-list#annotations)
 - [Editing](https://github.com/apis-list/apis-list#editing)
 - [Text](https://github.com/apis-list/apis-list#text)
-
-
 
 
 

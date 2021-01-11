@@ -10,19 +10,10 @@ You can use this API to include markets data in your websites, mobile apps or de
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
-
-
-
-
-
-
-
-
-
 
 
 

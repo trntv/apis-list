@@ -10,13 +10,11 @@ For more information. Access to GitHub’s Gists API.  You can read public gists
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
 - [Development](https://github.com/apis-list/apis-list#development)
-
-
 
 
 

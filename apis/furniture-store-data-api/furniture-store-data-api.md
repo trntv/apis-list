@@ -12,12 +12,10 @@ Prerequisites: Visual Studio 4. The API is designed on a demo base for a furnitu
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Search](https://github.com/apis-list/apis-list#search)
-
-
 
 
 

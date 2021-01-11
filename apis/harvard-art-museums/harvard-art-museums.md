@@ -1,6 +1,6 @@
 # Harvard Art Museums
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/harvard-art-museums/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/harvard-art-museums/logo_256x256.png" />
 </p>
 
 API documentation for https://www. harvardartmuseums. org - harvardartmuseums/api-docs. API documentation for https://www
@@ -12,7 +12,7 @@ API documentation for https://www. harvardartmuseums. org - harvardartmuseums/ap
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest)
@@ -20,8 +20,6 @@ API documentation for https://www. harvardartmuseums. org - harvardartmuseums/ap
 - [Collecting](https://github.com/apis-list/apis-list#collecting)
 - [Education](https://github.com/apis-list/apis-list#education)
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
-
-
 
 
 

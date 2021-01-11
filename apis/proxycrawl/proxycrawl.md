@@ -1,6 +1,6 @@
 # ProxyCrawl
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/proxycrawl/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/proxycrawl/logo_256x256.png" />
 </p>
 
 Crawl and scrape websites without the need of proxies, infrastructure or browsers. ProxyCrawl solve captchas for you and prevent you being blocked while speeding up your development. ProxyCrawl all in one data crawling and scraping platform for business developers
@@ -12,15 +12,13 @@ Crawl and scrape websites without the need of proxies, infrastructure or browser
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers-and-data-mining)
 - [Extraction](https://github.com/apis-list/apis-list#extraction)
 - [Captcha](https://github.com/apis-list/apis-list#captcha)
 - [Development](https://github.com/apis-list/apis-list#development)
-
-
 
 
 

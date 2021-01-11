@@ -10,16 +10,10 @@ Weather for boating
 **URI**: https://api.oceandrivers.com/static/resources.json
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Weather](https://github.com/apis-list/apis-list#weather)
-
-
-
-
-
-//github.com/apis-list/apis-list#boating)
 
 
 

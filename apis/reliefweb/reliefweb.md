@@ -1,6 +1,6 @@
 # Reliefweb
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/reliefweb/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/reliefweb/logo_256x256.png" />
 </p>
 
 ReliefWeb API to get the latest updates when a disaster happens. Do you want to have the latest information about humanitarian training all around the world? Use ReliefWeb API to get ReliefWeb's posted training that fits better with your goals and embed the information into your corporate training system
@@ -13,7 +13,7 @@ and much much more
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Health](https://github.com/apis-list/apis-list#health)
@@ -24,10 +24,7 @@ and much much more
 
 
 
-
-
-list/apis-list#emergency)
-- [Community](https://github.com/apis-list/apis-list#community)
+b.com/apis-list/apis-list#community)
 - [Non-Profit](https://github.com/apis-list/apis-list#non-profit)
 
 

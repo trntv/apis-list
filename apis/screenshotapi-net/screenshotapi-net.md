@@ -10,12 +10,10 @@ Use one simple API call to generate screenshots of any website. Use this screens
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
-
-
 
 
 

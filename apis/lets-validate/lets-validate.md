@@ -1,6 +1,6 @@
 # Let'S Validate
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/lets-validate/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/lets-validate/logo_256x256.png" />
 </p>
 
 Uncovers the technologies used on websites and URL to thumbnail.  API that uncovers the technologies used on websites and generates thumbnail from screenshot of website - letsvalidate/api
@@ -12,15 +12,13 @@ Uncovers the technologies used on websites and URL to thumbnail.  API that uncov
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
-
-
 
 
 

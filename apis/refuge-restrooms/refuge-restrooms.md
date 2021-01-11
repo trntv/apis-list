@@ -10,7 +10,7 @@ Refuge Restrooms. Refuge Restrooms
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
@@ -21,8 +21,6 @@ Refuge Restrooms. Refuge Restrooms
 - [Community](https://github.com/apis-list/apis-list#community)
 - [Directories](https://github.com/apis-list/apis-list#directories)
 - [Lists](https://github.com/apis-list/apis-list#lists)
-
-
 
 
 

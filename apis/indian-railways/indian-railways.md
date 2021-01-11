@@ -10,13 +10,11 @@ Indian Railways Information. Rail Road Air USA Megabus Amtrak CANADA Transport G
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
-
-
 
 
 

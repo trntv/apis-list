@@ -10,7 +10,7 @@ A hosted REST-API ready to respond to AJAX requests
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Authentication & User Management](https://github.com/apis-list/apis-list#authentication-and-user-management)
@@ -19,8 +19,6 @@ A hosted REST-API ready to respond to AJAX requests
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Tools](https://github.com/apis-list/apis-list#tools)
 - [Applications](https://github.com/apis-list/apis-list#applications)
-
-
 
 
 

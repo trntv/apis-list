@@ -12,18 +12,12 @@ Responsive email design with MJML and Passport
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Marketing](https://github.com/apis-list/apis-list#marketing)
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
 - [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
-
-
-
-
-
-apis-list#advertising)
 
 
 

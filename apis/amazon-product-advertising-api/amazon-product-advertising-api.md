@@ -10,12 +10,10 @@ The web address you entered is not a functioning page on our site.  Try one of t
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
-
-
 
 
 

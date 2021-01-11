@@ -10,14 +10,12 @@ Specializes in mobile and web payment systems for ecommerce companies.  Braintre
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Business](https://github.com/apis-list/apis-list#business)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Payments](https://github.com/apis-list/apis-list#payments)
-
-
 
 
 

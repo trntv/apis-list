@@ -10,7 +10,7 @@ Weather. We are no longer accepting new signups.  Please see our blog post for m
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Weather](https://github.com/apis-list/apis-list#weather)
@@ -18,8 +18,6 @@ Weather. We are no longer accepting new signups.  Please see our blog post for m
 - [Language](https://github.com/apis-list/apis-list#language)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
-
-
 
 
 

@@ -10,16 +10,14 @@
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Other](https://github.com/apis-list/apis-list#other)
 
 
 
-
-
-int any material or size.  Looks like you've followed a broken link or entered a URL that doesn't exist on this site
+lowed a broken link or entered a URL that doesn't exist on this site
 
 **Categories**:  [Solar Data](https://github/apis-list/apis-list#solar-data),
 

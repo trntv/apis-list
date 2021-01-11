@@ -10,12 +10,10 @@ ALL CAPS AS A SERVICE curl -X POST \ -d '{"INPUT": "hello world"}' \ -H 'Content
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
-
-
 
 
 

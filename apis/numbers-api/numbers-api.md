@@ -1,6 +1,6 @@
 # Numbers Api
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/numbers-api/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/numbers-api/logo_256x256.png" />
 </p>
 
 Numbers. Number of the day, random number generation , number facts and anything else you want to do with numbers.
@@ -12,7 +12,7 @@ Numbers. Number of the day, random number generation , number facts and anything
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Education](https://github.com/apis-list/apis-list#education)
@@ -20,10 +20,7 @@ Numbers. Number of the day, random number generation , number facts and anything
 
 
 
-
-
-github.com/apis-list/apis-list#math)
-- [Recreation](https://github.com/apis-list/apis-list#recreation)
+ttps://github.com/apis-list/apis-list#recreation)
 - [Reference](https://github.com/apis-list/apis-list#reference)
 
 

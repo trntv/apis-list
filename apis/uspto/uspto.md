@@ -10,13 +10,11 @@ Open data and mobility "Open data" is publicly available data that is structured
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Patent](https://github.com/apis-list/apis-list#patent)
 - [Government](https://github.com/apis-list/apis-list#government)
-
-
 
 
 

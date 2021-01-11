@@ -10,13 +10,11 @@ They Said So. Quotes API with lot of features
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Quotes](https://github.com/apis-list/apis-list#quotes)
 - [Other](https://github.com/apis-list/apis-list#other)
-
-
 
 
 

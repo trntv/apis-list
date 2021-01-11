@@ -10,13 +10,11 @@ Email Validation High fidelity email verification at the source - no more bounce
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
 - [Conversions](https://github.com/apis-list/apis-list#conversions)
-
-
 
 
 

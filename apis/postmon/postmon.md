@@ -10,13 +10,11 @@ x Como é uma API baseada em REST, basta fazer a seguinte chamada p. O que é? U
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Tracking](https://github.com/apis-list/apis-list#tracking)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
-
-
 
 
 

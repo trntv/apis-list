@@ -10,13 +10,11 @@ Free phone number validation provided by PhoneValidator.  Works with all U.  Che
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Communications](https://github.com/apis-list/apis-list#communications)
 - [Databases](https://github.com/apis-list/apis-list#databases)
-
-
 
 
 

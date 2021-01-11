@@ -10,22 +10,12 @@ About Us Cloudmersive is a leader in Highly Scalable Cloud APIs. About Us Cloudm
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Office](https://github.com/apis-list/apis-list#office)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
-
-
-
-
-
-apis-list/apis-list#documents)
-
-
-
-e)
 
 
 

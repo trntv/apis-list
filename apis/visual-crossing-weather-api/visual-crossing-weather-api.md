@@ -10,13 +10,11 @@ Weather API for businesses & data science. 0001/record. com/weather-data) inside
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Weather](https://github.com/apis-list/apis-list#weather)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
-
-
 
 
 

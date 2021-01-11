@@ -10,7 +10,7 @@ Convert text to speech
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
@@ -18,8 +18,6 @@ Convert text to speech
 - [Natural Language Processing](https://github.com/apis-list/apis-list#natural-language-processing)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Voice](https://github.com/apis-list/apis-list#voice)
-
-
 
 
 

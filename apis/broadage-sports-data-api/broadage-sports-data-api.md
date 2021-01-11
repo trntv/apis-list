@@ -12,12 +12,10 @@ Broadage Sports provides comprehensive sports data API solutions for your projec
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
-
-
 
 
 

@@ -10,12 +10,10 @@ dream. io\/i\/048_-_x0vwSRZ. objects-us-east-1.  {"file":"https:\/\/purr. gif"}.
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Animals](https://github.com/apis-list/apis-list#animals)
-
-
 
 
 

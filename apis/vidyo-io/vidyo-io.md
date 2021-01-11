@@ -10,12 +10,10 @@ Developers do not need to be experts in video, all of the complexities of video 
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
-
-
 
 
 

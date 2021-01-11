@@ -1,6 +1,6 @@
 # British National Bibliography
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/british-national-bibliography/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/british-national-bibliography/logo_256x256.png" />
 </p>
 
 Welcome to bnb. data. bl. uk TheBritish National Bibliography(BNB) records the publishing activity of the United Kingdom and the Republic of Ireland and has been doing so since the 1950s. This has t
@@ -12,12 +12,10 @@ Welcome to bnb. data. bl. uk TheBritish National Bibliography(BNB) records the p
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Books](https://github.com/apis-list/apis-list#books)
-
-
 
 
 

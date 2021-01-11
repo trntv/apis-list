@@ -1,6 +1,6 @@
 # Scrapingninja
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/scrapingninja/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/scrapingninja/logo_256x256.png" />
 </p>
 
 ScrapingBee is a Web Scraping API that handles proxies and Headless browser for you, so you can focus on extracting the data you want, and nothing else. Scraping is hard, scraping at scale can be very challenging. 
@@ -19,7 +19,7 @@ It is truly the most simple web scraping API ever
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [SaaS](https://github.com/apis-list/apis-list#saas)
@@ -28,8 +28,6 @@ It is truly the most simple web scraping API ever
 - [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers-and-data-mining)
 - [Data-As-A-Service](https://github.com/apis-list/apis-list#data-as-a-service)
 - [Extraction](https://github.com/apis-list/apis-list#extraction)
-
-
 
 
 

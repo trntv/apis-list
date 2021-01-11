@@ -10,7 +10,7 @@
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Visualizations](https://github.com/apis-list/apis-list#visualizations)
@@ -18,8 +18,6 @@
 - [Collecting](https://github.com/apis-list/apis-list#collecting)
 - [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
 - [Other](https://github.com/apis-list/apis-list#other)
-
-
 
 
 

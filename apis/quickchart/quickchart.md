@@ -1,6 +1,6 @@
 # QuickChart
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/quickchart/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/quickchart/logo_256x256.png" />
 </p>
 
 Open source, no watermarks. . Create a chart image with one API call and embed it anywhere. Send charts in email and other platforms
@@ -12,15 +12,13 @@ Open source, no watermarks. . Create a chart image with one API call and embed i
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Visualizations](https://github.com/apis-list/apis-list#visualizations)
 - [Other](https://github.com/apis-list/apis-list#other)
 - [Charts](https://github.com/apis-list/apis-list#charts)
-
-
 
 
 

@@ -10,12 +10,10 @@ Generate fake data and get by REST API requests. Collection of completely free A
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
-
-
 
 
 

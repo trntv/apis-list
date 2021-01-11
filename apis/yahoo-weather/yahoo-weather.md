@@ -10,12 +10,10 @@ Yahoo Weather API for your apps Get up-to-date weather information for any locat
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Weather](https://github.com/apis-list/apis-list#weather)
-
-
 
 
 

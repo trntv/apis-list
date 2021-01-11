@@ -1,6 +1,6 @@
 # Leaflet.js
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/leaflet-js/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/leaflet-js/logo_256x256.png" />
 </p>
 
 Leaflet is a modern, lightweight open-source JavaScript library for mobile-friendly interactive maps. Leaflet is a modern, lightweight open-source JavaScript library for mobile-friendly interactive maps
@@ -12,12 +12,10 @@ Leaflet is a modern, lightweight open-source JavaScript library for mobile-frien
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
-
-
 
 
 

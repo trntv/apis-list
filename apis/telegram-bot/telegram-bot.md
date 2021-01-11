@@ -11,7 +11,7 @@ To learn how to create…
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Cloud](https://github.com/apis-list/apis-list#cloud)
@@ -20,8 +20,6 @@ To learn how to create…
 - [Mobile](https://github.com/apis-list/apis-list#mobile)
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Bots](https://github.com/apis-list/apis-list#bots)
-
-
 
 
 

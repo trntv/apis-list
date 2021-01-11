@@ -10,15 +10,13 @@ IP Sidekick is an API that returns information about an IP address. You can use 
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Localization](https://github.com/apis-list/apis-list#localization)
 - [Other](https://github.com/apis-list/apis-list#other)
-
-
 
 
 

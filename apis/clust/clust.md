@@ -1,6 +1,6 @@
 # Clust
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/clust/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/clust/logo_256x256.png" />
 </p>
 
 The best way to gather anyone’s documents, directly from your app & without hassle. Offer the best online onboarding experience, document collection and approval workflows to your clients and partners (eSignature included)
@@ -12,7 +12,7 @@ The best way to gather anyone’s documents, directly from your app & without ha
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Forms](https://github.com/apis-list/apis-list#forms)
@@ -28,9 +28,7 @@ The best way to gather anyone’s documents, directly from your app & without ha
 
 
 
-
-
-ent](https://github.com/apis-list/apis-list#customer-relationship-management)
+relationship-management)
 
 
 

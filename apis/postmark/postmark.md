@@ -1,6 +1,6 @@
 # Postmark
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/postmark/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/postmark/logo_256x256.png" />
 </p>
 
 No bulk. That means your app's email isn't stuck waiting behind 500,000 copies of a marketing campaign. Postmark API and developer documentation home with home about integration, API, webhooks and a user guide. Postmark delivers email triggered by an action in your app
@@ -12,13 +12,11 @@ No bulk. That means your app's email isn't stuck waiting behind 500,000 copies o
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Business](https://github.com/apis-list/apis-list#business)
 - [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
-
-
 
 
 

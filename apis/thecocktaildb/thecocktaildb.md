@@ -10,12 +10,10 @@ If you love our service and want extra features you can sign up as a Patreon sup
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Food & Drinks](https://github.com/apis-list/apis-list#food-and-drinks)
-
-
 
 
 

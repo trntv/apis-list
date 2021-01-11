@@ -10,15 +10,13 @@ API Content Negotiation FOAAS will respond to the follo. Introduction FOAAS (Fuc
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Fun](https://github.com/apis-list/apis-list#fun)
 - [Adult](https://github.com/apis-list/apis-list#adult)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Health](https://github.com/apis-list/apis-list#health)
-
-
 
 
 

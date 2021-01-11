@@ -10,7 +10,7 @@ A real-time API for verifying an identity by name, address, date of birth, and s
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
@@ -20,8 +20,6 @@ A real-time API for verifying an identity by name, address, date of birth, and s
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
 - [Security](https://github.com/apis-list/apis-list#security)
 - [Authentication & User Management](https://github.com/apis-list/apis-list#authentication-and-user-management)
-
-
 
 
 

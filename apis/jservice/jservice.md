@@ -10,7 +10,7 @@ Trivia Questions. Get answers, (and the correct questions) from 20+ years of Jeo
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Games](https://github.com/apis-list/apis-list#games)
@@ -20,9 +20,7 @@ Trivia Questions. Get answers, (and the correct questions) from 20+ years of Jeo
 
 
 
-
-
-ics](https://github.com/apis-list/apis-list#games-and-comics)
+s-and-comics)
 
 
 

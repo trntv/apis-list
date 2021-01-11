@@ -10,12 +10,10 @@ v1. 1 Update, adding TrackId and TrackChecksum for future AddLyric function, Add
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
-
-
 
 
 

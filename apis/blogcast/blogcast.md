@@ -10,7 +10,7 @@ Generate audio versions of your articles. Create realistic voice overs for blogs
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
@@ -19,8 +19,6 @@ Generate audio versions of your articles. Create realistic voice overs for blogs
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Conversions](https://github.com/apis-list/apis-list#conversions)
 - [Podcasts](https://github.com/apis-list/apis-list#podcasts)
-
-
 
 
 

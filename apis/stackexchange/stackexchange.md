@@ -10,16 +10,10 @@ The StackExchange API provides RESTful services to all the sites on the StackExc
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Other](https://github.com/apis-list/apis-list#other)
-
-
-
-
-
-her)
 
 
 

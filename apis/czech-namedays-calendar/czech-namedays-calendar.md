@@ -10,7 +10,7 @@ Svátky API Vám řekne kdo má kdy svátek, nebo kdy má kdo svátek. Svátky A
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
@@ -19,8 +19,6 @@ Svátky API Vám řekne kdo má kdy svátek, nebo kdy má kdo svátek. Svátky A
 - [Banking](https://github.com/apis-list/apis-list#banking)
 - [Government](https://github.com/apis-list/apis-list#government)
 - [Worldwide](https://github.com/apis-list/apis-list#worldwide)
-
-
 
 
 

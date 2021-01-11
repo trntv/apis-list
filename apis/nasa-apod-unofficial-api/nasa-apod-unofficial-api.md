@@ -10,12 +10,10 @@ What's this API for? This API is for fetching data from NASA's APOD website - a 
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
-
-
 
 
 

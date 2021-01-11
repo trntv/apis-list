@@ -13,13 +13,11 @@ Let's cooperate!
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Payments](https://github.com/apis-list/apis-list#payments)
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
-
-
 
 
 

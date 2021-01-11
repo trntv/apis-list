@@ -10,16 +10,14 @@ You can GET to retrieve your text and you can POST to change your stored text.  
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Other](https://github.com/apis-list/apis-list#other)
 
 
 
-
-
-blob manager and is completely free.  You may use it to store any sort of text (anything that can be saved as an ASCII string)
+e it to store any sort of text (anything that can be saved as an ASCII string)
 
 
 

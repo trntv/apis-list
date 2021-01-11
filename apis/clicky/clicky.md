@@ -1,6 +1,6 @@
 # Clicky
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/clicky/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/clicky/logo_256x256.png" />
 </p>
 
 Clicky Web Analytics is simply the best way to monitor, analyze, and react to your blog or web site's traffic in real time. Allows you to extract your web site's traffic data into several formats, making it easy to integrate, analyze, or store your data within your own application
@@ -12,12 +12,10 @@ Clicky Web Analytics is simply the best way to monitor, analyze, and react to yo
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
-
-
 
 
 

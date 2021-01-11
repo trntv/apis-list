@@ -10,12 +10,10 @@ Free and open source REST API that provides a simple yet effective way to valida
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
-
-
 
 
 

@@ -1,6 +1,6 @@
 # Visit Rank
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/visit-rank/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/visit-rank/logo_256x256.png" />
 </p>
 
 Get a rank for any of 385 million domains. Visit Rank tells how popular and influential a web domain is
@@ -12,13 +12,11 @@ Get a rank for any of 385 million domains. Visit Rank tells how popular and infl
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [SEO](https://github.com/apis-list/apis-list#seo)
 - [Search](https://github.com/apis-list/apis-list#search)
-
-
 
 
 

@@ -12,13 +12,11 @@ To get direct support from the Nimiq Team and the community, join our social cha
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
 - [Payments](https://github.com/apis-list/apis-list#payments)
-
-
 
 
 

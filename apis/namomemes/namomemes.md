@@ -1,6 +1,6 @@
 # NaMoMemes
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/namomemes/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/namomemes/logo_256x256.png" />
 </p>
 
 Is a description required ? Hail NaMo ! Contribute to theIYD/NaMoMemes development by creating an account on GitHub
@@ -12,12 +12,10 @@ Is a description required ? Hail NaMo ! Contribute to theIYD/NaMoMemes developme
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Health](https://github.com/apis-list/apis-list#health)
-
-
 
 
 

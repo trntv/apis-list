@@ -10,13 +10,11 @@ Natural Language Processing
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Machine Learning](https://github.com/apis-list/apis-list#machine-learning)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
-
-
 
 
 

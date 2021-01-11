@@ -10,12 +10,10 @@ Free foreign currency exchange rates and currency conversion. Best Foreign excha
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
-
-
 
 
 

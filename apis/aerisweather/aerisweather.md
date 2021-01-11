@@ -10,13 +10,11 @@ AerisWeather provides a powerful weather API, mapping platform, and developer to
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Weather](https://github.com/apis-list/apis-list#weather)
 - [Localization](https://github.com/apis-list/apis-list#localization)
-
-
 
 
 

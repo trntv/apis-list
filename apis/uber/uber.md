@@ -1,6 +1,6 @@
 # Uber
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/uber/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/uber/logo_256x256.png" />
 </p>
 
 Discover how the Uber API can easily enhance your app’s user experience and take your innovation further with a wide range of new capabilities. Uber provides API for customizing trip experiences, requesting rides, powering logistics, creating bots and so much more
@@ -12,7 +12,7 @@ Discover how the Uber API can easily enhance your app’s user experience and ta
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Travel](https://github.com/apis-list/apis-list#travel)
@@ -21,8 +21,6 @@ Discover how the Uber API can easily enhance your app’s user experience and ta
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Real Time](https://github.com/apis-list/apis-list#real-time)
-
-
 
 
 

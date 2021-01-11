@@ -10,13 +10,11 @@ Keen IO is a powerful, flexible, and scalable solution that’s literally Big Da
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Machine Learning](https://github.com/apis-list/apis-list#machine-learning)
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
-
-
 
 
 

@@ -10,17 +10,14 @@ Free IP Geolocation API and Accurate IP Database provides country, city, zip cod
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 
 
 
-
-
-ub.com/apis-list/apis-list#currency)
-- [Geography](https://github.com/apis-list/apis-list#geography)
+y](https://github.com/apis-list/apis-list#geography)
 - [Time](https://github.com/apis-list/apis-list#time)
 
 

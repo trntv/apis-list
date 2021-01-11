@@ -10,12 +10,10 @@ Tradier's technology platform - an innovative set of fully hosted APIs, modules 
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
-
-
 
 
 

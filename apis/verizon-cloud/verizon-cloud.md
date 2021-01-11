@@ -10,12 +10,10 @@ API for accessing stored pictures and other files stored by users of Verizon Clo
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
-
-
 
 
 

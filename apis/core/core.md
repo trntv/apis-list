@@ -13,7 +13,7 @@ content - typically a PDF - from many Open Access journals and repositories
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Education](https://github.com/apis-list/apis-list#education)
@@ -23,9 +23,7 @@ content - typically a PDF - from many Open Access journals and repositories
 
 
 
-
-
-- [Library](https://github.com/apis-list/apis-list#library)
+st#library)
 
 
 

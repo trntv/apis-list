@@ -10,12 +10,10 @@ Add YouTube functionality to your sites and apps. . Allows developers to access 
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
-
-
 
 
 

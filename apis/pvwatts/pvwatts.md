@@ -10,12 +10,10 @@ system_capacit. format Yes Type: string Default: None Options: json, xml The out
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Environment](https://github.com/apis-list/apis-list#environment)
-
-
 
 
 

@@ -10,7 +10,7 @@ Our Astronomy API provides timings for sunrise, sunset, moonrise, moonset, sun a
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
@@ -19,8 +19,6 @@ Our Astronomy API provides timings for sunrise, sunset, moonrise, moonset, sun a
 - [Education](https://github.com/apis-list/apis-list#education)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
-
-
 
 
 

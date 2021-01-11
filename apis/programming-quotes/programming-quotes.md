@@ -1,6 +1,6 @@
 # Programming Quotes
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/programming-quotes/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/programming-quotes/logo_256x256.png" />
 </p>
 
 Programming Quotes API for open source projects.  Contribute to skolakoda/programming-quotes-api development by creating an account on GitHub
@@ -12,12 +12,10 @@ Programming Quotes API for open source projects.  Contribute to skolakoda/progra
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Health](https://github.com/apis-list/apis-list#health)
-
-
 
 
 

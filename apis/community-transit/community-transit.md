@@ -1,6 +1,6 @@
 # Community Transit
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/apis/community-transit/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/community-transit/logo_256x256.png" />
 </p>
 
 Transitland's centralized web service API for both querying and editing aggregated transit data from around the world - transitland/transitland-datastore. Transitland's centralized web service API for both querying and editing aggregated transit data from around the world - transitland/transitland-datastore
@@ -12,12 +12,10 @@ Transitland's centralized web service API for both querying and editing aggregat
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
-
-
 
 
 

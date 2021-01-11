@@ -10,12 +10,10 @@ You may have mistyped the address or the page may have moved Take me back to the
 **URI**:  N/A 
 
 ## 💬 Discussion:
-[Create discussion](link)
+[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
-
-
 
 
 
