@@ -13,9 +13,9 @@ Monetize across platforms with multiple ad formats.  Mobile Ads Monetize your gl
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Marketing](https://github.com/apis-list/apis-list#marketing)
+- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing-and-seo)
 - [Mobile](https://github.com/apis-list/apis-list#mobile)
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
 
 
 

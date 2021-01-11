@@ -13,13 +13,13 @@ API Examples Current ISS Location The International Space Station is moving at c
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
+- [Space](https://github.com/apis-list/apis-list#space)
+- [Fun](https://github.com/apis-list/apis-list#fun)
 - [Real Time](https://github.com/apis-list/apis-list#real-time)
 - [Notifications](https://github.com/apis-list/apis-list#notifications)
 - [Events](https://github.com/apis-list/apis-list#events)
 - [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
 - [Tools](https://github.com/apis-list/apis-list#tools)
-- [Space](https://github.com/apis-list/apis-list#space)
-- [Fun](https://github.com/apis-list/apis-list#fun)
 
 
 

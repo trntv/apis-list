@@ -15,9 +15,9 @@ io detects nudity in images and helps to recognise and filter undesired content.
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Recognition](https://github.com/apis-list/apis-list#recognition)
+- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 
 
 

@@ -13,8 +13,8 @@ With the Freesound API you can browse, search, and retrieve information about Fr
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Search](https://github.com/apis-list/apis-list#search)
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
+- [Search](https://github.com/apis-list/apis-list#search)
 
 
 

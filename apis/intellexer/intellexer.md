@@ -13,19 +13,23 @@ Processing (NLP) Service including sentiment analysis, content extraction, and l
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Extraction](https://github.com/apis-list/apis-list#extraction)
-- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
-- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
-- [Keywords](https://github.com/apis-list/apis-list#keywords)
-- [Content Management](https://github.com/apis-list/apis-list#content-management)
-- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers-and-data-mining)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
-- [Big Data](https://github.com/apis-list/apis-list#big-data)
-- [Natural Language Processing](https://github.com/apis-list/apis-list#natural-language-processing)
+- [Text](https://github.com/apis-list/apis-list#text)
+- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Search](https://github.com/apis-list/apis-list#search)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
-- [Machine Learning](https://github.com/apis-list/apis-list#machine-learning)
-- [Text](https://github.com/apis-list/apis-list#text)
+- [Keywords](https://github.com/apis-list/apis-list#keywords)
+- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
+- [Natural Language Processing](https://github.com/apis-list/apis-list#natural-language-processing)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers-and-data-mining)
+- [Big Data](https://github.com/apis-list/apis-list#big-data)
+- [Extraction](https://github.com/apis-list/apis-list#extraction)
+- [Content Management](https://github.com/apis-list/apis-list#content-management)
+- [Development](https://github.com/apis-list/apis-list#development)
+
+
+
+#text)
 - [Development](https://github.com/apis-list/apis-list#development)
 
 

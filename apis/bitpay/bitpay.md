@@ -15,8 +15,8 @@ A simple, RESTful API to the most powerful bitcoin infrastructure on the planet.
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
 - [Payments](https://github.com/apis-list/apis-list#payments)
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
 
 
 

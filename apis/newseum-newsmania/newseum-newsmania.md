@@ -13,8 +13,8 @@ Gives you access to 1000s of Trivia questions. Your browser will redirect to you
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Trivia](https://github.com/apis-list/apis-list#trivia)
 - [Games](https://github.com/apis-list/apis-list#games)
+- [Trivia](https://github.com/apis-list/apis-list#trivia)
 
 
 

@@ -15,8 +15,8 @@ They have a limited free plan and a variety of paid plans starting for $9 per mo
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Translation](https://github.com/apis-list/apis-list#translation)
 - [Languages](https://github.com/apis-list/apis-list#languages)
+- [Translation](https://github.com/apis-list/apis-list#translation)
 
 
 

@@ -13,16 +13,20 @@ Multilingual summarization, keywords and sentiment analysis, language recognitio
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Aggregation](https://github.com/apis-list/apis-list#aggregation)
-- [Natural Language Processing](https://github.com/apis-list/apis-list#natural-language-processing)
-- [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
 - [Extraction](https://github.com/apis-list/apis-list#extraction)
-- [Machine Learning](https://github.com/apis-list/apis-list#machine-learning)
+- [Aggregation](https://github.com/apis-list/apis-list#aggregation)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
-- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
+- [Annotations](https://github.com/apis-list/apis-list#annotations)
+- [Natural Language Processing](https://github.com/apis-list/apis-list#natural-language-processing)
+- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
+- [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
+
+
+
+feeds)
 - [Annotations](https://github.com/apis-list/apis-list#annotations)
 
 

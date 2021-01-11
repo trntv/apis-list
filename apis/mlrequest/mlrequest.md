@@ -15,7 +15,11 @@ Models are duplicated across 5 data centers around the world with latency-routed
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Machine Learning](https://github.com/apis-list/apis-list#machine-learning)
+- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+
+
+
+ne-learning)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 
 

@@ -15,8 +15,8 @@ Discover APIs, learn how to use them, try them out interactively, and sign up to
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Shopping](https://github.com/apis-list/apis-list#shopping)
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
 
 
 

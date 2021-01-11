@@ -19,9 +19,9 @@ Stream's API and SDKs enable developers to build messaging solutions very quickl
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
+- [Development](https://github.com/apis-list/apis-list#development)
 
 
 

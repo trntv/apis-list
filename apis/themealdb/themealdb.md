@@ -13,10 +13,10 @@ If you love our service and want extra features you can sign up as a Patreon sup
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Images](https://github.com/apis-list/apis-list#images)
-- [Open Source](https://github.com/apis-list/apis-list#open-source)
 - [Food & Drinks](https://github.com/apis-list/apis-list#food-and-drinks)
 - [Databases](https://github.com/apis-list/apis-list#databases)
+- [Images](https://github.com/apis-list/apis-list#images)
+- [Open Source](https://github.com/apis-list/apis-list#open-source)
 
 
 

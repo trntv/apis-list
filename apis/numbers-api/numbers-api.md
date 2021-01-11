@@ -15,8 +15,8 @@ Numbers. Number of the day, random number generation , number facts and anything
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Education](https://github.com/apis-list/apis-list#education)
 - [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
+- [Education](https://github.com/apis-list/apis-list#education)
 
 
 

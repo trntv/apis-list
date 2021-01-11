@@ -15,8 +15,8 @@ Allows companies to conduct commerce with Best Buy services within their own e-c
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication-and-user-management)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
+- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication-and-user-management)
 
 
 

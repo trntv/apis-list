@@ -15,9 +15,9 @@ The simplest way to cost effectively store, serve, backup, and archive a virtual
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Platform-As-A-Service](https://github.com/apis-list/apis-list#platform-as-a-service)
 - [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
 - [Cloud](https://github.com/apis-list/apis-list#cloud)
+- [Platform-As-A-Service](https://github.com/apis-list/apis-list#platform-as-a-service)
 
 
 

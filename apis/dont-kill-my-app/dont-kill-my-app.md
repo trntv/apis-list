@@ -15,8 +15,8 @@ Android vendors, don't kill my app! Contribute to urbandroid-team/dont-kill-my-a
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Security](https://github.com/apis-list/apis-list#security)
 - [Other](https://github.com/apis-list/apis-list#other)
+- [Security](https://github.com/apis-list/apis-list#security)
 
 
 

@@ -25,7 +25,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 ## APIs
 {{ range $category, $apis := .apis }}
 {{- $length := len $apis }} {{ if gt $length 0 -}}
-### {{ $category }}
+### {{ $category | category_icon }}{{ $category }}
 {{ range $apis -}}
 {{- if eq .IsActive true -}}
 - [{{ .Name }}](https://github.com/apis-list/apis-list/blob/main/apis/{{.Slug}}/{{.Slug}}.md) - {{ .Description | short }}

@@ -20,6 +20,9 @@ func Render(l APIs, dir string) error {
 		"short": func(s string) string {
 			return FirstSentence(s)
 		},
+		"category_icon": func(s string) string {
+			return CategoryIcons[s]
+		},
 	}
 	templates, err := template.New("readme").Funcs(funcs).ParseGlob(path.Join(dir, "templates", "*.gotmpl"))
 	if err != nil {
@@ -33,7 +36,7 @@ func Render(l APIs, dir string) error {
 	defer readmeFile.Close()
 
 	err = templates.Lookup(readmeTmplName).Execute(readmeFile, map[string]interface{}{
-		"apis": l.ByCategory(),
+		"apis":      l.ByCategory(),
 		"graveyard": l.Graveyard(),
 	})
 	if err != nil {
@@ -67,10 +70,10 @@ func Render(l APIs, dir string) error {
 }
 
 func FirstSentence(s string) string {
-	var sep = []string{".", "!", "?"}
+	var sep = []string{".", "!", "?", "\n"}
 	for _, v := range sep {
 		if strings.Contains(s, v) {
-			return strings.Split(s, v)[0] + v
+			return strings.Split(s, v)[0]
 		}
 	}
 

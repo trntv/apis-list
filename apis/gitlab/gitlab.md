@@ -15,10 +15,10 @@ Access to GitLab's API.  Documentation for GitLab Community Edition, GitLab Ente
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
+- [Project Management](https://github.com/apis-list/apis-list#project-management)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 - [Open Source](https://github.com/apis-list/apis-list#open-source)
-- [Project Management](https://github.com/apis-list/apis-list#project-management)
 
 
 

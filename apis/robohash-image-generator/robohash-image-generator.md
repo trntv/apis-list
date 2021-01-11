@@ -15,9 +15,9 @@ Generates cool looking robot image for any text
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
+- [Images](https://github.com/apis-list/apis-list#images)
 - [Robots](https://github.com/apis-list/apis-list#robots)
 - [Social](https://github.com/apis-list/apis-list#social)
-- [Images](https://github.com/apis-list/apis-list#images)
 
 
 

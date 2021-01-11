@@ -15,10 +15,10 @@ Historical, real-time and nowcast weather data.
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Analytics](https://github.com/apis-list/apis-list#analytics)
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Weather](https://github.com/apis-list/apis-list#weather)
+- [Analytics](https://github.com/apis-list/apis-list#analytics)
+- [Open Data](https://github.com/apis-list/apis-list#open-data)
 
 
 

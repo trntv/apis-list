@@ -15,11 +15,11 @@ Square provides support and tools for you to build apps for today’s business n
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 - [Payments](https://github.com/apis-list/apis-list#payments)
 - [Business](https://github.com/apis-list/apis-list#business)
 - [Mobile](https://github.com/apis-list/apis-list#mobile)
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
 
 
 

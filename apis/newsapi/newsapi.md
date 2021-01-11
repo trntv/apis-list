@@ -15,11 +15,11 @@ Search worldwide news articles and headlines from all over the web in real-time 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
+- [Metadata](https://github.com/apis-list/apis-list#metadata)
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Data-As-A-Service](https://github.com/apis-list/apis-list#data-as-a-service)
 - [Images](https://github.com/apis-list/apis-list#images)
-- [Metadata](https://github.com/apis-list/apis-list#metadata)
 
 
 

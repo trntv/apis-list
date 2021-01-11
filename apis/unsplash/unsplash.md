@@ -15,9 +15,9 @@ but for photos.  Lorem Ipsum. Lorem Ipsum
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
+- [Images](https://github.com/apis-list/apis-list#images)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Photography](https://github.com/apis-list/apis-list#photography)
-- [Images](https://github.com/apis-list/apis-list#images)
 
 
 

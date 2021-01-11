@@ -15,9 +15,9 @@ IP Address Geolocation to Country, City, Region, Latitude, Longitude, ZIP Code, 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Marketing](https://github.com/apis-list/apis-list#marketing)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing-and-seo)
 
 
 

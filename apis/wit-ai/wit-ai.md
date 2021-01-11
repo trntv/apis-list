@@ -13,7 +13,11 @@ Natural Language Processing
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Machine Learning](https://github.com/apis-list/apis-list#machine-learning)
+- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+
+
+
+ne-learning)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 
 

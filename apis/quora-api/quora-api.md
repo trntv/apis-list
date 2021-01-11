@@ -13,8 +13,8 @@ Connect the people who have knowledge to the people who need it, to bring togeth
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Social](https://github.com/apis-list/apis-list#social)
+- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 
 
 

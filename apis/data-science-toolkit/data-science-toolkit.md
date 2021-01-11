@@ -15,11 +15,11 @@ A collection of the best open data sets and open-source tools for data science. 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
+- [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Reference](https://github.com/apis-list/apis-list#reference)
 - [Addresses](https://github.com/apis-list/apis-list#addresses)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
-- [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
 
 
 

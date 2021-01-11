@@ -13,11 +13,11 @@ Introduction The base URL for all of the requests detailed in this documentation
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
+- [Automation](https://github.com/apis-list/apis-list#automation)
 - [CRM](https://github.com/apis-list/apis-list#crm)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
-- [Marketing](https://github.com/apis-list/apis-list#marketing)
+- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing-and-seo)
 - [Business](https://github.com/apis-list/apis-list#business)
-- [Automation](https://github.com/apis-list/apis-list#automation)
 
 
 

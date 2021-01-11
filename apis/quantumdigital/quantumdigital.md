@@ -15,10 +15,10 @@
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Marketing](https://github.com/apis-list/apis-list#marketing)
-- [Business](https://github.com/apis-list/apis-list#business)
 - [B2B](https://github.com/apis-list/apis-list#b2b)
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
+- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing-and-seo)
+- [Business](https://github.com/apis-list/apis-list#business)
 
 
 

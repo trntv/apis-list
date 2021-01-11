@@ -15,11 +15,11 @@ Allows users to find details about Genius artists and songs. Use our API and hel
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
+- [Text](https://github.com/apis-list/apis-list#text)
 - [Wiki](https://github.com/apis-list/apis-list#wiki)
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
 - [Annotations](https://github.com/apis-list/apis-list#annotations)
 - [Editing](https://github.com/apis-list/apis-list#editing)
-- [Text](https://github.com/apis-list/apis-list#text)
 
 
 

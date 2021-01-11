@@ -15,12 +15,12 @@ FavQs allows you to collect, discover, and share your favorite quotes.  A list o
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Catalogs](https://github.com/apis-list/apis-list#catalogs)
 - [Reference](https://github.com/apis-list/apis-list#reference)
 - [Text](https://github.com/apis-list/apis-list#text)
 - [Writing](https://github.com/apis-list/apis-list#writing)
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+- [Catalogs](https://github.com/apis-list/apis-list#catalogs)
 
 
 

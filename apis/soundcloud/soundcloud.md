@@ -13,8 +13,8 @@ Using the SoundCloud API, you can build applications that take sound on the web 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Social](https://github.com/apis-list/apis-list#social)
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
+- [Social](https://github.com/apis-list/apis-list#social)
 
 
 

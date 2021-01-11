@@ -13,10 +13,10 @@ Overview Quickstart Expert user? Allergic to lengthy documentation sites?Follow 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Business](https://github.com/apis-list/apis-list#business)
 - [Jobs](https://github.com/apis-list/apis-list#jobs)
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
-- [Marketing](https://github.com/apis-list/apis-list#marketing)
+- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing-and-seo)
+- [Business](https://github.com/apis-list/apis-list#business)
 
 
 

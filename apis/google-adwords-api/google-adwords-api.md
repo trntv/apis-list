@@ -16,7 +16,7 @@ A SOAP API that provides access to Google Ads accounts, campaigns, and reports. 
 
 ## Categories:
 - [Search](https://github.com/apis-list/apis-list#search)
-- [Marketing](https://github.com/apis-list/apis-list#marketing)
+- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing-and-seo)
 
 
 

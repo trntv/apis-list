@@ -15,14 +15,18 @@ The best way to gather anyone’s documents, directly from your app & without ha
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
+- [SaaS](https://github.com/apis-list/apis-list#saas)
 - [Forms](https://github.com/apis-list/apis-list#forms)
+- [CRM](https://github.com/apis-list/apis-list#crm)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
+- [Surveys](https://github.com/apis-list/apis-list#surveys)
 - [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
 - [Business](https://github.com/apis-list/apis-list#business)
-- [CRM](https://github.com/apis-list/apis-list#crm)
-- [Contracts](https://github.com/apis-list/apis-list#contracts)
-- [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
-- [SaaS](https://github.com/apis-list/apis-list#saas)
+
+
+
+
 - [Customer Service](https://github.com/apis-list/apis-list#customer-service)
 - [Surveys](https://github.com/apis-list/apis-list#surveys)
 

@@ -15,9 +15,9 @@ League of Legends Wallpapers website official API. This is a lightweight public 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
+- [Images](https://github.com/apis-list/apis-list#images)
 - [Games](https://github.com/apis-list/apis-list#games)
 - [Search](https://github.com/apis-list/apis-list#search)
-- [Images](https://github.com/apis-list/apis-list#images)
 
 
 

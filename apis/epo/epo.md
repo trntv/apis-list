@@ -13,8 +13,8 @@ OPS dat. Open Patent Services (OPS) Open Patent Services (OPS) is a web service 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Government](https://github.com/apis-list/apis-list#government)
 - [Patent](https://github.com/apis-list/apis-list#patent)
+- [Government](https://github.com/apis-list/apis-list#government)
 
 
 

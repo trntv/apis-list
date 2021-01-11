@@ -13,9 +13,9 @@ Signup or login today.  Join thousands of developers who use SwaggerHub to build
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Events](https://github.com/apis-list/apis-list#events)
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
 
 
 

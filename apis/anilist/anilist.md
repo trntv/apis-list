@@ -15,9 +15,9 @@ Contribute to AniList/ApiV2-GraphQL-Docs development by creating an account on G
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Animation](https://github.com/apis-list/apis-list#animation)
 - [Japanese](https://github.com/apis-list/apis-list#japanese)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+- [Animation](https://github.com/apis-list/apis-list#animation)
 
 
 

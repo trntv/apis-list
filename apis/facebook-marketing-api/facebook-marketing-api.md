@@ -13,7 +13,7 @@ Marketing API Marketing APIs are a collection of Graph API endpoints that can be
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Marketing](https://github.com/apis-list/apis-list#marketing)
+- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing-and-seo)
 - [Social](https://github.com/apis-list/apis-list#social)
 
 

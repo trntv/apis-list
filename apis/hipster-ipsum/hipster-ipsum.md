@@ -15,8 +15,8 @@ Generates Hipster Ipsum text
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Text](https://github.com/apis-list/apis-list#text)
 - [Testing](https://github.com/apis-list/apis-list#testing)
+- [Text](https://github.com/apis-list/apis-list#text)
 
 
 

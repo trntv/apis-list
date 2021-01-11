@@ -13,12 +13,12 @@ Our Astronomy API provides timings for sunrise, sunset, moonrise, moonset, sun a
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
-- [Localization](https://github.com/apis-list/apis-list#localization)
-- [Space](https://github.com/apis-list/apis-list#space)
 - [Education](https://github.com/apis-list/apis-list#education)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
+- [Open Data](https://github.com/apis-list/apis-list#open-data)
+- [Localization](https://github.com/apis-list/apis-list#localization)
+- [Space](https://github.com/apis-list/apis-list#space)
 
 
 

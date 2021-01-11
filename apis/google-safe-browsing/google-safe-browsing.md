@@ -15,8 +15,8 @@ APIs to access the Google Safe Browsing lists of unsafe web resources. APIs to a
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Spam](https://github.com/apis-list/apis-list#spam)
 - [Security](https://github.com/apis-list/apis-list#security)
+- [Spam](https://github.com/apis-list/apis-list#spam)
 
 
 

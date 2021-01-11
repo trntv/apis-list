@@ -15,8 +15,8 @@ FIDEL is a card-linked API that lets developers create web and mobile applicatio
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Payments](https://github.com/apis-list/apis-list#payments)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
+- [Payments](https://github.com/apis-list/apis-list#payments)
 
 
 

@@ -14,8 +14,12 @@ Stop bots and manual spam from reaching you or your customer. Stop bots and manu
 
 ## Categories:
 - [Spam](https://github.com/apis-list/apis-list#spam)
-- [Machine Learning](https://github.com/apis-list/apis-list#machine-learning)
+- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Development](https://github.com/apis-list/apis-list#development)
+
+
+
+development)
 
 
 

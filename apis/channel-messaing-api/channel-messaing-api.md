@@ -15,9 +15,9 @@ Channel Messaging API lets your build real-time application
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
-- [Customer Service](https://github.com/apis-list/apis-list#customer-service)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
 - [Bots](https://github.com/apis-list/apis-list#bots)
+- [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
 
 
 

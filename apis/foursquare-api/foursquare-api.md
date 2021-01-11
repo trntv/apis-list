@@ -15,11 +15,11 @@ Gives you access to our world-class places database and the ability to interact 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Social](https://github.com/apis-list/apis-list#social)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Mobile](https://github.com/apis-list/apis-list#mobile)
 - [Photography](https://github.com/apis-list/apis-list#photography)
 - [Search](https://github.com/apis-list/apis-list#search)
+- [Social](https://github.com/apis-list/apis-list#social)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 
 
 

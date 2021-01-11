@@ -15,12 +15,12 @@ Whether you have one input or billions, you are only steps away from using AI to
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Images](https://github.com/apis-list/apis-list#images)
-- [Photography](https://github.com/apis-list/apis-list#photography)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
 - [Recognition](https://github.com/apis-list/apis-list#recognition)
+- [Images](https://github.com/apis-list/apis-list#images)
+- [Photography](https://github.com/apis-list/apis-list#photography)
 
 
 

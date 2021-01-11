@@ -15,8 +15,8 @@ Invoicing for online businesses. Simplify your invoicing process and get paid on
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Payments](https://github.com/apis-list/apis-list#payments)
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
 
 
 

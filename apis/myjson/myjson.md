@@ -15,8 +15,8 @@ A simple JSON store for your web or mobile app
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
 - [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
+- [Development](https://github.com/apis-list/apis-list#development)
 
 
 

@@ -13,9 +13,9 @@ The API is an open source multi ledger API, that allows developers to build mult
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Accounting](https://github.com/apis-list/apis-list#accounting)
 - [Open Source](https://github.com/apis-list/apis-list#open-source)
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
+- [Accounting](https://github.com/apis-list/apis-list#accounting)
 
 
 
