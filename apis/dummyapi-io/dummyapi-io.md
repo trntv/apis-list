@@ -17,7 +17,11 @@ Simple API that includes a common data for most of the applications. Like user i
 
 ## 🗄️ Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
+- [Data](https://github.com/apis-list/apis-list#data)
+
+
+
+-data)
 
 
 

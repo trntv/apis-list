@@ -19,7 +19,11 @@ Historical, real-time and nowcast weather data.
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Weather](https://github.com/apis-list/apis-list#weather)
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
+- [Data](https://github.com/apis-list/apis-list#data)
+
+
+
+-data)
 
 
 

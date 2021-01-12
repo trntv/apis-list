@@ -16,8 +16,12 @@ Tracks United States drone strikes. Real-time and historical data about every re
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Data](https://github.com/apis-list/apis-list#data)
 - [Other](https://github.com/apis-list/apis-list#other)
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
+
+
+
+-data)
 
 
 

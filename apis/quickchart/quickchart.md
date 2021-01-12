@@ -16,10 +16,14 @@ Open source, no watermarks. . Create a chart image with one API call and embed i
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
+- [Charts](https://github.com/apis-list/apis-list#charts)
+- [Data](https://github.com/apis-list/apis-list#data)
 - [Visualizations](https://github.com/apis-list/apis-list#visualizations)
 - [Other](https://github.com/apis-list/apis-list#other)
-- [Charts](https://github.com/apis-list/apis-list#charts)
+
+
+
+harts)
 
 
 

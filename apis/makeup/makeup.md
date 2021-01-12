@@ -14,9 +14,9 @@ Search makeup products
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Health](https://github.com/apis-list/apis-list#health)
 - [Fashion](https://github.com/apis-list/apis-list#fashion)
 - [Images](https://github.com/apis-list/apis-list#images)
+- [Health](https://github.com/apis-list/apis-list#health)
 
 
 

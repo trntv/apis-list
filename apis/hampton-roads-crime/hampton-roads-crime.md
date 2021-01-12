@@ -17,7 +17,11 @@ Let’s you get most recent and historical crime data so you feel safe in your n
 
 ## 🗄️ Categories:
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
+- [Data](https://github.com/apis-list/apis-list#data)
+
+
+
+-data)
 
 
 

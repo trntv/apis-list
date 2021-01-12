@@ -16,11 +16,11 @@ Developer API trash nothing! provides a REST API which allows developers to buil
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
+- [Sustainability](https://github.com/apis-list/apis-list#sustainability)
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Community](https://github.com/apis-list/apis-list#community)
 - [Environment](https://github.com/apis-list/apis-list#environment)
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Sustainability](https://github.com/apis-list/apis-list#sustainability)
 
 
 

@@ -16,8 +16,12 @@ When to use JSONPlaceholder is a free online REST API that you can use whenever 
 ## 🗄️ Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Prototype](https://github.com/apis-list/apis-list#prototype)
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
+- [Data](https://github.com/apis-list/apis-list#data)
 - [Testing](https://github.com/apis-list/apis-list#testing)
+
+
+
+sting)
 
 
 

@@ -14,12 +14,12 @@ Multilingual summarization, keywords and sentiment analysis, language recognitio
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
-- [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers-and-data-mining)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
+- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+- [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
 
 
 

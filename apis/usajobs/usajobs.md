@@ -16,8 +16,8 @@ USAJOBS API Terms of Service As a USAJOBS API Consumer, you agree to the followi
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Jobs](https://github.com/apis-list/apis-list#jobs)
 - [Government](https://github.com/apis-list/apis-list#government)
+- [Jobs](https://github.com/apis-list/apis-list#jobs)
 
 
 

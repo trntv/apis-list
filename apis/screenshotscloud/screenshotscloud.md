@@ -16,10 +16,10 @@ With our website screenshot API you can automate high quality real browser scree
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Photography](https://github.com/apis-list/apis-list#photography)
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 - [Browsers](https://github.com/apis-list/apis-list#browsers)
 - [Domains](https://github.com/apis-list/apis-list#domains)
-- [Photography](https://github.com/apis-list/apis-list#photography)
 
 
 

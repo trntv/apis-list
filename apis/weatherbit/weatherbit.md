@@ -3,7 +3,7 @@
     <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/weatherbit/logo_256x256.png" alt="Weatherbit Logo"/>
 </p>
 
-Weather API Documentation.  Use our Weather API to access weather forecasts, and historical weather data to power your applications!. Access forecasts, current weather, and historical weather data for any point on the Earth!
+Weather API Documentation. Use our Weather API to access weather forecasts, and historical weather data to power your applications!. Access forecasts, current weather, and historical weather data for any point on the Earth!
 
 ##  🔗 Links
 **Docs / Website**: https://www.weatherbit.io/api
@@ -16,9 +16,13 @@ Weather API Documentation.  Use our Weather API to access weather forecasts, and
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Weather](https://github.com/apis-list/apis-list#weather)
 - [Environment](https://github.com/apis-list/apis-list#environment)
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
-- [Data-As-A-Service](https://github.com/apis-list/apis-list#data-as-a-service)
+- [Data](https://github.com/apis-list/apis-list#data)
+
+
+
+pis-list#data-as-a-service)
 - [Weather](https://github.com/apis-list/apis-list#weather)
 
 

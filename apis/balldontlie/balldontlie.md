@@ -15,7 +15,11 @@ Introduction Welcome to the balldontlie API! You can use our free API to access 
 
 ## 🗄️ Categories:
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
+- [Data](https://github.com/apis-list/apis-list#data)
+
+
+
+-data)
 
 
 

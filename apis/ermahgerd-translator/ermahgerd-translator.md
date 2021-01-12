@@ -16,10 +16,10 @@ This translates text to ERMAHGERD
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Fun](https://github.com/apis-list/apis-list#fun)
 - [Meme](https://github.com/apis-list/apis-list#meme)
 - [Translation](https://github.com/apis-list/apis-list#translation)
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 
 
 

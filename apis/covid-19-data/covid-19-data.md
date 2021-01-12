@@ -17,7 +17,11 @@ fr/v1. The API provides realtime and historical data on Coronavirus COVID-19 con
 
 ## 🗄️ Categories:
 - [Health](https://github.com/apis-list/apis-list#health)
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
+- [Data](https://github.com/apis-list/apis-list#data)
+
+
+
+-data)
 
 
 

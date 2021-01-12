@@ -16,8 +16,8 @@ No bulk. That means your app's email isn't stuck waiting behind 500,000 copies o
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Business](https://github.com/apis-list/apis-list#business)
 - [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
+- [Business](https://github.com/apis-list/apis-list#business)
 
 
 

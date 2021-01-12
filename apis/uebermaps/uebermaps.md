@@ -14,8 +14,8 @@ uebermaps are interactive maps that enable people to. Hello developer.  This is 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Social](https://github.com/apis-list/apis-list#social)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 
 
 

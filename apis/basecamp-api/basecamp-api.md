@@ -16,9 +16,9 @@ A web based system for managing collaborative projects.  Simple manipulations of
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Business](https://github.com/apis-list/apis-list#business)
 - [Project Management](https://github.com/apis-list/apis-list#project-management)
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
+- [Business](https://github.com/apis-list/apis-list#business)
 
 
 

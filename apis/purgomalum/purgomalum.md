@@ -14,9 +14,9 @@ PurgoMalum is a simple, free, RESTful web service for filtering and removing con
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
 - [Text](https://github.com/apis-list/apis-list#text)
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
 
 
 

@@ -14,10 +14,10 @@ Get images cartegorized by tags.
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Comics & Anime](https://github.com/apis-list/apis-list#comics-and-anime)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Adult](https://github.com/apis-list/apis-list#adult)
+- [Comics & Anime](https://github.com/apis-list/apis-list#comics-and-anime)
 
 
 

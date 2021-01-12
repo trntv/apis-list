@@ -16,9 +16,9 @@ CheapShark is a price comparison website for digital PC Games.  We keep track of
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Games](https://github.com/apis-list/apis-list#games)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Games](https://github.com/apis-list/apis-list#games)
 
 
 

@@ -14,9 +14,12 @@ Build blockchain applications easily with our web APIs and callbacks. High throu
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Platform-As-A-Service](https://github.com/apis-list/apis-list#platform-as-a-service)
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
+
+
+
+ [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 
 
 

@@ -16,11 +16,11 @@ com is the most popular place to securely buy, store, and trade Bitcoin, Ethereu
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Government](https://github.com/apis-list/apis-list#government)
+- [Currency](https://github.com/apis-list/apis-list#currency)
 - [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
-- [Government](https://github.com/apis-list/apis-list#government)
-- [Currency](https://github.com/apis-list/apis-list#currency)
 
 
 

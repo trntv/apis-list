@@ -16,9 +16,9 @@ Hire in any profession you can think of using our API, on demand–developers, d
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Jobs](https://github.com/apis-list/apis-list#jobs)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Business](https://github.com/apis-list/apis-list#business)
+- [Jobs](https://github.com/apis-list/apis-list#jobs)
 
 
 

@@ -15,7 +15,11 @@ Yes or No
 
 ## 🗄️ Categories:
 - [Testing](https://github.com/apis-list/apis-list#testing)
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
+- [Data](https://github.com/apis-list/apis-list#data)
+
+
+
+-data)
 
 
 

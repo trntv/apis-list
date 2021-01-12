@@ -16,9 +16,9 @@ Extract relevant content from articles. ContentXtractor automatically extracts r
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
 - [Content Management](https://github.com/apis-list/apis-list#content-management)
 - [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers-and-data-mining)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
 
 
 

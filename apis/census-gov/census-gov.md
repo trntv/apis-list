@@ -14,8 +14,12 @@ Access demographic, economic and population data from the U.S. Census Bureau. Ex
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Data](https://github.com/apis-list/apis-list#data)
 - [Government](https://github.com/apis-list/apis-list#government)
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
+
+
+
+-data)
 
 
 

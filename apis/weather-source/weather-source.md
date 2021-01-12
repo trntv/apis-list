@@ -16,10 +16,14 @@ Powerful Weather API built for systems that demand speed, reliability and heavy 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Data](https://github.com/apis-list/apis-list#data)
 - [Space](https://github.com/apis-list/apis-list#space)
 - [Weather](https://github.com/apis-list/apis-list#weather)
 - [Databases](https://github.com/apis-list/apis-list#databases)
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
+
+
+
+-data)
 
 
 

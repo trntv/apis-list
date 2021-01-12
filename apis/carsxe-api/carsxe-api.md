@@ -17,13 +17,17 @@ Get access to millions of vehicle records, specs, ownership costs and market val
 
 ## 🗄️ Categories:
 - [Big Data](https://github.com/apis-list/apis-list#big-data)
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
+- [Data](https://github.com/apis-list/apis-list#data)
 - [Geography](https://github.com/apis-list/apis-list#geography)
-- [Data-As-A-Service](https://github.com/apis-list/apis-list#data-as-a-service)
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
 - [Vehicle](https://github.com/apis-list/apis-list#vehicle)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
+
+
+
+
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 
 

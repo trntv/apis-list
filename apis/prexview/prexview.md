@@ -16,12 +16,12 @@ Transform your data from XML or JSON to high quality, beautiful and readable doc
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
-- [Images](https://github.com/apis-list/apis-list#images)
 - [Integration](https://github.com/apis-list/apis-list#integration)
 - [Tools](https://github.com/apis-list/apis-list#tools)
 - [Payments](https://github.com/apis-list/apis-list#payments)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
+- [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
+- [Images](https://github.com/apis-list/apis-list#images)
 
 
 

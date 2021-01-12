@@ -14,9 +14,9 @@ The Iconfinder API is a HTTP JSON API and allows you to programatically access r
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Search](https://github.com/apis-list/apis-list#search)
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
-- [Search](https://github.com/apis-list/apis-list#search)
 
 
 

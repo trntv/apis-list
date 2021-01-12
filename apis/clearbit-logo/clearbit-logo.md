@@ -16,9 +16,9 @@ If you’re only interested in a Company’s logo, and don’t need any other da
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Business](https://github.com/apis-list/apis-list#business)
 - [Images](https://github.com/apis-list/apis-list#images)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+- [Business](https://github.com/apis-list/apis-list#business)
 
 
 

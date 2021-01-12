@@ -16,8 +16,12 @@ Making data and images of millions of biological specimens available on the web
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
+- [Data](https://github.com/apis-list/apis-list#data)
 - [Animals](https://github.com/apis-list/apis-list#animals)
+
+
+
+imals)
 
 
 

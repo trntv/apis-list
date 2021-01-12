@@ -15,9 +15,13 @@ Introduction This documentation covers the main API (the so-called REST API).  T
 
 ## 🗄️ Categories:
 - [Business](https://github.com/apis-list/apis-list#business)
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
+- [Data](https://github.com/apis-list/apis-list#data)
 - [Reference](https://github.com/apis-list/apis-list#reference)
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
+
+
+
+omics)
 
 
 

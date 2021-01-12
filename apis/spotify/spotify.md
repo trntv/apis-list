@@ -16,8 +16,8 @@ Let’s you search and lookup metadata about artists, tracks and albums.  Spotif
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
 - [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers-and-data-mining)
+- [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
 
 
 

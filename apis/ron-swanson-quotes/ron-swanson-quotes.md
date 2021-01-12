@@ -16,9 +16,9 @@ Node. Node. js server for providing Ron Swanson quotes. Contribute to jamesseanw
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Fun](https://github.com/apis-list/apis-list#fun)
-- [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
 
 
 

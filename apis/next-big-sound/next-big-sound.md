@@ -14,9 +14,13 @@
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
+- [Data](https://github.com/apis-list/apis-list#data)
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
 - [Social](https://github.com/apis-list/apis-list#social)
+
+
+
+ocial)
 
 
 

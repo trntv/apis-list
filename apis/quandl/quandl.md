@@ -17,7 +17,11 @@ The source for financial, economic, and alternative datasets, serving investment
 
 ## 🗄️ Categories:
 - [Search](https://github.com/apis-list/apis-list#search)
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
+- [Data](https://github.com/apis-list/apis-list#data)
+
+
+
+-data)
 
 
 

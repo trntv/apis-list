@@ -14,9 +14,9 @@ com" API Sandbox: "https://sandbox. com" Welcome to Telleroo API documentation! 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 - [Payments](https://github.com/apis-list/apis-list#payments)
 - [Automation](https://github.com/apis-list/apis-list#automation)
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 
 
 
