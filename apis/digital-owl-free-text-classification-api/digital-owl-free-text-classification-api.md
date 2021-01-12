@@ -3,23 +3,24 @@
 
 Free for use text classification, sentiment analysis, semantic similarity and word analysis api.
 
+##  🔗 Links
 **Docs / Website**: https://digitalowl.org
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Text](https://github.com/apis-list/apis-list#text)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 
 
 
-ub.com/apis-list/apis-list#ai-and-ml)
+i-and-ml)
 - [Natural Language Processing](https://github.com/apis-list/apis-list#natural-language-processing)
 
 

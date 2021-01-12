@@ -1,22 +1,23 @@
 # {{ .api.Name }}
 {{ if .api.Logo -}}
 <p align="center">
-    <img width="400" src="{{ .api.Logo }}" />
+    <img width="400" src="{{ .api.Logo }}" alt="{{ .api.Name }} Logo"/>
 </p>
 {{- end }}
 
 {{ .api.Description }}
 
+##  🔗 Links
 **Docs / Website**: {{ .api.URI }}
 
-## Specification:
+## 🧬 Specification:
 **Type**: {{ if  .api.SpecificationType }}{{ .api.SpecificationType }}{{ else }} N/A {{ end }}
 **URI**: {{ if  .api.SpecificationUri }}{{ .api.SpecificationUri }}{{ else }} N/A {{ end }}
 
 ## 💬 Discussion:
 {{ if .api.DiscussionURI -}}[Discuss {{ .api.Name }}](.api.DiscussionURI){{else}}[Create discussion](https://github.com/apis-list/apis-list/discussions/new){{ end }}
 
-## Categories:
+## 🗄️ Categories:
 {{ range .api.Categories -}}
 - [{{ . }}](https://github.com/apis-list/apis-list#{{ . | slug }})
 {{ end }}

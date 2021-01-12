@@ -1,26 +1,30 @@
 # Graphql360
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/graphql360/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/graphql360/logo_256x256.png" alt="Graphql360 Logo"/>
 </p>
 
 Create and consume 360 degree panoramic tours using a GraphQL API.  GraphQL 360 empowers flexible native integrations for 360 degree tours. 360 Degree Tour API, powered by GraphQL
 
+##  🔗 Links
 **Docs / Website**: https://graphql360.com
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
-- [Graphics](https://github.com/apis-list/apis-list#graphics)
+## 🗄️ Categories:
 - [Photography](https://github.com/apis-list/apis-list#photography)
 - [Real Estate](https://github.com/apis-list/apis-list#real-estate)
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
-- [Images](https://github.com/apis-list/apis-list#images)
 - [Games](https://github.com/apis-list/apis-list#games)
+- [Images](https://github.com/apis-list/apis-list#images)
+
+
+
+st#games)
 
 
 

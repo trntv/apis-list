@@ -3,16 +3,17 @@
 
 Integrate your service with Discord — whether it's a bot or a game or whatever your wildest imagination can come up with
 
+##  🔗 Links
 **Docs / Website**: https://discordapp.com/developers/docs/intro
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
 - [Voice](https://github.com/apis-list/apis-list#voice)
 - [Games](https://github.com/apis-list/apis-list#games)

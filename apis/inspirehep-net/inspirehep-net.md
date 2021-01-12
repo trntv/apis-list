@@ -3,16 +3,17 @@
 
 INSPIRE API Q: I want to do automated searching and receive machine readable responses.  Do you have an API? A: YES, Inspire has a feature-rich programmatic query interface for third party tools and
 
+##  🔗 Links
 **Docs / Website**: https://inspirehep.net/info/hep/api?ln=en
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
 
 

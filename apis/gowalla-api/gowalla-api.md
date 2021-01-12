@@ -1,20 +1,21 @@
 # Gowalla API
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/gowalla-api/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/gowalla-api/logo_256x256.png" alt="Gowalla API Logo"/>
 </p>
 
 Gather and compare all kinds of interesting data, they weren't really interactive with Gowalla itself
 
+##  🔗 Links
 **Docs / Website**: 
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Mobile](https://github.com/apis-list/apis-list#mobile)

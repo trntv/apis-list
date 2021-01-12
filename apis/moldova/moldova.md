@@ -3,16 +3,17 @@
 
 Central bank of Moldova
 
+##  🔗 Links
 **Docs / Website**: https://bnm.md/en/content/official-exchange-rates
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Government](https://github.com/apis-list/apis-list#government)
 
 

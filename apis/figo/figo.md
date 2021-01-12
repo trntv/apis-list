@@ -1,20 +1,21 @@
 # Figo
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/figo/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/figo/logo_256x256.png" alt="Figo Logo"/>
 </p>
 
 Banking API that allows you to extract financial data such as transaction history, account balance, account owner name and others to extract from any financial account
 
+##  🔗 Links
 **Docs / Website**: 
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 - [Platform-As-A-Service](https://github.com/apis-list/apis-list#platform-as-a-service)
 - [Payments](https://github.com/apis-list/apis-list#payments)
@@ -26,7 +27,7 @@ Banking API that allows you to extract financial data such as transaction histor
 
 
 
-hub.com/apis-list/apis-list#platform-as-a-service)
+ervice)
 
 
 

@@ -1,27 +1,28 @@
 # Genius
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/genius/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/genius/logo_256x256.png" alt="Genius Logo"/>
 </p>
 
 Allows users to find details about Genius artists and songs. Use our API and help build the world's greatest public knowledge project since Wikipedia
 
+##  🔗 Links
 **Docs / Website**: https://docs.genius.com/#/getting-started-h1
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
-- [Open Source](https://github.com/apis-list/apis-list#open-source)
+## 🗄️ Categories:
 - [Wiki](https://github.com/apis-list/apis-list#wiki)
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
+- [Open Source](https://github.com/apis-list/apis-list#open-source)
 
 
 
-ttps://github.com/apis-list/apis-list#annotations)
+ions)
 - [Editing](https://github.com/apis-list/apis-list#editing)
 
 

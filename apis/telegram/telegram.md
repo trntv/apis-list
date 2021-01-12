@@ -3,16 +3,17 @@
 
 We offer two kinds of APIs for developers.  The Bot API allows you to easily create programs that use Telegram messages for…. The Telegram API allows you to build your own customized Telegram clients
 
+##  🔗 Links
 **Docs / Website**: https://core.telegram.org/
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)

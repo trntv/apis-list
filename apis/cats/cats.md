@@ -8,16 +8,17 @@ Here you'll find the API reference & Code examples for:
 
 Get your API Key from - https&#x3A;//TheCatAPI
 
+##  🔗 Links
 **Docs / Website**: https://docs.thecatapi.com/
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Animals](https://github.com/apis-list/apis-list#animals)
 
 

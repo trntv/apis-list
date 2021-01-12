@@ -3,16 +3,17 @@
 
 Jamendo Api Documentation.  Jamendo Api Documentation
 
+##  🔗 Links
 **Docs / Website**: https://developer.jamendo.com/v3.0/docs
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
 
 

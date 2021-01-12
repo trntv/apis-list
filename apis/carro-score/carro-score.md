@@ -1,20 +1,21 @@
 # Carro Score
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/carro-score/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/carro-score/logo_256x256.png" alt="Carro Score Logo"/>
 </p>
 
 Carro makes finding influencers that love your brand easier than ever before
 
+##  🔗 Links
 **Docs / Website**: https://docs.score.getcarro.com/
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
 
 

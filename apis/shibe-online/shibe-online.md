@@ -1,20 +1,21 @@
 # Shibe.Online
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/shibe-online/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/shibe-online/logo_256x256.png" alt="Shibe.Online Logo"/>
 </p>
 
 In this day and age, everyone and their dog has an API. So why not have an API for dogs? Shibe. online is that API
 
+##  🔗 Links
 **Docs / Website**: http://shibe.online/
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Animals](https://github.com/apis-list/apis-list#animals)
 
 

@@ -3,16 +3,17 @@
 
 Central bank of New Zealand
 
+##  🔗 Links
 **Docs / Website**: https://www.rbnz.govt.nz/statistics
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Government](https://github.com/apis-list/apis-list#government)
 
 

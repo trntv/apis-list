@@ -12,16 +12,17 @@ The most powerful and cost-effective NLP AI APIs, continuously updated.
 - Entity Extraction
 - Language Detection
 
+##  🔗 Links
 **Docs / Website**: https://cloudmersive.com/nlp-api
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 

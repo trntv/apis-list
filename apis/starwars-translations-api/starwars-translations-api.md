@@ -1,20 +1,21 @@
 # Starwars Translations Api
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/starwars-translations-api/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/starwars-translations-api/logo_256x256.png" alt="Starwars Translations Api Logo"/>
 </p>
 
 Translate from imperial language ( English that is ) to one of the Starwars language. Yoda, Sith, Gungan ( Jar Jar Binks ), Cheunh, Huttese, Mandalorian etc
 
+##  🔗 Links
 **Docs / Website**: https://funtranslations.com/api/starwars
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Translation](https://github.com/apis-list/apis-list#translation)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 

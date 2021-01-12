@@ -3,24 +3,22 @@
 
 
 
+##  🔗 Links
 **Docs / Website**: https://www.livecoin.net
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
 
 
 
-/A 
-
-## 💬 Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+eate discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)

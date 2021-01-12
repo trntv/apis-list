@@ -3,21 +3,22 @@
 
 Realtime schedules for Paris metro network (RATP - metro, bus, tram, rer)
 
+##  🔗 Links
 **Docs / Website**: http://restratpws.azurewebsites.net/swagger/
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
 
 
 
-list/apis-list/discussions/new)
+ew)
 
 ## Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)

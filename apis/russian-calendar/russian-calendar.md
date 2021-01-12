@@ -1,20 +1,21 @@
 # Russian Calendar
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/russian-calendar/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/russian-calendar/logo_256x256.png" alt="Russian Calendar Logo"/>
 </p>
 
 Work calendar service.  Contribute to egno/work-calendar development by creating an account on GitHub. Work calendar service
 
+##  🔗 Links
 **Docs / Website**: https://github.com/egno/work-calendar
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Calendar](https://github.com/apis-list/apis-list#calendar)
 
 

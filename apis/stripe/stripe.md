@@ -3,16 +3,17 @@
 
 Complete reference documentation for the Stripe API. Includes representative code snippets and examples for our Python, Java, PHP, Node. js, Go, Ruby, and . NET client libraries. Allows both private individuals and businesses to accept payments over the Internet
 
+##  🔗 Links
 **Docs / Website**: https://stripe.com/docs/api
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Payments](https://github.com/apis-list/apis-list#payments)
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)

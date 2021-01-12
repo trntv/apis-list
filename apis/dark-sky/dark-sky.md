@@ -3,21 +3,22 @@
 
 Weather. We are no longer accepting new signups.
 
+##  🔗 Links
 **Docs / Website**: https://darksky.net/dev
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Weather](https://github.com/apis-list/apis-list#weather)
 
 
 
-s://github.com/apis-list/apis-list#weather)
+s-list#weather)
 - [International](https://github.com/apis-list/apis-list#international)
 - [Language](https://github.com/apis-list/apis-list#language)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)

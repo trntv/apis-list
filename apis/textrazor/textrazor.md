@@ -3,16 +3,17 @@
 
 #FreeToUse.  TextRazor is the world's fastest and most accurate Natural Language Processing API. Helps you extract and understand the Who, What, Why, and How from your supplied text
 
+##  🔗 Links
 **Docs / Website**: https://www.textrazor.com/plans
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Reference](https://github.com/apis-list/apis-list#reference)
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)

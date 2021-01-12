@@ -3,16 +3,17 @@
 
 NetLicensing Explore. ) - Innovative License Management Solution
 
+##  🔗 Links
 **Docs / Website**: https://netlicensing.io/NetLicensing-API/
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Other](https://github.com/apis-list/apis-list#other)
 
 

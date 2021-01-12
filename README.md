@@ -82,7 +82,6 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Games ](#games)
 - [Geography ](#geography)
 - [Government ](#government)
-- [Graphics ](#graphics)
 - [Hardware ](#hardware)
 - [Health ](#health)
 - [History ](#history)
@@ -158,7 +157,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Tracking ](#tracking)
 - [Translation ](#translation)
 - [Transportation 🚇](#transportation)
-- [Travel ](#travel)
+- [Travel ✈️](#travel)
 - [Trivia ](#trivia)
 - [URL Shortening ](#url-shortening)
 - [URLs ](#urls)
@@ -1397,10 +1396,6 @@ bunq is an anti-bank that is licenced to work in Europe
 - [USPTO](https://github.com/apis-list/apis-list/blob/main/apis/uspto/uspto.md) - Open data and mobility "Open data" is publicly available data that is structured in a way that enables the data to be fully discoverable and usable by end users
 - [World Bank](https://github.com/apis-list/apis-list/blob/main/apis/world-bank/world-bank.md) - Click the link to create a password, then come back here and sign in
 - [openFDA](https://github.com/apis-list/apis-list/blob/main/apis/openfda/openfda.md) - openFDA
- ### Graphics 
-- [Graphql360](https://github.com/apis-list/apis-list/blob/main/apis/graphql360/graphql360.md) - Create and consume 360 degree panoramic tours using a GraphQL API
-- [Iconfinder](https://github.com/apis-list/apis-list/blob/main/apis/iconfinder/iconfinder.md) - The Iconfinder API is a HTTP JSON API and allows you to programatically access resources on the service, such as icons, icon sets, categories, styles, authors, etc
-- [PrexView](https://github.com/apis-list/apis-list/blob/main/apis/prexview/prexview.md) - Transform your data from XML or JSON to high quality, beautiful and readable documents in PDF, HTML, PNG or JPG
  ### Hardware 
 - [Keyserv](https://github.com/apis-list/apis-list/blob/main/apis/keyserv/keyserv.md) - SmartQ is an technology company founded in 2017 with the intention of providing innovative tools for the modern world
 - [Philips Hue](https://github.com/apis-list/apis-list/blob/main/apis/philips-hue/philips-hue.md) - Step 2 Then you need to discover the IP address of the bridge on your network
@@ -1480,6 +1475,7 @@ Convert files and content between file formats
 - [Noun Project](https://github.com/apis-list/apis-list/blob/main/apis/noun-project/noun-project.md) - © Copyright 2018, Noun Project
 - [Nudity Detection Api](https://github.com/apis-list/apis-list/blob/main/apis/nudity-detection-api/nudity-detection-api.md) - io detects nudity in images and helps to recognise and filter undesired content
 - [Pinterest](https://github.com/apis-list/apis-list/blob/main/apis/pinterest/pinterest.md) - Enables apps to view the most clicked-through or repinned Pins, view related posts, and user profiles
+- [PrexView](https://github.com/apis-list/apis-list/blob/main/apis/prexview/prexview.md) - Transform your data from XML or JSON to high quality, beautiful and readable documents in PDF, HTML, PNG or JPG
 - [RandomDog](https://github.com/apis-list/apis-list/blob/main/apis/randomdog/randomdog.md) - {"fileSizeBytes":62176,"url":"https://random
 - [RandomFox](https://github.com/apis-list/apis-list/blob/main/apis/randomfox/randomfox.md) - Random image of a fox
 - [Request Kittens](https://github.com/apis-list/apis-list/blob/main/apis/request-kittens/request-kittens.md) - GET http://requestkittens
@@ -2632,7 +2628,7 @@ The most powerful and cost-effective NLP AI APIs, continuously updated
 - [Uber](https://github.com/apis-list/apis-list/blob/main/apis/uber/uber.md) - Discover how the Uber API can easily enhance your app’s user experience and take your innovation further with a wide range of new capabilities
 - [Uber API](https://github.com/apis-list/apis-list/blob/main/apis/uber-api/uber-api.md) - API to request Uber rides
 - [WhereIsMyTransport](https://github.com/apis-list/apis-list/blob/main/apis/whereismytransport/whereismytransport.md) - WhereIsMyTransport connects public transport data in one place
- ### Travel 
+ ### Travel ✈️
 - [Amadeus Travel Innovation Sandbox](https://github.com/apis-list/apis-list/blob/main/apis/amadeus-travel-innovation-sandbox/amadeus-travel-innovation-sandbox.md) - Discover Amadeus travel APIs and connect to the flight search, flight booking, hotel and destination content APIs that power the biggest names in travel
 - [GraphHopper](https://github.com/apis-list/apis-list/blob/main/apis/graphhopper/graphhopper.md) - A-to-B routing with turn-by-turn instructions
 - [Lufthansa Open Api](https://github.com/apis-list/apis-list/blob/main/apis/lufthansa-open-api/lufthansa-open-api.md) - Sign In Register Welcome to the Lufthansa Developer Network!

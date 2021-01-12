@@ -3,16 +3,17 @@
 
 Current and historical NBA Statistics
 
+##  🔗 Links
 **Docs / Website**: https://any-api.com/nba_com/nba_com/docs/API_Description
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
 
 

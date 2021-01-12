@@ -1,20 +1,21 @@
 # Hypixel
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/hypixel/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/hypixel/logo_256x256.png" alt="Hypixel Logo"/>
 </p>
 
 Hypixel API
 
+##  🔗 Links
 **Docs / Website**: https://github.com/HypixelDev/PublicAPI/tree/master/Documentation
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 
 

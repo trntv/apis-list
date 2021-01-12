@@ -3,16 +3,17 @@
 
 Convert a WGS84 latitude and longitude to OSGB36 easting and northing (British National Grid)
 
+##  🔗 Links
 **Docs / Website**: https://quicksold.co.uk/swagger
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Postal](https://github.com/apis-list/apis-list#postal)
 - [Geography](https://github.com/apis-list/apis-list#geography)

@@ -3,21 +3,22 @@
 
 You can GET to retrieve your text and you can POST to change your stored text.  Store up to 2000 ASCII chararacters.
 
+##  🔗 Links
 **Docs / Website**: https://www.restwords.com
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Other](https://github.com/apis-list/apis-list#other)
 
 
 
-e it to store any sort of text (anything that can be saved as an ASCII string)
+xt (anything that can be saved as an ASCII string)
 
 
 

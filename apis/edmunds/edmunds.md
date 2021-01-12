@@ -3,16 +3,17 @@
 
 A dataset containing all the car makes. Edmunds has detailed specs, customer ratings, photos & videos, pricing, etc
 
+##  🔗 Links
 **Docs / Website**: http://developer.edmunds.com/
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
 
 

@@ -1,20 +1,21 @@
 # QuickChart
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/quickchart/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/quickchart/logo_256x256.png" alt="QuickChart Logo"/>
 </p>
 
 Open source, no watermarks. . Create a chart image with one API call and embed it anywhere. Send charts in email and other platforms
 
+##  🔗 Links
 **Docs / Website**: https://quickchart.io
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Charts](https://github.com/apis-list/apis-list#charts)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Visualizations](https://github.com/apis-list/apis-list#visualizations)

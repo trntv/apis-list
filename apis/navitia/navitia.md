@@ -3,16 +3,17 @@
 
 The open API for building cool stuff with transport data
 
+##  🔗 Links
 **Docs / Website**: https://api.navitia.io/
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
 
 

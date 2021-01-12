@@ -1,20 +1,21 @@
 # Firebase
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/firebase/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/firebase/logo_256x256.png" alt="Firebase Logo"/>
 </p>
 
 Web reference View full API for JS Client. Authentication, analytics, cloud messaging, crash reporting, ads and more
 
+##  🔗 Links
 **Docs / Website**: https://firebase.google.com/docs/reference/
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Security](https://github.com/apis-list/apis-list#security)
 - [Mobile](https://github.com/apis-list/apis-list#mobile)
 - [Databases](https://github.com/apis-list/apis-list#databases)
@@ -25,8 +26,7 @@ Web reference View full API for JS Client. Authentication, analytics, cloud mess
 
 
 
-om/apis-list/apis-list#security)
-- [Authorization](https://github.com/apis-list/apis-list#authorization)
+on](https://github.com/apis-list/apis-list#authorization)
 
 
 

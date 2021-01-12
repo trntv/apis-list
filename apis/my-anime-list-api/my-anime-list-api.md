@@ -1,20 +1,21 @@
 # My Anime List API
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/my-anime-list-api/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/my-anime-list-api/logo_256x256.png" alt="My Anime List API Logo"/>
 </p>
 
 Jikan is an unofficial MyAnimeList REST based API
 
+##  🔗 Links
 **Docs / Website**: https://jikan.moe/
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 
 

@@ -1,20 +1,21 @@
 # PunkAPI
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/punkapi/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/punkapi/logo_256x256.png" alt="PunkAPI Logo"/>
 </p>
 
 Brewdog's DIY Dog as a searchable, filterable API. Brewdog's DIY Dog as a searchable, filterable API
 
+##  🔗 Links
 **Docs / Website**: https://punkapi.com/
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Food & Drinks](https://github.com/apis-list/apis-list#food-and-drinks)
 
 

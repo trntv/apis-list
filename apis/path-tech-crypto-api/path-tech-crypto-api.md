@@ -1,20 +1,21 @@
 # Path Tech Crypto API
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/path-tech-crypto-api/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/path-tech-crypto-api/logo_256x256.png" alt="Path Tech Crypto API Logo"/>
 </p>
 
 Single interface to retrieve transactions across crypto exchanges and wallets
 
+##  🔗 Links
 **Docs / Website**: https://path.tech
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
 
 

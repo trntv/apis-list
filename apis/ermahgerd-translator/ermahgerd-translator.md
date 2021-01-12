@@ -1,24 +1,25 @@
 # ERMAHGERD Translator
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ermahgerd-translator/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ermahgerd-translator/logo_256x256.png" alt="ERMAHGERD Translator Logo"/>
 </p>
 
 This translates text to ERMAHGERD
 
+##  🔗 Links
 **Docs / Website**: https://www.mashape.com/jmillerdesign/ermahgerd-translator
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
+- [Fun](https://github.com/apis-list/apis-list#fun)
 - [Meme](https://github.com/apis-list/apis-list#meme)
 - [Translation](https://github.com/apis-list/apis-list#translation)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-- [Fun](https://github.com/apis-list/apis-list#fun)
 
 
 

@@ -1,20 +1,21 @@
 # Everypixel
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/everypixel/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/everypixel/logo_256x256.png" alt="Everypixel Logo"/>
 </p>
 
 Automatic image keywording and categorization API. The Everypixel Image Recognition sees images like a human, but costs several times cheaper. This model is designed to evaluate user photos taken both by a professional camera and by a camera of a smartphone
 
+##  🔗 Links
 **Docs / Website**: https://labs.everypixel.com/api
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Recognition](https://github.com/apis-list/apis-list#recognition)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Images](https://github.com/apis-list/apis-list#images)
@@ -22,7 +23,7 @@ Automatic image keywording and categorization API. The Everypixel Image Recognit
 
 
 
-& ML](https://github.com/apis-list/apis-list#ai-and-ml)
+nd-ml)
 - [Catalogs](https://github.com/apis-list/apis-list#catalogs)
 
 

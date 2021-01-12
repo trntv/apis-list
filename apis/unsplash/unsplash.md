@@ -1,20 +1,21 @@
 # Unsplash
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/unsplash/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/unsplash/logo_256x256.png" alt="Unsplash Logo"/>
 </p>
 
 but for photos.  Lorem Ipsum. Lorem Ipsum
 
+##  🔗 Links
 **Docs / Website**: https://unsplash.it/
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Photography](https://github.com/apis-list/apis-list#photography)

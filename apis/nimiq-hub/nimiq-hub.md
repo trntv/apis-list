@@ -5,16 +5,17 @@ com/en/#community.  Documentation of the Nimiq Hub API, the secure and central p
 
 To get direct support from the Nimiq Team and the community, join our social channels: https://nimiq
 
+##  🔗 Links
 **Docs / Website**: https://nimiq.github.io/hub/
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
 - [Payments](https://github.com/apis-list/apis-list#payments)
 

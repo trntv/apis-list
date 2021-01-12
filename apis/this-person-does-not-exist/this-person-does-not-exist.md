@@ -3,16 +3,17 @@
 
 This Person Does Not Exist
 
+##  🔗 Links
 **Docs / Website**: https://thispersondoesnotexist.com
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Testing](https://github.com/apis-list/apis-list#testing)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Random](https://github.com/apis-list/apis-list#random)

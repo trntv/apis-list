@@ -5,16 +5,17 @@ This page is not yet available on the PTV Beta website. <br />
 <br />
 Please refer to the PTV website until further notice. PTV API
 
+##  🔗 Links
 **Docs / Website**: https://www.ptv.vic.gov.au/footer/ptv-data-and-reports/digital-products/ptv-timetable-api
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
 
 

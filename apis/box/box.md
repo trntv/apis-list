@@ -1,6 +1,6 @@
 # Box
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/box/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/box/logo_256x256.png" alt="Box Logo"/>
 </p>
 
 Explore the Box APIs and SDKs to use for app development,
@@ -9,16 +9,17 @@ the Box Developer Console.  Explore the Box APIs and SDKs to use for app develop
 API documentation, developer support resources, and access
 the Box Developer Console
 
+##  🔗 Links
 **Docs / Website**: https://developer.box.com/
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 - [Content Management](https://github.com/apis-list/apis-list#content-management)

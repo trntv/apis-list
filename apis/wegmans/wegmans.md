@@ -1,28 +1,28 @@
 # Wegmans
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wegmans/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wegmans/logo_256x256.png" alt="Wegmans Logo"/>
 </p>
 
 APIs for products and store information
 
+##  🔗 Links
 **Docs / Website**: https://dev.wegmans.io
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Shopping](https://github.com/apis-list/apis-list#shopping)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Food & Drinks](https://github.com/apis-list/apis-list#food-and-drinks)
 
 
 
-#shopping)
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
+s-list/apis-list#commerce)
 
 
 

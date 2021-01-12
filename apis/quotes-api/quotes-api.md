@@ -3,16 +3,17 @@
 
 They Said So. Quotes API with lot of features
 
+##  🔗 Links
 **Docs / Website**: http://quotes.rest
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Quotes](https://github.com/apis-list/apis-list#quotes)
 - [Other](https://github.com/apis-list/apis-list#other)
 

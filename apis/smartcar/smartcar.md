@@ -1,20 +1,21 @@
 # Smartcar
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/smartcar/logo_256x256.png" />
+    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/smartcar/logo_256x256.png" alt="Smartcar Logo"/>
 </p>
 
 Build web and mobile apps that communicate with vehicles
 
+##  🔗 Links
 **Docs / Website**: https://smartcar.com/docs/
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
 - [Vehicle](https://github.com/apis-list/apis-list#vehicle)
 - [Development](https://github.com/apis-list/apis-list#development)

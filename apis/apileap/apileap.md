@@ -3,24 +3,23 @@
 
 Make screenshots from web pages and HTML
 
+##  🔗 Links
 **Docs / Website**: https://apileap.com/
 
-## Specification:
+## 🧬 Specification:
 **Type**:  N/A 
 **URI**:  N/A 
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
-## Categories:
+## 🗄️ Categories:
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 - [Development](https://github.com/apis-list/apis-list#development)
 
 
 
-/discussions/new)
-
-## Categories:
+ries:
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 - [Development](https://github.com/apis-list/apis-list#development)
 
