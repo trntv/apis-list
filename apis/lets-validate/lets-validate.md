@@ -9,8 +9,8 @@ Uncovers the technologies used on websites and URL to thumbnail.  API that uncov
 **Docs / Website**: https://github.com/letsvalidate/api
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -20,6 +20,10 @@ Uncovers the technologies used on websites and URL to thumbnail.  API that uncov
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
+
+
+
+
 
 
 

@@ -9,14 +9,18 @@ OwlBot is an english dictionary API
 **Docs / Website**: https://owlbot.info/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
+
+
+
+
 
 
 

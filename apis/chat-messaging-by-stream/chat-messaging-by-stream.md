@@ -13,8 +13,8 @@ Stream's API and SDKs enable developers to build messaging solutions very quickl
 **Docs / Website**: https://getstream.io/chat/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -23,6 +23,10 @@ Stream's API and SDKs enable developers to build messaging solutions very quickl
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
 - [Development](https://github.com/apis-list/apis-list#development)
+
+
+
+
 
 
 

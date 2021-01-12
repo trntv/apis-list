@@ -9,14 +9,18 @@ Use a set of easy-to-use class and method libraries to build interactive B2B and
 **Docs / Website**: https://developer.here.com/develop/javascript-api
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
+
+
+
 
 
 

@@ -7,8 +7,8 @@ Start developing for free. Public holiday API service for several supported coun
 **Docs / Website**: https://holidayapi.pl/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -16,6 +16,10 @@ Start developing for free. Public holiday API service for several supported coun
 ## 🗄️ Categories:
 - [Calendar](https://github.com/apis-list/apis-list#calendar)
 - [Worldwide](https://github.com/apis-list/apis-list#worldwide)
+
+
+
+
 
 
 

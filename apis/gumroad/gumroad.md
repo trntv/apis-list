@@ -9,8 +9,8 @@ Gumroad helps creators do more of what they love by offering tools to get paid o
 **Docs / Website**: https://gumroad.com/api
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -19,6 +19,10 @@ Gumroad helps creators do more of what they love by offering tools to get paid o
 - [Payments](https://github.com/apis-list/apis-list#payments)
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
+
+
+
+
 
 
 

@@ -7,14 +7,18 @@ Sample XML response Sample JSON response
 **Docs / Website**: http://www.penguinrandomhouse.biz/webservices/rest/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Books](https://github.com/apis-list/apis-list#books)
+
+
+
+
 
 
 

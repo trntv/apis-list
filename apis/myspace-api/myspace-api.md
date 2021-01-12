@@ -9,14 +9,18 @@ A social networking website offering an interactive, user-submitted network of f
 **Docs / Website**: http://developer.myspace.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
+
+
+
+
 
 
 

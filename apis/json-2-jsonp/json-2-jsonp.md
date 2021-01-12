@@ -9,14 +9,18 @@ Requests are served as content type 'application/javascript' and cached for 4 ho
 **Docs / Website**: https://json2jsonp.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
+
+
+
+
 
 
 

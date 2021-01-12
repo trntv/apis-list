@@ -7,8 +7,8 @@
 **Docs / Website**: https://developer.betterdoctor.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -20,6 +20,10 @@
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Health](https://github.com/apis-list/apis-list#health)
 - [Development](https://github.com/apis-list/apis-list#development)
+
+
+
+
 
 
 

@@ -9,8 +9,8 @@ Generate PDF from any website. Automate web performance. Turns any link into inf
 **Docs / Website**: https://microlink.io
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -21,6 +21,10 @@ Generate PDF from any website. Automate web performance. Turns any link into inf
 - [Colors](https://github.com/apis-list/apis-list#colors)
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 - [URLs](https://github.com/apis-list/apis-list#urls)
+
+
+
+
 
 
 

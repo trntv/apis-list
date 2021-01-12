@@ -7,8 +7,8 @@ Convert text to speech
 **Docs / Website**: https://cloud.ibm.com/docs/text-to-speech/getting-started.html
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -19,6 +19,10 @@ Convert text to speech
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Voice](https://github.com/apis-list/apis-list#voice)
+
+
+
+
 
 
 

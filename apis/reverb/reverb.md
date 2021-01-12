@@ -7,8 +7,8 @@ Sell and buy music related merchandise. Welcome to the Reverb API Welcome to the
 **Docs / Website**: https://dev.reverb.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -17,6 +17,10 @@ Sell and buy music related merchandise. Welcome to the Reverb API Welcome to the
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Merchants](https://github.com/apis-list/apis-list#merchants)
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
+
+
+
+
 
 
 

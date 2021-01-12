@@ -9,8 +9,8 @@ IP Address Geolocation to Country, City, Region, Latitude, Longitude, ZIP Code, 
 **Docs / Website**: https://www.ip2location.com/web-service/ip2location
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -19,6 +19,10 @@ IP Address Geolocation to Country, City, Region, Latitude, Longitude, ZIP Code, 
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Marketing & SEO](https://github.com/apis-list/apis-list#marketing-and-seo)
+
+
+
+
 
 
 

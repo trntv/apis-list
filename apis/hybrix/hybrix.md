@@ -7,8 +7,8 @@ The API is an open source multi ledger API, that allows developers to build mult
 **Docs / Website**: https://api.hybrix.io/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -16,6 +16,10 @@ The API is an open source multi ledger API, that allows developers to build mult
 ## 🗄️ Categories:
 - [Open Source](https://github.com/apis-list/apis-list#open-source)
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
+
+
+
+
 
 
 

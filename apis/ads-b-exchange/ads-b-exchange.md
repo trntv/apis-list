@@ -9,14 +9,18 @@ Access real-time and historical data of any and all airborne aircraft. Filtered 
 **Docs / Website**: https://www.adsbexchange.com/data/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
+
+
+
+
 
 
 

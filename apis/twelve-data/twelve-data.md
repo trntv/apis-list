@@ -9,8 +9,8 @@ Stock market data (real-time & historical). Explore real time stock market data,
 **Docs / Website**: https://twelvedata.com/docs/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ Stock market data (real-time & historical). Explore real time stock market data,
 ## 🗄️ Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
+
+
+
+
 
 
 

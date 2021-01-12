@@ -9,8 +9,8 @@ Contact with an owner of ScrapeBoss. com domain name. Return developer friendly 
 **Docs / Website**: https://scrapeboss.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -21,6 +21,10 @@ Contact with an owner of ScrapeBoss. com domain name. Return developer friendly 
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
+
+
+
+
 
 
 

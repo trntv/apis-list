@@ -9,8 +9,8 @@ Você pode usar a biblioteca em PHP desenvolvida para consumir a API https://git
 **Docs / Website**: https://deividfortuna.github.io/fipe/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ Você pode usar a biblioteca em PHP desenvolvida para consumir a API https://git
 ## 🗄️ Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
 - [Vehicle](https://github.com/apis-list/apis-list#vehicle)
+
+
+
+
 
 
 

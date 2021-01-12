@@ -9,8 +9,8 @@ A SOAP API that provides access to Google Ads accounts, campaigns, and reports. 
 **Docs / Website**: https://developers.google.com/adwords/api/docs/guides/start
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ A SOAP API that provides access to Google Ads accounts, campaigns, and reports. 
 ## 🗄️ Categories:
 - [Search](https://github.com/apis-list/apis-list#search)
 - [Marketing & SEO](https://github.com/apis-list/apis-list#marketing-and-seo)
+
+
+
+
 
 
 

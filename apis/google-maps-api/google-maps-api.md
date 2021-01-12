@@ -9,14 +9,18 @@ Choose Google Maps Platform to create immersive location experiences and make be
 **Docs / Website**: https://developers.google.com/maps/?hl=en
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
+
+
+
 
 
 

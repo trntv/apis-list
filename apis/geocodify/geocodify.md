@@ -9,8 +9,8 @@ Worldwide geocoding, geoparsing and autocomplete for addresses. Geocodify is a f
 **Docs / Website**: https://geocodify.com
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ Worldwide geocoding, geoparsing and autocomplete for addresses. Geocodify is a f
 ## 🗄️ Categories:
 - [Localization](https://github.com/apis-list/apis-list#localization)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
+
+
+
 
 
 

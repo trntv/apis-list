@@ -9,8 +9,8 @@ Simple API that includes a common data for most of the applications. Like user i
 **Docs / Website**: https://dummyapi.io/?utm_source=n161tech
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ Simple API that includes a common data for most of the applications. Like user i
 ## 🗄️ Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
+
+
+
+
 
 
 

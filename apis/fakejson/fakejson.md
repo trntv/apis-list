@@ -9,17 +9,21 @@ Easily create custom HTTP resources complete with fake data.  fakeJSON's API sca
 **Docs / Website**: https://fakejson.com
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Data-As-A-Service](https://github.com/apis-list/apis-list#data-as-a-service)
 - [Databases](https://github.com/apis-list/apis-list#databases)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Testing](https://github.com/apis-list/apis-list#testing)
-- [Data-As-A-Service](https://github.com/apis-list/apis-list#data-as-a-service)
+
+
+
+
 
 
 

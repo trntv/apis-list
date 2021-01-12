@@ -7,14 +7,18 @@ API to manage Particle devices (including their own Arduino-compatible ones and 
 **Docs / Website**: https://docs.particle.io/reference/api/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [IoT & Home Automation](https://github.com/apis-list/apis-list#iot-and-home-automation)
+
+
+
+
 
 
 

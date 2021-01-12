@@ -9,8 +9,8 @@ Search through user Flickr content, contacts, upload or replace photos.  Flickr 
 **Docs / Website**: https://www.flickr.com/services/api/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -19,6 +19,10 @@ Search through user Flickr content, contacts, upload or replace photos.  Flickr 
 - [Photography](https://github.com/apis-list/apis-list#photography)
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
 - [Social](https://github.com/apis-list/apis-list#social)
+
+
+
+
 
 
 

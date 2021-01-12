@@ -7,8 +7,8 @@ Get data about characters, episodes, quotes, and deaths
 **Docs / Website**: https://breakingbadapi.com/documentation
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -16,6 +16,10 @@ Get data about characters, episodes, quotes, and deaths
 ## 🗄️ Categories:
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+
+
+
+
 
 
 

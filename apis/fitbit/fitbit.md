@@ -9,8 +9,8 @@ You'll fit in here. Using JavaScript, CSS, and SVG, developers now have a fast, 
 **Docs / Website**: https://dev.fitbit.com/build/reference/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ You'll fit in here. Using JavaScript, CSS, and SVG, developers now have a fast, 
 ## 🗄️ Categories:
 - [Health](https://github.com/apis-list/apis-list#health)
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
+
+
+
+
 
 
 

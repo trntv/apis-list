@@ -9,8 +9,8 @@ D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS
 **Docs / Website**: https://d3js.org
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -19,6 +19,10 @@ D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Visualizations](https://github.com/apis-list/apis-list#visualizations)
 - [Charts](https://github.com/apis-list/apis-list#charts)
+
+
+
+
 
 
 

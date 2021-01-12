@@ -9,14 +9,18 @@ Azure Cognitive Services brings AI within reach of every developer through a fam
 **Docs / Website**: https://azure.microsoft.com/en-us/services/cognitive-services/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+
+
+
+
 
 
 

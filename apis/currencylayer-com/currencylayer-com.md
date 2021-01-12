@@ -9,14 +9,18 @@ Documentation, code and integration guides for the currencylayer JSON API - reli
 **Docs / Website**: https://currencylayer.com/documentation
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
+
+
+
+
 
 
 

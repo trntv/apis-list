@@ -9,8 +9,8 @@ Collect real-time trade or order book data for free, manage user exchange accoun
 **Docs / Website**: https://developers.shrimpy.io/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -19,6 +19,10 @@ Collect real-time trade or order book data for free, manage user exchange accoun
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
+
+
+
+
 
 
 

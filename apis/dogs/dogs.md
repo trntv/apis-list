@@ -9,14 +9,18 @@ Over 20,000 images of dogs programmaticaly accessible by over 120 breeds. Image 
 **Docs / Website**: https://dog.ceo/dog-api/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Animals](https://github.com/apis-list/apis-list#animals)
+
+
+
+
 
 
 

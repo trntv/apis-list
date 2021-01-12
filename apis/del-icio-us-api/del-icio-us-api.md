@@ -9,8 +9,8 @@ Keep, share, and discover the best of the Web using Delicious, the world's leadi
 **Docs / Website**: https://delicious.com/developers#title1
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ Keep, share, and discover the best of the Web using Delicious, the world's leadi
 ## 🗄️ Categories:
 - [Bookmarks](https://github.com/apis-list/apis-list#bookmarks)
 - [Social](https://github.com/apis-list/apis-list#social)
+
+
+
+
 
 
 

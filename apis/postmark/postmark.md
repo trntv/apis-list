@@ -9,8 +9,8 @@ No bulk. That means your app's email isn't stuck waiting behind 500,000 copies o
 **Docs / Website**: https://postmarkapp.com/developer
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ No bulk. That means your app's email isn't stuck waiting behind 500,000 copies o
 ## 🗄️ Categories:
 - [Business](https://github.com/apis-list/apis-list#business)
 - [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
+
+
+
+
 
 
 

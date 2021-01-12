@@ -16,8 +16,8 @@ The most powerful and cost-effective NLP AI APIs, continuously updated.
 **Docs / Website**: https://cloudmersive.com/nlp-api
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -25,6 +25,10 @@ The most powerful and cost-effective NLP AI APIs, continuously updated.
 ## 🗄️ Categories:
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+
+
+
+
 
 
 

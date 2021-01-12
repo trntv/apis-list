@@ -9,18 +9,22 @@ Gives you access to our world-class places database and the ability to interact 
 **Docs / Website**: https://developer.foursquare.com/developer/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Mobile](https://github.com/apis-list/apis-list#mobile)
 - [Photography](https://github.com/apis-list/apis-list#photography)
 - [Search](https://github.com/apis-list/apis-list#search)
 - [Social](https://github.com/apis-list/apis-list#social)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
+
+
+
 
 
 

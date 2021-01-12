@@ -9,8 +9,8 @@ A simple JSON store for your web or mobile app
 **Docs / Website**: 
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ A simple JSON store for your web or mobile app
 ## 🗄️ Categories:
 - [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
 - [Development](https://github.com/apis-list/apis-list#development)
+
+
+
+
 
 
 

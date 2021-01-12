@@ -9,8 +9,8 @@ It is traditionally written with embossed paper.  Braille-users can read compute
 **Docs / Website**: https://funtranslations.com/api/braille
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -19,6 +19,10 @@ It is traditionally written with embossed paper.  Braille-users can read compute
 - [Translation](https://github.com/apis-list/apis-list#translation)
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+
+
+
+
 
 
 

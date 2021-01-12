@@ -13,8 +13,8 @@ the Box Developer Console
 **Docs / Website**: https://developer.box.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -26,6 +26,10 @@ the Box Developer Console
 - [Business](https://github.com/apis-list/apis-list#business)
 - [Security](https://github.com/apis-list/apis-list#security)
 - [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
+
+
+
+
 
 
 

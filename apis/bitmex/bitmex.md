@@ -9,8 +9,8 @@ BitMEX is the world's most advanced P2P crypto-products trading platform and API
 **Docs / Website**: https://www.bitmex.com/app/apiOverview
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ BitMEX is the world's most advanced P2P crypto-products trading platform and API
 ## 🗄️ Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
+
+
+
+
 
 
 

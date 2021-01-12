@@ -7,8 +7,8 @@ The Mapbox Directions API can calculate optimal driving, walking, and cycling ro
 **Docs / Website**: https://docs.mapbox.com/api/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -16,6 +16,10 @@ The Mapbox Directions API can calculate optimal driving, walking, and cycling ro
 ## 🗄️ Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Routing](https://github.com/apis-list/apis-list#routing)
+
+
+
+
 
 
 

@@ -9,8 +9,8 @@ Powerful augmented reality apps. Create immersive Augmented Reality experiences 
 **Docs / Website**: https://www.wikitude.com/developer-overview/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -21,6 +21,10 @@ Powerful augmented reality apps. Create immersive Augmented Reality experiences 
 - [Other](https://github.com/apis-list/apis-list#other)
 - [Virtual & Augmented Reality](https://github.com/apis-list/apis-list#virtual-and-augmented-reality)
 - [Browsers](https://github.com/apis-list/apis-list#browsers)
+
+
+
+
 
 
 

@@ -9,8 +9,8 @@ Whether you have one input or billions, you are only steps away from using AI to
 **Docs / Website**: https://developer.clarifai.com/docs/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -22,6 +22,10 @@ Whether you have one input or billions, you are only steps away from using AI to
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
 - [Recognition](https://github.com/apis-list/apis-list#recognition)
 - [Images](https://github.com/apis-list/apis-list#images)
+
+
+
+
 
 
 

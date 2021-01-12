@@ -7,14 +7,18 @@ The following parameters are optional lang - The language of the insult you want
 **Docs / Website**: https://evilinsult.com/api/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Other](https://github.com/apis-list/apis-list#other)
+
+
+
+
 
 
 

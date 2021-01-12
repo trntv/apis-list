@@ -7,14 +7,18 @@ The API is open source! Contribute directly to the API by writing code, document
 **Docs / Website**: https://anapioficeandfire.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
+
+
+
+
 
 
 

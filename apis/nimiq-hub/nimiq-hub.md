@@ -9,8 +9,8 @@ To get direct support from the Nimiq Team and the community, join our social cha
 **Docs / Website**: https://nimiq.github.io/hub/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ To get direct support from the Nimiq Team and the community, join our social cha
 ## 🗄️ Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
 - [Payments](https://github.com/apis-list/apis-list#payments)
+
+
+
+
 
 
 

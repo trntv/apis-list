@@ -9,8 +9,8 @@ Build scalable news feed for your app. MySocialApp is simple, powerful APIs are 
 **Docs / Website**: https://mysocialapp.io
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -19,6 +19,10 @@ Build scalable news feed for your app. MySocialApp is simple, powerful APIs are 
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
 - [Development](https://github.com/apis-list/apis-list#development)
+
+
+
+
 
 
 

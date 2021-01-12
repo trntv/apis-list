@@ -9,8 +9,8 @@ A social platform that both users and developers can interact with, the company 
 **Docs / Website**: 
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ A social platform that both users and developers can interact with, the company 
 ## 🗄️ Categories:
 - [Webhooks](https://github.com/apis-list/apis-list#webhooks)
 - [Social](https://github.com/apis-list/apis-list#social)
+
+
+
+
 
 
 

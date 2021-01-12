@@ -9,14 +9,18 @@ Instructions on how to easily look up, verify and append ZIP Code data using the
 **Docs / Website**: https://smartystreets.com/docs/cloud/us-zipcode-api
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
+
+
+
 
 
 

@@ -9,14 +9,18 @@ Learn why 1,000s of PARTNERS, PUBLISHERS, and AFFILIATES use our jobs API, email
 **Docs / Website**: https://www.ziprecruiter.com/publishers
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Jobs](https://github.com/apis-list/apis-list#jobs)
+
+
+
+
 
 
 

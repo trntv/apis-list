@@ -9,16 +9,20 @@
 **Docs / Website**: https://24pullrequests.com/api
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Calendar](https://github.com/apis-list/apis-list#calendar)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Events](https://github.com/apis-list/apis-list#events)
+- [Calendar](https://github.com/apis-list/apis-list#calendar)
+
+
+
+
 
 
 

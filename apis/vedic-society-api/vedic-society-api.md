@@ -7,14 +7,18 @@ A description of all of the nouns in vedic literature, including the flora, faun
 **Docs / Website**: https://aninditabasu.github.io/indica/html/vs.html
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Other](https://github.com/apis-list/apis-list#other)
+
+
+
+
 
 
 

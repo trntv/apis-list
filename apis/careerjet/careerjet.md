@@ -7,14 +7,18 @@ So far we support the following. Careerjet public search API If you are a webmas
 **Docs / Website**: https://www.careerjet.com/partners/api/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Jobs](https://github.com/apis-list/apis-list#jobs)
+
+
+
+
 
 
 

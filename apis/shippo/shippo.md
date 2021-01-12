@@ -9,17 +9,24 @@ Find the best shipping rates, integrate with e-commerce platforms, print shippin
 **Docs / Website**: https://goshippo.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [B2B](https://github.com/apis-list/apis-list#b2b)
 - [Logistics](https://github.com/apis-list/apis-list#logistics)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Addresses](https://github.com/apis-list/apis-list#addresses)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
+
+
+
+
+
+
+://github.com/apis-list/apis-list#addresses)
 
 
 

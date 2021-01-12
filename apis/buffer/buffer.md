@@ -9,8 +9,8 @@ Buffer makes it super easy to share any page you're reading. Buffer makes it sup
 **Docs / Website**: https://buffer.com/developers/api
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ Buffer makes it super easy to share any page you're reading. Buffer makes it sup
 ## 🗄️ Categories:
 - [Scheduling](https://github.com/apis-list/apis-list#scheduling)
 - [Social](https://github.com/apis-list/apis-list#social)
+
+
+
+
 
 
 

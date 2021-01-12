@@ -9,8 +9,8 @@ A web based system for managing collaborative projects.  Simple manipulations of
 **Docs / Website**: https://github.com/basecamp/bcx-api
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -19,6 +19,10 @@ A web based system for managing collaborative projects.  Simple manipulations of
 - [Business](https://github.com/apis-list/apis-list#business)
 - [Project Management](https://github.com/apis-list/apis-list#project-management)
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
+
+
+
+
 
 
 

@@ -9,8 +9,8 @@ They offer 1000 free API calls per month,. The easiest way to access websites pr
 **Docs / Website**: https://www.dashblock.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ They offer 1000 free API calls per month,. The easiest way to access websites pr
 ## 🗄️ Categories:
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers-and-data-mining)
+
+
+
+
 
 
 

@@ -9,8 +9,8 @@ Responsive email design with MJML and Passport
 **Docs / Website**: https://dev.mailjet.com
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -19,6 +19,10 @@ Responsive email design with MJML and Passport
 - [Marketing & SEO](https://github.com/apis-list/apis-list#marketing-and-seo)
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
 - [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
+
+
+
+
 
 
 

@@ -7,8 +7,8 @@
 **Docs / Website**: https://www.dropbox.com/developers
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -16,6 +16,10 @@
 ## 🗄️ Categories:
 - [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
 - [Social](https://github.com/apis-list/apis-list#social)
+
+
+
+
 
 
 

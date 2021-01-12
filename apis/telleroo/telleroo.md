@@ -7,8 +7,8 @@ com" API Sandbox: "https://sandbox. com" Welcome to Telleroo API documentation! 
 **Docs / Website**: https://docs.telleroo.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -16,7 +16,11 @@ com" API Sandbox: "https://sandbox. com" Welcome to Telleroo API documentation! 
 ## 🗄️ Categories:
 - [Payments](https://github.com/apis-list/apis-list#payments)
 - [Automation](https://github.com/apis-list/apis-list#automation)
-- [Banking](https://github.com/apis-list/apis-list#banking)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
+
+
+
+
 
 
 

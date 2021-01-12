@@ -9,14 +9,18 @@ In this day and age, everyone and their dog has an API. So why not have an API f
 **Docs / Website**: http://shibe.online/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Animals](https://github.com/apis-list/apis-list#animals)
+
+
+
+
 
 
 

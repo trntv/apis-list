@@ -7,8 +7,8 @@ uebermaps are interactive maps that enable people to. Hello developer.  This is 
 **Docs / Website**: https://uebermaps.com/api/v2
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -16,6 +16,10 @@ uebermaps are interactive maps that enable people to. Hello developer.  This is 
 ## 🗄️ Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Social](https://github.com/apis-list/apis-list#social)
+
+
+
+
 
 
 

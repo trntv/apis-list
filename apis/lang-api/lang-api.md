@@ -9,8 +9,8 @@ They have a limited free plan and a variety of paid plans starting for $9 per mo
 **Docs / Website**: https://docs.langapi.co/#introduction/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ They have a limited free plan and a variety of paid plans starting for $9 per mo
 ## 🗄️ Categories:
 - [Translation](https://github.com/apis-list/apis-list#translation)
 - [Languages](https://github.com/apis-list/apis-list#languages)
+
+
+
+
 
 
 

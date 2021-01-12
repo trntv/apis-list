@@ -7,8 +7,8 @@ Todo Lists
 **Docs / Website**: https://developer.todoist.com
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -16,6 +16,10 @@ Todo Lists
 ## 🗄️ Categories:
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
 - [Tasks](https://github.com/apis-list/apis-list#tasks)
+
+
+
+
 
 
 

@@ -7,8 +7,8 @@ At our core, we maintain a custom datastore that queries your data in a fast, sc
 **Docs / Website**: https://developer.mixpanel.com/docs/implement-mixpanel
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -17,6 +17,10 @@ At our core, we maintain a custom datastore that queries your data in a fast, sc
 - [Real Time](https://github.com/apis-list/apis-list#real-time)
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
 - [Mobile](https://github.com/apis-list/apis-list#mobile)
+
+
+
+
 
 
 

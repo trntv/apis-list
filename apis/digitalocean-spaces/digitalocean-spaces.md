@@ -9,8 +9,8 @@ The simplest way to cost effectively store, serve, backup, and archive a virtual
 **Docs / Website**: https://www.digitalocean.com/products/spaces
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -19,6 +19,10 @@ The simplest way to cost effectively store, serve, backup, and archive a virtual
 - [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
 - [Cloud](https://github.com/apis-list/apis-list#cloud)
 - [Platform-As-A-Service](https://github.com/apis-list/apis-list#platform-as-a-service)
+
+
+
+
 
 
 

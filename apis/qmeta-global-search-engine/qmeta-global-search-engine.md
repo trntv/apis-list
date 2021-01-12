@@ -9,8 +9,8 @@ RadSportRadar ist eine Übersichtskarte über alle gemeldeten Straßenschäden u
 **Docs / Website**: https://www.radsportradar.de/#qmeta
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ RadSportRadar ist eine Übersichtskarte über alle gemeldeten Straßenschäden u
 ## 🗄️ Categories:
 - [Security](https://github.com/apis-list/apis-list#security)
 - [Search](https://github.com/apis-list/apis-list#search)
+
+
+
+
 
 
 

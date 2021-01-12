@@ -9,8 +9,8 @@ This translates text to ERMAHGERD
 **Docs / Website**: https://www.mashape.com/jmillerdesign/ermahgerd-translator
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -20,6 +20,10 @@ This translates text to ERMAHGERD
 - [Meme](https://github.com/apis-list/apis-list#meme)
 - [Translation](https://github.com/apis-list/apis-list#translation)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+
+
+
+
 
 
 

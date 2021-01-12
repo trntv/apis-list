@@ -7,14 +7,18 @@ CiviX Server API CiviX Server is an electronic library providing free public acc
 **Docs / Website**: http://www.bclaws.ca/civix/template/complete/api/index.html
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Government](https://github.com/apis-list/apis-list#government)
+
+
+
+
 
 
 

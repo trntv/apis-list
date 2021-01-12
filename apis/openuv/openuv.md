@@ -9,14 +9,18 @@ The missing minimalistic JSON real-time UV Index API for awesome Developers, Inn
 **Docs / Website**: https://www.openuv.io
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Weather](https://github.com/apis-list/apis-list#weather)
+
+
+
+
 
 
 

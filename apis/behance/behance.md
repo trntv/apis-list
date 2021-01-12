@@ -9,8 +9,8 @@ Behance is the world's largest creative network for showcasing and discovering c
 **Docs / Website**: https://www.behance.net/dev/api/endpoints/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ Behance is the world's largest creative network for showcasing and discovering c
 ## 🗄️ Categories:
 - [Other](https://github.com/apis-list/apis-list#other)
 - [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
+
+
+
+
 
 
 

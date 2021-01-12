@@ -9,8 +9,8 @@ io to filter out bot traffic, customize content based on visitor's location, dis
 **Docs / Website**: https://ipwhois.io
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ io to filter out bot traffic, customize content based on visitor's location, dis
 ## 🗄️ Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
+
+
+
+
 
 
 

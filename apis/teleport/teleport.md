@@ -9,8 +9,8 @@ Welcome to Teleport for Developers! We're building the largest and most up-to-da
 **Docs / Website**: https://developers.teleport.org/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -20,6 +20,10 @@ Welcome to Teleport for Developers! We're building the largest and most up-to-da
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
 - [Images](https://github.com/apis-list/apis-list#images)
+
+
+
+
 
 
 

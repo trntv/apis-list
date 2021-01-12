@@ -9,14 +9,18 @@ Can take a customer's cellphone number and return name, address history, full SS
 **Docs / Website**: https://cognitohq.com/docs
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
+
+
+
+
 
 
 

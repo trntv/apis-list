@@ -9,8 +9,8 @@ io detects nudity in images and helps to recognise and filter undesired content.
 **Docs / Website**: https://uploadfilter.io
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -19,6 +19,10 @@ io detects nudity in images and helps to recognise and filter undesired content.
 - [Recognition](https://github.com/apis-list/apis-list#recognition)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Images](https://github.com/apis-list/apis-list#images)
+
+
+
+
 
 
 

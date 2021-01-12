@@ -7,8 +7,8 @@ Can be created, updated, and deleted using the OS::Trove::Instance resource.  Cl
 **Docs / Website**: https://docs.rackspace.com/cdb/api/v1.0/cdb-devguide/content/overview.html
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -16,6 +16,10 @@ Can be created, updated, and deleted using the OS::Trove::Instance resource.  Cl
 ## 🗄️ Categories:
 - [Databases](https://github.com/apis-list/apis-list#databases)
 - [Cloud](https://github.com/apis-list/apis-list#cloud)
+
+
+
+
 
 
 

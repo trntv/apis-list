@@ -7,8 +7,8 @@ Get current weather information, historical data and forecasts using weatherstac
 **Docs / Website**: https://www.apixu.com/doc/request.aspx
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ Get current weather information, historical data and forecasts using weatherstac
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Data-As-A-Service](https://github.com/apis-list/apis-list#data-as-a-service)
 - [Weather](https://github.com/apis-list/apis-list#weather)
+
+
+
+
 
 
 

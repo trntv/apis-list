@@ -9,8 +9,8 @@ The MTG API allows developers to easily consume MTG card and set data in JSON fo
 **Docs / Website**: http://magicthegathering.io/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ The MTG API allows developers to easily consume MTG card and set data in JSON fo
 ## 🗄️ Categories:
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Games](https://github.com/apis-list/apis-list#games)
+
+
+
+
 
 
 

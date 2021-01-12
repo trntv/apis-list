@@ -7,8 +7,8 @@ Weather API for businesses & data science. 0001/record. com/weather-data) inside
 **Docs / Website**: https://www.visualcrossing.com/weather-api
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -16,6 +16,10 @@ Weather API for businesses & data science. 0001/record. com/weather-data) inside
 ## 🗄️ Categories:
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Weather](https://github.com/apis-list/apis-list#weather)
+
+
+
+
 
 
 

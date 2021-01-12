@@ -24,14 +24,18 @@
 **Docs / Website**: https://faq.whatsapp.com/en/iphone/23559013
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
+
+
+
+
 
 
 

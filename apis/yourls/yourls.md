@@ -9,14 +9,18 @@ Generate or get existing short URLs, with sequential or custom keyword.  ➤ Abo
 **Docs / Website**: https://yourls.org/#API
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [URL Shortening](https://github.com/apis-list/apis-list#url-shortening)
+
+
+
+
 
 
 

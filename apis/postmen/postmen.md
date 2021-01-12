@@ -9,14 +9,18 @@ Download Postmen's JSON schema. Learn how to generate Postmen API key and make r
 **Docs / Website**: https://docs.postmen.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
+
+
+
+
 
 
 

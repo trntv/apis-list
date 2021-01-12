@@ -9,8 +9,8 @@ Square provides support and tools for you to build apps for today’s business n
 **Docs / Website**: https://developer.squareup.com/us/en
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -21,6 +21,10 @@ Square provides support and tools for you to build apps for today’s business n
 - [Business](https://github.com/apis-list/apis-list#business)
 - [Mobile](https://github.com/apis-list/apis-list#mobile)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
+
+
+
+
 
 
 

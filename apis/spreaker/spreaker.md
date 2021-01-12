@@ -9,8 +9,8 @@ Enables developers to read and write data to Spreaker.  Get started with one of 
 **Docs / Website**: https://developers.spreaker.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ Enables developers to read and write data to Spreaker.  Get started with one of 
 ## 🗄️ Categories:
 - [Other](https://github.com/apis-list/apis-list#other)
 - [Podcasts](https://github.com/apis-list/apis-list#podcasts)
+
+
+
+
 
 
 

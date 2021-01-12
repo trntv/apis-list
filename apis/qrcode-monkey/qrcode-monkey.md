@@ -9,14 +9,18 @@ Create thousands of QR codes with design and logo automatically. Integrate custo
 **Docs / Website**: https://www.qrcode-monkey.com/qr-code-api-with-logo
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Tools](https://github.com/apis-list/apis-list#tools)
+
+
+
+
 
 
 

@@ -7,8 +7,8 @@ Allows greater developer access to native Yelp data and features.  Yelp for Deve
 **Docs / Website**: https://www.yelp.com/developers
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -20,6 +20,10 @@ Allows greater developer access to native Yelp data and features.  Yelp for Deve
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Localization](https://github.com/apis-list/apis-list#localization)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+
+
+
+
 
 
 

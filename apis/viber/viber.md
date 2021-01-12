@@ -9,8 +9,8 @@ Millions of Viber users call, text, and send photos to each other, worldwide - f
 **Docs / Website**: https://developers.viber.com/docs/api/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -21,6 +21,10 @@ Millions of Viber users call, text, and send photos to each other, worldwide - f
 - [Voice](https://github.com/apis-list/apis-list#voice)
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Communications](https://github.com/apis-list/apis-list#communications)
+
+
+
+
 
 
 

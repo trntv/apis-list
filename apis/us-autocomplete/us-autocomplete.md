@@ -9,14 +9,18 @@ Uses a simple HTTP endpoint.  Address Autocomplete | Use our Autocomplete API to
 **Docs / Website**: https://smartystreets.com/docs/cloud/us-autocomplete-api
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
+
+
+
+
 
 
 

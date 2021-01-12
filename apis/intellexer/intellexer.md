@@ -7,19 +7,23 @@ Processing (NLP) Service including sentiment analysis, content extraction, and l
 **Docs / Website**: http://esapi.intellexer.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Development](https://github.com/apis-list/apis-list#development)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Search](https://github.com/apis-list/apis-list#search)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 - [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers-and-data-mining)
-- [Development](https://github.com/apis-list/apis-list#development)
+
+
+
+
 
 
 

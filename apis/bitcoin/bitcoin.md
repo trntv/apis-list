@@ -9,14 +9,18 @@ Bitcoin is an innovative payment network and a new kind of money. Find all you n
 **Docs / Website**: https://bitcoin.org/en/developer-documentation
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
+
+
+
+
 
 
 

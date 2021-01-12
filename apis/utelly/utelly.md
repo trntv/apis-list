@@ -9,8 +9,8 @@ Check where a tv show or movie is available
 **Docs / Website**: https://www.utelly.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -19,6 +19,10 @@ Check where a tv show or movie is available
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
+
+
+
+
 
 
 

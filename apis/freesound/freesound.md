@@ -7,8 +7,8 @@ With the Freesound API you can browse, search, and retrieve information about Fr
 **Docs / Website**: https://freesound.org/docs/api/index.html
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -16,6 +16,10 @@ With the Freesound API you can browse, search, and retrieve information about Fr
 ## 🗄️ Categories:
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
 - [Search](https://github.com/apis-list/apis-list#search)
+
+
+
+
 
 
 

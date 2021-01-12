@@ -9,8 +9,8 @@ Build video apps and add native video capabilities to your products. Kaltura VPa
 **Docs / Website**: https://corp.kaltura.com/video-paas/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -19,6 +19,10 @@ Build video apps and add native video capabilities to your products. Kaltura VPa
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
 - [Marketing & SEO](https://github.com/apis-list/apis-list#marketing-and-seo)
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
+
+
+
+
 
 
 

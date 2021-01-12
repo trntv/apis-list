@@ -9,14 +9,18 @@ Apiary provides the leading API-First platform designed specifically to help com
 **Docs / Website**: https://apiary.io/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
+
+
+
+
 
 
 

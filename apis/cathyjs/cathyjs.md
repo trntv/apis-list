@@ -9,14 +9,18 @@ It is mainly created for discord bots. . A chatbot api which is completely free
 **Docs / Website**: https://www.npmjs.com/package/cathyjs
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Bots](https://github.com/apis-list/apis-list#bots)
+
+
+
+
 
 
 

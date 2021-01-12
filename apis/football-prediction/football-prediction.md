@@ -9,8 +9,8 @@ he API supports competitions in over 90 countries and over 140 national leagues.
 **Docs / Website**: https://boggio-analytics.com/fp-api/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ he API supports competitions in over 90 countries and over 140 national leagues.
 ## 🗄️ Categories:
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
+
+
+
+
 
 
 

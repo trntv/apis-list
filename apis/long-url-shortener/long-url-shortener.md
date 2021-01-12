@@ -7,14 +7,18 @@ com Home API Privacy Terms Report Contact Paste a link to shorten it. Or use API
 **Docs / Website**: https://cleanuri.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [URL Shortening](https://github.com/apis-list/apis-list#url-shortening)
+
+
+
+
 
 
 

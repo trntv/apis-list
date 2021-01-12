@@ -9,8 +9,8 @@ The Marvel developer portal gives Marvel fans, partners and other technologists 
 **Docs / Website**: https://developer.marvel.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -22,6 +22,10 @@ The Marvel developer portal gives Marvel fans, partners and other technologists 
 - [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
 - [Integration](https://github.com/apis-list/apis-list#integration)
 - [Prototype](https://github.com/apis-list/apis-list#prototype)
+
+
+
+
 
 
 

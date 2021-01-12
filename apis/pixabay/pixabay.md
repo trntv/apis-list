@@ -7,8 +7,8 @@ Restful API for searching and retrieving free images and videos. Documentation t
 **Docs / Website**: https://pixabay.com/api/docs/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -16,6 +16,10 @@ Restful API for searching and retrieving free images and videos. Documentation t
 ## 🗄️ Categories:
 - [Photography](https://github.com/apis-list/apis-list#photography)
 - [Development](https://github.com/apis-list/apis-list#development)
+
+
+
+
 
 
 

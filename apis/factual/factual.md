@@ -7,8 +7,8 @@ Welcome to the Factual developer hub! Here you'll find comprehensive guides and 
 **Docs / Website**: https://developer.factual.com/docs/getting-started
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -17,6 +17,10 @@ Welcome to the Factual developer hub! Here you'll find comprehensive guides and 
 - [Mobile](https://github.com/apis-list/apis-list#mobile)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
+
+
+
+
 
 
 

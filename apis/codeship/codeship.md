@@ -7,8 +7,8 @@ Hosted API documentation for every OAS (Swagger) and RAML spec out there. Powere
 **Docs / Website**: https://apidocs.codeship.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -17,6 +17,10 @@ Hosted API documentation for every OAS (Swagger) and RAML spec out there. Powere
 - [Cloud](https://github.com/apis-list/apis-list#cloud)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Applications](https://github.com/apis-list/apis-list#applications)
+
+
+
+
 
 
 

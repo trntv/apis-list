@@ -9,8 +9,8 @@ Use our proxy and web scraping REST API to extract html data from any web page, 
 **Docs / Website**: https://scrapestack.com
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -20,6 +20,10 @@ Use our proxy and web scraping REST API to extract html data from any web page, 
 - [Search](https://github.com/apis-list/apis-list#search)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
+
+
+
+
 
 
 

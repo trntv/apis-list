@@ -9,8 +9,8 @@ Make and receive phone calls, send and receive SMS worldwide.  Libraries in Node
 **Docs / Website**: https://developer.nexmo.com
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -19,6 +19,10 @@ Make and receive phone calls, send and receive SMS worldwide.  Libraries in Node
 - [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
 - [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
 - [Communications](https://github.com/apis-list/apis-list#communications)
+
+
+
+
 
 
 

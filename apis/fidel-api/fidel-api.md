@@ -9,8 +9,8 @@ FIDEL is a card-linked API that lets developers create web and mobile applicatio
 **Docs / Website**: https://fidel.uk
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ FIDEL is a card-linked API that lets developers create web and mobile applicatio
 ## 🗄️ Categories:
 - [Payments](https://github.com/apis-list/apis-list#payments)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
+
+
+
+
 
 
 

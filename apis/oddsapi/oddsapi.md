@@ -7,8 +7,8 @@ All results are returned in easy-to-read JSON format.  Our sports data API provi
 **Docs / Website**: https://sportdataapi.com
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -17,6 +17,10 @@ All results are returned in easy-to-read JSON format.  Our sports data API provi
 - [Casino & Gambling](https://github.com/apis-list/apis-list#casino-and-gambling)
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
+
+
+
+
 
 
 

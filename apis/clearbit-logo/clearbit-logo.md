@@ -9,8 +9,8 @@ If you’re only interested in a Company’s logo, and don’t need any other da
 **Docs / Website**: https://clearbit.com/docs#logo-api
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -19,6 +19,10 @@ If you’re only interested in a Company’s logo, and don’t need any other da
 - [Business](https://github.com/apis-list/apis-list#business)
 - [Images](https://github.com/apis-list/apis-list#images)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+
+
+
+
 
 
 

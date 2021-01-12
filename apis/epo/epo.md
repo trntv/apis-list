@@ -7,8 +7,8 @@ OPS dat. Open Patent Services (OPS) Open Patent Services (OPS) is a web service 
 **Docs / Website**: https://developers.epo.org/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -16,6 +16,10 @@ OPS dat. Open Patent Services (OPS) Open Patent Services (OPS) is a web service 
 ## 🗄️ Categories:
 - [Patent](https://github.com/apis-list/apis-list#patent)
 - [Government](https://github.com/apis-list/apis-list#government)
+
+
+
+
 
 
 

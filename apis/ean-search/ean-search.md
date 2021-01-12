@@ -9,8 +9,8 @@ Search our EAN database with over 230 million products by EAN, UPC, ISBN or prod
 **Docs / Website**: https://www.ean-search.org/ean-database-api.html
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -20,6 +20,10 @@ Search our EAN database with over 230 million products by EAN, UPC, ISBN or prod
 - [Search](https://github.com/apis-list/apis-list#search)
 - [Databases](https://github.com/apis-list/apis-list#databases)
 - [Bar & QR Codes](https://github.com/apis-list/apis-list#bar-and-qr-codes)
+
+
+
+
 
 
 

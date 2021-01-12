@@ -7,8 +7,8 @@ Data is offered in JSON format. The following marketplaces are available: eBay, 
 **Docs / Website**: https://ecartapi.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -16,6 +16,10 @@ Data is offered in JSON format. The following marketplaces are available: eBay, 
 ## 🗄️ Categories:
 - [Business](https://github.com/apis-list/apis-list#business)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
+
+
+
+
 
 
 

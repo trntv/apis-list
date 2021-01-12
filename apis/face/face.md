@@ -9,17 +9,21 @@ Let’s you detect the information of a given photo (face location, age, race, g
 **Docs / Website**: 
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Recognition](https://github.com/apis-list/apis-list#recognition)
-- [Security](https://github.com/apis-list/apis-list#security)
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Tools](https://github.com/apis-list/apis-list#tools)
+- [Recognition](https://github.com/apis-list/apis-list#recognition)
+- [Security](https://github.com/apis-list/apis-list#security)
+
+
+
+
 
 
 

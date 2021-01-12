@@ -9,8 +9,8 @@ The largest social networking website for artists and art enthusiasts.  Find out
 **Docs / Website**: https://www.deviantart.com/developers/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -19,6 +19,10 @@ The largest social networking website for artists and art enthusiasts.  Find out
 - [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
+
+
+
+
 
 
 

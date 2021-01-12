@@ -7,8 +7,8 @@ Avatars is an avatar placeholder library for designers and developers. You can c
 **Docs / Website**: https://avatars.dicebear.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -16,6 +16,10 @@ Avatars is an avatar placeholder library for designers and developers. You can c
 ## 🗄️ Categories:
 - [Testing](https://github.com/apis-list/apis-list#testing)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
+
+
+
+
 
 
 

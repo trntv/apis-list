@@ -7,8 +7,8 @@ Except with a few lines of code such that ?orderby=rand works. So: EVERY OTHER A
 **Docs / Website**: https://quotesondesign.com/api/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -16,6 +16,10 @@ Except with a few lines of code such that ?orderby=rand works. So: EVERY OTHER A
 ## 🗄️ Categories:
 - [Personality](https://github.com/apis-list/apis-list#personality)
 - [Health](https://github.com/apis-list/apis-list#health)
+
+
+
+
 
 
 

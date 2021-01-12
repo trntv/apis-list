@@ -7,8 +7,8 @@ General knowledge on every topic; query it all with natural language input. Easi
 **Docs / Website**: https://products.wolframalpha.com/api/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -17,6 +17,10 @@ General knowledge on every topic; query it all with natural language input. Easi
 - [Reference](https://github.com/apis-list/apis-list#reference)
 - [Search](https://github.com/apis-list/apis-list#search)
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
+
+
+
+
 
 
 

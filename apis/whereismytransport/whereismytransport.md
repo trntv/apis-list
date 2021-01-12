@@ -9,8 +9,8 @@ WhereIsMyTransport connects public transport data in one place. WhereIsMyTranspo
 **Docs / Website**: https://developer.whereismytransport.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ WhereIsMyTransport connects public transport data in one place. WhereIsMyTranspo
 ## 🗄️ Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
 - [Worldwide](https://github.com/apis-list/apis-list#worldwide)
+
+
+
+
 
 
 

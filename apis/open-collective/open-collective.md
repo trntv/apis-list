@@ -9,14 +9,18 @@ Learn more about it here: https://medium. GraphQL API The future of the Open Col
 **Docs / Website**: https://docs.opencollective.com/help/developers/api
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
+
+
+
+
 
 
 

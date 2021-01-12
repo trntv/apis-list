@@ -9,8 +9,8 @@ Free, powerful JSON API offering international and national phone number validat
 **Docs / Website**: https://numverify.com
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -20,6 +20,10 @@ Free, powerful JSON API offering international and national phone number validat
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Security](https://github.com/apis-list/apis-list#security)
 - [Communications](https://github.com/apis-list/apis-list#communications)
+
+
+
+
 
 
 

@@ -7,8 +7,8 @@ API Content Negotiation FOAAS will respond to the follo. Introduction FOAAS (Fuc
 **Docs / Website**: http://www.foaas.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ API Content Negotiation FOAAS will respond to the follo. Introduction FOAAS (Fuc
 - [Health](https://github.com/apis-list/apis-list#health)
 - [Fun](https://github.com/apis-list/apis-list#fun)
 - [Adult](https://github.com/apis-list/apis-list#adult)
+
+
+
+
 
 
 

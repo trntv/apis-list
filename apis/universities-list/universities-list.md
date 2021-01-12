@@ -9,14 +9,18 @@ List of universities and their domain names
 **Docs / Website**: https://github.com/Hipo/university-domains-list
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
+
+
+
+
 
 
 

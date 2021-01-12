@@ -7,17 +7,21 @@ When to use JSONPlaceholder is a free online REST API that you can use whenever 
 **Docs / Website**: http://jsonplaceholder.typicode.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
-- [Testing](https://github.com/apis-list/apis-list#testing)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Prototype](https://github.com/apis-list/apis-list#prototype)
+- [Open Data](https://github.com/apis-list/apis-list#open-data)
+- [Testing](https://github.com/apis-list/apis-list#testing)
+
+
+
+
 
 
 

@@ -9,8 +9,8 @@ TMDb provides powerful searches as well as powerful movie discovery.  The Movie 
 **Docs / Website**: https://www.themoviedb.org/documentation/api
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -19,6 +19,10 @@ TMDb provides powerful searches as well as powerful movie discovery.  The Movie 
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
 - [Search](https://github.com/apis-list/apis-list#search)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+
+
+
+
 
 
 

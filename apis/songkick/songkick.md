@@ -9,8 +9,8 @@ Find live music near you, track your favorite artists, get instant concert alert
 **Docs / Website**: https://www.songkick.com/developer/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ Find live music near you, track your favorite artists, get instant concert alert
 ## 🗄️ Categories:
 - [Events](https://github.com/apis-list/apis-list#events)
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
+
+
+
+
 
 
 

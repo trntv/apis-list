@@ -9,8 +9,8 @@ Zomato API. 5 million restaurants across 10,000 cities globally.
 **Docs / Website**: https://developers.zomato.com/api
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -21,6 +21,10 @@ Zomato API. 5 million restaurants across 10,000 cities globally.
 - [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 - [Localization](https://github.com/apis-list/apis-list#localization)
 - [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest)
+
+
+
+
 
 
 

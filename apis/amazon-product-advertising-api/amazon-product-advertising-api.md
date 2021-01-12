@@ -7,14 +7,18 @@ The web address you entered is not a functioning page on our site.  Try one of t
 **Docs / Website**: http://docs.aws.amazon.com/AWSECommerceService/latest/DG/Welcome.html
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
+
+
+
+
 
 
 

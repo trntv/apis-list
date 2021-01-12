@@ -14,11 +14,11 @@ If you want to add/edit/remove/etc APIs from this list, please see the [contribu
 Discuss any topic related to the specific API you can [here](https://github.com/apis-list/apis-list/discussions/categories/apis)
 
 ## Index
-- [APIs](#apis)
-{{ range $category, $apis := .apis -}}
-    - [{{ $category }} {{ $category | category_icon }}](#{{ $category | slug}})
-{{ end -}}
-- [🪦 Graveyard](#graveyard)
+- APIs:
+{{- range $category, $apis := .apis }}
+    - [{{ $category }}](#{{ $category | slug}}) {{ $category | category_icon -}}
+{{ end }}
+- [Graveyard](#graveyard) 🪦
 - [Contributors](#contributors)
 - [Similar projects](#similar-projects)
 
@@ -34,7 +34,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 {{ end -}}
 {{ end }}
 
-## 🪦 Graveyard
+## Graveyard 🪦
 {{ range .graveyard -}}
 - [{{ .Name }}](https://github.com/apis-list/apis-list/blob/main/apis/{{.Slug}}/{{.Slug}}.md) - {{ .Description | short }}
 {{ end }}

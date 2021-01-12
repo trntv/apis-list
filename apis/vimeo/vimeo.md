@@ -9,8 +9,8 @@ Unlock the power of video and join over 200M professionals, teams, and organizat
 **Docs / Website**: https://developer.vimeo.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -21,6 +21,10 @@ Unlock the power of video and join over 200M professionals, teams, and organizat
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
 - [Community](https://github.com/apis-list/apis-list#community)
+
+
+
+
 
 
 

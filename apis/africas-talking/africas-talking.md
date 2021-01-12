@@ -7,8 +7,8 @@ A unified API platform for software developers in Africa building SMS, USSD, Voi
 **Docs / Website**: https://africastalking.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -17,6 +17,10 @@ A unified API platform for software developers in Africa building SMS, USSD, Voi
 - [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
 - [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 - [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
+
+
+
+
 
 
 

@@ -7,8 +7,8 @@ An open, programmatic interface for controlling smart devices The SmartThings pl
 **Docs / Website**: http://developer.smartthings.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -16,6 +16,10 @@ An open, programmatic interface for controlling smart devices The SmartThings pl
 ## 🗄️ Categories:
 - [Automation](https://github.com/apis-list/apis-list#automation)
 - [IoT & Home Automation](https://github.com/apis-list/apis-list#iot-and-home-automation)
+
+
+
+
 
 
 

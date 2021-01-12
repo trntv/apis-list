@@ -7,14 +7,18 @@ Vagalume » API » Documentação Documentação Conteúdo disponível na API do
 **Docs / Website**: https://api.vagalume.com.br/docs/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
+
+
+
+
 
 
 

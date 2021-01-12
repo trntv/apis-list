@@ -7,8 +7,8 @@ cloud API generates JPG and PDF file previews for all common document formats, u
 **Docs / Website**: https://thumbnails.cloud
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ cloud API generates JPG and PDF file previews for all common document formats, u
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Conversions](https://github.com/apis-list/apis-list#conversions)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
+
+
+
+
 
 
 

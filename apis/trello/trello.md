@@ -7,8 +7,8 @@ You are being redirected.  You are being redirected
 **Docs / Website**: https://developers.trello.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ You are being redirected.  You are being redirected
 - [Business](https://github.com/apis-list/apis-list#business)
 - [Project Management](https://github.com/apis-list/apis-list#project-management)
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
+
+
+
+
 
 
 

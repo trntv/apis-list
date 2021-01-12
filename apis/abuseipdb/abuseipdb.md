@@ -7,14 +7,18 @@ This is most commonly done through Fail2Ban, which comes prepackaged with an Abu
 **Docs / Website**: https://docs.abuseipdb.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Security](https://github.com/apis-list/apis-list#security)
+
+
+
+
 
 
 

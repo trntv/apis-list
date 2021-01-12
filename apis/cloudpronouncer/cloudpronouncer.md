@@ -8,17 +8,21 @@ Allthough this Text To Speech or text to voice utility is intended for software 
 **Docs / Website**: https://www.de-vis-software.ro/text-to-speech-api.aspx
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot-and-home-automation)
 - [Languages](https://github.com/apis-list/apis-list#languages)
 - [Voice](https://github.com/apis-list/apis-list#voice)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
-- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot-and-home-automation)
+
+
+
+
 
 
 

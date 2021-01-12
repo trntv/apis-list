@@ -9,8 +9,8 @@ fr/v1. The API provides realtime and historical data on Coronavirus COVID-19 con
 **Docs / Website**: https://github.com/M-Media-Group/Covid-19-API
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ fr/v1. The API provides realtime and historical data on Coronavirus COVID-19 con
 ## 🗄️ Categories:
 - [Health](https://github.com/apis-list/apis-list#health)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
+
+
+
+
 
 
 

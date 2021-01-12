@@ -9,8 +9,8 @@ Add schedules, show, episode, cast information. TV Show and web series database.
 **Docs / Website**: https://www.tvmaze.com/api
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ Add schedules, show, episode, cast information. TV Show and web series database.
 ## 🗄️ Categories:
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+
+
+
+
 
 
 

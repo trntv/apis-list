@@ -7,8 +7,8 @@ Build blockchain applications easily with our web APIs and callbacks. High throu
 **Docs / Website**: https://www.blockcypher.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -17,6 +17,10 @@ Build blockchain applications easily with our web APIs and callbacks. High throu
 - [Platform-As-A-Service](https://github.com/apis-list/apis-list#platform-as-a-service)
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
+
+
+
+
 
 
 

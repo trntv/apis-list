@@ -9,14 +9,18 @@ Mastercard official API
 **Docs / Website**: https://developer.mastercard.com/apis
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Payments](https://github.com/apis-list/apis-list#payments)
+
+
+
+
 
 
 

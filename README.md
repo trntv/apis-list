@@ -14,165 +14,160 @@ If you want to add/edit/remove/etc APIs from this list, please see the [contribu
 Discuss any topic related to the specific API you can [here](https://github.com/apis-list/apis-list/discussions/categories/apis)
 
 ## Index
-- [APIs](#apis)
-- [AI & ML ](#ai-and-ml)
-- [Accounts ](#accounts)
-- [Addresses ](#addresses)
-- [Adoption ](#adoption)
-- [Adult ](#adult)
-- [Aggregation ](#aggregation)
-- [Agriculture ](#agriculture)
-- [Algorithms ](#algorithms)
-- [Analytics ](#analytics)
-- [Animals ](#animals)
-- [Animation ](#animation)
-- [Applications ](#applications)
-- [Art & Design ](#art-and-design)
-- [Authentication & User Management ](#authentication-and-user-management)
-- [Automation ](#automation)
-- [B2B ](#b2b)
-- [Banking ](#banking)
-- [Bar & QR Codes ](#bar-and-qr-codes)
-- [Big Data ](#big-data)
-- [Blockchain & Cryptocurrencies ](#blockchain-and-cryptocurrencies)
-- [Bookmarks ](#bookmarks)
-- [Books ](#books)
-- [Bots ](#bots)
-- [Browsers ](#browsers)
-- [Business ](#business)
-- [CRM ](#crm)
-- [Calendar ](#calendar)
-- [Captcha ](#captcha)
-- [Casino & Gambling ](#casino-and-gambling)
-- [Charts ](#charts)
-- [Chats & Messaging ](#chats-and-messaging)
-- [Check-In ](#check-in)
-- [Cloud ](#cloud)
-- [Collaboration ](#collaboration)
-- [Collecting ](#collecting)
-- [Colors ](#colors)
-- [Comics & Anime ](#comics-and-anime)
-- [Commerce ](#commerce)
-- [Communications ](#communications)
-- [Community ](#community)
-- [Content & Dictionaries ](#content-and-dictionaries)
-- [Content Management ](#content-management)
-- [Conversions ](#conversions)
-- [Currency ](#currency)
-- [Data-As-A-Service ](#data-as-a-service)
-- [Databases ](#databases)
-- [DevOps ](#devops)
-- [Development 👨‍💻](#development)
-- [Directories ](#directories)
-- [Documents & Productivity ](#documents-and-productivity)
-- [Domains ](#domains)
-- [Editing ](#editing)
-- [Education ](#education)
-- [Email & SMS ](#email-and-sms)
-- [Energy ](#energy)
-- [Entertainment 🍿](#entertainment)
-- [Environment ](#environment)
-- [Events ](#events)
-- [Fashion ](#fashion)
-- [Files & Storage ](#files-and-storage)
-- [Finance & Economics ](#finance-and-economics)
-- [Food & Drinks ](#food-and-drinks)
-- [Forms ](#forms)
-- [Fun ](#fun)
-- [Games ](#games)
-- [Geography ](#geography)
-- [Government ](#government)
-- [Hardware ](#hardware)
-- [Health ](#health)
-- [History ](#history)
-- [Identity ](#identity)
-- [Images ](#images)
-- [Integration ](#integration)
-- [IoT & Home Automation ](#iot-and-home-automation)
-- [Japanese ](#japanese)
-- [Jobs ](#jobs)
-- [Language ](#language)
-- [Languages ](#languages)
-- [Library ](#library)
-- [Lists ](#lists)
-- [Localization ](#localization)
-- [Logistics ](#logistics)
-- [Maps & Geo ](#maps-and-geo)
-- [Marketing & SEO ](#marketing-and-seo)
-- [Marketplace ](#marketplace)
-- [Meme ](#meme)
-- [Merchants ](#merchants)
-- [Metadata ](#metadata)
-- [Mobile ](#mobile)
-- [Music & Audio ](#music-and-audio)
-- [News & Feeds ](#news-and-feeds)
-- [Notifications ](#notifications)
-- [Office ](#office)
-- [Open Data ](#open-data)
-- [Open Licenses ](#open-licenses)
-- [Open Source ](#open-source)
-- [Other ](#other)
-- [Patent ](#patent)
-- [Payments ](#payments)
-- [Personality ](#personality)
-- [Photography ](#photography)
-- [Planning ](#planning)
-- [Platform-As-A-Service ](#platform-as-a-service)
-- [Podcasts ](#podcasts)
-- [Point of Interest ](#point-of-interest)
-- [Postal ](#postal)
-- [Products ](#products)
-- [Project Management ](#project-management)
-- [Prototype ](#prototype)
-- [Quotes ](#quotes)
-- [Random ](#random)
-- [Ratings ](#ratings)
-- [Real Estate ](#real-estate)
-- [Real Time ](#real-time)
-- [Recognition ](#recognition)
-- [Reference ](#reference)
-- [Religion ](#religion)
-- [Robots ](#robots)
-- [Routing ](#routing)
-- [SaaS ](#saas)
-- [Scheduling ](#scheduling)
-- [Science & Math ](#science-and-math)
-- [Scrapers & Data Mining ](#scrapers-and-data-mining)
-- [Search ](#search)
-- [Security ](#security)
-- [Shopping ](#shopping)
-- [Social ](#social)
-- [Space ](#space)
-- [Spam ](#spam)
-- [Sport & Fitness ](#sport-and-fitness)
-- [Surveys ](#surveys)
-- [Sustainability ](#sustainability)
-- [Tasks ](#tasks)
-- [Testing ](#testing)
-- [Text ](#text)
-- [Text Analysis ](#text-analysis)
-- [Tickets ](#tickets)
-- [Time ](#time)
-- [Tools ](#tools)
-- [Tracking ](#tracking)
-- [Translation ](#translation)
-- [Transportation 🚇](#transportation)
-- [Travel ✈️](#travel)
-- [Trivia ](#trivia)
-- [URL Shortening ](#url-shortening)
-- [URLs ](#urls)
-- [Validation & Verification ](#validation-and-verification)
-- [Vehicle ](#vehicle)
-- [Video & Media ](#video-and-media)
-- [Virtual & Augmented Reality ](#virtual-and-augmented-reality)
-- [Visualizations ](#visualizations)
-- [Voice ](#voice)
-- [Weather ](#weather)
-- [Webhooks ](#webhooks)
-- [Wiki ](#wiki)
-- [Worldwide ](#worldwide)
-- [Writing ](#writing)
-- [🪦 Graveyard](#graveyard)
+- APIs:
+    - [AI & ML](#ai-and-ml) 
+    - [Accounts](#accounts) 
+    - [Adult](#adult) 
+    - [Aggregation](#aggregation) 
+    - [Agriculture](#agriculture) 
+    - [Analytics](#analytics) 
+    - [Animals](#animals) 
+    - [Animation](#animation) 
+    - [Applications](#applications) 
+    - [Art & Design](#art-and-design) 
+    - [Authentication & User Management](#authentication-and-user-management) 
+    - [Automation](#automation) 
+    - [Bar & QR Codes](#bar-and-qr-codes) 
+    - [Big Data](#big-data) 
+    - [Blockchain & Cryptocurrencies](#blockchain-and-cryptocurrencies) 
+    - [Bookmarks](#bookmarks) 
+    - [Books](#books) 
+    - [Bots](#bots) 
+    - [Browsers](#browsers) 
+    - [Business](#business) 
+    - [CRM](#crm) 
+    - [Calendar](#calendar) 
+    - [Captcha](#captcha) 
+    - [Casino & Gambling](#casino-and-gambling) 
+    - [Charts](#charts) 
+    - [Chats & Messaging](#chats-and-messaging) 
+    - [Check-In](#check-in) 
+    - [Cloud](#cloud) 
+    - [Collaboration](#collaboration) 
+    - [Collecting](#collecting) 
+    - [Colors](#colors) 
+    - [Comics & Anime](#comics-and-anime) 
+    - [Commerce](#commerce) 💰
+    - [Communications](#communications) 
+    - [Community](#community) 
+    - [Content & Dictionaries](#content-and-dictionaries) 
+    - [Content Management](#content-management) 
+    - [Conversions](#conversions) 
+    - [Currency](#currency) 
+    - [Data-As-A-Service](#data-as-a-service) 
+    - [Databases](#databases) 
+    - [DevOps](#devops) 
+    - [Development](#development) 👨‍💻
+    - [Directories](#directories) 
+    - [Documents & Productivity](#documents-and-productivity) 
+    - [Domains](#domains) 
+    - [Editing](#editing) 
+    - [Education](#education) 
+    - [Email & SMS](#email-and-sms) 
+    - [Energy](#energy) 
+    - [Entertainment](#entertainment) 🍿
+    - [Environment](#environment) 
+    - [Events](#events) 
+    - [Fashion](#fashion) 
+    - [Files & Storage](#files-and-storage) 
+    - [Finance & Economics](#finance-and-economics) 📈
+    - [Food & Drinks](#food-and-drinks) 
+    - [Forms](#forms) 
+    - [Fun](#fun) 
+    - [Games](#games) 
+    - [Geography](#geography) 
+    - [Government](#government) 
+    - [Hardware](#hardware) 
+    - [Health](#health) 
+    - [History](#history) 
+    - [Identity](#identity) 
+    - [Images](#images) 
+    - [Integration](#integration) 
+    - [IoT & Home Automation](#iot-and-home-automation) 
+    - [Japanese](#japanese) 
+    - [Jobs](#jobs) 
+    - [Language](#language) 
+    - [Languages](#languages) 
+    - [Library](#library) 
+    - [Lists](#lists) 
+    - [Localization](#localization) 
+    - [Logistics](#logistics) 
+    - [Maps & Geo](#maps-and-geo) 
+    - [Marketing & SEO](#marketing-and-seo) 
+    - [Marketplace](#marketplace) 
+    - [Meme](#meme) 
+    - [Merchants](#merchants) 
+    - [Metadata](#metadata) 
+    - [Mobile](#mobile) 
+    - [Music & Audio](#music-and-audio) 
+    - [News & Feeds](#news-and-feeds) 
+    - [Notifications](#notifications) 
+    - [Office](#office) 
+    - [Open Data](#open-data) 
+    - [Open Licenses](#open-licenses) 
+    - [Open Source](#open-source) 
+    - [Other](#other) 
+    - [Patent](#patent) 
+    - [Payments](#payments) 💳
+    - [Personality](#personality) 
+    - [Photography](#photography) 
+    - [Planning](#planning) 
+    - [Platform-As-A-Service](#platform-as-a-service) 
+    - [Podcasts](#podcasts) 
+    - [Point of Interest](#point-of-interest) 
+    - [Post & Logistics](#post-and-logistics) 
+    - [Products](#products) 
+    - [Project Management](#project-management) 
+    - [Prototype](#prototype) 
+    - [Quotes](#quotes) 
+    - [Random](#random) 
+    - [Ratings](#ratings) 
+    - [Real Estate](#real-estate) 
+    - [Real Time](#real-time) 
+    - [Recognition](#recognition) 
+    - [Reference](#reference) 
+    - [Religion](#religion) 
+    - [Robots](#robots) 
+    - [Routing](#routing) 
+    - [SaaS](#saas) 
+    - [Scheduling](#scheduling) 
+    - [Science & Math](#science-and-math) 
+    - [Scrapers & Data Mining](#scrapers-and-data-mining) 
+    - [Search](#search) 
+    - [Security](#security) 
+    - [Shopping](#shopping) 
+    - [Social](#social) 
+    - [Space](#space) 
+    - [Spam](#spam) 
+    - [Sport & Fitness](#sport-and-fitness) 
+    - [Surveys](#surveys) 
+    - [Sustainability](#sustainability) 
+    - [Tasks](#tasks) 
+    - [Testing](#testing) 
+    - [Text](#text) 
+    - [Text Analysis](#text-analysis) 
+    - [Tickets](#tickets) 
+    - [Time](#time) 
+    - [Tools](#tools) 
+    - [Tracking](#tracking) 
+    - [Translation](#translation) 
+    - [Transportation](#transportation) 🚇
+    - [Travel](#travel) ✈️
+    - [Trivia](#trivia) 
+    - [URL Shortening](#url-shortening) 
+    - [URLs](#urls) 
+    - [Validation & Verification](#validation-and-verification) 
+    - [Vehicle](#vehicle) 
+    - [Video & Media](#video-and-media) 
+    - [Virtual & Augmented Reality](#virtual-and-augmented-reality) 
+    - [Visualizations](#visualizations) 
+    - [Voice](#voice) 
+    - [Weather](#weather) 
+    - [Webhooks](#webhooks) 
+    - [Wiki](#wiki) 
+    - [Worldwide](#worldwide) 
+    - [Writing](#writing) 
+- [Graveyard](#graveyard) 🪦
 - [Contributors](#contributors)
 - [Similar projects](#similar-projects)
 
@@ -257,17 +252,6 @@ The most powerful and cost-effective NLP AI APIs, continuously updated
  ### Accounts 
 - [Bittrex](https://github.com/apis-list/apis-list/blob/main/apis/bittrex/bittrex.md) - Bittrex provides a simple and powerful API consisting of REST endpoints for transactional operations and a complementary Websocket service providing streaming market and user data updates
 - [Keyserv](https://github.com/apis-list/apis-list/blob/main/apis/keyserv/keyserv.md) - SmartQ is an technology company founded in 2017 with the intention of providing innovative tools for the modern world
- ### Addresses 
-- [Data Science Toolkit](https://github.com/apis-list/apis-list/blob/main/apis/data-science-toolkit/data-science-toolkit.md) - A collection of the best open data sets and open-source tools for data science
-- [Elasticpath](https://github.com/apis-list/apis-list/blob/main/apis/elasticpath/elasticpath.md) - Provides the full commerce solution to bring your unique, revenue-driving experiences to life, fast
-- [French Address Search](https://github.com/apis-list/apis-list/blob/main/apis/french-address-search/french-address-search.md) - Cherchez des adresses et lieux-dits
-- [GraphHopper](https://github.com/apis-list/apis-list/blob/main/apis/graphhopper/graphhopper.md) - A-to-B routing with turn-by-turn instructions
-- [Shippo](https://github.com/apis-list/apis-list/blob/main/apis/shippo/shippo.md) - Find the best shipping rates, integrate with e-commerce platforms, print shipping labels, track package delivery, and verify addresses with either our shipping API or web app
-- [US Street Address](https://github.com/apis-list/apis-list/blob/main/apis/us-street-address/us-street-address.md) - How to verify one or more addresses using the SmartyStreets US Street Address API
-- [Whitepages Pro](https://github.com/apis-list/apis-list/blob/main/apis/whitepages-pro/whitepages-pro.md) - Every country in the world supported
- ### Adoption 
-- [Petfinder](https://github.com/apis-list/apis-list/blob/main/apis/petfinder/petfinder.md) - Learn how to use our API to build your own website or applications backed by the same data we use on Petfinder
-- [RescueGroups](https://github.com/apis-list/apis-list/blob/main/apis/rescuegroups/rescuegroups.md) - org APIs Not all adoptable pet data APIs are made equal! Choosing the right API service is more than just numbers
  ### Adult 
 - [Danbooru](https://github.com/apis-list/apis-list/blob/main/apis/danbooru/danbooru.md) - Get images cartegorized by tags
 - [FOAAS](https://github.com/apis-list/apis-list/blob/main/apis/foaas/foaas.md) - API Content Negotiation FOAAS will respond to the follo
@@ -277,9 +261,6 @@ The most powerful and cost-effective NLP AI APIs, continuously updated
 - [Skywatch](https://github.com/apis-list/apis-list/blob/main/apis/skywatch/skywatch.md) - Instead, EarthCache allows development teams to focus on the business application and in delivering actionable intelligence to the end-user
  ### Agriculture 
 - [Trefle](https://github.com/apis-list/apis-list/blob/main/apis/trefle/trefle.md) - Trefle is a botanical API and data source
- ### Algorithms 
-- [Portfolio Optimizer](https://github.com/apis-list/apis-list/blob/main/apis/portfolio-optimizer/portfolio-optimizer.md) - API for investment portfolio optimization
-- [Time Door](https://github.com/apis-list/apis-list/blob/main/apis/time-door/time-door.md) - A time series analysis API
  ### Analytics 
 - [Amazon Mobile Analytics](https://github.com/apis-list/apis-list/blob/main/apis/amazon-mobile-analytics/amazon-mobile-analytics.md) - Service for collecting, visualizing, and understanding app usage data at scale
 - [Bittrex](https://github.com/apis-list/apis-list/blob/main/apis/bittrex/bittrex.md) - Bittrex provides a simple and powerful API consisting of REST endpoints for transactional operations and a complementary Websocket service providing streaming market and user data updates
@@ -375,7 +356,6 @@ Here you'll find the API reference & Code examples for:
 - [TheSportsDB](https://github.com/apis-list/apis-list/blob/main/apis/thesportsdb/thesportsdb.md) - Various sports events, results, players, teams and high quality artwork
 - [Tinypng](https://github.com/apis-list/apis-list/blob/main/apis/tinypng/tinypng.md) - TinyPNG API will help you compress and reduce the size of your JPEF and PNG files
  ### Authentication & User Management 
-- [Anti-Captcha](https://github.com/apis-list/apis-list/blob/main/apis/anti-captcha/anti-captcha.md) - Access to Anti-Captcha’s API
 - [Auth0](https://github.com/apis-list/apis-list/blob/main/apis/auth0/auth0.md) - Rapidly integrate authentication and authorization for web, mobile, and legacy applications so you can focus on your core business
 - [Best Buy Commerce API](https://github.com/apis-list/apis-list/blob/main/apis/best-buy-commerce-api/best-buy-commerce-api.md) - Allows companies to conduct commerce with Best Buy services within their own e-commerce application
 - [BlockScore](https://github.com/apis-list/apis-list/blob/main/apis/blockscore/blockscore.md) - A real-time API for verifying an identity by name, address, date of birth, and social security number
@@ -401,18 +381,6 @@ Here you'll find the API reference & Code examples for:
 - [Ontraport](https://github.com/apis-list/apis-list/blob/main/apis/ontraport/ontraport.md) - Introduction The base URL for all of the requests detailed in this documentation is: https://api
 - [Scrapeboss](https://github.com/apis-list/apis-list/blob/main/apis/scrapeboss/scrapeboss.md) - Contact with an owner of ScrapeBoss
 - [SmartThings](https://github.com/apis-list/apis-list/blob/main/apis/smartthings/smartthings.md) - An open, programmatic interface for controlling smart devices The SmartThings platform has the largest coverage of competitive IoT devices on the market, including Samsung devices and appliances
-- [Telleroo](https://github.com/apis-list/apis-list/blob/main/apis/telleroo/telleroo.md) - com" API Sandbox: "https://sandbox
- ### B2B 
-- [Quantumdigital](https://github.com/apis-list/apis-list/blob/main/apis/quantumdigital/quantumdigital.md) -  QuantumDigital’s APIs make navigating the USPS, securing national consumer and business lists, uploading your own designs or lists, and shipping small order marketing materials a breeze
-- [Quidax Merchant](https://github.com/apis-list/apis-list/blob/main/apis/quidax-merchant/quidax-merchant.md) - Buy, sell and store Bitcoin, Ethereum, Ripple (XRP), Litecoin & other cryptocurrencies with Naira
-- [Shippo](https://github.com/apis-list/apis-list/blob/main/apis/shippo/shippo.md) - Find the best shipping rates, integrate with e-commerce platforms, print shipping labels, track package delivery, and verify addresses with either our shipping API or web app
-- [Skywatch](https://github.com/apis-list/apis-list/blob/main/apis/skywatch/skywatch.md) - Instead, EarthCache allows development teams to focus on the business application and in delivering actionable intelligence to the end-user
-- [Whitepages Pro](https://github.com/apis-list/apis-list/blob/main/apis/whitepages-pro/whitepages-pro.md) - Every country in the world supported
- ### Banking 
-- [Czech Namedays Calendar](https://github.com/apis-list/apis-list/blob/main/apis/czech-namedays-calendar/czech-namedays-calendar.md) - Svátky API Vám řekne kdo má kdy svátek, nebo kdy má kdo svátek
-- [Mercury](https://github.com/apis-list/apis-list/blob/main/apis/mercury/mercury.md) - Mercury Web Parser turns web articles into structured content reliably and easily
-- [Plaid](https://github.com/apis-list/apis-list/blob/main/apis/plaid/plaid.md) - Plaid helps companies build fintech solutions by making it easy, safe and reliable for people to connect their financial data to apps and services
-- [SecurityTrails](https://github.com/apis-list/apis-list/blob/main/apis/securitytrails/securitytrails.md) - SecurityTrails currently offers three different products that can help you enrich your data, search for information, and find relevant security information for organizations in no time
 - [Telleroo](https://github.com/apis-list/apis-list/blob/main/apis/telleroo/telleroo.md) - com" API Sandbox: "https://sandbox
  ### Bar & QR Codes 
 - [Datakick](https://github.com/apis-list/apis-list/blob/main/apis/datakick/datakick.md) - You may have mistyped the address or the page may have moved
@@ -547,7 +515,7 @@ the Box Developer Console
 - [Square](https://github.com/apis-list/apis-list/blob/main/apis/square/square.md) - Square provides support and tools for you to build apps for today’s business needs
 - [Trello](https://github.com/apis-list/apis-list/blob/main/apis/trello/trello.md) - You are being redirected
 - [Us Restaurant Menus ](https://github.com/apis-list/apis-list/blob/main/apis/us-restaurant-menus/us-restaurant-menus.md) - Database of over 300,000 restaurant menus and over 30,000,000 Individual Menu Items
-- [Whitepages Pro](https://github.com/apis-list/apis-list/blob/main/apis/whitepages-pro/whitepages-pro.md) - Every country in the world supported
+- [Whitepages Pro](https://github.com/apis-list/apis-list/blob/main/apis/whitepages-pro/whitepages-pro.md) - Global Identity Verification API
 - [WorkOS](https://github.com/apis-list/apis-list/blob/main/apis/workos/workos.md) - Easily integrate Okta SAML, Google OAuth, and more
 - [Xyz Menus](https://github.com/apis-list/apis-list/blob/main/apis/xyz-menus/xyz-menus.md) - XYZ Menus API provides access to a Database of over 350,000 Restaurant Menus with over 30,000,000 individual menu items
 - [Yammer API](https://github.com/apis-list/apis-list/blob/main/apis/yammer-api/yammer-api.md) - Yammer Developer Site was created using ReadMe
@@ -563,7 +531,7 @@ the Box Developer Console
 - [Phone Number Validation](https://github.com/apis-list/apis-list/blob/main/apis/phone-number-validation/phone-number-validation.md) - Check phone number validity, location and timezones
 - [Salesforce](https://github.com/apis-list/apis-list/blob/main/apis/salesforce/salesforce.md) - This simple RESTful interface is powerful, convenient, and great for writing mobile and web apps
 - [Salesforce SOAP API](https://github.com/apis-list/apis-list/blob/main/apis/salesforce-soap-api/salesforce-soap-api.md) - The Salesforce Platform connects the entire customer journey across Sales, Service, Marketing, Commerce, and every touchpoint
-- [Whitepages Pro](https://github.com/apis-list/apis-list/blob/main/apis/whitepages-pro/whitepages-pro.md) - Every country in the world supported
+- [Whitepages Pro](https://github.com/apis-list/apis-list/blob/main/apis/whitepages-pro/whitepages-pro.md) - Global Identity Verification API
  ### Calendar 
 - [24 Pull Requests](https://github.com/apis-list/apis-list/blob/main/apis/24-pull-requests/24-pull-requests.md) - 24 Pull Requests is a yearly initiative to encourage contributors around the world to send 24 pull requests between December 1st and December 24th
 - [Church Calendar](https://github.com/apis-list/apis-list/blob/main/apis/church-calendar/church-calendar.md) - Liturgical Calendar API Browse the calendar on-line, Learn how to obtain data from it's JSON API or fork it at github and hack it
@@ -669,7 +637,7 @@ the Box Developer Console
 - [Marvel](https://github.com/apis-list/apis-list/blob/main/apis/marvel/marvel.md) - The Marvel developer portal gives Marvel fans, partners and other technologists access to an array of powerful APIs, documentation, and other tools to interact with Marvel&#039;s systems
 - [Rick and Morty](https://github.com/apis-list/apis-list/blob/main/apis/rick-and-morty/rick-and-morty.md) - The Rick and Morty API is a REST and GraphQL API based on the television show Rick and Morty
 - [xkcd](https://github.com/apis-list/apis-list/blob/main/apis/xkcd/xkcd.md) - xkcd API
- ### Commerce 
+ ### Commerce 💰
 - [API2Cart](https://github.com/apis-list/apis-list/blob/main/apis/api2cart/api2cart.md) - Connect your B2B eCommerce solution with 40+ shopping platforms and marketplaces at once
 - [AfterShip](https://github.com/apis-list/apis-list/blob/main/apis/aftership/aftership.md) - If you don'
 - [Amazon Mobile Ads](https://github.com/apis-list/apis-list/blob/main/apis/amazon-mobile-ads/amazon-mobile-ads.md) - Monetize across platforms with multiple ad formats
@@ -726,7 +694,6 @@ the Box Developer Console
 - [Twilio](https://github.com/apis-list/apis-list/blob/main/apis/twilio/twilio.md) - APIs for SMS, Voice, Video and more
 - [Twilio API](https://github.com/apis-list/apis-list/blob/main/apis/twilio-api/twilio-api.md) - Send SMS super easy, API Documentation & Libraries for SMS, VoIP & Voice
 - [Viber](https://github.com/apis-list/apis-list/blob/main/apis/viber/viber.md) - Millions of Viber users call, text, and send photos to each other, worldwide - for free
-- [Whitepages Pro](https://github.com/apis-list/apis-list/blob/main/apis/whitepages-pro/whitepages-pro.md) - Every country in the world supported
 - [numverify](https://github.com/apis-list/apis-list/blob/main/apis/numverify/numverify.md) - Free, powerful JSON API offering international and national phone number validation and carrier, location and line type lookup for developers and businesses
  ### Community 
 - [Dota 2](https://github.com/apis-list/apis-list/blob/main/apis/dota-2/dota-2.md) - The OpenDota API provides Dota 2 related data including advanced match data extracted from match replays
@@ -1177,7 +1144,7 @@ the Box Developer Console
 - [Thumbnails Cloud](https://github.com/apis-list/apis-list/blob/main/apis/thumbnails-cloud/thumbnails-cloud.md) - cloud API generates JPG and PDF file previews for all common document formats, using a super simple API
 - [Verizon Cloud](https://github.com/apis-list/apis-list/blob/main/apis/verizon-cloud/verizon-cloud.md) - API for accessing stored pictures and other files stored by users of Verizon Cloud app
 - [Wetransfer](https://github.com/apis-list/apis-list/blob/main/apis/wetransfer/wetransfer.md) - Put us in unexpected places, challenge the traditional creative flow, think big, go wild
- ### Finance & Economics 
+ ### Finance & Economics 📈
 - [1Forge.com](https://github.com/apis-list/apis-list/blob/main/apis/1forge-com/1forge-com.md) - Real-time forex and crypto quotes via JSON and WebSocket
 - [Afex](https://github.com/apis-list/apis-list/blob/main/apis/afex/afex.md) - Never worry about maintaining API documentation again
 - [Alpha Vantage](https://github.com/apis-list/apis-list/blob/main/apis/alpha-vantage/alpha-vantage.md) - Supports intraday, daily, weekly, and monthly quotes and technical analysis with chart-ready time series
@@ -1234,6 +1201,7 @@ bunq is an anti-bank that is licenced to work in Europe
 - [Stripe](https://github.com/apis-list/apis-list/blob/main/apis/stripe/stripe.md) - Complete reference documentation for the Stripe API
 - [Tardis](https://github.com/apis-list/apis-list/blob/main/apis/tardis/tardis.md) - dev is the the most comprehensive digital assets data platform, providing access to high frequency historical raw tick data for a wide range of use cases such as market microstructure and order book dynamics research, liquidity and lead-lag analysis, trading execution optimization, backtesting and optimization of trading strategies, full historical order book reconstruction at any given point in time, training machine learning models, alpha generation, designing quantitative models, academics research, data visualizations and more
 - [Tardis.Dev](https://github.com/apis-list/apis-list/blob/main/apis/tardis-dev/tardis-dev.md) - Tardis
+- [Telleroo](https://github.com/apis-list/apis-list/blob/main/apis/telleroo/telleroo.md) - com" API Sandbox: "https://sandbox
 - [The Shrimpy Universal Crypto Exchange Api](https://github.com/apis-list/apis-list/blob/main/apis/the-shrimpy-universal-crypto-exchange-api/the-shrimpy-universal-crypto-exchange-api.md) - Collect real-time trade or order book data for free, manage user exchange accounts, execute trading strategies, and simplify the way you connect to each exchange
 - [Tradier](https://github.com/apis-list/apis-list/blob/main/apis/tradier/tradier.md) - Tradier's technology platform - an innovative set of fully hosted APIs, modules and 'out of the box' tools built to serve developers, providers and investors
 - [Twelve Data](https://github.com/apis-list/apis-list/blob/main/apis/twelve-data/twelve-data.md) - Stock market data (real-time & historical)
@@ -1593,13 +1561,14 @@ Gather information about any crypto transaction related to a specific IP address
 - [Climacell Micro Weather](https://github.com/apis-list/apis-list/blob/main/apis/climacell-micro-weather/climacell-micro-weather.md) - Historical, real-time and nowcast weather data
 - [CountryAPI](https://github.com/apis-list/apis-list/blob/main/apis/countryapi/countryapi.md) - A Rest Api of simple country information that you need
 - [D3 Visualization](https://github.com/apis-list/apis-list/blob/main/apis/d3-visualization/d3-visualization.md) - D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS
-- [Data Science Toolkit](https://github.com/apis-list/apis-list/blob/main/apis/data-science-toolkit/data-science-toolkit.md) - A collection of the best open data sets and open-source tools for data science
 - [Daum Maps API](https://github.com/apis-list/apis-list/blob/main/apis/daum-maps-api/daum-maps-api.md) - Kakao 지도 API를 이용해보세요
 - [DroneDeploy](https://github.com/apis-list/apis-list/blob/main/apis/dronedeploy/dronedeploy.md) - Integrate your existing service into DroneDeploy and reach tens of thousands of commercial drone users from over 160 countries and industries like agriculture, construction, mining, surveying, and more
+- [Elasticpath](https://github.com/apis-list/apis-list/blob/main/apis/elasticpath/elasticpath.md) - Provides the full commerce solution to bring your unique, revenue-driving experiences to life, fast
 - [Factual](https://github.com/apis-list/apis-list/blob/main/apis/factual/factual.md) - Welcome to the Factual developer hub! Here you'll find comprehensive guides and documentation to help you start working with Factual data, APIs, and SDKs
 - [Foursquare API](https://github.com/apis-list/apis-list/blob/main/apis/foursquare-api/foursquare-api.md) - Gives you access to our world-class places database and the ability to interact with Foursquare users and merchants
 - [Foursquare Venue](https://github.com/apis-list/apis-list/blob/main/apis/foursquare-venue/foursquare-venue.md) - Providing a places search that can be searched by hierarchical list of categories, longitude/latitude etc
 - [FreeGeoIP](https://github.com/apis-list/apis-list/blob/main/apis/freegeoip/freegeoip.md) - Free IP Geolocation API with no registration required
+- [French Address Search](https://github.com/apis-list/apis-list/blob/main/apis/french-address-search/french-address-search.md) - Cherchez des adresses et lieux-dits
 - [GeoApi](https://github.com/apis-list/apis-list/blob/main/apis/geoapi/geoapi.md) - API Découpage Administratif - (API Geo) est une des APIs du service public
 - [GeoDataSource](https://github.com/apis-list/apis-list/blob/main/apis/geodatasource/geodatasource.md) - Location Search Web Service (RESTful API) enable you to find nearest city information based on latitude and longitude provided
 - [GeoJS](https://github.com/apis-list/apis-list/blob/main/apis/geojs/geojs.md) - REST/JSON/JSONP GeoIP API
@@ -1651,6 +1620,7 @@ Gather information about any crypto transaction related to a specific IP address
 - [Postmon](https://github.com/apis-list/apis-list/blob/main/apis/postmon/postmon.md) - x Como é uma API baseada em REST, basta fazer a seguinte chamada p
 - [REST Countries](https://github.com/apis-list/apis-list/blob/main/apis/rest-countries/rest-countries.md) - Get information about countries via a RESTful API
 - [Scribble](https://github.com/apis-list/apis-list/blob/main/apis/scribble/scribble.md) - For large organizations we can also assist in building you a custom Scribble
+- [Shippo](https://github.com/apis-list/apis-list/blob/main/apis/shippo/shippo.md) - Find the best shipping rates, integrate with e-commerce platforms, print shipping labels, track package delivery, and verify addresses with either our shipping API or web app
 - [Skywatch](https://github.com/apis-list/apis-list/blob/main/apis/skywatch/skywatch.md) - Instead, EarthCache allows development teams to focus on the business application and in delivering actionable intelligence to the end-user
 - [Smartcar](https://github.com/apis-list/apis-list/blob/main/apis/smartcar/smartcar.md) - Build web and mobile apps that communicate with vehicles
 - [Strava](https://github.com/apis-list/apis-list/blob/main/apis/strava/strava.md) - API for accessing and managing data about athletes, activities and segments
@@ -1666,6 +1636,7 @@ Gather information about any crypto transaction related to a specific IP address
 - [ViaCep](https://github.com/apis-list/apis-list/blob/main/apis/viacep/viacep.md) - Webservice gratuito para pesquisa de endereço via CEP, suporta Ajax e retorno no formato JSON, XML, PIPED ou QUERY String
 - [Wgs84 To Osgb36](https://github.com/apis-list/apis-list/blob/main/apis/wgs84-to-osgb36/wgs84-to-osgb36.md) - Convert a WGS84 latitude and longitude to OSGB36 easting and northing (British National Grid)
 - [WhatPulse](https://github.com/apis-list/apis-list/blob/main/apis/whatpulse/whatpulse.md) - Get to know your time with your computer
+- [Whitepages Pro](https://github.com/apis-list/apis-list/blob/main/apis/whitepages-pro/whitepages-pro.md) - Global Identity Verification API
 - [Wikitude](https://github.com/apis-list/apis-list/blob/main/apis/wikitude/wikitude.md) - Powerful augmented reality apps
 - [WorldTimeAPI](https://github.com/apis-list/apis-list/blob/main/apis/worldtimeapi/worldtimeapi.md) - A JSON/plain-text which returns the (approx) current time for a provided timezone or IP
 - [Yahoo Local Search API](https://github.com/apis-list/apis-list/blob/main/apis/yahoo-local-search-api/yahoo-local-search-api.md) - Join the 200,000 developers using Yahoo tools to build their app businesses
@@ -1884,7 +1855,6 @@ Convert files and content between file formats
 - [Skywatch](https://github.com/apis-list/apis-list/blob/main/apis/skywatch/skywatch.md) - Instead, EarthCache allows development teams to focus on the business application and in delivering actionable intelligence to the end-user
 - [Teleport](https://github.com/apis-list/apis-list/blob/main/apis/teleport/teleport.md) - Welcome to Teleport for Developers
 - [The Shrimpy Universal Crypto Exchange Api](https://github.com/apis-list/apis-list/blob/main/apis/the-shrimpy-universal-crypto-exchange-api/the-shrimpy-universal-crypto-exchange-api.md) - Collect real-time trade or order book data for free, manage user exchange accounts, execute trading strategies, and simplify the way you connect to each exchange
-- [Time Door](https://github.com/apis-list/apis-list/blob/main/apis/time-door/time-door.md) - A time series analysis API
 - [Trefle](https://github.com/apis-list/apis-list/blob/main/apis/trefle/trefle.md) - Trefle is a botanical API and data source
 - [UK Police](https://github.com/apis-list/apis-list/blob/main/apis/uk-police/uk-police.md) - Police API Documentation The API provides a rich data source for information, including: Neighbourhood team members Upcoming events Street-level crime and outcome data Nearest police stations The A
 - [UPC database](https://github.com/apis-list/apis-list/blob/main/apis/upc-database/upc-database.md) - Integrate your own applications using our new API
@@ -1995,7 +1965,7 @@ Convert files and content between file formats
  ### Patent 
 - [EPO](https://github.com/apis-list/apis-list/blob/main/apis/epo/epo.md) - OPS dat
 - [USPTO](https://github.com/apis-list/apis-list/blob/main/apis/uspto/uspto.md) - Open data and mobility "Open data" is publicly available data that is structured in a way that enables the data to be fully discoverable and usable by end users
- ### Payments 
+ ### Payments 💳
 - [Afex](https://github.com/apis-list/apis-list/blob/main/apis/afex/afex.md) - Never worry about maintaining API documentation again
 - [Barzahlen](https://github.com/apis-list/apis-list/blob/main/apis/barzahlen/barzahlen.md) - Barzahlen API v2 allows you to create payment, payout, and refund slips customers can use in stores like supermarkets to pay or receive money
 - [Bittrex](https://github.com/apis-list/apis-list/blob/main/apis/bittrex/bittrex.md) - Bittrex provides a simple and powerful API consisting of REST endpoints for transactional operations and a complementary Websocket service providing streaming market and user data updates
@@ -2073,10 +2043,11 @@ bunq is an anti-bank that is licenced to work in Europe
 - [Rijksmuseum](https://github.com/apis-list/apis-list/blob/main/apis/rijksmuseum/rijksmuseum.md) - The Rijksmuseum links individuals with art and history
 - [Xyz Menus](https://github.com/apis-list/apis-list/blob/main/apis/xyz-menus/xyz-menus.md) - XYZ Menus API provides access to a Database of over 350,000 Restaurant Menus with over 30,000,000 individual menu items
 - [Zomato](https://github.com/apis-list/apis-list/blob/main/apis/zomato/zomato.md) - Zomato API
- ### Postal 
+ ### Post & Logistics 
 - [Form-Api](https://github.com/apis-list/apis-list/blob/main/apis/form-api/form-api.md) - Build forms easily, autocomplete and validate data
 - [GeoNames](https://github.com/apis-list/apis-list/blob/main/apis/geonames/geonames.md) - Important: Do not use the 'demo' account for your app or your tests
 - [IP Vigilante](https://github.com/apis-list/apis-list/blob/main/apis/ip-vigilante/ip-vigilante.md) - IP Vigilante provides a free geographical IP locator API, so the developers can obtain geographical information of an IP in various formats: JSON and CSV
+- [Quantumdigital](https://github.com/apis-list/apis-list/blob/main/apis/quantumdigital/quantumdigital.md) -  QuantumDigital’s APIs make navigating the USPS, securing national consumer and business lists, uploading your own designs or lists, and shipping small order marketing materials a breeze
 - [US Street Address](https://github.com/apis-list/apis-list/blob/main/apis/us-street-address/us-street-address.md) - How to verify one or more addresses using the SmartyStreets US Street Address API
 - [Wgs84 To Osgb36](https://github.com/apis-list/apis-list/blob/main/apis/wgs84-to-osgb36/wgs84-to-osgb36.md) - Convert a WGS84 latitude and longitude to OSGB36 easting and northing (British National Grid)
 - [bng2latlong](https://github.com/apis-list/apis-list/blob/main/apis/bng2latlong/bng2latlong.md) - Simple API to convert an OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude
@@ -2151,7 +2122,6 @@ bunq is an anti-bank that is licenced to work in Europe
 - [CORE](https://github.com/apis-list/apis-list/blob/main/apis/core/core.md) - CORE harvests, maintains, enriches and makes available metadata and full text
 content - typically a PDF - from many Open Access journals and repositories
 - [Chronicling America](https://github.com/apis-list/apis-list/blob/main/apis/chronicling-america/chronicling-america.md) - Newspaper Directory to find information about American newspapers published between 1690-present
-- [Data Science Toolkit](https://github.com/apis-list/apis-list/blob/main/apis/data-science-toolkit/data-science-toolkit.md) - A collection of the best open data sets and open-source tools for data science
 - [Datamuse API](https://github.com/apis-list/apis-list/blob/main/apis/datamuse-api/datamuse-api.md) - You can use it in your apps to find words that match a given set o
 - [GeoNames](https://github.com/apis-list/apis-list/blob/main/apis/geonames/geonames.md) - Important: Do not use the 'demo' account for your app or your tests
 - [GoodReads](https://github.com/apis-list/apis-list/blob/main/apis/goodreads/goodreads.md) - The Goodreads API allows developers access to Goodreads data in order to help websites or applications that deal with books be more personalized, social,
@@ -2168,7 +2138,7 @@ content - typically a PDF - from many Open Access journals and repositories
 - [TextRazor](https://github.com/apis-list/apis-list/blob/main/apis/textrazor/textrazor.md) - #FreeToUse
 - [Trivia Api](https://github.com/apis-list/apis-list/blob/main/apis/trivia-api/trivia-api.md) - 100k+ trivia entries available via REST API
 - [UPC database](https://github.com/apis-list/apis-list/blob/main/apis/upc-database/upc-database.md) - Integrate your own applications using our new API
-- [Whitepages Pro](https://github.com/apis-list/apis-list/blob/main/apis/whitepages-pro/whitepages-pro.md) - Every country in the world supported
+- [Whitepages Pro](https://github.com/apis-list/apis-list/blob/main/apis/whitepages-pro/whitepages-pro.md) - Global Identity Verification API
 - [Wikipedia](https://github.com/apis-list/apis-list/blob/main/apis/wikipedia/wikipedia.md) - Documentation and examples: https://www
 - [Wikipedia API](https://github.com/apis-list/apis-list/blob/main/apis/wikipedia-api/wikipedia-api.md) - While we try to avoid it, we may occasionally need to make breaking changes; subscrib
 - [Wolfram|Alpha](https://github.com/apis-list/apis-list/blob/main/apis/wolfram-alpha/wolfram-alpha.md) - General knowledge on every topic; query it all with natural language input
@@ -2197,7 +2167,6 @@ content - typically a PDF - from many Open Access journals and repositories
 - [Astronomy](https://github.com/apis-list/apis-list/blob/main/apis/astronomy/astronomy.md) - Our Astronomy API provides timings for sunrise, sunset, moonrise, moonset, sun azimuth, moon azimuth, sun altitude, moon altitude, sun distance from the earth and moon distance from the earth from latitude and longitude or an IPv4 or IPv6 address for a given date
 - [CORE](https://github.com/apis-list/apis-list/blob/main/apis/core/core.md) - CORE harvests, maintains, enriches and makes available metadata and full text
 content - typically a PDF - from many Open Access journals and repositories
-- [Data Science Toolkit](https://github.com/apis-list/apis-list/blob/main/apis/data-science-toolkit/data-science-toolkit.md) - A collection of the best open data sets and open-source tools for data science
 - [GBIF](https://github.com/apis-list/apis-list/blob/main/apis/gbif/gbif.md) - Please refer to the documentation on the GBIF website
 - [ITIS](https://github.com/apis-list/apis-list/blob/main/apis/itis/itis.md) - Hosted by the USGS Core Science Analytics and Synthesis
 - [Launch Library 2](https://github.com/apis-list/apis-list/blob/main/apis/launch-library-2/launch-library-2.md) - Upcoming Space Launches
@@ -2685,7 +2654,7 @@ The most powerful and cost-effective NLP AI APIs, continuously updated
 - [US Street Address](https://github.com/apis-list/apis-list/blob/main/apis/us-street-address/us-street-address.md) - How to verify one or more addresses using the SmartyStreets US Street Address API
 - [Validator.Pizza](https://github.com/apis-list/apis-list/blob/main/apis/validator-pizza/validator-pizza.md) - pizza is made to prevent users to register to websites with a disposable email address
 - [WebPurify](https://github.com/apis-list/apis-list/blob/main/apis/webpurify/webpurify.md) - Provides live image moderation by humans or AI-based image moderation service
-- [Whitepages Pro](https://github.com/apis-list/apis-list/blob/main/apis/whitepages-pro/whitepages-pro.md) - Every country in the world supported
+- [Whitepages Pro](https://github.com/apis-list/apis-list/blob/main/apis/whitepages-pro/whitepages-pro.md) - Global Identity Verification API
 - [ipstack](https://github.com/apis-list/apis-list/blob/main/apis/ipstack/ipstack.md) - Locate website visitors for free using ipstack - a free, real-time IP address to location JSON API and database service supporting IPv4 and IPv6 lookup
 - [languagelayer](https://github.com/apis-list/apis-list/blob/main/apis/languagelayer/languagelayer.md) - Free, powerful language detection JSON API for 173 languages, supporting single and batch requests, PHP, JavaScript, Python, Ruby, Java, and more
 - [mailboxlayer](https://github.com/apis-list/apis-list/blob/main/apis/mailboxlayer/mailboxlayer.md) - Simple and powerful email verification JSON API using SMTP, typo checks, syntax validation, and free and disposable provider filtering
@@ -2833,7 +2802,7 @@ The most powerful and cost-effective NLP AI APIs, continuously updated
 - [Medium](https://github.com/apis-list/apis-list/blob/main/apis/medium/medium.md) - Documentation for Medium's OAuth2 API
 
 
-## 🪦 Graveyard
+## Graveyard 🪦
 - [3ps](https://github.com/apis-list/apis-list/blob/main/apis/3ps/3ps.md) - 
 - [Abbreviation](https://github.com/apis-list/apis-list/blob/main/apis/abbreviation/abbreviation.md) - Get abbreviations and meanings
 - [Adorable Avatars](https://github.com/apis-list/apis-list/blob/main/apis/adorable-avatars/adorable-avatars.md) - Generate random cartoon avatars

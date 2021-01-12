@@ -9,8 +9,8 @@ The Salesforce Platform connects the entire customer journey across Sales, Servi
 **Docs / Website**: https://developer.salesforce.com/docs/atlas.en-us.api.meta/api/sforce_api_quickstart_intro.htm
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -19,6 +19,10 @@ The Salesforce Platform connects the entire customer journey across Sales, Servi
 - [Business](https://github.com/apis-list/apis-list#business)
 - [Office](https://github.com/apis-list/apis-list#office)
 - [CRM](https://github.com/apis-list/apis-list#crm)
+
+
+
+
 
 
 

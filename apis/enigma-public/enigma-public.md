@@ -9,14 +9,18 @@ Enigma Businesses provides the most accurate and reliable information on small a
 **Docs / Website**: http://docs.enigma.com/public/public_v20_api_about
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
+
+
+
+
 
 
 

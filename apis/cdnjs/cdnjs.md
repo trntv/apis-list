@@ -7,8 +7,8 @@ cloudflare. com/ajax/libs/jquery/3. 1/jquery. js","sri":"sha512-bLT0Qm9VnAYZDfly
 **Docs / Website**: https://api.cdnjs.com/libraries/jquery
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ cloudflare. com/ajax/libs/jquery/3. 1/jquery. js","sri":"sha512-bLT0Qm9VnAYZDfly
 - [Applications](https://github.com/apis-list/apis-list#applications)
 - [Library](https://github.com/apis-list/apis-list#library)
 - [Development](https://github.com/apis-list/apis-list#development)
+
+
+
+
 
 
 

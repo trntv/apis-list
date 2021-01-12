@@ -10,14 +10,18 @@ Note After July 1, 2020, requests to the v0. 4 endpoints will no longer be suppo
 **Docs / Website**: https://support.mywot.com/hc/en-us/articles/360024398673-3-Using-the-API
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Security](https://github.com/apis-list/apis-list#security)
+
+
+
+
 
 
 

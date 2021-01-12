@@ -9,14 +9,18 @@ IP Address Geolocation to Country, City, Region, Latitude, Longitude, ZIP Code, 
 **Docs / Website**: https://www.ip2location.com/web-service/ip2proxy
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
+
+
+
 
 
 

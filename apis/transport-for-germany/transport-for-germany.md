@@ -7,14 +7,18 @@ Diese API stellt Fahrplandaten, im ersten Schritt den SOLL-Fahrplan des Fernverk
 **Docs / Website**: http://data.deutschebahn.com/dataset/api-fahrplan
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
+
+
+
+
 
 
 

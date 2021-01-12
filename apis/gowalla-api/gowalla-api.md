@@ -9,8 +9,8 @@ Gather and compare all kinds of interesting data, they weren't really interactiv
 **Docs / Website**: 
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -19,6 +19,10 @@ Gather and compare all kinds of interesting data, they weren't really interactiv
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Mobile](https://github.com/apis-list/apis-list#mobile)
+
+
+
+
 
 
 

@@ -7,8 +7,8 @@ We offer two kinds of APIs for developers.  The Bot API allows you to easily cre
 **Docs / Website**: https://core.telegram.org/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -19,6 +19,10 @@ We offer two kinds of APIs for developers.  The Bot API allows you to easily cre
 - [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
 - [Mobile](https://github.com/apis-list/apis-list#mobile)
 - [Photography](https://github.com/apis-list/apis-list#photography)
+
+
+
+
 
 
 

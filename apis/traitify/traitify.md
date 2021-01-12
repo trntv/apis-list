@@ -7,8 +7,8 @@ Traitify API documentation and developer portal. Traitify API documentation and 
 **Docs / Website**: https://app.traitify.com/developer
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -19,6 +19,10 @@ Traitify API documentation and developer portal. Traitify API documentation and 
 - [Testing](https://github.com/apis-list/apis-list#testing)
 - [Health](https://github.com/apis-list/apis-list#health)
 - [Personality](https://github.com/apis-list/apis-list#personality)
+
+
+
+
 
 
 

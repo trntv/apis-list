@@ -7,8 +7,8 @@ An open, crowd-sourced database of drinks and cocktails from around the world. A
 **Docs / Website**: https://www.thecocktaildb.com/api.php
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -17,6 +17,10 @@ An open, crowd-sourced database of drinks and cocktails from around the world. A
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Open Source](https://github.com/apis-list/apis-list#open-source)
 - [Food & Drinks](https://github.com/apis-list/apis-list#food-and-drinks)
+
+
+
+
 
 
 

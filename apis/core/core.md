@@ -10,8 +10,8 @@ content - typically a PDF - from many Open Access journals and repositories
 **Docs / Website**: https://core.ac.uk/services#api
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -21,6 +21,10 @@ content - typically a PDF - from many Open Access journals and repositories
 - [Reference](https://github.com/apis-list/apis-list#reference)
 - [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
 - [Education](https://github.com/apis-list/apis-list#education)
+
+
+
+
 
 
 

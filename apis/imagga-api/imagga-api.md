@@ -9,8 +9,8 @@ identifies the content of images and videos, classify images based on content, e
 **Docs / Website**: https://imagga.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -19,6 +19,10 @@ identifies the content of images and videos, classify images based on content, e
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Recognition](https://github.com/apis-list/apis-list#recognition)
+
+
+
+
 
 
 

@@ -9,8 +9,8 @@ Except where otherwise noted, content on this site is licensed under a Creative 
 **Docs / Website**: http://developer.dribbble.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ Except where otherwise noted, content on this site is licensed under a Creative 
 ## 🗄️ Categories:
 - [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
 - [Other](https://github.com/apis-list/apis-list#other)
+
+
+
+
 
 
 

@@ -9,14 +9,18 @@ Get abbreviations and meanings
 **Docs / Website**: https://market.mashape.com/daxeel/abbreviations
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
+
+
+
+
 
 
 

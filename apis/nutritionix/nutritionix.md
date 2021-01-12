@@ -7,8 +7,8 @@ Already signed up and logged in? View your API key now. Try searching the API ri
 **Docs / Website**: https://developer.nutritionix.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ Already signed up and logged in? View your API key now. Try searching the API ri
 - [Food & Drinks](https://github.com/apis-list/apis-list#food-and-drinks)
 - [Bar & QR Codes](https://github.com/apis-list/apis-list#bar-and-qr-codes)
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
+
+
+
+
 
 
 

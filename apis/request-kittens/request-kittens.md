@@ -9,8 +9,8 @@ GET http://requestkittens. com/cats A randomized set of category-specific cat im
 **Docs / Website**: http://joshwcomeau.github.io/RequestKittensDocs/public/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -20,6 +20,10 @@ GET http://requestkittens. com/cats A randomized set of category-specific cat im
 - [Animals](https://github.com/apis-list/apis-list#animals)
 - [Databases](https://github.com/apis-list/apis-list#databases)
 - [Images](https://github.com/apis-list/apis-list#images)
+
+
+
+
 
 
 

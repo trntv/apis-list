@@ -7,8 +7,8 @@ Analytics Concepts In order to use an analytics API to its maximum potential, it
 **Docs / Website**: http://docs.localytics.com/dev/query-api.html#query-api
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -19,6 +19,10 @@ Analytics Concepts In order to use an analytics API to its maximum potential, it
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
 - [Business](https://github.com/apis-list/apis-list#business)
 - [Applications](https://github.com/apis-list/apis-list#applications)
+
+
+
+
 
 
 

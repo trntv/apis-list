@@ -9,8 +9,8 @@ These endpoints constitute the functionality exposed by Bungie. net
 **Docs / Website**:  both for more traditional website functionality and for connectivity to Bungie video games and their related functionality.
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ These endpoints constitute the functionality exposed by Bungie. net
 ## 🗄️ Categories:
 - [Games](https://github.com/apis-list/apis-list#games)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+
+
+
+
 
 
 

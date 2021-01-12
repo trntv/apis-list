@@ -7,8 +7,8 @@ Enables developers to create web and mobile applications that find local busines
 **Docs / Website**: http://docs.citygridmedia.com/display/citygridv2/Places+API
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ Enables developers to create web and mobile applications that find local busines
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Search](https://github.com/apis-list/apis-list#search)
 - [Localization](https://github.com/apis-list/apis-list#localization)
+
+
+
+
 
 
 

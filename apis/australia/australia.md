@@ -9,14 +9,18 @@ Central bank of Australia
 **Docs / Website**: https://www.rba.gov.au/statistics/tables/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Government](https://github.com/apis-list/apis-list#government)
+
+
+
+
 
 
 

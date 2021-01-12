@@ -9,18 +9,25 @@ How to verify one or more addresses using the SmartyStreets US Street Address AP
 **Docs / Website**: https://smartystreets.com/docs/cloud/us-street-api
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Postal](https://github.com/apis-list/apis-list#postal)
+- [Post & Logistics](https://github.com/apis-list/apis-list#post-and-logistics)
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
-- [Addresses](https://github.com/apis-list/apis-list#addresses)
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+- [Open Data](https://github.com/apis-list/apis-list#open-data)
+
+
+
+
+
+
+
+.com/apis-list/apis-list#maps-and-geo)
 
 
 

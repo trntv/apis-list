@@ -9,14 +9,18 @@ Used by Google products to create short URLs that can be easily shared, tweeted,
 **Docs / Website**: https://developers.google.com/url-shortener/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [URL Shortening](https://github.com/apis-list/apis-list#url-shortening)
+
+
+
+
 
 
 

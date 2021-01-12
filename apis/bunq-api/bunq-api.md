@@ -10,8 +10,8 @@ Let's cooperate!
 **Docs / Website**: https://doc.bunq.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -19,6 +19,10 @@ Let's cooperate!
 ## 🗄️ Categories:
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 - [Payments](https://github.com/apis-list/apis-list#payments)
+
+
+
+
 
 
 

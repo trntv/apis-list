@@ -7,17 +7,21 @@
 **Docs / Website**: https://random.dog/woof.json
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Animals](https://github.com/apis-list/apis-list#animals)
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
+- [Animals](https://github.com/apis-list/apis-list#animals)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+
+
+
+
 
 
 

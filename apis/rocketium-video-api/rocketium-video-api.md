@@ -9,8 +9,8 @@ Create multiple videos with your logo, captions, and background music in differe
 **Docs / Website**: https://rocketium.com/api/?utm_source=github&utm_medium=repository&utm_campaign=abhishekbanthia&utm_content=api_solution
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ Create multiple videos with your logo, captions, and background music in differe
 ## 🗄️ Categories:
 - [Other](https://github.com/apis-list/apis-list#other)
 - [Marketing & SEO](https://github.com/apis-list/apis-list#marketing-and-seo)
+
+
+
+
 
 
 

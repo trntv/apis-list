@@ -7,8 +7,8 @@ Free IP Geolocation API with no registration required. Free IP Geolocation API w
 **Docs / Website**: https://freegeoip.app/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -16,6 +16,10 @@ Free IP Geolocation API with no registration required. Free IP Geolocation API w
 ## 🗄️ Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Domains](https://github.com/apis-list/apis-list#domains)
+
+
+
+
 
 
 

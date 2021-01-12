@@ -7,8 +7,8 @@ Free for use text classification, sentiment analysis, semantic similarity and wo
 **Docs / Website**: https://digitalowl.org
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -17,6 +17,10 @@ Free for use text classification, sentiment analysis, semantic similarity and wo
 - [Text](https://github.com/apis-list/apis-list#text)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
+
+
+
+
 
 
 

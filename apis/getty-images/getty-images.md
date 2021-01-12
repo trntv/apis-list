@@ -7,8 +7,8 @@ Page moved here.  Page moved here
 **Docs / Website**: http://developers.gettyimages.com/en/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ Page moved here.  Page moved here
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
 - [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
 - [Photography](https://github.com/apis-list/apis-list#photography)
+
+
+
+
 
 
 

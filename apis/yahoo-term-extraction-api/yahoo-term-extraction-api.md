@@ -9,14 +9,18 @@ Join the 200,000 developers using Yahoo tools to build their app businesses. Con
 **Docs / Website**: https://developer.yahoo.com/contentanalysis/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Search](https://github.com/apis-list/apis-list#search)
+
+
+
+
 
 
 

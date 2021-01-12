@@ -9,8 +9,8 @@
 **Docs / Website**: https://developers.google.com/chart/interactive/docs/reference
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -19,6 +19,10 @@
 - [Other](https://github.com/apis-list/apis-list#other)
 - [Visualizations](https://github.com/apis-list/apis-list#visualizations)
 - [Charts](https://github.com/apis-list/apis-list#charts)
+
+
+
+
 
 
 

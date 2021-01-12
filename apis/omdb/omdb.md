@@ -7,17 +7,21 @@ Attention Users 04/08/19 - Added support for eight digit IMDb IDs.  01/20/19 - S
 **Docs / Website**: https://www.omdbapi.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Search](https://github.com/apis-list/apis-list#search)
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Reference](https://github.com/apis-list/apis-list#reference)
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
+- [Search](https://github.com/apis-list/apis-list#search)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+
+
+
+
 
 
 

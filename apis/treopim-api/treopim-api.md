@@ -9,14 +9,18 @@ AtroPIM is a free, modern, open source, GPLv3 licensed, web-based, feature-rich 
 **Docs / Website**: https://atropim.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
+
+
+
+
 
 
 

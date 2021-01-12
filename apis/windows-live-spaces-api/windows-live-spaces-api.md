@@ -9,14 +9,18 @@ Included a blogging system, photo gallery, lists, friends, a guestbook, and a so
 **Docs / Website**: 
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
+
+
+
+
 
 
 

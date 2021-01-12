@@ -7,15 +7,19 @@ Discover Amadeus travel APIs and connect to the flight search, flight booking, h
 **Docs / Website**: https://sandbox.amadeus.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Travel](https://github.com/apis-list/apis-list#travel)
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
+- [Travel](https://github.com/apis-list/apis-list#travel)
+
+
+
+
 
 
 

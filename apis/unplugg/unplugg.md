@@ -7,8 +7,8 @@ Add intelligence to your energy products. Automated Forecasting API for timeseri
 **Docs / Website**: http://unplu.gg/test_api.html
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -16,6 +16,10 @@ Add intelligence to your energy products. Automated Forecasting API for timeseri
 ## 🗄️ Categories:
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Energy](https://github.com/apis-list/apis-list#energy)
+
+
+
+
 
 
 

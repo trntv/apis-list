@@ -9,8 +9,8 @@ Documentation and examples: https://www. mediawiki. org/wiki/Special:MyLanguage/
 **Docs / Website**: https://en.wikipedia.org/w/api.php
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -20,6 +20,10 @@ Documentation and examples: https://www. mediawiki. org/wiki/Special:MyLanguage/
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Reference](https://github.com/apis-list/apis-list#reference)
+
+
+
+
 
 
 

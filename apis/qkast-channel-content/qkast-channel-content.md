@@ -9,14 +9,18 @@ qKast API documentation and examples.  Contribute to egfx/qKast development by c
 **Docs / Website**: https://github.com/egfx/qKast
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
+
+
+
+
 
 
 

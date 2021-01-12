@@ -7,15 +7,19 @@ Use the links below to find out more about constructing request URLs, different 
 **Docs / Website**: https://en.gravatar.com/site/implement/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Social](https://github.com/apis-list/apis-list#social)
 - [Photography](https://github.com/apis-list/apis-list#photography)
+- [Social](https://github.com/apis-list/apis-list#social)
+
+
+
+
 
 
 

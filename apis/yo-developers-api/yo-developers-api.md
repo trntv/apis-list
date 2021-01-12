@@ -9,8 +9,8 @@ Yo API Documentation. Programmatically send Yos (contextual messages) through AP
 **Docs / Website**: https://docs.justyo.co/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -19,6 +19,10 @@ Yo API Documentation. Programmatically send Yos (contextual messages) through AP
 - [Marketing & SEO](https://github.com/apis-list/apis-list#marketing-and-seo)
 - [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
 - [Notifications](https://github.com/apis-list/apis-list#notifications)
+
+
+
+
 
 
 

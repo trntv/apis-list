@@ -11,8 +11,8 @@
 **Docs / Website**: {{ .api.URI }}
 
 ## 🧬 Specification:
-**Type**: {{ if  .api.SpecificationType }}{{ .api.SpecificationType }}{{ else }} N/A {{ end }}
-**URI**: {{ if  .api.SpecificationUri }}{{ .api.SpecificationUri }}{{ else }} N/A {{ end }}
+**Type**: {{ if  .api.SpecificationType }}{{ .api.SpecificationType }}{{ else }}N/A{{ end }}
+**URI**: {{ if  .api.SpecificationUri }}{{ .api.SpecificationUri }}{{ else }}N/A{{ end }}
 
 ## 💬 Discussion:
 {{ if .api.DiscussionURI -}}[Discuss {{ .api.Name }}](.api.DiscussionURI){{else}}[Create discussion](https://github.com/apis-list/apis-list/discussions/new){{ end }}

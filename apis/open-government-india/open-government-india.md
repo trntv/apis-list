@@ -7,14 +7,18 @@ The requested URL was rejected. Please consult with your administrator. Your sup
 **Docs / Website**: https://data.gov.in/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Government](https://github.com/apis-list/apis-list#government)
+
+
+
+
 
 
 

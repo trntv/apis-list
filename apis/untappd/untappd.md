@@ -9,8 +9,8 @@ Access the Untappd API documentation to power your app or project. . Untappd is 
 **Docs / Website**: https://untappd.com/api/docs
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ Access the Untappd API documentation to power your app or project. . Untappd is 
 ## 🗄️ Categories:
 - [Food & Drinks](https://github.com/apis-list/apis-list#food-and-drinks)
 - [Social](https://github.com/apis-list/apis-list#social)
+
+
+
+
 
 
 

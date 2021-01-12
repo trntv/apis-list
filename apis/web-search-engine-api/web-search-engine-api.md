@@ -9,14 +9,18 @@ QMeta offers a free, uncensored and unlimited web search engine API
 **Docs / Website**: https://www.qmeta.net/api.html
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Search](https://github.com/apis-list/apis-list#search)
+
+
+
+
 
 
 

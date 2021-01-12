@@ -19,8 +19,8 @@ Localize your users, apply geographical restrictions to your website and increas
 **Docs / Website**: https://smartip.io
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -28,6 +28,10 @@ Localize your users, apply geographical restrictions to your website and increas
 ## 🗄️ Categories:
 - [Localization](https://github.com/apis-list/apis-list#localization)
 - [Big Data](https://github.com/apis-list/apis-list#big-data)
+
+
+
+
 
 
 

@@ -9,8 +9,8 @@ Jeannie (Voice Actions) is a virtual assistant with over two Million downloads, 
 **Docs / Website**: 
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -19,6 +19,10 @@ Jeannie (Voice Actions) is a virtual assistant with over two Million downloads, 
 - [Tools](https://github.com/apis-list/apis-list#tools)
 - [Voice](https://github.com/apis-list/apis-list#voice)
 - [Applications](https://github.com/apis-list/apis-list#applications)
+
+
+
+
 
 
 

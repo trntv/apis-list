@@ -7,8 +7,8 @@
 **Docs / Website**: https://developer.walmartlabs.com/docs
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -16,6 +16,10 @@
 ## 🗄️ Categories:
 - [Shopping](https://github.com/apis-list/apis-list#shopping)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
+
+
+
+
 
 
 

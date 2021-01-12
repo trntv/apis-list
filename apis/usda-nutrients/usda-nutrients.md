@@ -7,14 +7,18 @@ FoodData Central is an integrated data system that provides expanded nutrient pr
 **Docs / Website**: https://fdc.nal.usda.gov/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Health](https://github.com/apis-list/apis-list#health)
+
+
+
+
 
 
 

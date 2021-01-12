@@ -9,8 +9,8 @@ Food2Fork has shut down. Recipe Search
 **Docs / Website**: https://food2fork.com/about/api
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -19,6 +19,10 @@ Food2Fork has shut down. Recipe Search
 - [Databases](https://github.com/apis-list/apis-list#databases)
 - [Ratings](https://github.com/apis-list/apis-list#ratings)
 - [Food & Drinks](https://github.com/apis-list/apis-list#food-and-drinks)
+
+
+
+
 
 
 

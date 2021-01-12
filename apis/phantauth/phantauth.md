@@ -9,8 +9,8 @@ Random User Generator + OpenID Connect Provider.  Like Lorem Ipsum, but for user
 **Docs / Website**: https://www.phantauth.net/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -19,6 +19,10 @@ Random User Generator + OpenID Connect Provider.  Like Lorem Ipsum, but for user
 - [Other](https://github.com/apis-list/apis-list#other)
 - [Authentication & User Management](https://github.com/apis-list/apis-list#authentication-and-user-management)
 - [Testing](https://github.com/apis-list/apis-list#testing)
+
+
+
+
 
 
 

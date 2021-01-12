@@ -9,8 +9,8 @@ Works on websites, iOS, mobile and desktop applications. The browser log in flow
 **Docs / Website**: https://dev.twitter.com/web/sign-in
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ Works on websites, iOS, mobile and desktop applications. The browser log in flow
 ## 🗄️ Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Authentication & User Management](https://github.com/apis-list/apis-list#authentication-and-user-management)
+
+
+
+
 
 
 

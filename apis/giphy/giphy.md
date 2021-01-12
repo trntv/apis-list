@@ -9,8 +9,8 @@ Worlds largest library of GIFs
 **Docs / Website**: https://developers.giphy.com/docs/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -20,6 +20,10 @@ Worlds largest library of GIFs
 - [Other](https://github.com/apis-list/apis-list#other)
 - [Photography](https://github.com/apis-list/apis-list#photography)
 - [Search](https://github.com/apis-list/apis-list#search)
+
+
+
+
 
 
 

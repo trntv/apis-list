@@ -9,8 +9,8 @@ Hire in any profession you can think of using our API, on demand–developers, d
 **Docs / Website**: https://developers.freelancer.com
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -19,6 +19,10 @@ Hire in any profession you can think of using our API, on demand–developers, d
 - [Jobs](https://github.com/apis-list/apis-list#jobs)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Business](https://github.com/apis-list/apis-list#business)
+
+
+
+
 
 
 

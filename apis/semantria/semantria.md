@@ -7,8 +7,8 @@ Flexible natural language processing APIs and complete text analytics platform s
 **Docs / Website**: https://www.lexalytics.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -20,6 +20,10 @@ Flexible natural language processing APIs and complete text analytics platform s
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 - [Text](https://github.com/apis-list/apis-list#text)
 - [Development](https://github.com/apis-list/apis-list#development)
+
+
+
+
 
 
 

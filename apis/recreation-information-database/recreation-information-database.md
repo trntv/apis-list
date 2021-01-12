@@ -7,14 +7,18 @@ Recreation. gov is your source for discovering and experiencing America's federa
 **Docs / Website**: https://ridb.recreation.gov/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
+
+
+
+
 
 
 

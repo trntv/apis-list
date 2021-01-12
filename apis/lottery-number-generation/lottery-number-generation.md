@@ -7,8 +7,8 @@ Hundereds of lottery games from various countries are supported. Generate lotter
 **Docs / Website**: https://fungenerators.com/api/lottery/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -20,6 +20,10 @@ Hundereds of lottery games from various countries are supported. Generate lotter
 - [Translation](https://github.com/apis-list/apis-list#translation)
 - [Other](https://github.com/apis-list/apis-list#other)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+
+
+
+
 
 
 

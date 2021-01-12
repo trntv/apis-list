@@ -7,8 +7,8 @@ Access to MapBox’s API
 **Docs / Website**: https://www.mapbox.com/developers/api/maps/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -17,6 +17,10 @@ Access to MapBox’s API
 - [Visualizations](https://github.com/apis-list/apis-list#visualizations)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Geography](https://github.com/apis-list/apis-list#geography)
+
+
+
+
 
 
 

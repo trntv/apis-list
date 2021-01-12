@@ -7,8 +7,8 @@ Introduction This documentation covers the main API (the so-called REST API).  T
 **Docs / Website**: http://api.opencorporates.com/documentation/API-Reference
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ Introduction This documentation covers the main API (the so-called REST API).  T
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Reference](https://github.com/apis-list/apis-list#reference)
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
+
+
+
+
 
 
 

@@ -9,8 +9,8 @@ Automatic background removal real-time service powered by AI. Automatic backgrou
 **Docs / Website**: https://objectcut.com
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ Automatic background removal real-time service powered by AI. Automatic backgrou
 ## 🗄️ Categories:
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
+
+
+
+
 
 
 

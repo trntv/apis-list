@@ -9,8 +9,8 @@ The Spaceflight News API lets you add space related news to your apps
 **Docs / Website**: https://spaceflightnewsapi.net
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ The Spaceflight News API lets you add space related news to your apps
 ## 🗄️ Categories:
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
 - [Space](https://github.com/apis-list/apis-list#space)
+
+
+
+
 
 
 

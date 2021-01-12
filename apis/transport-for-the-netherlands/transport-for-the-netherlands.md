@@ -9,14 +9,18 @@ NS beschikt over een grote hoeveelheid data met informatie over de geplande en a
 **Docs / Website**: http://www.ns.nl/reisinformatie/ns-api
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
+
+
+
+
 
 
 

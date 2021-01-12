@@ -7,14 +7,18 @@ Free phone number validation provided by PhoneValidator. Check phone numbers to 
 **Docs / Website**: https://www.phonevalidator.com
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
+
+
+
+
 
 
 

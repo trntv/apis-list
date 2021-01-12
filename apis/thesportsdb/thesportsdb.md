@@ -9,8 +9,8 @@ Various sports events, results, players, teams and high quality artwork. TheSpor
 **Docs / Website**: http://www.thesportsdb.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -20,6 +20,10 @@ Various sports events, results, players, teams and high quality artwork. TheSpor
 - [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
 - [Databases](https://github.com/apis-list/apis-list#databases)
 - [Images](https://github.com/apis-list/apis-list#images)
+
+
+
+
 
 
 

@@ -7,8 +7,8 @@ Share the notes with everyone you want.
 **Docs / Website**: https://api.simplenotes.cc
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -16,6 +16,10 @@ Share the notes with everyone you want.
 ## 🗄️ Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
+
+
+
+
 
 
 

@@ -9,8 +9,8 @@ Parameters callback string To define your own callback function name and return 
 **Docs / Website**: http://api.adviceslip.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -20,6 +20,10 @@ Parameters callback string To define your own callback function name and return 
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Fun](https://github.com/apis-list/apis-list#fun)
 - [Health](https://github.com/apis-list/apis-list#health)
+
+
+
+
 
 
 

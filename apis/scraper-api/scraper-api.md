@@ -7,16 +7,20 @@ Get started with 1000 free API calls!. Scraper API handles proxies, browsers, an
 **Docs / Website**: https://www.scraperapi.com
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Data-As-A-Service](https://github.com/apis-list/apis-list#data-as-a-service)
 - [Other](https://github.com/apis-list/apis-list#other)
 - [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers-and-data-mining)
+- [Data-As-A-Service](https://github.com/apis-list/apis-list#data-as-a-service)
+
+
+
+
 
 
 

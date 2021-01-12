@@ -9,20 +9,24 @@ The best new products, every day. Product Hunt is a curation of the best new pro
 **Docs / Website**: https://api.producthunt.com/v2/docs
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Applications](https://github.com/apis-list/apis-list#applications)
 - [Jobs](https://github.com/apis-list/apis-list#jobs)
 - [Lists](https://github.com/apis-list/apis-list#lists)
 - [Ratings](https://github.com/apis-list/apis-list#ratings)
 - [Search](https://github.com/apis-list/apis-list#search)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Products](https://github.com/apis-list/apis-list#products)
-- [Applications](https://github.com/apis-list/apis-list#applications)
+
+
+
+
 
 
 

@@ -9,8 +9,8 @@ Eventbrite Python SDK. Contribute to eventbrite/eventbrite-sdk-python developmen
 **Docs / Website**: https://github.com/eventbrite/eventbrite-sdk-python
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -21,6 +21,10 @@ Eventbrite Python SDK. Contribute to eventbrite/eventbrite-sdk-python developmen
 - [Authentication & User Management](https://github.com/apis-list/apis-list#authentication-and-user-management)
 - [Tickets](https://github.com/apis-list/apis-list#tickets)
 - [Social](https://github.com/apis-list/apis-list#social)
+
+
+
+
 
 
 

@@ -7,8 +7,8 @@ Power your music project by licensing access to the world’s most authoritative
 **Docs / Website**: https://developer.musixmatch.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -16,6 +16,10 @@ Power your music project by licensing access to the world’s most authoritative
 ## 🗄️ Categories:
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
 - [Metadata](https://github.com/apis-list/apis-list#metadata)
+
+
+
+
 
 
 

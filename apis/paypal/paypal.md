@@ -7,8 +7,8 @@ Enables your customers to sign in to your web site quickly and securely using th
 **Docs / Website**: https://developer.paypal.com/docs/integration/direct/identity/log-in-with-paypal/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ Enables your customers to sign in to your web site quickly and securely using th
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 - [Payments](https://github.com/apis-list/apis-list#payments)
 - [Authentication & User Management](https://github.com/apis-list/apis-list#authentication-and-user-management)
+
+
+
+
 
 
 

@@ -9,8 +9,8 @@ Integrate your own applications using our new API. Integrate your own applicatio
 **Docs / Website**: https://upcdatabase.org/api
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -22,6 +22,10 @@ Integrate your own applications using our new API. Integrate your own applicatio
 - [Reference](https://github.com/apis-list/apis-list#reference)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Bar & QR Codes](https://github.com/apis-list/apis-list#bar-and-qr-codes)
+
+
+
+
 
 
 

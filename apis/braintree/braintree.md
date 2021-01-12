@@ -7,16 +7,20 @@ Specializes in mobile and web payment systems for ecommerce companies.  Braintre
 **Docs / Website**: https://developers.braintreepayments.com
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Payments](https://github.com/apis-list/apis-list#payments)
 - [Business](https://github.com/apis-list/apis-list#business)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Payments](https://github.com/apis-list/apis-list#payments)
+
+
+
+
 
 
 

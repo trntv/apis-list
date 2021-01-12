@@ -7,8 +7,8 @@ These data are currently used to distribute around $400 B in Federal, State and 
 **Docs / Website**: https://www.census.gov/data/developers/data-sets.html
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -16,6 +16,10 @@ These data are currently used to distribute around $400 B in Federal, State and 
 ## 🗄️ Categories:
 - [Government](https://github.com/apis-list/apis-list#government)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
+
+
+
+
 
 
 

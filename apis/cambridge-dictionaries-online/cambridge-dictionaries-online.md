@@ -9,8 +9,8 @@ Access to Cambridge’s custom-developed API.  License our data. Use Cambridge D
 **Docs / Website**: http://dictionary.cambridge.org/license.html
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ Access to Cambridge’s custom-developed API.  License our data. Use Cambridge D
 ## 🗄️ Categories:
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
 - [Education](https://github.com/apis-list/apis-list#education)
+
+
+
+
 
 
 

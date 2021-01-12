@@ -9,8 +9,8 @@ Let’s you search and lookup metadata about artists, tracks and albums.  Spotif
 **Docs / Website**: https://developer.spotify.com/documentation/web-api/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ Let’s you search and lookup metadata about artists, tracks and albums.  Spotif
 ## 🗄️ Categories:
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
 - [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers-and-data-mining)
+
+
+
+
 
 
 

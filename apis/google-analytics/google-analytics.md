@@ -9,8 +9,8 @@ Google Analytics provides APIs to collect, configure, and report on user-interac
 **Docs / Website**: https://developers.google.com/analytics/?hl=en
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ Google Analytics provides APIs to collect, configure, and report on user-interac
 ## 🗄️ Categories:
 - [Business](https://github.com/apis-list/apis-list#business)
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
+
+
+
+
 
 
 

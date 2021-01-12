@@ -10,14 +10,18 @@ modern, highly available route planning service
 **Docs / Website**: https://digitransit.fi/en/developers/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
+
+
+
+
 
 
 

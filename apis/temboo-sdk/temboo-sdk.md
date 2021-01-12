@@ -9,14 +9,18 @@ This platform acts as a layer on top of third-party APIs, using code snippets to
 **Docs / Website**: https://temboo.com/download
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [IoT & Home Automation](https://github.com/apis-list/apis-list#iot-and-home-automation)
+
+
+
+
 
 
 

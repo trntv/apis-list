@@ -9,8 +9,8 @@ Get events and detailed match data in real time from major league tournaments, o
 **Docs / Website**: https://pandascore.co
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -20,6 +20,10 @@ Get events and detailed match data in real time from major league tournaments, o
 - [Games](https://github.com/apis-list/apis-list#games)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
+
+
+
+
 
 
 

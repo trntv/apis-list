@@ -9,8 +9,8 @@ Cryptocurrencies Prices. Use CoinMarketCap's free crypto API to get the best, mo
 **Docs / Website**: https://coinmarketcap.com/api/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ Cryptocurrencies Prices. Use CoinMarketCap's free crypto API to get the best, mo
 ## 🗄️ Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
+
+
+
+
 
 
 

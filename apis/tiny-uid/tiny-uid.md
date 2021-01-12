@@ -7,14 +7,18 @@ API Documentation tinyuid. com exposes its data via an Application Programming I
 **Docs / Website**: https://tinyuid.com/docs
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [URL Shortening](https://github.com/apis-list/apis-list#url-shortening)
+
+
+
+
 
 
 

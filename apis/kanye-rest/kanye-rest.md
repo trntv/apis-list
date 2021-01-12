@@ -9,8 +9,8 @@ A free REST API for random Kanye West quotes. A free REST API for random Kanye W
 **Docs / Website**: https://kanye.rest
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -20,6 +20,10 @@ A free REST API for random Kanye West quotes. A free REST API for random Kanye W
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+
+
+
+
 
 
 

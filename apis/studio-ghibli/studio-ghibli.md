@@ -7,8 +7,8 @@ Resources from Studio Ghibli films
 **Docs / Website**: https://ghibliapi.herokuapp.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -17,6 +17,10 @@ Resources from Studio Ghibli films
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Japanese](https://github.com/apis-list/apis-list#japanese)
+
+
+
+
 
 
 

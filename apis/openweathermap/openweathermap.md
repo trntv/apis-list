@@ -8,8 +8,8 @@ Simple and fast and free weather API from OpenWeatherMap you have access to curr
 **Docs / Website**: https://openweathermap.org/api
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -17,6 +17,10 @@ Simple and fast and free weather API from OpenWeatherMap you have access to curr
 ## 🗄️ Categories:
 - [Weather](https://github.com/apis-list/apis-list#weather)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+
+
+
+
 
 
 

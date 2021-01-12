@@ -9,8 +9,8 @@ A simple way to share and discover interesting events from your friends, followe
 **Docs / Website**: 
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ A simple way to share and discover interesting events from your friends, followe
 ## 🗄️ Categories:
 - [Calendar](https://github.com/apis-list/apis-list#calendar)
 - [Events](https://github.com/apis-list/apis-list#events)
+
+
+
+
 
 
 

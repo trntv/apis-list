@@ -9,8 +9,8 @@ Real estate investors and lenders can make decisions in seconds that used to tak
 **Docs / Website**: https://www.housecanary.com/product-analytics-api
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ Real estate investors and lenders can make decisions in seconds that used to tak
 ## 🗄️ Categories:
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Real Estate](https://github.com/apis-list/apis-list#real-estate)
+
+
+
+
 
 
 

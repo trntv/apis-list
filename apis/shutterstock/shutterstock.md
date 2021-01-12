@@ -9,8 +9,8 @@ Streamline user experience with the stock image, video, and music API trusted by
 **Docs / Website**: https://www.shutterstock.com/developers/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -21,6 +21,10 @@ Streamline user experience with the stock image, video, and music API trusted by
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
 - [Photography](https://github.com/apis-list/apis-list#photography)
 - [Images](https://github.com/apis-list/apis-list#images)
+
+
+
+
 
 
 

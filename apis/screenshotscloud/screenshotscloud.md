@@ -9,17 +9,21 @@ With our website screenshot API you can automate high quality real browser scree
 **Docs / Website**: https://screenshots.cloud/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Domains](https://github.com/apis-list/apis-list#domains)
-- [Photography](https://github.com/apis-list/apis-list#photography)
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 - [Browsers](https://github.com/apis-list/apis-list#browsers)
+- [Domains](https://github.com/apis-list/apis-list#domains)
+- [Photography](https://github.com/apis-list/apis-list#photography)
+
+
+
+
 
 
 

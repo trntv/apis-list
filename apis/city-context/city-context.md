@@ -7,8 +7,8 @@ Crime, school and transportation data for US cities.
 **Docs / Website**: https://www.citycontext.com/api-reference#/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -21,6 +21,10 @@ Crime, school and transportation data for US cities.
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Geography](https://github.com/apis-list/apis-list#geography)
+
+
+
+
 
 
 

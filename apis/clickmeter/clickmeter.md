@@ -7,8 +7,8 @@ ClickMeter API RESTful services. ClickMeter API RESTful services. Interact progr
 **Docs / Website**: https://support.clickmeter.com/hc/en-us/categories/201474986
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ ClickMeter API RESTful services. ClickMeter API RESTful services. Interact progr
 - [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
 - [Marketing & SEO](https://github.com/apis-list/apis-list#marketing-and-seo)
+
+
+
+
 
 
 

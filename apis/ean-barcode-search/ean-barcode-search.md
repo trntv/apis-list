@@ -7,15 +7,19 @@ EAN Barcode API Integrate our database into your app or website! Easily query ou
 **Docs / Website**: https://www.ean-database.info/api.html
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Bar & QR Codes](https://github.com/apis-list/apis-list#bar-and-qr-codes)
 - [Development](https://github.com/apis-list/apis-list#development)
+- [Bar & QR Codes](https://github.com/apis-list/apis-list#bar-and-qr-codes)
+
+
+
+
 
 
 

@@ -9,20 +9,24 @@ The Houndify Voice AI platform helps brands build voice user interfaces that enh
 **Docs / Website**: https://www.houndify.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+- [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
+- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot-and-home-automation)
 - [Applications](https://github.com/apis-list/apis-list#applications)
 - [Languages](https://github.com/apis-list/apis-list#languages)
 - [Automation](https://github.com/apis-list/apis-list#automation)
 - [Voice](https://github.com/apis-list/apis-list#voice)
-- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
-- [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
-- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot-and-home-automation)
+
+
+
+
 
 
 

@@ -9,14 +9,18 @@ Check out our easy-to-use and public API to provide job and company listings.  C
 **Docs / Website**: https://www.themuse.com/developers/api/v2
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Jobs](https://github.com/apis-list/apis-list#jobs)
+
+
+
+
 
 
 

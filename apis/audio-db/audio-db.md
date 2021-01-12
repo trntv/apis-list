@@ -9,14 +9,18 @@ with the Audio DB API, you can get albums, artist, specific tracks data , youtub
 **Docs / Website**: https://www.theaudiodb.com/api_guide.php
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
+
+
+
+
 
 
 

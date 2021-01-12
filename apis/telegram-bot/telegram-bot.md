@@ -8,8 +8,8 @@ To learn how to create…
 **Docs / Website**: https://core.telegram.org/bots/api
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -21,6 +21,10 @@ To learn how to create…
 - [Bots](https://github.com/apis-list/apis-list#bots)
 - [Cloud](https://github.com/apis-list/apis-list#cloud)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+
+
+
+
 
 
 

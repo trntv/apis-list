@@ -7,8 +7,8 @@ Read more Chuck Norris facts are satirical factoids about martial artist and act
 **Docs / Website**: https://api.chucknorris.io
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -16,6 +16,10 @@ Read more Chuck Norris facts are satirical factoids about martial artist and act
 ## 🗄️ Categories:
 - [Personality](https://github.com/apis-list/apis-list#personality)
 - [Other](https://github.com/apis-list/apis-list#other)
+
+
+
+
 
 
 

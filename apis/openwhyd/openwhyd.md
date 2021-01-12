@@ -9,8 +9,8 @@
 **Docs / Website**: https://openwhyd.github.io/openwhyd/API
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -19,6 +19,10 @@
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
 - [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
 - [Bookmarks](https://github.com/apis-list/apis-list#bookmarks)
+
+
+
+
 
 
 

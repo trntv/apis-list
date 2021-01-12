@@ -9,8 +9,8 @@ Free tool with a wide range of capabilities for visualizing data from a website.
 **Docs / Website**: https://developers.google.com/chart/interactive/docs/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -21,6 +21,10 @@ Free tool with a wide range of capabilities for visualizing data from a website.
 - [Bar & QR Codes](https://github.com/apis-list/apis-list#bar-and-qr-codes)
 - [Other](https://github.com/apis-list/apis-list#other)
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
+
+
+
+
 
 
 

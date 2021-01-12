@@ -7,14 +7,18 @@ Weather. We are no longer accepting new signups.
 **Docs / Website**: https://darksky.net/dev
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Weather](https://github.com/apis-list/apis-list#weather)
+
+
+
+
 
 
 

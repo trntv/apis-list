@@ -9,14 +9,18 @@ Shorten URLs with invisible spaces. URL shortener that shortens URLs using space
 **Docs / Website**: https://docs.zws.im
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [URL Shortening](https://github.com/apis-list/apis-list#url-shortening)
+
+
+
+
 
 
 

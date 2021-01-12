@@ -7,14 +7,18 @@ dati. gov. it Il Portale dati. it, gestitodall’Agenzia per l’Italia digitale
 **Docs / Website**: https://www.dati.gov.it/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Government](https://github.com/apis-list/apis-list#government)
+
+
+
+
 
 
 

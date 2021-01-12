@@ -9,8 +9,8 @@
 **Docs / Website**: https://github.com/iobridge/ThingSpeak
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -20,6 +20,10 @@
 - [IoT & Home Automation](https://github.com/apis-list/apis-list#iot-and-home-automation)
 - [Other](https://github.com/apis-list/apis-list#other)
 - [Open Source](https://github.com/apis-list/apis-list#open-source)
+
+
+
+
 
 
 

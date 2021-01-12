@@ -10,8 +10,8 @@ The service is focused to help developers set up the conversion quickly and focu
 **Docs / Website**: https://pdfshift.io/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -21,6 +21,10 @@ The service is focused to help developers set up the conversion quickly and focu
 - [Development](https://github.com/apis-list/apis-list#development)
 - [SaaS](https://github.com/apis-list/apis-list#saas)
 - [Conversions](https://github.com/apis-list/apis-list#conversions)
+
+
+
+
 
 
 

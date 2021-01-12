@@ -7,8 +7,8 @@ eBay Developers Program Celebrates 20 Years This year we’re celebrating 25 yea
 **Docs / Website**: https://go.developer.ebay.com/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -18,6 +18,10 @@ eBay Developers Program Celebrates 20 Years This year we’re celebrating 25 yea
 - [Marketplace](https://github.com/apis-list/apis-list#marketplace)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Shopping](https://github.com/apis-list/apis-list#shopping)
+
+
+
+
 
 
 

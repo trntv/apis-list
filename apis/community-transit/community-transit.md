@@ -9,14 +9,18 @@ Transitland's centralized web service API for both querying and editing aggregat
 **Docs / Website**: https://github.com/transitland/transitland-datastore/blob/master/README.md#api-endpoints
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
+
+
+
+
 
 
 

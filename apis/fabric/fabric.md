@@ -9,14 +9,18 @@ A platform that helps your mobile team build better apps, understand your users,
 **Docs / Website**: https://get.fabric.io/
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
+
+
+
+
 
 
 

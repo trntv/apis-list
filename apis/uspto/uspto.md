@@ -7,15 +7,19 @@ Open data and mobility "Open data" is publicly available data that is structured
 **Docs / Website**: https://www.uspto.gov/learning-and-resources/open-data-and-mobility
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Patent](https://github.com/apis-list/apis-list#patent)
 - [Government](https://github.com/apis-list/apis-list#government)
+- [Patent](https://github.com/apis-list/apis-list#patent)
+
+
+
+
 
 
 

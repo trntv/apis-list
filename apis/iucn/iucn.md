@@ -7,14 +7,18 @@ The use of this API is strictly under the Terms of Use of the IUCN Red List of T
 **Docs / Website**: http://apiv3.iucnredlist.org/api/v3/docs
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [Animals](https://github.com/apis-list/apis-list#animals)
+
+
+
+
 
 
 

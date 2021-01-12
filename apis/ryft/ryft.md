@@ -9,8 +9,8 @@ Try refining your search, or use the navigation above to locate the post. integr
 **Docs / Website**: http://www.ryft.com/api
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -21,6 +21,10 @@ Try refining your search, or use the navigation above to locate the post. integr
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Big Data](https://github.com/apis-list/apis-list#big-data)
+
+
+
+
 
 
 

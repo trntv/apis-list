@@ -9,8 +9,8 @@ League of Legends Wallpapers website official API. This is a lightweight public 
 **Docs / Website**: https://api.lolwallpapers.net
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
@@ -19,6 +19,10 @@ League of Legends Wallpapers website official API. This is a lightweight public 
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Games](https://github.com/apis-list/apis-list#games)
 - [Search](https://github.com/apis-list/apis-list#search)
+
+
+
+
 
 
 

@@ -9,14 +9,18 @@ Access to Naver’s URL shortening API.  단축URL 웹 페이지의 링크 정�
 **Docs / Website**: https://developers.naver.com/products/shortenurl
 
 ## 🧬 Specification:
-**Type**:  N/A 
-**URI**:  N/A 
+**Type**: N/A
+**URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
 - [URL Shortening](https://github.com/apis-list/apis-list#url-shortening)
+
+
+
+
 
 
 
