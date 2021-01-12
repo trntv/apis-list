@@ -1,9 +1,9 @@
 # Nfl Arrests
 
 
-If this is your site, make sure that the filename case matches the URL.  For root URLs (like http://exampl. . NFL Arrest Data.  404 File not found The site configured at this address does not contain the requested file
+NFL Arrest provides an interactive visualized database of National Football League player Arrests & Charges. 
 
-**Docs / Website**: http://www.nflarrest.com/api/
+**Docs / Website**: http://www.nflarrest.com/
 
 ## Specification:
 **Type**:  N/A 
@@ -11,6 +11,13 @@ If this is your site, make sure that the filename case matches the URL.  For roo
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+
+## Categories:
+- [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
+
+
+
+iscussions/new)
 
 ## Categories:
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)

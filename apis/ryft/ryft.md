@@ -15,11 +15,11 @@ Try refining your search, or use the navigation above to locate the post. integr
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
+- [Analytics](https://github.com/apis-list/apis-list#analytics)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Big Data](https://github.com/apis-list/apis-list#big-data)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Real Time](https://github.com/apis-list/apis-list#real-time)
-- [Analytics](https://github.com/apis-list/apis-list#analytics)
 
 
 

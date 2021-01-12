@@ -15,7 +15,7 @@
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Holidays](https://github.com/apis-list/apis-list#holidays)
+- [Calendar](https://github.com/apis-list/apis-list#calendar)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Events](https://github.com/apis-list/apis-list#events)
 

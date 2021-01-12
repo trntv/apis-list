@@ -15,15 +15,11 @@ Automate data extraction from your documents with Artificial Intelligence
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Extraction](https://github.com/apis-list/apis-list#extraction)
+- [Payments](https://github.com/apis-list/apis-list#payments)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers-and-data-mining)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
-- [Payments](https://github.com/apis-list/apis-list#payments)
-
-
-
-t#open-data)
 
 
 

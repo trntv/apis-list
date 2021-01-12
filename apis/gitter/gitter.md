@@ -13,9 +13,9 @@ Welcome Please note this is an early release of our API and should be considered
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
+- [DevOps](https://github.com/apis-list/apis-list#devops)
 - [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
 - [Development](https://github.com/apis-list/apis-list#development)
-- [DevOps](https://github.com/apis-list/apis-list#devops)
 
 
 

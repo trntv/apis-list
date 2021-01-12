@@ -15,8 +15,8 @@ Real estate investors and lenders can make decisions in seconds that used to tak
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Real Estate](https://github.com/apis-list/apis-list#real-estate)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
+- [Real Estate](https://github.com/apis-list/apis-list#real-estate)
 
 
 

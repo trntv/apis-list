@@ -1,7 +1,7 @@
 # Postmates
 
 
-Build on-demand delivery into your app or website.  error code: 1009
+Build on-demand delivery into your app or website.
 
 **Docs / Website**: https://postmates.com/developer/docs
 
@@ -14,6 +14,7 @@ Build on-demand delivery into your app or website.  error code: 1009
 
 ## Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
 
 
 

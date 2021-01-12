@@ -1,7 +1,7 @@
 # Hybrix
 
 
-The API is an open source multi ledger API, that allows developers to build multi-blockchain and multi-ledger solutions on 26+ blockchains. You can retrieve information, such as balances, transaction history, address validation.  Also, the library allows you to sign transactions client-side.  Documentation for API, javascript libraries and other hybrix multi ledger products
+The API is an open source multi ledger API, that allows developers to build multi-blockchain and multi-ledger solutions on 26+ blockchains. You can retrieve information, such as balances, transaction history, address validation. Also, the library allows you to sign transactions client-side.
 
 **Docs / Website**: https://api.hybrix.io/
 
@@ -15,6 +15,10 @@ The API is an open source multi ledger API, that allows developers to build mult
 ## Categories:
 - [Open Source](https://github.com/apis-list/apis-list#open-source)
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
+
+
+
+rrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
 - [Accounting](https://github.com/apis-list/apis-list#accounting)
 
 

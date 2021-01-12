@@ -13,9 +13,9 @@ The Autopilot API documentation, examples and blog for Autopilot REST API. Marke
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Forms](https://github.com/apis-list/apis-list#forms)
 - [Marketing & SEO](https://github.com/apis-list/apis-list#marketing-and-seo)
 - [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
+- [Forms](https://github.com/apis-list/apis-list#forms)
 
 
 

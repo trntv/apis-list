@@ -13,9 +13,9 @@ It covers inventory and database, carts and checkout, payments, user authenticat
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
+- [Development](https://github.com/apis-list/apis-list#development)
 - [Cloud](https://github.com/apis-list/apis-list#cloud)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Development](https://github.com/apis-list/apis-list#development)
 
 
 

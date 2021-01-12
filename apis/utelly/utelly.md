@@ -15,9 +15,9 @@ Check where a tv show or movie is available
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
 
 
 

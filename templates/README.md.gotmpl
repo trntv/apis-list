@@ -16,7 +16,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 ## Index
 - [APIs](#apis)
 {{ range $category, $apis := .apis -}}
-    - [{{ $category }}](#{{ $category | slug}})
+    - [{{ $category }} {{ $category | category_icon }}](#{{ $category | slug}})
 {{ end -}}
 - [🪦 Graveyard](#graveyard)
 - [Contributors](#contributors)
@@ -25,7 +25,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 ## APIs
 {{ range $category, $apis := .apis }}
 {{- $length := len $apis }} {{ if gt $length 0 -}}
-### {{ $category | category_icon }}{{ $category }}
+### {{ $category }} {{ $category | category_icon }}
 {{ range $apis -}}
 {{- if eq .IsActive true -}}
 - [{{ .Name }}](https://github.com/apis-list/apis-list/blob/main/apis/{{.Slug}}/{{.Slug}}.md) - {{ .Description | short }}

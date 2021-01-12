@@ -13,8 +13,8 @@ The Mapbox Geocoding API does forward geocoding (search place names and return c
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Search](https://github.com/apis-list/apis-list#search)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 
 
 

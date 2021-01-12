@@ -13,8 +13,8 @@ To get started check out Install the SDK. For detailed explana. In this document
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 
 
 

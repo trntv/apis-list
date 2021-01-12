@@ -16,10 +16,10 @@ content - typically a PDF - from many Open Access journals and repositories
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Reference](https://github.com/apis-list/apis-list#reference)
-- [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
 - [Education](https://github.com/apis-list/apis-list#education)
 - [Library](https://github.com/apis-list/apis-list#library)
+- [Reference](https://github.com/apis-list/apis-list#reference)
+- [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
 
 
 

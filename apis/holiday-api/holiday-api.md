@@ -14,7 +14,11 @@ Start developing for free. Public holiday API service for several supported coun
 
 ## Categories:
 - [Calendar](https://github.com/apis-list/apis-list#calendar)
-- [Data-As-A-Service](https://github.com/apis-list/apis-list#data-as-a-service)
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
+
+
+
+s-a-service)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
 - [Time](https://github.com/apis-list/apis-list#time)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)

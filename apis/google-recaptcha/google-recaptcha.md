@@ -15,9 +15,9 @@ ReCAPTCHA lets you embed a CAPTCHA in your web pages in order to protect them ag
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Captcha](https://github.com/apis-list/apis-list#captcha)
 - [Security](https://github.com/apis-list/apis-list#security)
 - [Spam](https://github.com/apis-list/apis-list#spam)
+- [Captcha](https://github.com/apis-list/apis-list#captcha)
 
 
 

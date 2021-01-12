@@ -3,7 +3,7 @@
     <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/zomato/logo_256x256.png" />
 </p>
 
-com/api" on this server. 55f57a5c.  Reference #18. Zomato API. 5 million restaurants across 10,000 cities globally. zomato. Access Denied You don't have permission to access "http://developers. Zomato APIs give you access to the freshest and most exhaustive information for over 1. 1610136439. 2954540
+Zomato API. 5 million restaurants across 10,000 cities globally.
 
 **Docs / Website**: https://developers.zomato.com/api
 
@@ -15,8 +15,15 @@ com/api" on this server. 55f57a5c.  Reference #18. Zomato API. 5 million restaur
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest)
 - [Social](https://github.com/apis-list/apis-list#social)
+- [Food & Drinks](https://github.com/apis-list/apis-list#food-and-drinks)
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
+- [Localization](https://github.com/apis-list/apis-list#localization)
+- [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest)
+
+
+
+is-list/apis-list#social)
 - [Food & Drinks](https://github.com/apis-list/apis-list#food-and-drinks)
 - [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 - [Localization](https://github.com/apis-list/apis-list#localization)

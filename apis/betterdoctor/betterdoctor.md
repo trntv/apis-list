@@ -13,12 +13,12 @@
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Health](https://github.com/apis-list/apis-list#health)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Big Data](https://github.com/apis-list/apis-list#big-data)
 - [Data-As-A-Service](https://github.com/apis-list/apis-list#data-as-a-service)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 
 
 

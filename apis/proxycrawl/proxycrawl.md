@@ -15,10 +15,13 @@ Crawl and scrape websites without the need of proxies, infrastructure or browser
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers-and-data-mining)
-- [Extraction](https://github.com/apis-list/apis-list#extraction)
-- [Captcha](https://github.com/apis-list/apis-list#captcha)
 - [Development](https://github.com/apis-list/apis-list#development)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers-and-data-mining)
+- [Captcha](https://github.com/apis-list/apis-list#captcha)
+
+
+
+velopment](https://github.com/apis-list/apis-list#development)
 
 
 

@@ -15,13 +15,13 @@ Every country in the world supported. Resources: Report Why Banks Need to Alter 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
+- [Communications](https://github.com/apis-list/apis-list#communications)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
 - [CRM](https://github.com/apis-list/apis-list#crm)
 - [Addresses](https://github.com/apis-list/apis-list#addresses)
 - [B2B](https://github.com/apis-list/apis-list#b2b)
 - [Business](https://github.com/apis-list/apis-list#business)
 - [Reference](https://github.com/apis-list/apis-list#reference)
-- [Communications](https://github.com/apis-list/apis-list#communications)
-- [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
 
 
 

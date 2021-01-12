@@ -14,7 +14,7 @@ GNews is an API to search for articles from a variety of sources, including Goog
 
 ## Categories:
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
-- [Keywords](https://github.com/apis-list/apis-list#keywords)
+- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 - [Search](https://github.com/apis-list/apis-list#search)
 
 

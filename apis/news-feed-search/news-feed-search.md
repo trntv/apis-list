@@ -1,7 +1,7 @@
 # News Feed Search
 
 
-Otherwise, please contact our support. Free news search API. Easily search and filter news feeds to integrate them into your application. Add your own RSS feed and the application automatically downloads articles daily. 404 Not Found The application you're trying to access doesn't seem to exist
+Free news search API. Easily search and filter news feeds to integrate them into your application. Add your own RSS feed and the application automatically downloads articles daily.
 
 **Docs / Website**: https://imbrikapi.com
 
@@ -11,6 +11,13 @@ Otherwise, please contact our support. Free news search API. Easily search and f
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+
+## Categories:
+- [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
+
+
+
+s-list/discussions/new)
 
 ## Categories:
 - [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)

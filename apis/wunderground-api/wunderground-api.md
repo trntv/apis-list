@@ -1,7 +1,7 @@
 # Wunderground API
 
 
-Log in | Join. Reliable data, accurate forecast, & global coverage in 80 languages
+Reliable data, accurate forecast, & global coverage in 80 languages
 
 **Docs / Website**: https://www.wunderground.com/weather/api/
 
@@ -14,6 +14,10 @@ Log in | Join. Reliable data, accurate forecast, & global coverage in 80 languag
 
 ## Categories:
 - [Weather](https://github.com/apis-list/apis-list#weather)
+
+
+
+st#weather)
 
 
 

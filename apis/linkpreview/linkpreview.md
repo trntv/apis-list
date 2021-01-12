@@ -15,9 +15,9 @@ Preview Web links with our reliable API service. Get Detailed JSON Response for 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Extraction](https://github.com/apis-list/apis-list#extraction)
 - [Other](https://github.com/apis-list/apis-list#other)
 - [URLs](https://github.com/apis-list/apis-list#urls)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers-and-data-mining)
 
 
 

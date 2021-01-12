@@ -13,8 +13,8 @@ An open, programmatic interface for controlling smart devices The SmartThings pl
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot-and-home-automation)
 - [Automation](https://github.com/apis-list/apis-list#automation)
+- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot-and-home-automation)
 
 
 

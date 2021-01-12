@@ -15,9 +15,9 @@ Simple and powerful email verification JSON API using SMTP, typo checks, syntax 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
+- [Security](https://github.com/apis-list/apis-list#security)
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
 - [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
-- [Security](https://github.com/apis-list/apis-list#security)
 
 
 

@@ -3,7 +3,7 @@
     <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/favqs/logo_256x256.png" />
 </p>
 
-FavQs allows you to collect, discover, and share your favorite quotes.  A list of quotes, paged 25 at a time. Request GET /api/quotes Response { "page": 1, "last_page": false, "quotes": [ { "tags": [ "linux", "programming", "code", "finnish-american" ], "favorite": fal
+FavQs allows you to collect, discover, and share your favorite quotes.
 
 **Docs / Website**: https://favqs.com/api
 
@@ -13,6 +13,14 @@ FavQs allows you to collect, discover, and share your favorite quotes.  A list o
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+
+## Categories:
+- [Quotes](https://github.com/apis-list/apis-list#quotes)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
+
+
+
+st/apis-list/discussions/new)
 
 ## Categories:
 - [Reference](https://github.com/apis-list/apis-list#reference)

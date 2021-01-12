@@ -19,7 +19,10 @@ Use our proxy and web scraping REST API to extract html data from any web page, 
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers-and-data-mining)
-- [Extraction](https://github.com/apis-list/apis-list#extraction)
+
+
+
+Extraction](https://github.com/apis-list/apis-list#extraction)
 
 
 

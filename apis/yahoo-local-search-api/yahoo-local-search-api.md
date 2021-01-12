@@ -15,9 +15,9 @@ Join the 200,000 developers using Yahoo tools to build their app businesses. Loc
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
+- [Localization](https://github.com/apis-list/apis-list#localization)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 - [Search](https://github.com/apis-list/apis-list#search)
-- [Localization](https://github.com/apis-list/apis-list#localization)
 
 
 

@@ -15,8 +15,8 @@ Rapidly integrate authentication and authorization for web, mobile, and legacy a
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication-and-user-management)
 - [Identity](https://github.com/apis-list/apis-list#identity)
+- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication-and-user-management)
 
 
 

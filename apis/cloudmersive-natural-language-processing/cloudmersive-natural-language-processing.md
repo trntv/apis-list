@@ -1,9 +1,18 @@
 # Cloudmersive Natural Language Processing
 
 
-About Us Cloudmersive is a leader in Highly Scalable Cloud APIs. Sign Up 1-415-234-7421 9 AM - 5 PM Eastern Time - Open Now 4695 Chabot Drive, Suite 200 Pleasanton, California 94588 United States ©. .  About Us Cloudmersive is a leader in Highly Scalable Cloud APIs
+Powerful Natural Language Processing APIs
+The most powerful and cost-effective NLP AI APIs, continuously updated.
+- Language Translation
+- Rephrasing
+- Sentiment Analysis
+- Part-of-Speech (POS) Tagging
+- Sentence Parsing
+- Text Analytics
+- Entity Extraction
+- Language Detection
 
-**Docs / Website**: https://www.cloudmersive.com/nlp-api
+**Docs / Website**: https://cloudmersive.com/nlp-api
 
 ## Specification:
 **Type**:  N/A 

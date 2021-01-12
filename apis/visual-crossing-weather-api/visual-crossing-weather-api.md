@@ -13,8 +13,8 @@ Weather API for businesses & data science. 0001/record. com/weather-data) inside
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Weather](https://github.com/apis-list/apis-list#weather)
 - [Open Data](https://github.com/apis-list/apis-list#open-data)
+- [Weather](https://github.com/apis-list/apis-list#weather)
 
 
 

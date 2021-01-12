@@ -1,7 +1,7 @@
 # TheCocktailDB
 
 
-If you love our service and want extra features you can sign up as a Patreon supporter for $2 You can cancel anytime.  . Support The API and site will always remain free to access at its basic level
+An open, crowd-sourced database of drinks and cocktails from around the world. A fee API to query a db of 1000s of cocktails, you can search for recipes, images of specific cocktails, ingredients, filter by alcoholic, non alcoholic and more with the Cocktails DB
 
 **Docs / Website**: https://www.thecocktaildb.com/api.php
 
@@ -13,7 +13,9 @@ If you love our service and want extra features you can sign up as a Patreon sup
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
+- [Open Source](https://github.com/apis-list/apis-list#open-source)
 - [Food & Drinks](https://github.com/apis-list/apis-list#food-and-drinks)
+- [Images](https://github.com/apis-list/apis-list#images)
 
 
 

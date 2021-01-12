@@ -3,7 +3,7 @@
     <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wegmans/logo_256x256.png" />
 </p>
 
-Discover APIs, learn how to use them, try them out interactively, and sign up to acquire keys.  Discover APIs, learn how to use them, try them out interactively, and sign up to acquire keys
+APIs for products and store information
 
 **Docs / Website**: https://dev.wegmans.io
 
@@ -16,6 +16,12 @@ Discover APIs, learn how to use them, try them out interactively, and sign up to
 
 ## Categories:
 - [Shopping](https://github.com/apis-list/apis-list#shopping)
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
+- [Food & Drinks](https://github.com/apis-list/apis-list#food-and-drinks)
+
+
+
+#shopping)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 
 

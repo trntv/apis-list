@@ -13,10 +13,13 @@ Resources from Studio Ghibli films
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Animation](https://github.com/apis-list/apis-list#animation)
-- [Catalogs](https://github.com/apis-list/apis-list#catalogs)
-- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+- [Japanese](https://github.com/apis-list/apis-list#japanese)
+
+
+
+is-list/apis-list#entertainment)
 - [Japanese](https://github.com/apis-list/apis-list#japanese)
 
 

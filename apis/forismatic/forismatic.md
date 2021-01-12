@@ -1,9 +1,9 @@
 # Forismatic
 
 
-Gives you a random quote per click. Error: wrong method
+Gives you a random quote per click.
 
-**Docs / Website**: http://api.forismatic.com/api/1.0/
+**Docs / Website**: http://forismatic.com/en/api/
 
 ## Specification:
 **Type**:  N/A 
@@ -13,9 +13,13 @@ Gives you a random quote per click. Error: wrong method
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
+- [Random](https://github.com/apis-list/apis-list#random)
+- [Quotes](https://github.com/apis-list/apis-list#quotes)
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
-- [Health](https://github.com/apis-list/apis-list#health)
-- [Personality](https://github.com/apis-list/apis-list#personality)
+
+
+
+pis-list/apis-list#personality)
 
 
 

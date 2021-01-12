@@ -15,11 +15,14 @@ Our document verification and facial biometrics technology lets your users verif
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
 - [Identity](https://github.com/apis-list/apis-list#identity)
 - [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
 - [Security](https://github.com/apis-list/apis-list#security)
-- [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
-- [Natural Language Processing](https://github.com/apis-list/apis-list#natural-language-processing)
+
+
+
+Natural Language Processing](https://github.com/apis-list/apis-list#natural-language-processing)
 
 
 

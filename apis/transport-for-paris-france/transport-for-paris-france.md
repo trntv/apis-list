@@ -1,7 +1,7 @@
 # Transport for Paris, France
 
 
-5 - Process Failure Common causes of this issue: The application process failed to start The application process started but then stopped The application process started but failed t. HTTP Error 502
+Realtime schedules for Paris metro network (RATP - metro, bus, tram, rer)
 
 **Docs / Website**: http://restratpws.azurewebsites.net/swagger/
 
@@ -11,6 +11,13 @@
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+
+## Categories:
+- [Transportation](https://github.com/apis-list/apis-list#transportation)
+
+
+
+list/apis-list/discussions/new)
 
 ## Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation)

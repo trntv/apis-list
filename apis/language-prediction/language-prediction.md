@@ -15,7 +15,11 @@ The API returns maximum 3 detected languages and a numeric confidences between 0
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Natural Language Processing](https://github.com/apis-list/apis-list#natural-language-processing)
+- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+
+
+
+-list#natural-language-processing)
 
 
 

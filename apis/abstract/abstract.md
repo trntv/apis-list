@@ -15,9 +15,9 @@ Used by 10,000+ developers worldwide. . Suite of utility API's (validate emails,
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
+- [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
-- [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 
 
 

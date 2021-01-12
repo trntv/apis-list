@@ -3,7 +3,7 @@
     <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/time-door/logo_256x256.png" />
 </p>
 
-Time Door is an API for statistical insights into time series data.  Time Door is an API for statistical insights into time series data. It is easy to integrate and handles fast and messy real-world data. Sign up for free
+A time series analysis API. Time Door is an API for statistical insights into time series data. It is easy to integrate and handles fast and messy real-world data.
 
 **Docs / Website**: https://timedoor.io
 
@@ -15,15 +15,19 @@ Time Door is an API for statistical insights into time series data.  Time Door i
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Analytics](https://github.com/apis-list/apis-list#analytics)
-- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
-- [DevOps](https://github.com/apis-list/apis-list#devops)
-- [Big Data](https://github.com/apis-list/apis-list#big-data)
-- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers-and-data-mining)
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
 - [Time](https://github.com/apis-list/apis-list#time)
+- [Analytics](https://github.com/apis-list/apis-list#analytics)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers-and-data-mining)
 - [Algorithms](https://github.com/apis-list/apis-list#algorithms)
 - [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
+- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+- [DevOps](https://github.com/apis-list/apis-list#devops)
+- [Open Data](https://github.com/apis-list/apis-list#open-data)
+- [Big Data](https://github.com/apis-list/apis-list#big-data)
+
+
+
+tps://github.com/apis-list/apis-list#science-and-math)
 
 
 

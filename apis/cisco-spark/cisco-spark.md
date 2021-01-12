@@ -15,10 +15,10 @@ Build the future of business collaboration with Webex! Learn more about the Webe
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
+- [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
 - [Communications](https://github.com/apis-list/apis-list#communications)
-- [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
 
 
 

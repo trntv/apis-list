@@ -13,9 +13,9 @@ Find food recipes.  The Yummly Recipe API lets you integrate recipes and faceted
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## Categories:
-- [Food & Drinks](https://github.com/apis-list/apis-list#food-and-drinks)
 - [Search](https://github.com/apis-list/apis-list#search)
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
+- [Food & Drinks](https://github.com/apis-list/apis-list#food-and-drinks)
 
 
 
