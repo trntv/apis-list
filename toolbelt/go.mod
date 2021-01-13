@@ -1,4 +1,4 @@
-module github.com/apis-list/apis-list
+module github.com/apis-list/apis-list/toolbelt
 
 go 1.15
 

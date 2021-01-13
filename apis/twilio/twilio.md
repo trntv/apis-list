@@ -16,11 +16,11 @@ APIs for SMS, Voice, Video and more
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
 - [Communications](https://github.com/apis-list/apis-list#communications)
 - [Cloud](https://github.com/apis-list/apis-list#cloud)
 - [Voice](https://github.com/apis-list/apis-list#voice)
 - [Webhooks](https://github.com/apis-list/apis-list#webhooks)
-- [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
 
 
 

@@ -1,7 +1,7 @@
 # Nager.Date
 
 
-Copyright © nager. at 2021.  Copyright © nager
+Worldwide public holidays API
 
 ##  🔗 Links
 **Docs / Website**: https://date.nager.at
@@ -15,6 +15,10 @@ Copyright © nager. at 2021.  Copyright © nager
 
 ## 🗄️ Categories:
 - [Calendar](https://github.com/apis-list/apis-list#calendar)
+
+
+
+-list#calendar)
 
 
 

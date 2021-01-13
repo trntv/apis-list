@@ -1,10 +1,20 @@
 # This is taskctl's configuration file.
 # More information at https://github.com/taskctl/taskctl
 tasks:
-  builder:format:
+  code-style:
     command:
       - go fmt ./builder/...
 
-  tools:check-links:
+  build:
+    dir: '{{ .Root }}/toolbelt'
     command:
-      - npm run check-links
+      - go run main.go build ../apis.yaml
+    env:
+      REPOSITORY_PATH: '{{ .Root }}'
+
+  check-links:
+    dir: '{{ .Root }}/toolbelt'
+    command:
+      - go run main.go check-links ../apis.yaml
+    env:
+      REPOSITORY_PATH: '{{ .Root }}'

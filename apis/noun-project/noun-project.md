@@ -1,7 +1,7 @@
 # Noun Project
 
 
-© Copyright 2018, Noun Project. . © Copyright 2018, Noun Project
+Grab a hold of the World’s Visual Language! Use it in your service or application.
 
 ##  🔗 Links
 **Docs / Website**: http://api.thenounproject.com/index.html
@@ -14,11 +14,14 @@
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Images](https://github.com/apis-list/apis-list#images)
+- [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
 - [Other](https://github.com/apis-list/apis-list#other)
 - [Visualizations](https://github.com/apis-list/apis-list#visualizations)
-- [Images](https://github.com/apis-list/apis-list#images)
-- [Collecting](https://github.com/apis-list/apis-list#collecting)
-- [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
+
+
+
+thub.com/apis-list/apis-list#art-and-design)
 
 
 

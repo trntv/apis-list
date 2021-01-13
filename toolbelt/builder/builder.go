@@ -2,6 +2,7 @@ package builder
 
 import (
 	"fmt"
+	"github.com/apis-list/apis-list/toolbelt/list"
 	"github.com/gosimple/slug"
 	"os"
 	"path"
@@ -12,7 +13,7 @@ import (
 const readmeTmplName = "README.md.gotmpl"
 const apiTmplName = "api.md.gotmpl"
 
-func Render(l APIs, dir string) error {
+func Render(l list.APIs, dir string) error {
 	funcs := template.FuncMap{
 		"slug": func(s string) string {
 			return slug.MakeLang(s, "en")

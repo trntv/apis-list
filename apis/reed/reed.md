@@ -1,7 +1,7 @@
 # Reed
 
 
-Jobs | Courses | Career advice | Advertise a job Copyright © reed. co. uk 2021
+Official API for reed.co.uk jobs website
 
 ##  🔗 Links
 **Docs / Website**: https://www.reed.co.uk/developers
@@ -15,6 +15,10 @@ Jobs | Courses | Career advice | Advertise a job Copyright © reed. co. uk 2021
 
 ## 🗄️ Categories:
 - [Jobs](https://github.com/apis-list/apis-list#jobs)
+
+
+
+ithub.com/apis-list/apis-list#jobs)
 
 
 

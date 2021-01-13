@@ -16,8 +16,8 @@ RadSportRadar ist eine Übersichtskarte über alle gemeldeten Straßenschäden u
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Security](https://github.com/apis-list/apis-list#security)
 - [Search](https://github.com/apis-list/apis-list#search)
+- [Security](https://github.com/apis-list/apis-list#security)
 
 
 

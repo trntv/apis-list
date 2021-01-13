@@ -14,12 +14,12 @@ Free, legal research articles delivered instantly or automatically requested fro
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
-- [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
-- [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
 - [Data](https://github.com/apis-list/apis-list#data)
 - [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
 - [Search](https://github.com/apis-list/apis-list#search)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
+- [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
 
 
 

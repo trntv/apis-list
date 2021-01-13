@@ -16,9 +16,9 @@ Mercury Web Parser turns web articles into structured content reliably and easil
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Business](https://github.com/apis-list/apis-list#business)
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
+- [Business](https://github.com/apis-list/apis-list#business)
 
 
 

@@ -1,7 +1,7 @@
 # Kitsu
 
 
-We apologize for any inconvenience. A place where APIs are kept. This site https://kitsu. docs. apiary. io/ is experiencing technical difficulty. We are aware of the issue and are working as quick as possible to correct the issue
+Kitsu is a modern anime discovery platform that helps you track the anime you're watching, discover new anime and socialize with other fans.
 
 ##  🔗 Links
 **Docs / Website**: https://kitsu.docs.apiary.io/
@@ -14,11 +14,15 @@ We apologize for any inconvenience. A place where APIs are kept. This site https
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Search](https://github.com/apis-list/apis-list#search)
-- [Social](https://github.com/apis-list/apis-list#social)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-- [Animation](https://github.com/apis-list/apis-list#animation)
+- [Comics & Anime](https://github.com/apis-list/apis-list#comics-and-anime)
 - [Books](https://github.com/apis-list/apis-list#books)
+- [Japanese](https://github.com/apis-list/apis-list#japanese)
+- [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
+
+
+
+[Books](https://github.com/apis-list/apis-list#books)
 - [Collecting](https://github.com/apis-list/apis-list#collecting)
 - [Japanese](https://github.com/apis-list/apis-list#japanese)
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)

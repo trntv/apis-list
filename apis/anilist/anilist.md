@@ -3,7 +3,7 @@
     <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/anilist/logo_256x256.png" alt="AniList Logo"/>
 </p>
 
-Contribute to AniList/ApiV2-GraphQL-Docs development by creating an account on GitHub. AniList API V2 GraphQL Documentation.
+The AniList GraphQL Api provides quick and powerful access to over 500k anime and manga entries, including character, staff, and live airing data
 
 ##  🔗 Links
 **Docs / Website**: https://github.com/AniList/ApiV2-GraphQL-Docs
@@ -16,8 +16,11 @@ Contribute to AniList/ApiV2-GraphQL-Docs development by creating an account on G
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-- [Animation](https://github.com/apis-list/apis-list#animation)
+- [Comics & Anime](https://github.com/apis-list/apis-list#comics-and-anime)
+
+
+
+.com/apis-list/apis-list#animation)
 - [Japanese](https://github.com/apis-list/apis-list#japanese)
 
 

@@ -1,4 +1,4 @@
-package builder
+package list
 
 import (
 	"gopkg.in/yaml.v3"
@@ -21,8 +21,8 @@ type API struct {
 	Contact       string   `yaml:"contact,omitempty"`
 	IsActive      bool     `yaml:"is_active"`
 
-	SpecificationType string `yaml:"specification_type"`
-	SpecificationUri  string `yaml:"specification_uri"`
+	SpecificationType string `yaml:"specification_type,omitempty"`
+	SpecificationUri  string `yaml:"specification_uri,omitempty"`
 
 	Libraries Libraries `yaml:"libraries,omitempty"`
 }

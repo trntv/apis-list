@@ -8,4 +8,5 @@ var CategoryIcons = map[string]string{
 	"Finance & Economics": "📈",
 	"Payments":            "💳",
 	"Commerce":            "💰",
+	"Health":              "💊",
 }

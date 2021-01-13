@@ -14,13 +14,13 @@ Crime, school and transportation data for US cities.
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Real Estate](https://github.com/apis-list/apis-list#real-estate)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+- [Data](https://github.com/apis-list/apis-list#data)
 - [Geography](https://github.com/apis-list/apis-list#geography)
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
 - [Planning](https://github.com/apis-list/apis-list#planning)
 - [Education](https://github.com/apis-list/apis-list#education)
-- [Real Estate](https://github.com/apis-list/apis-list#real-estate)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
-- [Data](https://github.com/apis-list/apis-list#data)
 
 
 

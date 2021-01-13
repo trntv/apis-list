@@ -14,8 +14,8 @@ With the Sports DB API you can query teams, players in teams, player details, pl
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Open Source](https://github.com/apis-list/apis-list#open-source)
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
+- [Open Source](https://github.com/apis-list/apis-list#open-source)
 
 
 

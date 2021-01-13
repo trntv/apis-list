@@ -16,11 +16,11 @@ Unlock the power of video and join over 200M professionals, teams, and organizat
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+- [Social](https://github.com/apis-list/apis-list#social)
 - [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
 - [Community](https://github.com/apis-list/apis-list#community)
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-- [Social](https://github.com/apis-list/apis-list#social)
 
 
 

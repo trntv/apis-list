@@ -14,9 +14,9 @@
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Conversions](https://github.com/apis-list/apis-list#conversions)
 - [Time](https://github.com/apis-list/apis-list#time)
 - [Development](https://github.com/apis-list/apis-list#development)
+- [Conversions](https://github.com/apis-list/apis-list#conversions)
 
 
 

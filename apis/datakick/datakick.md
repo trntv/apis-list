@@ -14,10 +14,10 @@ You may have mistyped the address or the page may have moved. If you are the app
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Bar & QR Codes](https://github.com/apis-list/apis-list#bar-and-qr-codes)
 - [Products](https://github.com/apis-list/apis-list#products)
 - [Data](https://github.com/apis-list/apis-list#data)
 - [Databases](https://github.com/apis-list/apis-list#databases)
+- [Bar & QR Codes](https://github.com/apis-list/apis-list#bar-and-qr-codes)
 
 
 

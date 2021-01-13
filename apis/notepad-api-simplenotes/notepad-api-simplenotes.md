@@ -14,8 +14,8 @@ Share the notes with everyone you want.
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Social](https://github.com/apis-list/apis-list#social)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
+- [Social](https://github.com/apis-list/apis-list#social)
 
 
 

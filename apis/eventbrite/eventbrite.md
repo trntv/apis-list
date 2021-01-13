@@ -16,11 +16,11 @@ Eventbrite Python SDK. Contribute to eventbrite/eventbrite-sdk-python developmen
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing-and-seo)
 - [Authentication & User Management](https://github.com/apis-list/apis-list#authentication-and-user-management)
 - [Tickets](https://github.com/apis-list/apis-list#tickets)
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Events](https://github.com/apis-list/apis-list#events)
-- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing-and-seo)
 
 
 

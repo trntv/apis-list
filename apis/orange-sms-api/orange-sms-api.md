@@ -16,10 +16,10 @@ The SMS Service,allows you to send and receive text messages, of up to 160 chara
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
-- [Communications](https://github.com/apis-list/apis-list#communications)
 - [Marketing & SEO](https://github.com/apis-list/apis-list#marketing-and-seo)
 - [Worldwide](https://github.com/apis-list/apis-list#worldwide)
+- [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
+- [Communications](https://github.com/apis-list/apis-list#communications)
 
 
 
