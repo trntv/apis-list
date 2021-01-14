@@ -8,6 +8,7 @@ Simple URL shortener.  Supports custom short link ending.  Our main portal for d
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ urlscan. io - Website scanner for suspicious and malicious URLs.  urlscan
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ A RESTful API for quotes.  The database currently includes more than 75000 quote
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

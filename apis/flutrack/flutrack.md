@@ -8,6 +8,7 @@ Flutrack is a system that detects in real time influenza symptoms, using Twitter
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

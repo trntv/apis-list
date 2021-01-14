@@ -8,6 +8,7 @@ Add intelligence to your energy products. Automated Forecasting API for timeseri
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

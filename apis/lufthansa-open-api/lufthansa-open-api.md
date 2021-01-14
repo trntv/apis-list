@@ -8,6 +8,7 @@ Sign In Register Welcome to the Lufthansa Developer Network!. Use the data of Eu
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

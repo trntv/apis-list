@@ -8,6 +8,7 @@ Ultimate Fighting Championship information for events and fighters
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

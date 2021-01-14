@@ -8,6 +8,7 @@ A comprehensive Cannabis database includes products, prices, stock and inventory
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

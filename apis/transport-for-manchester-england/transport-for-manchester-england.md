@@ -8,6 +8,7 @@ The s. Welcome to Transport for Greater Manchester’s new Real-Time Open Data P
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

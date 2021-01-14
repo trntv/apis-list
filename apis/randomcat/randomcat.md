@@ -8,6 +8,7 @@ dream. io\/i\/048_-_x0vwSRZ. objects-us-east-1.  {"file":"https:\/\/purr. gif"}.
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

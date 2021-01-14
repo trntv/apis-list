@@ -8,6 +8,7 @@ Generate fake data and get by REST API requests. Collection of completely free A
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Cambridge Dictionaries Online
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cambridge-dictionaries-online/logo_256x256.png" alt="Cambridge Dictionaries Online Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cambridge-dictionaries-online/logo_256x256.png" alt="Cambridge Dictionaries Online Logo"/>
 </p>
 
 Access to Cambridge’s custom-developed API.  License our data. Use Cambridge Dictionary data for language processing, or other applications
@@ -10,6 +10,7 @@ Access to Cambridge’s custom-developed API.  License our data. Use Cambridge D
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

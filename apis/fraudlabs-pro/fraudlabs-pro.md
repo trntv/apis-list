@@ -1,6 +1,6 @@
 # FraudLabs Pro
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/fraudlabs-pro/logo_256x256.png" alt="FraudLabs Pro Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/fraudlabs-pro/logo_256x256.png" alt="FraudLabs Pro Logo"/>
 </p>
 
 FraudLabs Pro Rest API to screen the order transaction for online fraud.  FraudLabs Pro Rest API to screen the order transaction for online fraud
@@ -10,6 +10,7 @@ FraudLabs Pro Rest API to screen the order transaction for online fraud.  FraudL
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

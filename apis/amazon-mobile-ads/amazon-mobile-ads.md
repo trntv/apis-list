@@ -8,6 +8,7 @@ Monetize across platforms with multiple ad formats.  Mobile Ads Monetize your gl
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Marvel
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/marvel/logo_256x256.png" alt="Marvel Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/marvel/logo_256x256.png" alt="Marvel Logo"/>
 </p>
 
 The Marvel developer portal gives Marvel fans, partners and other technologists access to an array of powerful APIs, documentation, and other tools to interact with Marvel&#039;s systems. Access over 70 years of comic data with Marvel's official developer API
@@ -10,6 +10,7 @@ The Marvel developer portal gives Marvel fans, partners and other technologists 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

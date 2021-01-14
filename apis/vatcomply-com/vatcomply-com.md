@@ -8,6 +8,7 @@ Rate. VAT validation The VAT validation endpoint allows you to check whether a V
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ Current and historical NBA Statistics
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

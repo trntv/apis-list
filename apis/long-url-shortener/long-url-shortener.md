@@ -8,6 +8,7 @@ Given a long URL, returns a short link
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

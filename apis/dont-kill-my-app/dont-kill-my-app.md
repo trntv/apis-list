@@ -1,6 +1,6 @@
 # Don't Kill My App
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/dont-kill-my-app/logo_256x256.png" alt="Don't Kill My App Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/dont-kill-my-app/logo_256x256.png" alt="Don't Kill My App Logo"/>
 </p>
 
 Android vendors, don't kill my app! Contribute to urbandroid-team/dont-kill-my-app development by creating an account on GitHub.  Android vendors, don't kill my app! Contribute to urbandroid-team/dont-kill-my-app development by creating an account on GitHub
@@ -10,6 +10,7 @@ Android vendors, don't kill my app! Contribute to urbandroid-team/dont-kill-my-a
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

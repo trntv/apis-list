@@ -1,6 +1,6 @@
 # Product Hunt
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/product-hunt/logo_256x256.png" alt="Product Hunt Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/product-hunt/logo_256x256.png" alt="Product Hunt Logo"/>
 </p>
 
 The best new products, every day. Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone's talking about
@@ -10,6 +10,7 @@ The best new products, every day. Product Hunt is a curation of the best new pro
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

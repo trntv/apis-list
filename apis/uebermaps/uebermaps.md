@@ -8,6 +8,7 @@ uebermaps are interactive maps that enable people to. Hello developer.  This is 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

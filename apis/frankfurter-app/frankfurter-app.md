@@ -8,6 +8,7 @@ Documentation and code examples for the Frankfurter currency data API.  Document
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

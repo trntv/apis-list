@@ -1,6 +1,6 @@
 # Weatherbit
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/weatherbit/logo_256x256.png" alt="Weatherbit Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/weatherbit/logo_256x256.png" alt="Weatherbit Logo"/>
 </p>
 
 Weather API Documentation. Use our Weather API to access weather forecasts, and historical weather data to power your applications!. Access forecasts, current weather, and historical weather data for any point on the Earth!
@@ -10,6 +10,7 @@ Weather API Documentation. Use our Weather API to access weather forecasts, and 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

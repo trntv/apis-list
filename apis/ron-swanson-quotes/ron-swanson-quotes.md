@@ -1,6 +1,6 @@
 # Ron Swanson Quotes
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ron-swanson-quotes/logo_256x256.png" alt="Ron Swanson Quotes Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ron-swanson-quotes/logo_256x256.png" alt="Ron Swanson Quotes Logo"/>
 </p>
 
 Node. Node. js server for providing Ron Swanson quotes. Contribute to jamesseanwright/ron-swanson-quotes development by creating an account on GitHub
@@ -10,6 +10,7 @@ Node. Node. js server for providing Ron Swanson quotes. Contribute to jamesseanw
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

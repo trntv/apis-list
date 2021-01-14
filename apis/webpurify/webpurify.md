@@ -8,6 +8,7 @@ Provides live image moderation by humans or AI-based image moderation service.
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

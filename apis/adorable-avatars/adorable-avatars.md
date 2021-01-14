@@ -1,6 +1,6 @@
 # Adorable Avatars
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/adorable-avatars/logo_256x256.png" alt="Adorable Avatars Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/adorable-avatars/logo_256x256.png" alt="Adorable Avatars Logo"/>
 </p>
 
 Generate random cartoon avatars
@@ -10,6 +10,7 @@ Generate random cartoon avatars
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

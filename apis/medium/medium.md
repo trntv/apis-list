@@ -1,6 +1,6 @@
 # Medium
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/medium/logo_256x256.png" alt="Medium Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/medium/logo_256x256.png" alt="Medium Logo"/>
 </p>
 
 Documentation for Medium's OAuth2 API. Documentation for Medium's OAuth2 API. Contribute to Medium/medium-api-docs development by creating an account on GitHub
@@ -10,6 +10,7 @@ Documentation for Medium's OAuth2 API. Documentation for Medium's OAuth2 API. Co
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

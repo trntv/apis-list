@@ -8,6 +8,7 @@ They Said So. Quotes API with lot of features
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ This is most commonly done through Fail2Ban, which comes prepackaged with an Abu
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

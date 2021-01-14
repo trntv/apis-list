@@ -1,6 +1,6 @@
 # SpeechText.AI API
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/speechtext-ai-api/logo_256x256.png" alt="SpeechText.AI API Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/speechtext-ai-api/logo_256x256.png" alt="SpeechText.AI API Logo"/>
 </p>
 
 Cloud Speech Recognition API. Transform speech to text with high accuracy in multiple languages. Generate summaries with important highlights from audio and video files. Start for free
@@ -10,6 +10,7 @@ Cloud Speech Recognition API. Transform speech to text with high accuracy in mul
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

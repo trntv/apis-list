@@ -8,6 +8,7 @@ Use one simple API call to generate screenshots of any website. Use this screens
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ Check what's the latest version of your favorite open-source project.  無効な
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

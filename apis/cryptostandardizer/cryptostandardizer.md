@@ -1,6 +1,6 @@
 # Cryptostandardizer
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cryptostandardizer/logo_256x256.png" alt="Cryptostandardizer Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cryptostandardizer/logo_256x256.png" alt="Cryptostandardizer Logo"/>
 </p>
 
 Standardize crypto coin symbols (eg. BTC, XBT) across 100+ exchanges.
@@ -10,6 +10,7 @@ Standardize crypto coin symbols (eg. BTC, XBT) across 100+ exchanges.
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Open Charge Map
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/open-charge-map/logo_256x256.png" alt="Open Charge Map Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/open-charge-map/logo_256x256.png" alt="Open Charge Map Logo"/>
 </p>
 
 Open Charge Map is a non-commercial, non-profit, electric vehicle data service hosted and supported by a community of businesses, charities, developers and interested parties around the world.
@@ -10,6 +10,7 @@ Open Charge Map is a non-commercial, non-profit, electric vehicle data service h
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

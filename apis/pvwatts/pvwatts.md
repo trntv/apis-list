@@ -8,6 +8,7 @@ system_capacit. format Yes Type: string Default: None Options: json, xml The out
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

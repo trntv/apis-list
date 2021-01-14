@@ -1,6 +1,6 @@
 # HTTPCat
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/httpcat/logo_256x256.png" alt="HTTPCat Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/httpcat/logo_256x256.png" alt="HTTPCat Logo"/>
 </p>
 
 API for HTTP Cats.  API for HTTP Cats
@@ -10,6 +10,7 @@ API for HTTP Cats.  API for HTTP Cats
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ Shorten long URLs and optionally protect them with passwords or captcha.  No reg
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ Copy-and-paste in your application/script to create a custom short URL:. Copy-an
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

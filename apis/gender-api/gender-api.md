@@ -8,6 +8,7 @@ Keep your registration forms simple. Optimize your conversions and let us determ
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

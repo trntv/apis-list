@@ -8,6 +8,7 @@ Kitsu is a modern anime discovery platform that helps you track the anime you're
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

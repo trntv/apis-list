@@ -8,6 +8,7 @@ The Belgian Open Data Initiative. The Belgian Open Data Initiative
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

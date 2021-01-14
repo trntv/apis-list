@@ -8,6 +8,7 @@ Read More. Global marine weather data from multiple sources in one single API!
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

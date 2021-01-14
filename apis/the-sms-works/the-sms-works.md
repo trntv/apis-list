@@ -8,6 +8,7 @@ The SMS Works provides a low-cost, reliable SMS API for developers. Pay only for
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Naver Captcha
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/naver-captcha/logo_256x256.png" alt="Naver Captcha Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/naver-captcha/logo_256x256.png" alt="Naver Captcha Logo"/>
 </p>
 
 The image capturing function used by Naver Service can be used for customer service to identify people and computers to prevent abusing
@@ -10,6 +10,7 @@ The image capturing function used by Naver Service can be used for customer serv
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

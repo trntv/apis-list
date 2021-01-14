@@ -1,6 +1,6 @@
 # UI Names
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ui-names/logo_256x256.png" alt="UI Names Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ui-names/logo_256x256.png" alt="UI Names Logo"/>
 </p>
 
 A simple tool to generate names for use in designs and mockups.  - thm/uinames. A simple tool to generate names for use in designs and mockups
@@ -10,6 +10,7 @@ A simple tool to generate names for use in designs and mockups.  - thm/uinames. 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

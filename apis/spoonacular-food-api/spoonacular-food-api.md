@@ -8,6 +8,7 @@ The only Food API you'll ever need. Spoonacular offers its food parsing, matchin
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

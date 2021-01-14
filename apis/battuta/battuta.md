@@ -8,6 +8,7 @@ Country Region City. Country Region City
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

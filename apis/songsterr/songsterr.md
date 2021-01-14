@@ -1,6 +1,6 @@
 # Songsterr
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/songsterr/logo_256x256.png" alt="Songsterr Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/songsterr/logo_256x256.png" alt="Songsterr Logo"/>
 </p>
 
 One accurate tab per song. Huge selection of 500,000 tabs. No abusive ads.  Guitar, bass and drum tabs & chords with free online tab player. Guitar, bass and drum tabs & chords with free online tab player
@@ -10,6 +10,7 @@ One accurate tab per song. Huge selection of 500,000 tabs. No abusive ads.  Guit
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

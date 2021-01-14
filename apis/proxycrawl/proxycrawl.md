@@ -1,6 +1,6 @@
 # ProxyCrawl
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/proxycrawl/logo_256x256.png" alt="ProxyCrawl Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/proxycrawl/logo_256x256.png" alt="ProxyCrawl Logo"/>
 </p>
 
 Crawl and scrape websites without the need of proxies, infrastructure or browsers. ProxyCrawl solve captchas for you and prevent you being blocked while speeding up your development. ProxyCrawl all in one data crawling and scraping platform for business developers
@@ -10,6 +10,7 @@ Crawl and scrape websites without the need of proxies, infrastructure or browser
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

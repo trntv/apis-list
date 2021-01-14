@@ -8,6 +8,7 @@ Bittrex provides a simple and powerful API consisting of REST endpoints for tran
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

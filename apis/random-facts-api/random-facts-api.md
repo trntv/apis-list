@@ -8,6 +8,7 @@ Get random Facts on different topics
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

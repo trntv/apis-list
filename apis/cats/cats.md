@@ -13,6 +13,7 @@ Get your API Key from - https&#x3A;//TheCatAPI
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

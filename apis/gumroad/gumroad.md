@@ -1,6 +1,6 @@
 # Gumroad
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/gumroad/logo_256x256.png" alt="Gumroad Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/gumroad/logo_256x256.png" alt="Gumroad Logo"/>
 </p>
 
 Gumroad helps creators do more of what they love by offering tools to get paid online, they have sent over $202M to artists, designers, educators, writers, influencers and more.
@@ -10,6 +10,7 @@ Gumroad helps creators do more of what they love by offering tools to get paid o
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

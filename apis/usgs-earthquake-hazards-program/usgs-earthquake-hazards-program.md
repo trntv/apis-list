@@ -8,6 +8,7 @@ USGS Earthquake Hazards Program, responsible for monitoring, reporting, and rese
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

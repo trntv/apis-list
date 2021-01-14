@@ -8,6 +8,7 @@ Recipe Puppy API Recipe Puppy has a very simple API.  This api lets you search t
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

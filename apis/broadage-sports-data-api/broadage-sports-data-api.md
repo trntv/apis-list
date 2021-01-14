@@ -10,6 +10,7 @@ Broadage Sports provides comprehensive sports data API solutions for your projec
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

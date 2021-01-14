@@ -10,6 +10,7 @@ Responsive email design with MJML and Passport
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

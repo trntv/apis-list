@@ -8,6 +8,7 @@ API Documentation cleanuri. com exposes its data via an Application Programming 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ Integration developer utility APIs. By API Name [Default] By API Provider [ Synt
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

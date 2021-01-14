@@ -1,6 +1,6 @@
 # pdflayer
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pdflayer/logo_256x256.png" alt="pdflayer Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pdflayer/logo_256x256.png" alt="pdflayer Logo"/>
 </p>
 
 Free, powerful HTML to PDF API supporting both URL and raw HTML conversion. Free, powerful HTML to PDF API supporting both URL and raw HTML conversion. Unlimited document size, lightning-fast and compatible PHP, Python, Ruby, etc
@@ -10,6 +10,7 @@ Free, powerful HTML to PDF API supporting both URL and raw HTML conversion. Free
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

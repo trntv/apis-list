@@ -8,6 +8,7 @@ Introduction Welcome to the BitcoinAverage API! The world's best and longest run
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

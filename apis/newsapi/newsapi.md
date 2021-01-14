@@ -1,6 +1,6 @@
 # NewsAPI
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/newsapi/logo_256x256.png" alt="NewsAPI Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/newsapi/logo_256x256.png" alt="NewsAPI Logo"/>
 </p>
 
 Search worldwide news articles and headlines from all over the web in real-time with our free News API. 70+ news sources and their headlines, one API
@@ -10,6 +10,7 @@ Search worldwide news articles and headlines from all over the web in real-time 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

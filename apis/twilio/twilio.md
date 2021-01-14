@@ -1,6 +1,6 @@
 # Twilio
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/twilio/logo_256x256.png" alt="Twilio Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/twilio/logo_256x256.png" alt="Twilio Logo"/>
 </p>
 
 APIs for SMS, Voice, Video and more
@@ -10,6 +10,7 @@ APIs for SMS, Voice, Video and more
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

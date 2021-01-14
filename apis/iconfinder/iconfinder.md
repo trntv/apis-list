@@ -8,6 +8,7 @@ The Iconfinder API is a HTTP JSON API and allows you to programatically access r
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

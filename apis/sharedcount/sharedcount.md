@@ -8,6 +8,7 @@ Social media like and share data for any URL.
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

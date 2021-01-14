@@ -8,6 +8,7 @@ With the Sports DB API you can query teams, players in teams, player details, pl
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

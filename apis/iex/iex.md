@@ -1,6 +1,6 @@
 # IEX Trading
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/iex/logo_256x256.png" alt="IEX Trading Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/iex/logo_256x256.png" alt="IEX Trading Logo"/>
 </p>
 
 Free Stocks and Market Data. IEX Cloud is a financial data infrastructure platform that connects developers and financial data creators
@@ -10,6 +10,7 @@ Free Stocks and Market Data. IEX Cloud is a financial data infrastructure platfo
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

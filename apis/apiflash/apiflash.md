@@ -1,6 +1,6 @@
 # ApiFlash
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/apiflash/logo_256x256.png" alt="ApiFlash Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/apiflash/logo_256x256.png" alt="ApiFlash Logo"/>
 </p>
 
 Chrome based screenshot API to convert URLs to images.  ApiFlash is an easy to use screenshot API for developers.  It is powerful and
@@ -11,6 +11,7 @@ Chrome based screenshot API to convert URLs to images.  ApiFlash is an easy to u
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ Trading APIs require authentication and provide access to placing orders and oth
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

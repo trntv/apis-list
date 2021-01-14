@@ -1,6 +1,6 @@
 # Songkick
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/songkick/logo_256x256.png" alt="Songkick Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/songkick/logo_256x256.png" alt="Songkick Logo"/>
 </p>
 
 Find live music near you, track your favorite artists, get instant concert alerts and buy tickets for all the best upcoming concerts.  Find live music near you, track your favorite artists, get instant concert alerts and buy tickets for all the best upcoming concerts
@@ -10,6 +10,7 @@ Find live music near you, track your favorite artists, get instant concert alert
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

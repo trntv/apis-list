@@ -1,6 +1,6 @@
 # Scrapingbee
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/scrapingbee/logo_256x256.png" alt="Scrapingbee Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/scrapingbee/logo_256x256.png" alt="Scrapingbee Logo"/>
 </p>
 
 Scraping is hard, scraping at scale can be very challenging.  
@@ -16,6 +16,7 @@ ScrapingBee is a simple API that does all the above for you. It is truly the mos
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ LCBO API is open source now, find it on GitHub: heycarsten/lcbo-api.  LCBO API i
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

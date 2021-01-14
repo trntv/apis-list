@@ -1,6 +1,6 @@
 # Loripsum
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/loripsum/logo_256x256.png" alt="Loripsum Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/loripsum/logo_256x256.png" alt="Loripsum Logo"/>
 </p>
 
 This Lorem Ipsum generator fits all your Lipsum needs! Come on over, make some Lipsum and copy-paste like a pro!. This Lorem Ipsum generator fits all your Lipsum needs! Come on over, make some Lipsum and copy-paste like a pro!
@@ -10,6 +10,7 @@ This Lorem Ipsum generator fits all your Lipsum needs! Come on over, make some L
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

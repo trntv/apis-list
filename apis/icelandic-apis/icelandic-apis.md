@@ -8,6 +8,7 @@ In our context, this means we have endpoints that retur. What the. What the. ? A
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

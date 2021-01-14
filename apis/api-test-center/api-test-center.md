@@ -8,6 +8,7 @@ NetLicensing Explore. ) - Innovative License Management Solution
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

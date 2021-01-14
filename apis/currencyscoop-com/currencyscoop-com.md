@@ -1,6 +1,6 @@
 # CurrencyScoop.com
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/currencyscoop-com/logo_256x256.png" alt="CurrencyScoop.com Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/currencyscoop-com/logo_256x256.png" alt="CurrencyScoop.com Logo"/>
 </p>
 
 Real-time and historical currency rates JSON API.  CurrencyScoop is a developer-friendly REST API with real-time and historical exchange rates for 168 world currencies and 1600 cryptocurrencies
@@ -10,6 +10,7 @@ Real-time and historical currency rates JSON API.  CurrencyScoop is a developer-
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

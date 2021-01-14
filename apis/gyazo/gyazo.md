@@ -1,6 +1,6 @@
 # Gyazo
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/gyazo/logo_256x256.png" alt="Gyazo Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/gyazo/logo_256x256.png" alt="Gyazo Logo"/>
 </p>
 
 Overview The Gyazo API can be used in a wide array of apps to upload new images, show a Gyazo userâ€™s images, and more.  It provides a RESTful API for HTTP requests and returns a response in JSON. Overview The Gyazo API can be used in a wide array of apps to upload new images, show a Gyazo userâ€™s images, and more
@@ -10,6 +10,7 @@ Overview The Gyazo API can be used in a wide array of apps to upload new images,
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

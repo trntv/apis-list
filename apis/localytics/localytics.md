@@ -8,6 +8,7 @@ Analytics Concepts In order to use an analytics API to its maximum potential, it
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

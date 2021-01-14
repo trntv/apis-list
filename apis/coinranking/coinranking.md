@@ -8,6 +8,7 @@ Base url: https://api. coinranking. com/v2. Introduction Power your projects wit
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

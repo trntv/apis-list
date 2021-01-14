@@ -1,6 +1,6 @@
 # PandaScore
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pandascore/logo_256x256.png" alt="PandaScore Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pandascore/logo_256x256.png" alt="PandaScore Logo"/>
 </p>
 
 Get events and detailed match data in real time from major league tournaments, or fetch data about players, tournaments, leagues, matches, teams and more !  Pandascore, the e-sports data and live API.
@@ -10,6 +10,7 @@ Get events and detailed match data in real time from major league tournaments, o
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

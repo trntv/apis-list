@@ -8,6 +8,7 @@ Access database of artists, labels, releases, marketplace and more. Here’s you
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

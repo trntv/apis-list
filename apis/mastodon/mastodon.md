@@ -1,6 +1,6 @@
 # Mastodon
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/mastodon/logo_256x256.png" alt="Mastodon Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/mastodon/logo_256x256.png" alt="Mastodon Logo"/>
 </p>
 
 Welcome to the Mastodon documentation!.  Welcome to the Mastodon documentation!
@@ -10,6 +10,7 @@ Welcome to the Mastodon documentation!.  Welcome to the Mastodon documentation!
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

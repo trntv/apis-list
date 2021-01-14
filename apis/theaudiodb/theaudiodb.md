@@ -8,6 +8,7 @@ TheAudioDB is a community database of Music Artwork, Metadata and Charts with a 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

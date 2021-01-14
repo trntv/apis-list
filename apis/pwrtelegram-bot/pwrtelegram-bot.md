@@ -8,6 +8,7 @@ The PWRTelegram MTProto API. Boosted version of the Telegram bot API
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

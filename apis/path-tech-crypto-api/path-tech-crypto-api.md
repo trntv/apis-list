@@ -1,6 +1,6 @@
 # Path Tech Crypto API
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/path-tech-crypto-api/logo_256x256.png" alt="Path Tech Crypto API Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/path-tech-crypto-api/logo_256x256.png" alt="Path Tech Crypto API Logo"/>
 </p>
 
 Single interface to retrieve transactions across crypto exchanges and wallets
@@ -10,6 +10,7 @@ Single interface to retrieve transactions across crypto exchanges and wallets
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

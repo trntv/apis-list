@@ -8,6 +8,7 @@ Welcome to the Auckland Transport Developer Portal! The Auckland Transport devel
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

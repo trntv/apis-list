@@ -8,6 +8,7 @@ Gives you access to 1000s of Trivia questions. Your browser will redirect to you
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

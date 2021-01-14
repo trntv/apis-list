@@ -8,6 +8,7 @@ AI Mastering API provides automated audio mastering service. You can upload your
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

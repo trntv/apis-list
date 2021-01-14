@@ -1,6 +1,6 @@
 # Czech Television
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/czech-television/logo_256x256.png" alt="Czech Television Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/czech-television/logo_256x256.png" alt="Czech Television Logo"/>
 </p>
 
 iVysílání | TV program | Vše o ČT | Pořady A–Z | eShop.  iVysílání | TV program | Vše o ČT | Pořady A–Z | eShop
@@ -10,6 +10,7 @@ iVysílání | TV program | Vše o ČT | Pořady A–Z | eShop.  iVysílání | 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

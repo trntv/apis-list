@@ -8,6 +8,7 @@ The Mapbox Geocoding API does forward geocoding (search place names and return c
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

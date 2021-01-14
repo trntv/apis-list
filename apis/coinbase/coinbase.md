@@ -9,6 +9,7 @@ Coinbase’s APIs enable a variety of capabilities; from simply gathering read-o
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

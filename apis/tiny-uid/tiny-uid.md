@@ -8,6 +8,7 @@ API Documentation tinyuid. com exposes its data via an Application Programming I
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -10,6 +10,7 @@ Please refer to the PTV website until further notice. PTV API
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

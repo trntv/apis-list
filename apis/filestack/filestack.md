@@ -8,6 +8,7 @@ API for image and file manipulation, 250 uploads and 500 uploads per month for f
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

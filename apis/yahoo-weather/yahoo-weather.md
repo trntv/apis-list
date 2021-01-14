@@ -8,6 +8,7 @@ Yahoo Weather API for your apps Get up-to-date weather information for any locat
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # TheSportsDB
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/thesportsdb/logo_256x256.png" alt="TheSportsDB Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/thesportsdb/logo_256x256.png" alt="TheSportsDB Logo"/>
 </p>
 
 Various sports events, results, players, teams and high quality artwork. TheSportsDB is an open, crowd sourced database of Sports metadata with Events, TV listings, Artwork, Scores and a free JSON Sports API
@@ -10,6 +10,7 @@ Various sports events, results, players, teams and high quality artwork. TheSpor
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ Available API analytics options include detailed traffic breakdowns and reports 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

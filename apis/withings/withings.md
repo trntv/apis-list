@@ -8,6 +8,7 @@ Access to data from Withings activity trackers and body measures
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Firebase
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/firebase/logo_256x256.png" alt="Firebase Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/firebase/logo_256x256.png" alt="Firebase Logo"/>
 </p>
 
 Web reference View full API for JS Client. Authentication, analytics, cloud messaging, crash reporting, ads and more
@@ -10,6 +10,7 @@ Web reference View full API for JS Client. Authentication, analytics, cloud mess
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

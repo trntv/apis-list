@@ -8,6 +8,7 @@ Central bank of New Myanmar
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

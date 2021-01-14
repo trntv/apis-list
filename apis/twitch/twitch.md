@@ -1,6 +1,6 @@
 # Twitch
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/twitch/logo_256x256.png" alt="Twitch Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/twitch/logo_256x256.png" alt="Twitch Logo"/>
 </p>
 
 The Twitch API enables you to develop your own applications using the rich feature set that Twitch provides.  Twitch Developer Documentation
@@ -10,6 +10,7 @@ The Twitch API enables you to develop your own applications using the rich featu
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

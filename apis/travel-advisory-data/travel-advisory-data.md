@@ -8,6 +8,7 @@ This is a simple REST API that replies with an UTF8 encoded JSON Object. This AP
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

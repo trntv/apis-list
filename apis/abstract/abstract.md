@@ -1,6 +1,6 @@
 # Abstract
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/abstract/logo_256x256.png" alt="Abstract Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/abstract/logo_256x256.png" alt="Abstract Logo"/>
 </p>
 
 Used by 10,000+ developers worldwide. . Suite of utility API's (validate emails, create user avatars, calculate VAT, and more). Abstract provides powerful APIs to help you enrich any user experience or automate any workflow
@@ -10,6 +10,7 @@ Used by 10,000+ developers worldwide. . Suite of utility API's (validate emails,
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

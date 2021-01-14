@@ -8,6 +8,7 @@ Wargaming Games API. Stats, Matches, Data
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

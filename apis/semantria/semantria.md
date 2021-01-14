@@ -8,6 +8,7 @@ Flexible natural language processing APIs and complete text analytics platform s
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

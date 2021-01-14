@@ -1,6 +1,6 @@
 # US ZipCode
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/us-zipcode/logo_256x256.png" alt="US ZipCode Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/us-zipcode/logo_256x256.png" alt="US ZipCode Logo"/>
 </p>
 
 Instructions on how to easily look up, verify and append ZIP Code data using the US ZIP Code API from SmartyStreets. Instructions on how to easily look up, verify and append ZIP Code data using the US ZIP Code API from SmartyStreets
@@ -10,6 +10,7 @@ Instructions on how to easily look up, verify and append ZIP Code data using the
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

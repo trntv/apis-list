@@ -8,6 +8,7 @@ ClickMeter API RESTful services. ClickMeter API RESTful services. Interact progr
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

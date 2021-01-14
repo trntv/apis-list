@@ -8,6 +8,7 @@ Formatted and geolocated Colorado public data
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Unsplash
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/unsplash/logo_256x256.png" alt="Unsplash Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/unsplash/logo_256x256.png" alt="Unsplash Logo"/>
 </p>
 
 but for photos.  Lorem Ipsum. Lorem Ipsum
@@ -10,6 +10,7 @@ but for photos.  Lorem Ipsum. Lorem Ipsum
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

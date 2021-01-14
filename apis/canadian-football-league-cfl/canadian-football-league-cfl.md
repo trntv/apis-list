@@ -8,6 +8,7 @@ CFL API Need assistance? E-mail us or browse the API documentation
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

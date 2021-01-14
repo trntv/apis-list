@@ -8,6 +8,7 @@ Realtime schedules for Paris metro network (RATP - metro, bus, tram, rer)
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

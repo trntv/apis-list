@@ -1,6 +1,6 @@
 # Block
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/block/logo_256x256.png" alt="Block Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/block/logo_256x256.png" alt="Block Logo"/>
 </p>
 
 The most versatile and secure wallet for all your coins
@@ -10,6 +10,7 @@ The most versatile and secure wallet for all your coins
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ Describes the iTunes Search API used to place search fields in a website. The Se
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

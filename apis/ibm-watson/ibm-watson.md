@@ -1,6 +1,6 @@
 # IBM Watson
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ibm-watson/logo_256x256.png" alt="IBM Watson Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ibm-watson/logo_256x256.png" alt="IBM Watson Logo"/>
 </p>
 
 Build and train models, and create apps, with a trusted AI-infused platform. Offers a variety of services for building cognitive apps
@@ -10,6 +10,7 @@ Build and train models, and create apps, with a trusted AI-infused platform. Off
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

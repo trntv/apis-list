@@ -8,6 +8,7 @@ Generate placeholder pictures. The web host lorempicsum. com does not exist
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

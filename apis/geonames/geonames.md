@@ -1,6 +1,6 @@
 # GeoNames
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/geonames/logo_256x256.png" alt="GeoNames Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/geonames/logo_256x256.png" alt="GeoNames Logo"/>
 </p>
 
 Important: Do not use the 'demo' account for your app or your tests. It is only meant for the sample links on the docu. GeoNames Web Services Documentation GeoNames is mainly using REST webservices
@@ -10,6 +10,7 @@ Important: Do not use the 'demo' account for your app or your tests. It is only 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Lolwallpapers Api
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/lolwallpapers-api/logo_256x256.png" alt="Lolwallpapers Api Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/lolwallpapers-api/logo_256x256.png" alt="Lolwallpapers Api Logo"/>
 </p>
 
 League of Legends Wallpapers website official API. This is a lightweight public API which provides an easy way to fetch informations about any wallpapers on LoLWallpapers
@@ -10,6 +10,7 @@ League of Legends Wallpapers website official API. This is a lightweight public 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

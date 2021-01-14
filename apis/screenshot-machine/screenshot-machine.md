@@ -8,6 +8,7 @@ Free screenshot api for capturing web pages.  Let our website screenshot generat
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

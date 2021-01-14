@@ -1,6 +1,6 @@
 # One Map, Singapore
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/one-map-singapore/logo_256x256.png" alt="One Map, Singapore Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/one-map-singapore/logo_256x256.png" alt="One Map, Singapore Logo"/>
 </p>
 
 ####. #######. ##. Introduction. ###. ########
@@ -10,6 +10,7 @@
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Houndify
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/houndify/logo_256x256.png" alt="Houndify Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/houndify/logo_256x256.png" alt="Houndify Logo"/>
 </p>
 
 The Houndify Voice AI platform helps brands build voice user interfaces that enhance brand identity and retain data ownership and customer relationships. Integrate voice and conversational intelligence into your products through an independent platform that is always learning
@@ -10,6 +10,7 @@ The Houndify Voice AI platform helps brands build voice user interfaces that enh
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

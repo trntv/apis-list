@@ -8,6 +8,7 @@ Easy-to-use URL shortener.  Supports custom short link ending.  API documentatio
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

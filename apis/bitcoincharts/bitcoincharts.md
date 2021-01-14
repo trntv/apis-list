@@ -8,6 +8,7 @@ You can use this API to include markets data in your websites, mobile apps or de
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

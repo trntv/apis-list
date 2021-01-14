@@ -8,6 +8,7 @@ Upgrade to Hostinger By upgrading to premium hosting you will unlock all availab
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ Allows you to generate maps based on data hosted in your CartoDB account.  Docum
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

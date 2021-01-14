@@ -1,6 +1,6 @@
 # Clients can be found here.
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/clients-can-be-found-here/logo_256x256.png" alt="Clients can be found here. Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/clients-can-be-found-here/logo_256x256.png" alt="Clients can be found here. Logo"/>
 </p>
 
 Google Maps has 35 repositories available. Follow their code on GitHub
@@ -10,6 +10,7 @@ Google Maps has 35 repositories available. Follow their code on GitHub
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

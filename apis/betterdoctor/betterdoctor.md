@@ -8,6 +8,7 @@ BetterDoctor API is the most frequently updated and trusted source of doctor dat
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # vatlayer
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/vatlayer/logo_256x256.png" alt="vatlayer Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/vatlayer/logo_256x256.png" alt="vatlayer Logo"/>
 </p>
 
 Free and HTTPS secured JSON API offering instant VAT number validation, reliable EU VAT rates and VAT compliant price calculations for developers & businesses.  Free and HTTPS secured JSON API offering instant VAT number validation, reliable EU VAT rates and VAT compliant price calculations for developers & businesses
@@ -10,6 +10,7 @@ Free and HTTPS secured JSON API offering instant VAT number validation, reliable
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

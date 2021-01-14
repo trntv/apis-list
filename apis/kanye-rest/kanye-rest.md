@@ -1,6 +1,6 @@
 # kanye.rest
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/kanye-rest/logo_256x256.png" alt="kanye.rest Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/kanye-rest/logo_256x256.png" alt="kanye.rest Logo"/>
 </p>
 
 A free REST API for random Kanye West quotes. A free REST API for random Kanye West quotes
@@ -10,6 +10,7 @@ A free REST API for random Kanye West quotes. A free REST API for random Kanye W
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ Generate font-face using REST API. Fonts API - Subscription
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

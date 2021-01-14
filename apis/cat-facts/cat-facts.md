@@ -1,6 +1,6 @@
 # Cat Facts
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cat-facts/logo_256x256.png" alt="Cat Facts Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cat-facts/logo_256x256.png" alt="Cat Facts Logo"/>
 </p>
 
 Daily cat facts! 🐱. Daily cat facts! 🐱
@@ -10,6 +10,7 @@ Daily cat facts! 🐱. Daily cat facts! 🐱
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

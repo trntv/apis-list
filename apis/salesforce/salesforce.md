@@ -1,6 +1,6 @@
 # Salesforce
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/salesforce/logo_256x256.png" alt="Salesforce Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/salesforce/logo_256x256.png" alt="Salesforce Logo"/>
 </p>
 
 This simple RESTful interface is powerful, convenient, and great for writing mobile and web apps. Salesforce uses the OAuth protocol to allow users of applications to securely access data without having to reveal username and password credentials.  Buildversatile and lightweight solutions that integrate your Salesforce data using REST API
@@ -10,6 +10,7 @@ This simple RESTful interface is powerful, convenient, and great for writing mob
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -17,6 +17,7 @@ The most powerful and cost-effective NLP AI APIs, continuously updated.
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

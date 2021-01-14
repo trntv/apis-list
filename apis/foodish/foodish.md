@@ -1,6 +1,6 @@
 # Foodish
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/foodish/logo_256x256.png" alt="Foodish Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/foodish/logo_256x256.png" alt="Foodish Logo"/>
 </p>
 
 - surhud004/Foodish.  A Node. A Node. js/Express. js REST API to GET a random picture of food dishes
@@ -10,6 +10,7 @@
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

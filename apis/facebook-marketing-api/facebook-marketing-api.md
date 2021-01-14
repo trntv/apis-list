@@ -8,6 +8,7 @@ Marketing API Marketing APIs are a collection of Graph API endpoints that can be
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

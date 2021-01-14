@@ -8,6 +8,7 @@ The NHTSA Product Information Catalog Vehicle Listing (vPIC) Application Program
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

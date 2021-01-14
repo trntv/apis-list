@@ -8,6 +8,7 @@ API for accessing and managing data about athletes, activities and segments.  St
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

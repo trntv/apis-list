@@ -8,6 +8,7 @@ Get data about the books, the movie trilogy, many characters and quotes
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

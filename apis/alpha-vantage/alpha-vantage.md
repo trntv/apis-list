@@ -8,6 +8,7 @@ Supports intraday, daily, weekly, and monthly quotes and technical analysis with
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ Token Added. Token Added
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ All results are returned in easy-to-read JSON format.  Our sports data API provi
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

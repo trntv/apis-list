@@ -1,6 +1,6 @@
 # Kairos
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/kairos/logo_256x256.png" alt="Kairos Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/kairos/logo_256x256.png" alt="Kairos Logo"/>
 </p>
 
 Face recognition, emotion analysis and measuring engagement of people in images or videos for any mobile or web application
@@ -10,6 +10,7 @@ Face recognition, emotion analysis and measuring engagement of people in images 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

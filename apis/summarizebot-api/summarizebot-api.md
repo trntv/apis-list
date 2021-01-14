@@ -8,6 +8,7 @@ Multilingual summarization, keywords and sentiment analysis, language recognitio
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

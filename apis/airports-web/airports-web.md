@@ -8,6 +8,7 @@ Covered Airports mostly Germany. Request Airport name and website URL for airpor
 
 ## 🧬 Specification:
 **Type**: swagger
+
 **URI**: https://airport-web.appspot.com/api/docs/swagger.json
 
 ## 💬 Discussion:

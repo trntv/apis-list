@@ -8,6 +8,7 @@ Restful API for searching and retrieving free images and videos. Documentation t
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

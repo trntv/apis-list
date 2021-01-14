@@ -8,6 +8,7 @@ Find out how you can use the Microsoft Graph API to connect to the data that dri
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ Yelp's API exposes search to 3rd party developers. You can search location using
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Changelogs.md
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/changelogs-md/logo_256x256.png" alt="Changelogs.md Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/changelogs-md/logo_256x256.png" alt="Changelogs.md Logo"/>
 </p>
 
 Search changelogs from open source projects, or use the REST API for a parsed JSON changelog format. . Search changelogs from open source projects, or use the REST API for a parsed JSON changelog format
@@ -10,6 +10,7 @@ Search changelogs from open source projects, or use the REST API for a parsed JS
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

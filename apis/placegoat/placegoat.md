@@ -8,6 +8,7 @@ PlaceGOAT Tired of all these placeholder services that just cater to superficial
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

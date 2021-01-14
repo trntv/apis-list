@@ -1,6 +1,6 @@
 # Open Government, France
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/open-government-france/logo_256x256.png" alt="Open Government, France Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/open-government-france/logo_256x256.png" alt="Open Government, France Logo"/>
 </p>
 
 data. gouv. fr accueil. data
@@ -10,6 +10,7 @@ data. gouv. fr accueil. data
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

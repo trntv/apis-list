@@ -8,6 +8,7 @@ The Bot API allows you to easily create programs that use Telegram messages for�
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

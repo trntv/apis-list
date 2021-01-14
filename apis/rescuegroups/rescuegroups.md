@@ -8,6 +8,7 @@ org APIs Not all adoptable pet data APIs are made equal! Choosing the right API 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

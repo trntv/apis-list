@@ -9,6 +9,7 @@ Currency exchange rates and gold prices in the XML and JSON formats.
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

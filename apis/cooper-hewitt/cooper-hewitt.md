@@ -8,6 +8,7 @@ Cooper Hewitt, Smithsonian Design Museum Collections provides a REST-ish style a
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

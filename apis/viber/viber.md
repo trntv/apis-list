@@ -1,6 +1,6 @@
 # Viber
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/viber/logo_256x256.png" alt="Viber Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/viber/logo_256x256.png" alt="Viber Logo"/>
 </p>
 
 Millions of Viber users call, text, and send photos to each other, worldwide - for free. With Viber’s APIs, can create unique experiences for users at scale. Viber lets everyone in the world connect.  Freely
@@ -10,6 +10,7 @@ Millions of Viber users call, text, and send photos to each other, worldwide - f
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Open Government, New Zealand
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/open-government-new-zealand/logo_256x256.png" alt="Open Government, New Zealand Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/open-government-new-zealand/logo_256x256.png" alt="Open Government, New Zealand Logo"/>
 </p>
 
 govt. nz provides access to guidance, standards, and data from New Zealand government agencies and government-funded projects. data
@@ -10,6 +10,7 @@ govt. nz provides access to guidance, standards, and data from New Zealand gover
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

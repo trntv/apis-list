@@ -1,6 +1,6 @@
 # Auth0
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/auth0/logo_256x256.png" alt="Auth0 Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/auth0/logo_256x256.png" alt="Auth0 Logo"/>
 </p>
 
 Rapidly integrate authentication and authorization for web, mobile, and legacy applications so you can focus on your core business. Authenticate and authorize apps and APIs with any identity provider running on any stack any device or cloud. Free for 700 active users
@@ -10,6 +10,7 @@ Rapidly integrate authentication and authorization for web, mobile, and legacy a
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

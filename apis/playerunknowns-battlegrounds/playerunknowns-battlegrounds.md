@@ -1,6 +1,6 @@
 # PlayerUnknown's Battlegrounds
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/playerunknowns-battlegrounds/logo_256x256.png" alt="PlayerUnknown's Battlegrounds Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/playerunknowns-battlegrounds/logo_256x256.png" alt="PlayerUnknown's Battlegrounds Logo"/>
 </p>
 
 Start building your own website today using official PUBG data
@@ -10,6 +10,7 @@ Start building your own website today using official PUBG data
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

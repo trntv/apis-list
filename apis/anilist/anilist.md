@@ -1,6 +1,6 @@
 # AniList
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/anilist/logo_256x256.png" alt="AniList Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/anilist/logo_256x256.png" alt="AniList Logo"/>
 </p>
 
 The AniList GraphQL Api provides quick and powerful access to over 500k anime and manga entries, including character, staff, and live airing data
@@ -10,6 +10,7 @@ The AniList GraphQL Api provides quick and powerful access to over 500k anime an
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

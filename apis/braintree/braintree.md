@@ -8,6 +8,7 @@ Specializes in mobile and web payment systems for ecommerce companies.  Braintre
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

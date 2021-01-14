@@ -1,6 +1,6 @@
 # WatchMouse API
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/watchmouse-api/logo_256x256.png" alt="WatchMouse API Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/watchmouse-api/logo_256x256.png" alt="WatchMouse API Logo"/>
 </p>
 
 Offers self-service website and application performance monitoring solutions
@@ -10,6 +10,7 @@ Offers self-service website and application performance monitoring solutions
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ A Remake of the original api, using the MERN stack. A Remake of the original api
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Cartes.io
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cartes-io/logo_256x256.png" alt="Cartes.io Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cartes-io/logo_256x256.png" alt="Cartes.io Logo"/>
 </p>
 
 Allows anyone to create maps and markers for anything. Initially used to report incidents that may be dangerous during times of unrest or protest.
@@ -10,6 +10,7 @@ Allows anyone to create maps and markers for anything. Initially used to report 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

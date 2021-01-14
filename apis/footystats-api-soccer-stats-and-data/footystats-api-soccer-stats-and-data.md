@@ -8,6 +8,7 @@ Affordable Soccer Stats API for making football predictions. Includes stats such
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

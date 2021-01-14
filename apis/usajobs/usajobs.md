@@ -1,6 +1,6 @@
 # USAJOBS
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/usajobs/logo_256x256.png" alt="USAJOBS Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/usajobs/logo_256x256.png" alt="USAJOBS Logo"/>
 </p>
 
 USAJOBS API Terms of Service As a USAJOBS API Consumer, you agree to the following terms and conditions, and any policies, guidelines or amendments thereto that may be presented to you from time to. USAJOBS API Terms of Service As a USAJOBS API Consumer, you agree to the following terms and conditions, and any policies, guidelines or amendments thereto that may be presented to you from time to
@@ -10,6 +10,7 @@ USAJOBS API Terms of Service As a USAJOBS API Consumer, you agree to the followi
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

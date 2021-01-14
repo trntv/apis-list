@@ -1,6 +1,6 @@
 # OwlBot
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/owlbot/logo_256x256.png" alt="OwlBot Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/owlbot/logo_256x256.png" alt="OwlBot Logo"/>
 </p>
 
 OwlBot is an english dictionary API
@@ -10,6 +10,7 @@ OwlBot is an english dictionary API
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

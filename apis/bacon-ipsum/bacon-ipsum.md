@@ -8,6 +8,7 @@ JSON API for returning meaty lorem ipsum filler text. JSON API for returning mea
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

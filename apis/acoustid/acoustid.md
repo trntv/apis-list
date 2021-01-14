@@ -8,6 +8,7 @@ Web Service The AcoustID web service currently supports only two operations, sea
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

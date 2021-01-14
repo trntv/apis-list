@@ -1,6 +1,6 @@
 # Pro Motocross
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pro-motocross/logo_256x256.png" alt="Pro Motocross Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pro-motocross/logo_256x256.png" alt="Pro Motocross Logo"/>
 </p>
 
 The RESTful AMA Pro Motocross lap times for every racer on the start gate
@@ -10,6 +10,7 @@ The RESTful AMA Pro Motocross lap times for every racer on the start gate
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

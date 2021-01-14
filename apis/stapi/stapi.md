@@ -8,6 +8,7 @@ Information on all things Star Trek
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

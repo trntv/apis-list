@@ -8,6 +8,7 @@ GTFS Changes and GTFS-RT Debut Metro has officially launched GTFS-RT! Developers
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

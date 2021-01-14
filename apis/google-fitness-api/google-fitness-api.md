@@ -1,6 +1,6 @@
 # Google Fitness API
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-fitness-api/logo_256x256.png" alt="Google Fitness API Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-fitness-api/logo_256x256.png" alt="Google Fitness API Logo"/>
 </p>
 
 Google Fit is an open ecosystem that makes it easy to store, access, and manage fitness data
@@ -10,6 +10,7 @@ Google Fit is an open ecosystem that makes it easy to store, access, and manage 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

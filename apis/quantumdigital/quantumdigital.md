@@ -1,6 +1,6 @@
 # Quantumdigital
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/quantumdigital/logo_256x256.png" alt="Quantumdigital Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/quantumdigital/logo_256x256.png" alt="Quantumdigital Logo"/>
 </p>
 
  QuantumDigital’s APIs make navigating the USPS, securing national consumer and business lists, uploading your own designs or lists, and shipping small order marketing materials a breeze
@@ -10,6 +10,7 @@
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Slack
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/slack/logo_256x256.png" alt="Slack Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/slack/logo_256x256.png" alt="Slack Logo"/>
 </p>
 
 Slack APIs allow you to integrate complex services with Slack to go beyond the integrations we provide out of the box. . Slack APIs allow you to integrate complex services with Slack to go beyond the integrations we provide out of the box
@@ -10,6 +10,7 @@ Slack APIs allow you to integrate complex services with Slack to go beyond the i
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

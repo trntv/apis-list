@@ -8,6 +8,7 @@ Biography. From both the universe, and more.  Images. Get all SuperHeroes and Vi
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

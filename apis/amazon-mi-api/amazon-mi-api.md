@@ -8,6 +8,7 @@ Amazon Machine Learning API simplifies the process of making predictions that re
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # CarsXE API
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/carsxe-api/logo_256x256.png" alt="CarsXE API Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/carsxe-api/logo_256x256.png" alt="CarsXE API Logo"/>
 </p>
 
 Get access to millions of vehicle records, specs, ownership costs and market values. CarsXE Vehicle Data API
@@ -10,6 +10,7 @@ Get access to millions of vehicle records, specs, ownership costs and market val
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

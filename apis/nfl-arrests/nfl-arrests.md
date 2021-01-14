@@ -8,6 +8,7 @@ NFL Arrest provides an interactive visualized database of National Football Leag
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

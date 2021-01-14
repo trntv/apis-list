@@ -8,6 +8,7 @@ Unlock insights from your global device network with an intelligent IoT platform
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

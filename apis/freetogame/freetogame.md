@@ -8,6 +8,7 @@ Free-to-play games database API.  Free-To-Play Games Database API Create using t
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

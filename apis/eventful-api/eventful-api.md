@@ -8,6 +8,7 @@ Eventful is a leading digital media company connecting consumers with entertainm
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # CoinLayer
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/coinlayer/logo_256x256.png" alt="CoinLayer Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/coinlayer/logo_256x256.png" alt="CoinLayer Logo"/>
 </p>
 
 Powerful cryptocurrency rates JSON API delivering real-time crypto exchange rate and conversion data for more than 25 exchanges and 385 coins worldwide
@@ -10,6 +10,7 @@ Powerful cryptocurrency rates JSON API delivering real-time crypto exchange rate
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

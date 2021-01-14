@@ -8,6 +8,7 @@ Scan anime image to get specific detail
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

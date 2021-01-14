@@ -9,6 +9,7 @@ Simple and fast and free weather API from OpenWeatherMap you have access to curr
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ JSON API returns the country of an IP address.  Simple, fast, free. For open sou
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

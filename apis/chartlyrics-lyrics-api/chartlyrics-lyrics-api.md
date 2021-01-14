@@ -8,6 +8,7 @@ v1. 1 Update, adding TrackId and TrackChecksum for future AddLyric function, Add
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

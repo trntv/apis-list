@@ -1,7 +1,7 @@
 # {{ .api.Name }}
 {{ if .api.Logo -}}
 <p align="center">
-    <img width="400" src="{{ .api.Logo }}" alt="{{ .api.Name }} Logo"/>
+    <img width="256" src="{{ .api.Logo }}" alt="{{ .api.Name }} Logo"/>
 </p>
 {{- end }}
 
@@ -12,6 +12,7 @@
 
 ## 🧬 Specification:
 **Type**: {{ if  .api.SpecificationType }}{{ .api.SpecificationType }}{{ else }}N/A{{ end }}
+
 **URI**: {{ if  .api.SpecificationUri }}{{ .api.SpecificationUri }}{{ else }}N/A{{ end }}
 
 ## 💬 Discussion:

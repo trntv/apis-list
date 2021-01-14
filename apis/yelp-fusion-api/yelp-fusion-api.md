@@ -8,6 +8,7 @@ Allows greater developer access to native Yelp data and features.  Yelp for Deve
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

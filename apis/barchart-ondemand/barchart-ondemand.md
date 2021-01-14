@@ -8,6 +8,7 @@ Free Market Data APIs for Stock, futures and forex quotes, and historical data. 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

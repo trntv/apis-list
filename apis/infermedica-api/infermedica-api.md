@@ -1,6 +1,6 @@
 # Infermedica API
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/infermedica-api/logo_256x256.png" alt="Infermedica API Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/infermedica-api/logo_256x256.png" alt="Infermedica API Logo"/>
 </p>
 
 The most advanced Symptom Checker and Patient Triage API. Infermedica provides an API for patient triage and preliminary medical diagnosis that can help you implement an intelligent symptom checker or an adaptive patient intake form for your health application
@@ -10,6 +10,7 @@ The most advanced Symptom Checker and Patient Triage API. Infermedica provides a
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

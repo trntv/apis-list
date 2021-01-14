@@ -8,6 +8,7 @@ Universitet i Oslo (lisensgiver) gir deg som lisenstaker rett til å bruke datae
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

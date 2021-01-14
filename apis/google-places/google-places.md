@@ -1,6 +1,6 @@
 # Google Places
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-places/logo_256x256.png" alt="Google Places Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-places/logo_256x256.png" alt="Google Places Logo"/>
 </p>
 
 Connect your app or website users to over 100 million points of interests with Places, using Autocomplete, Geocoding & Place Search APIs
@@ -10,6 +10,7 @@ Connect your app or website users to over 100 million points of interests with P
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

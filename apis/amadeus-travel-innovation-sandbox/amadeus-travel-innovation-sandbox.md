@@ -8,6 +8,7 @@ Discover Amadeus travel APIs and connect to the flight search, flight booking, h
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

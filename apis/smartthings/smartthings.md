@@ -8,6 +8,7 @@ An open, programmatic interface for controlling smart devices The SmartThings pl
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

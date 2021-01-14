@@ -8,6 +8,7 @@ Metadefender Cloud provides unique set of APIs for everyone who is working with 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

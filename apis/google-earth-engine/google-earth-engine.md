@@ -1,6 +1,6 @@
 # Google Earth Engine
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-earth-engine/logo_256x256.png" alt="Google Earth Engine Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-earth-engine/logo_256x256.png" alt="Google Earth Engine Logo"/>
 </p>
 
 Perform geospatial processing powered by Google's cloud infrastructure. Perform geospatial processing powered by Google's cloud infrastructure
@@ -10,6 +10,7 @@ Perform geospatial processing powered by Google's cloud infrastructure. Perform 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

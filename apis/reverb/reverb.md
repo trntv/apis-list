@@ -8,6 +8,7 @@ Sell and buy music related merchandise. Welcome to the Reverb API Welcome to the
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Delion.Io
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/delion-io/logo_256x256.png" alt="Delion.Io Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/delion-io/logo_256x256.png" alt="Delion.Io Logo"/>
 </p>
 
 A powerful API for developers and companies to explore and develop new apps based on IOTA distributed ledger technology
@@ -10,6 +10,7 @@ A powerful API for developers and companies to explore and develop new apps base
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

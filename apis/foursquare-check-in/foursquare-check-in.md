@@ -8,6 +8,7 @@ Allows you to check in to a place
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Musikki
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/musikki/logo_256x256.png" alt="Musikki Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/musikki/logo_256x256.png" alt="Musikki Logo"/>
 </p>
 
 Music
@@ -10,6 +10,7 @@ Music
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

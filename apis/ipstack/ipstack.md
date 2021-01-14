@@ -1,6 +1,6 @@
 # ipstack
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ipstack/logo_256x256.png" alt="ipstack Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ipstack/logo_256x256.png" alt="ipstack Logo"/>
 </p>
 
 Locate website visitors for free using ipstack - a free, real-time IP address to location JSON API and database service supporting IPv4 and IPv6 lookup. Locate website visitors for free using ipstack - a free, real-time IP address to location JSON API and database service supporting IPv4 and IPv6 lookup
@@ -10,6 +10,7 @@ Locate website visitors for free using ipstack - a free, real-time IP address to
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

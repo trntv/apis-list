@@ -8,6 +8,7 @@ IPFS API Upload files, pin hashes, and send pubsub messages using our proprietar
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

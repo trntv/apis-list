@@ -8,6 +8,7 @@ Svátky API Vám řekne kdo má kdy svátek, nebo kdy má kdo svátek. Svátky A
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

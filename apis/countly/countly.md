@@ -8,6 +8,7 @@ Countly is the best analytics platform to understand and enhance customer journe
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Dailymotion
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/dailymotion/logo_256x256.png" alt="Dailymotion Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/dailymotion/logo_256x256.png" alt="Dailymotion Logo"/>
 </p>
 
 Build applications centered around DailyMotion. Explore Dailymotion API documentation to create your video apps and websites
@@ -10,6 +10,7 @@ Build applications centered around DailyMotion. Explore Dailymotion API document
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Comichron Data
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/comichron-data/logo_256x256.png" alt="Comichron Data Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/comichron-data/logo_256x256.png" alt="Comichron Data Logo"/>
 </p>
 
 com - comichron-data/api. JSON API for monthly sales data from comichron
@@ -10,6 +10,7 @@ com - comichron-data/api. JSON API for monthly sales data from comichron
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Quotable Quotes
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/quotable-quotes/logo_256x256.png" alt="Quotable Quotes Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/quotable-quotes/logo_256x256.png" alt="Quotable Quotes Logo"/>
 </p>
 
 Contribute to lukePeavey/quotable development by creating an account on GitHub. Random Quotes API
@@ -10,6 +10,7 @@ Contribute to lukePeavey/quotable development by creating an account on GitHub. 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

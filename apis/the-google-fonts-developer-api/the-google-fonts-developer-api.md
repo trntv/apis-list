@@ -1,6 +1,6 @@
 # The Google Fonts Developer API.
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/the-google-fonts-developer-api/logo_256x256.png" alt="The Google Fonts Developer API. Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/the-google-fonts-developer-api/logo_256x256.png" alt="The Google Fonts Developer API. Logo"/>
 </p>
 
 High-quality fonts to use on your web site
@@ -10,6 +10,7 @@ High-quality fonts to use on your web site
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

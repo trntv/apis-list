@@ -8,6 +8,7 @@ An API for interesting facts about numbers. An API for interesting facts about n
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

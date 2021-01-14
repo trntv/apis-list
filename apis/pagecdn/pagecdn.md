@@ -1,6 +1,6 @@
 # PageCDN
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pagecdn/logo_256x256.png" alt="PageCDN Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pagecdn/logo_256x256.png" alt="PageCDN Logo"/>
 </p>
 
 PageCDN provides a state of the art opensource content delivery network that uses brotli-11 compression. Public CDN API consists of endpoints that help you get different kind of information from projects available on PageCDN's Public CDN
@@ -10,6 +10,7 @@ PageCDN provides a state of the art opensource content delivery network that use
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

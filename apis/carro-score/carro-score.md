@@ -1,6 +1,6 @@
 # Carro Score
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/carro-score/logo_256x256.png" alt="Carro Score Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/carro-score/logo_256x256.png" alt="Carro Score Logo"/>
 </p>
 
 Carro makes finding influencers that love your brand easier than ever before
@@ -10,6 +10,7 @@ Carro makes finding influencers that love your brand easier than ever before
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

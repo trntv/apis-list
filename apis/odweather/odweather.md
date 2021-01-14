@@ -8,6 +8,7 @@ Weather for boating
 
 ## 🧬 Specification:
 **Type**: swagger
+
 **URI**: https://api.oceandrivers.com/static/resources.json
 
 ## 💬 Discussion:

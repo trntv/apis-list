@@ -1,6 +1,6 @@
 # Faceplusplus
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/faceplusplus/logo_256x256.png" alt="Faceplusplus Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/faceplusplus/logo_256x256.png" alt="Faceplusplus Logo"/>
 </p>
 
 Meta description. A tool to detect face
@@ -10,6 +10,7 @@ Meta description. A tool to detect face
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

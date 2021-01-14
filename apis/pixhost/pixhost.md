@@ -1,6 +1,6 @@
 # Pixhost
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pixhost/logo_256x256.png" alt="Pixhost Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pixhost/logo_256x256.png" alt="Pixhost Logo"/>
 </p>
 
 Upload images, photos, galleries
@@ -10,6 +10,7 @@ Upload images, photos, galleries
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

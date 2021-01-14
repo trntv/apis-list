@@ -8,6 +8,7 @@ Detect the hosting provider powering any web site. API
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Lingua Robot API
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/lingua-robot-api/logo_256x256.png" alt="Lingua Robot API Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/lingua-robot-api/logo_256x256.png" alt="Lingua Robot API Logo"/>
 </p>
 
 English dictionary API providing an access to the data of over 800 000 English lexical entries, such as words, phrasal verbs, multiword expressions etc. Definition of words, pronunciations, synonyms and antonyms, lemmatization and morpheme segmentation.
@@ -10,6 +10,7 @@ English dictionary API providing an access to the data of over 800 000 English l
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ Vagalume » API » Documentação Documentação Conteúdo disponível na API do
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

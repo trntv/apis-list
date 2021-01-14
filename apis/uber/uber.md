@@ -1,6 +1,6 @@
 # Uber
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/uber/logo_256x256.png" alt="Uber Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/uber/logo_256x256.png" alt="Uber Logo"/>
 </p>
 
 Discover how the Uber API can easily enhance your app’s user experience and take your innovation further with a wide range of new capabilities. Uber provides API for customizing trip experiences, requesting rides, powering logistics, creating bots and so much more
@@ -10,6 +10,7 @@ Discover how the Uber API can easily enhance your app’s user experience and ta
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

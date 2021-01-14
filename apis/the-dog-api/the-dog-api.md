@@ -1,6 +1,6 @@
 # The Dog Api
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/the-dog-api/logo_256x256.png" alt="The Dog Api Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/the-dog-api/logo_256x256.png" alt="The Dog Api Logo"/>
 </p>
 
 An API all about dogs.  A public service API all about Dogs, free to use when making your fancy new App, Website or Service
@@ -10,6 +10,7 @@ An API all about dogs.  A public service API all about Dogs, free to use when ma
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ API returns namedays for various countries
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

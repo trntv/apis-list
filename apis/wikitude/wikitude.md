@@ -1,6 +1,6 @@
 # Wikitude
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wikitude/logo_256x256.png" alt="Wikitude Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wikitude/logo_256x256.png" alt="Wikitude Logo"/>
 </p>
 
 Powerful augmented reality apps. Create immersive Augmented Reality experiences that transform the world around you
@@ -10,6 +10,7 @@ Powerful augmented reality apps. Create immersive Augmented Reality experiences 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Channel Messaing API
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/channel-messaing-api/logo_256x256.png" alt="Channel Messaing API Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/channel-messaing-api/logo_256x256.png" alt="Channel Messaing API Logo"/>
 </p>
 
 Channel Messaging API lets your build real-time application
@@ -10,6 +10,7 @@ Channel Messaging API lets your build real-time application
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

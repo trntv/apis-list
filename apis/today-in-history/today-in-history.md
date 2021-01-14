@@ -8,6 +8,7 @@ Database of historical events
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

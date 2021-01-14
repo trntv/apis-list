@@ -8,6 +8,7 @@ Introduction FOAAS (Fuck Off As A Service) provides a modern, RESTful, scalable 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

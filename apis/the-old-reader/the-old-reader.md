@@ -1,6 +1,6 @@
 # The Old Reader
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/the-old-reader/logo_256x256.png" alt="The Old Reader Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/the-old-reader/logo_256x256.png" alt="The Old Reader Logo"/>
 </p>
 
 The Old Reader API. The Old Reader API.  Contribute to theoldreader/api development by creating an account on GitHub
@@ -10,6 +10,7 @@ The Old Reader API. The Old Reader API.  Contribute to theoldreader/api developm
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

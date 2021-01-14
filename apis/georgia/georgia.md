@@ -8,6 +8,7 @@ Central bank of Georgia
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

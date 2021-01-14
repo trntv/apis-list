@@ -8,6 +8,7 @@ Secure, fast, convenient way to login in your app/website.  A secure, quick, and
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

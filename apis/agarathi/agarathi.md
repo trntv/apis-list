@@ -1,6 +1,6 @@
 # Agarathi
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/agarathi/logo_256x256.png" alt="Agarathi Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/agarathi/logo_256x256.png" alt="Agarathi Logo"/>
 </p>
 
 Tamil language Dictionary API. Fonts API - Subscription
@@ -10,6 +10,7 @@ Tamil language Dictionary API. Fonts API - Subscription
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

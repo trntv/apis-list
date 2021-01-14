@@ -8,6 +8,7 @@ Hundereds of lottery games from various countries are supported. Generate lotter
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

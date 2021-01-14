@@ -1,6 +1,6 @@
 # Yo Developers API
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/yo-developers-api/logo_256x256.png" alt="Yo Developers API Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/yo-developers-api/logo_256x256.png" alt="Yo Developers API Logo"/>
 </p>
 
 Yo API Documentation. Programmatically send Yos (contextual messages) through API
@@ -10,6 +10,7 @@ Yo API Documentation. Programmatically send Yos (contextual messages) through AP
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

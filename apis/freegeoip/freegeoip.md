@@ -8,6 +8,7 @@ Free IP Geolocation API with no registration required.  15000 requests per hour 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

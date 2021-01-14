@@ -1,6 +1,6 @@
 # Final Space API
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/final-space-api/logo_256x256.png" alt="Final Space API Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/final-space-api/logo_256x256.png" alt="Final Space API Logo"/>
 </p>
 
 The Final Space API is a RESTful API based on the television show Final Space.  The Final Space API is a RESTful API based on the television show Final Space
@@ -10,6 +10,7 @@ The Final Space API is a RESTful API based on the television show Final Space.  
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

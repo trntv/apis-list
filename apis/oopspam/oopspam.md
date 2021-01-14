@@ -8,6 +8,7 @@ Stop bots and manual spam from reaching you or your customer. Stop bots and manu
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

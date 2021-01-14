@@ -8,6 +8,7 @@ A collection of exchange rates
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

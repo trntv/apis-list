@@ -1,6 +1,6 @@
 # Webcams.Travel
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/webcams-travel/logo_256x256.png" alt="Webcams.Travel Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/webcams-travel/logo_256x256.png" alt="Webcams.Travel Logo"/>
 </p>
 
 We aggregate and distribute landscape webcams worldwide. Add webcams to your app or website — Browse through the webcams.  Wind map and weather forecast
@@ -10,6 +10,7 @@ We aggregate and distribute landscape webcams worldwide. Add webcams to your app
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

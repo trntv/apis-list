@@ -1,6 +1,6 @@
 # Box
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/box/logo_256x256.png" alt="Box Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/box/logo_256x256.png" alt="Box Logo"/>
 </p>
 
 Explore the Box APIs and SDKs to use for app development,
@@ -14,6 +14,7 @@ the Box Developer Console
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

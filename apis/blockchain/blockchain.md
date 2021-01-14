@@ -1,6 +1,6 @@
 # Blockchain
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/blockchain/logo_256x256.png" alt="Blockchain Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/blockchain/logo_256x256.png" alt="Blockchain Logo"/>
 </p>
 
 The easiest and most trusted transaction search engine and block explorer.  The easiest and most trusted transaction search engine and block explorer
@@ -10,6 +10,7 @@ The easiest and most trusted transaction search engine and block explorer.  The 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

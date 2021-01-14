@@ -8,6 +8,7 @@ A simple free reverse geocoding API for turning coordinates into human readable 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

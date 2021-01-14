@@ -8,6 +8,7 @@ General knowledge on every topic; query it all with natural language input. Easi
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

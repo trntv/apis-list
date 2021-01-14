@@ -8,6 +8,7 @@ Enables developers to create web and mobile applications that find local busines
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

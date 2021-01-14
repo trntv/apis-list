@@ -1,6 +1,6 @@
 # Currencystack
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/currencystack/logo_256x256.png" alt="Currencystack Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/currencystack/logo_256x256.png" alt="Currencystack Logo"/>
 </p>
 
 Real-time exchange rates for 154 world currencies provided in JSON format and works for any programming environment. Currencystack. io
@@ -10,6 +10,7 @@ Real-time exchange rates for 154 world currencies provided in JSON format and wo
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

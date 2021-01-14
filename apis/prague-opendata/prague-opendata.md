@@ -8,6 +8,7 @@ Prague City Open Data.  Vítejte na celoměstském portálu pro otevřená data 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

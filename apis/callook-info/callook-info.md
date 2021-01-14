@@ -8,6 +8,7 @@ A.  callsign lookups. Look up information about United States ham radio callsign
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

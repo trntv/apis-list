@@ -1,6 +1,6 @@
 # Order Pizza Api
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/order-pizza-api/logo_256x256.png" alt="Order Pizza Api Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/order-pizza-api/logo_256x256.png" alt="Order Pizza Api Logo"/>
 </p>
 
 A RESTful API as pizza restaurant ordering system. swagger Explore
@@ -10,6 +10,7 @@ A RESTful API as pizza restaurant ordering system. swagger Explore
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

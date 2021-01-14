@@ -8,6 +8,7 @@ A hosted REST-API ready to respond to AJAX requests
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

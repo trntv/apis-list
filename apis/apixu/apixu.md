@@ -8,6 +8,7 @@ Get current weather information, historical data and forecasts using weatherstac
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

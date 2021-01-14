@@ -8,6 +8,7 @@ Cryptocurrencies prices, market capitalization, volume and more.
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

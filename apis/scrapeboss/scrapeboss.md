@@ -1,6 +1,6 @@
 # Scrapeboss
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/scrapeboss/logo_256x256.png" alt="Scrapeboss Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/scrapeboss/logo_256x256.png" alt="Scrapeboss Logo"/>
 </p>
 
 Contact with an owner of ScrapeBoss. com domain name. Return developer friendly JSON data for almost any article
@@ -10,6 +10,7 @@ Contact with an owner of ScrapeBoss. com domain name. Return developer friendly 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

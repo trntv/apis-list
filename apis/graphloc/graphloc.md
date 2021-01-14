@@ -1,6 +1,6 @@
 # Graphloc
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/graphloc/logo_256x256.png" alt="Graphloc Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/graphloc/logo_256x256.png" alt="Graphloc Logo"/>
 </p>
 
 Free GraphQL IP Geolocation API
@@ -10,6 +10,7 @@ Free GraphQL IP Geolocation API
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

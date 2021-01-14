@@ -8,6 +8,7 @@ The Mapbox Matrix API returns travel times between many points
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

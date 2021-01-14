@@ -1,6 +1,6 @@
 # MyAnimeList
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/myanimelist/logo_256x256.png" alt="MyAnimeList Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/myanimelist/logo_256x256.png" alt="MyAnimeList Logo"/>
 </p>
 
 MyAnimeList.net official API
@@ -10,6 +10,7 @@ MyAnimeList.net official API
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

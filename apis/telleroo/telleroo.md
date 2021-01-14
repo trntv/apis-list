@@ -8,6 +8,7 @@ com" API Sandbox: "https://sandbox. com" Welcome to Telleroo API documentation! 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

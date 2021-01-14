@@ -1,6 +1,6 @@
 # Chasing Coin
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/chasing-coin/logo_256x256.png" alt="Chasing Coin Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/chasing-coin/logo_256x256.png" alt="Chasing Coin Logo"/>
 </p>
 
 Cryptocurrency, coin and token resource on the web. Full and free cryptocurrency API for prices, stats, coinheat, conversion, and more
@@ -10,6 +10,7 @@ Cryptocurrency, coin and token resource on the web. Full and free cryptocurrency
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

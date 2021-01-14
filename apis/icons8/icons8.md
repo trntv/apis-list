@@ -8,6 +8,7 @@ Icons8 offers simple reliable solutions to cope with all sorts of the challenges
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

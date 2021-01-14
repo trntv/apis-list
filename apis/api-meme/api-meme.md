@@ -8,6 +8,7 @@ Generate memes with a simple link!.  Meme Top Text Bottom Text Link To access th
 
 ## 🧬 Specification:
 **Type**: openapi
+
 **URI**: https://tl-api.azurewebsites.net/swagger/default/swagger.json
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ A unified API platform for software developers in Africa building SMS, USSD, Voi
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

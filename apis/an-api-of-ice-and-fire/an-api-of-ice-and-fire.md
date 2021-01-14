@@ -8,6 +8,7 @@ The API is open source! Contribute directly to the API by writing code, document
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

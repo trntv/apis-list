@@ -1,6 +1,6 @@
 # Mastercard
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/mastercard/logo_256x256.png" alt="Mastercard Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/mastercard/logo_256x256.png" alt="Mastercard Logo"/>
 </p>
 
 Mastercard official API
@@ -10,6 +10,7 @@ Mastercard official API
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

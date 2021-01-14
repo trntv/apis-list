@@ -1,6 +1,6 @@
 # Rushtranslate
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/rushtranslate/logo_256x256.png" alt="Rushtranslate Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/rushtranslate/logo_256x256.png" alt="Rushtranslate Logo"/>
 </p>
 
 RushTranslate offers certified document translation services in over 60 languages provided by native speaking professionals. RushTranslate provides a REST API for human translation services allowing programmatic placement and management of orders.  Our API is perfect for high volume users who want to automate their workflow. 
@@ -11,6 +11,7 @@ RushTranslate offers certified document translation services in over 60 language
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

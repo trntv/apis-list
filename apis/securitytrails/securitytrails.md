@@ -8,6 +8,7 @@ SecurityTrails currently offers three different products that can help you enric
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

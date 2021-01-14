@@ -8,6 +8,7 @@ This Person Does Not Exist
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

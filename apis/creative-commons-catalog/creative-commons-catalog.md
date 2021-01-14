@@ -8,6 +8,7 @@ The Creative Commons Catalog API ('cccatalog-api') is a system that allows progr
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

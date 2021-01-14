@@ -1,6 +1,6 @@
 # Population.Io
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/population-io/logo_256x256.png" alt="Population.Io Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/population-io/logo_256x256.png" alt="Population.Io Logo"/>
 </p>
 
 Open demographic data such as population tables, population rank and life expectancy
@@ -10,6 +10,7 @@ Open demographic data such as population tables, population rank and life expect
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

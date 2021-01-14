@@ -1,6 +1,6 @@
 # Figo
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/figo/logo_256x256.png" alt="Figo Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/figo/logo_256x256.png" alt="Figo Logo"/>
 </p>
 
 Banking API that allows you to extract financial data such as transaction history, account balance, account owner name and others to extract from any financial account
@@ -10,6 +10,7 @@ Banking API that allows you to extract financial data such as transaction histor
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

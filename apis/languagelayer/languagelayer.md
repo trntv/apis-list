@@ -1,6 +1,6 @@
 # languagelayer
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/languagelayer/logo_256x256.png" alt="languagelayer Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/languagelayer/logo_256x256.png" alt="languagelayer Logo"/>
 </p>
 
 Free, powerful language detection JSON API for 173 languages, supporting single and batch requests, PHP, JavaScript, Python, Ruby, Java, and more. Free, powerful language detection JSON API for 173 languages, supporting single and batch requests, PHP, JavaScript, Python, Ruby, Java, and more.
@@ -10,6 +10,7 @@ Free, powerful language detection JSON API for 173 languages, supporting single 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

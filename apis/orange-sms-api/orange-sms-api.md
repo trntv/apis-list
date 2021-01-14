@@ -1,6 +1,6 @@
 # Orange SMS API
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/orange-sms-api/logo_256x256.png" alt="Orange SMS API Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/orange-sms-api/logo_256x256.png" alt="Orange SMS API Logo"/>
 </p>
 
 The SMS Service,allows you to send and receive text messages, of up to 160 characters, to and from a mobile phone
@@ -10,6 +10,7 @@ The SMS Service,allows you to send and receive text messages, of up to 160 chara
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

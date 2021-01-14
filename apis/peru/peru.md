@@ -1,6 +1,6 @@
 # Peru
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/peru/logo_256x256.png" alt="Peru Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/peru/logo_256x256.png" alt="Peru Logo"/>
 </p>
 
 Central bank of Peru
@@ -10,6 +10,7 @@ Central bank of Peru
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

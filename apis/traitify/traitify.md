@@ -8,6 +8,7 @@ Traitify API documentation and developer portal. Traitify API documentation and 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

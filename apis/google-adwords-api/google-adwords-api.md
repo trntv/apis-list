@@ -1,6 +1,6 @@
 # Google AdWords API
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-adwords-api/logo_256x256.png" alt="Google AdWords API Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-adwords-api/logo_256x256.png" alt="Google AdWords API Logo"/>
 </p>
 
 A SOAP API that provides access to Google Ads accounts, campaigns, and reports. Manage Google AdWords campaigns programmatically
@@ -10,6 +10,7 @@ A SOAP API that provides access to Google Ads accounts, campaigns, and reports. 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

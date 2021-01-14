@@ -8,6 +8,7 @@ Overview Quickstart Expert user? Allergic to lengthy documentation sites?Follow 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

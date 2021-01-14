@@ -1,6 +1,6 @@
 # Imgflip
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/imgflip/logo_256x256.png" alt="Imgflip Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/imgflip/logo_256x256.png" alt="Imgflip Logo"/>
 </p>
 
 Get 100 of memes with Imgflip API, or add text/caption to memes directly from this awesome API.  RESTful JSON API for making memes with Imgflip's meme generator
@@ -10,6 +10,7 @@ Get 100 of memes with Imgflip API, or add text/caption to memes directly from th
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # QuickChart
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/quickchart/logo_256x256.png" alt="QuickChart Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/quickchart/logo_256x256.png" alt="QuickChart Logo"/>
 </p>
 
 Open source, no watermarks. . Create a chart image with one API call and embed it anywhere. Send charts in email and other platforms
@@ -10,6 +10,7 @@ Open source, no watermarks. . Create a chart image with one API call and embed i
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

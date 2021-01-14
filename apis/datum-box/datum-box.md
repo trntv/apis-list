@@ -1,6 +1,6 @@
 # Datum Box
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/datum-box/logo_256x256.png" alt="Datum Box Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/datum-box/logo_256x256.png" alt="Datum Box Logo"/>
 </p>
 
 Unleash the power of Machine Learning by using the Powerful and Easy-to-Use API of Datumbox
@@ -10,6 +10,7 @@ Unleash the power of Machine Learning by using the Powerful and Easy-to-Use API 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

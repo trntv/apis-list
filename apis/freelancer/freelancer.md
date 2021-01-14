@@ -1,6 +1,6 @@
 # Freelancer
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/freelancer/logo_256x256.png" alt="Freelancer Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/freelancer/logo_256x256.png" alt="Freelancer Logo"/>
 </p>
 
 Hire in any profession you can think of using our API, on demand–developers, designers, photographers, copywriters, delivery people, manufacturers and more.  Task humans from software. Task humans from software
@@ -10,6 +10,7 @@ Hire in any profession you can think of using our API, on demand–developers, d
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ Get NASA data, including imagery, list of asteroids based on their closest appro
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

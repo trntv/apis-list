@@ -8,6 +8,7 @@ Let’s you enter your name and the name of your partner/lover/crush to find Lov
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

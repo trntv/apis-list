@@ -20,6 +20,7 @@ Localize your users, apply geographical restrictions to your website and increas
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

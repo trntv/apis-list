@@ -8,6 +8,7 @@ The GamerPower API (Aka Game Giveaway Tracker API) is available for everyone to 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Myjson
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/myjson/logo_256x256.png" alt="Myjson Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/myjson/logo_256x256.png" alt="Myjson Logo"/>
 </p>
 
 A simple JSON store for your web or mobile app
@@ -10,6 +10,7 @@ A simple JSON store for your web or mobile app
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

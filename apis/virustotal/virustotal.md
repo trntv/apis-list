@@ -8,6 +8,7 @@ The VirusTotal API lets you upload and scan files or URLs, access finished scan 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Australia
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/australia/logo_256x256.png" alt="Australia Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/australia/logo_256x256.png" alt="Australia Logo"/>
 </p>
 
 Central bank of Australia
@@ -10,6 +10,7 @@ Central bank of Australia
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

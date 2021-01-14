@@ -1,6 +1,6 @@
 # DeviantArt
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/deviantart/logo_256x256.png" alt="DeviantArt Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/deviantart/logo_256x256.png" alt="DeviantArt Logo"/>
 </p>
 
 The largest social networking website for artists and art enthusiasts.  Find out how applications and websites integrate with DeviantArt and get started with oAuth 2. 0
@@ -10,6 +10,7 @@ The largest social networking website for artists and art enthusiasts.  Find out
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

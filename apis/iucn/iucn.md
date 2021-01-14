@@ -8,6 +8,7 @@ The use of this API is strictly under the Terms of Use of the IUCN Red List of T
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

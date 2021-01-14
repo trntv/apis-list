@@ -8,6 +8,7 @@ A RESTful web service for timetable information for train stations operated by D
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

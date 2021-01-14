@@ -1,6 +1,6 @@
 # Portfolio Optimizer
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/portfolio-optimizer/logo_256x256.png" alt="Portfolio Optimizer Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/portfolio-optimizer/logo_256x256.png" alt="Portfolio Optimizer Logo"/>
 </p>
 
 API for investment portfolio optimization.  The science of portfolio optimization, available as a Web API
@@ -10,6 +10,7 @@ API for investment portfolio optimization.  The science of portfolio optimizatio
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

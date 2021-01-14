@@ -1,6 +1,6 @@
 # Restpack
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/restpack/logo_256x256.png" alt="Restpack Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/restpack/logo_256x256.png" alt="Restpack Logo"/>
 </p>
 
 Restpack is a company focused on building great restful microservices for developers and businesses. Restpack is a company focused on building great restful microservices for developers and businesses
@@ -10,6 +10,7 @@ Restpack is a company focused on building great restful microservices for develo
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

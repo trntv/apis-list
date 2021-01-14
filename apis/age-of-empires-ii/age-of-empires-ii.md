@@ -8,6 +8,7 @@ Simple API to retrieve resources related to Age of Empires II
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

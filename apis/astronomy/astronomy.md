@@ -8,6 +8,7 @@ Our Astronomy API provides timings for sunrise, sunset, moonrise, moonset, sun a
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

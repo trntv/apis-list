@@ -1,6 +1,6 @@
 # Wegmans
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wegmans/logo_256x256.png" alt="Wegmans Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wegmans/logo_256x256.png" alt="Wegmans Logo"/>
 </p>
 
 APIs for products and store information
@@ -10,6 +10,7 @@ APIs for products and store information
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

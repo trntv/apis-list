@@ -1,6 +1,6 @@
 # Shopping.Com API
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/shopping-com-api/logo_256x256.png" alt="Shopping.Com API Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/shopping-com-api/logo_256x256.png" alt="Shopping.Com API Logo"/>
 </p>
 
 Makes it easy to search for things on eBay
@@ -10,6 +10,7 @@ Makes it easy to search for things on eBay
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

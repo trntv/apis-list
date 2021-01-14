@@ -8,6 +8,7 @@ Madrid BUS transport API
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Ticketmaster
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ticketmaster/logo_256x256.png" alt="Ticketmaster Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ticketmaster/logo_256x256.png" alt="Ticketmaster Logo"/>
 </p>
 
 Everything you need to start playing with the Ticketmaster API. Everything you need to start playing with the Ticketmaster API
@@ -10,6 +10,7 @@ Everything you need to start playing with the Ticketmaster API. Everything you n
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

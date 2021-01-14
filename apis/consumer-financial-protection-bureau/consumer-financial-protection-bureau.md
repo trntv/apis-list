@@ -1,6 +1,6 @@
 # Consumer Financial Protection Bureau
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/consumer-financial-protection-bureau/logo_256x256.png" alt="Consumer Financial Protection Bureau Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/consumer-financial-protection-bureau/logo_256x256.png" alt="Consumer Financial Protection Bureau Logo"/>
 </p>
 
 Financial services consumer complaint data
@@ -10,6 +10,7 @@ Financial services consumer complaint data
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

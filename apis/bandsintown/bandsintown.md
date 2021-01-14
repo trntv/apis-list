@@ -8,6 +8,7 @@ Signup or login today.  Join thousands of developers who use SwaggerHub to build
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

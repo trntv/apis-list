@@ -8,6 +8,7 @@ wallhaven. cc help docs!. A huge wallpaper library
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ Our goal is to create a machine-readable Wikipedia for WEB APIs.  If you have an
 
 ## 🧬 Specification:
 **Type**: swagger
+
 **URI**: https://api.apis.guru/v2/swagger.json
 
 ## 💬 Discussion:

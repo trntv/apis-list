@@ -8,6 +8,7 @@ The Crypto monitor API provides bots that show savings in cryptocurrencies.  Bad
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

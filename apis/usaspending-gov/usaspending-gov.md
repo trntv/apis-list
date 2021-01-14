@@ -8,6 +8,7 @@ Announcement The USASpending API is in V2. V1 endpoints are currently Deprecated
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

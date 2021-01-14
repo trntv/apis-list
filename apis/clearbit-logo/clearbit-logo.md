@@ -1,6 +1,6 @@
 # Clearbit Logo
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/clearbit-logo/logo_256x256.png" alt="Clearbit Logo Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/clearbit-logo/logo_256x256.png" alt="Clearbit Logo Logo"/>
 </p>
 
 If you’re only interested in a Company’s logo, and don’t need any other data about the company, you can use our Logo API
@@ -10,6 +10,7 @@ If you’re only interested in a Company’s logo, and don’t need any other da
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

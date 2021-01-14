@@ -8,6 +8,7 @@ Avatars is an avatar placeholder library for designers and developers. You can c
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

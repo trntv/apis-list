@@ -8,6 +8,7 @@ Scrape websites and get their content as plaintext
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

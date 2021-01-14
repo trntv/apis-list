@@ -8,6 +8,7 @@ From the location of the bike stations to the availability of bikes and parking 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Stakdek's QR generator API
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/stakdeks-qr-generator-api/logo_256x256.png" alt="Stakdek's QR generator API Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/stakdeks-qr-generator-api/logo_256x256.png" alt="Stakdek's QR generator API Logo"/>
 </p>
 
 The QR-Code generator gets your data and generates a QR-Code
@@ -10,6 +10,7 @@ The QR-Code generator gets your data and generates a QR-Code
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

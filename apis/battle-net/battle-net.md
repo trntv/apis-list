@@ -8,6 +8,7 @@ Blizzard Entertainment
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

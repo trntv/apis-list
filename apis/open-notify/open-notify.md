@@ -8,6 +8,7 @@ API Examples Current ISS Location The International Space Station is moving at c
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

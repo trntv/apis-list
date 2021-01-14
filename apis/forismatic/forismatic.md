@@ -8,6 +8,7 @@ Gives you a random quote per click.
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

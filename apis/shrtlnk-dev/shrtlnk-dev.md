@@ -8,6 +8,7 @@ Add an application You can have as many applications as you would like, we don't
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

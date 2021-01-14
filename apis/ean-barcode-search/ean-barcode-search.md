@@ -8,6 +8,7 @@ EAN Barcode API Integrate our database into your app or website! Easily query ou
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

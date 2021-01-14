@@ -1,6 +1,6 @@
 # icanhazdadjoke
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/icanhazdadjoke/logo_256x256.png" alt="icanhazdadjoke Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/icanhazdadjoke/logo_256x256.png" alt="icanhazdadjoke Logo"/>
 </p>
 
 The largest collection of dad jokes on the internet. The largest collection of dad jokes on the internet
@@ -10,6 +10,7 @@ The largest collection of dad jokes on the internet. The largest collection of d
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ Get data about characters, episodes, quotes, and deaths
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

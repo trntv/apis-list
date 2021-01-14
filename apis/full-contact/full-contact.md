@@ -1,6 +1,6 @@
 # Full Contact
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/full-contact/logo_256x256.png" alt="Full Contact Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/full-contact/logo_256x256.png" alt="Full Contact Logo"/>
 </p>
 
 Build a clearer picture of your customers in minutes with our data-focused APIs.  Build a clearer picture of your customers in minutes with our data-focused APIs
@@ -10,6 +10,7 @@ Build a clearer picture of your customers in minutes with our data-focused APIs.
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

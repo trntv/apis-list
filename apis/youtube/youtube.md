@@ -8,6 +8,7 @@ Add YouTube functionality to your sites and apps.  Add YouTube functionality to 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

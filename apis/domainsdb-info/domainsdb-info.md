@@ -8,6 +8,7 @@ Registered domain names search checks the lists of registered domains for names 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

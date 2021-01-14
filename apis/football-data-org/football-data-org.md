@@ -1,6 +1,6 @@
 # Football-Data.org
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/football-data-org/logo_256x256.png" alt="Football-Data.org Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/football-data-org/logo_256x256.png" alt="Football-Data.org Logo"/>
 </p>
 
 A restful API for football data.  A restful API for football data
@@ -10,6 +10,7 @@ A restful API for football data.  A restful API for football data
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ You can embed Hebcal. com content directly onto your synagogue website with our.
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

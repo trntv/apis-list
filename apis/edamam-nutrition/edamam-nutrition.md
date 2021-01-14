@@ -8,6 +8,7 @@ API developer portal for Nutrition Analysis, Food Database Lookup, Recipe Search
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

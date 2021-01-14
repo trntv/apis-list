@@ -8,6 +8,7 @@ Specializes more in electronic dance music genres such as hardstyle. You see thi
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

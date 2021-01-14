@@ -8,6 +8,7 @@ Home You may also enjoy the interactive interface provided for this API by Swagg
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

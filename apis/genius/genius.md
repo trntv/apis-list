@@ -1,6 +1,6 @@
 # Genius
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/genius/logo_256x256.png" alt="Genius Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/genius/logo_256x256.png" alt="Genius Logo"/>
 </p>
 
 Allows users to find details about Genius artists and songs. Use our API and help build the world's greatest public knowledge project since Wikipedia
@@ -10,6 +10,7 @@ Allows users to find details about Genius artists and songs. Use our API and hel
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

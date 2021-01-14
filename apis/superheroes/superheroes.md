@@ -8,6 +8,7 @@ From both the universe, and more. Biography. Powerstats. Connections.  Images.  
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

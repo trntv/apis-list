@@ -1,6 +1,6 @@
 # Openwhyd
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/openwhyd/logo_256x256.png" alt="Openwhyd Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/openwhyd/logo_256x256.png" alt="Openwhyd Logo"/>
 </p>
 
 💎 Like Pinterest, for Music
@@ -10,6 +10,7 @@
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

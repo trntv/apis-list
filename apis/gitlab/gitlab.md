@@ -1,6 +1,6 @@
 # GitLab
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/gitlab/logo_256x256.png" alt="GitLab Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/gitlab/logo_256x256.png" alt="GitLab Logo"/>
 </p>
 
 Access to GitLab's API.  Documentation for GitLab Community Edition, GitLab Enterprise Edition, Omnibus GitLab, and GitLab Runner
@@ -10,6 +10,7 @@ Access to GitLab's API.  Documentation for GitLab Community Edition, GitLab Ente
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

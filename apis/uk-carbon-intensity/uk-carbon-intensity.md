@@ -8,6 +8,7 @@ Carbon Intensity API Great Britain Scroll down for code samples and responses. C
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

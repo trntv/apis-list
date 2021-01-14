@@ -8,6 +8,7 @@ Get information about countries via a RESTful API. Get information about countri
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

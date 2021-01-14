@@ -8,6 +8,7 @@ Access demographic, economic and population data from the U.S. Census Bureau. Ex
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

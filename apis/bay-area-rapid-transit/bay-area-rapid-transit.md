@@ -8,6 +8,7 @@ BART API The BART API gives you access to pretty much all of the BART service an
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

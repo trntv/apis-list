@@ -8,6 +8,7 @@ The Autopilot API documentation, examples and blog for Autopilot REST API. Marke
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

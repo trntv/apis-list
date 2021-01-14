@@ -8,6 +8,7 @@ Hosted API documentation for every OAS (Swagger) and RAML spec out there. Powere
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

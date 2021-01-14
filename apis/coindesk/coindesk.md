@@ -1,6 +1,6 @@
 # CoinDesk
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/coindesk/logo_256x256.png" alt="CoinDesk Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/coindesk/logo_256x256.png" alt="CoinDesk Logo"/>
 </p>
 
 Bitcoin Price Index. CoinDesk provides a simple and free API to make its Bitcoin Price Index (BPI) data programmatically available to others.  Find out how to use it here
@@ -10,6 +10,7 @@ Bitcoin Price Index. CoinDesk provides a simple and free API to make its Bitcoin
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

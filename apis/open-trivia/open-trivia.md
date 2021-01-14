@@ -8,6 +8,7 @@ Free to use, user-contributed trivia questions!
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

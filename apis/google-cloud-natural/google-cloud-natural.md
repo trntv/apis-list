@@ -1,6 +1,6 @@
 # Google Cloud Natural
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-cloud-natural/logo_256x256.png" alt="Google Cloud Natural Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-cloud-natural/logo_256x256.png" alt="Google Cloud Natural Logo"/>
 </p>
 
 Enables easy integration of Google natural language understanding technologies into developer applications. Enables easy integration of Google natural language understanding technologies into developer applications
@@ -10,6 +10,7 @@ Enables easy integration of Google natural language understanding technologies i
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

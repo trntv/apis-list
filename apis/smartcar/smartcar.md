@@ -1,6 +1,6 @@
 # Smartcar
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/smartcar/logo_256x256.png" alt="Smartcar Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/smartcar/logo_256x256.png" alt="Smartcar Logo"/>
 </p>
 
 Build web and mobile apps that communicate with vehicles
@@ -10,6 +10,7 @@ Build web and mobile apps that communicate with vehicles
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

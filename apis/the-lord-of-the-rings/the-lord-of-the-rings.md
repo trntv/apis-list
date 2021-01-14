@@ -8,6 +8,7 @@ The Lord of the Rings API - The one API
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

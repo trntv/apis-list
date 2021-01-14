@@ -8,6 +8,7 @@ Resources from Studio Ghibli films
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

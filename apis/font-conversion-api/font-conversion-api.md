@@ -8,6 +8,7 @@ Font format conversion REST API. Fonts API - Subscription
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

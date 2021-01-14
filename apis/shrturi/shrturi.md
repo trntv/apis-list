@@ -8,6 +8,7 @@ API Documentation This is version 3 of the shrturi. com API. It follows common R
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Xyz Menus
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/xyz-menus/logo_256x256.png" alt="Xyz Menus Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/xyz-menus/logo_256x256.png" alt="Xyz Menus Logo"/>
 </p>
 
 XYZ Menus API provides access to a Database of over 350,000 Restaurant Menus with over 30,000,000 individual menu items
@@ -10,6 +10,7 @@ XYZ Menus API provides access to a Database of over 350,000 Restaurant Menus wit
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

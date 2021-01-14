@@ -1,6 +1,6 @@
 # Scrape Website Email
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/scrape-website-email/logo_256x256.png" alt="Scrape Website Email Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/scrape-website-email/logo_256x256.png" alt="Scrape Website Email Logo"/>
 </p>
 
 Grabs email addresses from a URL
@@ -10,6 +10,7 @@ Grabs email addresses from a URL
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

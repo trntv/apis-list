@@ -8,6 +8,7 @@ Article search, best sellers, campaign finance, community, most popular, real es
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # DialogFlow
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/dialogflow/logo_256x256.png" alt="DialogFlow Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/dialogflow/logo_256x256.png" alt="DialogFlow Logo"/>
 </p>
 
 Natural Language Interactions for Bots, Applications, Services, and Devices.  Virtual agents for bots, applications, services, and devices
@@ -10,6 +10,7 @@ Natural Language Interactions for Bots, Applications, Services, and Devices.  Vi
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

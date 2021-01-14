@@ -8,6 +8,7 @@ Generate audio versions of your articles. Create realistic voice overs for blogs
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

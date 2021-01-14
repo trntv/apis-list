@@ -1,6 +1,6 @@
 # Russian Central Bank
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/russian-federation/logo_256x256.png" alt="Russian Central Bank Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/russian-federation/logo_256x256.png" alt="Russian Central Bank Logo"/>
 </p>
 
 Central bank of Russian Federation
@@ -10,6 +10,7 @@ Central bank of Russian Federation
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

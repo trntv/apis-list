@@ -1,6 +1,6 @@
 # LocationIQ
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/locationiq/logo_256x256.png" alt="LocationIQ Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/locationiq/logo_256x256.png" alt="LocationIQ Logo"/>
 </p>
 
 Generous free tier, offering Enterprise-grade APIs for everyone!. Affordable Geocoding, Maps and Routing APIs
@@ -10,6 +10,7 @@ Generous free tier, offering Enterprise-grade APIs for everyone!. Affordable Geo
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

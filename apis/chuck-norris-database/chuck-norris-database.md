@@ -8,6 +8,7 @@ API for online Chuck Norris jokes database
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

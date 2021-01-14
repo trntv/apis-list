@@ -8,6 +8,7 @@ This food API is free to use and can get you recipes, food details, food names ,
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ It covers inventory and database, carts and checkout, payments, user authenticat
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

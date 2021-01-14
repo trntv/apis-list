@@ -1,6 +1,6 @@
 # Cricket Live Scores
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cricket-live-scores/logo_256x256.png" alt="Cricket Live Scores Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cricket-live-scores/logo_256x256.png" alt="Cricket Live Scores Logo"/>
 </p>
 
 Live cricket scores
@@ -10,6 +10,7 @@ Live cricket scores
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

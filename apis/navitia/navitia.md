@@ -8,6 +8,7 @@ The open API for building cool stuff with transport data
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

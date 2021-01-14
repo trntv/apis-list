@@ -8,6 +8,7 @@ Provide the League of Legends developer community with access to game data in a 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Transport for Berlin, Germany
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-berlin-germany/logo_256x256.png" alt="Transport for Berlin, Germany Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-berlin-germany/logo_256x256.png" alt="Transport for Berlin, Germany Logo"/>
 </p>
 
 - derhuerst/vbb-rest.  An HTTP API for Berlin & Brandenburg public transport. An HTTP API for Berlin & Brandenburg public transport
@@ -10,6 +10,7 @@
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

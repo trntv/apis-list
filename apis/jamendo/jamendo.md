@@ -8,6 +8,7 @@ Jamendo Api Documentation.  Jamendo Api Documentation
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

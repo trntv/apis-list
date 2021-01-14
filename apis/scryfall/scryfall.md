@@ -1,6 +1,6 @@
 # Scryfall
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/scryfall/logo_256x256.png" alt="Scryfall Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/scryfall/logo_256x256.png" alt="Scryfall Logo"/>
 </p>
 
 Scryfall is a powerful Magic: The Gathering card search
@@ -10,6 +10,7 @@ Scryfall is a powerful Magic: The Gathering card search
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ Free JSON data storage service, ideal for small scale web apps, website, mobile 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

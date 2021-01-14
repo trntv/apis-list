@@ -1,6 +1,6 @@
 # Ably
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ably/logo_256x256.png" alt="Ably Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ably/logo_256x256.png" alt="Ably Logo"/>
 </p>
 
 API for making cross-protocol realtime communication between devices easy.  Ably documentation for 40+ web, mobile, and IoT SDKs, quickstart guides and tutorials, and realtime concepts and design patterns
@@ -10,6 +10,7 @@ API for making cross-protocol realtime communication between devices easy.  Ably
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

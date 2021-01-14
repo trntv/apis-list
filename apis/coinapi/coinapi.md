@@ -9,6 +9,7 @@ and unified data APIs to cryptocurrency markets. All cryptocurrency exchanges in
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

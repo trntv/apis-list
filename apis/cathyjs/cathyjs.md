@@ -1,6 +1,6 @@
 # Cathyjs
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cathyjs/logo_256x256.png" alt="Cathyjs Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cathyjs/logo_256x256.png" alt="Cathyjs Logo"/>
 </p>
 
 It is mainly created for discord bots. . A chatbot api which is completely free
@@ -10,6 +10,7 @@ It is mainly created for discord bots. . A chatbot api which is completely free
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

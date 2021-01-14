@@ -8,6 +8,7 @@ Free and open source REST API that provides a simple yet effective way to valida
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

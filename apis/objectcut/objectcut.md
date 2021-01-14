@@ -1,6 +1,6 @@
 # ObjectCut
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/objectcut/logo_256x256.png" alt="ObjectCut Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/objectcut/logo_256x256.png" alt="ObjectCut Logo"/>
 </p>
 
 Automatic background removal real-time service powered by AI. Automatic background removal service powered by AI.  From an input image given its public-accessible URL or being the image itself, ObjectCut returns the same image but without background
@@ -10,6 +10,7 @@ Automatic background removal real-time service powered by AI. Automatic backgrou
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

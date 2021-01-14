@@ -1,6 +1,6 @@
 # Plaid
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/plaid/logo_256x256.png" alt="Plaid Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/plaid/logo_256x256.png" alt="Plaid Logo"/>
 </p>
 
 Plaid helps companies build fintech solutions by making it easy, safe and reliable for people to connect their financial data to apps and services. You&apos;ve reached this page unjustly"
@@ -10,6 +10,7 @@ Plaid helps companies build fintech solutions by making it easy, safe and reliab
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

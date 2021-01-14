@@ -1,6 +1,6 @@
 # Whitepages Pro
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/whitepages-pro/logo_256x256.png" alt="Whitepages Pro Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/whitepages-pro/logo_256x256.png" alt="Whitepages Pro Logo"/>
 </p>
 
 Global Identity Verification API. Get a clearer picture of your customer.  Instantly know if a name, address, phone number, email, and IP all belong to the same person
@@ -10,6 +10,7 @@ Global Identity Verification API. Get a clearer picture of your customer.  Insta
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

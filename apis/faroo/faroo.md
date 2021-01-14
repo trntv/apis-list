@@ -1,6 +1,6 @@
 # Faroo
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/faroo/logo_256x256.png" alt="Faroo Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/faroo/logo_256x256.png" alt="Faroo Logo"/>
 </p>
 
 Alternative to Google Web Search API / Google News Search API, allows you to search news within dates, fetch trending news, topics and terms. SeekStorm - Search as a Service: Affordable, high performance search & crawling
@@ -10,6 +10,7 @@ Alternative to Google Web Search API / Google News Search API, allows you to sea
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

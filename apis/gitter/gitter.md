@@ -8,6 +8,7 @@ Welcome Please note this is an early release of our API and should be considered
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

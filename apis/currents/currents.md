@@ -1,6 +1,6 @@
 # Currents
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/currents/logo_256x256.png" alt="Currents Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/currents/logo_256x256.png" alt="Currents Logo"/>
 </p>
 
 Currents - Capture the world news through simple json News API. Currents - Capture the world news through simple json News API
@@ -10,6 +10,7 @@ Currents - Capture the world news through simple json News API. Currents - Captu
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

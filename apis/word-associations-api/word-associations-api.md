@@ -1,6 +1,6 @@
 # Word Associations API
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/word-associations-api/logo_256x256.png" alt="Word Associations API Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/word-associations-api/logo_256x256.png" alt="Word Associations API Logo"/>
 </p>
 
 Provides service to get associations for a word or phrase. Words are grouped by semantics, meaning, and psychological perception.  Word Association API - Word Associations Network
@@ -10,6 +10,7 @@ Provides service to get associations for a word or phrase. Words are grouped by 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ Build blockchain applications easily with our web APIs and callbacks. High throu
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

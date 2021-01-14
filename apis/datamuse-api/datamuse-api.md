@@ -8,6 +8,7 @@ You can use it in your apps to find words that match a given set o. Word-finding
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

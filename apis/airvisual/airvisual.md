@@ -1,6 +1,6 @@
 # AirVisual
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/airvisual/logo_256x256.png" alt="AirVisual Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/airvisual/logo_256x256.png" alt="AirVisual Logo"/>
 </p>
 
 Enhance your projects with free trusted historical, real-time and forecast air quality data. Air pollution and weather data for more than 60 countries worldwide
@@ -10,6 +10,7 @@ Enhance your projects with free trusted historical, real-time and forecast air q
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

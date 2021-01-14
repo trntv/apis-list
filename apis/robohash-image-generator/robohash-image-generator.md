@@ -1,6 +1,6 @@
 # Robohash Image Generator
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/robohash-image-generator/logo_256x256.png" alt="Robohash Image Generator Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/robohash-image-generator/logo_256x256.png" alt="Robohash Image Generator Logo"/>
 </p>
 
 Generates cool looking robot image for any text
@@ -10,6 +10,7 @@ Generates cool looking robot image for any text
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

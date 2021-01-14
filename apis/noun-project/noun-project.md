@@ -8,6 +8,7 @@ Grab a hold of the World’s Visual Language! Use it in your service or applicat
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

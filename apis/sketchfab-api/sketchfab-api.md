@@ -8,6 +8,7 @@ Manage your 3D assets. Distribute 3D & AR experiences. Collaborate with others. 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

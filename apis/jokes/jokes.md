@@ -8,6 +8,7 @@ Full featured Jokes API
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

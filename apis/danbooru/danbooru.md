@@ -8,6 +8,7 @@ Get images cartegorized by tags.
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

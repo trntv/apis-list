@@ -1,6 +1,6 @@
 # Face++
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/face/logo_256x256.png" alt="Face++ Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/face/logo_256x256.png" alt="Face++ Logo"/>
 </p>
 
 Let’s you detect the information of a given photo (face location, age, race, gender etc.)
@@ -10,6 +10,7 @@ Let’s you detect the information of a given photo (face location, age, race, g
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

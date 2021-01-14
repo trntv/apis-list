@@ -8,6 +8,7 @@ Use the links below to find out more about constructing request URLs, different 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ The Bitly API Bitly is the most widely trusted link management platform in the w
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

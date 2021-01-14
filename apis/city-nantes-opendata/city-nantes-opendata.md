@@ -8,6 +8,7 @@ Données publiques ouvertes (Open data) mises à disposition par la Ville de Nan
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

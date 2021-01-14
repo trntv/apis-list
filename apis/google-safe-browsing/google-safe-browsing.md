@@ -1,6 +1,6 @@
 # Google Safe Browsing
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-safe-browsing/logo_256x256.png" alt="Google Safe Browsing Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-safe-browsing/logo_256x256.png" alt="Google Safe Browsing Logo"/>
 </p>
 
 APIs to access the Google Safe Browsing lists of unsafe web resources. APIs to access the Google Safe Browsing lists of unsafe web resources
@@ -10,6 +10,7 @@ APIs to access the Google Safe Browsing lists of unsafe web resources. APIs to a
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

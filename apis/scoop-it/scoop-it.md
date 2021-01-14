@@ -1,6 +1,6 @@
 # Scoop.it
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/scoop-it/logo_256x256.png" alt="Scoop.it Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/scoop-it/logo_256x256.png" alt="Scoop.it Logo"/>
 </p>
 
 Scoop. it enables professionals and businesses to research and publish content through its content curation tool
@@ -10,6 +10,7 @@ Scoop. it enables professionals and businesses to research and publish content t
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

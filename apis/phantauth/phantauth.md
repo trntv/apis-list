@@ -1,6 +1,6 @@
 # PhantAuth
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/phantauth/logo_256x256.png" alt="PhantAuth Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/phantauth/logo_256x256.png" alt="PhantAuth Logo"/>
 </p>
 
 Random User Generator + OpenID Connect Provider.  Like Lorem Ipsum, but for user accounts and authentication
@@ -10,6 +10,7 @@ Random User Generator + OpenID Connect Provider.  Like Lorem Ipsum, but for user
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # NaMoMemes
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/namomemes/logo_256x256.png" alt="NaMoMemes Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/namomemes/logo_256x256.png" alt="NaMoMemes Logo"/>
 </p>
 
 Is a description required ? Hail NaMo ! Contribute to theIYD/NaMoMemes development by creating an account on GitHub
@@ -10,6 +10,7 @@ Is a description required ? Hail NaMo ! Contribute to theIYD/NaMoMemes developme
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

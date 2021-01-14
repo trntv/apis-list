@@ -8,6 +8,7 @@ A comprehensive resource of dictionary and thesaurus data powered by Merriam-Web
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

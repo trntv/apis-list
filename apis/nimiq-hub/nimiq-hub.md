@@ -10,6 +10,7 @@ To get direct support from the Nimiq Team and the community, join our social cha
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

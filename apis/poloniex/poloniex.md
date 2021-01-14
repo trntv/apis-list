@@ -8,6 +8,7 @@ US based digital asset exchange
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

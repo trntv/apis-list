@@ -1,6 +1,6 @@
 # Google Classroom API
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-classroom-api/logo_256x256.png" alt="Google Classroom API Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-classroom-api/logo_256x256.png" alt="Google Classroom API Logo"/>
 </p>
 
 Provision and manage your Classroom courses
@@ -10,6 +10,7 @@ Provision and manage your Classroom courses
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

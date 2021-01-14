@@ -8,6 +8,7 @@ Random image of a fox
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

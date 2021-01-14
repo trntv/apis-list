@@ -8,6 +8,7 @@ Information on campaign donations in federal elections
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

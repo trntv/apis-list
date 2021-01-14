@@ -1,6 +1,6 @@
 # Untappd
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/untappd/logo_256x256.png" alt="Untappd Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/untappd/logo_256x256.png" alt="Untappd Logo"/>
 </p>
 
 Access the Untappd API documentation to power your app or project. . Untappd is a mobile web app that allows you to socially share beers that you're enjoying
@@ -10,6 +10,7 @@ Access the Untappd API documentation to power your app or project. . Untappd is 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

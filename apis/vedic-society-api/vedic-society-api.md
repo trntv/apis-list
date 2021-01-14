@@ -8,6 +8,7 @@ A description of all of the nouns in vedic literature, including the flora, faun
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

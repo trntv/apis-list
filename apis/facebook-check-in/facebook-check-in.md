@@ -8,6 +8,7 @@ A check-in made to a location-based Page
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

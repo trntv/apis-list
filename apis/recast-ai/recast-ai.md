@@ -1,6 +1,6 @@
 # Recast.AI
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/recast-ai/logo_256x256.png" alt="Recast.AI Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/recast-ai/logo_256x256.png" alt="Recast.AI Logo"/>
 </p>
 
 Collaborative chatbot software. Recast.AI provides an NLP API for text analysis and entity extraction. The leading platform to build, connect and monitor bots
@@ -10,6 +10,7 @@ Collaborative chatbot software. Recast.AI provides an NLP API for text analysis 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

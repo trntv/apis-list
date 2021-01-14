@@ -8,6 +8,7 @@ ANN provides a direct feed to the Encyclopedia data in XML format
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

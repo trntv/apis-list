@@ -1,6 +1,6 @@
 # Exchange Rates API
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/exchange-rates-api/logo_256x256.png" alt="Exchange Rates API Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/exchange-rates-api/logo_256x256.png" alt="Exchange Rates API Logo"/>
 </p>
 
 com is the most popular place to securely buy, store, and trade Bitcoin, Ethereum, and other top cryptocurrencies. Market Prices and exchanges rates api. Blockchain
@@ -10,6 +10,7 @@ com is the most popular place to securely buy, store, and trade Bitcoin, Ethereu
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

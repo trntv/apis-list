@@ -8,6 +8,7 @@ Language Understanding Intelligent Service offers a fast and effective way of ad
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

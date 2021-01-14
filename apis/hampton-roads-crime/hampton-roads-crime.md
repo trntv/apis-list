@@ -1,6 +1,6 @@
 # Hampton Roads Crime
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/hampton-roads-crime/logo_256x256.png" alt="Hampton Roads Crime Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/hampton-roads-crime/logo_256x256.png" alt="Hampton Roads Crime Logo"/>
 </p>
 
 Let’s you get most recent and historical crime data so you feel safe in your neighbourhood
@@ -10,6 +10,7 @@ Let’s you get most recent and historical crime data so you feel safe in your n
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

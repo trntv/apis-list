@@ -8,6 +8,7 @@ Introduction This documentation covers the main API (the so-called REST API).  T
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

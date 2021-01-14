@@ -8,6 +8,7 @@ Please refer to the documentation on the GBIF website. If you arrived here unexp
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

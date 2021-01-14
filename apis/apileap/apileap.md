@@ -8,6 +8,7 @@ Make screenshots from web pages and HTML
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

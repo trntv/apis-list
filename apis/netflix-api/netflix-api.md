@@ -8,6 +8,7 @@ The service that handles the (sign-up, discovery and playback) traffic from all 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

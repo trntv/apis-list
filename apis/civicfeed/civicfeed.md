@@ -1,6 +1,6 @@
 # CivicFeed
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/civicfeed/logo_256x256.png" alt="CivicFeed Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/civicfeed/logo_256x256.png" alt="CivicFeed Logo"/>
 </p>
 
 Get online news, blogs, social and TV/radio through a JSON API - easy integration for developers
@@ -10,6 +10,7 @@ Get online news, blogs, social and TV/radio through a JSON API - easy integratio
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

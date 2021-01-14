@@ -8,6 +8,7 @@ Official API for reed.co.uk jobs website
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

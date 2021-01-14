@@ -1,6 +1,6 @@
 # Game of Thrones Quotes
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/game-of-thrones-quotes/logo_256x256.png" alt="Game of Thrones Quotes Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/game-of-thrones-quotes/logo_256x256.png" alt="Game of Thrones Quotes Logo"/>
 </p>
 
 A free API to retrieve some quotes of Game of Thrones!
@@ -10,6 +10,7 @@ A free API to retrieve some quotes of Game of Thrones!
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

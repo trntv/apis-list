@@ -1,6 +1,6 @@
 # Clust
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/clust/logo_256x256.png" alt="Clust Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/clust/logo_256x256.png" alt="Clust Logo"/>
 </p>
 
 The best way to gather anyone’s documents, directly from your app & without hassle. Offer the best online onboarding experience, document collection and approval workflows to your clients and partners (eSignature included)
@@ -10,6 +10,7 @@ The best way to gather anyone’s documents, directly from your app & without ha
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

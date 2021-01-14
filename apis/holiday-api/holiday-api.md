@@ -8,6 +8,7 @@ Start developing for free. Public holiday API service for several supported coun
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

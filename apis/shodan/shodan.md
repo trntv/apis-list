@@ -8,6 +8,7 @@ To ge. API-First Development The Shodan website, including Shodan Images and Sho
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

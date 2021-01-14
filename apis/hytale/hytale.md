@@ -8,6 +8,7 @@ js and Java.  Quickly use official Hytale API in your projects. . Quickly use of
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

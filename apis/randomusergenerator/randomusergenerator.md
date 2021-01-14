@@ -8,6 +8,7 @@ Random user generator is a FREE API for generating placeholder user information.
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

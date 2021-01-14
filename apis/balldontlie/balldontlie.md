@@ -8,6 +8,7 @@ Introduction Welcome to the balldontlie API! You can use our free API to access 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

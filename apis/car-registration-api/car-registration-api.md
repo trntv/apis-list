@@ -8,6 +8,7 @@ Get the Make, Model, Insurer, VIN and 50 other data fields from an Australian nu
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

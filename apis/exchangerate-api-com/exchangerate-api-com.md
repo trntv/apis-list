@@ -8,6 +8,7 @@ Accurate & reliable Exchange Rates API trusted by tens of thousands of developer
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

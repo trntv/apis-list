@@ -8,6 +8,7 @@ Complete reference documentation for the Stripe API. Includes representative cod
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

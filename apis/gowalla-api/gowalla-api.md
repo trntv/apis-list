@@ -1,6 +1,6 @@
 # Gowalla API
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/gowalla-api/logo_256x256.png" alt="Gowalla API Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/gowalla-api/logo_256x256.png" alt="Gowalla API Logo"/>
 </p>
 
 Gather and compare all kinds of interesting data, they weren't really interactive with Gowalla itself
@@ -10,6 +10,7 @@ Gather and compare all kinds of interesting data, they weren't really interactiv
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

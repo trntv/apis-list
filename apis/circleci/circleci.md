@@ -8,6 +8,7 @@ CircleCI V1 API Overview The CircleCI API is a full-featured RESTful API that al
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

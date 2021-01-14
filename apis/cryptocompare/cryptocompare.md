@@ -1,6 +1,6 @@
 # CryptoCompare
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cryptocompare/logo_256x256.png" alt="CryptoCompare Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cryptocompare/logo_256x256.png" alt="CryptoCompare Logo"/>
 </p>
 
 Cryptocurrencies Comparison. Free cryptocurrency data APIs. Get high-quality historical & real-time trade, order book and volume data through market-leading REST & WebSocket APIs
@@ -10,6 +10,7 @@ Cryptocurrencies Comparison. Free cryptocurrency data APIs. Get high-quality his
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

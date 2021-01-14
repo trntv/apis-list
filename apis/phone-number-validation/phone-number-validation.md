@@ -8,6 +8,7 @@ Check phone number validity, location and timezones
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

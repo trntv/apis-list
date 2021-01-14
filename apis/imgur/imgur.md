@@ -1,6 +1,6 @@
 # Imgur
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/imgur/logo_256x256.png" alt="Imgur Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/imgur/logo_256x256.png" alt="Imgur Logo"/>
 </p>
 
 Imgur: The magic of the Internet. Imgur's API exposes the entire Imgur infrastructure via a standardized programmatic interface
@@ -10,6 +10,7 @@ Imgur: The magic of the Internet. Imgur's API exposes the entire Imgur infrastru
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

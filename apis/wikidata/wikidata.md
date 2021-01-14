@@ -1,6 +1,6 @@
 # Wikidata
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wikidata/logo_256x256.png" alt="Wikidata Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wikidata/logo_256x256.png" alt="Wikidata Logo"/>
 </p>
 
 This is an auto-generated MediaWiki API documentation page. Documentation and examples: https://www. mediawiki. org/wiki/Special:MyLanguage/API:Main_page Main module Status: The MediaWiki API is a ma. .  This is an auto-generated MediaWiki API documentation page
@@ -10,6 +10,7 @@ This is an auto-generated MediaWiki API documentation page. Documentation and ex
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

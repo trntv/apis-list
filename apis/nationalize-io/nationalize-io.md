@@ -8,6 +8,7 @@ Free API to check and predict the nationality of a name.  Free API to check and 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

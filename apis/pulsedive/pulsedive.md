@@ -1,6 +1,6 @@
 # Pulsedive
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pulsedive/logo_256x256.png" alt="Pulsedive Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pulsedive/logo_256x256.png" alt="Pulsedive Logo"/>
 </p>
 
 Pulsedive is a free threat intelligence platform. Search, scan, and enrich IPs, URLs, domains and other IOCs from OSINT feeds or submit your own
@@ -10,6 +10,7 @@ Pulsedive is a free threat intelligence platform. Search, scan, and enrich IPs, 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # BusinessUSA
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/businessusa/logo_256x256.png" alt="BusinessUSA Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/businessusa/logo_256x256.png" alt="BusinessUSA Logo"/>
 </p>
 
 Software developers and researchers can use these APIs and data feeds to help people find useful government information
@@ -10,6 +10,7 @@ Software developers and researchers can use these APIs and data feeds to help pe
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

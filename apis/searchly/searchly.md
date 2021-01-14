@@ -1,6 +1,6 @@
 # SearchLy
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/searchly/logo_256x256.png" alt="SearchLy Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/searchly/logo_256x256.png" alt="SearchLy Logo"/>
 </p>
 
 Contribute to AlbertSuarez/searchly development by creating an account on GitHub. 🎶 Song similarity search API based on lyrics
@@ -10,6 +10,7 @@ Contribute to AlbertSuarez/searchly development by creating an account on GitHub
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

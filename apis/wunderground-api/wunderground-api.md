@@ -8,6 +8,7 @@ Reliable data, accurate forecast, & global coverage in 80 languages
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

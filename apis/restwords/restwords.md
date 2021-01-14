@@ -8,6 +8,7 @@ You can GET to retrieve your text and you can POST to change your stored text.  
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

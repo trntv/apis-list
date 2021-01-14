@@ -8,6 +8,7 @@ A consensus driven API for national, federal and public holidays servicing over 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

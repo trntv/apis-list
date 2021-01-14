@@ -1,6 +1,6 @@
 # Climacell Micro Weather
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/climacell-micro-weather/logo_256x256.png" alt="Climacell Micro Weather Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/climacell-micro-weather/logo_256x256.png" alt="Climacell Micro Weather Logo"/>
 </p>
 
 Historical, real-time and nowcast weather data.
@@ -10,6 +10,7 @@ Historical, real-time and nowcast weather data.
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

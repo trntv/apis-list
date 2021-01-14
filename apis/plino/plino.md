@@ -8,6 +8,7 @@ Plino - A responsive spam filtering system - Tasdik Rahman.  Plino - A responsiv
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

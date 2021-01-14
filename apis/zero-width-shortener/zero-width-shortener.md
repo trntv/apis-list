@@ -1,6 +1,6 @@
 # Zero Width Shortener
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/zero-width-shortener/logo_256x256.png" alt="Zero Width Shortener Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/zero-width-shortener/logo_256x256.png" alt="Zero Width Shortener Logo"/>
 </p>
 
 Shorten URLs with invisible spaces. URL shortener that shortens URLs using spaces that have zero width, making them invisible to humans
@@ -10,6 +10,7 @@ Shorten URLs with invisible spaces. URL shortener that shortens URLs using space
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

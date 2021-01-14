@@ -1,6 +1,6 @@
 # Canada
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/canada/logo_256x256.png" alt="Canada Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/canada/logo_256x256.png" alt="Canada Logo"/>
 </p>
 
 Central bank of Canada
@@ -10,6 +10,7 @@ Central bank of Canada
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

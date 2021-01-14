@@ -8,6 +8,7 @@ io.  Document, mock, test, and more, with the StopLight API Designer. Hosted API
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

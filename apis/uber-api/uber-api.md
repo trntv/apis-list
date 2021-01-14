@@ -1,6 +1,6 @@
 # Uber API
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/uber-api/logo_256x256.png" alt="Uber API Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/uber-api/logo_256x256.png" alt="Uber API Logo"/>
 </p>
 
 API to request Uber rides.  Discover how the Uber API can easily enhance your app’s user experience and take your innovation further with a wide range of new capabilities
@@ -10,6 +10,7 @@ API to request Uber rides.  Discover how the Uber API can easily enhance your ap
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

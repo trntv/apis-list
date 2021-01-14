@@ -8,6 +8,7 @@ ParallelDots AI APIs are the most comprehensive set of document classification a
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

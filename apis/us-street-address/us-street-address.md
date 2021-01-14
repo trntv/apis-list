@@ -1,6 +1,6 @@
 # US Street Address
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/us-street-address/logo_256x256.png" alt="US Street Address Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/us-street-address/logo_256x256.png" alt="US Street Address Logo"/>
 </p>
 
 How to verify one or more addresses using the SmartyStreets US Street Address API. How to verify one or more addresses using the SmartyStreets US Street Address API
@@ -10,6 +10,7 @@ How to verify one or more addresses using the SmartyStreets US Street Address AP
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

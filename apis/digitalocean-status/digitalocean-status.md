@@ -8,6 +8,7 @@ In order to keep DigitalOcean bot-free, please complete this security check Plea
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

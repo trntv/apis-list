@@ -1,6 +1,6 @@
 # SMMRY
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/smmry/logo_256x256.png" alt="SMMRY Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/smmry/logo_256x256.png" alt="SMMRY Logo"/>
 </p>
 
 Summarize articles, text, websites, essays and documents for free with SMMRY. Summarize articles, text, websites, essays and PDF documents online for free with SMMRY
@@ -10,6 +10,7 @@ Summarize articles, text, websites, essays and documents for free with SMMRY. Su
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

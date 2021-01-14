@@ -8,6 +8,7 @@ National Bank of Ukraine
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

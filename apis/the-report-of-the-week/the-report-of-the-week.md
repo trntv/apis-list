@@ -1,6 +1,6 @@
 # The Report of the Week
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/the-report-of-the-week/logo_256x256.png" alt="The Report of the Week Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/the-report-of-the-week/logo_256x256.png" alt="The Report of the Week Logo"/>
 </p>
 
 API of The Report Of The Week Reviews.  Contribute to andyklimczak/TheReportOfTheWeek-API development by creating an account on GitHub.  API of The Report Of The Week Reviews
@@ -10,6 +10,7 @@ API of The Report Of The Week Reviews.  Contribute to andyklimczak/TheReportOfTh
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # FakeJSON
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/fakejson/logo_256x256.png" alt="FakeJSON Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/fakejson/logo_256x256.png" alt="FakeJSON Logo"/>
 </p>
 
 Easily create custom HTTP resources complete with fake data.  fakeJSON's API scales with your development needs, helping you test and develop more efficiently.  Mock an entire backend with minimal coding. Mock an entire backend with minimal coding
@@ -10,6 +10,7 @@ Easily create custom HTTP resources complete with fake data.  fakeJSON's API sca
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

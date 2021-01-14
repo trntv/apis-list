@@ -8,6 +8,7 @@ Discover open source libraries, modules and frameworks you can use in your code.
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

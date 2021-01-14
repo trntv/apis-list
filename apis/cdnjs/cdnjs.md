@@ -8,6 +8,7 @@ cloudflare. com/ajax/libs/jquery/3. 1/jquery. js","sri":"sha512-bLT0Qm9VnAYZDfly
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

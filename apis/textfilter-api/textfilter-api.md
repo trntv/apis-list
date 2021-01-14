@@ -1,6 +1,6 @@
 # Textfilter Api
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/textfilter-api/logo_256x256.png" alt="Textfilter Api Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/textfilter-api/logo_256x256.png" alt="Textfilter Api Logo"/>
 </p>
 
 Convert web page content into epub, Kindle/mobi and multi-column PDF files
@@ -10,6 +10,7 @@ Convert web page content into epub, Kindle/mobi and multi-column PDF files
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

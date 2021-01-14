@@ -1,6 +1,6 @@
 # TasteDive
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/tastedive/logo_256x256.png" alt="TasteDive Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/tastedive/logo_256x256.png" alt="TasteDive Logo"/>
 </p>
 
 The TasteDive API can be used to integrate recommendations in other products. The TasteDive API can be used to integrate recommendations in other products
@@ -10,6 +10,7 @@ The TasteDive API can be used to integrate recommendations in other products. Th
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

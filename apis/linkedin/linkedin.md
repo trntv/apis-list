@@ -1,6 +1,6 @@
 # LinkedIn
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/linkedin/logo_256x256.png" alt="LinkedIn Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/linkedin/logo_256x256.png" alt="LinkedIn Logo"/>
 </p>
 
 Make it convenient for your users to sign in with their professional identity.  Learn how to leverage LinkedIn's API to Sign In with LinkedIn
@@ -10,6 +10,7 @@ Make it convenient for your users to sign in with their professional identity.  
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Anti-Captcha
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/anti-captcha/logo_256x256.png" alt="Anti-Captcha Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/anti-captcha/logo_256x256.png" alt="Anti-Captcha Logo"/>
 </p>
 
 Access to Anti-Captcha’s API.  Bypass reCAPTCHA, solve image captchas, hCaptcha, FunCaptcha, GeeTest for the cheapest price
@@ -10,6 +10,7 @@ Access to Anti-Captcha’s API.  Bypass reCAPTCHA, solve image captchas, hCaptch
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

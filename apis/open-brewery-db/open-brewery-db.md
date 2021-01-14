@@ -1,6 +1,6 @@
 # Open Brewery DB
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/open-brewery-db/logo_256x256.png" alt="Open Brewery DB Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/open-brewery-db/logo_256x256.png" alt="Open Brewery DB Logo"/>
 </p>
 
 The goal of Open Brewery DB is to maintain an open-source, community-drive. About Open Brewery DB is a free dataset and API with public information on breweries, cideries, brewpubs, and bottleshops
@@ -10,6 +10,7 @@ The goal of Open Brewery DB is to maintain an open-source, community-drive. Abou
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Zomato
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/zomato/logo_256x256.png" alt="Zomato Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/zomato/logo_256x256.png" alt="Zomato Logo"/>
 </p>
 
 Zomato API. 5 million restaurants across 10,000 cities globally.
@@ -10,6 +10,7 @@ Zomato API. 5 million restaurants across 10,000 cities globally.
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

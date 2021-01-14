@@ -8,6 +8,7 @@ Providing a places search that can be searched by hierarchical list of categorie
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

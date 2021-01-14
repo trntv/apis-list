@@ -1,6 +1,6 @@
 # Dataflow Kit
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/dataflow-kit/logo_256x256.png" alt="Dataflow Kit Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/dataflow-kit/logo_256x256.png" alt="Dataflow Kit Logo"/>
 </p>
 
 Web Scraper API to extract information from web sites, scrape SERPs, convert web pages to PDF, and capture screenshots. Dataflow kit - API documentation
@@ -10,6 +10,7 @@ Web Scraper API to extract information from web sites, scrape SERPs, convert web
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

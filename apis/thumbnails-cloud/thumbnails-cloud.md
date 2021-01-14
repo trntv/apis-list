@@ -8,6 +8,7 @@ cloud API generates JPG and PDF file previews for all common document formats, u
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

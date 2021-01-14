@@ -8,6 +8,7 @@ Welcome to the PredictBGL API The PredictBGL API allows you to build the power o
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

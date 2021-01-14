@@ -1,6 +1,6 @@
 # Us Restaurant Menus 
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/us-restaurant-menus/logo_256x256.png" alt="Us Restaurant Menus  Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/us-restaurant-menus/logo_256x256.png" alt="Us Restaurant Menus  Logo"/>
 </p>
 
 Database of over 300,000 restaurant menus and over 30,000,000 Individual Menu Items
@@ -10,6 +10,7 @@ Database of over 300,000 restaurant menus and over 30,000,000 Individual Menu It
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

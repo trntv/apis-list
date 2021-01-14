@@ -8,6 +8,7 @@ Weather. We are no longer accepting new signups.
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Clarifai
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/clarifai/logo_256x256.png" alt="Clarifai Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/clarifai/logo_256x256.png" alt="Clarifai Logo"/>
 </p>
 
 Whether you have one input or billions, you are only steps away from using AI to power your business applications. AI API that analyzes images and videos and returns probability scores on the likelihood that the image contains pornography. Clarifai provides a complete platform to deploy, maintain, and manage your AI models
@@ -10,6 +10,7 @@ Whether you have one input or billions, you are only steps away from using AI to
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ Central bank of Ireland
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Open Library
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/open-library/logo_256x256.png" alt="Open Library Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/open-library/logo_256x256.png" alt="Open Library Logo"/>
 </p>
 
 Open Library is an open, editable library catalog, building towards a web page for every book ever published. Open Library is an open, editable library catalog, building towards a web page for every book ever published. Read, borrow, and discover more than 3M books for free
@@ -10,6 +10,7 @@ Open Library is an open, editable library catalog, building towards a web page f
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

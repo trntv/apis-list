@@ -8,6 +8,7 @@ Recreation. gov is your source for discovering and experiencing America's federa
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

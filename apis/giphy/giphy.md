@@ -1,6 +1,6 @@
 # Giphy
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/giphy/logo_256x256.png" alt="Giphy Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/giphy/logo_256x256.png" alt="Giphy Logo"/>
 </p>
 
 Worlds largest library of GIFs
@@ -10,6 +10,7 @@ Worlds largest library of GIFs
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

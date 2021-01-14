@@ -1,6 +1,6 @@
 # Utelly
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/utelly/logo_256x256.png" alt="Utelly Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/utelly/logo_256x256.png" alt="Utelly Logo"/>
 </p>
 
 Check where a tv show or movie is available
@@ -10,6 +10,7 @@ Check where a tv show or movie is available
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Wikipedia
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wikipedia/logo_256x256.png" alt="Wikipedia Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wikipedia/logo_256x256.png" alt="Wikipedia Logo"/>
 </p>
 
 Documentation and examples: https://www. mediawiki. org/wiki/Special:MyLanguage/API:Main_page Main module Status: The MediaWiki API is a ma. Free multilingual Encyclopedia. This is an auto-generated MediaWiki API documentation page
@@ -10,6 +10,7 @@ Documentation and examples: https://www. mediawiki. org/wiki/Special:MyLanguage/
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

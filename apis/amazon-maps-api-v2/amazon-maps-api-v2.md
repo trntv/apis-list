@@ -8,6 +8,7 @@ Add interactive 3D maps, graphics, and custom overlays to your Fire Tablet and F
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

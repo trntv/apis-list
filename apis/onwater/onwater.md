@@ -8,6 +8,7 @@ An API to determine if a point (latitude and longitude) is on water, sea, lake, 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

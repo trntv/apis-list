@@ -8,6 +8,7 @@ API to query zip codes and orders in an easy, fast and free way.
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

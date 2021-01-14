@@ -1,6 +1,6 @@
 # Gifs.Com Public API
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/gifs-com-public-api/logo_256x256.png" alt="Gifs.Com Public API Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/gifs-com-public-api/logo_256x256.png" alt="Gifs.Com Public API Logo"/>
 </p>
 
 com API makes it dead simple to convert and transcode a vast array of media into our HTML5 optimized gifs. mp4. webm and . com player, a compressed. The gifs. gif,. to gifinity and beyond!
@@ -10,6 +10,7 @@ com API makes it dead simple to convert and transcode a vast array of media into
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

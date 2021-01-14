@@ -1,6 +1,6 @@
 # NewsCatcherAPI
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/newscatcherapi/logo_256x256.png" alt="NewsCatcherAPI Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/newscatcherapi/logo_256x256.png" alt="NewsCatcherAPI Logo"/>
 </p>
 
 Search news articles from all over the world in real-time with News API. News API to find news articles by any topic, country, language, website or keyword
@@ -10,6 +10,7 @@ Search news articles from all over the world in real-time with News API. News AP
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ Already signed up and logged in? View your API key now. Try searching the API ri
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

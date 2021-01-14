@@ -8,6 +8,7 @@ Bratabase API Widget. Hello Developers! Welcome to the developers corner of Brat
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

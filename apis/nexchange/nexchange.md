@@ -8,6 +8,7 @@ API for crypto currency exchange.
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

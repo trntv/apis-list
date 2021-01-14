@@ -8,6 +8,7 @@ Here you can view mobility data free of charge and access various services. The 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

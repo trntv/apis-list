@@ -1,6 +1,6 @@
 # Reddit
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/reddit/logo_256x256.png" alt="Reddit Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/reddit/logo_256x256.png" alt="Reddit Logo"/>
 </p>
 
 Contribute to reddit-archive/reddit development by creating an account on GitHub.  historical code from reddit. historical code from reddit. com
@@ -10,6 +10,7 @@ Contribute to reddit-archive/reddit development by creating an account on GitHub
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

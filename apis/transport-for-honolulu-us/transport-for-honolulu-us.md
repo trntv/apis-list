@@ -1,6 +1,6 @@
 # Transport for Honolulu, US
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-honolulu-us/logo_256x256.png" alt="Transport for Honolulu, US Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-honolulu-us/logo_256x256.png" alt="Transport for Honolulu, US Logo"/>
 </p>
 
 « Return to TheBusHEA Web Services API The Web API (Application Programming Interface) allows a developer to access our real-time AVL data.  To utilize OTS's web services, an application id (AppID)
@@ -10,6 +10,7 @@
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

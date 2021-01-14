@@ -8,6 +8,7 @@ Free news search API. Easily search and filter news feeds to integrate them into
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

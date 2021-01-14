@@ -1,6 +1,6 @@
 # SparkPost
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/sparkpost/logo_256x256.png" alt="SparkPost Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/sparkpost/logo_256x256.png" alt="SparkPost Logo"/>
 </p>
 
 SparkPost is a cloud based email delivery service that sends 25% of the worlds legitimate emails. Emails are delivered to the inbox quickly via a RESTful API or SMTP.
@@ -10,6 +10,7 @@ SparkPost is a cloud based email delivery service that sends 25% of the worlds l
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

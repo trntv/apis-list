@@ -1,6 +1,6 @@
 # Antideo
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/antideo/logo_256x256.png" alt="Antideo Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/antideo/logo_256x256.png" alt="Antideo Logo"/>
 </p>
 
 API for IP and Email Intelligence & Phone Number Validation. API for email validation & IP reputation check for better email list hygiene. Antideo maintains large database with spam and scam records, IP locations and infected ranges, proxy records and many more.  We are keeping our database updated regularly from various sources, as well as collecting some of the data ourselves
@@ -10,6 +10,7 @@ API for IP and Email Intelligence & Phone Number Validation. API for email valid
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

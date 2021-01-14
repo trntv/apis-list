@@ -8,6 +8,7 @@ API MetaWeather provides an API that delivers JSON over HTTPS for access to our 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

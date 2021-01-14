@@ -1,6 +1,6 @@
 # WorldCoinIndex
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/worldcoinindex/logo_256x256.png" alt="WorldCoinIndex Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/worldcoinindex/logo_256x256.png" alt="WorldCoinIndex Logo"/>
 </p>
 
 Cryptocurrencies price API, prices denoted in USD, EUR, CNY, GBP, RUB
@@ -10,6 +10,7 @@ Cryptocurrencies price API, prices denoted in USD, EUR, CNY, GBP, RUB
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

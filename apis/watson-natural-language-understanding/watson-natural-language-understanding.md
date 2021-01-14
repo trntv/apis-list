@@ -8,6 +8,7 @@ Provide text, raw HTML, or a public URL and IBM Watson Natural Language Understa
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

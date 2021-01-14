@@ -8,6 +8,7 @@ Can be created, updated, and deleted using the OS::Trove::Instance resource.  Cl
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

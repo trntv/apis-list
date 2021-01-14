@@ -8,6 +8,7 @@ A real-time API for verifying an identity by name, address, date of birth, and s
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

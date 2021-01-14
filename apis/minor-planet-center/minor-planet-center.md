@@ -8,6 +8,7 @@ Minor Planet Center API Overview Asterank offers a database API for the Minor Pl
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

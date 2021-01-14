@@ -1,6 +1,6 @@
 # Dronestream
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/dronestream/logo_256x256.png" alt="Dronestream Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/dronestream/logo_256x256.png" alt="Dronestream Logo"/>
 </p>
 
 Tracks United States drone strikes. Real-time and historical data about every reported covert US drone strike
@@ -10,6 +10,7 @@ Tracks United States drone strikes. Real-time and historical data about every re
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

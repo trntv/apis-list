@@ -1,6 +1,6 @@
 # OpenCage
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/opencage/logo_256x256.png" alt="OpenCage Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/opencage/logo_256x256.png" alt="OpenCage Logo"/>
 </p>
 
 An easy-to-use forward and reverse geocoding API. Worldwide coverage. Affordable, predictable pricing. Open data.  An easy-to-use forward and reverse geocoding API
@@ -10,6 +10,7 @@ An easy-to-use forward and reverse geocoding API. Worldwide coverage. Affordable
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

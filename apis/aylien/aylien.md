@@ -8,6 +8,7 @@ AYLIEN Text Analysis API is a package of Natural Language Processing, Informatio
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

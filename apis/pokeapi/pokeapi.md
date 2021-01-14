@@ -1,6 +1,6 @@
 # Pokéapi
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pokeapi/logo_256x256.png" alt="Pokéapi Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pokeapi/logo_256x256.png" alt="Pokéapi Logo"/>
 </p>
 
 This is a full RESTful API linked to an extensive database detailing everything about the Pokémon main game series.  We've covered everything from Pokémon to Berry Flavors
@@ -10,6 +10,7 @@ This is a full RESTful API linked to an extensive database detailing everything 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # PlaceKitten
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/placekitten/logo_256x256.png" alt="PlaceKitten Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/placekitten/logo_256x256.png" alt="PlaceKitten Logo"/>
 </p>
 
 A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code. Kitten-themed placeholder images for developers :3
@@ -10,6 +10,7 @@ A quick and simple service for getting pictures of kittens for use as placeholde
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

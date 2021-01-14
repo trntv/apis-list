@@ -8,6 +8,7 @@ INSPIRE API Q: I want to do automated searching and receive machine readable res
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

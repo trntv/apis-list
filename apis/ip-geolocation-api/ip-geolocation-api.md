@@ -8,6 +8,7 @@ Free IP Geolocation API and Accurate IP Database provides country, city, zip cod
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

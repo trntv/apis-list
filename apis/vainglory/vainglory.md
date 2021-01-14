@@ -1,6 +1,6 @@
 # Vainglory
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/vainglory/logo_256x256.png" alt="Vainglory Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/vainglory/logo_256x256.png" alt="Vainglory Logo"/>
 </p>
 
 Vainglory Players, Matches and Telemetry
@@ -10,6 +10,7 @@ Vainglory Players, Matches and Telemetry
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

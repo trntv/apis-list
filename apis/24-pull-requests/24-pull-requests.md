@@ -1,6 +1,6 @@
 # 24 Pull Requests
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/24-pull-requests/logo_256x256.png" alt="24 Pull Requests Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/24-pull-requests/logo_256x256.png" alt="24 Pull Requests Logo"/>
 </p>
 
 24 Pull Requests is a yearly initiative to encourage contributors around the world to send 24 pull requests between December 1st and December 24th
@@ -10,6 +10,7 @@
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

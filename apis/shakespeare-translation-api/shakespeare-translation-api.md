@@ -1,6 +1,6 @@
 # Shakespeare Translation Api
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/shakespeare-translation-api/logo_256x256.png" alt="Shakespeare Translation Api Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/shakespeare-translation-api/logo_256x256.png" alt="Shakespeare Translation Api Logo"/>
 </p>
 
 Translate from English to Shakespeare English
@@ -10,6 +10,7 @@ Translate from English to Shakespeare English
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

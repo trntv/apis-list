@@ -1,6 +1,6 @@
 # Numbers Api
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/numbers-api/logo_256x256.png" alt="Numbers Api Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/numbers-api/logo_256x256.png" alt="Numbers Api Logo"/>
 </p>
 
 Numbers. Number of the day, random number generation , number facts and anything else you want to do with numbers.
@@ -10,6 +10,7 @@ Numbers. Number of the day, random number generation , number facts and anything
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Bitcoin
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/bitcoin/logo_256x256.png" alt="Bitcoin Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/bitcoin/logo_256x256.png" alt="Bitcoin Logo"/>
 </p>
 
 Bitcoin is an innovative payment network and a new kind of money. Find all you need to know and get started with Bitcoin on bitcoin. org. Find useful resources, guides and reference material for developers
@@ -10,6 +10,7 @@ Bitcoin is an innovative payment network and a new kind of money. Find all you n
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

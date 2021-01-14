@@ -8,6 +8,7 @@ The OpenDota API provides Dota 2 related data including advanced match data extr
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

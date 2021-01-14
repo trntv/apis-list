@@ -1,6 +1,6 @@
 # Lob.com
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/lob-com/logo_256x256.png" alt="Lob.com Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/lob-com/logo_256x256.png" alt="Lob.com Logo"/>
 </p>
 
 Lob provides direct mail and address verification APIs that allow businesses to send timely, personalized, automated offline communications to their customers. Lob provides direct mail and address verification APIs that allow businesses to send timely, personalized, automated offline communications to their customers
@@ -10,6 +10,7 @@ Lob provides direct mail and address verification APIs that allow businesses to 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

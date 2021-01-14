@@ -8,6 +8,7 @@ API to manage Particle devices (including their own Arduino-compatible ones and 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

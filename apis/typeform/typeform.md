@@ -1,6 +1,6 @@
 # Typeform
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/typeform/logo_256x256.png" alt="Typeform Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/typeform/logo_256x256.png" alt="Typeform Logo"/>
 </p>
 
 Typeform's APIs allow you to create and edit Typeform surveys, and retrieve survey responses on demand. Welcome to Typeform’s APIs! With our APIs and developer tools, you can do everything from the basics, like tweak your themes and add new images to your account, to the most powerful features Typefo.
@@ -10,6 +10,7 @@ Typeform's APIs allow you to create and edit Typeform surveys, and retrieve surv
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

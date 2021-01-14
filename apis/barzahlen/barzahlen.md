@@ -8,6 +8,7 @@ Barzahlen API v2 allows you to create payment, payout, and refund slips customer
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

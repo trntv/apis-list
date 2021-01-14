@@ -1,6 +1,6 @@
 # PunkAPI
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/punkapi/logo_256x256.png" alt="PunkAPI Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/punkapi/logo_256x256.png" alt="PunkAPI Logo"/>
 </p>
 
 Brewdog's DIY Dog as a searchable, filterable API. Brewdog's DIY Dog as a searchable, filterable API
@@ -10,6 +10,7 @@ Brewdog's DIY Dog as a searchable, filterable API. Brewdog's DIY Dog as a search
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

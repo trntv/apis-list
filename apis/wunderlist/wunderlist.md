@@ -1,6 +1,6 @@
 # Wunderlist
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wunderlist/logo_256x256.png" alt="Wunderlist Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wunderlist/logo_256x256.png" alt="Wunderlist Logo"/>
 </p>
 
 Todo Lists
@@ -10,6 +10,7 @@ Todo Lists
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

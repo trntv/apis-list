@@ -8,6 +8,7 @@ We're the trusted source for IP address information, handling 20 billion IP geol
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

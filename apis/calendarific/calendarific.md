@@ -1,6 +1,6 @@
 # Calendarific
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/calendarific/logo_256x256.png" alt="Calendarific Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/calendarific/logo_256x256.png" alt="Calendarific Logo"/>
 </p>
 
 With Calendarific API you can display the dates of public holidays, bank holidays, local holidays and religious holidays for over 200 countries worldwide. The Calendarific Holiday API documentation allows you to integrate our easy-to-use JSON API into your applications
@@ -10,6 +10,7 @@ With Calendarific API you can display the dates of public holidays, bank holiday
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

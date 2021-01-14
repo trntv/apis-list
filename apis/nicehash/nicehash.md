@@ -8,6 +8,7 @@ Largest Crypto Mining Marketplace
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Screenshotscloud
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/screenshotscloud/logo_256x256.png" alt="Screenshotscloud Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/screenshotscloud/logo_256x256.png" alt="Screenshotscloud Logo"/>
 </p>
 
 With this screenshot API you can automate high quality real browser screenshots in seconds using reliable CDN backed queueless API service. JPEG, PNG or PDF output available
@@ -10,6 +10,7 @@ With this screenshot API you can automate high quality real browser screenshots 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

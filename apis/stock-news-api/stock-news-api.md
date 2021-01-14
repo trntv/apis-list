@@ -8,6 +8,7 @@ Get the latest stock news from the best news sources. Use our API to get relevan
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

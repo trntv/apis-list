@@ -1,6 +1,6 @@
 # Hipster Ipsum
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/hipster-ipsum/logo_256x256.png" alt="Hipster Ipsum Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/hipster-ipsum/logo_256x256.png" alt="Hipster Ipsum Logo"/>
 </p>
 
 Generates Hipster Ipsum text
@@ -10,6 +10,7 @@ Generates Hipster Ipsum text
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

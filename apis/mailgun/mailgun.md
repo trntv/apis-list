@@ -8,6 +8,7 @@ Learn more today!. Transactional Email API Service For Developers. Free first 10
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

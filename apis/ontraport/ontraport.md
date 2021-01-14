@@ -8,6 +8,7 @@ Introduction The base URL for all of the requests detailed in this documentation
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Spreaker
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/spreaker/logo_256x256.png" alt="Spreaker Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/spreaker/logo_256x256.png" alt="Spreaker Logo"/>
 </p>
 
 Enables developers to read and write data to Spreaker.  Get started with one of our guides, or jump straight into the API documentation
@@ -10,6 +10,7 @@ Enables developers to read and write data to Spreaker.  Get started with one of 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

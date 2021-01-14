@@ -8,6 +8,7 @@ Developers can easily add advanced computer vision functionality to Android, iOS
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

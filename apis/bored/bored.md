@@ -8,6 +8,7 @@ Find random activities to fight boredom
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ By Collin M. Barrett. FilterLists is the independent, comprehensive directory of
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

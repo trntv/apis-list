@@ -8,6 +8,7 @@ Full API to take screenshots of any website.
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ Access to Bitly’s API.  The Bitly API Bitly is the most widely trusted link ma
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

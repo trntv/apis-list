@@ -8,6 +8,7 @@ Webservice gratuito para pesquisa de endereço via CEP, suporta Ajax e retorno n
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

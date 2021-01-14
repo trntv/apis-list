@@ -8,6 +8,7 @@ Weather API for businesses & data science. 0001/record. com/weather-data) inside
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

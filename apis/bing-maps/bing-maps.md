@@ -8,6 +8,7 @@ Bing Maps platform provides multiple API options for your application.  Explore 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

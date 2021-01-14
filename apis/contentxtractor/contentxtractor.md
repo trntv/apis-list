@@ -1,6 +1,6 @@
 # Contentxtractor
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/contentxtractor/logo_256x256.png" alt="Contentxtractor Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/contentxtractor/logo_256x256.png" alt="Contentxtractor Logo"/>
 </p>
 
 Extract relevant content from articles. ContentXtractor automatically extracts relevant content from articles/blog with a simple API call
@@ -10,6 +10,7 @@ Extract relevant content from articles. ContentXtractor automatically extracts r
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ To get started check out Install the SDK. For detailed explana. In this document
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

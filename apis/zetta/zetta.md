@@ -1,6 +1,6 @@
 # Zetta
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/zetta/logo_256x256.png" alt="Zetta Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/zetta/logo_256x256.png" alt="Zetta Logo"/>
 </p>
 
 An API-first, open source software platform for the Internet of Things.  - zettajs/zetta
@@ -10,6 +10,7 @@ An API-first, open source software platform for the Internet of Things.  - zetta
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

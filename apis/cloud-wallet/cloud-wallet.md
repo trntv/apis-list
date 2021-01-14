@@ -8,6 +8,7 @@ Cloud Wallet enables closed-loop payments between IoT devices and facilitates Io
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Spaceflight News
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/spaceflight-news/logo_256x256.png" alt="Spaceflight News Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/spaceflight-news/logo_256x256.png" alt="Spaceflight News Logo"/>
 </p>
 
 The Spaceflight News API lets you add space related news to your apps
@@ -10,6 +10,7 @@ The Spaceflight News API lets you add space related news to your apps
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

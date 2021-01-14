@@ -1,6 +1,6 @@
 # AudD
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/audd/logo_256x256.png" alt="AudD Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/audd/logo_256x256.png" alt="AudD Logo"/>
 </p>
 
 AudD Music Recognition API Docs: how to identify songs in audio using our API
@@ -10,6 +10,7 @@ AudD Music Recognition API Docs: how to identify songs in audio using our API
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

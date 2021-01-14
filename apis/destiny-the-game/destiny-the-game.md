@@ -1,6 +1,6 @@
 # Destiny The Game
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/destiny-the-game/logo_256x256.png" alt="Destiny The Game Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/destiny-the-game/logo_256x256.png" alt="Destiny The Game Logo"/>
 </p>
 
 These endpoints constitute the functionality exposed by Bungie. net
@@ -10,6 +10,7 @@ These endpoints constitute the functionality exposed by Bungie. net
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

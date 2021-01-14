@@ -1,6 +1,6 @@
 # Transport for The Netherlands
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-the-netherlands/logo_256x256.png" alt="Transport for The Netherlands Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-the-netherlands/logo_256x256.png" alt="Transport for The Netherlands Logo"/>
 </p>
 
 NS beschikt over een grote hoeveelheid data met informatie over de geplande en actuele dienstregeling. NS beschikt over een grote hoeveelheid data met informatie over de geplande en actuele dienstregeling
@@ -10,6 +10,7 @@ NS beschikt over een grote hoeveelheid data met informatie over de geplande en a
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ AerisWeather provides a powerful weather API, mapping platform, and developer to
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

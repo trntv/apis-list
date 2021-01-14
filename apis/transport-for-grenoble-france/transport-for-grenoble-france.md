@@ -8,6 +8,7 @@ mobilites-m, c'est le service unique qui regroupe toutes vos informations de dé
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ How to use the Instagram Graph API. Access to Instagram’s OAuth API
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ reference The reference of the accounting transaction. reference The reference o
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

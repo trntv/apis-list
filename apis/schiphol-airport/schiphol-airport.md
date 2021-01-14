@@ -8,6 +8,7 @@ Important notice Due to maintenance the Public Flight API v4 will be offline on 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

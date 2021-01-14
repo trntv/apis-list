@@ -8,6 +8,7 @@ Crime, school and transportation data for US cities.
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

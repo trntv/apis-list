@@ -1,6 +1,6 @@
 # My Anime List API
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/my-anime-list-api/logo_256x256.png" alt="My Anime List API Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/my-anime-list-api/logo_256x256.png" alt="My Anime List API Logo"/>
 </p>
 
 Jikan is an unofficial MyAnimeList REST based API
@@ -10,6 +10,7 @@ Jikan is an unofficial MyAnimeList REST based API
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

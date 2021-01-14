@@ -8,6 +8,7 @@ Detect language(s) from pieces of text
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

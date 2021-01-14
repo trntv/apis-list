@@ -1,6 +1,6 @@
 # Time Door
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/time-door/logo_256x256.png" alt="Time Door Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/time-door/logo_256x256.png" alt="Time Door Logo"/>
 </p>
 
 A time series analysis API. Time Door is an API for statistical insights into time series data. It is easy to integrate and handles fast and messy real-world data.
@@ -10,6 +10,7 @@ A time series analysis API. Time Door is an API for statistical insights into ti
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

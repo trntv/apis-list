@@ -1,6 +1,6 @@
 # CountAPI
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/countapi/logo_256x256.png" alt="CountAPI Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/countapi/logo_256x256.png" alt="CountAPI Logo"/>
 </p>
 
 You can use it to track page hits, and specific events among other things.  CountAPI is a free counting service. . CountAPI is a free counting service
@@ -10,6 +10,7 @@ You can use it to track page hits, and specific events among other things.  Coun
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

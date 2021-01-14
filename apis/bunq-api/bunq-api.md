@@ -11,6 +11,7 @@ Let's cooperate!
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

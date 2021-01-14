@@ -8,6 +8,7 @@ This Hearthstone API provides up to date Hearthstone data pulled directly from t
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

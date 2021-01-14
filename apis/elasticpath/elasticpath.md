@@ -8,6 +8,7 @@ Provides the full commerce solution to bring your unique, revenue-driving experi
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

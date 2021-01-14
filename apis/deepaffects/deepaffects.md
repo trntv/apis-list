@@ -8,6 +8,7 @@ DeepAffects enables developers to analyze conversational audio by applying power
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

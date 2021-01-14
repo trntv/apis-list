@@ -8,6 +8,7 @@ Central bank of New Zealand
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

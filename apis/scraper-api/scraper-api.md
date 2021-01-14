@@ -8,6 +8,7 @@ Get started with 1000 free API calls!. Scraper API handles proxies, browsers, an
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

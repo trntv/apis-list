@@ -1,6 +1,6 @@
 # The Cat Api
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/the-cat-api/logo_256x256.png" alt="The Cat Api Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/the-cat-api/logo_256x256.png" alt="The Cat Api Logo"/>
 </p>
 
 A public service API all about cat pictures.  A public service API all about Cats, free to use when making your fancy new App, Website or Service
@@ -10,6 +10,7 @@ A public service API all about cat pictures.  A public service API all about Cat
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

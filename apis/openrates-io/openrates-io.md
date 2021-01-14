@@ -8,6 +8,7 @@ Free live exchange rates and currency conversion API for developers.  ECB rates 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

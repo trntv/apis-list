@@ -8,6 +8,7 @@ Free for use text classification, sentiment analysis, semantic similarity and wo
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

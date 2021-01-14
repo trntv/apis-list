@@ -8,6 +8,7 @@ Newspaper Directory to find information about American newspapers published betw
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

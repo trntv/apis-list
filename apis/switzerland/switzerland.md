@@ -8,6 +8,7 @@ Swiss National Bank
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -1,6 +1,6 @@
 # Elis
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/elis/logo_256x256.png" alt="Elis Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/elis/logo_256x256.png" alt="Elis Logo"/>
 </p>
 
 Automate data extraction from your documents with Artificial Intelligence
@@ -10,6 +10,7 @@ Automate data extraction from your documents with Artificial Intelligence
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

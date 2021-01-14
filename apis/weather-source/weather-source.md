@@ -1,6 +1,6 @@
 # Weather Source
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/weather-source/logo_256x256.png" alt="Weather Source Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/weather-source/logo_256x256.png" alt="Weather Source Logo"/>
 </p>
 
 Powerful Weather API built for systems that demand speed, reliability and heavy load.  On-demand access to Hyper-local Global Weather History, Forecast, Nowcast, Climate, Hazards & Astronomical data.  Analytics-grade, Built for enterprises
@@ -10,6 +10,7 @@ Powerful Weather API built for systems that demand speed, reliability and heavy 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

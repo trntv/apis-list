@@ -1,6 +1,6 @@
 # Tardis.Dev
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/tardis-dev/logo_256x256.png" alt="Tardis.Dev Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/tardis-dev/logo_256x256.png" alt="Tardis.Dev Logo"/>
 </p>
 
 Tardis. 
@@ -12,6 +12,7 @@ Raw historical market data is available both in exchange native and normalized f
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

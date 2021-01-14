@@ -8,6 +8,7 @@ Sample XML response Sample JSON response
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

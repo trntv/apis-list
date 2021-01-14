@@ -8,6 +8,7 @@ Free phone number validation provided by PhoneValidator. Check phone numbers to 
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

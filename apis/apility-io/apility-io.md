@@ -1,6 +1,6 @@
 # Apility.io
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/apility-io/logo_256x256.png" alt="Apility.io Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/apility-io/logo_256x256.png" alt="Apility.io Logo"/>
 </p>
 
 
@@ -10,6 +10,7 @@
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

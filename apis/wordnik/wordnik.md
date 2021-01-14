@@ -1,6 +1,6 @@
 # Wordnik
 <p align="center">
-    <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wordnik/logo_256x256.png" alt="Wordnik Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wordnik/logo_256x256.png" alt="Wordnik Logo"/>
 </p>
 
 The Wordnik API Docs. Dictionary functions
@@ -10,6 +10,7 @@ The Wordnik API Docs. Dictionary functions
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

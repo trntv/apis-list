@@ -8,6 +8,7 @@ Open Food Facts is a database of food products with ingredients, allergens, nutr
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:

@@ -8,6 +8,7 @@ A Taylor Swift REST API, written in Deno
 
 ## 🧬 Specification:
 **Type**: N/A
+
 **URI**: N/A
 
 ## 💬 Discussion:
