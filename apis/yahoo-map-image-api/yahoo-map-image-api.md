@@ -16,8 +16,8 @@ Measure, monetize, advertise and improve your apps with Yahoo tools. Join the 20
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Images](https://github.com/apis-list/apis-list#images)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Images](https://github.com/apis-list/apis-list#images)
 
 
 

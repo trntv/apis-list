@@ -6,7 +6,7 @@
 Eventbrite Python SDK. Contribute to eventbrite/eventbrite-sdk-python development by creating an account on GitHub.  Eventbrite Python SDK
 
 ##  🔗 Links
-**Docs / Website**: https://github.com/eventbrite/eventbrite-sdk-python
+**Docs / Website**: https://www.eventbrite.com/platform/
 
 ## 🧬 Specification:
 **Type**: N/A
@@ -16,10 +16,14 @@ Eventbrite Python SDK. Contribute to eventbrite/eventbrite-sdk-python developmen
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Events](https://github.com/apis-list/apis-list#events)
 - [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo)
 - [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management)
-- [Tickets](https://github.com/apis-list/apis-list#tickets)
 - [Social](https://github.com/apis-list/apis-list#social)
+
+
+
+-list#social)
 - [Events](https://github.com/apis-list/apis-list#events)
 
 

@@ -16,9 +16,9 @@ Find the best shipping rates, integrate with e-commerce platforms, print shippin
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics)
 
 
 

@@ -15,16 +15,9 @@ A JSON/plain-text which returns the (approx) current time for a provided timezon
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Time](https://github.com/apis-list/apis-list#time)
+- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 - [Other](https://github.com/apis-list/apis-list#other)
-
-
-
-
-
-
-
 
 
 

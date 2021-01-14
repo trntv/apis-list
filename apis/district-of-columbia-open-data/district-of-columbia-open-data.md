@@ -16,8 +16,8 @@ Welcome, Application Developers! We are very happy that you’re considering bui
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Government](https://github.com/apis-list/apis-list#government)
 - [Data](https://github.com/apis-list/apis-list#data)
+- [Government](https://github.com/apis-list/apis-list#government)
 
 
 

@@ -16,8 +16,8 @@ The source for financial, economic, and alternative datasets, serving investment
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Search](https://github.com/apis-list/apis-list#search)
 - [Data](https://github.com/apis-list/apis-list#data)
+- [Search](https://github.com/apis-list/apis-list#search)
 
 
 

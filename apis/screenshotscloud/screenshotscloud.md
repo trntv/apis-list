@@ -3,7 +3,7 @@
     <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/screenshotscloud/logo_256x256.png" alt="Screenshotscloud Logo"/>
 </p>
 
-With our website screenshot API you can automate high quality real browser screenshots in seconds using our reliable CDN backed queueless API service. With our website screenshot service you can automate high quality real browser screenshots and thumbnails in seconds using our reliable CDN backed queueless API service.  JPEG, PNG or PDF output available
+With this screenshot API you can automate high quality real browser screenshots in seconds using reliable CDN backed queueless API service. JPEG, PNG or PDF output available
 
 ##  🔗 Links
 **Docs / Website**: https://screenshots.cloud/
@@ -14,6 +14,14 @@ With our website screenshot API you can automate high quality real browser scree
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗄️ Categories:
+- [Images](https://github.com/apis-list/apis-list#images)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
+
+
+
+ns/new)
 
 ## 🗄️ Categories:
 - [Photography](https://github.com/apis-list/apis-list#photography)

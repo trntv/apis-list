@@ -3,7 +3,7 @@
     <img width="400" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/open-charge-map/logo_256x256.png" alt="Open Charge Map Logo"/>
 </p>
 
-The Open Charge Map API Use of the OCM API is subject to terms and conditions. By using the API you indicate acceptance of these terms.  If you wish to export charging location data into your own sy
+Open Charge Map is a non-commercial, non-profit, electric vehicle data service hosted and supported by a community of businesses, charities, developers and interested parties around the world.
 
 ##  🔗 Links
 **Docs / Website**: https://openchargemap.org/site/develop/api
@@ -16,10 +16,14 @@ The Open Charge Map API Use of the OCM API is subject to terms and conditions. B
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Transportation](https://github.com/apis-list/apis-list#transportation)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 - [Vehicle](https://github.com/apis-list/apis-list#vehicle)
 - [Environment](https://github.com/apis-list/apis-list#environment)
-- [Sustainability](https://github.com/apis-list/apis-list#sustainability)
-- [Transportation](https://github.com/apis-list/apis-list#transportation)
+
+
+
+sportation)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 
 

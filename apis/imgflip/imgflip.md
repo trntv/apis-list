@@ -16,7 +16,9 @@ Get 100 of memes with Imgflip API, or add text/caption to memes directly from th
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Meme](https://github.com/apis-list/apis-list#meme)
+- [Fun](https://github.com/apis-list/apis-list#fun)
+
+
 
 
 

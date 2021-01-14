@@ -16,10 +16,10 @@ A free REST API for random Kanye West quotes. A free REST API for random Kanye W
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Health](https://github.com/apis-list/apis-list#health)
 - [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
 - [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
 - [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
+- [Health](https://github.com/apis-list/apis-list#health)
 
 
 

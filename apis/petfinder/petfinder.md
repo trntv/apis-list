@@ -16,8 +16,8 @@ Learn how to use our API to build your own website or applications backed by the
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Search](https://github.com/apis-list/apis-list#search)
 - [Animals](https://github.com/apis-list/apis-list#animals)
+- [Search](https://github.com/apis-list/apis-list#search)
 
 
 

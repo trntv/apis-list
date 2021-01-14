@@ -14,10 +14,10 @@ Integrate your service with Discord — whether it's a bot or a game or whatever
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Social](https://github.com/apis-list/apis-list#social)
 - [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging)
 - [Voice](https://github.com/apis-list/apis-list#voice)
 - [Games](https://github.com/apis-list/apis-list#games)
+- [Social](https://github.com/apis-list/apis-list#social)
 
 
 

@@ -16,9 +16,9 @@
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
 - [Bookmarks](https://github.com/apis-list/apis-list#bookmarks)
 - [Video & Media](https://github.com/apis-list/apis-list#video--media)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
 
 
 

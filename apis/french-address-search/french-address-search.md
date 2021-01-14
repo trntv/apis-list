@@ -14,9 +14,9 @@ Cherchez des adresses et lieux-dits.  Cherchez des adresses et lieux-dits
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 - [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 - [Data](https://github.com/apis-list/apis-list#data)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 
 
 

@@ -16,8 +16,8 @@ If you don'. Provides multi-carrier shipment tracking APIs. Overview How to get 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
 
 
 

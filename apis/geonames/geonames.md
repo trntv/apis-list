@@ -16,11 +16,11 @@ Important: Do not use the 'demo' account for your app or your tests. It is only 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics)
 - [Weather](https://github.com/apis-list/apis-list#weather)
 - [Reference](https://github.com/apis-list/apis-list#reference)
 - [Databases](https://github.com/apis-list/apis-list#databases)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
-- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics)
 
 
 

@@ -16,11 +16,11 @@ Global Identity Verification API. Get a clearer picture of your customer.  Insta
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Reference](https://github.com/apis-list/apis-list#reference)
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
 - [CRM](https://github.com/apis-list/apis-list#crm)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 - [Business](https://github.com/apis-list/apis-list#business)
-- [Reference](https://github.com/apis-list/apis-list#reference)
 
 
 

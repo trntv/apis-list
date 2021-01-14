@@ -15,11 +15,7 @@ Keep your registration forms simple. Optimize your conversions and let us determ
 
 ## 🗄️ Categories:
 - [Tools](https://github.com/apis-list/apis-list#tools)
-- [Forms](https://github.com/apis-list/apis-list#forms)
-
-
-
-
+- [Forms & Surveys](https://github.com/apis-list/apis-list#forms--surveys)
 
 
 

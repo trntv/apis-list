@@ -16,13 +16,16 @@ Face recognition, emotion analysis and measuring engagement of people in images 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Identity](https://github.com/apis-list/apis-list#identity)
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Recognition](https://github.com/apis-list/apis-list#recognition)
 - [Photography](https://github.com/apis-list/apis-list#photography)
 - [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
 - [Tools](https://github.com/apis-list/apis-list#tools)
 - [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management)
+
+
+
+b.com/apis-list/apis-list#authentication--user-management)
 
 
 

@@ -14,8 +14,8 @@ SecurityTrails currently offers three different products that can help you enric
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Security](https://github.com/apis-list/apis-list#security)
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
+- [Security](https://github.com/apis-list/apis-list#security)
 
 
 

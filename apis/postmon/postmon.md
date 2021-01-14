@@ -1,10 +1,10 @@
 # Postmon
 
 
-x Como é uma API baseada em REST, basta fazer a seguinte chamada p. O que é? Uma API para consultar CEP e encomendas de maneira fácil, rápida e gratuita. Como utilizar? A versão atual da API é a 1. x
+API to query zip codes and orders in an easy, fast and free way.
 
 ##  🔗 Links
-**Docs / Website**: http://postmon.com.br
+**Docs / Website**: https://postmon.com.br/
 
 ## 🧬 Specification:
 **Type**: N/A
@@ -14,7 +14,12 @@ x Como é uma API baseada em REST, basta fazer a seguinte chamada p. O que é? U
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+
+
+
+s & Geo](https://github.com/apis-list/apis-list#maps--geo)
 - [Tracking](https://github.com/apis-list/apis-list#tracking)
 
 

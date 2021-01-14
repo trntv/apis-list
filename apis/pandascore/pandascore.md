@@ -16,10 +16,10 @@ Get events and detailed match data in real time from major league tournaments, o
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Games](https://github.com/apis-list/apis-list#games)
 - [Data](https://github.com/apis-list/apis-list#data)
+- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness)
 
 
 

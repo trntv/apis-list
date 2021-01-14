@@ -16,11 +16,11 @@ Locate website visitors for free using ipstack - a free, real-time IP address to
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Data](https://github.com/apis-list/apis-list#data)
 - [Localization](https://github.com/apis-list/apis-list#localization)
 - [Security](https://github.com/apis-list/apis-list#security)
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
-- [Data](https://github.com/apis-list/apis-list#data)
 
 
 

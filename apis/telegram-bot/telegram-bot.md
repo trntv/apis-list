@@ -15,12 +15,12 @@ To learn how to create…
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Mobile](https://github.com/apis-list/apis-list#mobile)
-- [Social](https://github.com/apis-list/apis-list#social)
 - [Bots](https://github.com/apis-list/apis-list#bots)
 - [Cloud](https://github.com/apis-list/apis-list#cloud)
 - [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
 - [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging)
+- [Mobile](https://github.com/apis-list/apis-list#mobile)
+- [Social](https://github.com/apis-list/apis-list#social)
 
 
 

@@ -16,9 +16,9 @@ Yo API Documentation. Programmatically send Yos (contextual messages) through AP
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Notifications](https://github.com/apis-list/apis-list#notifications)
 - [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo)
 - [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging)
-- [Notifications](https://github.com/apis-list/apis-list#notifications)
 
 
 

@@ -14,11 +14,11 @@ Kitsu is a modern anime discovery platform that helps you track the anime you're
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Comics & Anime](https://github.com/apis-list/apis-list#comics--anime)
 - [Books](https://github.com/apis-list/apis-list#books)
 - [Japanese](https://github.com/apis-list/apis-list#japanese)
 - [Video & Media](https://github.com/apis-list/apis-list#video--media)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 
 
 

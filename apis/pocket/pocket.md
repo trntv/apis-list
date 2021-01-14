@@ -14,8 +14,8 @@ When you find something you want to view later, put it in Pocket. When you find 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Bookmarks](https://github.com/apis-list/apis-list#bookmarks)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
+- [Bookmarks](https://github.com/apis-list/apis-list#bookmarks)
 
 
 

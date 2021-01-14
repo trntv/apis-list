@@ -16,9 +16,9 @@ Get online news, blogs, social and TV/radio through a JSON API - easy integratio
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Data](https://github.com/apis-list/apis-list#data)
 - [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
 - [Video & Media](https://github.com/apis-list/apis-list#video--media)
+- [Data](https://github.com/apis-list/apis-list#data)
 
 
 

@@ -14,11 +14,7 @@ Onfleet is the easiest way for businesses to manage and analyze their last-mile 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Logistics](https://github.com/apis-list/apis-list#logistics)
-
-
-
-
+- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics)
 
 
 

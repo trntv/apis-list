@@ -14,11 +14,11 @@ JSON API for returning meaty lorem ipsum filler text. JSON API for returning mea
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Text](https://github.com/apis-list/apis-list#text)
 - [Fun](https://github.com/apis-list/apis-list#fun)
 - [Data](https://github.com/apis-list/apis-list#data)
 - [Testing](https://github.com/apis-list/apis-list#testing)
 - [Tools](https://github.com/apis-list/apis-list#tools)
+- [Text](https://github.com/apis-list/apis-list#text)
 
 
 

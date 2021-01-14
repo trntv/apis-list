@@ -14,8 +14,8 @@ This may happen as a result of the following: Javascript is disabled or blocked 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
 - [Open Source](https://github.com/apis-list/apis-list#open-source)
+- [Development](https://github.com/apis-list/apis-list#development)
 
 
 

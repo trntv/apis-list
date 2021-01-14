@@ -9,4 +9,6 @@ var CategoryIcons = map[string]string{
 	"Payments":            "💳",
 	"Commerce":            "💰",
 	"Health":              "💊",
+	"Games":               "🎮",
+	"Sport & Fitness":     "⚾",
 }

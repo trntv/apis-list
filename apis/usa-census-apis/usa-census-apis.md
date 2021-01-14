@@ -14,8 +14,8 @@ These data are currently used to distribute around $400 B in Federal, State and 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Data](https://github.com/apis-list/apis-list#data)
 - [Government](https://github.com/apis-list/apis-list#government)
+- [Data](https://github.com/apis-list/apis-list#data)
 
 
 
