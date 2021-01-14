@@ -19,11 +19,3 @@ IP Vigilante provides a free geographical IP locator API, so the developers can 
 
 
 
-s)
-
-
-
-
-
-
-

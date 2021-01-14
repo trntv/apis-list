@@ -24,18 +24,3 @@ SmartQ is an technology company founded in 2017 with the intention of providing 
 
 
 
-
-
-
-Accounts](https://github.com/apis-list/apis-list#accounts)
-
-
-
-SaaS](https://github.com/apis-list/apis-list#saas)
-
-
-
-
-
-
-

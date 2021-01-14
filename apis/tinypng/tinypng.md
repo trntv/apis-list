@@ -23,10 +23,3 @@ TinyPNG API will help you compress and reduce the size of your JPEF and PNG file
 
 
 
-
-
-
-
-
-
-

@@ -20,15 +20,3 @@ The AniList GraphQL Api provides quick and powerful access to over 500k anime an
 
 
 
-
-
-
-.com/apis-list/apis-list#animation)
-- [Japanese](https://github.com/apis-list/apis-list#japanese)
-
-
-
-
-
-
-

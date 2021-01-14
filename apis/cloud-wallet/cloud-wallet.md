@@ -20,11 +20,3 @@ Cloud Wallet enables closed-loop payments between IoT devices and facilitates Io
 
 
 
-.com/apis-list/apis-list#iot-and-home-automation)
-
-
-
-
-
-
-

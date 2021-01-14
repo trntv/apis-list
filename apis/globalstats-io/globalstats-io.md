@@ -20,7 +20,3 @@ Enrich your games' experience by adding a global highscore for your games.
 
 
 
-
-
-
-

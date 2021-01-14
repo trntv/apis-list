@@ -22,18 +22,3 @@ Integrate your existing service into DroneDeploy and reach tens of thousands of 
 
 
 
-
-
-
-
-
-
-
-)
-
-
-
-es)
-
-
-

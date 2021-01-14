@@ -19,18 +19,3 @@ Access demographic, economic and population data from the U.S. Census Bureau. Ex
 
 
 
--data)
-
-
-
-
-
-
-
-cussions/new)
-
-## Categories:
-- [Government](https://github.com/apis-list/apis-list#government)
-
-
-

@@ -20,7 +20,3 @@ API to request Uber rides.  Discover how the Uber API can easily enhance your ap
 
 
 
-
-
-
-

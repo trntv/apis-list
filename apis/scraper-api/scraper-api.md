@@ -19,18 +19,3 @@ Get started with 1000 free API calls!. Scraper API handles proxies, browsers, an
 
 
 
-
-
-
-Data-As-A-Service](https://github.com/apis-list/apis-list#data-as-a-service)
-
-
-
-
-
-
-
-hub.com/apis-list/apis-list#other)
-
-
-

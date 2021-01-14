@@ -20,7 +20,3 @@ Like job and skill match etc.  The API is growing every day thanks to the mycru.
 
 
 
-
-
-
-

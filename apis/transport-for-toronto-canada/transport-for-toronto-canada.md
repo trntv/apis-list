@@ -18,7 +18,3 @@ MyTTC is the best trip planner available for the TTC.  MyTTC is the best trip pl
 
 
 
-
-
-
-

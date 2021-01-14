@@ -18,11 +18,3 @@ Worldwide public holidays API
 
 
 
--list#calendar)
-
-
-
-
-
-
-

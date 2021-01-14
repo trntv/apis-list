@@ -24,11 +24,3 @@ Millions of Viber users call, text, and send photos to each other, worldwide - f
 
 
 
-a)
-
-
-
-
-
-
-

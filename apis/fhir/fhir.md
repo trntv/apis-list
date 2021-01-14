@@ -21,7 +21,3 @@ Fast Healthcare Interoperability Resources test data
 
 
 
-
-
-
-

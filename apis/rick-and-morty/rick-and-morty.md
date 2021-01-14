@@ -21,10 +21,3 @@ The Rick and Morty API is a REST and GraphQL API based on the television show Ri
 
 
 
-
-
-
-
-
-
-

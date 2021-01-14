@@ -20,11 +20,3 @@ The Bitfinex API is designed to allow access to all the features of the Bitfinex
 
 
 
-s)
-
-
-
-
-
-
-

@@ -22,17 +22,3 @@ A drop-in-replacement for the deprecated Google Image Charts. Easiest way to emb
 
 
 
-
-
-
-
-
-
-
-thub.com/apis-list/apis-list#virtualization)
-- [Other](https://github.com/apis-list/apis-list#other)
-- [Visualizations](https://github.com/apis-list/apis-list#visualizations)
-- [Charts](https://github.com/apis-list/apis-list#charts)
-
-
-

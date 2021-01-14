@@ -22,10 +22,3 @@ Random User Generator + OpenID Connect Provider.  Like Lorem Ipsum, but for user
 
 
 
-
-
-
-
-
-
-

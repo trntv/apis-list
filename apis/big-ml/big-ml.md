@@ -20,10 +20,3 @@ This page helps you quickly create your first source, dataset, model, and predic
 
 
 
-
-
-
-
-
-
-

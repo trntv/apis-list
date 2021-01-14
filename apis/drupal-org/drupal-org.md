@@ -19,7 +19,3 @@ This may happen as a result of the following: Javascript is disabled or blocked 
 
 
 
-
-
-
-

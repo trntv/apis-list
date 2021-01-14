@@ -22,10 +22,3 @@ Collaborative chatbot software. Recast.AI provides an NLP API for text analysis 
 
 
 
-
-
-
-
-
-
-

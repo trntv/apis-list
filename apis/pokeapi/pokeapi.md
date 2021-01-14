@@ -21,7 +21,3 @@ This is a full RESTful API linked to an extensive database detailing everything 
 
 
 
-
-
-
-

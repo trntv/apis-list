@@ -19,7 +19,3 @@ Build on-demand delivery into your app or website.
 
 
 
-
-
-
-

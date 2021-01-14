@@ -21,16 +21,3 @@ World Trading Data is a worldwide market data provider, for example provide a st
 
 
 
-
-
-
-finance-and-economics)
-- [Development](https://github.com/apis-list/apis-list#development)
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
-
-
-
-
-
-
-

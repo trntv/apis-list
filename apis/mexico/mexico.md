@@ -20,10 +20,3 @@ Contribute to IcaliaLabs/sepomex development by creating an account on GitHub. A
 
 
 
-
-
-
-
-
-
-

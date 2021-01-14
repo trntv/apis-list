@@ -20,10 +20,3 @@ Hosted by the USGS Core Science Analytics and Synthesis.  Page designed through 
 
 
 
-
-
-
-
-
-
-

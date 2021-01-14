@@ -20,10 +20,3 @@ qKast API documentation and examples.  Contribute to egfx/qKast development by c
 
 
 
-
-
-
-
-
-
-

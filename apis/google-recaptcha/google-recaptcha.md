@@ -22,7 +22,3 @@ ReCAPTCHA lets you embed a CAPTCHA in your web pages in order to protect them ag
 
 
 
-
-
-
-

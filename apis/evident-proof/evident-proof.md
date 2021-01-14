@@ -22,7 +22,3 @@ The Evident Proof API allows developers to access and integrate the functionalit
 
 
 
-
-
-
-

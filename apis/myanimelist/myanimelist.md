@@ -20,19 +20,3 @@ MyAnimeList.net official API
 
 
 
-
-
-
-iscussion](https://github.com/apis-list/apis-list/discussions/new)
-
-## 🗄️ Categories:
-- [Collecting](https://github.com/apis-list/apis-list#collecting)
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-- [Animation](https://github.com/apis-list/apis-list#animation)
-
-
-
-
-
-
-

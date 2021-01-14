@@ -21,7 +21,3 @@ The Amiibo RESTful API
 
 
 
-
-
-
-

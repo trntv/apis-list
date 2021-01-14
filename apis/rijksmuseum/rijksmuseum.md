@@ -22,10 +22,3 @@ The Rijksmuseum links individuals with art and history. Our data services are im
 
 
 
-
-
-
-
-
-
-

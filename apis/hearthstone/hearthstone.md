@@ -19,7 +19,3 @@ This Hearthstone API provides up to date Hearthstone data pulled directly from t
 
 
 
-
-
-
-

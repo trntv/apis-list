@@ -21,32 +21,3 @@ Text To Speech API - CloudPronouncer (tts online or tts reader) is a cross brows
 
 
 
-n)
-
-
-
-chose so.  Our Text To Speech API (SDK) or tts online is suitable for using on smartphones, tablets, laptops, PCs, Desktops. 
-Allthough this Text To Speech or text to voice utility is intended for software development and therefore developers, we have also here an online application that may be used to get audio files from the input text either plain text or text with SSML markup. This natural Text To Speech online converter is appropriate for E-learning, IVR Telephony Centers, Mobile Apps, GPS Navigation, Robots etc. ogg file
-
-##  🔗 Links
-**Docs / Website**: https://www.de-vis-software.ro/text-to-speech-api.aspx
-
-## 🧬 Specification:
-**Type**: N/A
-**URI**: N/A
-
-## 💬 Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
-
-## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
-- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot-and-home-automation)
-- [Languages](https://github.com/apis-list/apis-list#languages)
-- [Voice](https://github.com/apis-list/apis-list#voice)
-
-
-
-
-
-
-

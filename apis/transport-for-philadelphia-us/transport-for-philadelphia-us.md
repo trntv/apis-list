@@ -20,7 +20,3 @@ SEPTA API New - June 5 2015 - Apps for Philly Transportation Hackathon SEPTA and
 
 
 
-
-
-
-

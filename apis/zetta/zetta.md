@@ -20,10 +20,3 @@ An API-first, open source software platform for the Internet of Things.  - zetta
 
 
 
-
-
-
-
-
-
-

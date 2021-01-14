@@ -22,10 +22,3 @@ You have 1000 daily quota calls for your project. API Generator for telephones, 
 
 
 
-
-
-
-
-
-
-

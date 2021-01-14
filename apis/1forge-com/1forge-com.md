@@ -18,6 +18,3 @@ Real-time forex and crypto quotes via JSON and WebSocket
 
 
 
-
-
-

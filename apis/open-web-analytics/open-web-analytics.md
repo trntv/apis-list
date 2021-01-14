@@ -20,7 +20,3 @@ Web Analytics, open sourced. Open Web Analytics is an open source alternative to
 
 
 
-
-
-
-

@@ -20,10 +20,3 @@ Real-time and historical currency rates JSON API.  CurrencyScoop is a developer-
 
 
 
-
-
-
-
-
-
-

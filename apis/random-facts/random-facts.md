@@ -21,10 +21,3 @@ Random Facts API
 
 
 
-
-
-
-
-
-
-

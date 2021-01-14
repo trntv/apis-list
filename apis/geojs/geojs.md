@@ -20,10 +20,3 @@ REST/JSON/JSONP GeoIP API.  REST/JSON/JSONP GeoIP API
 
 
 
-
-
-
-
-
-
-

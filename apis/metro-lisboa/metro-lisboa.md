@@ -18,7 +18,3 @@ Lisboa metro data
 
 
 
-
-
-
-

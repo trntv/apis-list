@@ -21,7 +21,3 @@ Invoicing for online businesses. Simplify your invoicing process and get paid on
 
 
 
-
-
-
-

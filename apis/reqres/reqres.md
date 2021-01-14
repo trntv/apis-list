@@ -23,14 +23,3 @@ A hosted REST-API ready to respond to AJAX requests
 
 
 
-
-
-
-sting)
-
-
-
-
-
-
-

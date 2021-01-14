@@ -21,17 +21,3 @@ With this screenshot API you can automate high quality real browser screenshots 
 
 
 
-ns/new)
-
-## 🗄️ Categories:
-- [Photography](https://github.com/apis-list/apis-list#photography)
-- [Collaboration](https://github.com/apis-list/apis-list#collaboration)
-- [Browsers](https://github.com/apis-list/apis-list#browsers)
-- [Domains](https://github.com/apis-list/apis-list#domains)
-
-
-
-
-
-
-

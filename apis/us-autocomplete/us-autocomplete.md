@@ -20,10 +20,3 @@ Uses a simple HTTP endpoint.  Address Autocomplete | Use our Autocomplete API to
 
 
 
-
-
-
-
-
-
-

@@ -19,11 +19,3 @@ Weather API for businesses & data science. 0001/record. com/weather-data) inside
 
 
 
-ather)
-
-
-
-
-
-
-

@@ -22,24 +22,3 @@ SparkPost is a cloud based email delivery service that sends 25% of the worlds l
 
 
 
-s)
-
-
-
-
-
-
-
-nalytics](https://github.com/apis-list/apis-list#analytics)
-- [Infrastructure-As-A-Service](https://github.com/apis-list/apis-list#infrastructure-as-a-service)
-
-
-
-
-
-
-
-is-list/apis-list#email-and-sms)
-
-
-

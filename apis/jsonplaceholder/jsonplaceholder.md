@@ -20,15 +20,3 @@ When to use JSONPlaceholder is a free online REST API that you can use whenever 
 
 
 
-Prototype](https://github.com/apis-list/apis-list#prototype)
-
-
-
-sting)
-
-
-
-
-
-
-

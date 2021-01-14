@@ -22,11 +22,3 @@ IP Address Geolocation to Country, City, Region, Latitude, Longitude, ZIP Code, 
 
 
 
-o)
-
-
-
-
-
-
-

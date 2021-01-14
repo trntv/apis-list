@@ -20,10 +20,3 @@ The QR-Code generator gets your data and generates a QR-Code
 
 
 
-
-
-
-
-
-
-

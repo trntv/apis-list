@@ -18,7 +18,3 @@ A consensus driven API for national, federal and public holidays servicing over 
 
 
 
-
-
-
-

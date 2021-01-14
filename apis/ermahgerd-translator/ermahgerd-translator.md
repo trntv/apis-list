@@ -22,11 +22,3 @@ This translates text to ERMAHGERD
 
 
 
-ttps://github.com/apis-list/apis-list#translation)
-
-
-
-
-
-
-

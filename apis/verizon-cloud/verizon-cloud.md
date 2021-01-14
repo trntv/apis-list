@@ -18,10 +18,3 @@ API for accessing stored pictures and other files stored by users of Verizon Clo
 
 
 
-
-
-
-
-
-
-

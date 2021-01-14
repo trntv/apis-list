@@ -55,7 +55,7 @@ func Render(l list.APIs, dir string) error {
 			return err
 		}
 
-		apiFile, err := os.OpenFile(trgt, os.O_CREATE|os.O_RDWR, os.ModePerm)
+		apiFile, err := os.OpenFile(trgt, os.O_CREATE|os.O_RDWR|os.O_TRUNC, os.ModePerm)
 		if err != nil {
 			return err
 		}

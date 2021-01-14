@@ -24,14 +24,3 @@ Create and consume 360 degree panoramic tours using a GraphQL API.  GraphQL 360 
 
 
 
-
-
-
-
-
-
-
-st#games)
-
-
-

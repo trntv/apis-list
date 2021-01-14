@@ -19,11 +19,3 @@ Social media like and share data for any URL.
 
 
 
-
-
-
-
-apis-list/apis-list#social)
-
-
-

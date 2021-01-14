@@ -18,7 +18,3 @@ All of the poets and gods in the Rig Veda, presented with the mandal and sukta n
 
 
 
-
-
-
-

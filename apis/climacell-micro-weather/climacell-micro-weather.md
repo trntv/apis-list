@@ -23,22 +23,3 @@ Historical, real-time and nowcast weather data.
 
 
 
-
-
-
--data)
-
-
-
-
-
-
-
-is-list#coronavirus)
-
-
-
-rds)
-
-
-

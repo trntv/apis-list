@@ -21,7 +21,3 @@ Android vendors, don't kill my app! Contribute to urbandroid-team/dont-kill-my-a
 
 
 
-
-
-
-

@@ -22,10 +22,3 @@ XYZ Menus API provides access to a Database of over 350,000 Restaurant Menus wit
 
 
 
-
-
-
-
-
-
-

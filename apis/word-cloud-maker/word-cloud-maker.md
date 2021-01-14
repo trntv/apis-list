@@ -22,10 +22,3 @@ Multi color and different sizes illustrate the frequency, and the “vibe” of 
 
 
 
-
-
-
-
-
-
-

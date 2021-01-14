@@ -20,10 +20,3 @@ Providing a places search that can be searched by latitude/longitude, keyword ma
 
 
 
-
-
-
-
-
-
-

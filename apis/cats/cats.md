@@ -23,7 +23,3 @@ Get your API Key from - https&#x3A;//TheCatAPI
 
 
 
-
-
-
-

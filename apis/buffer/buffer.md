@@ -21,7 +21,3 @@ Buffer makes it super easy to share any page you're reading. Buffer makes it sup
 
 
 
-
-
-
-

@@ -18,10 +18,3 @@ Zip Codes to Location The API can convert a zip code to the primary location for
 
 
 
-
-
-
-
-
-
-

@@ -18,12 +18,3 @@
 
 
 
-
-
-
-
-ed a URL that doesn't exist on this site
-
-**Categories**:  [Solar Data](https://github/apis-list/apis-list#solar-data),
-
-

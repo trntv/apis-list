@@ -20,7 +20,3 @@ Jikan is an unofficial MyAnimeList REST based API. Jikan is an unofficial MyAnim
 
 
 
-
-
-
-

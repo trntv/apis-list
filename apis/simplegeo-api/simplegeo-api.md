@@ -21,10 +21,3 @@ Offers an API that allows developers to build location-aware applications for mo
 
 
 
-
-
-
-
-
-
-

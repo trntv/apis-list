@@ -21,11 +21,3 @@ This Lorem Ipsum generator fits all your Lipsum needs! Come on over, make some L
 
 
 
--data)
-
-
-
-
-
-
-

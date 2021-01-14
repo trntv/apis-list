@@ -23,11 +23,3 @@ The SMS Service,allows you to send and receive text messages, of up to 160 chara
 
 
 
-s)
-
-
-
-
-
-
-

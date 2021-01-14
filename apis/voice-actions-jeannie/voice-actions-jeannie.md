@@ -22,7 +22,3 @@ Jeannie (Voice Actions) is a virtual assistant with over two Million downloads, 
 
 
 
-
-
-
-

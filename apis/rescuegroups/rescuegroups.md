@@ -18,11 +18,3 @@ org APIs Not all adoptable pet data APIs are made equal! Choosing the right API 
 
 
 
-
-
-
-
-Adoption](https://github.com/apis-list/apis-list#adoption)
-
-
-

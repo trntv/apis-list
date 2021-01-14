@@ -20,7 +20,3 @@ With Calendarific API you can display the dates of public holidays, bank holiday
 
 
 
-
-
-
-

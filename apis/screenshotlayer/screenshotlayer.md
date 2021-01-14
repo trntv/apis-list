@@ -22,10 +22,3 @@ Free for personal use. Free URL to Screenshot API - capture crisp and clean snap
 
 
 
-
-
-
-
-
-
-

@@ -22,11 +22,3 @@ Check where a tv show or movie is available
 
 
 
-t)
-
-
-
-
-
-
-

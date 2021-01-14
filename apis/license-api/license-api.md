@@ -20,7 +20,3 @@ com. Contribute to cmccandless/license-api development by creating an account on
 
 
 
-
-
-
-

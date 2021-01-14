@@ -18,10 +18,3 @@ Database of historical events
 
 
 
-
-
-
-
-
-
-

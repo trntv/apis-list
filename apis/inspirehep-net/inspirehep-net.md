@@ -18,10 +18,3 @@ INSPIRE API Q: I want to do automated searching and receive machine readable res
 
 
 
-
-
-
-
-
-
-

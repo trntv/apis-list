@@ -18,7 +18,3 @@ Flutrack is a system that detects in real time influenza symptoms, using Twitter
 
 
 
-
-
-
-

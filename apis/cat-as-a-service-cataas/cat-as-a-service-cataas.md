@@ -20,7 +20,3 @@ Cat as a service (CATAAS) is a REST API to spread peace and love (or not) thanks
 
 
 
-
-
-
-

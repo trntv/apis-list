@@ -20,7 +20,3 @@ SkyBiometry uses completely different computer vision algorithms for face detect
 
 
 
-
-
-
-

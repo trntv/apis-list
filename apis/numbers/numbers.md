@@ -20,10 +20,3 @@ An API for interesting facts about numbers. An API for interesting facts about n
 
 
 
-
-
-
-
-
-
-

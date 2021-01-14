@@ -18,7 +18,3 @@ Firefox Addons API
 
 
 
-
-
-
-

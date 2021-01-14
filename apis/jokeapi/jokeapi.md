@@ -19,7 +19,3 @@ JokeAPI is a RESTful API that serves jokes from many categories while also offer
 
 
 
-
-
-
-

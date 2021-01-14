@@ -20,14 +20,3 @@ Software developers and researchers can use these APIs and data feeds to help pe
 
 
 
-
-
-
-
-iscussion](https://github.com/apis-list/apis-list/discussions/new)
-
-## Categories:
-- [Government](https://github.com/apis-list/apis-list#government)
-
-
-

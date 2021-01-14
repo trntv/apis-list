@@ -22,10 +22,3 @@ Get random Facts on different topics
 
 
 
-
-
-
-
-
-
-

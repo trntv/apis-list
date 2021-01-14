@@ -18,7 +18,3 @@ A Taylor Swift REST API, written in Deno
 
 
 
-
-
-
-

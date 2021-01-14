@@ -25,27 +25,3 @@ and much much more
 
 
 
-
-
-
-nment)
-
-
-
-
-
-
-
-it](https://github.com/apis-list/apis-list#non-profit)
-
-
-
-ity)
-- [Emergency](https://github.com/apis-list/apis-list#emergency)
-
-
-
-eeds)
-
-
-

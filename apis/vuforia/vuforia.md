@@ -18,10 +18,3 @@ Developers can easily add advanced computer vision functionality to Android, iOS
 
 
 
-
-
-
-
-
-
-

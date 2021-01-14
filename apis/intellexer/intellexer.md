@@ -23,33 +23,3 @@ Processing (NLP) Service including sentiment analysis, content extraction, and l
 
 
 
-arch)
-
-
-
-
-
-
-
-Language Processing](https://github.com/apis-list/apis-list#natural-language-processing)
-- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers-and-data-mining)
-- [Big Data](https://github.com/apis-list/apis-list#big-data)
-- [Extraction](https://github.com/apis-list/apis-list#extraction)
-- [Content Management](https://github.com/apis-list/apis-list#content-management)
-- [Development](https://github.com/apis-list/apis-list#development)
-
-
-
-#text)
-- [Development](https://github.com/apis-list/apis-list#development)
-
-
-
-ontent-management)
-
-
-
-s-list#search)
-
-
-

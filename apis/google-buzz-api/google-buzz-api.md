@@ -21,7 +21,3 @@ A social platform that both users and developers can interact with, the company 
 
 
 
-
-
-
-

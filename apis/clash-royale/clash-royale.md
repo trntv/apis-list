@@ -21,7 +21,3 @@ API that provides informations about Clash Royale game
 
 
 
-
-
-
-

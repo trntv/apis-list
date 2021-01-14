@@ -20,11 +20,3 @@ List of universities and their domain names
 
 
 
--data)
-
-
-
-
-
-
-

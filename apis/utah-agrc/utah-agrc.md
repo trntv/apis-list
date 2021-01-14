@@ -20,10 +20,3 @@ Geocoding API Methods API methods for finding a geolocation (x,y) for addresses.
 
 
 
-
-
-
-
-
-
-

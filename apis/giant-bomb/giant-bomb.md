@@ -21,7 +21,3 @@ The largest video game database online
 
 
 
-
-
-
-

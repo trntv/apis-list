@@ -22,10 +22,3 @@ Node. Node. js server for providing Ron Swanson quotes. Contribute to jamesseanw
 
 
 
-
-
-
-
-
-
-

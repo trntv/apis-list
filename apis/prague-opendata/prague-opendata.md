@@ -19,11 +19,3 @@ Prague City Open Data.  Vítejte na celoměstském portálu pro otevřená data 
 
 
 
-nment)
-
-
-
-
-
-
-

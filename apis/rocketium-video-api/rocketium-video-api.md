@@ -21,10 +21,3 @@ Create multiple videos with your logo, captions, and background music in differe
 
 
 
-
-
-
-
-
-
-

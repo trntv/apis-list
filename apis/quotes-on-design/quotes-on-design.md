@@ -19,7 +19,3 @@ Except with a few lines of code such that ?orderby=rand works. So: EVERY OTHER A
 
 
 
-
-
-
-

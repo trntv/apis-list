@@ -22,7 +22,3 @@ Keygen is a dead-simple software licensing API built for developers of desktop a
 
 
 
-
-
-
-

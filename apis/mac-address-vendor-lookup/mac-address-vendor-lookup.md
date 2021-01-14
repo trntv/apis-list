@@ -22,11 +22,3 @@ The MAC address API allows you to retrieve OUI vendor information, detect virtua
 
 
 
-pment)
-
-
-
-
-
-
-

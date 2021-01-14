@@ -20,11 +20,3 @@ Celebrity information
 
 
 
--data)
-
-
-
-
-
-
-

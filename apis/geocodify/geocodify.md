@@ -21,10 +21,3 @@ Worldwide geocoding, geoparsing and autocomplete for addresses. Geocodify is a f
 
 
 
-
-
-
-
-
-
-

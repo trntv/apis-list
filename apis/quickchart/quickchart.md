@@ -23,11 +23,3 @@ Open source, no watermarks. . Create a chart image with one API call and embed i
 
 
 
-harts)
-
-
-
-
-
-
-

@@ -21,10 +21,3 @@ Icons8 offers simple reliable solutions to cope with all sorts of the challenges
 
 
 
-
-
-
-
-
-
-

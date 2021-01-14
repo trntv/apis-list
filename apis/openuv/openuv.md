@@ -20,7 +20,3 @@ The missing minimalistic JSON real-time UV Index API for awesome Developers, Inn
 
 
 
-
-
-
-

@@ -20,7 +20,3 @@ Get real-time ETAs, availability, price estimates, ride status through the Lyft 
 
 
 
-
-
-
-

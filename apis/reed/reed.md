@@ -18,11 +18,3 @@ Official API for reed.co.uk jobs website
 
 
 
-ithub.com/apis-list/apis-list#jobs)
-
-
-
-
-
-
-

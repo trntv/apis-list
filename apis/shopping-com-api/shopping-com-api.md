@@ -20,7 +20,3 @@ Makes it easy to search for things on eBay
 
 
 
-
-
-
-

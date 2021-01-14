@@ -21,10 +21,3 @@ A free API to retrieve some quotes of Breaking Bad, bitch!.  A free API to retri
 
 
 
-
-
-
-
-
-
-

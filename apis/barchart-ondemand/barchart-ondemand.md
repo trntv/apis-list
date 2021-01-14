@@ -18,10 +18,3 @@ Free Market Data APIs for Stock, futures and forex quotes, and historical data. 
 
 
 
-
-
-
-
-
-
-

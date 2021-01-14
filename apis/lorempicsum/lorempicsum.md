@@ -18,7 +18,3 @@ Generate placeholder pictures. The web host lorempicsum. com does not exist
 
 
 
-
-
-
-

@@ -22,27 +22,3 @@ Crime, school and transportation data for US cities.
 
 
 
-ucation](https://github.com/apis-list/apis-list#education)
-
-
-
-- [Education](https://github.com/apis-list/apis-list#education)
-
-
-
-raphy)
-
-
-
-
-
-
-
-st/apis-list#geography)
-
-
-
- [Real Estate](https://github.com/apis-list/apis-list#real-estate)
-
-
-

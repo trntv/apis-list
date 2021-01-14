@@ -21,11 +21,3 @@ Simple API that includes a common data for most of the applications. Like user i
 
 
 
--data)
-
-
-
-
-
-
-

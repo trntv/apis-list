@@ -22,7 +22,3 @@ Generates cool looking robot image for any text
 
 
 
-
-
-
-

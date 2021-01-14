@@ -22,11 +22,3 @@ Bitcoin Price Index. CoinDesk provides a simple and free API to make its Bitcoin
 
 
 
-s)
-
-
-
-
-
-
-

@@ -24,15 +24,3 @@ Automate data extraction from your documents with Artificial Intelligence
 
 
 
-ning)
-
-
-
-ining)
-
-
-
-
-
-
-

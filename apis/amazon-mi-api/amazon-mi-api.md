@@ -18,10 +18,3 @@ Amazon Machine Learning API simplifies the process of making predictions that re
 
 
 
-
-
-
-
-
-
-

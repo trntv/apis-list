@@ -19,17 +19,3 @@ Gives you access to 1000s of Trivia questions. Your browser will redirect to you
 
 
 
-
-
-
-
-st#games-and-comics)
-- [Government](https://github.com/apis-list/apis-list#government)
-- [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
-
-
-
-
-
-
-

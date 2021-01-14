@@ -19,14 +19,3 @@ Full API to take screenshots of any website.
 
 
 
-ment)
-- [Browsers](https://github.com/apis-list/apis-list#browsers)
-- [Collaboration](https://github.com/apis-list/apis-list#collaboration)
-- [Business](https://github.com/apis-list/apis-list#business)
-
-
-
-
-
-
-

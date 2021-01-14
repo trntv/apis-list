@@ -22,10 +22,3 @@ Used by 10,000+ developers worldwide. . Suite of utility API's (validate emails,
 
 
 
-
-
-
-
-
-
-

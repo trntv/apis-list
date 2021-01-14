@@ -20,15 +20,3 @@ Resources from Studio Ghibli films
 
 
 
-
-
-
-
-
-
-
-ent)
-- [Japanese](https://github.com/apis-list/apis-list#japanese)
-
-
-

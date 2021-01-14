@@ -20,7 +20,3 @@ QMeta offers a free, uncensored and unlimited web search engine API
 
 
 
-
-
-
-

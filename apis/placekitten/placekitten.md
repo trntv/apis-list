@@ -23,10 +23,3 @@ A quick and simple service for getting pictures of kittens for use as placeholde
 
 
 
-
-
-
-
-
-
-

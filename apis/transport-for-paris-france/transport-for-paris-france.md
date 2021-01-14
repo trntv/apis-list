@@ -18,14 +18,3 @@ Realtime schedules for Paris metro network (RATP - metro, bus, tram, rer)
 
 
 
-
-
-
-
-ew)
-
-## Categories:
-- [Transportation](https://github.com/apis-list/apis-list#transportation)
-
-
-

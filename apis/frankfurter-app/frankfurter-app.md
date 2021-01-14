@@ -18,10 +18,3 @@ Documentation and code examples for the Frankfurter currency data API.  Document
 
 
 
-
-
-
-
-
-
-

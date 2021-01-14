@@ -20,7 +20,3 @@ Dive into Colorado’s water, including wells, surface water conditions, and wat
 
 
 
-
-
-
-

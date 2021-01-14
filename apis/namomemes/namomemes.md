@@ -20,7 +20,3 @@ Is a description required ? Hail NaMo ! Contribute to theIYD/NaMoMemes developme
 
 
 
-
-
-
-

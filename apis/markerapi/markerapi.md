@@ -20,11 +20,3 @@ Trademark search API to search the US trademarks database (USPTO) based on a sea
 
 
 
-
-
-
-
-iness)
-
-
-

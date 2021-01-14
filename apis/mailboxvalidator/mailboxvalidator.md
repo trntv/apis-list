@@ -20,7 +20,3 @@ MailboxValidator provides single email validation API that checks if an email ad
 
 
 
-
-
-
-

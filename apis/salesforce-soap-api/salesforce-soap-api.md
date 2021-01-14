@@ -22,7 +22,3 @@ The Salesforce Platform connects the entire customer journey across Sales, Servi
 
 
 
-
-
-
-

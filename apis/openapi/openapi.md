@@ -20,7 +20,3 @@ The OpenAPI Specification: a broadly adopted industry standard for describing mo
 
 
 
-
-
-
-

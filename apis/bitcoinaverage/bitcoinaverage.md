@@ -21,11 +21,3 @@ Introduction Welcome to the BitcoinAverage API! The world's best and longest run
 
 
 
-eeds)
-
-
-
-
-
-
-

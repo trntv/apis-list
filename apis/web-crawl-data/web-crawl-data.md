@@ -18,7 +18,3 @@ Access to data is a good thing, right? Please donate today, so we can continue t
 
 
 
-
-
-
-

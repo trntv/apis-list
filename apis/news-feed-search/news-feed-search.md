@@ -18,15 +18,3 @@ Free news search API. Easily search and filter news feeds to integrate them into
 
 
 
-
-
-
-
-
-
-
-Categories:
-- [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
-
-
-

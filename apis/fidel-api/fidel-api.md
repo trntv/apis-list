@@ -21,7 +21,3 @@ FIDEL is a card-linked API that lets developers create web and mobile applicatio
 
 
 
-
-
-
-

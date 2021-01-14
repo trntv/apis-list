@@ -23,10 +23,3 @@ Allows greater developer access to native Yelp data and features.  Yelp for Deve
 
 
 
-
-
-
-
-
-
-

@@ -20,10 +20,3 @@ Get to know your time with your computer
 
 
 
-
-
-
-
-
-
-

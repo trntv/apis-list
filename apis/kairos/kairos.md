@@ -25,15 +25,3 @@ Face recognition, emotion analysis and measuring engagement of people in images 
 
 
 
-b.com/apis-list/apis-list#authentication--user-management)
-
-
-
-t)
-
-
-
-
-
-
-

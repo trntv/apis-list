@@ -18,7 +18,3 @@ A categoria Linhas possibilita a consulta pelas linhas de ônibus da cidade de S
 
 
 
-
-
-
-

@@ -20,10 +20,3 @@ Provides service to get associations for a word or phrase. Words are grouped by 
 
 
 
-
-
-
-
-
-
-

@@ -20,10 +20,3 @@ Google AdSense provides a free, flexible way to earn money from your websites, m
 
 
 
-
-
-
-
-
-
-

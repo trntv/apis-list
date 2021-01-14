@@ -20,10 +20,3 @@ Azure Cognitive Services brings AI within reach of every developer through a fam
 
 
 
-
-
-
-
-
-
-

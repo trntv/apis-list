@@ -18,7 +18,3 @@ Scrape websites and get their content as plaintext
 
 
 
-
-
-
-

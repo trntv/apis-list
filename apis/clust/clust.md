@@ -25,32 +25,3 @@ The best way to gather anyone’s documents, directly from your app & without ha
 
 
 
-//github.com/apis-list/apis-list#crm)
-
-
-
-m)
-
-
-
-](https://github.com/apis-list/apis-list#business)
-
-
-
-
-
-
-
-s-list/apis-list#customer-service)
-- [Surveys](https://github.com/apis-list/apis-list#surveys)
-
-
-
-relationship-management)
-
-
-
-cuments)
-
-
-

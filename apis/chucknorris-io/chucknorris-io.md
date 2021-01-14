@@ -19,7 +19,3 @@ Read more Chuck Norris facts are satirical factoids about martial artist and act
 
 
 
-
-
-
-

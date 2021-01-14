@@ -24,10 +24,3 @@ Square provides support and tools for you to build apps for today’s business n
 
 
 
-
-
-
-
-
-
-

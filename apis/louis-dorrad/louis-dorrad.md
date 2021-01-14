@@ -20,10 +20,3 @@ Google’s product is quite similar to Amazon’s but it’s actually. Amazon Ma
 
 
 
-
-
-
-
-
-
-

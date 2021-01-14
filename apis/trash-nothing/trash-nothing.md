@@ -23,11 +23,3 @@ Developer API trash nothing! provides a REST API which allows developers to buil
 
 
 
-Sustainability](https://github.com/apis-list/apis-list#sustainability)
-
-
-
-
-
-
-

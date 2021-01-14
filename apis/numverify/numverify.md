@@ -23,10 +23,3 @@ Free, powerful JSON API offering international and national phone number validat
 
 
 
-
-
-
-
-
-
-

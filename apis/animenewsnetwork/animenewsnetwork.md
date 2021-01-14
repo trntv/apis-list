@@ -18,7 +18,3 @@ ANN provides a direct feed to the Encyclopedia data in XML format
 
 
 
-
-
-
-

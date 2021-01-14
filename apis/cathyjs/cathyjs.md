@@ -20,7 +20,3 @@ It is mainly created for discord bots. . A chatbot api which is completely free
 
 
 
-
-
-
-

@@ -18,10 +18,3 @@ Please refer to the documentation on the GBIF website. If you arrived here unexp
 
 
 
-
-
-
-
-
-
-

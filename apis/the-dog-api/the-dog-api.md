@@ -21,7 +21,3 @@ An API all about dogs.  A public service API all about Dogs, free to use when ma
 
 
 
-
-
-
-

@@ -20,14 +20,3 @@ For large organizations we can also assist in building you a custom Scribble. Th
 
 
 
-
-
-
-Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
-
-
-
-
-
-
-

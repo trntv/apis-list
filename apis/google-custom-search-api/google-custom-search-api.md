@@ -20,7 +20,3 @@ With this API, you can use RESTful req. Create a search engine for your website,
 
 
 
-
-
-
-

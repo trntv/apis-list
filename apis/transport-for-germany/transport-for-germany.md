@@ -18,7 +18,3 @@ Diese API stellt Fahrplandaten, im ersten Schritt den SOLL-Fahrplan des Fernverk
 
 
 
-
-
-
-

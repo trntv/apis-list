@@ -20,10 +20,3 @@ Official developer documentation for Microsoft Advertising. Provides programmati
 
 
 
-
-
-
-
-
-
-

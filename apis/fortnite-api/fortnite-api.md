@@ -18,7 +18,3 @@ A fortnite tracker api that returns data about and account
 
 
 
-
-
-
-

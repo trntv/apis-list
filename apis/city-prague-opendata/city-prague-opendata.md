@@ -18,7 +18,3 @@ Vítejte na celoměstském portálu pro otevřená data hlavního města Prahy. 
 
 
 
-
-
-
-

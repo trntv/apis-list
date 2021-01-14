@@ -22,10 +22,3 @@ Search through user Flickr content, contacts, upload or replace photos.  Flickr 
 
 
 
-
-
-
-
-
-
-

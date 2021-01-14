@@ -22,12 +22,3 @@ Weather API Documentation. Use our Weather API to access weather forecasts, and 
 
 
 
-pis-list#data-as-a-service)
-- [Weather](https://github.com/apis-list/apis-list#weather)
-
-
-
-
-
-
-

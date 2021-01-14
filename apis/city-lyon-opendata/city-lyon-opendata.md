@@ -20,7 +20,3 @@ Les données des acteurs du territoire de la Métropole de Lyon
 
 
 
-
-
-
-

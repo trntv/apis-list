@@ -22,11 +22,3 @@ SDKs for integration, rich historic tick data.  AllMarkets - US stock market: re
 
 
 
-s)
-
-
-
-
-
-
-

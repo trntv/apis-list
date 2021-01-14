@@ -25,11 +25,3 @@ Overview The Gyazo API can be used in a wide array of apps to upload new images,
 
 
 
-a)
-
-
-
-
-
-
-

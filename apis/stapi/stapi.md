@@ -18,10 +18,3 @@ Information on all things Star Trek
 
 
 
-
-
-
-
-
-
-

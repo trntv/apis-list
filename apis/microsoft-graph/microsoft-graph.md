@@ -23,17 +23,3 @@ Find out how you can use the Microsoft Graph API to connect to the data that dri
 
 
 
-vity)
-
-
-
-files-and-storage)
-- [Calendar](https://github.com/apis-list/apis-list#calendar)
-- [CRM](https://github.com/apis-list/apis-list#crm)
-
-
-
-
-
-
-

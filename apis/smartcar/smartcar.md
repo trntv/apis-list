@@ -23,15 +23,3 @@ Build web and mobile apps that communicate with vehicles
 
 
 
-
-
-
-Platform-As-A-Service](https://github.com/apis-list/apis-list#platform-as-a-service)
-- [SaaS](https://github.com/apis-list/apis-list#saas)
-
-
-
-
-
-
-

@@ -18,7 +18,3 @@ PlaceGOAT Tired of all these placeholder services that just cater to superficial
 
 
 
-
-
-
-

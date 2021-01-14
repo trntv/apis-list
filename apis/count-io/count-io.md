@@ -20,7 +20,3 @@ Persistent counting and A/B testing
 
 
 
-
-
-
-

@@ -21,14 +21,3 @@ Access the Untappd API documentation to power your app or project. . Untappd is 
 
 
 
-
-
-
-
-
-
-
-nks)
-
-
-

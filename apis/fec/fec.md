@@ -18,7 +18,3 @@ Information on campaign donations in federal elections
 
 
 
-
-
-
-

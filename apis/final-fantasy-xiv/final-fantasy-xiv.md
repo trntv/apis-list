@@ -20,7 +20,3 @@ A FINAL FANTASY XIV: Online REST API - Game data, characters, free companies, li
 
 
 
-
-
-
-

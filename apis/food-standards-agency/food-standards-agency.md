@@ -18,7 +18,3 @@ Find out if a restaurant, takeaway or food shop you want to visit has good food 
 
 
 
-
-
-
-

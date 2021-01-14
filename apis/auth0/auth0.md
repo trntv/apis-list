@@ -20,22 +20,3 @@ Rapidly integrate authentication and authorization for web, mobile, and legacy a
 
 
 
-Identity](https://github.com/apis-list/apis-list#identity)
-
-
-
-
-
-
-
-
-
-
-pis-list#api-strategy)
-
-
-
-y)
-
-
-

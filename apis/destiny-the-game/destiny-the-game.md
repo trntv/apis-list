@@ -21,7 +21,3 @@ These endpoints constitute the functionality exposed by Bungie. net
 
 
 
-
-
-
-

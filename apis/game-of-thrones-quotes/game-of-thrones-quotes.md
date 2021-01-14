@@ -20,7 +20,3 @@ A free API to retrieve some quotes of Game of Thrones!
 
 
 
-
-
-
-

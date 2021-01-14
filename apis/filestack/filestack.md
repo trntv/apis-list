@@ -20,13 +20,3 @@ API for image and file manipulation, 250 uploads and 500 uploads per month for f
 
 
 
-e)
-- [Cloud](https://github.com/apis-list/apis-list#cloud)
-- [Editing](https://github.com/apis-list/apis-list#editing)
-
-
-
-
-
-
-

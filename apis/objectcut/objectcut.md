@@ -21,11 +21,3 @@ Automatic background removal real-time service powered by AI. Automatic backgrou
 
 
 
-n)
-
-
-
-
-
-
-

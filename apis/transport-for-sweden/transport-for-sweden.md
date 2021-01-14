@@ -18,7 +18,3 @@ Ankomst- och avgångsprognoserom bussar, tunnelbana, pendeltåg, lokalbana och b
 
 
 
-
-
-
-

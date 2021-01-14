@@ -22,10 +22,3 @@ It allows you to create client programs in any programming language with an HTTP
 
 
 
-
-
-
-
-
-
-

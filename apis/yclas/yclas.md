@@ -23,15 +23,3 @@ Be creative and create any type of marketplace Whether you are looking for a web
 
 
 
-
-
-
-s-list#commerce)
-- [Marketplace](https://github.com/apis-list/apis-list#marketplace)
-
-
-
-
-
-
-

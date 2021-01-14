@@ -19,6 +19,3 @@ Unlock insights from your global device network with an intelligent IoT platform
 
 
 
-
-
-

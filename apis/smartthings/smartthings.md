@@ -19,10 +19,3 @@ An open, programmatic interface for controlling smart devices The SmartThings pl
 
 
 
-
-
-
-
-
-
-

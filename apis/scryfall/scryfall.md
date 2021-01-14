@@ -21,7 +21,3 @@ Scryfall is a powerful Magic: The Gathering card search
 
 
 
-
-
-
-

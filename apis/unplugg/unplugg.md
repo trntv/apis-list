@@ -19,8 +19,3 @@ Add intelligence to your energy products. Automated Forecasting API for timeseri
 
 
 
-
-thub.com/apis-list/apis-list#machine-learning)
-
-
-

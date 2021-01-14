@@ -18,10 +18,3 @@ Bing Maps platform provides multiple API options for your application.  Explore 
 
 
 
-
-
-
-
-
-
-

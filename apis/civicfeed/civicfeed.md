@@ -22,15 +22,3 @@ Get online news, blogs, social and TV/radio through a JSON API - easy integratio
 
 
 
-a)
-
-
-
-feeds)
-
-
-
-
-
-
-

@@ -22,18 +22,3 @@ Svátky API Vám řekne kdo má kdy svátek, nebo kdy má kdo svátek. Svátky A
 
 
 
-
-
-
-nment)
-
-
-
-
-
-
-
-ment](https://github.com/apis-list/apis-list#government)
-
-
-

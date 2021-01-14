@@ -21,13 +21,3 @@ Easily create custom HTTP resources complete with fake data.  fakeJSON's API sca
 
 
 
-t#databases)
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
-- [Testing](https://github.com/apis-list/apis-list#testing)
-
-
-
-
-
-
-

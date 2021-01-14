@@ -18,10 +18,3 @@ Secure, fast, convenient way to login in your app/website.  A secure, quick, and
 
 
 
-
-
-
-
-
-
-

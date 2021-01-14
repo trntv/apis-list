@@ -18,7 +18,3 @@ The Bot API allows you to easily create programs that use Telegram messages forâ
 
 
 
-
-
-
-

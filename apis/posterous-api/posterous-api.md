@@ -22,10 +22,3 @@ Similar to other blogging platforms.  Posting could be done by logging into the 
 
 
 
-
-
-
-
-
-
-

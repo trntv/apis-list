@@ -20,7 +20,3 @@ com - comichron-data/api. JSON API for monthly sales data from comichron
 
 
 
-
-
-
-

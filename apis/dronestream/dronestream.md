@@ -21,11 +21,3 @@ Tracks United States drone strikes. Real-time and historical data about every re
 
 
 
--data)
-
-
-
-
-
-
-

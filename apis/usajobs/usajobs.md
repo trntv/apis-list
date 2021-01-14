@@ -21,7 +21,3 @@ USAJOBS API Terms of Service As a USAJOBS API Consumer, you agree to the followi
 
 
 
-
-
-
-

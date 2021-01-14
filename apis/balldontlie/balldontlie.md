@@ -19,14 +19,3 @@ Introduction Welcome to the balldontlie API! You can use our free API to access 
 
 
 
-
-
-
--data)
-
-
-
-
-
-
-

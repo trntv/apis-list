@@ -21,7 +21,3 @@ The MTG API allows developers to easily consume MTG card and set data in JSON fo
 
 
 
-
-
-
-

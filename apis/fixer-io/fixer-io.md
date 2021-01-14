@@ -20,10 +20,3 @@ The API tracks rates published daily by the European Central Bank. JSON API for 
 
 
 
-
-
-
-
-
-
-

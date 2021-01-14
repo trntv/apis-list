@@ -21,11 +21,3 @@ MLScrape is an API that allows you to scrape data from any online shop without h
 
 
 
-t)
-
-
-
-
-
-
-

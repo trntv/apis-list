@@ -18,10 +18,3 @@ citybik. es/v2/networks { "networks":. CityBikes API Documentation Welcome to th
 
 
 
-
-
-
-
-
-
-

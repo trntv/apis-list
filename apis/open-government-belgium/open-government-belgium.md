@@ -18,7 +18,3 @@ The Belgian Open Data Initiative. The Belgian Open Data Initiative
 
 
 
-
-
-
-

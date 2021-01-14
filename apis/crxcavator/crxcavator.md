@@ -20,7 +20,3 @@ These factors include permissions, inclusion of vulnerable third party javascrip
 
 
 
-
-
-
-

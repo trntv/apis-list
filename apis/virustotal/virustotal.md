@@ -20,7 +20,3 @@ The VirusTotal API lets you upload and scan files or URLs, access finished scan 
 
 
 
-
-
-
-

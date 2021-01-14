@@ -20,7 +20,3 @@ Web Scraper API to extract information from web sites, scrape SERPs, convert web
 
 
 
-
-
-
-

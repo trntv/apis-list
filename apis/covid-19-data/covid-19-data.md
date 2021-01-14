@@ -21,11 +21,3 @@ fr/v1. The API provides realtime and historical data on Coronavirus COVID-19 con
 
 
 
--data)
-
-
-
-
-
-
-

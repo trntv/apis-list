@@ -23,7 +23,3 @@ Worlds largest library of GIFs
 
 
 
-
-
-
-

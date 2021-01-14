@@ -20,7 +20,3 @@ Solar radiation and forecasting data globally available and free for researchers
 
 
 
-
-
-
-

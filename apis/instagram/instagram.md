@@ -21,10 +21,3 @@ How to use the Instagram Graph API. Access to Instagram’s OAuth API
 
 
 
-
-
-
-
-
-
-

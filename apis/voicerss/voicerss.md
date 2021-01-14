@@ -18,10 +18,3 @@ An API to convert Text to Speech, supporting 15+ major languages.  Voice RSS pro
 
 
 
-
-
-
-
-
-
-

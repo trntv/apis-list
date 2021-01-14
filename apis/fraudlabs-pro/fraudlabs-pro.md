@@ -20,7 +20,3 @@ FraudLabs Pro Rest API to screen the order transaction for online fraud.  FraudL
 
 
 
-
-
-
-

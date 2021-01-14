@@ -23,32 +23,3 @@ Multilingual summarization, keywords and sentiment analysis, language recognitio
 
 
 
-nalysis)
-
-
-
-
-
-
-
-.com/apis-list/apis-list#news-and-feeds)
-- [Annotations](https://github.com/apis-list/apis-list#annotations)
-- [Natural Language Processing](https://github.com/apis-list/apis-list#natural-language-processing)
-- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
-- [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
-
-
-
-feeds)
-- [Annotations](https://github.com/apis-list/apis-list#annotations)
-
-
-
-
-
-
-
-notations)
-
-
-

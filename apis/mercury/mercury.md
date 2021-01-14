@@ -22,15 +22,3 @@ Mercury Web Parser turns web articles into structured content reliably and easil
 
 
 
-s)
-
-
-
-
-
-
-
-Banking](https://github.com/apis-list/apis-list#banking)
-
-
-

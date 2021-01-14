@@ -22,11 +22,3 @@ Simple and powerful email verification JSON API using SMTP, typo checks, syntax 
 
 
 
-n)
-
-
-
-
-
-
-

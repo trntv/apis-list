@@ -21,7 +21,3 @@ A public service API all about cat pictures.  A public service API all about Cat
 
 
 
-
-
-
-

@@ -23,11 +23,3 @@ API for making cross-protocol realtime communication between devices easy.  Ably
 
 
 
-e)
-
-
-
-
-
-
-

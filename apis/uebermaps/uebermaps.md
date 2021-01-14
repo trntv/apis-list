@@ -19,10 +19,3 @@ uebermaps are interactive maps that enable people to. Hello developer.  This is 
 
 
 
-
-
-
-
-
-
-

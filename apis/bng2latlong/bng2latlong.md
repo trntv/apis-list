@@ -22,15 +22,3 @@ Simple API to convert an OSGB36 easting and northing (British National Grid) to 
 
 
 
- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
-
-
-
-d-geo)
-
-
-
-
-
-
-

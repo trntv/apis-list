@@ -20,11 +20,3 @@ Our endpoints include face detection (detect 1 or multiple faces), face matching
 
 
 
-
-
-
-
-is-list#recognition)
-
-
-

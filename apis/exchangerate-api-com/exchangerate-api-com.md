@@ -18,10 +18,3 @@ Accurate & reliable Exchange Rates API trusted by tens of thousands of developer
 
 
 
-
-
-
-
-
-
-

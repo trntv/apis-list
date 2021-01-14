@@ -20,10 +20,3 @@ Yahoo Maps lets you easily embed rich and interactive maps using your choice of 
 
 
 
-
-
-
-
-
-
-

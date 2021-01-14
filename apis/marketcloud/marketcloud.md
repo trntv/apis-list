@@ -20,7 +20,3 @@ It covers inventory and database, carts and checkout, payments, user authenticat
 
 
 
-
-
-
-

@@ -20,7 +20,3 @@ General knowledge on every topic; query it all with natural language input. Easi
 
 
 
-
-
-
-

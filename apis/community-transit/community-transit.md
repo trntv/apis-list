@@ -20,7 +20,3 @@ Transitland's centralized web service API for both querying and editing aggregat
 
 
 
-
-
-
-

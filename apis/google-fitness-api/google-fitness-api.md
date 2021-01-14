@@ -20,10 +20,3 @@ Google Fit is an open ecosystem that makes it easy to store, access, and manage 
 
 
 
-
-
-
-
-
-
-

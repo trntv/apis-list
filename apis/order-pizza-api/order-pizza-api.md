@@ -20,10 +20,3 @@ A RESTful API as pizza restaurant ordering system. swagger Explore
 
 
 
-
-
-
-
-
-
-

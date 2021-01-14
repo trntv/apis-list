@@ -18,7 +18,3 @@ about “Terms of Service; Didn't Read” (short: ToS;DR) is a project started i
 
 
 
-
-
-
-

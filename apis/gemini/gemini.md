@@ -18,10 +18,3 @@ Introduction Gemini offers both public and private REST APIs.  Public REST APIs 
 
 
 
-
-
-
-
-
-
-

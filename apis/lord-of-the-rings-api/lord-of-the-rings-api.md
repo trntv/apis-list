@@ -18,7 +18,3 @@ Get data about the books, the movie trilogy, many characters and quotes
 
 
 
-
-
-
-

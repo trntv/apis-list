@@ -24,10 +24,3 @@ Generate PDF from any website. Automate web performance. Turns any link into inf
 
 
 
-
-
-
-
-
-
-

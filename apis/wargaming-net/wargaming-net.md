@@ -19,7 +19,3 @@ Wargaming Games API. Stats, Matches, Data
 
 
 
-
-
-
-

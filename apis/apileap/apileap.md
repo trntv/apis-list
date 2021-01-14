@@ -19,13 +19,3 @@ Make screenshots from web pages and HTML
 
 
 
-
-
-
-
-ries:
-- [Collaboration](https://github.com/apis-list/apis-list#collaboration)
-- [Development](https://github.com/apis-list/apis-list#development)
-
-
-

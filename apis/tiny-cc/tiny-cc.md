@@ -18,7 +18,3 @@ Easy-to-use URL shortener.  Supports custom short link ending.  API documentatio
 
 
 
-
-
-
-

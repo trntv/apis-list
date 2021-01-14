@@ -20,10 +20,3 @@ Amazon Simple Storage Service (Amazon S3) is storage for the internet.  You can 
 
 
 
-
-
-
-
-
-
-

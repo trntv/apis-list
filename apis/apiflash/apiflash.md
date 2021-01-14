@@ -25,10 +25,3 @@ Chrome based screenshot API to convert URLs to images.  ApiFlash is an easy to u
 
 
 
-
-
-
-
-
-
-

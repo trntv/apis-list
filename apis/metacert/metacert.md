@@ -20,7 +20,3 @@ MetaCert takes just 1 minute to install and reduces the risk of identity theft, 
 
 
 
-
-
-
-

@@ -18,7 +18,3 @@ A simple free reverse geocoding API for turning coordinates into human readable 
 
 
 
-
-
-
-

@@ -22,14 +22,3 @@ APIs for products and store information
 
 
 
-
-
-
-
-
-
-
-s-list/apis-list#commerce)
-
-
-

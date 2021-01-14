@@ -20,7 +20,3 @@ Gets you a random quote from famous movies in XML,SOAP format
 
 
 
-
-
-
-

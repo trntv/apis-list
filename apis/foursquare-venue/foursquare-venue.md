@@ -18,10 +18,3 @@ Providing a places search that can be searched by hierarchical list of categorie
 
 
 
-
-
-
-
-
-
-

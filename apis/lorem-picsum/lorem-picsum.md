@@ -22,10 +22,3 @@ Lorem Ipsum, but for photos.
 
 
 
-
-
-
-
-
-
-

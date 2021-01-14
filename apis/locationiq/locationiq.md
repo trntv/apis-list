@@ -20,10 +20,3 @@ Generous free tier, offering Enterprise-grade APIs for everyone!. Affordable Geo
 
 
 
-
-
-
-
-
-
-

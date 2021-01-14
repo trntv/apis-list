@@ -20,11 +20,3 @@ Open demographic data such as population tables, population rank and life expect
 
 
 
--data)
-
-
-
-
-
-
-

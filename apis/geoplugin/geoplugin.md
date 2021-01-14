@@ -18,10 +18,3 @@ geoPlugin is a free, fast and reliable Geolocation Webservice API to locate your
 
 
 
-
-
-
-
-
-
-

@@ -21,10 +21,3 @@ Integrate your service with Discord — whether it's a bot or a game or whatever
 
 
 
-
-
-
-
-
-
-

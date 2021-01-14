@@ -18,7 +18,3 @@ XposedOrNot is a collection of ~850 million real time passwords collated from re
 
 
 
-
-
-
-

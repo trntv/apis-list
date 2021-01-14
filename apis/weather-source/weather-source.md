@@ -23,11 +23,3 @@ Powerful Weather API built for systems that demand speed, reliability and heavy 
 
 
 
--data)
-
-
-
-
-
-
-

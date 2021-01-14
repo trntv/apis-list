@@ -22,10 +22,3 @@ Free, powerful HTML to PDF API supporting both URL and raw HTML conversion. Free
 
 
 
-
-
-
-
-
-
-

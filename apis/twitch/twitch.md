@@ -20,7 +20,3 @@ The Twitch API enables you to develop your own applications using the rich featu
 
 
 
-
-
-
-

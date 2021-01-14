@@ -18,10 +18,3 @@ herokuapp. com/api/v1/ with headers of Accept: "application/json", "Content-Type
 
 
 
-
-
-
-
-
-
-

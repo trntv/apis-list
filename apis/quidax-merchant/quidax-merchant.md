@@ -20,15 +20,3 @@ Buy, sell and store Bitcoin, Ethereum, Ripple (XRP), Litecoin & other cryptocurr
 
 
 
-y)
-
-
-
-
-
-
-
-https://github.com/apis-list/apis-list#currency)
-
-
-

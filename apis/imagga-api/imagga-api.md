@@ -22,14 +22,3 @@ identifies the content of images and videos, classify images based on content, e
 
 
 
-
-
-
-
-
-
-
-s-list/apis-list#recognition)
-
-
-

@@ -18,10 +18,3 @@ Rate. VAT validation The VAT validation endpoint allows you to check whether a V
 
 
 
-
-
-
-
-
-
-

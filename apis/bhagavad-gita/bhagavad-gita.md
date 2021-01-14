@@ -22,7 +22,3 @@ Bhagwat Geeta in Hindi and English. Read Bhagavad Gita online in a simple, beaut
 
 
 
-
-
-
-

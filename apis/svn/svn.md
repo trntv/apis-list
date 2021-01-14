@@ -18,7 +18,3 @@ It is intended mainly for programmers, both those working on Subversion itself, 
 
 
 
-
-
-
-

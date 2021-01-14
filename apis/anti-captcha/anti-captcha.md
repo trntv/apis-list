@@ -21,12 +21,3 @@ Access to Anti-Captcha’s API.  Bypass reCAPTCHA, solve image captchas, hCaptch
 
 
 
-
-
-
-
-list#authentication-and-user-management)
-- [Recognition](https://github.com/apis-list/apis-list#recognition)
-
-
-

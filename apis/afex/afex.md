@@ -21,10 +21,3 @@ Never worry about maintaining API documentation again. AFEX API is designed for 
 
 
 
-
-
-
-
-
-
-

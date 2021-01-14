@@ -20,10 +20,3 @@ Contribute to AlbertSuarez/searchly development by creating an account on GitHub
 
 
 
-
-
-
-
-
-
-

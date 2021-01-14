@@ -18,15 +18,3 @@ Free IP Geolocation API with no registration required.  15000 requests per hour 
 
 
 
-ttps://github.com/apis-list/apis-list#domains)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
-
-
-
-
-
-
-
-
-
-

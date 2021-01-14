@@ -21,11 +21,3 @@ Learn how to use our API to build your own website or applications backed by the
 
 
 
-
-
-
-
-Adoption](https://github.com/apis-list/apis-list#adoption)
-
-
-

@@ -20,7 +20,3 @@ In this day and age, everyone and their dog has an API. So why not have an API f
 
 
 
-
-
-
-

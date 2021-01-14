@@ -20,15 +20,3 @@ Access to data from Withings activity trackers and body measures
 
 
 
-h)
-
-
-
-
-
-
-
-ist/apis-list#iot-and-home-automation)
-
-
-

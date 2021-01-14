@@ -18,15 +18,3 @@ Free screenshot api for capturing web pages.  Let our website screenshot generat
 
 
 
-
-
-
-
-
-
-
-ion](https://github.com/apis-list/apis-list#optimization)
-- [Photography](https://github.com/apis-list/apis-list#photography)
-
-
-

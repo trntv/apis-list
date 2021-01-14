@@ -21,7 +21,3 @@ Web Service allows you to search the Internet for images
 
 
 
-
-
-
-

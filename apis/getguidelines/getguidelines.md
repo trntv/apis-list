@@ -19,7 +19,3 @@ Use biometric and demographic data to search the same medical references used by
 
 
 
-
-
-
-

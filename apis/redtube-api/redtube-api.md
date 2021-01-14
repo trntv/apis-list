@@ -18,7 +18,3 @@ The Redtube API.  RedTube API Documentation Welcome to the RedTube API developer
 
 
 
-
-
-
-

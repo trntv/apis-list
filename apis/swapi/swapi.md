@@ -18,10 +18,3 @@ A Remake of the original api, using the MERN stack. A Remake of the original api
 
 
 
-
-
-
-
-
-
-

@@ -20,7 +20,3 @@ Create thousands of QR codes with design and logo automatically. Integrate custo
 
 
 
-
-
-
-

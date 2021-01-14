@@ -22,10 +22,3 @@ Build scalable news feed for your app. MySocialApp is simple, powerful APIs are 
 
 
 
-
-
-
-
-
-
-

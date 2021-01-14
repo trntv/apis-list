@@ -19,10 +19,3 @@ Metadefender Cloud provides unique set of APIs for everyone who is working with 
 
 
 
-
-
-
-
-
-
-

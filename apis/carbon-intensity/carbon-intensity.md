@@ -18,7 +18,3 @@ Regional Data new National Grid ESO forecasts the carbon intensity and generatio
 
 
 
-
-
-
-

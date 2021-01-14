@@ -21,10 +21,3 @@ An extremely mature, well organized and continuely updated resource of comic inf
 
 
 
-
-
-
-
-
-
-

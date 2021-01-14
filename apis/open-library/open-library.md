@@ -22,7 +22,3 @@ Open Library is an open, editable library catalog, building towards a web page f
 
 
 
-
-
-
-

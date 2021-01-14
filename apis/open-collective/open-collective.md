@@ -20,7 +20,3 @@ Learn more about it here: https://medium. GraphQL API The future of the Open Col
 
 
 
-
-
-
-

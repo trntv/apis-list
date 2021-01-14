@@ -21,7 +21,3 @@ Access Clan Search, Global and Local Leaderboards, Clan and Player Profiles and 
 
 
 
-
-
-
-

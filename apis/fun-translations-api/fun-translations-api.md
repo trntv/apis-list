@@ -23,7 +23,3 @@ World's best fun translation tools via REST API.  Yoda speak converter, pirate c
 
 
 
-
-
-
-

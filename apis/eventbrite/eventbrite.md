@@ -23,16 +23,3 @@ Eventbrite Python SDK. Contribute to eventbrite/eventbrite-sdk-python developmen
 
 
 
--list#social)
-- [Events](https://github.com/apis-list/apis-list#events)
-
-
-
-s)
-
-
-
-
-
-
-

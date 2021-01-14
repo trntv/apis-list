@@ -23,11 +23,3 @@ A free REST API for random Kanye West quotes. A free REST API for random Kanye W
 
 
 
-d-ml)
-
-
-
-
-
-
-

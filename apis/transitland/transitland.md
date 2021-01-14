@@ -20,7 +20,3 @@ Transitland is a community-edited edited open data service aggregating transit n
 
 
 
-
-
-
-

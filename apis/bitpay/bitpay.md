@@ -21,10 +21,3 @@ A simple, RESTful API to the most powerful bitcoin infrastructure on the planet.
 
 
 
-
-
-
-
-
-
-

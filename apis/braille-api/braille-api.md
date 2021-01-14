@@ -22,10 +22,3 @@ It is traditionally written with embossed paper.  Braille-users can read compute
 
 
 
-
-
-
-
-
-
-

@@ -20,7 +20,3 @@ Data feed of the governmental severe weather warnings The Foreca WarningFeed int
 
 
 
-
-
-
-

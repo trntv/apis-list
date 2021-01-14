@@ -20,10 +20,3 @@ An API for the english language. Definitions, related words, rhymes, and more. U
 
 
 
-
-
-
-
-
-
-

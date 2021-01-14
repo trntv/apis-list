@@ -23,19 +23,3 @@ How to verify one or more addresses using the SmartyStreets US Street Address AP
 
 
 
--geo)
-
-
-
--data)
-
-
-
-
-
-
-
-.com/apis-list/apis-list#maps-and-geo)
-
-
-

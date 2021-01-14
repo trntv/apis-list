@@ -18,7 +18,3 @@ Scan anime image to get specific detail
 
 
 
-
-
-
-

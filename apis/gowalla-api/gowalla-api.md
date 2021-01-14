@@ -22,10 +22,3 @@ Gather and compare all kinds of interesting data, they weren't really interactiv
 
 
 
-
-
-
-
-
-
-

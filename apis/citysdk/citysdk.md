@@ -18,10 +18,3 @@ CitySDK is a “service development kit” for cities and developers that aims a
 
 
 
-
-
-
-
-
-
-

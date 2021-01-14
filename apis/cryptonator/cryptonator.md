@@ -20,11 +20,3 @@ Prices are updated every 30 seconds, covering 300+ cryptocurrencies across 42 ex
 
 
 
-y)
-
-
-
-
-
-
-

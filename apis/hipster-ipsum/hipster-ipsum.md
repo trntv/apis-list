@@ -21,7 +21,3 @@ Generates Hipster Ipsum text
 
 
 
-
-
-
-

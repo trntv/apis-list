@@ -19,7 +19,3 @@ With this API you’ll be able to craft your own experiences using the same APIs
 
 
 
-
-
-
-

@@ -20,11 +20,3 @@ Scoop. it enables professionals and businesses to research and publish content t
 
 
 
--data)
-
-
-
-
-
-
-

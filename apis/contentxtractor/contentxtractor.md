@@ -22,11 +22,3 @@ Extract relevant content from articles. ContentXtractor automatically extracts r
 
 
 
-g)
-
-
-
-
-
-
-

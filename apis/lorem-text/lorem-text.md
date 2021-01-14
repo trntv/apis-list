@@ -20,7 +20,3 @@ Generates Lorem Ipsum text
 
 
 
-
-
-
-

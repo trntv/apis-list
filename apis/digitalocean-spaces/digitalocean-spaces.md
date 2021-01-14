@@ -21,15 +21,3 @@ The simplest way to cost effectively store, serve, backup, and archive a virtual
 
 
 
-
-
-
-pis-list#cloud)
-- [Platform-As-A-Service](https://github.com/apis-list/apis-list#platform-as-a-service)
-
-
-
-
-
-
-

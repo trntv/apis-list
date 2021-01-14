@@ -21,11 +21,3 @@ Real estate investors and lenders can make decisions in seconds that used to tak
 
 
 
-state)
-
-
-
-
-
-
-

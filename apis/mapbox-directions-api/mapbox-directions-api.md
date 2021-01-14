@@ -19,10 +19,3 @@ The Mapbox Directions API can calculate optimal driving, walking, and cycling ro
 
 
 
-
-
-
-
-
-
-

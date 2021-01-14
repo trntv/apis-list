@@ -19,14 +19,3 @@ This food API is free to use and can get you recipes, food details, food names ,
 
 
 
-
-
-
-
-
-
-
-list/apis-list#food-and-drinks)
-
-
-

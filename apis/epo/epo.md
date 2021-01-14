@@ -19,7 +19,3 @@ OPS dat. Open Patent Services (OPS) Open Patent Services (OPS) is a web service 
 
 
 
-
-
-
-

@@ -20,10 +20,3 @@ Unleash the power of Machine Learning by using the Powerful and Easy-to-Use API 
 
 
 
-
-
-
-
-
-
-

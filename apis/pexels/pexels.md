@@ -22,11 +22,3 @@ Pexels provides high quality and completely free stock photos licensed under the
 
 
 
-e)
-
-
-
-
-
-
-

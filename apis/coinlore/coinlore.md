@@ -20,10 +20,3 @@ Coinlore presents public free crypto tick data api
 
 
 
-
-
-
-
-
-
-

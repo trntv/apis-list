@@ -19,17 +19,3 @@ With the Sports DB API you can query teams, players in teams, player details, pl
 
 
 
-
-
-
-
-
-
-
-ew)
-
-## Categories:
-- [Databases](https://github.com/apis-list/apis-list#databases)
-
-
-

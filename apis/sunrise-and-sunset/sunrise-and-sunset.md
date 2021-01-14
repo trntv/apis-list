@@ -18,10 +18,3 @@ Sunset and sunrise times API We offer a free API that provides sunset and sunris
 
 
 
-
-
-
-
-
-
-

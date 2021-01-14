@@ -21,7 +21,3 @@ The Pokémon TCG API allows developers to easily consume Pokémon card and set d
 
 
 
-
-
-
-

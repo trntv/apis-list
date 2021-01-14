@@ -19,7 +19,3 @@ They Said So. Quotes API with lot of features
 
 
 
-
-
-
-

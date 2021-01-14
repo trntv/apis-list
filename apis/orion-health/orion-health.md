@@ -18,7 +18,3 @@ Leverage the power of our Open APIs and our FHIR capabilities to enable the best
 
 
 
-
-
-
-

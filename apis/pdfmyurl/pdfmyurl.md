@@ -23,10 +23,3 @@ Easily Convert URLs / Webpages or HTML to PDF in any Programming Language or on 
 
 
 
-
-
-
-
-
-
-

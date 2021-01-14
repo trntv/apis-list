@@ -20,10 +20,3 @@ The most versatile and secure wallet for all your coins
 
 
 
-
-
-
-
-
-
-

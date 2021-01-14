@@ -18,14 +18,3 @@ Given a long URL, returns a short link
 
 
 
-scussions/new)
-
-## 🗄️ Categories:
-- [URL Shortening](https://github.com/apis-list/apis-list#url-shortening)
-
-
-
-
-
-
-

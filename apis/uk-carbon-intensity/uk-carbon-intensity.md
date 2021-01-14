@@ -18,7 +18,3 @@ Carbon Intensity API Great Britain Scroll down for code samples and responses. C
 
 
 
-
-
-
-

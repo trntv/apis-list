@@ -18,14 +18,3 @@ The SMS Works provides a low-cost, reliable SMS API for developers. Pay only for
 
 
 
-
-
-
-
-
-
-
-ms)
-
-
-

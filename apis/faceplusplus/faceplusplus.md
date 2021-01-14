@@ -20,7 +20,3 @@ Meta description. A tool to detect face
 
 
 
-
-
-
-

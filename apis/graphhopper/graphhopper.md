@@ -21,11 +21,3 @@ A-to-B routing with turn-by-turn instructions
 
 
 
-s)
-
-
-
-](https://github.com/apis-list/apis-list#travel)
-
-
-

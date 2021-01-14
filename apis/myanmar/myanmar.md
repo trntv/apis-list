@@ -18,7 +18,3 @@ Central bank of New Myanmar
 
 
 
-
-
-
-

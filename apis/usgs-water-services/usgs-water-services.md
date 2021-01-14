@@ -20,10 +20,3 @@ Home page for water resources information from the US Geological Survey.  Home p
 
 
 
-
-
-
-
-
-
-

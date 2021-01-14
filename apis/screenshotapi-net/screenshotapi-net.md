@@ -18,10 +18,3 @@ Use one simple API call to generate screenshots of any website. Use this screens
 
 
 
-
-
-
-
-
-
-

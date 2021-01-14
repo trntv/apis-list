@@ -18,7 +18,3 @@ wallhaven. cc help docs!. A huge wallpaper library
 
 
 
-
-
-
-

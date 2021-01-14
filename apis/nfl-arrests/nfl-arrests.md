@@ -18,15 +18,3 @@ NFL Arrest provides an interactive visualized database of National Football Leag
 
 
 
-
-
-
-
-
-
-
-es:
-- [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
-
-
-

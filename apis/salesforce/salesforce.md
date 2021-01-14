@@ -23,10 +23,3 @@ This simple RESTful interface is powerful, convenient, and great for writing mob
 
 
 
-
-
-
-
-
-
-

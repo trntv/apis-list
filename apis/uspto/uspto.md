@@ -19,7 +19,3 @@ Open data and mobility "Open data" is publicly available data that is structured
 
 
 
-
-
-
-

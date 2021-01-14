@@ -18,7 +18,3 @@ Browser not supported Try using a different browser or the desktop app. View a l
 
 
 
-
-
-
-

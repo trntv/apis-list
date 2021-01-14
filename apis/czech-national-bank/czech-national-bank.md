@@ -18,10 +18,3 @@ A collection of exchange rates
 
 
 
-
-
-
-
-
-
-

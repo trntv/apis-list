@@ -24,11 +24,3 @@ Discover how the Uber API can easily enhance your app’s user experience and ta
 
 
 
-aps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
-
-
-
-
-
-
-

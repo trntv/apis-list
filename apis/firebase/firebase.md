@@ -26,26 +26,3 @@ Web reference View full API for JS Client. Authentication, analytics, cloud mess
 
 
 
-
-
-
-urity)
-
-
-
-
-
-
-
-on](https://github.com/apis-list/apis-list#authorization)
-
-
-
-#mobile)
-
-
-
-ation)
-
-
-

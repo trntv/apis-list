@@ -18,10 +18,3 @@ USGS Earthquake Hazards Program, responsible for monitoring, reporting, and rese
 
 
 
-
-
-
-
-
-
-

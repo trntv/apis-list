@@ -20,10 +20,3 @@ It can also detect multiple barcodes at once. It reads the following barcode for
 
 
 
-
-
-
-
-
-
-

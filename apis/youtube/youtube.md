@@ -19,10 +19,3 @@ Add YouTube functionality to your sites and apps.  Add YouTube functionality to 
 
 
 
-
-
-
-
-
-
-

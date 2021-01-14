@@ -19,21 +19,3 @@ Share the notes with everyone you want.
 
 
 
-
-
-
-
-
-
-
-rganize all your notes anytime, anywhere. cc!. simplenotes. The Official API from SimpleNotes.  You decide!
-- Write up to 1000 characters
-
-
-
-**Categories**:
-- [Notepads](https://github.com/apis-list/apis-list#notepads)
-
-
-
-

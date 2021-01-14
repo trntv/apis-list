@@ -20,13 +20,3 @@ Download Postmen's JSON schema. Learn how to generate Postmen API key and make r
 
 
 
-
-
-
-
-pis-list#business)
-- [International](https://github.com/apis-list/apis-list#international)
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
-
-
-

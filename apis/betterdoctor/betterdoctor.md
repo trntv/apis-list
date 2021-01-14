@@ -19,12 +19,3 @@ BetterDoctor API is the most frequently updated and trusted source of doctor dat
 
 
 
-ist#health)
-- [Development](https://github.com/apis-list/apis-list#development)
-
-
-
-
-
-
-

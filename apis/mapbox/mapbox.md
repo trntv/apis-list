@@ -19,11 +19,3 @@ Access to MapBox’s API
 
 
 
-zations](https://github.com/apis-list/apis-list#visualizations)
-
-
-
-
-
-
-

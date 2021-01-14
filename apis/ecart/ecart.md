@@ -19,7 +19,3 @@ Data is offered in JSON format. The following marketplaces are available: eBay, 
 
 
 
-
-
-
-

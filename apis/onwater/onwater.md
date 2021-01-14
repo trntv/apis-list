@@ -18,10 +18,3 @@ An API to determine if a point (latitude and longitude) is on water, sea, lake, 
 
 
 
-
-
-
-
-
-
-

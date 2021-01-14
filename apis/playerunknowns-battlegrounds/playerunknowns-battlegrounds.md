@@ -21,7 +21,3 @@ Start building your own website today using official PUBG data
 
 
 
-
-
-
-

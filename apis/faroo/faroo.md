@@ -23,11 +23,3 @@ Alternative to Google Web Search API / Google News Search API, allows you to sea
 
 
 
-e)
-
-
-
-
-
-
-

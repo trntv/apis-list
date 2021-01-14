@@ -20,7 +20,3 @@ Particularly nice, when compared to some of its competitors, in that it offers a
 
 
 
-
-
-
-

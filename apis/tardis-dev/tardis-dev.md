@@ -23,11 +23,3 @@ Raw historical market data is available both in exchange native and normalized f
 
 
 
-s)
-
-
-
-
-
-
-

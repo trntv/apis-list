@@ -20,10 +20,3 @@ Dictionary API and Translation Memory API description. Application Programming I
 
 
 
-
-
-
-
-
-
-

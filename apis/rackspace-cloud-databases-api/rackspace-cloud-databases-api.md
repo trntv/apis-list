@@ -19,7 +19,3 @@ Can be created, updated, and deleted using the OS::Trove::Instance resource.  Cl
 
 
 
-
-
-
-

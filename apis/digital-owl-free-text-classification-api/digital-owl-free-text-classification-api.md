@@ -20,20 +20,3 @@ Free for use text classification, sentiment analysis, semantic similarity and wo
 
 
 
-
-
-
-
-
-
-
-i-and-ml)
-- [Natural Language Processing](https://github.com/apis-list/apis-list#natural-language-processing)
-
-
-
--list#text-analysis)
-- [Text](https://github.com/apis-list/apis-list#text)
-
-
-

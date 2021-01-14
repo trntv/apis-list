@@ -20,7 +20,3 @@ Tronald Dump Api & web archive for the dumbest things Donald Trump has ever said
 
 
 
-
-
-
-

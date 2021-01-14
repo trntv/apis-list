@@ -20,7 +20,3 @@ Mastercard official API
 
 
 
-
-
-
-

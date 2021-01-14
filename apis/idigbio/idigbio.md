@@ -21,11 +21,3 @@ Making data and images of millions of biological specimens available on the web
 
 
 
-imals)
-
-
-
-
-
-
-

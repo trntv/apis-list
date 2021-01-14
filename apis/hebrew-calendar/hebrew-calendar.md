@@ -18,7 +18,3 @@ You can embed Hebcal. com content directly onto your synagogue website with our.
 
 
 
-
-
-
-

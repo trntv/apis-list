@@ -21,10 +21,3 @@ QR Code REST API. Can create QR code images or read existing images and return t
 
 
 
-
-
-
-
-
-
-

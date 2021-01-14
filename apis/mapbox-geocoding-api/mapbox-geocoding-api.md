@@ -19,10 +19,3 @@ The Mapbox Geocoding API does forward geocoding (search place names and return c
 
 
 
-
-
-
-
-
-
-

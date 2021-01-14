@@ -26,16 +26,3 @@ Get access to millions of vehicle records, specs, ownership costs and market val
 
 
 
-evelopment](https://github.com/apis-list/apis-list#development)
-
-
-
-
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
-
-
-
-
-
-
-

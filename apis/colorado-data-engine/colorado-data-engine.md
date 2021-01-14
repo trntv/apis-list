@@ -18,7 +18,3 @@ Formatted and geolocated Colorado public data
 
 
 
-
-
-
-

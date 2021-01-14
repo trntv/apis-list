@@ -20,10 +20,3 @@ Tamil language Dictionary API. Fonts API - Subscription
 
 
 
-
-
-
-
-
-
-

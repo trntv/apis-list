@@ -20,10 +20,3 @@ pizza is made to prevent users to register to websites with a disposable email a
 
 
 
-
-
-
-
-
-
-

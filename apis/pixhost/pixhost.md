@@ -20,7 +20,3 @@ Upload images, photos, galleries
 
 
 
-
-
-
-

@@ -20,10 +20,3 @@ A restful API for football data.  A restful API for football data
 
 
 
-
-
-
-
-
-
-

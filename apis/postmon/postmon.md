@@ -19,15 +19,3 @@ API to query zip codes and orders in an easy, fast and free way.
 
 
 
-s & Geo](https://github.com/apis-list/apis-list#maps--geo)
-- [Tracking](https://github.com/apis-list/apis-list#tracking)
-
-
-
-
-
-
-
-
-
-

@@ -21,20 +21,3 @@ DeepAffects enables developers to analyze conversational audio by applying power
 
 
 
-o)
-
-
-
-
-
-
-
-Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
-
-
-
-n)
-- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
-
-
-

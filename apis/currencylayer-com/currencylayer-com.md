@@ -20,10 +20,3 @@ Documentation, code and integration guides for the currencylayer JSON API - reli
 
 
 
-
-
-
-
-
-
-

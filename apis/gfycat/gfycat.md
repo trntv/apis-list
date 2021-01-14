@@ -24,19 +24,3 @@ Gfycat’s API - collection of GIFs
 
 
 
-
-
-
-
-
-https://github.com/apis-list/apis-list#photography)
-- [Images](https://github.com/apis-list/apis-list#images)
-- [Animation](https://github.com/apis-list/apis-list#animation)
-- [Meme](https://github.com/apis-list/apis-list#meme)
-
-
-
-
-
-
-

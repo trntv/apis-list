@@ -18,7 +18,3 @@ Reliable data, accurate forecast, & global coverage in 80 languages
 
 
 
-
-
-
-

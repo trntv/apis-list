@@ -22,15 +22,3 @@ Sell tickets directly from your app or website. The ticketing and event manageme
 
 
 
-pis-list#events)
-- [Payments](https://github.com/apis-list/apis-list#payments)
-
-
-
-
-
-
-
-
-
-

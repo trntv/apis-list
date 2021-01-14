@@ -20,10 +20,3 @@ Location Search Web Service (RESTful API) enable you to find nearest city inform
 
 
 
-
-
-
-
-
-
-

@@ -21,10 +21,3 @@ No bulk. That means your app's email isn't stuck waiting behind 500,000 copies o
 
 
 
-
-
-
-
-
-
-

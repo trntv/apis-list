@@ -23,7 +23,3 @@ This RESTful API can be accessed by any standard/popular client with HTTP capabi
 
 
 
-
-
-
-

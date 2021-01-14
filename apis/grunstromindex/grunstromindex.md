@@ -21,14 +21,3 @@ The green electricity index shows when a lot of renewable electricity is in the 
 
 
 
-Energy](https://github.com/apis-list/apis-list#energy)
-
-
-
-
-
-
-
-
-
-

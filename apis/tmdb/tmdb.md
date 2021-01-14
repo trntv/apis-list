@@ -22,10 +22,3 @@ TMDb provides powerful searches as well as powerful movie discovery.  The Movie 
 
 
 
-
-
-
-
-
-
-

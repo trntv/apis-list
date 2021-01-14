@@ -23,11 +23,3 @@ API for image and video storage and manipulation - free for up to 75,000 images 
 
 
 
-a)
-
-
-
-
-
-
-

@@ -18,10 +18,3 @@ IP Geolocation API is a free JSON REST API service for locating your visitors in
 
 
 
-
-
-
-
-
-
-

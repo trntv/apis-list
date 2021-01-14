@@ -22,10 +22,3 @@ Powerful cryptocurrency rates JSON API delivering real-time crypto exchange rate
 
 
 
-
-
-
-
-
-
-

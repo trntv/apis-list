@@ -20,10 +20,3 @@ Geocode spreadsheets or use our API - without restrictions. Geocode spreadsheets
 
 
 
-
-
-
-
-
-
-

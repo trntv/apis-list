@@ -18,7 +18,3 @@ Wondering what to watch? Let Netflix Roulette pick a movie or TV show randomly f
 
 
 
-
-
-
-

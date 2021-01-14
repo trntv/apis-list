@@ -22,14 +22,3 @@ Plaid helps companies build fintech solutions by making it easy, safe and reliab
 
 
 
-
-
-
-
-
-
-
-Banking](https://github.com/apis-list/apis-list#banking)
-
-
-

@@ -19,10 +19,3 @@ Using the SoundCloud API, you can build applications that take sound on the web 
 
 
 
-
-
-
-
-
-
-

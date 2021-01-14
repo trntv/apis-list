@@ -21,10 +21,3 @@ Barzahlen API v2 allows you to create payment, payout, and refund slips customer
 
 
 
-
-
-
-
-
-
-

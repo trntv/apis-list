@@ -20,11 +20,3 @@ API for crypto currency exchange.
 
 
 
-s)
-
-
-
-
-
-
-

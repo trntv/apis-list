@@ -23,7 +23,3 @@ GET http://requestkittens. com/cats A randomized set of category-specific cat im
 
 
 
-
-
-
-

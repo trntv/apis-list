@@ -21,10 +21,3 @@ Detects 164 languages. Supports short texts, batch requests, JavaScript, Python,
 
 
 
-
-
-
-
-
-
-

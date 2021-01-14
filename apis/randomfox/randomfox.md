@@ -20,7 +20,3 @@ Random image of a fox
 
 
 
-
-
-
-

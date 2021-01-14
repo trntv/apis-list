@@ -20,10 +20,3 @@ A collection of all VAT rates for EU countries
 
 
 
-
-
-
-
-
-
-

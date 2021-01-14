@@ -20,7 +20,3 @@ AtroPIM is a free, modern, open source, GPLv3 licensed, web-based, feature-rich 
 
 
 
-
-
-
-

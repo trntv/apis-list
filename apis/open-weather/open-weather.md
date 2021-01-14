@@ -19,7 +19,3 @@ Simple and fast and free weather API from OpenWeatherMap you have access to curr
 
 
 
-
-
-
-

@@ -20,10 +20,3 @@ Simple HTTP endpoint and SDKs.  Try free now. Extract USPS addresses from any te
 
 
 
-
-
-
-
-
-
-

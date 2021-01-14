@@ -20,11 +20,3 @@ A unified API platform for software developers in Africa building SMS, USSD, Voi
 
 
 
-g)
-
-
-
-
-
-
-

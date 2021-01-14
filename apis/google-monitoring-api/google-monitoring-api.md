@@ -20,7 +20,3 @@ This page describes some of the features of the Cloud Monitoring API v3. For the
 
 
 
-
-
-
-

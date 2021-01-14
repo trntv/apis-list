@@ -20,7 +20,3 @@ The CTA's Developer Center offers a variety of data feeds that allow anyone to d
 
 
 
-
-
-
-

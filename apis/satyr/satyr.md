@@ -20,7 +20,3 @@ Free powerful API for generating dummy images with unique features like delay, a
 
 
 
-
-
-
-

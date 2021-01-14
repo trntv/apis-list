@@ -18,10 +18,3 @@ Free foreign currency exchange rates and currency conversion. Best Foreign excha
 
 
 
-
-
-
-
-
-
-

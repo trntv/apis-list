@@ -18,10 +18,3 @@ Webservice gratuito para pesquisa de endereço via CEP, suporta Ajax e retorno n
 
 
 
-
-
-
-
-
-
-

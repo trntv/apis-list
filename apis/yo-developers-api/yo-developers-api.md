@@ -22,11 +22,3 @@ Yo API Documentation. Programmatically send Yos (contextual messages) through AP
 
 
 
-s)
-
-
-
-
-
-
-

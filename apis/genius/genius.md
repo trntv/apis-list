@@ -22,15 +22,3 @@ Allows users to find details about Genius artists and songs. Use our API and hel
 
 
 
-
-
-
-
-
-
-
-ions)
-- [Editing](https://github.com/apis-list/apis-list#editing)
-
-
-

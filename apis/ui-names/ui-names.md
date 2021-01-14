@@ -21,7 +21,3 @@ A simple tool to generate names for use in designs and mockups.  - thm/uinames. 
 
 
 
-
-
-
-

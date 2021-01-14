@@ -18,7 +18,3 @@ A description of all of the nouns in vedic literature, including the flora, faun
 
 
 
-
-
-
-

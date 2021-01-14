@@ -18,7 +18,3 @@ Liturgical Calendar API Browse the calendar on-line, Learn how to obtain data fr
 
 
 
-
-
-
-

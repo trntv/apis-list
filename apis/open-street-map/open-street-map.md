@@ -20,10 +20,3 @@ Purge Help API - Other languages Afrikaans asturianu azərbaycanca Bahasa Indone
 
 
 
-
-
-
-
-
-
-

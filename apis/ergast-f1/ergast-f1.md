@@ -20,10 +20,3 @@ Please read the terms and conditions of use.  The API pro. The Ergast Developer 
 
 
 
-
-
-
-
-
-
-

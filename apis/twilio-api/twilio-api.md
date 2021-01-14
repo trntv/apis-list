@@ -23,7 +23,3 @@ Send SMS super easy, API Documentation & Libraries for SMS, VoIP & Voice. With T
 
 
 
-
-
-
-

@@ -20,11 +20,3 @@ Get abbreviations and meanings
 
 
 
--data)
-
-
-
-
-
-
-

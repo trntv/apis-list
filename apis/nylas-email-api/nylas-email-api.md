@@ -20,10 +20,3 @@ Email API to integrate 100% of Email Services Providers directly into your app. 
 
 
 
-
-
-
-
-
-
-

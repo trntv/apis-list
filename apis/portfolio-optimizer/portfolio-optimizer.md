@@ -21,15 +21,3 @@ API for investment portfolio optimization.  The science of portfolio optimizatio
 
 
 
-h)
-
-
-
-
-
-
-
-Math](https://github.com/apis-list/apis-list#science-and-math)
-
-
-

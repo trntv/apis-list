@@ -20,7 +20,3 @@ Over 20,000 images of dogs programmaticaly accessible by over 120 breeds. Image 
 
 
 
-
-
-
-

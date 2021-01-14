@@ -20,10 +20,3 @@ Developer reference documentation for the WakaTime API.  Developer reference doc
 
 
 
-
-
-
-
-
-
-

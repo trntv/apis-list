@@ -20,7 +20,3 @@ A social networking website offering an interactive, user-submitted network of f
 
 
 
-
-
-
-

@@ -22,7 +22,3 @@ League of Legends Wallpapers website official API. This is a lightweight public 
 
 
 
-
-
-
-

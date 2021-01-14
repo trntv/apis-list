@@ -20,7 +20,3 @@ Your daily lectionary readings…. Your daily lectionary readings…
 
 
 
-
-
-
-

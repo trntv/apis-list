@@ -21,10 +21,3 @@ Central bank of Russian Federation
 
 
 
-
-
-
-
-
-
-

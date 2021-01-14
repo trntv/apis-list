@@ -18,7 +18,3 @@ Find random activities to fight boredom
 
 
 
-
-
-
-

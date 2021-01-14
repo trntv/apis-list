@@ -21,7 +21,3 @@ Additionally, you may use the VK API to control much of the functionality on the
 
 
 
-
-
-
-

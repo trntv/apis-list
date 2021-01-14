@@ -23,10 +23,3 @@ Online Customer Service software with customizable chat, embeddable widgets, hel
 
 
 
-
-
-
-
-
-
-

@@ -18,10 +18,3 @@ Free live exchange rates and currency conversion API for developers.  ECB rates 
 
 
 
-
-
-
-
-
-
-

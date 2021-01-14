@@ -24,14 +24,3 @@ Ola is India’s most popular cab booking app with availability of rides in more
 
 
 
-
-
-
-
-w)
-
-## Categories:
-- [Transportation](https://github.com/apis-list/apis-list#transportation)
-
-
-

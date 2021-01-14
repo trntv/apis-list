@@ -22,7 +22,3 @@ Real-time exchange rates for 154 world currencies provided in JSON format and wo
 
 
 
-
-
-
-

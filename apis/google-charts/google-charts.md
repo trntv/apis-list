@@ -24,10 +24,3 @@ Free tool with a wide range of capabilities for visualizing data from a website.
 
 
 
-
-
-
-
-
-
-

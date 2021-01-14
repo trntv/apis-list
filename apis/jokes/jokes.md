@@ -19,7 +19,3 @@ Full featured Jokes API
 
 
 
-
-
-
-

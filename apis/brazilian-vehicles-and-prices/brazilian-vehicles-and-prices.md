@@ -21,7 +21,3 @@ Você pode usar a biblioteca em PHP desenvolvida para consumir a API https://git
 
 
 
-
-
-
-

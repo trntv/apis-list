@@ -24,11 +24,3 @@ Build applications that track the movement of your business
 
 
 
-o)
-
-
-
-
-
-
-

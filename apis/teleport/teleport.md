@@ -23,15 +23,3 @@ Welcome to Teleport for Developers! We're building the largest and most up-to-da
 
 
 
-s)
-
-
-
-mages)
-
-
-
-
-
-
-

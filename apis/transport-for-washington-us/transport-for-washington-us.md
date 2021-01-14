@@ -18,7 +18,3 @@ GTFS Changes and GTFS-RT Debut Metro has officially launched GTFS-RT! Developers
 
 
 
-
-
-
-

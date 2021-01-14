@@ -22,7 +22,3 @@ Summarize articles, text, websites, essays and documents for free with SMMRY. Su
 
 
 
-
-
-
-

@@ -18,16 +18,3 @@ Free phone number validation provided by PhoneValidator. Check phone numbers to 
 
 
 
-
-
-
-
-
-
-
-Categories:
-- [Communications](https://github.com/apis-list/apis-list#communications)
-- [Databases](https://github.com/apis-list/apis-list#databases)
-
-
-

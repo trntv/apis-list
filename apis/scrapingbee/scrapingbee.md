@@ -26,19 +26,3 @@ ScrapingBee is a simple API that does all the above for you. It is truly the mos
 
 
 
-
-
-
-.com/apis-list/apis-list#scrapers-and-data-mining)
-- [Data-As-A-Service](https://github.com/apis-list/apis-list#data-as-a-service)
-
-
-
-
-
-
-
-s-list#saas)
-
-
-

@@ -21,23 +21,3 @@ API for IP and Email Intelligence & Phone Number Validation. API for email valid
 
 
 
-s)
-
-
-
-
-
-
-
-il & SMS](https://github.com/apis-list/apis-list#email-and-sms)
-
-
-
-Phone Number Validation](https://github.com/apis-list/apis-list#phone-number-validation)
-
-
-
-)
-
-
-

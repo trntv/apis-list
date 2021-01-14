@@ -21,7 +21,3 @@ Our scraping API handles all problems that are related to web scraping. Website 
 
 
 
-
-
-
-

@@ -24,11 +24,3 @@ To learn how to create…
 
 
 
-g)
-
-
-
-
-
-
-

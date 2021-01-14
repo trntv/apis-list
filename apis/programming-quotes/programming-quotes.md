@@ -20,7 +20,3 @@ Programming Quotes API for open source projects.  Contribute to skolakoda/progra
 
 
 
-
-
-
-

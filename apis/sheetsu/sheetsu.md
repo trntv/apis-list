@@ -22,10 +22,3 @@ Get data from Google Spreadsheet in a matter of seconds.  You can copy the HTML 
 
 
 
-
-
-
-
-
-
-

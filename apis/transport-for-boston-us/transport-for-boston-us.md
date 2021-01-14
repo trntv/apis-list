@@ -20,7 +20,3 @@ Official website of the MBTA -- schedules, maps, and fare information for Greate
 
 
 
-
-
-
-

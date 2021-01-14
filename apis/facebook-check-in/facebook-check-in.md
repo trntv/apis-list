@@ -18,8 +18,3 @@ A check-in made to a location-based Page
 
 
 
-
-
-
-
-

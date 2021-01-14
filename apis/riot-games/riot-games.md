@@ -20,18 +20,3 @@ Provide the League of Legends developer community with access to game data in a 
 
 
 
-
-
-
-
-.com/apis-list/apis-list#games-and-comics)
-
-
-
-
-
-
-hub/apis-list/apis-list#analytics)
-
-
-

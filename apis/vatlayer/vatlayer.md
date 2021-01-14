@@ -22,15 +22,3 @@ Free and HTTPS secured JSON API offering instant VAT number validation, reliable
 
 
 
-s)
-
-
-
-
-
-
-
-erce)
-
-
-

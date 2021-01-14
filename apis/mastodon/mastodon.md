@@ -20,7 +20,3 @@ Welcome to the Mastodon documentation!.  Welcome to the Mastodon documentation!
 
 
 
-
-
-
-

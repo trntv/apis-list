@@ -21,12 +21,3 @@ Perform geospatial processing powered by Google's cloud infrastructure. Perform 
 
 
 
-
-
-
-
-
-
-
-
-

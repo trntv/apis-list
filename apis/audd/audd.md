@@ -24,11 +24,3 @@ AudD Music Recognition API Docs: how to identify songs in audio using our API
 
 
 
-l)
-
-
-
-
-
-
-

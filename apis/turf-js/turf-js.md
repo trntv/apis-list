@@ -18,10 +18,3 @@ js | Advanced geospatial analysis for browsers and Node. js. Turf
 
 
 
-
-
-
-
-
-
-

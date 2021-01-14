@@ -18,10 +18,3 @@ Cooper Hewitt, Smithsonian Design Museum Collections provides a REST-ish style a
 
 
 
-
-
-
-
-
-
-

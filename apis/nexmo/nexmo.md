@@ -22,11 +22,3 @@ Make and receive phone calls, send and receive SMS worldwide.  Libraries in Node
 
 
 
-s)
-
-
-
-
-
-
-

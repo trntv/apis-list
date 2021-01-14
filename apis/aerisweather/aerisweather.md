@@ -19,7 +19,3 @@ AerisWeather provides a powerful weather API, mapping platform, and developer to
 
 
 
-
-
-
-

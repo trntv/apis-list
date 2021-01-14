@@ -20,10 +20,3 @@ The Gmail API: modern, fast, RESTful. The Gmail API: modern, fast, RESTful
 
 
 
-
-
-
-
-
-
-

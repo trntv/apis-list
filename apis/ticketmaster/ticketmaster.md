@@ -20,7 +20,3 @@ Everything you need to start playing with the Ticketmaster API. Everything you n
 
 
 
-
-
-
-

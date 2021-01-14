@@ -25,15 +25,3 @@ Yelp's API exposes search to 3rd party developers. You can search location using
 
 
 
-e)
-
-
-
-merce)
-
-
-
-
-
-
-

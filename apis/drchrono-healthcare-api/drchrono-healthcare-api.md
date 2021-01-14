@@ -20,7 +20,3 @@ Electronic medical records, practice management and medical billing API.  Explor
 
 
 
-
-
-
-

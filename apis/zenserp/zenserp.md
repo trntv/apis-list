@@ -22,11 +22,3 @@ Our fast & reliable SERP API enables you to scrape search results in realtime an
 
 
 
-o)
-
-
-
-
-
-
-

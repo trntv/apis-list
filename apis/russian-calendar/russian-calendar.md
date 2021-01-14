@@ -20,7 +20,3 @@ Work calendar service.  Contribute to egno/work-calendar development by creating
 
 
 
-
-
-
-

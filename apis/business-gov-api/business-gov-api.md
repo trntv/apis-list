@@ -20,7 +20,3 @@ Create the Uber for anything, a small business API for on-demand fulfillment.
 
 
 
-
-
-
-

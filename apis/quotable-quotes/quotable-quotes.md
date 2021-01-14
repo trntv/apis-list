@@ -20,7 +20,3 @@ Contribute to lukePeavey/quotable development by creating an account on GitHub. 
 
 
 
-
-
-
-

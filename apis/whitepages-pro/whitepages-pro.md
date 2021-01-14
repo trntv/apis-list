@@ -24,20 +24,3 @@ Global Identity Verification API. Get a clearer picture of your customer.  Insta
 
 
 
-e)
-
-
-
-
-
-
-
-://github.com/apis-list/apis-list#validation-and-verification)
-- [CRM](https://github.com/apis-list/apis-list#crm)
-- [Addresses](https://github.com/apis-list/apis-list#addresses)
-- [B2B](https://github.com/apis-list/apis-list#b2b)
-- [Business](https://github.com/apis-list/apis-list#business)
-- [Reference](https://github.com/apis-list/apis-list#reference)
-
-
-

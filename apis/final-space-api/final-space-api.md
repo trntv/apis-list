@@ -21,10 +21,3 @@ The Final Space API is a RESTful API based on the television show Final Space.  
 
 
 
-
-
-
-
-
-
-

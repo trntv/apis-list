@@ -23,15 +23,3 @@ Open Charge Map is a non-commercial, non-profit, electric vehicle data service h
 
 
 
-sportation)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
-
-
-
-
-
-
-
-
-
-

@@ -18,11 +18,3 @@ Free and public API that generates random and fake people's data in JSON.  Free 
 
 
 
--data)
-
-
-
-
-
-
-

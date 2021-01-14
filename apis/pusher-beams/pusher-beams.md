@@ -20,7 +20,3 @@ Get realtime delivery and transparency to develop your iOS and Android apps.  #P
 
 
 
-
-
-
-

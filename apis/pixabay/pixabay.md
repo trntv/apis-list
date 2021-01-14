@@ -19,7 +19,3 @@ Restful API for searching and retrieving free images and videos. Documentation t
 
 
 
-
-
-
-

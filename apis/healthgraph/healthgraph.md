@@ -20,10 +20,3 @@ RunKeeper's web-based HealthGraph API presents Health Graph data, and provides i
 
 
 
-
-
-
-
-
-
-

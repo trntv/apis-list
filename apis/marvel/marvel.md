@@ -24,15 +24,3 @@ The Marvel developer portal gives Marvel fans, partners and other technologists 
 
 
 
- Design](https://github.com/apis-list/apis-list#art--design)
-
-
-
-n)
-
-
-
-
-
-
-

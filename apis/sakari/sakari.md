@@ -20,10 +20,3 @@ Integrates with 1000+ applications with no code. Send and Receive SMS to over 20
 
 
 
-
-
-
-
-
-
-

@@ -20,7 +20,3 @@ Overview of integrating with Azure DevOps. . TFS APIs are based on REST, OAuth, 
 
 
 
-
-
-
-

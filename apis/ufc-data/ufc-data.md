@@ -18,10 +18,3 @@ Ultimate Fighting Championship information for events and fighters
 
 
 
-
-
-
-
-
-
-

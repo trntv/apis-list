@@ -21,10 +21,3 @@ You'll fit in here. Using JavaScript, CSS, and SVG, developers now have a fast, 
 
 
 
-
-
-
-
-
-
-

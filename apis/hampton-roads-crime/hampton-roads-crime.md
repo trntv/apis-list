@@ -21,14 +21,3 @@ Let’s you get most recent and historical crime data so you feel safe in your n
 
 
 
-
-
-
--data)
-
-
-
-
-
-
-

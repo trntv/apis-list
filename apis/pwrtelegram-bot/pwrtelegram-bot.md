@@ -18,7 +18,3 @@ The PWRTelegram MTProto API. Boosted version of the Telegram bot API
 
 
 
-
-
-
-

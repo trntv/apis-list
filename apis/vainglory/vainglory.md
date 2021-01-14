@@ -20,7 +20,3 @@ Vainglory Players, Matches and Telemetry
 
 
 
-
-
-
-

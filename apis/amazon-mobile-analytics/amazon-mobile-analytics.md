@@ -18,5 +18,3 @@ Service for collecting, visualizing, and understanding app usage data at scale
 
 
 
-
-

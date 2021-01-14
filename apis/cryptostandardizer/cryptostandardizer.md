@@ -22,11 +22,3 @@ Standardize crypto coin symbols (eg. BTC, XBT) across 100+ exchanges.
 
 
 
-s)
-
-
-
-
-
-
-

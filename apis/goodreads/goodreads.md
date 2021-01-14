@@ -20,7 +20,3 @@ The Goodreads API allows developers access to Goodreads data in order to help we
 
 
 
-
-
-
-

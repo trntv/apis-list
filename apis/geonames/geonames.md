@@ -24,11 +24,3 @@ Important: Do not use the 'demo' account for your app or your tests. It is only 
 
 
 
-s)
-
-
-
-
-
-
-

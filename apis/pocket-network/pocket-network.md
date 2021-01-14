@@ -22,14 +22,3 @@ Pocket proportionally rewards the participating nodes with native cryptographic 
 
 
 
-
-
-
--data)
-
-
-
-
-
-
-

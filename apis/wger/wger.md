@@ -20,10 +20,3 @@ de/api/v2/ Authentication Public endpoints, such as the list of exercises or the
 
 
 
-
-
-
-
-
-
-

@@ -23,7 +23,3 @@ The Harvard Art Museums API is a REST-style service designed for developers who 
 
 
 
-t)
-
-
-

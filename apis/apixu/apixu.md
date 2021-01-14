@@ -20,12 +20,3 @@ Get current weather information, historical data and forecasts using weatherstac
 
 
 
-is-list#data-as-a-service)
-- [Weather](https://github.com/apis-list/apis-list#weather)
-
-
-
-
-
-
-

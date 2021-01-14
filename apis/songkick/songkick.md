@@ -21,10 +21,3 @@ Find live music near you, track your favorite artists, get instant concert alert
 
 
 
-
-
-
-
-
-
-

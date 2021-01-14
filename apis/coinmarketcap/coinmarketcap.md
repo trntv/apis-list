@@ -21,11 +21,3 @@ Cryptocurrencies Prices. Use CoinMarketCap's free crypto API to get the best, mo
 
 
 
-s)
-
-
-
-
-
-
-

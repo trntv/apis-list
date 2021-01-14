@@ -18,7 +18,3 @@ The free plan allows you to store 100,000 write ops per month and 1 million read
 
 
 
-
-
-
-

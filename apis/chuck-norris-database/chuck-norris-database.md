@@ -18,7 +18,3 @@ API for online Chuck Norris jokes database
 
 
 
-
-
-
-

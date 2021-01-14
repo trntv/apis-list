@@ -24,10 +24,3 @@ Free, powerful language detection JSON API for 173 languages, supporting single 
 
 
 
-
-
-
-
-
-
-

@@ -18,7 +18,3 @@ National Bank of Ukraine
 
 
 
-
-
-
-

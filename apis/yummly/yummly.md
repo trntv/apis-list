@@ -20,10 +20,3 @@ Find food recipes.  The Yummly Recipe API lets you integrate recipes and faceted
 
 
 
-
-
-
-
-
-
-

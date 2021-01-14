@@ -20,7 +20,3 @@ Generate random cartoon avatars
 
 
 
-
-
-
-

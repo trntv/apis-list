@@ -21,14 +21,3 @@ Numbers. Number of the day, random number generation , number facts and anything
 
 
 
-
-
-
-
-
-
-
-- [Reference](https://github.com/apis-list/apis-list#reference)
-
-
-

@@ -18,7 +18,3 @@ Simple API to retrieve resources related to Age of Empires II
 
 
 
-
-
-
-

@@ -20,10 +20,3 @@ Cryptocurrencies price API, prices denoted in USD, EUR, CNY, GBP, RUB
 
 
 
-
-
-
-
-
-
-

@@ -18,10 +18,3 @@ The Lord of the Rings API - The one API
 
 
 
-
-
-
-
-
-
-

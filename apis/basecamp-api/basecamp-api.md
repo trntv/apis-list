@@ -22,7 +22,3 @@ A web based system for managing collaborative projects.  Simple manipulations of
 
 
 
-
-
-
-

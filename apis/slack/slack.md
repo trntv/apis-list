@@ -24,10 +24,3 @@ Slack APIs allow you to integrate complex services with Slack to go beyond the i
 
 
 
-
-
-
-
-
-
-

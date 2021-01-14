@@ -24,7 +24,3 @@ Our Scheduler lets you share your availability with contacts no matter what appl
 
 
 
-
-
-
-

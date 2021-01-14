@@ -19,7 +19,3 @@ The current version of the API. The Guild Wars 2 API (application programming in
 
 
 
-
-
-
-

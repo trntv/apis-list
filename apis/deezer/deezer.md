@@ -22,11 +22,3 @@ Deezer API provides a nice set of services to build up web applications allowing
 
 
 
-h)
-
-
-
-
-
-
-

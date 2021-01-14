@@ -20,7 +20,3 @@ Create and manage events and calendars for Google Calendar.  Create and manage e
 
 
 
-
-
-
-

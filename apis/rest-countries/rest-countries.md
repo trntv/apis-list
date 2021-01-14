@@ -20,10 +20,3 @@ Get information about countries via a RESTful API. Get information about countri
 
 
 
-
-
-
-
-
-
-

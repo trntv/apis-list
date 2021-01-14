@@ -20,7 +20,3 @@ Check out our easy-to-use and public API to provide job and company listings.  C
 
 
 
-
-
-
-

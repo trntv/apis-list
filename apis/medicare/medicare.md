@@ -18,7 +18,3 @@ gov. Access to the data from the CMS - medicare
 
 
 
-
-
-
-

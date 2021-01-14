@@ -18,7 +18,3 @@ Detect the hosting provider powering any web site. API
 
 
 
-
-
-
-

@@ -18,10 +18,3 @@ API to manage Particle devices (including their own Arduino-compatible ones and 
 
 
 
-
-
-
-
-
-
-

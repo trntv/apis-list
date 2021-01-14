@@ -18,7 +18,3 @@ API returns namedays for various countries
 
 
 
-
-
-
-

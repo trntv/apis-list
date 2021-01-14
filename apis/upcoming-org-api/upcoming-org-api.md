@@ -21,7 +21,3 @@ A simple way to share and discover interesting events from your friends, followe
 
 
 
-
-
-
-

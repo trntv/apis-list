@@ -20,11 +20,3 @@ API for accessing and managing data about athletes, activities and segments.  St
 
 
 
-o)
-
-
-
-
-
-
-

@@ -20,10 +20,3 @@ An easy-to-use forward and reverse geocoding API. Worldwide coverage. Affordable
 
 
 
-
-
-
-
-
-
-

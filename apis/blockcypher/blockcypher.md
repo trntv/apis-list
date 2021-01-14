@@ -19,15 +19,3 @@ Build blockchain applications easily with our web APIs and callbacks. High throu
 
 
 
-s)
-
-
-
- [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
-
-
-
-
-
-
-

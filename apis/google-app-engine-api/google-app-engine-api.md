@@ -22,7 +22,3 @@ Build scalable web and mobile backends in any language on Google’s infrastruct
 
 
 
-
-
-
-

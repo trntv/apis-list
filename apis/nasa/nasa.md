@@ -19,11 +19,3 @@ Get NASA data, including imagery, list of asteroids based on their closest appro
 
 
 
-h)
-
-
-
-
-
-
-

@@ -23,10 +23,3 @@ Hundereds of lottery games from various countries are supported. Generate lotter
 
 
 
-
-
-
-
-
-
-

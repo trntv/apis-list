@@ -20,7 +20,3 @@ Search changelogs from open source projects, or use the REST API for a parsed JS
 
 
 
-
-
-
-

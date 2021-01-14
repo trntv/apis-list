@@ -20,14 +20,3 @@ Allows anyone to create maps and markers for anything. Initially used to report 
 
 
 
-s-list/apis-list#maps--geo)
-
-
-
-
-
-
-
-
-
-

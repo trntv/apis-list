@@ -20,14 +20,3 @@ Allows you to generate maps based on data hosted in your CartoDB account.  Docum
 
 
 
-
-
-
--data)
-
-
-
-
-
-
-

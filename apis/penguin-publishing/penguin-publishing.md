@@ -18,7 +18,3 @@ Sample XML response Sample JSON response
 
 
 
-
-
-
-

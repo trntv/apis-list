@@ -23,7 +23,3 @@ Let’s you detect the information of a given photo (face location, age, race, g
 
 
 
-
-
-
-

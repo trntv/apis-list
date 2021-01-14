@@ -19,7 +19,3 @@ Aadhaar is a 12-digit unique identification number issued by the Indian governme
 
 
 
-
-
-
-

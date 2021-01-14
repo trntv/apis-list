@@ -18,7 +18,3 @@ Bratabase API Widget. Hello Developers! Welcome to the developers corner of Brat
 
 
 
-
-
-
-

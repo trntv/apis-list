@@ -20,10 +20,3 @@ Coin predictions as a service. Automatically fetch coin data from various exchan
 
 
 
-
-
-
-
-
-
-

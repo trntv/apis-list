@@ -22,11 +22,3 @@ We offer two kinds of APIs for developers.  The Bot API allows you to easily cre
 
 
 
-y)
-
-
-
-
-
-
-

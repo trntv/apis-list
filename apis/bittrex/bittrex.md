@@ -22,15 +22,3 @@ Bittrex provides a simple and powerful API consisting of REST endpoints for tran
 
 
 
-
-
-
-
-- [DevOps](https://github.com/apis-list/apis-list#devops)
-
-
-
-
-
-
-

@@ -20,7 +20,3 @@ A platform that helps your mobile team build better apps, understand your users,
 
 
 
-
-
-
-

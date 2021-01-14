@@ -22,15 +22,3 @@ Convert text to speech
 
 
 
-s)
-
-
-
-
-
-
-
-voice)
-
-
-

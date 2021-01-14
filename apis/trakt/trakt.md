@@ -19,10 +19,3 @@ Trakt collect lots of information about what tv shows and movies everyone is wat
 
 
 
-
-
-
-
-
-
-

@@ -22,11 +22,3 @@ The largest collection of dad jokes on the internet. The largest collection of d
 
 
 
-Meme](https://github.com/apis-list/apis-list#meme)
-
-
-
-
-
-
-

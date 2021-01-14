@@ -20,10 +20,3 @@ One accurate tab per song. Huge selection of 500,000 tabs. No abusive ads.  Guit
 
 
 
-
-
-
-
-
-
-

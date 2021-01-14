@@ -21,11 +21,3 @@ he API supports competitions in over 90 countries and over 140 national leagues.
 
 
 
-s)
-
-
-
-
-
-
-

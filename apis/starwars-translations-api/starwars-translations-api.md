@@ -21,7 +21,3 @@ Translate from imperial language ( English that is ) to one of the Starwars lang
 
 
 
-
-
-
-

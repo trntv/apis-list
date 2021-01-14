@@ -18,7 +18,3 @@ The Licenses API returns metadata about popular open source licenses and informa
 
 
 
-
-
-
-

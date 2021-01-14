@@ -18,7 +18,3 @@ system_capacit. format Yes Type: string Default: None Options: json, xml The out
 
 
 
-
-
-
-

@@ -18,7 +18,3 @@ Swiss National Bank
 
 
 
-
-
-
-

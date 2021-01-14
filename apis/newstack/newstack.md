@@ -20,10 +20,3 @@ Vendors offer a variety of methods and capabilities that allow devices to talk t
 
 
 
-
-
-
-
-
-
-

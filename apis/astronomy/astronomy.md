@@ -23,15 +23,3 @@ Our Astronomy API provides timings for sunrise, sunset, moonrise, moonset, sun a
 
 
 
-n)
-
-
-
--data)
-
-
-
-
-
-
-

@@ -20,10 +20,3 @@ Say hello to your website visitors in their native language.  Say hello to your 
 
 
 
-
-
-
-
-
-
-

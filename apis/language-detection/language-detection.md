@@ -21,10 +21,3 @@ Detect language(s) from pieces of text
 
 
 
-
-
-
-
-
-
-

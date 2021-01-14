@@ -20,10 +20,3 @@ The API returns maximum 3 detected languages and a numeric confidences between 0
 
 
 
-
-
-
-
-
-
-

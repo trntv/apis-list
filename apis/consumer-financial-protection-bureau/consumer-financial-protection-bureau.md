@@ -20,10 +20,3 @@ Financial services consumer complaint data
 
 
 
-
-
-
-
-
-
-

@@ -21,10 +21,3 @@ A simple API to request a user's real-time approval on any device or platform vi
 
 
 
-
-
-
-
-
-
-

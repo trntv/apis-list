@@ -3031,7 +3031,7 @@
     - Recognition
     - Images
     - Photography
-  description: Whether you have one input or billions, you are only steps away from using AI to power your business applications. AI API that analyzes images and videos and returns probability scores on the likelihood that the image contains pornography.  Clarifai provides a complete platform to deploy, maintain, and manage your AI models
+  description: Whether you have one input or billions, you are only steps away from using AI to power your business applications. AI API that analyzes images and videos and returns probability scores on the likelihood that the image contains pornography. Clarifai provides a complete platform to deploy, maintain, and manage your AI models
   uri: https://developer.clarifai.com/docs/
   is_paid: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/clarifai/logo_256x256.png
@@ -15587,6 +15587,7 @@
   slug: redtube-api
   categories:
     - Entertainment
+    - ' "Adult"'
   description: The Redtube API.  RedTube API Documentation Welcome to the RedTube API developer documentation! Here you can find detailed information needed to get data and integrate RedTube videos on your website or application
   uri: https://api.redtube.com/docs
   is_paid: false

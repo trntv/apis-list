@@ -19,8 +19,3 @@ Allows you to check in to a place
 
 
 
-
-
-
-
-

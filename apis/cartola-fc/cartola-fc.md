@@ -20,10 +20,3 @@ The Cartola FC API serves to check the partial points of your team. 🎩 Cartrol
 
 
 
-
-
-
-
-
-
-

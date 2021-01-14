@@ -20,7 +20,3 @@ API for travel search
 
 
 
-
-
-
-

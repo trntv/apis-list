@@ -23,11 +23,3 @@ Our document verification and facial biometrics technology lets your users verif
 
 
 
-ge-processing)
-
-
-
--processing)
-
-
-

@@ -21,10 +21,3 @@ A SOAP API that provides access to Google Ads accounts, campaigns, and reports. 
 
 
 
-
-
-
-
-
-
-

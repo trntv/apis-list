@@ -18,23 +18,3 @@ You can GET to retrieve your text and you can POST to change your stored text.  
 
 
 
-
-
-
-
-xt (anything that can be saved as an ASCII string)
-
-
-
-**Categories**:
-- [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
-- [Open Data](https://github.com/apis-list/apis-list#open-data)
-- [Pastebin](https://github.com/apis-list/apis-list#pastebin)
-- [DevOps](https://github.com/apis-list/apis-list#devops)
-
-
-
-
-
-
-

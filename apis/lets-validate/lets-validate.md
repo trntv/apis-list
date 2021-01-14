@@ -23,10 +23,3 @@ Uncovers the technologies used on websites and URL to thumbnail.  API that uncov
 
 
 
-
-
-
-
-
-
-

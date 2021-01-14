@@ -22,10 +22,3 @@ Step 2 Then you need to discover the IP address of the bridge on your network.  
 
 
 
-
-
-
-
-
-
-

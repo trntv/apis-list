@@ -18,10 +18,3 @@ Fonts API - Subscription. Font hinting REST API
 
 
 
-
-
-
-
-
-
-

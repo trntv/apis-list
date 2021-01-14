@@ -20,14 +20,3 @@ Gives you a random quote per click.
 
 
 
-
-
-
-
-
-
-
-ty)
-
-
-
