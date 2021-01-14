@@ -16,7 +16,10 @@ Use a set of easy-to-use class and method libraries to build interactive B2B and
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+
+
+
 
 
 

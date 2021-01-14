@@ -21,11 +21,15 @@ the Box Developer Console
 
 ## 🗄️ Categories:
 - [Security](https://github.com/apis-list/apis-list#security)
-- [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
-- [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
+- [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 - [Content Management](https://github.com/apis-list/apis-list#content-management)
 - [Business](https://github.com/apis-list/apis-list#business)
+
+
+
+s)
 
 
 

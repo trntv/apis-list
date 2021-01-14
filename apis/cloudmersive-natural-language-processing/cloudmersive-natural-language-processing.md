@@ -24,7 +24,10 @@ The most powerful and cost-effective NLP AI APIs, continuously updated.
 
 ## 🗄️ Categories:
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
-- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
+
+
+
 
 
 

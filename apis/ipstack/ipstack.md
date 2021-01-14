@@ -18,9 +18,13 @@ Locate website visitors for free using ipstack - a free, real-time IP address to
 ## 🗄️ Categories:
 - [Localization](https://github.com/apis-list/apis-list#localization)
 - [Security](https://github.com/apis-list/apis-list#security)
-- [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 - [Data](https://github.com/apis-list/apis-list#data)
+
+
+
+a)
 
 
 

@@ -17,7 +17,10 @@ An extremely mature, well organized and continuely updated resource of comic inf
 
 ## 🗄️ Categories:
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-- [Comics & Anime](https://github.com/apis-list/apis-list#comics-and-anime)
+- [Comics & Anime](https://github.com/apis-list/apis-list#comics--anime)
+
+
+
 
 
 

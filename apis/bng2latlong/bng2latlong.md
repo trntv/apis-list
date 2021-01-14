@@ -16,10 +16,13 @@ Simple API to convert an OSGB36 easting and northing (British National Grid) to 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Geography](https://github.com/apis-list/apis-list#geography)
 - [Data](https://github.com/apis-list/apis-list#data)
-- [Post & Logistics](https://github.com/apis-list/apis-list#post-and-logistics)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+
+
+
+ [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
 
 
 

@@ -16,9 +16,12 @@ It allows you to create client programs in any programming language with an HTTP
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
+- [Science & Math](https://github.com/apis-list/apis-list#science--math)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Visualizations](https://github.com/apis-list/apis-list#visualizations)
+
+
+
 
 
 

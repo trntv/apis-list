@@ -15,7 +15,10 @@ Connect the people who have knowledge to the people who need it, to bring togeth
 
 ## 🗄️ Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
-- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
+
+
+
 
 
 

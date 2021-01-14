@@ -16,7 +16,10 @@ Cloud Speech Recognition API. Transform speech to text with high accuracy in mul
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
+
+
+
 
 
 

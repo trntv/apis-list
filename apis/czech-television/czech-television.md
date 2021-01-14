@@ -16,7 +16,10 @@ iVysílání | TV program | Vše o ČT | Pořady A–Z | eShop.  iVysílání | 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media)
+
+
+
 
 
 

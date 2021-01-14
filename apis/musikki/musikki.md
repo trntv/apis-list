@@ -16,7 +16,10 @@ Music
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
+
+
+
 
 
 

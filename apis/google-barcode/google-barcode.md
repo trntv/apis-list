@@ -16,7 +16,10 @@ It can also detect multiple barcodes at once. It reads the following barcode for
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Bar & QR Codes](https://github.com/apis-list/apis-list#bar-and-qr-codes)
+- [Bar & QR Codes](https://github.com/apis-list/apis-list#bar--qr-codes)
+
+
+
 
 
 

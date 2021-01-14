@@ -14,7 +14,10 @@ Free live exchange rates and currency conversion API for developers.  ECB rates 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
+
+
+
 
 
 

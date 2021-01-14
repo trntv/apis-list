@@ -15,10 +15,13 @@ Existing instances are supported until 1 December 2021, but as of 7 January 2021
 
 ## 🗄️ Categories:
 - [Images](https://github.com/apis-list/apis-list#images)
-- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Recognition](https://github.com/apis-list/apis-list#recognition)
+
+
+
 
 
 

@@ -15,7 +15,10 @@ Metadefender Cloud provides unique set of APIs for everyone who is working with 
 
 ## 🗄️ Categories:
 - [Security](https://github.com/apis-list/apis-list#security)
-- [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
+- [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
+
+
+
 
 
 

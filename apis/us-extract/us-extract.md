@@ -16,7 +16,10 @@ Simple HTTP endpoint and SDKs.  Try free now. Extract USPS addresses from any te
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
+
+
+
 
 
 

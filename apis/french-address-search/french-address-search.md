@@ -16,7 +16,10 @@ Cherchez des adresses et lieux-dits.  Cherchez des adresses et lieux-dits
 ## 🗄️ Categories:
 - [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 - [Data](https://github.com/apis-list/apis-list#data)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+
+
+
 
 
 

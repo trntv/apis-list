@@ -16,9 +16,13 @@ Cryptocurrencies Comparison. Free cryptocurrency data APIs. Get high-quality his
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
 - [Data](https://github.com/apis-list/apis-list#data)
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
+
+
+
+s)
 
 
 

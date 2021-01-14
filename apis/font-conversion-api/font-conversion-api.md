@@ -14,7 +14,10 @@ Font format conversion REST API. Fonts API - Subscription
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
+- [Art & Design](https://github.com/apis-list/apis-list#art--design)
+
+
+
 
 
 

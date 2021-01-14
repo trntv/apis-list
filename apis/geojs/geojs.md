@@ -16,7 +16,10 @@ REST/JSON/JSONP GeoIP API.  REST/JSON/JSONP GeoIP API
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+
+
+
 
 
 

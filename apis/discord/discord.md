@@ -15,9 +15,12 @@ Integrate your service with Discord — whether it's a bot or a game or whatever
 
 ## 🗄️ Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
-- [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
+- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging)
 - [Voice](https://github.com/apis-list/apis-list#voice)
 - [Games](https://github.com/apis-list/apis-list#games)
+
+
+
 
 
 

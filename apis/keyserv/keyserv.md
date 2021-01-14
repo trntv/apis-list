@@ -20,7 +20,10 @@ SmartQ is an technology company founded in 2017 with the intention of providing 
 - [Products](https://github.com/apis-list/apis-list#products)
 - [Payments](https://github.com/apis-list/apis-list#payments)
 - [Development](https://github.com/apis-list/apis-list#development)
-- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot-and-home-automation)
+- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot--home-automation)
+
+
+
 
 
 

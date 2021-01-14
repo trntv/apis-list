@@ -15,9 +15,12 @@ The OpenDota API provides Dota 2 related data including advanced match data extr
 
 ## 🗄️ Categories:
 - [Community](https://github.com/apis-list/apis-list#community)
-- [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Games](https://github.com/apis-list/apis-list#games)
+
+
+
 
 
 

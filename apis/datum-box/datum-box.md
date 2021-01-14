@@ -16,7 +16,10 @@ Unleash the power of Machine Learning by using the Powerful and Easy-to-Use API 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
+
+
+
 
 
 

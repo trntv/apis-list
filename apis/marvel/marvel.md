@@ -20,8 +20,12 @@ The Marvel developer portal gives Marvel fans, partners and other technologists 
 - [Prototype](https://github.com/apis-list/apis-list#prototype)
 - [Tools](https://github.com/apis-list/apis-list#tools)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-- [Comics & Anime](https://github.com/apis-list/apis-list#comics-and-anime)
-- [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
+- [Comics & Anime](https://github.com/apis-list/apis-list#comics--anime)
+- [Art & Design](https://github.com/apis-list/apis-list#art--design)
+
+
+
+n)
 
 
 

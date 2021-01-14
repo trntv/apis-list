@@ -17,9 +17,13 @@ Hosted on the Open Science Framework
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
-- [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
+- [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
+- [Science & Math](https://github.com/apis-list/apis-list#science--math)
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
+
+
+
+n)
 
 
 

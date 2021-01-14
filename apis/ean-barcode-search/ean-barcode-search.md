@@ -15,7 +15,10 @@ EAN Barcode API Integrate our database into your app or website! Easily query ou
 
 ## 🗄️ Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
-- [Bar & QR Codes](https://github.com/apis-list/apis-list#bar-and-qr-codes)
+- [Bar & QR Codes](https://github.com/apis-list/apis-list#bar--qr-codes)
+
+
+
 
 
 

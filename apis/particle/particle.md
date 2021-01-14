@@ -14,7 +14,10 @@ API to manage Particle devices (including their own Arduino-compatible ones and 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot-and-home-automation)
+- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot--home-automation)
+
+
+
 
 
 

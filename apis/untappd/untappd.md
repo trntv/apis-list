@@ -16,8 +16,11 @@ Access the Untappd API documentation to power your app or project. . Untappd is 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Food & Drinks](https://github.com/apis-list/apis-list#food-and-drinks)
+- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks)
 - [Social](https://github.com/apis-list/apis-list#social)
+
+
+
 
 
 

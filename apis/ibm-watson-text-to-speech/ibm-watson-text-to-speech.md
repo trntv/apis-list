@@ -17,9 +17,13 @@ It’s 100% free for unlimited usage. Technologies like AI, cloud, blockchain an
 
 ## 🗄️ Categories:
 - [Voice](https://github.com/apis-list/apis-list#voice)
-- [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
 - [Languages](https://github.com/apis-list/apis-list#languages)
-- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
+
+
+
+l)
 
 
 

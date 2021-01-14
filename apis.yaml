@@ -2397,7 +2397,6 @@
     - Finance & Economics
     - Big Data
     - Data
-    - Geography
     - Transportation
     - Vehicle
     - Development
@@ -2933,7 +2932,6 @@
     - Real Estate
     - Maps & Geo
     - Data
-    - Geography
     - Transportation
     - Planning
     - Education
@@ -3231,7 +3229,7 @@
     - Cloud
     - Finance & Economics
     - IoT & Home Automation
-  description: This is a default index page for a new domain. Cloud Wallet enables closed-loop payments between IoT devices and facilitates IoT adoption worldwide.  It allows developers to reduce cost & time-to-market while building and scaling
+  description: Cloud Wallet enables closed-loop payments between IoT devices and facilitates IoT adoption worldwide.  It allows developers to reduce cost & time-to-market while building and scaling
   uri: https://walletapi.cloud/index.html
   is_paid: false
   type: ""
@@ -6042,8 +6040,6 @@
     - Images
     - Video & Media
     - Files & Storage
-    - Cloud
-    - Editing
   description: API for image and file manipulation, 250 uploads and 500 uploads per month for free, free CDN, HTML widget.  Discover powerful tools that allow you to upload, transform and deliver any file in your application
   uri: https://filestack.com/docs/
   is_paid: false
@@ -11324,7 +11320,6 @@
   slug: mapbox
   categories:
     - Maps & Geo
-    - Geography
     - Visualizations
   description: Access to MapBox’s API
   uri: https://www.mapbox.com/developers/api/maps/
@@ -19702,7 +19697,6 @@
     - Real Time
     - Travel
     - Transportation
-    - Geography
     - Maps & Geo
   description: Discover how the Uber API can easily enhance your app’s user experience and take your innovation further with a wide range of new capabilities. Uber provides API for customizing trip experiences, requesting rides, powering logistics, creating bots and so much more
   uri: https://developer.uber.com/
@@ -20566,7 +20560,6 @@
   categories:
     - Maps & Geo
     - Post & Logistics
-    - Geography
     - Data
   description: Convert a WGS84 latitude and longitude to OSGB36 easting and northing (British National Grid)
   uri: https://quicksold.co.uk/swagger
@@ -21829,7 +21822,6 @@
 - name: bng2latlong
   slug: bng2latlong
   categories:
-    - Geography
     - Data
     - Post & Logistics
     - Maps & Geo

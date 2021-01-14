@@ -15,9 +15,13 @@ Check phone number validity, location and timezones
 
 ## 🗄️ Categories:
 - [Data](https://github.com/apis-list/apis-list#data)
-- [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
-- [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
+- [Email & SMS](https://github.com/apis-list/apis-list#email--sms)
 - [CRM](https://github.com/apis-list/apis-list#crm)
+
+
+
+m)
 
 
 

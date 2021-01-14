@@ -16,7 +16,10 @@ The API tracks rates published daily by the European Central Bank. JSON API for 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
+
+
+
 
 
 

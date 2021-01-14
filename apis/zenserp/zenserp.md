@@ -16,9 +16,13 @@ Our fast & reliable SERP API enables you to scrape search results in realtime an
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers-and-data-mining)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
 - [Search](https://github.com/apis-list/apis-list#search)
-- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing-and-seo)
+- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo)
+
+
+
+o)
 
 
 

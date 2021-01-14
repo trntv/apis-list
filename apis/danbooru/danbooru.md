@@ -17,7 +17,10 @@ Get images cartegorized by tags.
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Adult](https://github.com/apis-list/apis-list#adult)
-- [Comics & Anime](https://github.com/apis-list/apis-list#comics-and-anime)
+- [Comics & Anime](https://github.com/apis-list/apis-list#comics--anime)
+
+
+
 
 
 

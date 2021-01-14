@@ -15,7 +15,10 @@ To get started check out Install the SDK. For detailed explana. In this document
 
 ## 🗄️ Categories:
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
-- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
+
+
+
 
 
 

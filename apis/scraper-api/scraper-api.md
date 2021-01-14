@@ -14,8 +14,11 @@ Get started with 1000 free API calls!. Scraper API handles proxies, browsers, an
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers-and-data-mining)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
 - [Other](https://github.com/apis-list/apis-list#other)
+
+
+
 
 
 

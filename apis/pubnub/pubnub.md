@@ -16,8 +16,12 @@
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot-and-home-automation)
-- [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
+- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot--home-automation)
+- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging)
+
+
+
+g)
 
 
 

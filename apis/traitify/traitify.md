@@ -17,8 +17,11 @@ Traitify API documentation and developer portal. Traitify API documentation and 
 - [Health](https://github.com/apis-list/apis-list#health)
 - [Personality](https://github.com/apis-list/apis-list#personality)
 - [Development](https://github.com/apis-list/apis-list#development)
-- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
 - [Testing](https://github.com/apis-list/apis-list#testing)
+
+
+
 
 
 

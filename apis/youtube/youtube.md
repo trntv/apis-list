@@ -14,8 +14,11 @@ Add YouTube functionality to your sites and apps.  Add YouTube functionality to 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media)
 - [Social](https://github.com/apis-list/apis-list#social)
+
+
+
 
 
 

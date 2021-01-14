@@ -16,7 +16,10 @@ pizza is made to prevent users to register to websites with a disposable email a
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
+
+
+
 
 
 

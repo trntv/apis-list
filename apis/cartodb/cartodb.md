@@ -14,9 +14,12 @@ Allows you to generate maps based on data hosted in your CartoDB account.  Docum
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 - [Data](https://github.com/apis-list/apis-list#data)
 - [Databases](https://github.com/apis-list/apis-list#databases)
+
+
+
 
 
 

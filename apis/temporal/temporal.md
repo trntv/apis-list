@@ -14,7 +14,10 @@ IPFS API Upload files, pin hashes, and send pubsub messages using our proprietar
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
+- [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
+
+
+
 
 
 

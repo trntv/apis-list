@@ -16,7 +16,10 @@ Kakao 지도 API를 이용해보세요. 다양한 샘플과 상세한 매뉴얼�
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+
+
+
 
 
 

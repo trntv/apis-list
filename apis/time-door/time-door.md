@@ -20,9 +20,13 @@ A time series analysis API. Time Door is an API for statistical insights into ti
 - [Big Data](https://github.com/apis-list/apis-list#big-data)
 - [Time](https://github.com/apis-list/apis-list#time)
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
-- [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
-- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
-- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers-and-data-mining)
+- [Science & Math](https://github.com/apis-list/apis-list#science--math)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
+
+
+
+ning)
 
 
 

@@ -17,8 +17,11 @@ Gather and compare all kinds of interesting data, they weren't really interactiv
 
 ## 🗄️ Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 - [Mobile](https://github.com/apis-list/apis-list#mobile)
+
+
+
 
 
 

@@ -16,9 +16,12 @@ Easily integrate Okta SAML, Google OAuth, and more. Support Single Sign-On for c
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication-and-user-management)
+- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management)
 - [Security](https://github.com/apis-list/apis-list#security)
 - [Business](https://github.com/apis-list/apis-list#business)
+
+
+
 
 
 

@@ -17,7 +17,10 @@ QR Code REST API. Can create QR code images or read existing images and return t
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Tools](https://github.com/apis-list/apis-list#tools)
 - [Social](https://github.com/apis-list/apis-list#social)
-- [Bar & QR Codes](https://github.com/apis-list/apis-list#bar-and-qr-codes)
+- [Bar & QR Codes](https://github.com/apis-list/apis-list#bar--qr-codes)
+
+
+
 
 
 

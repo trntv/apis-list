@@ -16,10 +16,14 @@ Our Astronomy API provides timings for sunrise, sunset, moonrise, moonset, sun a
 ## 🗄️ Categories:
 - [Space](https://github.com/apis-list/apis-list#space)
 - [Education](https://github.com/apis-list/apis-list#education)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
-- [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Science & Math](https://github.com/apis-list/apis-list#science--math)
 - [Data](https://github.com/apis-list/apis-list#data)
 - [Localization](https://github.com/apis-list/apis-list#localization)
+
+
+
+n)
 
 
 

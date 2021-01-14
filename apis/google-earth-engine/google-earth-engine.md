@@ -18,7 +18,10 @@ Perform geospatial processing powered by Google's cloud infrastructure
 
 ## 🗄️ Categories:
 - [Images](https://github.com/apis-list/apis-list#images)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+
+
+
 
 
 

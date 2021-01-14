@@ -17,8 +17,11 @@ The Rijksmuseum links individuals with art and history. Our data services are im
 
 ## 🗄️ Categories:
 - [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest)
-- [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
+- [Art & Design](https://github.com/apis-list/apis-list#art--design)
 - [Education](https://github.com/apis-list/apis-list#education)
+
+
+
 
 
 

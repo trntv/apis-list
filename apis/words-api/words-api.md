@@ -16,7 +16,10 @@ An API for the english language. Definitions, related words, rhymes, and more. U
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
+
+
+
 
 
 

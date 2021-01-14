@@ -14,7 +14,10 @@ Free phone number validation provided by PhoneValidator. Check phone numbers to 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
+
+
+
 
 
 

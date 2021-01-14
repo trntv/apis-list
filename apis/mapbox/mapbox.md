@@ -14,9 +14,12 @@ Access to MapBox’s API
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
-- [Geography](https://github.com/apis-list/apis-list#geography)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 - [Visualizations](https://github.com/apis-list/apis-list#visualizations)
+
+
+
+zations](https://github.com/apis-list/apis-list#visualizations)
 
 
 

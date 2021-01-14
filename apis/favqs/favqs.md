@@ -17,7 +17,10 @@ FavQs allows you to collect, discover, and share your favorite quotes.
 
 ## 🗄️ Categories:
 - [Quotes](https://github.com/apis-list/apis-list#quotes)
-- [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
+
+
+
 
 
 

@@ -15,18 +15,18 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 
 ## Table of Context
 - Categories:
-    - [AI & ML](#ai-and-ml) 
+    - [AI & ML](#ai--ml) 
     - [Adult](#adult) 
     - [Agriculture](#agriculture) 
     - [Analytics](#analytics) 
     - [Animals](#animals) 
     - [Applications](#applications) 
-    - [Art & Design](#art-and-design) 
-    - [Authentication & User Management](#authentication-and-user-management) 
+    - [Art & Design](#art--design) 
+    - [Authentication & User Management](#authentication--user-management) 
     - [Automation](#automation) 
-    - [Bar & QR Codes](#bar-and-qr-codes) 
+    - [Bar & QR Codes](#bar--qr-codes) 
     - [Big Data](#big-data) 
-    - [Blockchain & Cryptocurrencies](#blockchain-and-cryptocurrencies) 
+    - [Blockchain & Cryptocurrencies](#blockchain--cryptocurrencies) 
     - [Bookmarks](#bookmarks) 
     - [Books](#books) 
     - [Bots](#bots) 
@@ -35,18 +35,18 @@ Discuss any topic related to the specific API you can [here](https://github.com/
     - [CRM](#crm) 
     - [Calendar](#calendar) 
     - [Captcha](#captcha) 
-    - [Casino & Gambling](#casino-and-gambling) 
+    - [Casino & Gambling](#casino--gambling) 
     - [Charts](#charts) 
-    - [Chats & Messaging](#chats-and-messaging) 
-    - [Check-In](#check-in) 
+    - [Chats & Messaging](#chats--messaging) 
+    - [Check-In](#checkin) 
     - [Cloud](#cloud) 
     - [Collaboration](#collaboration) 
     - [Colors](#colors) 
-    - [Comics & Anime](#comics-and-anime) 
+    - [Comics & Anime](#comics--anime) 
     - [Commerce](#commerce) 💰
     - [Communications](#communications) 
     - [Community](#community) 
-    - [Content & Dictionaries](#content-and-dictionaries) 
+    - [Content & Dictionaries](#content--dictionaries) 
     - [Content Management](#content-management) 
     - [Conversions](#conversions) 
     - [Currency](#currency) 
@@ -55,23 +55,21 @@ Discuss any topic related to the specific API you can [here](https://github.com/
     - [DevOps](#devops) 
     - [Development](#development) 👨‍💻
     - [Directories](#directories) 
-    - [Documents & Productivity](#documents-and-productivity) 
+    - [Documents & Productivity](#documents--productivity) 
     - [Domains](#domains) 
-    - [Editing](#editing) 
     - [Education](#education) 
-    - [Email & SMS](#email-and-sms) 
+    - [Email & SMS](#email--sms) 
     - [Energy](#energy) 
     - [Entertainment](#entertainment) 🍿
     - [Environment](#environment) 
     - [Events](#events) 
     - [Fashion](#fashion) 
-    - [Files & Storage](#files-and-storage) 
-    - [Finance & Economics](#finance-and-economics) 📈
-    - [Food & Drinks](#food-and-drinks) 
+    - [Files & Storage](#files--storage) 
+    - [Finance & Economics](#finance--economics) 📈
+    - [Food & Drinks](#food--drinks) 
     - [Forms](#forms) 
     - [Fun](#fun) 
     - [Games](#games) 
-    - [Geography](#geography) 
     - [Government](#government) 
     - [Hardware](#hardware) 
     - [Health](#health) 💊
@@ -79,7 +77,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
     - [Identity](#identity) 
     - [Images](#images) 
     - [Integration](#integration) 
-    - [IoT & Home Automation](#iot-and-home-automation) 
+    - [IoT & Home Automation](#iot--home-automation) 
     - [Japanese](#japanese) 
     - [Jobs](#jobs) 
     - [Language](#language) 
@@ -88,15 +86,15 @@ Discuss any topic related to the specific API you can [here](https://github.com/
     - [Lists](#lists) 
     - [Localization](#localization) 
     - [Logistics](#logistics) 
-    - [Maps & Geo](#maps-and-geo) 
-    - [Marketing & SEO](#marketing-and-seo) 
+    - [Maps & Geo](#maps--geo) 
+    - [Marketing & SEO](#marketing--seo) 
     - [Marketplace](#marketplace) 
     - [Meme](#meme) 
     - [Merchants](#merchants) 
     - [Metadata](#metadata) 
     - [Mobile](#mobile) 
-    - [Music & Audio](#music-and-audio) 
-    - [News & Feeds](#news-and-feeds) 
+    - [Music & Audio](#music--audio) 
+    - [News & Feeds](#news--feeds) 
     - [Notifications](#notifications) 
     - [Office](#office) 
     - [Open Licenses](#open-licenses) 
@@ -109,7 +107,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
     - [Planning](#planning) 
     - [Podcasts](#podcasts) 
     - [Point of Interest](#point-of-interest) 
-    - [Post & Logistics](#post-and-logistics) 
+    - [Post & Logistics](#post--logistics) 
     - [Products](#products) 
     - [Project Management](#project-management) 
     - [Prototype](#prototype) 
@@ -124,15 +122,15 @@ Discuss any topic related to the specific API you can [here](https://github.com/
     - [Robots](#robots) 
     - [Routing](#routing) 
     - [Scheduling](#scheduling) 
-    - [Science & Math](#science-and-math) 
-    - [Scrapers & Data Mining](#scrapers-and-data-mining) 
+    - [Science & Math](#science--math) 
+    - [Scrapers & Data Mining](#scrapers--data-mining) 
     - [Search](#search) 
     - [Security](#security) 
     - [Shopping](#shopping) 
     - [Social](#social) 
     - [Space](#space) 
     - [Spam](#spam) 
-    - [Sport & Fitness](#sport-and-fitness) 
+    - [Sport & Fitness](#sport--fitness) 
     - [Surveys](#surveys) 
     - [Sustainability](#sustainability) 
     - [Tasks](#tasks) 
@@ -149,10 +147,10 @@ Discuss any topic related to the specific API you can [here](https://github.com/
     - [Trivia](#trivia) 
     - [URL Shortening](#url-shortening) 
     - [URLs](#urls) 
-    - [Validation & Verification](#validation-and-verification) 
+    - [Validation & Verification](#validation--verification) 
     - [Vehicle](#vehicle) 
-    - [Video & Media](#video-and-media) 
-    - [Virtual & Augmented Reality](#virtual-and-augmented-reality) 
+    - [Video & Media](#video--media) 
+    - [Virtual & Augmented Reality](#virtual--augmented-reality) 
     - [Visualizations](#visualizations) 
     - [Voice](#voice) 
     - [Weather](#weather) 
@@ -567,11 +565,10 @@ the Box Developer Console
 - [Google Places](https://github.com/apis-list/apis-list/blob/main/apis/google-places/google-places.md) - Connect your app or website users to over 100 million points of interests with Places, using Autocomplete, Geocoding & Place Search APIs
  ### Cloud 
 - [Bing Search API](https://github.com/apis-list/apis-list/blob/main/apis/bing-search-api/bing-search-api.md) - Add intelligent search to your app, combing hundreds of billions of webpages, images, videos, and news to provide relevant results with no ad requirements
-- [Cloud Wallet](https://github.com/apis-list/apis-list/blob/main/apis/cloud-wallet/cloud-wallet.md) - This is a default index page for a new domain
+- [Cloud Wallet](https://github.com/apis-list/apis-list/blob/main/apis/cloud-wallet/cloud-wallet.md) - Cloud Wallet enables closed-loop payments between IoT devices and facilitates IoT adoption worldwide
 - [Cloudinary](https://github.com/apis-list/apis-list/blob/main/apis/cloudinary/cloudinary.md) - API for image and video storage and manipulation - free for up to 75,000 images and 7,500 manipulations per month, good documentation, it can also manipulate GIFs and PDFs
 - [Codeship](https://github.com/apis-list/apis-list/blob/main/apis/codeship/codeship.md) - Hosted API documentation for every OAS (Swagger) and RAML spec out there
 - [DigitalOcean Spaces](https://github.com/apis-list/apis-list/blob/main/apis/digitalocean-spaces/digitalocean-spaces.md) - The simplest way to cost effectively store, serve, backup, and archive a virtually infinite amount of media, content, images, and static files for your apps
-- [Filestack](https://github.com/apis-list/apis-list/blob/main/apis/filestack/filestack.md) - API for image and file manipulation, 250 uploads and 500 uploads per month for free, free CDN, HTML widget
 - [Google App Engine API](https://github.com/apis-list/apis-list/blob/main/apis/google-app-engine-api/google-app-engine-api.md) - Build scalable web and mobile backends in any language on Google’s infrastructure
 - [IEX Cloud](https://github.com/apis-list/apis-list/blob/main/apis/iex-cloud/iex-cloud.md) - IEX Cloud is a financial data infrastructure platform that connects developers and financial data creators
 - [Marketcloud](https://github.com/apis-list/apis-list/blob/main/apis/marketcloud/marketcloud.md) - It covers inventory and database, carts and checkout, payments, user authentication, and more
@@ -1014,8 +1011,6 @@ Easy to use
  ### Domains 
 - [FreeGeoIP](https://github.com/apis-list/apis-list/blob/main/apis/freegeoip/freegeoip.md) - Free IP Geolocation API with no registration required
 - [Screenshotscloud](https://github.com/apis-list/apis-list/blob/main/apis/screenshotscloud/screenshotscloud.md) - With our website screenshot API you can automate high quality real browser screenshots in seconds using our reliable CDN backed queueless API service
- ### Editing 
-- [Filestack](https://github.com/apis-list/apis-list/blob/main/apis/filestack/filestack.md) - API for image and file manipulation, 250 uploads and 500 uploads per month for free, free CDN, HTML widget
  ### Education 
 - [Astronomy](https://github.com/apis-list/apis-list/blob/main/apis/astronomy/astronomy.md) - Our Astronomy API provides timings for sunrise, sunset, moonrise, moonset, sun azimuth, moon azimuth, sun altitude, moon altitude, sun distance from the earth and moon distance from the earth from latitude and longitude or an IPv4 or IPv6 address for a given date
 - [CORE](https://github.com/apis-list/apis-list/blob/main/apis/core/core.md) - CORE harvests, maintains, enriches and makes available metadata and full text
@@ -1203,7 +1198,7 @@ the Box Developer Console
 200 endpoints to ensure our API is flexible enough to fit any project! 
 bunq is an anti-bank that is licenced to work in Europe
 - [CarsXE API](https://github.com/apis-list/apis-list/blob/main/apis/carsxe-api/carsxe-api.md) - Get access to millions of vehicle records, specs, ownership costs and market values
-- [Cloud Wallet](https://github.com/apis-list/apis-list/blob/main/apis/cloud-wallet/cloud-wallet.md) - This is a default index page for a new domain
+- [Cloud Wallet](https://github.com/apis-list/apis-list/blob/main/apis/cloud-wallet/cloud-wallet.md) - Cloud Wallet enables closed-loop payments between IoT devices and facilitates IoT adoption worldwide
 - [CoinDesk](https://github.com/apis-list/apis-list/blob/main/apis/coindesk/coindesk.md) - Bitcoin Price Index
 - [CoinMarketCap](https://github.com/apis-list/apis-list/blob/main/apis/coinmarketcap/coinmarketcap.md) - Cryptocurrencies Prices
 - [Coinbase](https://github.com/apis-list/apis-list/blob/main/apis/coinbase/coinbase.md) - Coinbase’s API makes it easy to integrate bitcoin, bitcoin cash, litecoin and ethereum into both new and existing applications
@@ -1341,13 +1336,6 @@ bunq is an anti-bank that is licenced to work in Europe
 - [TasteDive](https://github.com/apis-list/apis-list/blob/main/apis/tastedive/tastedive.md) - The TasteDive API can be used to integrate recommendations in other products
 - [Vainglory](https://github.com/apis-list/apis-list/blob/main/apis/vainglory/vainglory.md) - Vainglory Players, Matches and Telemetry
 - [Wargaming.net](https://github.com/apis-list/apis-list/blob/main/apis/wargaming-net/wargaming-net.md) - Wargaming Games API
- ### Geography 
-- [CarsXE API](https://github.com/apis-list/apis-list/blob/main/apis/carsxe-api/carsxe-api.md) - Get access to millions of vehicle records, specs, ownership costs and market values
-- [City Context](https://github.com/apis-list/apis-list/blob/main/apis/city-context/city-context.md) - Crime, school and transportation data for US cities
-- [Mapbox](https://github.com/apis-list/apis-list/blob/main/apis/mapbox/mapbox.md) - Access to MapBox’s API
-- [Uber](https://github.com/apis-list/apis-list/blob/main/apis/uber/uber.md) - Discover how the Uber API can easily enhance your app’s user experience and take your innovation further with a wide range of new capabilities
-- [Wgs84 To Osgb36](https://github.com/apis-list/apis-list/blob/main/apis/wgs84-to-osgb36/wgs84-to-osgb36.md) - Convert a WGS84 latitude and longitude to OSGB36 easting and northing (British National Grid)
-- [bng2latlong](https://github.com/apis-list/apis-list/blob/main/apis/bng2latlong/bng2latlong.md) - Simple API to convert an OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude
  ### Government 
 - [Aadhaar Bridge](https://github.com/apis-list/apis-list/blob/main/apis/aadhaar-bridge/aadhaar-bridge.md) - Aadhaar is a 12-digit unique identification number issued by the Indian government to every individual resident of India
 - [Australia](https://github.com/apis-list/apis-list/blob/main/apis/australia/australia.md) - Central bank of Australia
@@ -1509,7 +1497,7 @@ Convert files and content between file formats
 - [PrexView](https://github.com/apis-list/apis-list/blob/main/apis/prexview/prexview.md) - Transform your data from XML or JSON to high quality, beautiful and readable documents in PDF, HTML, PNG or JPG
  ### IoT & Home Automation 
 - [Ably](https://github.com/apis-list/apis-list/blob/main/apis/ably/ably.md) - API for making cross-protocol realtime communication between devices easy
-- [Cloud Wallet](https://github.com/apis-list/apis-list/blob/main/apis/cloud-wallet/cloud-wallet.md) - This is a default index page for a new domain
+- [Cloud Wallet](https://github.com/apis-list/apis-list/blob/main/apis/cloud-wallet/cloud-wallet.md) - Cloud Wallet enables closed-loop payments between IoT devices and facilitates IoT adoption worldwide
 - [Cloudpronouncer](https://github.com/apis-list/apis-list/blob/main/apis/cloudpronouncer/cloudpronouncer.md) - Text To Speech API - CloudPronouncer (tts online or tts reader) is a cross browsers REST API supporting now  255  Standard and Premium Voices in 42  languages including variants (the list is growing in time) and it may be used by any device that can connect to Internet and send the POST requests to our API as instructed in this website: smartphones, tablets, laptops, PC Desktops, other smart devices
 - [Google Cloud IoT solutions](https://github.com/apis-list/apis-list/blob/main/apis/google-cloud-iot-solutions/google-cloud-iot-solutions.md) - Unlock insights from your global device network with an intelligent IoT platform whose scalable, fully managed integration lets you connect, store, and analyze data at the edge and in the cloud
 - [Houndify](https://github.com/apis-list/apis-list/blob/main/apis/houndify/houndify.md) - The Houndify Voice AI platform helps brands build voice user interfaces that enhance brand identity and retain data ownership and customer relationships

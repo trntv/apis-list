@@ -17,9 +17,12 @@ Flexible natural language processing APIs and complete text analytics platform s
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 - [Text](https://github.com/apis-list/apis-list#text)
 - [Development](https://github.com/apis-list/apis-list#development)
-- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
 - [Tools](https://github.com/apis-list/apis-list#tools)
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
+
+
+
 
 
 

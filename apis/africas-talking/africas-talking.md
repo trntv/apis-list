@@ -15,8 +15,12 @@ A unified API platform for software developers in Africa building SMS, USSD, Voi
 
 ## 🗄️ Categories:
 - [Worldwide](https://github.com/apis-list/apis-list#worldwide)
-- [Email & SMS](https://github.com/apis-list/apis-list#email-and-sms)
-- [Chats & Messaging](https://github.com/apis-list/apis-list#chats-and-messaging)
+- [Email & SMS](https://github.com/apis-list/apis-list#email--sms)
+- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging)
+
+
+
+g)
 
 
 

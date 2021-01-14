@@ -18,8 +18,12 @@ Various sports events, results, players, teams and high quality artwork. TheSpor
 ## 🗄️ Categories:
 - [Databases](https://github.com/apis-list/apis-list#databases)
 - [Images](https://github.com/apis-list/apis-list#images)
-- [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
-- [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
+- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness)
+- [Art & Design](https://github.com/apis-list/apis-list#art--design)
+
+
+
+n)
 
 
 

@@ -18,7 +18,10 @@ APIs for products and store information
 ## 🗄️ Categories:
 - [Shopping](https://github.com/apis-list/apis-list#shopping)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Food & Drinks](https://github.com/apis-list/apis-list#food-and-drinks)
+- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks)
+
+
+
 
 
 

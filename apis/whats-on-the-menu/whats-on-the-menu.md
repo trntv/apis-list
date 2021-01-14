@@ -14,7 +14,10 @@ This is built for programmers and power-users, . .  Menus Beta API v1 What Is Th
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Food & Drinks](https://github.com/apis-list/apis-list#food-and-drinks)
+- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks)
+
+
+
 
 
 

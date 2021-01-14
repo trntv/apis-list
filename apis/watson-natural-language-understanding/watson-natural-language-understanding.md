@@ -14,8 +14,11 @@ Provide text, raw HTML, or a public URL and IBM Watson Natural Language Understa
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
+
+
+
 
 
 

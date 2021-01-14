@@ -16,7 +16,10 @@ Lob provides direct mail and address verification APIs that allow businesses to 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
+
+
+
 
 
 

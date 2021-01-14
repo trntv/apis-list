@@ -14,7 +14,10 @@ Posting in the future we will accept incidents, r. BikeWise API General notes: T
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
+- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness)
+
+
+
 
 
 

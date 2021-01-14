@@ -15,11 +15,15 @@ Free, legal research articles delivered instantly or automatically requested fro
 
 ## 🗄️ Categories:
 - [Data](https://github.com/apis-list/apis-list#data)
-- [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
+- [Science & Math](https://github.com/apis-list/apis-list#science--math)
 - [Search](https://github.com/apis-list/apis-list#search)
-- [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
-- [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
-- [Content & Dictionaries](https://github.com/apis-list/apis-list#content-and-dictionaries)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
+- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
+
+
+
+onaries)
 
 
 

@@ -16,7 +16,10 @@ Uses a simple HTTP endpoint.  Address Autocomplete | Use our Autocomplete API to
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
+
+
+
 
 
 

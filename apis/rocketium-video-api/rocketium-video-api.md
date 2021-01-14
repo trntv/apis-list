@@ -17,7 +17,10 @@ Create multiple videos with your logo, captions, and background music in differe
 
 ## 🗄️ Categories:
 - [Other](https://github.com/apis-list/apis-list#other)
-- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing-and-seo)
+- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo)
+
+
+
 
 
 

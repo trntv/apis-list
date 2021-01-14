@@ -20,7 +20,10 @@ Search worldwide news articles and headlines from all over the web in real-time 
 - [Search](https://github.com/apis-list/apis-list#search)
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Metadata](https://github.com/apis-list/apis-list#metadata)
-- [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
+- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
+
+
+
 
 
 

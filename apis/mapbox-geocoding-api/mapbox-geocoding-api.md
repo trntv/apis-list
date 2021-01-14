@@ -15,7 +15,10 @@ The Mapbox Geocoding API does forward geocoding (search place names and return c
 
 ## 🗄️ Categories:
 - [Search](https://github.com/apis-list/apis-list#search)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+
+
+
 
 
 

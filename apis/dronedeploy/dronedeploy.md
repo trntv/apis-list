@@ -18,7 +18,10 @@ Integrate your existing service into DroneDeploy and reach tens of thousands of 
 ## 🗄️ Categories:
 - [Robots](https://github.com/apis-list/apis-list#robots)
 - [Images](https://github.com/apis-list/apis-list#images)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+
+
+
 
 
 

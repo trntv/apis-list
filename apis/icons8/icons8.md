@@ -16,8 +16,11 @@ Icons8 offers simple reliable solutions to cope with all sorts of the challenges
 ## 🗄️ Categories:
 - [Colors](https://github.com/apis-list/apis-list#colors)
 - [Library](https://github.com/apis-list/apis-list#library)
-- [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
+- [Art & Design](https://github.com/apis-list/apis-list#art--design)
 - [Images](https://github.com/apis-list/apis-list#images)
+
+
+
 
 
 

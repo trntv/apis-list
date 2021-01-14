@@ -17,8 +17,11 @@ If you’re only interested in a Company’s logo, and don’t need any other da
 
 ## 🗄️ Categories:
 - [Images](https://github.com/apis-list/apis-list#images)
-- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
 - [Business](https://github.com/apis-list/apis-list#business)
+
+
+
 
 
 

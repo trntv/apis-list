@@ -14,7 +14,10 @@ USGS Earthquake Hazards Program, responsible for monitoring, reporting, and rese
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
+- [Science & Math](https://github.com/apis-list/apis-list#science--math)
+
+
+
 
 
 

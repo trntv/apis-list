@@ -17,10 +17,13 @@ Generate PDF from any website. Automate web performance. Turns any link into inf
 
 ## 🗄️ Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
-- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers-and-data-mining)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
 - [Colors](https://github.com/apis-list/apis-list#colors)
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 - [URLs](https://github.com/apis-list/apis-list#urls)
+
+
+
 
 
 

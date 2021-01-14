@@ -16,9 +16,13 @@ Coinbase’s APIs enable a variety of capabilities; from simply gathering read-o
 
 ## 🗄️ Categories:
 - [Payments](https://github.com/apis-list/apis-list#payments)
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
-- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
 - [Currency](https://github.com/apis-list/apis-list#currency)
+
+
+
+y)
 
 
 

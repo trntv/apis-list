@@ -14,7 +14,10 @@ From the location of the bike stations to the availability of bikes and parking 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
+- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness)
+
+
+
 
 
 

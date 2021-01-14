@@ -16,7 +16,10 @@ MyAnimeList.net official API
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Comics & Anime](https://github.com/apis-list/apis-list#comics-and-anime)
+- [Comics & Anime](https://github.com/apis-list/apis-list#comics--anime)
+
+
+
 
 
 

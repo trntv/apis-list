@@ -17,7 +17,10 @@ Offers an API that allows developers to build location-aware applications for mo
 
 ## 🗄️ Categories:
 - [Databases](https://github.com/apis-list/apis-list#databases)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+
+
+
 
 
 

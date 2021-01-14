@@ -14,7 +14,10 @@ Free foreign currency exchange rates and currency conversion. Best Foreign excha
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
+
+
+
 
 
 

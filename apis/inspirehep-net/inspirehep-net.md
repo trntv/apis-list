@@ -14,7 +14,10 @@ INSPIRE API Q: I want to do automated searching and receive machine readable res
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
+- [Science & Math](https://github.com/apis-list/apis-list#science--math)
+
+
+
 
 
 

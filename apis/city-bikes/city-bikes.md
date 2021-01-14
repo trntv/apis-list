@@ -14,7 +14,10 @@ citybik. es/v2/networks { "networks":. CityBikes API Documentation Welcome to th
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
+- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness)
+
+
+
 
 
 

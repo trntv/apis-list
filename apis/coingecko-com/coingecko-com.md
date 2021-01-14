@@ -16,7 +16,10 @@ Free, comprehensive cryptocurrency API.  Access free crypto API such as real-tim
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
+
+
+
 
 
 

@@ -17,8 +17,11 @@ Food2Fork has shut down. Recipe Search
 
 ## 🗄️ Categories:
 - [Ratings](https://github.com/apis-list/apis-list#ratings)
-- [Food & Drinks](https://github.com/apis-list/apis-list#food-and-drinks)
+- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks)
 - [Databases](https://github.com/apis-list/apis-list#databases)
+
+
+
 
 
 

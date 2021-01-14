@@ -16,7 +16,10 @@ Get information about countries via a RESTful API. Get information about countri
 ## 🗄️ Categories:
 - [Reference](https://github.com/apis-list/apis-list#reference)
 - [Worldwide](https://github.com/apis-list/apis-list#worldwide)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+
+
+
 
 
 

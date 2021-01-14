@@ -16,7 +16,10 @@ Home page for water resources information from the US Geological Survey.  Home p
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
+- [Science & Math](https://github.com/apis-list/apis-list#science--math)
+
+
+
 
 
 

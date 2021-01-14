@@ -16,8 +16,11 @@ A free API to retrieve some quotes of Breaking Bad, bitch!.  A free API to retri
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media)
 - [Other](https://github.com/apis-list/apis-list#other)
+
+
+
 
 
 

@@ -14,7 +14,10 @@ SHARE¶ SHARE is a higher education initiative whose mission is to maximize rese
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
+- [Science & Math](https://github.com/apis-list/apis-list#science--math)
+
+
+
 
 
 

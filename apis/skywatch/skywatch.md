@@ -16,7 +16,7 @@ Instead, EarthCache allows development teams to focus on the business applicatio
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 - [Big Data](https://github.com/apis-list/apis-list#big-data)
 - [Space](https://github.com/apis-list/apis-list#space)
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
@@ -25,7 +25,11 @@ Instead, EarthCache allows development teams to focus on the business applicatio
 - [Environment](https://github.com/apis-list/apis-list#environment)
 - [Images](https://github.com/apis-list/apis-list#images)
 - [DevOps](https://github.com/apis-list/apis-list#devops)
-- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
+
+
+
+l)
 
 
 

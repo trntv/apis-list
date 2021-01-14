@@ -15,8 +15,11 @@ API developer portal for Nutrition Analysis, Food Database Lookup, Recipe Search
 
 ## 🗄️ Categories:
 - [Tools](https://github.com/apis-list/apis-list#tools)
-- [Food & Drinks](https://github.com/apis-list/apis-list#food-and-drinks)
+- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks)
 - [Health](https://github.com/apis-list/apis-list#health)
+
+
+
 
 
 

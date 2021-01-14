@@ -17,8 +17,11 @@ Allows users to find details about Genius artists and songs. Use our API and hel
 
 ## 🗄️ Categories:
 - [Wiki](https://github.com/apis-list/apis-list#wiki)
-- [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
 - [Open Source](https://github.com/apis-list/apis-list#open-source)
+
+
+
 
 
 

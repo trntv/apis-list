@@ -15,11 +15,14 @@ A hosted REST-API ready to respond to AJAX requests
 
 ## 🗄️ Categories:
 - [Applications](https://github.com/apis-list/apis-list#applications)
-- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication-and-user-management)
+- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management)
 - [Data](https://github.com/apis-list/apis-list#data)
 - [Testing](https://github.com/apis-list/apis-list#testing)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Tools](https://github.com/apis-list/apis-list#tools)
+
+
+
 
 
 

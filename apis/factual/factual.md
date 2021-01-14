@@ -15,8 +15,11 @@ Welcome to the Factual developer hub! Here you'll find comprehensive guides and 
 
 ## 🗄️ Categories:
 - [Mobile](https://github.com/apis-list/apis-list#mobile)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 - [Data](https://github.com/apis-list/apis-list#data)
+
+
+
 
 
 

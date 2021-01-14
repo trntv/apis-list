@@ -20,8 +20,11 @@ and much much more
 - [Environment](https://github.com/apis-list/apis-list#environment)
 - [Government](https://github.com/apis-list/apis-list#government)
 - [Health](https://github.com/apis-list/apis-list#health)
-- [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
+- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
 - [Data](https://github.com/apis-list/apis-list#data)
+
+
+
 
 
 

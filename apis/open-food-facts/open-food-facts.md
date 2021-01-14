@@ -15,9 +15,13 @@ Open Food Facts is a database of food products with ingredients, allergens, nutr
 
 ## 🗄️ Categories:
 - [Products](https://github.com/apis-list/apis-list#products)
-- [Sport & Fitness](https://github.com/apis-list/apis-list#sport-and-fitness)
+- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness)
 - [Data](https://github.com/apis-list/apis-list#data)
-- [Food & Drinks](https://github.com/apis-list/apis-list#food-and-drinks)
+- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks)
+
+
+
+s)
 
 
 

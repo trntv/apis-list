@@ -14,7 +14,10 @@ Article search, best sellers, campaign finance, community, most popular, real es
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
+- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
+
+
+
 
 
 

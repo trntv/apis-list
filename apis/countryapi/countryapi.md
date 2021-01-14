@@ -16,8 +16,11 @@ A Rest Api of simple country information that you need. Gets all the countries, 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 - [Worldwide](https://github.com/apis-list/apis-list#worldwide)
+
+
+
 
 
 

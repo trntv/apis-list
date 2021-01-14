@@ -17,7 +17,10 @@ Worldwide geocoding, geoparsing and autocomplete for addresses. Geocodify is a f
 
 ## 🗄️ Categories:
 - [Localization](https://github.com/apis-list/apis-list#localization)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+
+
+
 
 
 

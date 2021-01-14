@@ -16,7 +16,10 @@ Developer tools and the support you need to leverage Verizon Media's powerful da
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing-and-seo)
+- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo)
+
+
+
 
 
 

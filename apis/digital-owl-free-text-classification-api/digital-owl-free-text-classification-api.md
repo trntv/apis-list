@@ -15,8 +15,11 @@ Free for use text classification, sentiment analysis, semantic similarity and wo
 
 ## 🗄️ Categories:
 - [Text](https://github.com/apis-list/apis-list#text)
-- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
+
+
+
 
 
 

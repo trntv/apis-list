@@ -15,11 +15,15 @@ Multilingual summarization, keywords and sentiment analysis, language recognitio
 
 ## 🗄️ Categories:
 - [Images](https://github.com/apis-list/apis-list#images)
-- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers-and-data-mining)
-- [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
-- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
-- [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
+- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
+
+
+
+nalysis)
 
 
 

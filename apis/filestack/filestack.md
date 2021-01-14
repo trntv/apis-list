@@ -15,8 +15,12 @@ API for image and file manipulation, 250 uploads and 500 uploads per month for f
 
 ## 🗄️ Categories:
 - [Images](https://github.com/apis-list/apis-list#images)
-- [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
-- [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media)
+- [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
+
+
+
+e)
 - [Cloud](https://github.com/apis-list/apis-list#cloud)
 - [Editing](https://github.com/apis-list/apis-list#editing)
 

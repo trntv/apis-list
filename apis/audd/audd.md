@@ -17,10 +17,14 @@ AudD Music Recognition API Docs: how to identify songs in audio using our API
 
 ## 🗄️ Categories:
 - [Recognition](https://github.com/apis-list/apis-list#recognition)
-- [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-- [AI & ML](https://github.com/apis-list/apis-list#ai-and-ml)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
+
+
+
+l)
 
 
 

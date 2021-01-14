@@ -18,7 +18,10 @@ Let's cooperate!
 
 ## 🗄️ Categories:
 - [Payments](https://github.com/apis-list/apis-list#payments)
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
+
+
+
 
 
 

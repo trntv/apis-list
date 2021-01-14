@@ -14,8 +14,11 @@ AP Media API Get all your AP multimedia content in one place Access the content 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
+- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
 - [Images](https://github.com/apis-list/apis-list#images)
+
+
+
 
 
 

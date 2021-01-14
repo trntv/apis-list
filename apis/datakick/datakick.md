@@ -17,7 +17,10 @@ You may have mistyped the address or the page may have moved. If you are the app
 - [Products](https://github.com/apis-list/apis-list#products)
 - [Data](https://github.com/apis-list/apis-list#data)
 - [Databases](https://github.com/apis-list/apis-list#databases)
-- [Bar & QR Codes](https://github.com/apis-list/apis-list#bar-and-qr-codes)
+- [Bar & QR Codes](https://github.com/apis-list/apis-list#bar--qr-codes)
+
+
+
 
 
 

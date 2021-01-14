@@ -15,9 +15,13 @@ cloud API generates JPG and PDF file previews for all common document formats, u
 
 ## 🗄️ Categories:
 - [Conversions](https://github.com/apis-list/apis-list#conversions)
-- [Documents & Productivity](https://github.com/apis-list/apis-list#documents-and-productivity)
-- [Files & Storage](https://github.com/apis-list/apis-list#files-and-storage)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
+- [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
 - [Images](https://github.com/apis-list/apis-list#images)
+
+
+
+s)
 
 
 

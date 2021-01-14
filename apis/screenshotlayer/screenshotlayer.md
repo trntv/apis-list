@@ -17,8 +17,11 @@ Free for personal use. Free URL to Screenshot API - capture crisp and clean snap
 
 ## 🗄️ Categories:
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
-- [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
+- [Art & Design](https://github.com/apis-list/apis-list#art--design)
 - [Photography](https://github.com/apis-list/apis-list#photography)
+
+
+
 
 
 

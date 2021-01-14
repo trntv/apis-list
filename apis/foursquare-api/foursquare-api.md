@@ -18,9 +18,12 @@ Gives you access to our world-class places database and the ability to interact 
 ## 🗄️ Categories:
 - [Search](https://github.com/apis-list/apis-list#search)
 - [Social](https://github.com/apis-list/apis-list#social)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 - [Mobile](https://github.com/apis-list/apis-list#mobile)
 - [Photography](https://github.com/apis-list/apis-list#photography)
+
+
+
 
 
 

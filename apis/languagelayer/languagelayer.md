@@ -19,8 +19,11 @@ Free, powerful language detection JSON API for 173 languages, supporting single 
 - [Recognition](https://github.com/apis-list/apis-list#recognition)
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 - [Text](https://github.com/apis-list/apis-list#text)
-- [Validation & Verification](https://github.com/apis-list/apis-list#validation-and-verification)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
 - [Language](https://github.com/apis-list/apis-list#language)
+
+
+
 
 
 

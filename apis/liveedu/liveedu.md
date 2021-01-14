@@ -14,10 +14,13 @@ Live Coding Streaming.  Education Ecosystem is a project learning platform for p
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Video & Media](https://github.com/apis-list/apis-list#video-and-media)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Education](https://github.com/apis-list/apis-list#education)
+
+
+
 
 
 

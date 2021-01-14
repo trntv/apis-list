@@ -15,7 +15,10 @@ Power your music project by licensing access to the world’s most authoritative
 
 ## 🗄️ Categories:
 - [Metadata](https://github.com/apis-list/apis-list#metadata)
-- [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
+
+
+
 
 
 

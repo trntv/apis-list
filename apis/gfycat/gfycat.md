@@ -17,10 +17,13 @@ Gfycat’s API - collection of GIFs
 
 ## 🗄️ Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
-- [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
+- [Art & Design](https://github.com/apis-list/apis-list#art--design)
 - [Photography](https://github.com/apis-list/apis-list#photography)
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Meme](https://github.com/apis-list/apis-list#meme)
+
+
+
 
 
 

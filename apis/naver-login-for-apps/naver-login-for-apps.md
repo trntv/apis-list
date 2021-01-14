@@ -16,7 +16,10 @@ Access to Naver’s Authentication API.  네이버 아이디로 로그인 별도
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication-and-user-management)
+- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management)
+
+
+
 
 
 

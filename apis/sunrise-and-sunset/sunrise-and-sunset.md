@@ -14,7 +14,10 @@ Sunset and sunrise times API We offer a free API that provides sunset and sunris
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Science & Math](https://github.com/apis-list/apis-list#science-and-math)
+- [Science & Math](https://github.com/apis-list/apis-list#science--math)
+
+
+
 
 
 

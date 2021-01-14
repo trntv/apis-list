@@ -16,7 +16,10 @@ The Old Reader API. The Old Reader API.  Contribute to theoldreader/api developm
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [News & Feeds](https://github.com/apis-list/apis-list#news-and-feeds)
+- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
+
+
+
 
 
 

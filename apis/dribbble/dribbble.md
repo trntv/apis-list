@@ -16,8 +16,11 @@ Except where otherwise noted, content on this site is licensed under a Creative 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Art & Design](https://github.com/apis-list/apis-list#art-and-design)
+- [Art & Design](https://github.com/apis-list/apis-list#art--design)
 - [Other](https://github.com/apis-list/apis-list#other)
+
+
+
 
 
 

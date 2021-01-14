@@ -19,8 +19,12 @@ Important: Do not use the 'demo' account for your app or your tests. It is only 
 - [Weather](https://github.com/apis-list/apis-list#weather)
 - [Reference](https://github.com/apis-list/apis-list#reference)
 - [Databases](https://github.com/apis-list/apis-list#databases)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps-and-geo)
-- [Post & Logistics](https://github.com/apis-list/apis-list#post-and-logistics)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics)
+
+
+
+s)
 
 
 

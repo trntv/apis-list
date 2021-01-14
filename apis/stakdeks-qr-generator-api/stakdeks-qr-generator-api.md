@@ -16,7 +16,10 @@ The QR-Code generator gets your data and generates a QR-Code
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Bar & QR Codes](https://github.com/apis-list/apis-list#bar-and-qr-codes)
+- [Bar & QR Codes](https://github.com/apis-list/apis-list#bar--qr-codes)
+
+
+
 
 
 

@@ -15,8 +15,11 @@ Sell and buy music related merchandise. Welcome to the Reverb API Welcome to the
 
 ## 🗄️ Categories:
 - [Merchants](https://github.com/apis-list/apis-list#merchants)
-- [Music & Audio](https://github.com/apis-list/apis-list#music-and-audio)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
+
+
+
 
 
 

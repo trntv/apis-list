@@ -17,8 +17,12 @@ Standardize crypto coin symbols (eg. BTC, XBT) across 100+ exchanges.
 
 ## 🗄️ Categories:
 - [Currency](https://github.com/apis-list/apis-list#currency)
-- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain-and-cryptocurrencies)
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
+
+
+
+s)
 
 
 

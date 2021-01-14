@@ -3,12 +3,14 @@ package builder
 import (
 	"fmt"
 	"github.com/apis-list/apis-list/toolbelt/list"
-	"github.com/gosimple/slug"
 	"os"
 	"path"
+	"regexp"
 	"strings"
 	"text/template"
 )
+
+var slugRegexp = regexp.MustCompile("[^a-zA-Z0-9 ]")
 
 const readmeTmplName = "README.md.gotmpl"
 const apiTmplName = "api.md.gotmpl"
@@ -16,7 +18,9 @@ const apiTmplName = "api.md.gotmpl"
 func Render(l list.APIs, dir string) error {
 	funcs := template.FuncMap{
 		"slug": func(s string) string {
-			return slug.MakeLang(s, "en")
+			s = slugRegexp.ReplaceAllString(s, "")
+			s = strings.ReplaceAll(s, " ", "-")
+			return strings.ToLower(s)
 		},
 		"short": func(s string) string {
 			return FirstSentence(s)

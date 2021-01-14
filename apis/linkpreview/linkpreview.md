@@ -18,7 +18,10 @@ Preview Web links with our reliable API service. Get Detailed JSON Response for 
 ## 🗄️ Categories:
 - [Other](https://github.com/apis-list/apis-list#other)
 - [URLs](https://github.com/apis-list/apis-list#urls)
-- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers-and-data-mining)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
+
+
+
 
 
 

@@ -14,10 +14,13 @@ Introduction This documentation covers the main API (the so-called REST API).  T
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance-and-economics)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
 - [Business](https://github.com/apis-list/apis-list#business)
 - [Data](https://github.com/apis-list/apis-list#data)
 - [Reference](https://github.com/apis-list/apis-list#reference)
+
+
+
 
 
 

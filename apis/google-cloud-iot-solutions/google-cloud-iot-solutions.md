@@ -14,8 +14,11 @@ Unlock insights from your global device network with an intelligent IoT platform
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot-and-home-automation)
+- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot--home-automation)
 - [Development](https://github.com/apis-list/apis-list#development)
+
+
+
 
 
 
