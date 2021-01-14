@@ -16,8 +16,8 @@ Detects 164 languages. Supports short texts, batch requests, JavaScript, Python,
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 - [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
+- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 
 
 

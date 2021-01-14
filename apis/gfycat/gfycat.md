@@ -16,11 +16,11 @@ Gfycat’s API - collection of GIFs
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Art & Design](https://github.com/apis-list/apis-list#art--design)
-- [Photography](https://github.com/apis-list/apis-list#photography)
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Fun](https://github.com/apis-list/apis-list#fun)
 - [Social](https://github.com/apis-list/apis-list#social)
+- [Art & Design](https://github.com/apis-list/apis-list#art--design)
+- [Photography](https://github.com/apis-list/apis-list#photography)
 
 
 

@@ -16,8 +16,8 @@ Stock market data (real-time & historical). Explore real time stock market data,
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
 
 
 

@@ -16,8 +16,8 @@ Contribute to reddit-archive/reddit development by creating an account on GitHub
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
 - [Social](https://github.com/apis-list/apis-list#social)
+- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
 
 
 

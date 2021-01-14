@@ -14,11 +14,11 @@ backends. contrib. 1', 'vpn. anode. Enrich your contact lists with intelligent d
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
 - [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
 - [CRM](https://github.com/apis-list/apis-list#crm)
 - [Big Data](https://github.com/apis-list/apis-list#big-data)
 - [Data](https://github.com/apis-list/apis-list#data)
+- [Development](https://github.com/apis-list/apis-list#development)
 
 
 

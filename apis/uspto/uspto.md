@@ -1,7 +1,7 @@
 # USPTO
 
 
-Open data and mobility "Open data" is publicly available data that is structured in a way that enables the data to be fully discoverable and usable by end users. It can be freely used, reused, and
+United States patent and trademark office API
 
 ##  🔗 Links
 **Docs / Website**: https://www.uspto.gov/learning-and-resources/open-data-and-mobility
@@ -15,7 +15,7 @@ Open data and mobility "Open data" is publicly available data that is structured
 
 ## 🗄️ Categories:
 - [Government](https://github.com/apis-list/apis-list#government)
-- [Patent](https://github.com/apis-list/apis-list#patent)
+- [Data](https://github.com/apis-list/apis-list#data)
 
 
 

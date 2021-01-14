@@ -18,9 +18,7 @@ The best new products, every day. Product Hunt is a curation of the best new pro
 ## 🗄️ Categories:
 - [Applications](https://github.com/apis-list/apis-list#applications)
 - [Jobs](https://github.com/apis-list/apis-list#jobs)
-- [Lists](https://github.com/apis-list/apis-list#lists)
-- [Ratings](https://github.com/apis-list/apis-list#ratings)
-- [Search](https://github.com/apis-list/apis-list#search)
+- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Products](https://github.com/apis-list/apis-list#products)
 

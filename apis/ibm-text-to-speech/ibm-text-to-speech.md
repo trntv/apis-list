@@ -14,11 +14,11 @@ Convert text to speech
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
+- [Development](https://github.com/apis-list/apis-list#development)
 - [Voice](https://github.com/apis-list/apis-list#voice)
 - [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
 - [Languages](https://github.com/apis-list/apis-list#languages)
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Development](https://github.com/apis-list/apis-list#development)
 
 
 

@@ -16,9 +16,9 @@ The largest collection of dad jokes on the internet. The largest collection of d
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Fun](https://github.com/apis-list/apis-list#fun)
 - [Health](https://github.com/apis-list/apis-list#health)
 - [Personality](https://github.com/apis-list/apis-list#personality)
+- [Fun](https://github.com/apis-list/apis-list#fun)
 
 
 

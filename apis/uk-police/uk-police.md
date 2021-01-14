@@ -14,10 +14,10 @@ Police API Documentation The API provides a rich data source for information, in
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Data](https://github.com/apis-list/apis-list#data)
 - [Security](https://github.com/apis-list/apis-list#security)
 - [Government](https://github.com/apis-list/apis-list#government)
 - [Worldwide](https://github.com/apis-list/apis-list#worldwide)
+- [Data](https://github.com/apis-list/apis-list#data)
 
 
 

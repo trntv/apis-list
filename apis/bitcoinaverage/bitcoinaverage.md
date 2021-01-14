@@ -14,10 +14,10 @@ Introduction Welcome to the BitcoinAverage API! The world's best and longest run
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
 - [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
 
 
 

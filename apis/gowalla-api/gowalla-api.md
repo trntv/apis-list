@@ -16,9 +16,9 @@ Gather and compare all kinds of interesting data, they weren't really interactiv
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 - [Mobile](https://github.com/apis-list/apis-list#mobile)
 - [Social](https://github.com/apis-list/apis-list#social)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 
 
 

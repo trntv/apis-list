@@ -17,7 +17,7 @@ type API struct {
 	IsPaid        bool     `yaml:"is_paid"`
 	Logo          string   `yaml:"logo,omitempty"`
 	DiscussionURI string   `yaml:"discussion_uri,omitempty"`
-	Type          string   `yaml:"type"`
+	Type          string   `yaml:"type,omitempty"`
 	Contact       string   `yaml:"contact,omitempty"`
 	IsActive      bool     `yaml:"is_active"`
 
@@ -31,9 +31,9 @@ type APILibrary struct {
 	Name          string `yaml:"name"`
 	Description   string `yaml:"-"`
 	HomepageURI   string `yaml:"homepage_uri" yaml:"homepage_uri,omitempty"`
-	SourceCodeURI string `yaml:"source_code_uri" yaml:"source_code_uri"`
+	SourceCodeURI string `yaml:"source_code_uri" yaml:"source_code_uri,omitempty"`
 	Version       string `yaml:"version,omitempty"`
-	Platform      string `yaml:"platform"`
+	Platform      string `yaml:"platform,omitempty"`
 }
 
 func (a APIs) ByCategory() map[string][]*API {

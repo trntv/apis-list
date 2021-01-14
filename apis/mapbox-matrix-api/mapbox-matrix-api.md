@@ -16,7 +16,6 @@ The Mapbox Matrix API returns travel times between many points
 ## 🗄️ Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 - [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics)
-- [Routing](https://github.com/apis-list/apis-list#routing)
 
 
 
