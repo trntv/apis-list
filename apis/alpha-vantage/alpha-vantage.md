@@ -15,8 +15,8 @@ Supports intraday, daily, weekly, and monthly quotes and technical analysis with
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
 
 
 

@@ -17,7 +17,7 @@ With Calendarific API you can display the dates of public holidays, bank holiday
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Localization](https://github.com/apis-list/apis-list#localization)
+- [Calendar](https://github.com/apis-list/apis-list#calendar)
 
 
 

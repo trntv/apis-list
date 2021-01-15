@@ -15,15 +15,15 @@ You can use it in your apps to find words that match a given set o. Word-finding
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Education](https://github.com/apis-list/apis-list#education)
-- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Data](https://github.com/apis-list/apis-list#data)
 - [Writing](https://github.com/apis-list/apis-list#writing)
-- [Search](https://github.com/apis-list/apis-list#search)
-- [Reference](https://github.com/apis-list/apis-list#reference)
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
+- [Search](https://github.com/apis-list/apis-list#search)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
 - [Text](https://github.com/apis-list/apis-list#text)
+- [Education](https://github.com/apis-list/apis-list#education)
+- [Data](https://github.com/apis-list/apis-list#data)
+- [Reference](https://github.com/apis-list/apis-list#reference)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
 
 
 

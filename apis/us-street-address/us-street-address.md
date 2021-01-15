@@ -17,10 +17,10 @@ How to verify one or more addresses using the SmartyStreets US Street Address AP
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 - [Data](https://github.com/apis-list/apis-list#data)
 - [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics)
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 
 
 

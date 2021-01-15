@@ -17,10 +17,10 @@ Be creative and create any type of marketplace Whether you are looking for a web
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Marketplace](https://github.com/apis-list/apis-list#marketplace)
 - [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
 - [Lists](https://github.com/apis-list/apis-list#lists)
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
 
 
 

@@ -17,9 +17,9 @@ Random User Generator + OpenID Connect Provider.  Like Lorem Ipsum, but for user
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management)
 - [Testing](https://github.com/apis-list/apis-list#testing)
 - [Other](https://github.com/apis-list/apis-list#other)
-- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management)
 
 
 

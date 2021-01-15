@@ -17,9 +17,9 @@
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Events](https://github.com/apis-list/apis-list#events)
 - [Calendar](https://github.com/apis-list/apis-list#calendar)
 - [Development](https://github.com/apis-list/apis-list#development)
-- [Events](https://github.com/apis-list/apis-list#events)
 
 
 

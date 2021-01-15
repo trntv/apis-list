@@ -17,8 +17,8 @@ Buffer makes it super easy to share any page you're reading. Buffer makes it sup
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Social](https://github.com/apis-list/apis-list#social)
 - [Scheduling](https://github.com/apis-list/apis-list#scheduling)
+- [Social](https://github.com/apis-list/apis-list#social)
 
 
 

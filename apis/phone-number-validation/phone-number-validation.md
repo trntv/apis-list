@@ -15,10 +15,10 @@ Check phone number validity, location and timezones
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
 - [Email & SMS](https://github.com/apis-list/apis-list#email--sms)
 - [CRM](https://github.com/apis-list/apis-list#crm)
 - [Data](https://github.com/apis-list/apis-list#data)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
 
 
 

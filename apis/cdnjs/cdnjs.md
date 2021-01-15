@@ -15,10 +15,10 @@ cloudflare. com/ajax/libs/jquery/3. 1/jquery. js","sri":"sha512-bLT0Qm9VnAYZDfly
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
-- [Directories](https://github.com/apis-list/apis-list#directories)
 - [Applications](https://github.com/apis-list/apis-list#applications)
 - [Library](https://github.com/apis-list/apis-list#library)
+- [Development](https://github.com/apis-list/apis-list#development)
+- [Directories](https://github.com/apis-list/apis-list#directories)
 
 
 

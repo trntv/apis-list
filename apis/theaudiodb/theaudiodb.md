@@ -15,9 +15,9 @@ TheAudioDB is a community database of Music Artwork, Metadata and Charts with a 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
 - [Databases](https://github.com/apis-list/apis-list#databases)
 - [Search](https://github.com/apis-list/apis-list#search)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
 
 
 

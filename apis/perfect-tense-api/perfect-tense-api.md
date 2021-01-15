@@ -15,8 +15,8 @@ Automated. Perfect Tense gives you error-free content in seconds. The Perfect Te
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
 - [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
 
 
 

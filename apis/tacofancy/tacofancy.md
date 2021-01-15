@@ -17,8 +17,8 @@ Making an API for https://github. Making an API for https://github. com/sinker/t
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Fun](https://github.com/apis-list/apis-list#fun)
 - [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks)
+- [Fun](https://github.com/apis-list/apis-list#fun)
 
 
 

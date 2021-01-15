@@ -18,8 +18,8 @@ SDKs for integration, rich historic tick data.  AllMarkets - US stock market: re
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
 
 
 

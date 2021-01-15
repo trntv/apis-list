@@ -3,7 +3,7 @@
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/arcsecond-io/logo_256x256.png" alt="arcsecond.io Logo"/>
 </p>
 
-io Unified REST APIs for world-wide astronomy data See the associated webapp for all detailed information. REST APIs To access a complete description of the APIs: see the R. Welcome to api. arcsecond
+Unified REST APIs for world-wide astronomy data
 
 ##  🔗 Links
 **Docs / Website**: https://api.arcsecond.io/
@@ -18,6 +18,7 @@ io Unified REST APIs for world-wide astronomy data See the associated webapp for
 
 ## 🗄️ Categories:
 - [Science & Math](https://github.com/apis-list/apis-list#science--math)
+- [Space](https://github.com/apis-list/apis-list#space)
 
 
 

@@ -16,7 +16,6 @@ AerisWeather provides a powerful weather API, mapping platform, and developer to
 
 ## 🗄️ Categories:
 - [Weather](https://github.com/apis-list/apis-list#weather)
-- [Localization](https://github.com/apis-list/apis-list#localization)
 
 
 

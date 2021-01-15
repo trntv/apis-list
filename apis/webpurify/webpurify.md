@@ -16,7 +16,7 @@ Provides live image moderation by humans or AI-based image moderation service.
 
 ## 🗄️ Categories:
 - [Security](https://github.com/apis-list/apis-list#security)
-- [Language](https://github.com/apis-list/apis-list#language)
+- [Images](https://github.com/apis-list/apis-list#images)
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
 
 

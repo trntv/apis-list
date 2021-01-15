@@ -18,7 +18,6 @@ APIs to access the Google Safe Browsing lists of unsafe web resources. APIs to a
 
 ## 🗄️ Categories:
 - [Security](https://github.com/apis-list/apis-list#security)
-- [Spam](https://github.com/apis-list/apis-list#spam)
 
 
 

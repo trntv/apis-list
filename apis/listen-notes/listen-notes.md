@@ -17,9 +17,9 @@ Best podcast API trusted by 2,104 companies and developers. Search 1,904,658 pod
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Directories](https://github.com/apis-list/apis-list#directories)
 - [Podcasts](https://github.com/apis-list/apis-list#podcasts)
 - [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
+- [Directories](https://github.com/apis-list/apis-list#directories)
 
 
 

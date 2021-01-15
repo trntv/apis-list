@@ -17,9 +17,9 @@ Make it convenient for your users to sign in with their professional identity.  
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management)
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Business](https://github.com/apis-list/apis-list#business)
+- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management)
 
 
 

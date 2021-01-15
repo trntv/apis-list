@@ -15,7 +15,7 @@ A check-in made to a location-based Page
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Check-In](https://github.com/apis-list/apis-list#checkin)
+- [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest)
 
 
 

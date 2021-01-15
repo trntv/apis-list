@@ -15,9 +15,9 @@ All results are returned in easy-to-read JSON format.  Our sports data API provi
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Casino & Gambling](https://github.com/apis-list/apis-list#casino--gambling)
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness)
 - [Data](https://github.com/apis-list/apis-list#data)
-- [Casino & Gambling](https://github.com/apis-list/apis-list#casino--gambling)
 
 
 

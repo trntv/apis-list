@@ -17,8 +17,8 @@ Additionally, you may use the VK API to control much of the functionality on the
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 - [Social](https://github.com/apis-list/apis-list#social)
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 
 
 

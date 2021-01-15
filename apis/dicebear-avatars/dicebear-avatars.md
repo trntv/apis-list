@@ -15,8 +15,8 @@ Avatars is an avatar placeholder library for designers and developers. You can c
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Data](https://github.com/apis-list/apis-list#data)
 - [Testing](https://github.com/apis-list/apis-list#testing)
+- [Data](https://github.com/apis-list/apis-list#data)
 
 
 

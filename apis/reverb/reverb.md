@@ -1,10 +1,10 @@
 # Reverb
 
 
-Sell and buy music related merchandise. Welcome to the Reverb API Welcome to the Reverb developer hub. You'll find comprehensive guides and documentation to help you start working with Reverb as quickly as possible, as well as support if
+Sell and buy music related merchandise. Join the millions of music lovers who use Reverb to find everything they need to make music
 
 ##  🔗 Links
-**Docs / Website**: https://dev.reverb.com/
+**Docs / Website**: https://www.reverb-api.com/
 
 ## 🧬 Specification:
 **Type**: N/A
@@ -15,9 +15,8 @@ Sell and buy music related merchandise. Welcome to the Reverb API Welcome to the
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Merchants](https://github.com/apis-list/apis-list#merchants)
 - [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
 
 
 

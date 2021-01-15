@@ -3,7 +3,7 @@
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ipstack/logo_256x256.png" alt="ipstack Logo"/>
 </p>
 
-Locate website visitors for free using ipstack - a free, real-time IP address to location JSON API and database service supporting IPv4 and IPv6 lookup. Locate website visitors for free using ipstack - a free, real-time IP address to location JSON API and database service supporting IPv4 and IPv6 lookup
+Locate website visitors for free using ipstack - a free, real-time IP address to location JSON API and database service supporting IPv4 and IPv6 lookup.
 
 ##  🔗 Links
 **Docs / Website**: https://ipstack.com/
@@ -17,11 +17,10 @@ Locate website visitors for free using ipstack - a free, real-time IP address to
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 - [Security](https://github.com/apis-list/apis-list#security)
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
-- [Data](https://github.com/apis-list/apis-list#data)
-- [Localization](https://github.com/apis-list/apis-list#localization)
+- [Analytics](https://github.com/apis-list/apis-list#analytics)
 
 
 
