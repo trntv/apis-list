@@ -20,7 +20,6 @@ Powerful augmented reality apps. Create immersive Augmented Reality experiences 
 - [Virtual & Augmented Reality](https://github.com/apis-list/apis-list#virtual--augmented-reality)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 - [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Other](https://github.com/apis-list/apis-list#other)
 
 
 

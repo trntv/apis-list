@@ -17,10 +17,8 @@ Todo Lists
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
 - [Tasks](https://github.com/apis-list/apis-list#tasks)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
-- [Lists](https://github.com/apis-list/apis-list#lists)
 
 
 

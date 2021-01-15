@@ -15,8 +15,8 @@ Generate memes with a simple link!.  Meme Top Text Bottom Text Link To access th
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Fun](https://github.com/apis-list/apis-list#fun)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+- [Fun](https://github.com/apis-list/apis-list#fun)
 
 
 

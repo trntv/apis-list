@@ -17,9 +17,7 @@ Worlds largest library of GIFs
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Other](https://github.com/apis-list/apis-list#other)
-- [Photography](https://github.com/apis-list/apis-list#photography)
-- [Search](https://github.com/apis-list/apis-list#search)
+- [Fun](https://github.com/apis-list/apis-list#fun)
 - [Images](https://github.com/apis-list/apis-list#images)
 
 

@@ -17,8 +17,8 @@ Simple API that includes a common data for most of the applications. Like user i
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
 - [Data](https://github.com/apis-list/apis-list#data)
+- [Development](https://github.com/apis-list/apis-list#development)
 
 
 

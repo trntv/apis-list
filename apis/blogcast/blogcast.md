@@ -20,7 +20,6 @@ Generate audio versions of your articles. Create realistic voice overs for blogs
 - [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Conversions](https://github.com/apis-list/apis-list#conversions)
-- [Podcasts](https://github.com/apis-list/apis-list#podcasts)
 
 
 

@@ -17,8 +17,8 @@ An extremely mature, well organized and continuely updated resource of comic inf
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Comics & Anime](https://github.com/apis-list/apis-list#comics--anime)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 
 
 

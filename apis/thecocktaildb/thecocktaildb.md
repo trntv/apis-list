@@ -15,9 +15,9 @@ An open, crowd-sourced database of drinks and cocktails from around the world. A
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Images](https://github.com/apis-list/apis-list#images)
 - [Open Source](https://github.com/apis-list/apis-list#open-source)
 - [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks)
+- [Images](https://github.com/apis-list/apis-list#images)
 
 
 

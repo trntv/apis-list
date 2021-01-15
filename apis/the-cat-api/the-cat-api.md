@@ -17,8 +17,8 @@ A public service API all about cat pictures.  A public service API all about Cat
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Animals](https://github.com/apis-list/apis-list#animals)
 - [Fun](https://github.com/apis-list/apis-list#fun)
+- [Animals](https://github.com/apis-list/apis-list#animals)
 
 
 

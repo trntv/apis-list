@@ -17,10 +17,8 @@ Free tool with a wide range of capabilities for visualizing data from a website.
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Charts](https://github.com/apis-list/apis-list#charts)
 - [Visualizations](https://github.com/apis-list/apis-list#visualizations)
 - [Bar & QR Codes](https://github.com/apis-list/apis-list#bar--qr-codes)
-- [Other](https://github.com/apis-list/apis-list#other)
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
 
 

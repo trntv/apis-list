@@ -17,8 +17,6 @@
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Charts](https://github.com/apis-list/apis-list#charts)
-- [Other](https://github.com/apis-list/apis-list#other)
 - [Visualizations](https://github.com/apis-list/apis-list#visualizations)
 
 

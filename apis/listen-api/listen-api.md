@@ -17,7 +17,7 @@ Simple & no-nonsense podcast search & directory API. Search the meta data of all
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Podcasts](https://github.com/apis-list/apis-list#podcasts)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
 
 
 

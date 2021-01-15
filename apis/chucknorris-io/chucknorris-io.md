@@ -15,8 +15,7 @@ Read more Chuck Norris facts are satirical factoids about martial artist and act
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Personality](https://github.com/apis-list/apis-list#personality)
-- [Other](https://github.com/apis-list/apis-list#other)
+- [Fun](https://github.com/apis-list/apis-list#fun)
 
 
 

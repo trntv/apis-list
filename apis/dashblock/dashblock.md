@@ -17,8 +17,8 @@ They offer 1000 free API calls per month,. The easiest way to access websites pr
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Data](https://github.com/apis-list/apis-list#data)
 - [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
+- [Data](https://github.com/apis-list/apis-list#data)
 
 
 

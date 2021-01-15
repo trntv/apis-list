@@ -17,9 +17,9 @@ Search through user Flickr content, contacts, upload or replace photos.  Flickr 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Photography](https://github.com/apis-list/apis-list#photography)
 - [Video & Media](https://github.com/apis-list/apis-list#video--media)
 - [Social](https://github.com/apis-list/apis-list#social)
-- [Photography](https://github.com/apis-list/apis-list#photography)
 
 
 

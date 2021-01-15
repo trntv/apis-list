@@ -15,9 +15,9 @@ API for accessing and managing data about athletes, activities and segments.  St
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness)
 - [Social](https://github.com/apis-list/apis-list#social)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 
 
 

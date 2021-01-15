@@ -15,8 +15,8 @@ Prague City Open Data.  Vítejte na celoměstském portálu pro otevřená data 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Data](https://github.com/apis-list/apis-list#data)
 - [Government](https://github.com/apis-list/apis-list#government)
+- [Data](https://github.com/apis-list/apis-list#data)
 
 
 

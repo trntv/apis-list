@@ -17,9 +17,9 @@ This translates text to ERMAHGERD
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Translation](https://github.com/apis-list/apis-list#translation)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Fun](https://github.com/apis-list/apis-list#fun)
+- [Translation](https://github.com/apis-list/apis-list#translation)
 
 
 

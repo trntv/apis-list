@@ -17,9 +17,9 @@ You have 1000 daily quota calls for your project. API Generator for telephones, 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
 - [Random](https://github.com/apis-list/apis-list#random)
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
+- [Development](https://github.com/apis-list/apis-list#development)
 
 
 

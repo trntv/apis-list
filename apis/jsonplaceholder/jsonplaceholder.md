@@ -15,9 +15,9 @@ When to use JSONPlaceholder is a free online REST API that you can use whenever 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Testing](https://github.com/apis-list/apis-list#testing)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Data](https://github.com/apis-list/apis-list#data)
+- [Testing](https://github.com/apis-list/apis-list#testing)
 
 
 

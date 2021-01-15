@@ -1,7 +1,7 @@
 # API Test Center
 
 
-NetLicensing Explore. ) - Innovative License Management Solution
+Innovative License Management Solution
 
 ##  🔗 Links
 **Docs / Website**: https://netlicensing.io/NetLicensing-API/

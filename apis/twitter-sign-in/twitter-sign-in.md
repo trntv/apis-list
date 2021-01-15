@@ -17,8 +17,8 @@ Works on websites, iOS, mobile and desktop applications. The browser log in flow
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management)
 - [Social](https://github.com/apis-list/apis-list#social)
+- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management)
 
 
 

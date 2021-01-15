@@ -1,7 +1,7 @@
 # Labs64 NetLicensing
 
 
-) - Innovative License Management Solution.  NetLicensing RESTful APIis for developers integrating NetLicensing with applications and administrators who want to script interactions with the NetLicensing server
+Innovative License Management Solution. NetLicensing RESTful APIis for developers integrating NetLicensing with applications and administrators who want to script interactions with the NetLicensing server
 
 ##  🔗 Links
 **Docs / Website**: https://netlicensing.io/wiki/restful-api

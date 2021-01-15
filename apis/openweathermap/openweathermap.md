@@ -16,8 +16,8 @@ Simple and fast and free weather API from OpenWeatherMap you have access to curr
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 - [Weather](https://github.com/apis-list/apis-list#weather)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 
 
 

@@ -15,10 +15,9 @@ Grab a hold of the World’s Visual Language! Use it in your service or applicat
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Art & Design](https://github.com/apis-list/apis-list#art--design)
-- [Other](https://github.com/apis-list/apis-list#other)
 - [Visualizations](https://github.com/apis-list/apis-list#visualizations)
 - [Images](https://github.com/apis-list/apis-list#images)
+- [Art & Design](https://github.com/apis-list/apis-list#art--design)
 
 
 

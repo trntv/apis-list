@@ -15,11 +15,11 @@ Svátky API Vám řekne kdo má kdy svátek, nebo kdy má kdo svátek. Svátky A
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Calendar](https://github.com/apis-list/apis-list#calendar)
 - [Government](https://github.com/apis-list/apis-list#government)
 - [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 - [Data](https://github.com/apis-list/apis-list#data)
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
-- [Calendar](https://github.com/apis-list/apis-list#calendar)
 
 
 

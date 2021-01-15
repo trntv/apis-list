@@ -17,8 +17,8 @@ Perform geospatial processing powered by Google's cloud infrastructure. Perform 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Images](https://github.com/apis-list/apis-list#images)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Images](https://github.com/apis-list/apis-list#images)
 
 
 

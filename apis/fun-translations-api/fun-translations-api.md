@@ -17,8 +17,8 @@ World's best fun translation tools via REST API.  Yoda speak converter, pirate c
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Translation](https://github.com/apis-list/apis-list#translation)
 - [Fun](https://github.com/apis-list/apis-list#fun)
+- [Translation](https://github.com/apis-list/apis-list#translation)
 
 
 

@@ -17,9 +17,8 @@ A drop-in-replacement for the deprecated Google Image Charts. Easiest way to emb
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Visualizations](https://github.com/apis-list/apis-list#visualizations)
-- [Charts](https://github.com/apis-list/apis-list#charts)
 - [Email & SMS](https://github.com/apis-list/apis-list#email--sms)
+- [Visualizations](https://github.com/apis-list/apis-list#visualizations)
 
 
 

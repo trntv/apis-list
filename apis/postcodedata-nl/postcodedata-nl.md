@@ -15,8 +15,8 @@
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics)
 
 
 

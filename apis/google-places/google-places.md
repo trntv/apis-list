@@ -17,9 +17,9 @@ Connect your app or website users to over 100 million points of interests with P
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest)
 - [Reference](https://github.com/apis-list/apis-list#reference)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
-- [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest)
 
 
 

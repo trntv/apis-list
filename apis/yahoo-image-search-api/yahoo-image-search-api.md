@@ -17,8 +17,8 @@ Web Service allows you to search the Internet for images
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Search](https://github.com/apis-list/apis-list#search)
 - [Photography](https://github.com/apis-list/apis-list#photography)
+- [Search](https://github.com/apis-list/apis-list#search)
 
 
 

@@ -17,8 +17,8 @@ This Lorem Ipsum generator fits all your Lipsum needs! Come on over, make some L
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Data](https://github.com/apis-list/apis-list#data)
 - [Testing](https://github.com/apis-list/apis-list#testing)
+- [Data](https://github.com/apis-list/apis-list#data)
 
 
 

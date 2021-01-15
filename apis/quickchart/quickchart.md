@@ -3,7 +3,7 @@
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/quickchart/logo_256x256.png" alt="QuickChart Logo"/>
 </p>
 
-Open source, no watermarks. . Create a chart image with one API call and embed it anywhere. Send charts in email and other platforms
+Create a chart image with one API call and embed it anywhere. Send charts in email and other platforms
 
 ##  🔗 Links
 **Docs / Website**: https://quickchart.io
@@ -17,10 +17,8 @@ Open source, no watermarks. . Create a chart image with one API call and embed i
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Charts](https://github.com/apis-list/apis-list#charts)
-- [Data](https://github.com/apis-list/apis-list#data)
 - [Visualizations](https://github.com/apis-list/apis-list#visualizations)
-- [Other](https://github.com/apis-list/apis-list#other)
+- [Data](https://github.com/apis-list/apis-list#data)
 
 
 

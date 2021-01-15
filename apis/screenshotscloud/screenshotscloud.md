@@ -17,8 +17,8 @@ With this screenshot API you can automate high quality real browser screenshots 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Images](https://github.com/apis-list/apis-list#images)
 - [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
+- [Images](https://github.com/apis-list/apis-list#images)
 
 
 

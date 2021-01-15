@@ -15,7 +15,6 @@ Let’s you enter your name and the name of your partner/lover/crush to find Lov
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Other](https://github.com/apis-list/apis-list#other)
 - [Fun](https://github.com/apis-list/apis-list#fun)
 
 

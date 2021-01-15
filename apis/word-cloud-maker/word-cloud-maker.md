@@ -17,9 +17,9 @@ Multi color and different sizes illustrate the frequency, and the “vibe” of 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
 - [Text](https://github.com/apis-list/apis-list#text)
 - [Tools](https://github.com/apis-list/apis-list#tools)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
 
 
 

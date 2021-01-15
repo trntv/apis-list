@@ -17,9 +17,9 @@ Sell tickets directly from your app or website. The ticketing and event manageme
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Events](https://github.com/apis-list/apis-list#events)
 - [Payments](https://github.com/apis-list/apis-list#payments)
 - [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management)
-- [Events](https://github.com/apis-list/apis-list#events)
 
 
 

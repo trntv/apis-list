@@ -17,11 +17,11 @@ Our Scheduler lets you share your availability with contacts no matter what appl
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Scheduling](https://github.com/apis-list/apis-list#scheduling)
+- [Calendar](https://github.com/apis-list/apis-list#calendar)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
 - [Events](https://github.com/apis-list/apis-list#events)
 - [Integration](https://github.com/apis-list/apis-list#integration)
 - [Webhooks](https://github.com/apis-list/apis-list#webhooks)
-- [Calendar](https://github.com/apis-list/apis-list#calendar)
 
 
 

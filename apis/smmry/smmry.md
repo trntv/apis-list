@@ -17,9 +17,9 @@ Summarize articles, text, websites, essays and documents for free with SMMRY. Su
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 - [Text](https://github.com/apis-list/apis-list#text)
 - [Tools](https://github.com/apis-list/apis-list#tools)
+- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 
 
 

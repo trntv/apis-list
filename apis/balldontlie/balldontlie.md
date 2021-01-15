@@ -15,8 +15,8 @@ Introduction Welcome to the balldontlie API! You can use our free API to access 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness)
 - [Data](https://github.com/apis-list/apis-list#data)
+- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness)
 
 
 

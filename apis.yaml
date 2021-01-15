@@ -25,9 +25,9 @@
 - name: 24 Pull Requests
   slug: 24-pull-requests
   categories:
+    - Development
     - Events
     - Calendar
-    - Development
   description: 24 Pull Requests is a yearly initiative to encourage contributors around the world to send 24 pull requests between December 1st and December 24th
   uri: https://24pullrequests.com/api
   is_paid: false
@@ -46,9 +46,9 @@
 - name: 500px
   slug: 500px
   categories:
+    - Social
     - Images
     - Photography
-    - Social
   description: Viewing feature streams, photo information and comments, as well as user profiles. This is the 500px API documentation. Contribute to 500px/legacy-api-documentation development by creating an account on GitHub
   uri: https://github.com/500px/legacy-api-documentation
   is_paid: false
@@ -142,7 +142,7 @@
   slug: api-test-center
   categories:
     - Other
-  description: NetLicensing Explore. ) - Innovative License Management Solution
+  description: Innovative License Management Solution
   uri: https://netlicensing.io/NetLicensing-API/
   is_paid: false
   type: REST
@@ -150,9 +150,9 @@
 - name: API2Cart
   slug: api2cart
   categories:
+    - Development
     - Integration
     - Commerce
-    - Development
   description: Connect your B2B eCommerce solution with 40+ shopping platforms and marketplaces at once. Strengthen your business with shopping cart API integration. API2Cart provides a unified shopping cart API for interaction between the eCommerce software and 30+ shopping carts including Magento, Shopify, WooCommerce, BigCommerce, OpenCart, PrestaShop and others
   uri: https://api2cart.com/
   is_paid: false
@@ -231,8 +231,8 @@
 - name: Aadhaar Bridge
   slug: aadhaar-bridge
   categories:
-    - Worldwide
     - Government
+    - Worldwide
   description: Aadhaar is a 12-digit unique identification number issued by the Indian government to every individual resident of India.  API allows you to authenticate and perform ekYC and eSign using Aadhar. Veri5Digital is India's leading Identity verification and onboarding service provider which provides Video ID KYC, Aadhaar Offline KYC, eSign and eNACH products
   uri: https://www.aadhaarbridge.com/
   is_paid: false
@@ -251,10 +251,10 @@
 - name: Ably
   slug: ably
   categories:
+    - IoT & Home Automation
     - Chats & Messaging
     - Mobile
     - Real Time
-    - IoT & Home Automation
   description: API for making cross-protocol realtime communication between devices easy.  Ably documentation for 40+ web, mobile, and IoT SDKs, quickstart guides and tutorials, and realtime concepts and design patterns
   uri: https://www.ably.com/documentation
   is_paid: false
@@ -313,9 +313,9 @@
 - name: Abstract
   slug: abstract
   categories:
-    - Art & Design
     - Collaboration
     - Development
+    - Art & Design
   description: Used by 10,000+ developers worldwide. . Suite of utility API's (validate emails, create user avatars, calculate VAT, and more). Abstract provides powerful APIs to help you enrich any user experience or automate any workflow
   uri: https://www.abstractapi.com
   is_paid: false
@@ -343,8 +343,8 @@
 - name: Acoustid
   slug: acoustid
   categories:
-    - Video & Media
     - Music & Audio
+    - Video & Media
   description: Web Service The AcoustID web service currently supports only two operations, searching in the fingerprint database and submitting new fingerprints into the database. Usage Guidelines Remember that
   uri: https://acoustid.org/webservice
   is_paid: false
@@ -368,10 +368,10 @@
 - name: Advice Slip
   slug: advice-slip
   categories:
-    - Entertainment
-    - Fun
     - Health
     - Personality
+    - Entertainment
+    - Fun
   description: Parameters callback string To define your own callback function name and return the. HTTP Method GET URL https://api. adviceslip. com/advice Description Returns a random advice slip as a slip object
   uri: http://api.adviceslip.com/
   is_paid: false
@@ -446,9 +446,9 @@
 - name: Africa's Talking
   slug: africas-talking
   categories:
-    - Email & SMS
     - Chats & Messaging
     - Worldwide
+    - Email & SMS
   description: A unified API platform for software developers in Africa building SMS, USSD, Voice, Payments and Airtime applications. Access African telco services through a HTTP API
   uri: https://africastalking.com/
   is_paid: false
@@ -457,8 +457,8 @@
 - name: AfterShip
   slug: aftership
   categories:
-    - Transportation
     - Commerce
+    - Transportation
   description: If you don'. Provides multi-carrier shipment tracking APIs. Overview How to get your API Key? Before you started with using our REST API services, you will need to obtain your API key under your own user account.  Login to your AfterShip account
   uri: https://www.aftership.com/docs/api/4/overview
   is_paid: false
@@ -533,9 +533,9 @@
 - name: AirVisual
   slug: airvisual
   categories:
+    - Data
     - Weather
     - Environment
-    - Data
   description: Enhance your projects with free trusted historical, real-time and forecast air quality data. Air pollution and weather data for more than 60 countries worldwide
   uri: https://airvisual.com/api
   is_paid: false
@@ -596,8 +596,8 @@
 - name: Amadeus Travel Innovation Sandbox
   slug: amadeus-travel-innovation-sandbox
   categories:
-    - Transportation
     - Travel
+    - Transportation
   description: Discover Amadeus travel APIs and connect to the flight search, flight booking, hotel and destination content APIs that power the biggest names in travel.  Discover Amadeus travel APIs and connect to the flight search, flight booking, hotel and destination content APIs that power the biggest names in travel
   uri: https://sandbox.amadeus.com/
   is_paid: false
@@ -633,9 +633,9 @@
 - name: Amazon Mobile Ads
   slug: amazon-mobile-ads
   categories:
+    - Marketing & SEO
     - Mobile
     - Commerce
-    - Marketing & SEO
   description: Monetize across platforms with multiple ad formats.  Mobile Ads Monetize your global iOS, Android, and Fire OS traffic with high-quality ads from Amazon and brand advertisers
   uri: https://developer.amazon.com/mobile-ads
   is_paid: false
@@ -675,8 +675,8 @@
 - name: AmiiboAPI
   slug: amiiboapi
   categories:
-    - Games
     - Entertainment
+    - Games
   description: The Amiibo RESTful API
   uri: https://amiiboapi.com/
   is_paid: false
@@ -728,8 +728,8 @@
 - name: Anti-Captcha
   slug: anti-captcha
   categories:
-    - Captcha
     - Recognition
+    - Captcha
   description: Access to Anti-Captcha’s API.  Bypass reCAPTCHA, solve image captchas, hCaptcha, FunCaptcha, GeeTest for the cheapest price
   uri: https://anti-captcha.com/apidoc
   is_paid: false
@@ -808,8 +808,8 @@
 - name: Antideo
   slug: antideo
   categories:
-    - Email & SMS
     - Validation & Verification
+    - Email & SMS
   description: API for IP and Email Intelligence & Phone Number Validation. API for email validation & IP reputation check for better email list hygiene. Antideo maintains large database with spam and scam records, IP locations and infected ranges, proxy records and many more.  We are keeping our database updated regularly from various sources, as well as collecting some of the data ourselves
   uri: https://www.antideo.com
   is_paid: false
@@ -828,8 +828,8 @@
 - name: Api Meme
   slug: api-meme
   categories:
-    - Fun
     - Entertainment
+    - Fun
   description: Generate memes with a simple link!.  Meme Top Text Bottom Text Link To access the API without the watermark, click here
   uri: http://apimeme.com
   is_paid: false
@@ -841,11 +841,11 @@
 - name: ApiFlash
   slug: apiflash
   categories:
+    - Collaboration
+    - Development
     - Images
     - Tools
     - Video & Media
-    - Collaboration
-    - Development
   description: |-
     Chrome based screenshot API to convert URLs to images.  ApiFlash is an easy to use screenshot API for developers.  It is powerful and
      cost efficient as it is operating on top of AWS Lambda and Google Chrome
@@ -888,8 +888,8 @@
 - name: Approveapi
   slug: approveapi
   categories:
-    - Development
     - Validation & Verification
+    - Development
   description: A simple API to request a user's real-time approval on any device or platform via Email, SMS, Slack, and in-app mobile Push. I found a great domain name for sale.  Check it out!
   uri: https://approveapi.com
   is_paid: false
@@ -912,8 +912,8 @@
 - name: Associated Press
   slug: associated-press
   categories:
-    - Images
     - News & Feeds
+    - Images
   description: AP Media API Get all your AP multimedia content in one place Access the content programmatically via the API or use the AP Media Agent to download content automatically. Currently using AP WebFeeds
   uri: https://developer.ap.org/
   is_paid: false
@@ -927,10 +927,10 @@
 - name: Astronomy
   slug: astronomy
   categories:
-    - Maps & Geo
-    - Science & Math
     - Data
     - Space
+    - Maps & Geo
+    - Science & Math
   description: Astronomy API provides timings for sunrise, sunset, moonrise, moonset, sun azimuth, moon azimuth, sun altitude, moon altitude, sun distance from the earth and moon distance from the earth from latitude and longitude or an IPv4 or IPv6 address for a given date.
   uri: https://ipgeolocation.io/astronomy-api.html
   is_paid: false
@@ -939,11 +939,11 @@
 - name: AudD
   slug: audd
   categories:
-    - Recognition
-    - Music & Audio
     - Development
     - Entertainment
     - AI & ML
+    - Recognition
+    - Music & Audio
   description: 'AudD Music Recognition API Docs: how to identify songs in audio using our API'
   uri: https://docs.audd.io/
   is_paid: false
@@ -1195,7 +1195,6 @@
   slug: behance
   categories:
     - Art & Design
-    - Other
   description: Behance is the world's largest creative network for showcasing and discovering creative work. Behance is the leading online platform to showcase & discover creative work
   uri: https://www.behance.net/dev/api/endpoints/
   is_paid: false
@@ -1210,8 +1209,8 @@
 - name: Best Buy Commerce API
   slug: best-buy-commerce-api
   categories:
-    - Authentication & User Management
     - Commerce
+    - Authentication & User Management
   description: Allows companies to conduct commerce with Best Buy services within their own e-commerce application.  Come explore our APIs and unleash their possibilities
   uri: https://developer.bestbuy.com
   is_paid: false
@@ -1241,9 +1240,8 @@
 - name: Bhagavad Gita
   slug: bhagavad-gita
   categories:
-    - Books
-    - Other
     - Religion
+    - Books
   description: Bhagwat Geeta in Hindi and English. Read Bhagavad Gita online in a simple, beautiful and easy-to-use interface; Gita Saar In Hindi; Bhagavad Gita quotes
   uri: https://bhagavadgita.io/
   is_paid: false
@@ -1509,9 +1507,9 @@
 - name: Bitfinex
   slug: bitfinex
   categories:
-    - Currency
     - Blockchain & Cryptocurrencies
     - Finance & Economics
+    - Currency
   description: The Bitfinex API is designed to allow access to all the features of the Bitfinex platform on the condition that it is used in compliance with our API Terms of Service.  Users can use the API to create highly customised and advanced trading strategies on our platform
   uri: https://docs.bitfinex.com/docs
   is_paid: false
@@ -1600,8 +1598,8 @@
 - name: Bitmex
   slug: bitmex
   categories:
-    - Finance & Economics
     - Blockchain & Cryptocurrencies
+    - Finance & Economics
   description: BitMEX is the world's most advanced P2P crypto-products trading platform and API. BitMEX is the world's most advanced P2P crypto-products trading platform and API. Trade with up to 100x leverage with only Bitcoin as collateral
   uri: https://www.bitmex.com/app/apiOverview
   is_paid: false
@@ -1648,11 +1646,11 @@
 - name: Bittrex
   slug: bittrex
   categories:
+    - Analytics
     - Blockchain & Cryptocurrencies
     - DevOps
     - Payments
     - Commerce
-    - Analytics
   description: Bittrex provides a simple and powerful API consisting of REST endpoints for transactional operations and a complementary Websocket service providing streaming market and user data updates
   uri: https://bittrex.github.io/api/v3
   is_paid: false
@@ -1833,8 +1831,8 @@
 - name: BlockFacts.io
   slug: blockfacts-io
   categories:
-    - Blockchain & Cryptocurrencies
     - Finance & Economics
+    - Blockchain & Cryptocurrencies
   description: |-
     SDKs for integration, rich historic tick data.  AllMarkets - US stock market: real-time, stock quotes, stock screener, stock charts and cryptocurrencies
      API. Compliance-first digital asset data with REST and WebSocket API support. Real-time cryptocurrency data from multiple exchanges via a single unified API
@@ -1875,7 +1873,6 @@
     - AI & ML
     - Social
     - Conversions
-    - Podcasts
   description: Generate audio versions of your articles. Create realistic voice overs for blogs, videos, podcasts and more from your content using AI text-to-speech software
   uri: https://blogcast.host
   is_paid: false
@@ -1903,12 +1900,12 @@
 - name: Box
   slug: box
   categories:
-    - Content Management
-    - Business
-    - Security
     - Files & Storage
     - Content & Dictionaries
     - Collaboration
+    - Content Management
+    - Business
+    - Security
   description: |-
     Explore the Box APIs and SDKs to use for app development,
     API documentation, developer support resources, and access
@@ -2020,9 +2017,9 @@
 - name: Braintree
   slug: braintree
   categories:
-    - Commerce
     - Payments
     - Business
+    - Commerce
   description: Specializes in mobile and web payment systems for ecommerce companies.  Braintree resources and tools for developers to integrate Braintree's global payments platform
   uri: https://developers.braintreepayments.com
   is_paid: false
@@ -2106,7 +2103,6 @@
 - name: Breaking Bad Quotes
   slug: breaking-bad-quotes
   categories:
-    - Other
     - Video & Media
   description: A free API to retrieve some quotes of Breaking Bad, bitch!.  A free API to retrieve some quotes of Breaking Bad, bitch!
   uri: https://breakingbadquotes.xyz/
@@ -2170,8 +2166,8 @@
 - name: Buffer
   slug: buffer
   categories:
-    - Scheduling
     - Social
+    - Documents & Productivity
   description: Buffer makes it super easy to share any page you're reading. Buffer makes it super easy to share any page you're reading.  Keep your Buffer topped up and we automagically share them for you through the day
   uri: https://buffer.com/developers/api
   is_paid: false
@@ -2202,8 +2198,8 @@
 - name: Bunq Api
   slug: bunq-api
   categories:
-    - Payments
     - Finance & Economics
+    - Payments
   description: "Open RESTful bank API that lets you work with bank cards, accounts, payments, transactions, attachments, and more! \n200 endpoints to ensure our API is flexible enough to fit any project! \nbunq is an anti-bank that is licenced to work in Europe.  ApplePay integrated. \nLet's cooperate!"
   uri: https://doc.bunq.com/
   is_paid: false
@@ -2238,23 +2234,19 @@
 - name: CDNJS
   slug: cdnjs
   categories:
-    - Applications
-    - Library
     - Development
-    - Directories
-  description: cloudflare. com/ajax/libs/jquery/3. 1/jquery. js","sri":"sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==".  {"name":"jquery","latest":"https://cdnjs. min. 5. {"name":"jquery","latest":"https://cdnjs
-  uri: https://api.cdnjs.com/libraries/jquery
+  description: cdnjs provides a simple API to allow anyone to quickly query the libraries we have on the CDN.
+  uri: https://cdnjs.com/api
   is_paid: false
   type: REST
   is_active: true
 - name: CORE
   slug: core
   categories:
-    - Science & Math
     - Education
-    - Library
-    - Reference
-  description: "CORE harvests, maintains, enriches and makes available metadata and full text\ncontent - typically a PDF - from many Open Access journals and repositories. We provide powerful services based on our huge dataset. \n.  CORE harvests, maintains, enriches and makes available metadata and full text\ncontent - typically a PDF - from many Open Access journals and repositories"
+    - News & Feeds
+    - Science & Math
+  description: CORE harvests, maintains, enriches and makes available metadata and full text content - typically a PDF - from many Open Access journals and repositories. We provide powerful services based on our huge dataset.
   uri: https://core.ac.uk/services#api
   is_paid: false
   type: REST
@@ -2263,8 +2255,8 @@
 - name: COVID-19 Data
   slug: covid-19-data
   categories:
-    - Health
     - Data
+    - Health
   description: fr/v1. The API provides realtime and historical data on Coronavirus COVID-19 confirmed cases, deaths, and recovered cases. This. This is the code running in AWS Lambda powering covid-api. mmediagroup
   uri: https://github.com/M-Media-Group/Covid-19-API
   is_paid: false
@@ -2382,13 +2374,13 @@
 - name: CarsXE API
   slug: carsxe-api
   categories:
-    - Finance & Economics
-    - Big Data
     - Data
     - Transportation
     - Vehicle
     - Development
     - Commerce
+    - Finance & Economics
+    - Big Data
   description: Get access to millions of vehicle records, specs, ownership costs and market values. CarsXE Vehicle Data API
   uri: https://api.carsxe.com/
   is_paid: false
@@ -2458,11 +2450,11 @@
 - name: Cat Facts
   slug: cat-facts
   categories:
-    - Animals
-    - Entertainment
     - Bots
     - Education
     - Fun
+    - Animals
+    - Entertainment
   description: "Daily cat facts! \U0001F431. Daily cat facts! \U0001F431"
   uri: https://alexwohlbruck.github.io/cat-facts/
   is_paid: false
@@ -2556,9 +2548,9 @@
 - name: Channel Messaing API
   slug: channel-messaing-api
   categories:
-    - Chats & Messaging
     - Documents & Productivity
     - Bots
+    - Chats & Messaging
   description: Channel Messaging API lets your build real-time application
   uri: https://www.getchannel.co
   is_paid: false
@@ -2644,9 +2636,9 @@
 - name: Chronicling America
   slug: chronicling-america
   categories:
+    - History
     - Reference
     - News & Feeds
-    - History
   description: Newspaper Directory to find information about American newspapers published between 1690-present. Search America's historic newspaper pages from 1777-1963 or use the U. S
   uri: http://chroniclingamerica.loc.gov/about/api/
   is_paid: false
@@ -2664,8 +2656,7 @@
 - name: ChuckNorris.io
   slug: chucknorris-io
   categories:
-    - Personality
-    - Other
+    - Fun
   description: Read more Chuck Norris facts are satirical factoids about martial artist and actor Chuck Norris that have become an Internet p. chucknorris. io is a free JSON API for hand curated Chuck Norris facts
   uri: https://api.chucknorris.io
   is_paid: false
@@ -2683,9 +2674,9 @@
 - name: CircleCI
   slug: circleci
   categories:
-    - Testing
     - Tools
     - Development
+    - Testing
   description: CircleCI V1 API Overview The CircleCI API is a full-featured RESTful API that allows you to access all information and trigger all actions in CircleCI.  RESTful APIs enable you to call individual AP. .  CircleCI V1 API Overview The CircleCI API is a full-featured RESTful API that allows you to access all information and trigger all actions in CircleCI
   uri: https://circleci.com/docs/api/v1-reference/
   is_paid: false
@@ -2795,10 +2786,10 @@
 - name: Cisco Spark
   slug: cisco-spark
   categories:
+    - Communications
     - Video & Media
     - Social
     - Chats & Messaging
-    - Communications
   description: Build the future of business collaboration with Webex! Learn more about the Webex API and SDKs to create the next great collaboration app on the Webex Platform. . Build the future of business collaboration with Webex! Learn more about the Webex API and SDKs to create the next great collaboration app on the Webex Platform
   uri: https://developer.ciscospark.com
   is_paid: false
@@ -2918,11 +2909,11 @@
 - name: City Context
   slug: city-context
   categories:
-    - Real Estate
-    - Maps & Geo
     - Data
     - Transportation
     - Education
+    - Real Estate
+    - Maps & Geo
   description: Crime, school and transportation data for US cities.
   uri: https://www.citycontext.com/api-reference#/
   is_paid: false
@@ -2975,10 +2966,10 @@
 - name: CityGrid
   slug: citygrid
   categories:
-    - Commerce
-    - Search
     - Point of Interest
     - Maps & Geo
+    - Commerce
+    - Search
   description: Enables developers to create web and mobile applications that find local businesses, organizations, and points of interest by a variety of search criteria
   uri: http://docs.citygridmedia.com/display/citygridv2/Places+API
   is_paid: false
@@ -3005,9 +2996,9 @@
 - name: CivicFeed
   slug: civicfeed
   categories:
-    - News & Feeds
     - Video & Media
     - Data
+    - News & Feeds
   description: Get online news, blogs, social and TV/radio through a JSON API - easy integration for developers
   uri: https://developers.civicfeed.com/
   is_paid: false
@@ -3017,12 +3008,12 @@
 - name: Clarifai
   slug: clarifai
   categories:
-    - Photography
     - AI & ML
     - Video & Media
     - Validation & Verification
     - Recognition
     - Images
+    - Photography
   description: Whether you have one input or billions, you are only steps away from using AI to power your business applications. AI API that analyzes images and videos and returns probability scores on the likelihood that the image contains pornography. Clarifai provides a complete platform to deploy, maintain, and manage your AI models
   uri: https://developer.clarifai.com/docs/
   is_paid: false
@@ -3100,8 +3091,8 @@
 - name: Clash of Clans
   slug: clash-of-clans
   categories:
-    - Entertainment
     - Games
+    - Entertainment
   description: Access Clan Search, Global and Local Leaderboards, Clan and Player Profiles and Leagues. Channel Your Inner Builder with the Clash of Clans API
   uri: https://developer.clashofclans.com
   is_paid: false
@@ -3149,10 +3140,10 @@
 - name: ClickMeter
   slug: clickmeter
   categories:
-    - URL Shortening
     - Email & SMS
     - Analytics
     - Marketing & SEO
+    - URL Shortening
   description: ClickMeter API RESTful services. ClickMeter API RESTful services. Interact programmatically with our infrastructure. Integrate your application(s) with a powerful.
   uri: https://support.clickmeter.com/hc/en-us/categories/201474986
   is_paid: false
@@ -3191,10 +3182,10 @@
 - name: Climacell Micro Weather
   slug: climacell-micro-weather
   categories:
-    - Weather
-    - Analytics
     - Data
     - Maps & Geo
+    - Weather
+    - Analytics
   description: Historical, real-time and nowcast weather data.
   uri: https://developer.climacell.co
   is_paid: false
@@ -3214,9 +3205,9 @@
 - name: Cloud Wallet
   slug: cloud-wallet
   categories:
-    - Finance & Economics
     - IoT & Home Automation
     - Cloud
+    - Finance & Economics
   description: Cloud Wallet enables closed-loop payments between IoT devices and facilitates IoT adoption worldwide.  It allows developers to reduce cost & time-to-market while building and scaling
   uri: https://walletapi.cloud/index.html
   is_paid: false
@@ -3225,10 +3216,10 @@
 - name: Cloudinary
   slug: cloudinary
   categories:
-    - Images
-    - Files & Storage
     - Video & Media
     - Cloud
+    - Images
+    - Files & Storage
   description: API for image and video storage and manipulation - free for up to 75,000 images and 7,500 manipulations per month, good documentation, it can also manipulate GIFs and PDFs. Search for Developer and DAM how-to info, find out What's New, learn about our Framework SDKs, Add-ons, and Integrations, watch video tutorials, and more
   uri: http://cloudinary.com/documentation
   is_paid: false
@@ -3338,9 +3329,9 @@
 - name: Cloudpronouncer
   slug: cloudpronouncer
   categories:
+    - Voice
     - AI & ML
     - IoT & Home Automation
-    - Voice
   description: 'Text To Speech API - CloudPronouncer (tts online or tts reader) is a cross browsers REST API supporting now  255  Standard and Premium Voices in 42  languages including variants (the list is growing in time) and it may be used by any device that can connect to Internet and send the POST requests to our API as instructed in this website: smartphones, tablets, laptops, PC Desktops, other smart devices. It uses cloud infrastructure and artificial intelligence to solve the requests.'
   uri: https://www.de-vis-software.ro/text-to-speech-api.aspx
   is_paid: false
@@ -3349,12 +3340,12 @@
 - name: Clust
   slug: clust
   categories:
+    - Chats & Messaging
     - Business
     - Collaboration
     - CRM
     - Documents & Productivity
     - Forms & Surveys
-    - Chats & Messaging
   description: The best way to gather anyone’s documents, directly from your app & without hassle. Offer the best online onboarding experience, document collection and approval workflows to your clients and partners (eSignature included)
   uri: https://clustdoc.com/developers
   is_paid: false
@@ -3428,9 +3419,9 @@
 - name: CoinDesk
   slug: coindesk
   categories:
-    - Currency
     - Blockchain & Cryptocurrencies
     - Finance & Economics
+    - Currency
   description: Bitcoin Price Index. CoinDesk provides a simple and free API to make its Bitcoin Price Index (BPI) data programmatically available to others.  Find out how to use it here
   uri: http://www.coindesk.com/api/
   is_paid: false
@@ -3453,9 +3444,9 @@
 - name: CoinLayer
   slug: coinlayer
   categories:
+    - Conversions
     - Currency
     - Blockchain & Cryptocurrencies
-    - Conversions
   description: Powerful cryptocurrency rates JSON API delivering real-time crypto exchange rate and conversion data for more than 25 exchanges and 385 coins worldwide
   uri: https://coinlayer.com
   is_paid: false
@@ -3697,8 +3688,8 @@
 - name: Comic Vine
   slug: comic-vine
   categories:
-    - Entertainment
     - Comics & Anime
+    - Entertainment
   description: An extremely mature, well organized and continuely updated resource of comic information. The largest comic database online, Comic Vine features Comic Reviews, News, Videos, and Forums for the latest in and more!
   uri: http://comicvine.gamespot.com/api/
   is_paid: false
@@ -3898,8 +3889,8 @@
 - name: CountryAPI
   slug: countryapi
   categories:
-    - Maps & Geo
     - Worldwide
+    - Maps & Geo
   description: A Rest Api of simple country information that you need. Gets all the countries, and obtain the most important information of these
   uri: https://fabian7593.github.io/CountryAPI/
   is_paid: false
@@ -3937,11 +3928,11 @@
 - name: Cronofy
   slug: cronofy
   categories:
-    - Scheduling
+    - Calendar
+    - Documents & Productivity
     - Events
     - Integration
     - Webhooks
-    - Calendar
   description: Our Scheduler lets you share your availability with contacts no matter what application you use. Cronofy provides a single API for Apple, Exchange, Google, Office 365, and Outlook. com calendars for real-time scheduling.  Enterprise-ready scheduling tools, UI Elements and APIs
   uri: https://www.cronofy.com
   is_paid: false
@@ -3989,9 +3980,9 @@
 - name: CryptoCompare
   slug: cryptocompare
   categories:
-    - Blockchain & Cryptocurrencies
     - Data
     - Finance & Economics
+    - Blockchain & Cryptocurrencies
   description: Cryptocurrencies Comparison. Free cryptocurrency data APIs. Get high-quality historical & real-time trade, order book and volume data through market-leading REST & WebSocket APIs
   uri: https://www.cryptocompare.com/api
   is_paid: false
@@ -4145,9 +4136,9 @@
 - name: Currencystack
   slug: currencystack
   categories:
-    - Conversions
     - Currency
     - Business
+    - Conversions
   description: Real-time exchange rates for 154 world currencies provided in JSON format and works for any programming environment. Currencystack. io
   uri: https://currencystack.io
   is_paid: false
@@ -4189,11 +4180,11 @@
 - name: Czech Namedays Calendar
   slug: czech-namedays-calendar
   categories:
+    - Calendar
     - Government
     - Worldwide
     - Data
     - Finance & Economics
-    - Calendar
   description: Svátky API Vám řekne kdo má kdy svátek, nebo kdy má kdo svátek. Svátky API Vám řekne kdo má kdy svátek, nebo kdy má kdo svátek
   uri: https://svatky.adresa.info
   is_paid: false
@@ -4221,9 +4212,8 @@
 - name: D3 Visualization
   slug: d3-visualization
   categories:
-    - Visualizations
-    - Charts
     - Maps & Geo
+    - Visualizations
   description: D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS
   uri: https://d3js.org
   is_paid: false
@@ -4302,10 +4292,10 @@
 - name: Danbooru
   slug: danbooru
   categories:
+    - Entertainment
     - Social
     - Adult
     - Comics & Anime
-    - Entertainment
   description: Get images cartegorized by tags.
   uri: https://danbooru.donmai.us/posts?tags=help%3Aapi
   is_paid: false
@@ -4388,8 +4378,8 @@
 - name: Dashblock
   slug: dashblock
   categories:
-    - Data
     - Scrapers & Data Mining
+    - Data
   description: They offer 1000 free API calls per month,. The easiest way to access websites programmatically and collect structured data - Start for free today!. With Dashblock you an turn any website into an API, watch the amazing demo video on the homepage
   uri: https://www.dashblock.com/
   is_paid: false
@@ -4482,10 +4472,10 @@
 - name: Datakick
   slug: datakick
   categories:
-    - Data
-    - Databases
     - Bar & QR Codes
     - Products
+    - Data
+    - Databases
   description: You may have mistyped the address or the page may have moved. If you are the application owner check the logs for more information. The open product database.  The page you were looking for doesn't exist
   uri: https://www.datakick.org/api
   is_paid: false
@@ -4515,15 +4505,15 @@
 - name: Datamuse API
   slug: datamuse-api
   categories:
-    - Writing
-    - Text Analysis
-    - Search
-    - AI & ML
-    - Text
-    - Education
-    - Data
-    - Reference
     - Content & Dictionaries
+    - Search
+    - Text Analysis
+    - Data
+    - Education
+    - Text
+    - Reference
+    - AI & ML
+    - Writing
   description: 'You can use it in your apps to find words that match a given set o. Word-finding query engine that finds words that match a given set of constraints and that are likely in a given context.  (Recent additions: Metadata fields, Triggers, Spanish) What is it? The Datamuse API is a word-finding query engine for developers'
   uri: https://www.datamuse.com/api/
   is_paid: false
@@ -4552,8 +4542,8 @@
 - name: Deck of Cards
   slug: deck-of-cards
   categories:
-    - Entertainment
     - Games
+    - Entertainment
   description: Deck of Cards - an API for playing cards
   uri: http://deckofcardsapi.com/
   is_paid: false
@@ -4707,8 +4697,8 @@
 - name: Del.Icio.Us API
   slug: del-icio-us-api
   categories:
-    - Bookmarks
     - Social
+    - Bookmarks
   description: Keep, share, and discover the best of the Web using Delicious, the world's leading social bookmarking service
   uri: https://delicious.com/developers#title1
   is_paid: false
@@ -4735,8 +4725,8 @@
 - name: Delion.Io
   slug: delion-io
   categories:
-    - Blockchain & Cryptocurrencies
     - Development
+    - Blockchain & Cryptocurrencies
   description: A powerful API for developers and companies to explore and develop new apps based on IOTA distributed ledger technology
   uri: https://delion.io
   is_paid: false
@@ -4778,9 +4768,9 @@
 - name: DeviantArt
   slug: deviantart
   categories:
-    - Social
     - Art & Design
     - Files & Storage
+    - Social
   description: The largest social networking website for artists and art enthusiasts.  Find out how applications and websites integrate with DeviantArt and get started with oAuth 2. 0
   uri: https://www.deviantart.com/developers/
   is_paid: false
@@ -4832,9 +4822,9 @@
 - name: Digital Owl Free Text Classification Api
   slug: digital-owl-free-text-classification-api
   categories:
-    - Text
     - AI & ML
     - Text Analysis
+    - Text
   description: Free for use text classification, sentiment analysis, semantic similarity and word analysis api.
   uri: https://digitalowl.org
   is_paid: false
@@ -4977,10 +4967,10 @@
 - name: Discord
   slug: discord
   categories:
-    - Chats & Messaging
     - Voice
     - Games
     - Social
+    - Chats & Messaging
   description: Integrate your service with Discord — whether it's a bot or a game or whatever your wildest imagination can come up with
   uri: https://discordapp.com/developers/docs/intro
   is_paid: false
@@ -5144,7 +5134,6 @@
   slug: dont-kill-my-app
   categories:
     - Security
-    - Other
   description: Android vendors, don't kill my app! Contribute to urbandroid-team/dont-kill-my-app development by creating an account on GitHub.  Android vendors, don't kill my app! Contribute to urbandroid-team/dont-kill-my-app development by creating an account on GitHub
   uri: https://github.com/urbandroid-team/dont-kill-my-app
   is_paid: false
@@ -5154,10 +5143,10 @@
 - name: Dota 2
   slug: dota-2
   categories:
-    - Games
-    - Community
     - Video & Media
     - Entertainment
+    - Games
+    - Community
   description: The OpenDota API provides Dota 2 related data including advanced match data extracted from match replays
   uri: https://docs.opendota.com/
   is_paid: false
@@ -5177,8 +5166,7 @@
   slug: dribbble
   categories:
     - Art & Design
-    - Other
-  description: Except where otherwise noted, content on this site is licensed under a Creative Commons CC-BY license. Dribbble on Dribbble Dribbble on GitHub @dribbbleapi. Dribbble is a community of designers answering that question each day
+  description: Build and integrate tools and applications to help members publish their design work on Dribbble.
   uri: http://developer.dribbble.com/
   is_paid: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/dribbble/logo_256x256.png
@@ -5224,9 +5212,9 @@
 - name: DroneDeploy
   slug: dronedeploy
   categories:
+    - Robots
     - Images
     - Maps & Geo
-    - Robots
   description: Integrate your existing service into DroneDeploy and reach tens of thousands of commercial drone users from over 160 countries and industries like agriculture, construction, mining, surveying, and more.  Build, grow, and monetize your apps with the full power of DroneDeploy, the world’s largest drone data platform. Build, grow, and monetize your apps with the full power of DroneDeploy, the world’s largest drone data platform
   uri: https://developer.dronedeploy.com/
   is_paid: false
@@ -5236,7 +5224,6 @@
 - name: Dronestream
   slug: dronestream
   categories:
-    - Data
     - Other
   description: Tracks United States drone strikes. Real-time and historical data about every reported covert US drone strike
   uri: https://dronestre.am/
@@ -5247,8 +5234,8 @@
 - name: Dropbox
   slug: dropbox
   categories:
-    - Files & Storage
     - Social
+    - Files & Storage
   description: Â De. API for accessing stored files and pictures which is easy to use and free for small amounts of data.  With the DBX Platform, you can go from idea to implementation quickly and easily. Youâ€™ll save time and write fewer lines of code with our SDKs, powerful core API, and thorough documentation
   uri: https://www.dropbox.com/developers
   is_paid: false
@@ -5358,8 +5345,8 @@
 - name: Dummyapi.Io
   slug: dummyapi-io
   categories:
-    - Development
     - Data
+    - Development
   description: Simple API that includes a common data for most of the applications. Like user info, some posts, comments, etc. This data is free to use for presentations, demos, learning tutorials. It is created especially for your education.  Full cycle REST/GraphQL production API server with fake data, 100 Users, over 800 posts, 1000 comments, 24/7 available for your experiments
   uri: https://dummyapi.io/?utm_source=n161tech
   is_paid: false
@@ -5388,10 +5375,10 @@
 - name: EAN-Search
   slug: ean-search
   categories:
+    - Bar & QR Codes
     - Products
     - Search
     - Databases
-    - Bar & QR Codes
   description: Search our EAN database with over 230 million products by EAN, UPC, ISBN or product name. The EAN-Search API allows you to lookup products by EAN, UPC or GTIN barcode
   uri: https://www.ean-search.org/ean-database-api.html
   is_paid: false
@@ -5429,9 +5416,9 @@
 - name: ERMAHGERD Translator
   slug: ermahgerd-translator
   categories:
-    - Translation
     - Entertainment
     - Fun
+    - Translation
   description: This translates text to ERMAHGERD
   uri: https://www.mashape.com/jmillerdesign/ermahgerd-translator
   is_paid: false
@@ -5451,9 +5438,9 @@
 - name: Edamam nutrition & recipes
   slug: edamam-nutrition
   categories:
+    - Tools
     - Food & Drinks
     - Health
-    - Tools
   description: API developer portal for Nutrition Analysis, Food Database Lookup, Recipe Search API and others.  Choose the API license you need. API developer portal for Nutrition Analysis, Food Database Lookup, Recipe Search API and others
   uri: https://developer.edamam.com
   is_paid: false
@@ -5471,13 +5458,13 @@
 - name: Elasticpath
   slug: elasticpath
   categories:
+    - Business
+    - Maps & Geo
+    - Commerce
     - Payments
     - Content Management
     - Content & Dictionaries
     - Products
-    - Business
-    - Maps & Geo
-    - Commerce
   description: Provides the full commerce solution to bring your unique, revenue-driving experiences to life, fast.  It's called Composable Commerce-as-a-Service
   uri: https://developers.elasticpath.com/
   is_paid: false
@@ -5515,11 +5502,11 @@
 - name: Elis
   slug: elis
   categories:
-    - Payments
     - Scrapers & Data Mining
     - AI & ML
     - Documents & Productivity
     - Data
+    - Payments
   description: Automate data extraction from your documents with Artificial Intelligence
   uri: https://rossum.ai/developers/
   is_paid: false
@@ -5549,8 +5536,8 @@
 - name: Eve Online
   slug: eve-online
   categories:
-    - Games
     - Entertainment
+    - Games
   description: An OpenAPI for EVE Online
   uri: https://esi.evetech.net/ui
   is_paid: false
@@ -5582,10 +5569,10 @@
 - name: EventBrite
   slug: eventbrite
   categories:
-    - Events
     - Marketing & SEO
     - Authentication & User Management
     - Social
+    - Events
   description: Eventbrite Python SDK. Contribute to eventbrite/eventbrite-sdk-python development by creating an account on GitHub.  Eventbrite Python SDK
   uri: https://www.eventbrite.com/platform/
   is_paid: false
@@ -5640,10 +5627,10 @@
 - name: Eventful API
   slug: eventful-api
   categories:
-    - Point of Interest
-    - Music & Audio
     - Calendar
     - Events
+    - Point of Interest
+    - Music & Audio
   description: Eventful is a leading digital media company connecting consumers with entertainment, movies and local events.  Concert & Event API Eventful is the world's largest collection of events, taking place in local markets throughout the world, from concerts and sports to singles events and political rallies. Event. Is a Paid Usage model and requires a licensing agreement directly with Eventful
   uri: http://api.eventful.com/
   is_paid: false
@@ -5684,11 +5671,11 @@
 - name: Exchange Rates API
   slug: exchange-rates-api
   categories:
-    - Blockchain & Cryptocurrencies
-    - Government
     - Currency
     - Worldwide
     - Finance & Economics
+    - Blockchain & Cryptocurrencies
+    - Government
   description: com is the most popular place to securely buy, store, and trade Bitcoin, Ethereum, and other top cryptocurrencies. Market Prices and exchanges rates api. Blockchain
   uri: https://blockchain.info/api/exchange_rates_api
   is_paid: false
@@ -5735,8 +5722,8 @@
 - name: FIDEL API
   slug: fidel-api
   categories:
-    - Payments
     - Commerce
+    - Payments
   description: FIDEL is a card-linked API that lets developers create web and mobile applications for linking banks cards with reward services. FIDEL API lets you connect your applications to credit and debit cards and monitor transactions in-store and online, chip & pin or contactless.  Power your applications with real-time payment data.  Build innovative card-linking applications by connecting Visa, Mastercard and Amex cards to loyalty and marketing services all in one place
   uri: https://fidel.uk
   is_paid: false
@@ -5755,10 +5742,10 @@
 - name: FOAAS
   slug: foaas
   categories:
-    - Entertainment
-    - Health
     - Fun
     - Adult
+    - Entertainment
+    - Health
   description: API Content Negotiation FOAAS will respond to the follo. Introduction FOAAS (Fuck Off As A Service) provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off
   uri: http://www.foaas.com/
   is_paid: false
@@ -5777,10 +5764,10 @@
 - name: Face++
   slug: face
   categories:
-    - Security
-    - Social
     - Tools
     - Recognition
+    - Security
+    - Social
   description: Let’s you detect the information of a given photo (face location, age, race, gender etc.)
   uri: ""
   is_paid: false
@@ -5815,8 +5802,8 @@
 - name: Facebook API
   slug: facebook-api
   categories:
-    - Social
     - Webhooks
+    - Social
   description: Helps developers build, grow and monetize their business. Code to connect people with Facebook for Developers.  Explore AI, business tools, gaming, open source, publishing, social hardware, social integration, and virtual reality.  Learn about Facebook’s global programs to educate and connect developers
   uri: https://developers.facebook.com/
   is_paid: false
@@ -5843,8 +5830,8 @@
 - name: Facebook Marketing API
   slug: facebook-marketing-api
   categories:
-    - Marketing & SEO
     - Social
+    - Marketing & SEO
   description: Marketing API Marketing APIs are a collection of Graph API endpoints that can be used to help you advertise on Facebook. Manage ads and campaigns using the Facebook API
   uri: https://developers.facebook.com/docs/marketing-apis
   is_paid: false
@@ -5899,10 +5886,10 @@
 - name: Faroo
   slug: faroo
   categories:
-    - Search
     - Real Time
     - Files & Storage
     - News & Feeds
+    - Search
   description: 'Alternative to Google Web Search API / Google News Search API, allows you to search news within dates, fetch trending news, topics and terms. SeekStorm - Search as a Service: Affordable, high performance search & crawling'
   uri: http://www.faroo.com/hp/api/api.html
   is_paid: false
@@ -5912,8 +5899,8 @@
 - name: FavQs
   slug: favqs
   categories:
-    - Content & Dictionaries
     - Quotes
+    - Content & Dictionaries
   description: FavQs allows you to collect, discover, and share your favorite quotes.
   uri: https://favqs.com/api
   is_paid: false
@@ -5953,7 +5940,6 @@
 - name: FengShui
   slug: fengshui
   categories:
-    - Other
     - Fun
   description: Let’s you enter your name and the name of your partner/lover/crush to find Love compatibility & chances of successful love relationship.
   uri: https://confluence.test.draftway.pl/login.action?os_destination=%2Findex.action&permissionViolation=true
@@ -5974,10 +5960,10 @@
 - name: Figo
   slug: figo
   categories:
-    - Worldwide
     - Payments
     - Development
     - Finance & Economics
+    - Worldwide
   description: Banking API that allows you to extract financial data such as transaction history, account balance, account owner name and others to extract from any financial account
   uri: ""
   is_paid: false
@@ -6021,9 +6007,9 @@
 - name: Filestack
   slug: filestack
   categories:
-    - Files & Storage
     - Images
     - Video & Media
+    - Files & Storage
   description: API for image and file manipulation, 250 uploads and 500 uploads per month for free, free CDN, HTML widget.  Discover powerful tools that allow you to upload, transform and deliver any file in your application
   uri: https://filestack.com/docs/
   is_paid: false
@@ -6117,13 +6103,13 @@
 - name: Firebase
   slug: firebase
   categories:
+    - Security
+    - Mobile
     - Databases
     - Real Time
     - Development
     - Data
     - Authentication & User Management
-    - Security
-    - Mobile
   description: Web reference View full API for JS Client. Authentication, analytics, cloud messaging, crash reporting, ads and more
   uri: https://firebase.google.com/docs/reference/
   is_paid: false
@@ -6194,8 +6180,8 @@
 - name: FitBit
   slug: fitbit
   categories:
-    - Health
     - Sport & Fitness
+    - Health
   description: You'll fit in here. Using JavaScript, CSS, and SVG, developers now have a fast, easy way to build apps and clock faces for Fitbit OS. Web API for accessing data from Fitbit activity trackers, Aria scale, and manually entered logs
   uri: https://dev.fitbit.com/build/reference/
   is_paid: false
@@ -6320,9 +6306,9 @@
 - name: Flickr
   slug: flickr
   categories:
+    - Photography
     - Video & Media
     - Social
-    - Photography
   description: Search through user Flickr content, contacts, upload or replace photos.  Flickr is almost certainly the best online photo management and sharing application in the world.  Show off your favorite photos and videos to the world, securely and privately show content to your friends and family, or blog the photos and videos you take with a cameraphone
   uri: https://www.flickr.com/services/api/
   is_paid: false
@@ -6505,9 +6491,9 @@
 - name: Flurry
   slug: flurry
   categories:
-    - Applications
     - Big Data
     - Analytics
+    - Applications
   description: Yahoo’s Flurry provides you with a number of APIs enabling you to export your data. Flurry provides two main APIs that are designed to get the same data about your applications as the data reported on the Flurry Dev Portal
   uri: https://developer.yahoo.com/flurry/docs/api/
   is_paid: false
@@ -6652,9 +6638,9 @@
 - name: Form-Api
   slug: form-api
   categories:
+    - Validation & Verification
     - Post & Logistics
     - Forms & Surveys
-    - Validation & Verification
   description: Build forms easily, autocomplete and validate data. using gender api and zip code api
   uri: https://form-api.com
   is_paid: false
@@ -6683,11 +6669,11 @@
 - name: Foursquare API
   slug: foursquare-api
   categories:
+    - Photography
+    - Search
     - Social
     - Maps & Geo
     - Mobile
-    - Photography
-    - Search
   description: Gives you access to our world-class places database and the ability to interact with Foursquare users and merchants. Start using the only location API you'll ever need.  Foursquare is the most trusted, independent location data platform for understanding how people move through the real world
   uri: https://developer.foursquare.com/developer/
   is_paid: false
@@ -6852,8 +6838,8 @@
 - name: Fun Translations API
   slug: fun-translations-api
   categories:
-    - Translation
     - Fun
+    - Translation
   description: World's best fun translation tools via REST API.  Yoda speak converter, pirate converter, Pig Latin and Ferb Latin converters. Translate to over 50+ languages from various TV Series and Movies
   uri: https://funtranslations.com/api/
   is_paid: false
@@ -6920,8 +6906,8 @@
 - name: Gender API
   slug: gender-api
   categories:
-    - Tools
     - Forms & Surveys
+    - Tools
   description: Keep your registration forms simple. Optimize your conversions and let us determine the gender of your customers.
   uri: https://gender-api.com/en/api-docs
   is_paid: false
@@ -6939,9 +6925,9 @@
 - name: Genius
   slug: genius
   categories:
+    - Open Source
     - Wiki
     - Music & Audio
-    - Open Source
   description: Allows users to find details about Genius artists and songs. Use our API and help build the world's greatest public knowledge project since Wikipedia
   uri: https://docs.genius.com/#/getting-started-h1
   is_paid: false
@@ -7000,11 +6986,11 @@
 - name: GeoNames
   slug: geonames
   categories:
+    - Weather
+    - Reference
     - Databases
     - Maps & Geo
     - Post & Logistics
-    - Weather
-    - Reference
   description: 'Important: Do not use the ''demo'' account for your app or your tests. It is only meant for the sample links on the docu. GeoNames Web Services Documentation GeoNames is mainly using REST webservices'
   uri: http://www.geonames.org/export/web-services.html
   is_paid: false
@@ -7188,8 +7174,8 @@
 - name: Getscreenshot By Rasterwise
   slug: getscreenshot-by-rasterwise
   categories:
-    - Images
     - Webhooks
+    - Images
   description: "A successful request to the API will return a simple JSON that includes a URL pointing to the resulting screen capture.  GetScreenshot is an affordable and highly scalable screenshot API service, with integrated rendering customization and workflows like email and webhooks. GetScreenshot is a powerful programmable API that allows you to do screenshot operations at scale and for less than the existing solutions. \n\nThis RESTful API can be accessed by any standard/popular client with HTTP capabilities. This means that almost any language with an HTTP request library or built-in module can make calls to GetScreenshot"
   uri: https://getscreenshot.rasterwise.com/
   is_paid: false
@@ -7199,10 +7185,10 @@
 - name: Getty Images
   slug: getty-images
   categories:
-    - Video & Media
     - Art & Design
     - Photography
     - Images
+    - Video & Media
   description: Page moved here.  Page moved here
   uri: http://developers.gettyimages.com/en/
   is_paid: false
@@ -7388,8 +7374,8 @@
 - name: Gifs.Com Public API
   slug: gifs-com-public-api
   categories:
-    - Video & Media
     - Images
+    - Video & Media
   description: com API makes it dead simple to convert and transcode a vast array of media into our HTML5 optimized gifs. mp4. webm and . com player, a compressed. The gifs. gif,. to gifinity and beyond!
   uri: https://docs.gifs.com/
   is_paid: false
@@ -7399,9 +7385,7 @@
 - name: Giphy
   slug: giphy
   categories:
-    - Other
-    - Photography
-    - Search
+    - Fun
     - Images
   description: Worlds largest library of GIFs
   uri: https://developers.giphy.com/docs/
@@ -7655,9 +7639,9 @@
 - name: GoodReads
   slug: goodreads
   categories:
+    - Social
     - Books
     - Reference
-    - Social
   description: The Goodreads API allows developers access to Goodreads data in order to help websites or applications that deal with books be more personalized, social,. Allows developers access to Goodreads data in order to help websites or applications that deal with books
   uri: https://www.goodreads.com/api
   is_paid: false
@@ -7897,8 +7881,8 @@
 - name: Google Buzz API
   slug: google-buzz-api
   categories:
-    - Social
     - Webhooks
+    - Social
   description: A social platform that both users and developers can interact with, the company has faced some difficulty in gaining ongoing traction
   uri: ""
   is_paid: false
@@ -7918,10 +7902,8 @@
 - name: Google Charts
   slug: google-charts
   categories:
-    - Charts
     - Visualizations
     - Bar & QR Codes
-    - Other
     - Analytics
   description: Free tool with a wide range of capabilities for visualizing data from a website. Google Charts provides a perfect way to visualize data on your website.  From simple line charts to complex hierarchical tree maps, the chart gallery provides a large number of ready-to-use chart ty
   uri: https://developers.google.com/chart/interactive/docs/
@@ -7999,8 +7981,8 @@
 - name: Google Earth Engine
   slug: google-earth-engine
   categories:
-    - Images
     - Maps & Geo
+    - Images
   description: Perform geospatial processing powered by Google's cloud infrastructure. Perform geospatial processing powered by Google's cloud infrastructure
   uri: https://developers.google.com/earth-engine/
   is_paid: false
@@ -8070,9 +8052,9 @@
 - name: Google Places
   slug: google-places
   categories:
+    - Point of Interest
     - Reference
     - Maps & Geo
-    - Point of Interest
   description: Connect your app or website users to over 100 million points of interests with Places, using Autocomplete, Geocoding & Place Search APIs
   uri: https://developers.google.com/places/?hl=en
   is_paid: false
@@ -8206,8 +8188,6 @@
 - name: Google Visualization API
   slug: google-visualization-api
   categories:
-    - Charts
-    - Other
     - Visualizations
   description: '* A. Gadgets are no longer the best way to include visualizations on your web page.  This page lists the objects exposed by the Google Visualization API, and the standard methods exposed by all visualizations.  Note: The Google Visualization API namespace is google. visualization'
   uri: https://developers.google.com/chart/interactive/docs/reference
@@ -8218,8 +8198,8 @@
 - name: Google reCAPTCHA
   slug: google-recaptcha
   categories:
-    - Security
     - Captcha
+    - Security
   description: ReCAPTCHA lets you embed a CAPTCHA in your web pages in order to protect them against spam and other types of automated abuse
   uri: https://developers.google.com/recaptcha/intro?hl=en
   is_paid: false
@@ -8234,9 +8214,9 @@
 - name: Gowalla API
   slug: gowalla-api
   categories:
+    - Social
     - Maps & Geo
     - Mobile
-    - Social
   description: Gather and compare all kinds of interesting data, they weren't really interactive with Gowalla itself
   uri: ""
   is_paid: false
@@ -8246,10 +8226,10 @@
 - name: Gracenote
   slug: gracenote
   categories:
-    - Music & Audio
     - Video & Media
     - Photography
     - Reference
+    - Music & Audio
   description: Largest source of music and video metadata on the planet. Gracenote is the leader in entertainment metadata, helping people connect to the music, TV shows, movies and sports they love across the world’s most popular entertainment platforms and devices, from Apple to Amazon to Comcast and Ford
   uri: https://developer.gracenote.com/
   is_paid: false
@@ -8296,10 +8276,10 @@
 - name: GraphHopper
   slug: graphhopper
   categories:
-    - Travel
-    - Transportation
     - Maps & Geo
     - Post & Logistics
+    - Travel
+    - Transportation
   description: A-to-B routing with turn-by-turn instructions
   uri: https://graphhopper.com/api/1/docs/
   is_paid: false
@@ -8384,11 +8364,11 @@
 - name: Graphql360
   slug: graphql360
   categories:
+    - Images
     - Photography
     - Real Estate
     - Content & Dictionaries
     - Games
-    - Images
   description: Create and consume 360 degree panoramic tours using a GraphQL API.  GraphQL 360 empowers flexible native integrations for 360 degree tours. 360 Degree Tour API, powered by GraphQL
   uri: https://graphql360.com
   is_paid: false
@@ -8516,12 +8496,12 @@
 - name: Gyazo
   slug: gyazo
   categories:
+    - Images
+    - Social
     - Video & Media
     - Art & Design
     - Photography
     - Collaboration
-    - Images
-    - Social
   description: Overview The Gyazo API can be used in a wide array of apps to upload new images, show a Gyazo userâ€™s images, and more.  It provides a RESTful API for HTTP requests and returns a response in JSON. Overview The Gyazo API can be used in a wide array of apps to upload new images, show a Gyazo userâ€™s images, and more
   uri: https://gyazo.com/api/docs
   is_paid: false
@@ -8560,8 +8540,8 @@
 - name: Hacker News
   slug: hacker-news
   categories:
-    - Social
     - News & Feeds
+    - Social
   description: Documentation and Samples for the Official HN API. Contribute to HackerNews/API development by creating an account on GitHub. Anything that good hackers would find interesting
   uri: https://github.com/HackerNews/API
   is_paid: false
@@ -8715,9 +8695,9 @@
 - name: Harry Potter
   slug: harry-potter
   categories:
+    - Books
     - Video & Media
     - Entertainment
-    - Books
   description: "Harry Potter API Documentation Response Formats Authentication All Routes Sorting Hat Route Character Routes House Routes Spell Routes \U0001F6A7 Under Construction \U0001F6A7 Trans Lives Matter"
   uri: https://www.potterapi.com/
   is_paid: false
@@ -8727,10 +8707,10 @@
 - name: Harvard Art Museums
   slug: harvard-art-museums
   categories:
+    - Art & Design
     - Education
     - Video & Media
     - Point of Interest
-    - Art & Design
   description: The Harvard Art Museums API is a REST-style service designed for developers who wish to explore and integrate the museums’ collections in their projects. The API provides direct access to the data that powers the museums' website and many other aspects of the museums.
   uri: https://github.com/harvardartmuseums/api-docs
   is_paid: false
@@ -8820,8 +8800,8 @@
 - name: Holiday API
   slug: holiday-api
   categories:
-    - Calendar
     - Worldwide
+    - Calendar
   description: Start developing for free. Public holiday API service for several supported countries.  Don't let sourcing and maintaining holiday information get in the way of building your product
   uri: https://holidayapi.pl/
   is_paid: false
@@ -8850,9 +8830,9 @@
 - name: Houndify
   slug: houndify
   categories:
+    - AI & ML
     - IoT & Home Automation
     - Voice
-    - AI & ML
   description: The Houndify Voice AI platform helps brands build voice user interfaces that enhance brand identity and retain data ownership and customer relationships. Integrate voice and conversational intelligence into your products through an independent platform that is always learning
   uri: https://www.houndify.com/
   is_paid: false
@@ -8879,8 +8859,8 @@
 - name: HouseCanary Analytics API
   slug: housecanary-analytics-api
   categories:
-    - Real Estate
     - Data
+    - Real Estate
   description: Real estate investors and lenders can make decisions in seconds that used to take weeks, using the most accurate proprietary and public record data available. Compute instant valuations spanning property and land values, home equity, and more, and report on the data density behind this conclusions
   uri: https://www.housecanary.com/product-analytics-api
   is_paid: false
@@ -8932,13 +8912,13 @@
 - name: HyperTrack
   slug: hypertrack
   categories:
+    - Business
     - Integration
     - Real Time
     - Documents & Productivity
     - Transportation
     - Maps & Geo
     - Development
-    - Business
   description: Build applications that track the movement of your business
   uri: https://docs.hypertrack.com
   is_paid: false
@@ -9171,8 +9151,8 @@
 - name: IBM Watson Text To Speech
   slug: ibm-watson-text-to-speech
   categories:
-    - Voice
     - AI & ML
+    - Voice
   description: 'A really simple api that lets you convert text to speech. It’s 100% free for unlimited usage. '
   uri: https://www.ibm.com/thought-leadership/smart/
   is_paid: false
@@ -9229,8 +9209,8 @@
 - name: IEX Cloud
   slug: iex-cloud
   categories:
-    - Cloud
     - Finance & Economics
+    - Cloud
   description: IEX Cloud is a financial data infrastructure platform that connects developers and financial data creators
   uri: https://iexcloud.io/
   is_paid: false
@@ -9310,8 +9290,8 @@
 - name: IGDB.com
   slug: igdb-com
   categories:
-    - Entertainment
     - Games
+    - Entertainment
   description: Video Game database on demand! Images, info video and other data you can retrieve trough the rest API. Access the International Games Database and get information about videogames, characters, companies, genres and many more.  Commercial usage is allowed
   uri: https://api.igdb.com/
   is_paid: false
@@ -9479,8 +9459,6 @@
   slug: icons8
   categories:
     - Images
-    - Colors
-    - Library
     - Art & Design
   description: Icons8 offers simple reliable solutions to cope with all sorts of the challenges concerning icons
   uri: https://icons8.github.io/icons8-docs/
@@ -9500,9 +9478,8 @@
 - name: Image-Charts
   slug: image-charts
   categories:
-    - Visualizations
-    - Charts
     - Email & SMS
+    - Visualizations
   description: A drop-in-replacement for the deprecated Google Image Charts. Easiest way to embed charts as image in emails, pdfs etc.
   uri: https://www.image-charts.com
   is_paid: false
@@ -9513,9 +9490,9 @@
 - name: Imagga Api
   slug: imagga-api
   categories:
-    - AI & ML
     - Images
     - Recognition
+    - AI & ML
   description: identifies the content of images and videos, classify images based on content, extracts colors, moderates NSFW content. Imagga Image Recognition API provides solutions for image tagging & categorization, visual search, content moderation. Available in the Cloud and On-Premise
   uri: https://imagga.com/
   is_paid: false
@@ -9730,10 +9707,10 @@
 - name: Infermedica API
   slug: infermedica-api
   categories:
+    - Bots
     - AI & ML
     - Health
     - Data
-    - Bots
   description: The most advanced Symptom Checker and Patient Triage API. Infermedica provides an API for patient triage and preliminary medical diagnosis that can help you implement an intelligent symptom checker or an adaptive patient intake form for your health application
   uri: https://developer.infermedica.com/
   is_paid: false
@@ -9757,10 +9734,10 @@
 - name: Instagram
   slug: instagram
   categories:
+    - Authentication & User Management
     - Social
     - Photography
     - Mobile
-    - Authentication & User Management
   description: How to use the Instagram Graph API. Access to Instagram’s OAuth API
   uri: https://developers.facebook.com/docs/instagram-api/overview
   is_paid: false
@@ -9908,7 +9885,7 @@
   slug: ip-address-api
   categories:
     - Other
-  description: any. ge IP Address API free service provides country name, 2 symbol code and 3 symbol code for free, api examples in CURL, JSON and php format with https support.  any
+  description: IP Address API free service provides country name, 2 symbol code and 3 symbol code for free. Examples in CURL, JSON and php format with https support
   uri: https://any.ge/api/
   is_paid: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ip-address-api/logo_256x256.png
@@ -10020,9 +9997,9 @@
 - name: JSONPlaceholder
   slug: jsonplaceholder
   categories:
-    - Testing
     - Development
     - Data
+    - Testing
   description: When to use JSONPlaceholder is a free online REST API that you can use whenever you need some fake data. When to use JSONPlaceholder is a free online REST API that you can use whenever you need some fake data.  It can be in a README on GitHub, for a demo on CodeSandbox, in code examples on Stack Overfl
   uri: http://jsonplaceholder.typicode.com/
   is_paid: false
@@ -10054,10 +10031,10 @@
 - name: Jesus Api
   slug: jesus-api
   categories:
-    - Development
-    - Random
     - Images
     - Religion
+    - Development
+    - Random
   description: Upgrade to Hostinger By upgrading to premium hosting you will unlock all available features, more disk sp. Fetch random Jesus images on demand.  If you’re not 100% satisfied with Hostinger, we’ll refund your payment. No hassle, no risk
   uri: https://jesusapi.000webhostapp.com
   is_paid: false
@@ -10115,8 +10092,8 @@
 - name: Jooble
   slug: jooble
   categories:
-    - Jobs
     - Search
+    - Jobs
   description: NET 4 or later) Javascript Php Python 2. 7 Python 3. 5 Ruby.  Name* Title* Website* Phone* Email*. We support multiple formats for your convenience. Consult your developers if in doubt. JSON C# (
   uri: https://us.jooble.org/api/about
   is_paid: false
@@ -10125,10 +10102,10 @@
 - name: Jservice
   slug: jservice
   categories:
+    - Entertainment
     - Games
     - Trivia
     - Data
-    - Entertainment
   description: Trivia Questions. Get answers, (and the correct questions) from 20+ years of Jeopardy episodes
   uri: http://jservice.io
   is_paid: false
@@ -10183,12 +10160,12 @@
 - name: Kairos
   slug: kairos
   categories:
+    - Tools
+    - Authentication & User Management
     - Images
     - Recognition
     - Photography
     - AI & ML
-    - Tools
-    - Authentication & User Management
   description: Face recognition, emotion analysis and measuring engagement of people in images or videos for any mobile or web application
   uri: https://www.kairos.com/
   is_paid: false
@@ -10272,9 +10249,9 @@
 - name: Keygen
   slug: keygen
   categories:
-    - Applications
     - Development
     - Open Licenses
+    - Applications
   description: Keygen is a dead-simple software licensing API built for developers of desktop apps, on-prem software and other digital products.  You can manage user accounts, their licenses, and their machines through an easy-to-use RESTful JSON API.  Keygen is a simple software licensing API, allowing developers to easily implement various licensing types into any software product
   uri: https://keygen.sh
   is_paid: false
@@ -10284,11 +10261,11 @@
 - name: Keyserv
   slug: keyserv
   categories:
-    - Payments
     - Development
     - IoT & Home Automation
     - Hardware
     - Products
+    - Payments
   description: SmartQ is an technology company founded in 2017 with the intention of providing innovative tools for the modern world.  KeyServ is such an instrument that takes the hassle out of subscriptions and warranty tracking systems for the IoT generation. The subscription management service for rapid product development. The Subscription Management Service For Rapid Product Development.  You focus on your process, we manage the fiddly parts! Built for the IOT Generation.  Serial / Tracking keys made easy. Callback support, Robust Scheduler, Clear separation between customer-facing and management. KeyServ Solutions is a product of SmartQ (Pty) Ltd
   uri: https://keyserv.solutions
   is_paid: false
@@ -10352,7 +10329,7 @@
   slug: labs64-netlicensing
   categories:
     - Other
-  description: ) - Innovative License Management Solution.  NetLicensing RESTful APIis for developers integrating NetLicensing with applications and administrators who want to script interactions with the NetLicensing server
+  description: Innovative License Management Solution. NetLicensing RESTful APIis for developers integrating NetLicensing with applications and administrators who want to script interactions with the NetLicensing server
   uri: https://netlicensing.io/wiki/restful-api
   is_paid: false
   type: REST
@@ -10538,8 +10515,8 @@
 - name: LaunchLibrary
   slug: launchlibrary
   categories:
-    - Other
-  description: '2. Via URL Pa. Aggregated info about space launches.  Calls All API calls should be made with HTTP GET. Request data is passed in one of two ways: 1. An ID or name can be passed in via the URL line.  For example /launch/5 or launch/Falcon'
+    - Space
+  description: Aggregated info about space launches.
   uri: https://launchlibrary.net/docs/1.3/api.html
   is_paid: false
   type: REST
@@ -10674,7 +10651,6 @@
   categories:
     - URLs
     - Scrapers & Data Mining
-    - Other
   description: Preview Web links with our reliable API service. Get Detailed JSON Response for any URL. RESTful API that returns JSON formatted summary with title, description and preview image for any requested URL.  Free & paid plans
   uri: https://www.linkpreview.net
   is_paid: false
@@ -10794,7 +10770,7 @@
 - name: Listen Api
   slug: listen-api
   categories:
-    - Podcasts
+    - Music & Audio
   description: Simple & no-nonsense podcast search & directory API. Search the meta data of all podcasts and episodes on the Internet by people, places, or topics. Best podcast API trusted by 2,104 companies and developers.  Search 1,904,658 podcasts and 91,498,333 episodes by people or topics
   uri: https://www.listennotes.com/api/
   is_paid: false
@@ -10804,9 +10780,7 @@
 - name: Listen Notes
   slug: listen-notes
   categories:
-    - Podcasts
     - Music & Audio
-    - Directories
   description: Best podcast API trusted by 2,104 companies and developers. Search 1,904,658 podcasts and 91,498,333 episodes by people or topics
   uri: https://www.listennotes.com/api/
   is_paid: false
@@ -10816,9 +10790,7 @@
 - name: LiveChat
   slug: livechat
   categories:
-    - Real Time
     - Business
-    - Other
     - Chats & Messaging
   description: Online Customer Service software with customizable chat, embeddable widgets, help desk and web analytics tools.  APIs include webhooks support, SDKs and open-source libraries to build on. Messaging APIs, chat widgets and other building blocks of remarkable customer service experience
   uri: https://developers.livechatinc.com/
@@ -10843,10 +10815,10 @@
 - name: Liveedu
   slug: liveedu
   categories:
+    - Video & Media
     - Entertainment
     - Development
     - Education
-    - Video & Media
   description: Live Coding Streaming.  Education Ecosystem is a project learning platform for people to learn how to build real products
   uri: https://www.education-ecosystem.com/developer/applications/
   is_paid: false
@@ -10874,11 +10846,11 @@
 - name: Localytics
   slug: localytics
   categories:
-    - Applications
     - Marketing & SEO
     - Mobile
     - Analytics
     - Business
+    - Applications
   description: Analytics Concepts In order to use an analytics API to its maximum potential, it is useful to agree on terminology. The Localytics API, and the backend services which power it, are organized around. Interface to Localytics analytics platform
   uri: http://docs.localytics.com/dev/query-api.html#query-api
   is_paid: false
@@ -10962,9 +10934,9 @@
 - name: Lorem Picsum
   slug: lorem-picsum
   categories:
+    - Photography
     - Art & Design
     - Random
-    - Photography
   description: Lorem Ipsum, but for photos.
   uri: https://picsum.photos/
   is_paid: false
@@ -10993,8 +10965,8 @@
 - name: Loripsum
   slug: loripsum
   categories:
-    - Data
     - Testing
+    - Data
   description: This Lorem Ipsum generator fits all your Lipsum needs! Come on over, make some Lipsum and copy-paste like a pro!. This Lorem Ipsum generator fits all your Lipsum needs! Come on over, make some Lipsum and copy-paste like a pro!
   uri: http://loripsum.net/
   is_paid: false
@@ -11006,10 +10978,6 @@
   categories:
     - Casino & Gambling
     - Random
-    - Tools
-    - Translation
-    - Other
-    - Entertainment
   description: Hundereds of lottery games from various countries are supported. Generate lottery numbers
   uri: https://fungenerators.com/api/lottery/
   is_paid: false
@@ -11070,9 +11038,9 @@
 - name: MAC address vendor lookup
   slug: mac-address-vendor-lookup
   categories:
-    - Security
     - Data
     - Development
+    - Security
   description: The MAC address API allows you to retrieve OUI vendor information, detect virtual machines, possible applications, read the information encoded in the MAC, and get our research's results regarding the given MAC address or the OUI. The MAC address API allows you to retrieve OUI vendor information, detect virtual machines, possible applications, read the information encoded in the MAC, and get our research's results regarding the given MAC address or the OUI
   uri: https://macaddress.io/api
   is_paid: false
@@ -11180,9 +11148,9 @@
 - name: Mailjet
   slug: mailjet
   categories:
+    - Analytics
     - Email & SMS
     - Marketing & SEO
-    - Analytics
   description: "Reliable and scalable email delivery platform with SMTP and API.  \nReal-time monitoring service for all your email traffic.  \nResponsive email design with MJML and Passport"
   uri: https://dev.mailjet.com
   is_paid: false
@@ -11256,9 +11224,9 @@
 - name: Makeup
   slug: makeup
   categories:
+    - Health
     - Fashion
     - Images
-    - Health
   description: Search makeup products
   uri: http://makeup-api.herokuapp.com/
   is_paid: false
@@ -11355,8 +11323,8 @@
 - name: Mapbox Directions API
   slug: mapbox-directions-api
   categories:
-    - Post & Logistics
     - Maps & Geo
+    - Post & Logistics
   description: The Mapbox Directions API can calculate optimal driving, walking, and cycling routes, produce turn-by-turn instructions, produce routes with up to 25 coordinates anywhere on earth
   uri: https://docs.mapbox.com/api/
   is_paid: false
@@ -11384,8 +11352,8 @@
 - name: Mapbox Matrix API
   slug: mapbox-matrix-api
   categories:
-    - Maps & Geo
     - Post & Logistics
+    - Maps & Geo
   description: The Mapbox Matrix API returns travel times between many points
   uri: https://docs.mapbox.com/api/
   is_paid: false
@@ -11403,9 +11371,9 @@
 - name: Marketcloud
   slug: marketcloud
   categories:
+    - Development
     - Cloud
     - Commerce
-    - Development
   description: It covers inventory and database, carts and checkout, payments, user authentication, and more.  You just bring the frontend. eCommerce APIs for developers
   uri: https://www.marketcloud.it
   is_paid: false
@@ -11502,9 +11470,9 @@
 - name: Matlab
   slug: matlab
   categories:
-    - Visualizations
     - Science & Math
     - Development
+    - Visualizations
   description: It allows you to create client programs in any programming language with an HTTP library.  The API uses the request-response model of the Hypertext Transfer Protocol for communication with the MATLAB Production Server and includes; request methods, response codes, message headers, and message bodies.  MATLAB is a high-level language and interactive environment for numerical computation, visualization, and programming. The MATLAB RESTful API enables you to evaluate MATLAB functions on remote servers using JSON representation of MATLAB data types.  The MATLAB RESTful API enables you to evaluate MATLAB functions on remote servers using JSON representation of MATLAB data types
   uri: https://www.programmableweb.com/api/matlab
   is_paid: false
@@ -11548,10 +11516,10 @@
 - name: Medium
   slug: medium
   categories:
+    - Personality
     - Social
     - Writing
     - Health
-    - Personality
   description: Documentation for Medium's OAuth2 API. Documentation for Medium's OAuth2 API. Contribute to Medium/medium-api-docs development by creating an account on GitHub
   uri: https://github.com/Medium/medium-api-docs
   is_paid: false
@@ -11613,8 +11581,8 @@
 - name: Mercedes-Benz
   slug: mercedes-benz
   categories:
-    - Vehicle
     - Transportation
+    - Vehicle
   description: Get access to our live API products or newer initiatives in development. Easily integrate our live APIs in your production environment or experiment with exciting new APIs even before they are ready for prime time.  Get access to our live API products or newer initiatives in development
   uri: https://developer.mercedes-benz.com/apis
   is_paid: false
@@ -11634,9 +11602,9 @@
 - name: Mercury
   slug: mercury
   categories:
+    - Documents & Productivity
     - Business
     - Finance & Economics
-    - Documents & Productivity
   description: Mercury Web Parser turns web articles into structured content reliably and easily. Make semantic sense out of any web article
   uri: https://mercury.postlight.com/web-parser/
   is_paid: false
@@ -11655,8 +11623,8 @@
 - name: Messari
   slug: messari
   categories:
-    - Currency
     - Blockchain & Cryptocurrencies
+    - Currency
   description: Messari provides an institutional grade Bitcoin and blockchain data API, ranging from market data to fundamentals, blockchain metrics and news. Gain an edge over the crypto market with professional grade data, tools, and research
   uri: https://messari.io/api
   is_paid: false
@@ -11723,11 +11691,11 @@
 - name: Microlink
   slug: microlink
   categories:
-    - Colors
+    - Scrapers & Data Mining
+    - Art & Design
     - Collaboration
     - URLs
     - Social
-    - Scrapers & Data Mining
   description: 'Generate PDF from any website. Automate web performance. Turns any link into information.  Take screenshots, extract predominant palette colors. Turns websites into data: Enter a URL, receive information. Make any URL embeddable. Capture any website as a snapshot'
   uri: https://microlink.io
   is_paid: false
@@ -11757,12 +11725,12 @@
 - name: Microsoft Graph
   slug: microsoft-graph
   categories:
+    - CRM
     - Documents & Productivity
     - Email & SMS
     - Collaboration
     - Files & Storage
     - Calendar
-    - CRM
   description: Find out how you can use the Microsoft Graph API to connect to the data that drives productivity - mail, calendar, contacts, documents, directory, devices, and more. API for accessing stored files and photos for personal and enterprise users with high resolution thumbnails and Microsoft Office APIs
   uri: https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/onedrive
   is_paid: false
@@ -11809,9 +11777,9 @@
 - name: MixPanel
   slug: mixpanel
   categories:
-    - Analytics
     - Mobile
     - Real Time
+    - Analytics
   description: At our core, we maintain a custom datastore that queries your data in a fast, scalable, and reliable manner.  On top of that datastore is our user-friendly web application which lets you visualize the data you have sent us First, yo. Analytics for mobile and web which helps you analyze the actions people take in your application. Mixpanel was built to give you an answer about your product's usage
   uri: https://developer.mixpanel.com/docs/implement-mixpanel
   is_paid: false
@@ -11986,8 +11954,8 @@
 - name: Musixmatch
   slug: musixmatch
   categories:
-    - Metadata
     - Music & Audio
+    - Metadata
   description: Power your music project by licensing access to the world’s most authoritative lyrics DB. API PLAYGROUND Our Playground lets you quickly test our API and play with the formatted response you’ll get for each call
   uri: https://developer.musixmatch.com/
   is_paid: false
@@ -12142,9 +12110,9 @@
 - name: MySocialApp
   slug: mysocialapp
   categories:
+    - Chats & Messaging
     - Development
     - Social
-    - Chats & Messaging
   description: Build scalable news feed for your app. MySocialApp is simple, powerful APIs are used by some of the largest and most popular apps.  Save months of development headache and focus on what makes your app unique. SDK available for Android, iOS, Java, Swift, Kotlin, Javascript, Ruby, Go, Python, PHP. . Seamless Social Networking features, API, SDK for any app
   uri: https://mysocialapp.io
   is_paid: false
@@ -12253,10 +12221,10 @@
 - name: NHTSA
   slug: nhtsa
   categories:
+    - Security
     - Transportation
     - Vehicle
     - Government
-    - Security
   description: The NHTSA Product Information Catalog Vehicle Listing (vPIC) Application Programming Interface (API) provides different ways to gather information on Vehicles and their specifications. The vPIC Dat. The NHTSA Product Information Catalog Vehicle Listing (vPIC) Application Programming Interface (API) provides different ways to gather information on Vehicles and their specifications
   uri: https://vpic.nhtsa.dot.gov/api/
   is_paid: false
@@ -12498,11 +12466,11 @@
 - name: NewsAPI
   slug: newsapi
   categories:
+    - Social
+    - Search
     - Images
     - Metadata
     - News & Feeds
-    - Social
-    - Search
   description: Search worldwide news articles and headlines from all over the web in real-time with our free News API. 70+ news sources and their headlines, one API
   uri: https://newsapi.org/
   is_paid: false
@@ -12558,9 +12526,9 @@
 - name: Nexchange
   slug: nexchange
   categories:
-    - Currency
     - Finance & Economics
     - Blockchain & Cryptocurrencies
+    - Currency
   description: API for crypto currency exchange.
   uri: https://nexchange2.docs.apiary.io/
   is_paid: false
@@ -12695,9 +12663,9 @@
 - name: Next Big Sound
   slug: next-big-sound
   categories:
+    - Music & Audio
     - Social
     - Data
-    - Music & Audio
   description: 403 Forbidden Request forbidden by administrative rules. . API offers a very simple interface to access data from NBS. Ruby wrapper available
   uri: https://api3.nextbigsound.com/
   is_paid: false
@@ -12733,8 +12701,8 @@
 - name: Nimiq Hub
   slug: nimiq-hub
   categories:
-    - Payments
     - Blockchain & Cryptocurrencies
+    - Payments
   description: "com/en/#community.  Documentation of the Nimiq Hub API, the secure and central place to interact with your users’ keys. Nimiq aims to be the best performing and easiest-to-use decentralized payment protocol ecosystem. The Nimiq Hub API enables website developers to integrate payment with Nimiq into their webapp, shop, and mobile app. It's all open source, the GitHub repository is here: http://github. com/nimiq/hub \n\nTo get direct support from the Nimiq Team and the community, join our social channels: https://nimiq"
   uri: https://nimiq.github.io/hub/
   is_paid: false
@@ -12774,8 +12742,8 @@
 - name: Notepad Api - Simplenotes
   slug: notepad-api-simplenotes
   categories:
-    - Social
     - Documents & Productivity
+    - Social
   description: Share the notes with everyone you want.
   uri: https://api.simplenotes.cc
   is_paid: false
@@ -12784,10 +12752,9 @@
 - name: Noun Project
   slug: noun-project
   categories:
-    - Art & Design
-    - Other
     - Visualizations
     - Images
+    - Art & Design
   description: Grab a hold of the World’s Visual Language! Use it in your service or application.
   uri: http://api.thenounproject.com/index.html
   is_paid: false
@@ -12823,9 +12790,9 @@
 - name: Numbers
   slug: numbers
   categories:
+    - Random
     - Reference
     - Science & Math
-    - Random
   description: An API for interesting facts about numbers. An API for interesting facts about numbers
   uri: http://numbersapi.com
   is_paid: false
@@ -12846,10 +12813,10 @@
 - name: Nutritionix
   slug: nutritionix
   categories:
-    - Health
-    - Food & Drinks
     - Bar & QR Codes
     - Sport & Fitness
+    - Health
+    - Food & Drinks
   description: Already signed up and logged in? View your API key now. Try searching the API right now! The search engine at nutri. If this is your first time here, we recommend you. signup for your API key first
   uri: https://developer.nutritionix.com/
   is_paid: false
@@ -12938,9 +12905,9 @@
 - name: Oddsapi
   slug: oddsapi
   categories:
-    - Casino & Gambling
     - Sport & Fitness
     - Data
+    - Casino & Gambling
   description: All results are returned in easy-to-read JSON format.  Our sports data API provides live and historical sports data from all around the world. Data sets are updated in realtime. Odds data from all over the world with our odds API
   uri: https://sportdataapi.com
   is_paid: false
@@ -12968,8 +12935,8 @@
 - name: One Map, Singapore
   slug: one-map-singapore
   categories:
-    - Worldwide
     - Maps & Geo
+    - Worldwide
   description: '####. #######. ##. Introduction. ###. ########'
   uri: https://docs.onemap.sg/
   is_paid: false
@@ -13009,10 +12976,10 @@
 - name: Onfido
   slug: onfido
   categories:
+    - Authentication & User Management
     - AI & ML
     - Security
     - Validation & Verification
-    - Authentication & User Management
   description: 'Our document verification and facial biometrics technology lets your users verify themselves anywhere, anytime.  Document report: Object Results The result field indicates the overall report result.  Possible values for Document reports are clear and consider: Report resultclearIf all underlying verifications. Identity verification at the speed of life.  It’s as simple as an ID and a selfie'
   uri: https://documentation.onfido.com
   is_paid: false
@@ -13076,11 +13043,11 @@
 - name: Ontraport
   slug: ontraport
   categories:
-    - CRM
-    - Data
     - Marketing & SEO
     - Business
     - Automation
+    - CRM
+    - Data
   description: 'Introduction The base URL for all of the requests detailed in this documentation is: https://api. ontraport. com/1/ All requests must be made over HTTPS. Any insecure requests are redirected to the H. Ontraport API for marketing automation'
   uri: https://api.ontraport.com/doc/
   is_paid: false
@@ -13094,12 +13061,12 @@
 - name: Open Access Button
   slug: open-access-button
   categories:
-    - Documents & Productivity
     - News & Feeds
     - Content & Dictionaries
     - Data
     - Science & Math
     - Search
+    - Documents & Productivity
   description: Free, legal research articles delivered instantly or automatically requested from authors.
   uri: https://openaccessbutton.org/api
   is_paid: false
@@ -13108,10 +13075,10 @@
 - name: Open Brewery DB
   slug: open-brewery-db
   categories:
-    - Data
-    - Reference
     - Point of Interest
     - Food & Drinks
+    - Data
+    - Reference
   description: The goal of Open Brewery DB is to maintain an open-source, community-drive. About Open Brewery DB is a free dataset and API with public information on breweries, cideries, brewpubs, and bottleshops
   uri: https://www.openbrewerydb.org
   is_paid: false
@@ -13121,10 +13088,10 @@
 - name: Open Charge Map
   slug: open-charge-map
   categories:
+    - Vehicle
     - Environment
     - Transportation
     - Maps & Geo
-    - Vehicle
   description: Open Charge Map is a non-commercial, non-profit, electric vehicle data service hosted and supported by a community of businesses, charities, developers and interested parties around the world.
   uri: https://openchargemap.org/site/develop/api
   is_paid: false
@@ -13144,10 +13111,10 @@
 - name: Open Food Facts
   slug: open-food-facts
   categories:
-    - Sport & Fitness
-    - Data
     - Food & Drinks
     - Products
+    - Sport & Fitness
+    - Data
   description: Open Food Facts is a database of food products with ingredients, allergens, nutrition facts and all the tidbits of information we can find on product labels.
   uri: https://en.wiki.openfoodfacts.org/API
   is_paid: false
@@ -13309,13 +13276,13 @@
 - name: Open Notify
   slug: open-notify
   categories:
+    - Fun
+    - Real Time
+    - Notifications
     - Events
     - Science & Math
     - Tools
     - Space
-    - Fun
-    - Real Time
-    - Notifications
   description: 'API Examples Current ISS Location The International Space Station is moving at close to 28,000 km/h so its location changes really fast! Where is it right now? Documentation: ISS Location Now Examp'
   uri: http://open-notify.org/Open-Notify-API/
   is_paid: false
@@ -13337,9 +13304,9 @@
 - name: Open Science Framework
   slug: open-science-framework
   categories:
-    - Science & Math
     - Collaboration
     - Files & Storage
+    - Science & Math
   description: "Hosted on the Open Science Framework\n.  \n A place for people to comment on the public OSF API. \n A place for people to comment on the public OSF API.  See the links below for more information, including changelogs and examples.  Commenting is accessed via the blue word balloons in the upper-right hand corner of this screen"
   uri: https://osf.io/y9jdt/wiki/home/
   is_paid: false
@@ -13515,8 +13482,8 @@
 - name: OpenWeatherMap
   slug: openweathermap
   categories:
-    - Maps & Geo
     - Weather
+    - Maps & Geo
   description: |-
     Simple and fast and free weather API from OpenWeatherMap you have access to current weather data, hourly, 5- and 16-day forecasts. Simple and fast and free weather API from OpenWeatherMap you have access to current weather data, hourly, 5- and 16-day forecasts. Historical weather data for 40 years back for any coordinate. Weather maps, UV Index, air pollution
      and historical data
@@ -13592,10 +13559,10 @@
 - name: Orange SMS API
   slug: orange-sms-api
   categories:
+    - Worldwide
     - Chats & Messaging
     - Communications
     - Marketing & SEO
-    - Worldwide
   description: The SMS Service,allows you to send and receive text messages, of up to 160 characters, to and from a mobile phone
   uri: https://developer.orange.com/apis/sms-ml
   is_paid: false
@@ -13646,8 +13613,8 @@
     - Office
     - Documents & Productivity
     - Conversions
-    - Other
-  description: Easily Convert URLs / Webpages or HTML to PDF in any Programming Language or on the Command Line! Options for page format, layout, headers, footers, watermarking and more. . RESTful API that converts webpages to PDF quickly and even does entire websites to PDF
+    - Scrapers & Data Mining
+  description: Easily Convert URLs / Webpages or HTML to PDF in any Programming Language or on the Command Line! Options for page format, layout, headers, footers, watermarking and more. RESTful API that converts webpages to PDF quickly and even does entire websites to PDF
   uri: https://pdfmyurl.com/html-to-pdf-api
   is_paid: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pdfmyurl/logo_256x256.png
@@ -13693,12 +13660,7 @@
 - name: PageCDN
   slug: pagecdn
   categories:
-    - Cloud
-    - Content & Dictionaries
     - Development
-    - Library
-    - Tools
-    - Other
   description: PageCDN provides a state of the art opensource content delivery network that uses brotli-11 compression. Public CDN API consists of endpoints that help you get different kind of information from projects available on PageCDN's Public CDN
   uri: https://pagecdn.com/docs/public-api
   is_paid: false
@@ -13708,10 +13670,10 @@
 - name: PandaScore
   slug: pandascore
   categories:
+    - Sport & Fitness
     - Entertainment
     - Games
     - Data
-    - Sport & Fitness
   description: Get events and detailed match data in real time from major league tournaments, or fetch data about players, tournaments, leagues, matches, teams and more !  Pandascore, the e-sports data and live API.
   uri: https://pandascore.co
   is_paid: false
@@ -13764,7 +13726,6 @@
 - name: Pastebin
   slug: pastebin
   categories:
-    - Other
     - Text
     - Files & Storage
   description: Pastebin is a website where you can store text online for a set period of time. Quickly share text or code, with support for over 250 languages for syntax highlighting.  Pastebin. com is the number one paste tool since 2002
@@ -13785,10 +13746,10 @@
 - name: PayPal
   slug: paypal
   categories:
-    - Payments
     - Authentication & User Management
     - Commerce
     - Finance & Economics
+    - Payments
   description: Enables your customers to sign in to your web site quickly and securely using their PayPal login credentials
   uri: https://developer.paypal.com/docs/integration/direct/identity/log-in-with-paypal/
   is_paid: false
@@ -13963,7 +13924,6 @@
   categories:
     - Authentication & User Management
     - Testing
-    - Other
   description: Random User Generator + OpenID Connect Provider.  Like Lorem Ipsum, but for user accounts and authentication
   uri: https://www.phantauth.net/
   is_paid: false
@@ -14020,9 +13980,9 @@
 - name: Picatic
   slug: picatic
   categories:
+    - Events
     - Payments
     - Authentication & User Management
-    - Events
   description: Sell tickets directly from your app or website. The ticketing and event management platform that puts the power in your hands
   uri: http://developer.picatic.com/?utm_medium=web&utm_source=github&utm_campaign=public-apis%20repo&utm_content=abhishekbanthia
   is_paid: false
@@ -14080,8 +14040,8 @@
 - name: Pixabay
   slug: pixabay
   categories:
-    - Development
     - Photography
+    - Development
   description: Restful API for searching and retrieving free images and videos. Documentation to Pixabay's API for searching and retrieving free images and videos
   uri: https://pixabay.com/api/docs/
   is_paid: false
@@ -14109,10 +14069,10 @@
 - name: PlaceKitten
   slug: placekitten
   categories:
-    - Art & Design
-    - Fun
     - Development
     - Animals
+    - Art & Design
+    - Fun
   description: A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code. Kitten-themed placeholder images for developers :3
   uri: https://placekitten.com/
   is_paid: false
@@ -14132,9 +14092,9 @@
 - name: Plaid
   slug: plaid
   categories:
+    - Finance & Economics
     - Analytics
     - Payments
-    - Finance & Economics
   description: Plaid helps companies build fintech solutions by making it easy, safe and reliable for people to connect their financial data to apps and services. You&apos;ve reached this page unjustly"
   uri: https://plaid.com/
   is_paid: false
@@ -14211,8 +14171,8 @@
 - name: Pocket
   slug: pocket
   categories:
-    - Documents & Productivity
     - Bookmarks
+    - Documents & Productivity
   description: When you find something you want to view later, put it in Pocket. When you find something you want to view later, put it in Pocket
   uri: https://getpocket.com/developer/
   is_paid: false
@@ -14262,9 +14222,9 @@
 - name: Pocket Network
   slug: pocket-network
   categories:
+    - Data
     - Blockchain & Cryptocurrencies
     - Development
-    - Data
   description: 'Pocket proportionally rewards the participating nodes with native cryptographic tokens POKT. Reliability: Pocket allows a developer to constantly keep their DApp running with confidence and wit. . Pocket provides a trustless API Layer, allowing easy access to any blockchain. Pocket is a distributed network that relays data requests and responses to and from any blockchain system'
   uri: https://docs.pokt.network/docs
   is_paid: false
@@ -14295,8 +14255,8 @@
 - name: Pokéapi
   slug: pokeapi
   categories:
-    - Games
     - Entertainment
+    - Games
   description: This is a full RESTful API linked to an extensive database detailing everything about the Pokémon main game series.  We've covered everything from Pokémon to Berry Flavors
   uri: https://pokeapi.co/
   is_paid: false
@@ -14490,8 +14450,8 @@
 - name: Portfolio Optimizer
   slug: portfolio-optimizer
   categories:
-    - Science & Math
     - Finance & Economics
+    - Science & Math
   description: API for investment portfolio optimization.  The science of portfolio optimization, available as a Web API
   uri: https://portfoliooptimizer.io/
   is_paid: false
@@ -14502,8 +14462,8 @@
 - name: PostcodeData.nl
   slug: postcodedata-nl
   categories:
-    - Post & Logistics
     - Maps & Geo
+    - Post & Logistics
   description: '{"status":"ok","details":[{"street":"Stationsstraat","city":"Hilversum","municipality":"Hilversum","province":"Noord-Holland","postcode":"1211 EP","pnum":"1211","pchar":"EP","rd_x":"140707. {"status":"ok","details":[{"street":"Stationsstraat","city":"Hilversum","municipality":"Hilversum","province":"Noord-Holland","postcode":"1211 EP","pnum":"1211","pchar":"EP","rd_x":"140707. 47566666'
   uri: http://api.postcodedata.nl/v1/postcode/?postcode=1211EP&streetnumber=60&ref=domeinnaam.nl&type=json
   is_paid: false
@@ -14512,8 +14472,8 @@
 - name: Postcodes.io
   slug: postcodes-io
   categories:
-    - Post & Logistics
     - Maps & Geo
+    - Post & Logistics
   description: Search, validate and reverse geocode postcodes. An open sourced project by Ideal Postcodes. Free UK postcode lookup API and datasets. An open sourced project by Ideal Postcodes
   uri: https://postcodes.io
   is_paid: false
@@ -14707,8 +14667,8 @@
 - name: Prague Opendata
   slug: prague-opendata
   categories:
-    - Data
     - Government
+    - Data
   description: Prague City Open Data.  Vítejte na celoměstském portálu pro otevřená data hlavního města Prahy. Zde magistrát hlavního města, příspěvkové organizace, městské části a další související subjekty zveřejňují data ve strojově
   uri: https://opendata.praha.eu/en
   is_paid: false
@@ -14717,12 +14677,12 @@
 - name: PrexView
   slug: prexview
   categories:
-    - Integration
-    - Tools
     - Payments
     - Documents & Productivity
     - Art & Design
     - Images
+    - Integration
+    - Tools
   description: Transform your data from XML or JSON to high quality, beautiful and readable documents in PDF, HTML, PNG or JPG. Transform your data from XML or JSON to high quality, beautiful and readable documents in PDF, HTML, PNG or JPG
   uri: https://prexview.com
   is_paid: false
@@ -14759,11 +14719,11 @@
 - name: Product Hunt
   slug: product-hunt
   categories:
+    - Commerce
     - Products
     - Applications
     - Jobs
     - Marketing & SEO
-    - Commerce
   description: The best new products, every day. Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone's talking about
   uri: https://api.producthunt.com/v2/docs
   is_paid: false
@@ -14816,9 +14776,9 @@
 - name: ProxyCrawl
   slug: proxycrawl
   categories:
+    - Captcha
     - Development
     - Scrapers & Data Mining
-    - Captcha
   description: Crawl and scrape websites without the need of proxies, infrastructure or browsers. ProxyCrawl solve captchas for you and prevent you being blocked while speeding up your development. ProxyCrawl all in one data crawling and scraping platform for business developers
   uri: https://proxycrawl.com
   is_paid: false
@@ -15007,10 +14967,10 @@
 - name: QR Code API
   slug: qr-code-api
   categories:
+    - Social
     - Bar & QR Codes
     - Development
     - Tools
-    - Social
   description: QR Code REST API. Can create QR code images or read existing images and return the contents
   uri: https://fungenerators.com/api/qrcode/
   is_paid: false
@@ -15040,10 +15000,10 @@
 - name: Qriusity
   slug: qriusity
   categories:
-    - Education
     - Entertainment
     - Games
     - Trivia
+    - Education
   description: ""
   uri: http://ww38.qriusity.com/
   is_paid: false
@@ -15052,8 +15012,8 @@
 - name: Quandl
   slug: quandl
   categories:
-    - Data
     - Search
+    - Data
   description: The source for financial, economic, and alternative datasets, serving investment professionals.  The source for financial, economic, and alternative datasets, serving investment professionals
   uri: https://www.quandl.com/
   is_paid: false
@@ -15186,11 +15146,9 @@
 - name: QuickChart
   slug: quickchart
   categories:
-    - Charts
-    - Data
     - Visualizations
-    - Other
-  description: Open source, no watermarks. . Create a chart image with one API call and embed it anywhere. Send charts in email and other platforms
+    - Data
+  description: Create a chart image with one API call and embed it anywhere. Send charts in email and other platforms
   uri: https://quickchart.io
   is_paid: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/quickchart/logo_256x256.png
@@ -15199,9 +15157,9 @@
 - name: Quidax Merchant
   slug: quidax-merchant
   categories:
-    - Finance & Economics
     - Blockchain & Cryptocurrencies
     - Currency
+    - Finance & Economics
   description: Buy, sell and store Bitcoin, Ethereum, Ripple (XRP), Litecoin & other cryptocurrencies with Naira. Quidax is simple, secure and safe. . Our API makes it easy to integrate fiat currencies and cryptocurrencies such as; Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), XRP and several others into new and existing applications
   uri: https://www.quidax.com/developers/api_v2
   is_paid: false
@@ -15240,7 +15198,6 @@
   slug: quotes-api
   categories:
     - Quotes
-    - Other
   description: They Said So. Quotes API with lot of features
   uri: http://quotes.rest
   is_paid: false
@@ -15279,9 +15236,9 @@
 - name: REST Countries
   slug: rest-countries
   categories:
-    - Maps & Geo
     - Reference
     - Worldwide
+    - Maps & Geo
   description: Get information about countries via a RESTful API. Get information about countries via a RESTful API
   uri: https://restcountries.eu
   is_paid: false
@@ -15300,9 +15257,9 @@
 - name: Random Data Generator
   slug: random-data-generator
   categories:
-    - Development
     - Random
     - Content & Dictionaries
+    - Development
   description: You have 1000 daily quota calls for your project. API Generator for telephones, text, numbers, passwords, names, social security numbers, and cards.  Use Randommer free REST API to generate numbers, telephone, validate phone numbers, calculate hashes, get american names,and generate placeholder text
   uri: https://randommer.io/randommer-api
   is_paid: false
@@ -15324,11 +15281,11 @@
 - name: Random Facts Api
   slug: random-facts-api
   categories:
+    - Reference
+    - Trivia
     - Content & Dictionaries
     - Entertainment
     - Random
-    - Reference
-    - Trivia
   description: Get random Facts on different topics
   uri: https://fungenerators.com/api/facts/
   is_paid: false
@@ -15370,7 +15327,6 @@
   slug: randomusergenerator
   categories:
     - Testing
-    - Other
   description: Random user generator is a FREE API for generating placeholder user information.  Get profile photos, names, and more. It's like Lorem Ipsum, for people.  Random user generator is a FREE API for generating placeholder user information
   uri: https://randomuser.me/
   is_paid: false
@@ -15402,9 +15358,9 @@
 - name: Recast.AI
   slug: recast-ai
   categories:
+    - Text Analysis
     - Bots
     - AI & ML
-    - Text Analysis
   description: Collaborative chatbot software. Recast.AI provides an NLP API for text analysis and entity extraction. The leading platform to build, connect and monitor bots
   uri: https://recast.ai
   is_paid: false
@@ -15540,8 +15496,8 @@
 - name: Redtube Api
   slug: redtube-api
   categories:
-    - Entertainment
     - Adult
+    - Entertainment
   description: The Redtube API.  RedTube API Documentation Welcome to the RedTube API developer documentation! Here you can find detailed information needed to get data and integrate RedTube videos on your website or application
   uri: https://api.redtube.com/docs
   is_paid: false
@@ -15594,12 +15550,12 @@
 - name: ReqRes
   slug: reqres
   categories:
-    - Authentication & User Management
     - Data
     - Testing
     - Development
     - Tools
     - Applications
+    - Authentication & User Management
   description: A hosted REST-API ready to respond to AJAX requests
   uri: https://reqres.in/
   is_paid: false
@@ -15608,10 +15564,10 @@
 - name: Request Kittens
   slug: request-kittens
   categories:
-    - Animals
-    - Databases
     - Images
     - Recognition
+    - Animals
+    - Databases
   description: GET http://requestkittens. com/cats A randomized set of category-specific cat images.  The meat of the API. Authorization required.  Pass your API key as the 'Authorization' header. Parameter Accepted
   uri: http://joshwcomeau.github.io/RequestKittensDocs/public/
   is_paid: false
@@ -15635,8 +15591,8 @@
 - name: Restpack
   slug: restpack
   categories:
-    - Documents & Productivity
     - Development
+    - Documents & Productivity
   description: Restpack is a company focused on building great restful microservices for developers and businesses. Restpack is a company focused on building great restful microservices for developers and businesses
   uri: https://restpack.io/
   is_paid: false
@@ -15717,9 +15673,9 @@
 - name: Rijksmuseum
   slug: rijksmuseum
   categories:
-    - Art & Design
     - Education
     - Point of Interest
+    - Art & Design
   description: The Rijksmuseum links individuals with art and history. Our data services are important building blocks for this. That is why we offer them in different ways, guided by the Rijksmuseum’s progressive Open Data policy and inspired by the FAIR data principles.  The Rijksmuseum links individuals with art and history.
   uri: https://www.rijksmuseum.nl/en/api
   is_paid: false
@@ -15810,9 +15766,9 @@
 - name: Robohash Image Generator
   slug: robohash-image-generator
   categories:
+    - Social
     - Images
     - Robots
-    - Social
   description: Generates cool looking robot image for any text
   uri: https://www.mashape.com/blaazetech/robohash-image-generator
   is_paid: false
@@ -15822,7 +15778,7 @@
 - name: Rocketium Video API
   slug: rocketium-video-api
   categories:
-    - Other
+    - Video & Media
     - Marketing & SEO
   description: Create multiple videos with your logo, captions, and background music in different aspect ratios. Check it out!. Rocketium Video API allows you to create Buzzfeed-like videos programmatically. Make video and image assets automatically using Rocketiumâ€™s video API
   uri: https://rocketium.com/api/?utm_source=github&utm_medium=repository&utm_campaign=abhishekbanthia&utm_content=api_solution
@@ -15894,8 +15850,8 @@
 - name: Russian Central Bank
   slug: russian-federation
   categories:
-    - Finance & Economics
     - Government
+    - Finance & Economics
   description: Central bank of Russian Federation
   uri: https://www.cbr.ru/development/
   is_paid: false
@@ -15905,11 +15861,11 @@
 - name: Ryft
   slug: ryft
   categories:
+    - Analytics
+    - AI & ML
     - Big Data
     - Data
     - Real Time
-    - Analytics
-    - AI & ML
   description: Try refining your search, or use the navigation above to locate the post. integrate the Ryft ONE’s data analysis capabilities into existing big data environments for faster data analysis and real-time intelligence.  No Results Found The page you requested could not be found
   uri: http://www.ryft.com/api
   is_paid: false
@@ -15937,9 +15893,9 @@
 - name: SMMRY
   slug: smmry
   categories:
-    - Text Analysis
     - Text
     - Tools
+    - Text Analysis
   description: Summarize articles, text, websites, essays and documents for free with SMMRY. Summarize articles, text, websites, essays and PDF documents online for free with SMMRY
   uri: https://smmry.com/api
   is_paid: false
@@ -15996,10 +15952,10 @@
 - name: Salesforce
   slug: salesforce
   categories:
-    - CRM
     - Office
     - Authentication & User Management
     - Business
+    - CRM
   description: This simple RESTful interface is powerful, convenient, and great for writing mobile and web apps. Salesforce uses the OAuth protocol to allow users of applications to securely access data without having to reveal username and password credentials.  Buildversatile and lightweight solutions that integrate your Salesforce data using REST API
   uri: https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/intro_understanding_authentication.htm
   is_paid: false
@@ -16055,9 +16011,9 @@
 - name: Scrape Website Email
   slug: scrape-website-email
   categories:
+    - Email & SMS
     - Development
     - Scrapers & Data Mining
-    - Email & SMS
   description: Grabs email addresses from a URL
   uri: https://market.mashape.com/tommytcchan/scrape-website-email
   is_paid: false
@@ -16067,11 +16023,11 @@
 - name: Scrapeboss
   slug: scrapeboss
   categories:
+    - Scrapers & Data Mining
     - Automation
     - Social
     - Content & Dictionaries
     - News & Feeds
-    - Scrapers & Data Mining
   description: Contact with an owner of ScrapeBoss. com domain name. Return developer friendly JSON data for almost any article
   uri: https://scrapeboss.com/
   is_paid: false
@@ -16082,8 +16038,7 @@
   slug: scraper-api
   categories:
     - Scrapers & Data Mining
-    - Other
-  description: Get started with 1000 free API calls!. Scraper API handles proxies, browsers, and CAPTCHAs so developers can easily build scalable web scrapers.  Scraper API is a web scraping API that handles proxy rotation, browsers, and CAPTCHAs so developers can scrape any page with a single API call
+  description: Scraper API is a web scraping API that handles proxy rotation, browsers, and CAPTCHAs so developers can scrape any page with a single API call
   uri: https://www.scraperapi.com
   is_paid: false
   type: REST
@@ -16100,10 +16055,10 @@
 - name: Scrapestack
   slug: scrapestack
   categories:
-    - Development
     - Data
     - Scrapers & Data Mining
     - Search
+    - Development
   description: Use our proxy and web scraping REST API to extract html data from any web page, supporting 100 geolocations, CAPTCHAs and IP rotation for millions of IPs. The scrapestack API was built to offer a free, real-time scraping and proxy REST API, handling CAPTCHAs, browsers, IP blocks, and more.  Simply send a valid website URL and the scrapestack API will return its full HTML content - as seen in the browser, including JavaScript rendering
   uri: https://scrapestack.com
   is_paid: false
@@ -16123,9 +16078,9 @@
 - name: ScreenShotLayer
   slug: screenshotlayer
   categories:
+    - Art & Design
     - Photography
     - Collaboration
-    - Art & Design
   description: Free for personal use. Free URL to Screenshot API - capture crisp and clean snapshots of any website, with any device, any setting and lightning fast
   uri: https://screenshotlayer.com
   is_paid: false
@@ -16162,8 +16117,8 @@
 - name: Screenshotscloud
   slug: screenshotscloud
   categories:
-    - Images
     - Scrapers & Data Mining
+    - Images
   description: With this screenshot API you can automate high quality real browser screenshots in seconds using reliable CDN backed queueless API service. JPEG, PNG or PDF output available
   uri: https://screenshots.cloud/
   is_paid: false
@@ -16202,9 +16157,9 @@
 - name: Scribble
   slug: scribble
   categories:
+    - URLs
     - Maps & Geo
     - Bookmarks
-    - URLs
   description: For large organizations we can also assist in building you a custom Scribble. The Scribble Maps API is a cross browser, mobile ready, HTML5/JavaScript, interactive map builder.  Scribble Maps for Developers Scribble Maps can help you quickly integrate geo data/functionality into your application
   uri: https://www.scribblemaps.com/api/
   is_paid: false
@@ -16213,8 +16168,8 @@
 - name: Scryfall
   slug: scryfall
   categories:
-    - Games
     - Entertainment
+    - Games
   description: 'Scryfall is a powerful Magic: The Gathering card search'
   uri: https://scryfall.com/docs/api
   is_paid: false
@@ -16316,8 +16271,8 @@
 - name: Sharedcount
   slug: sharedcount
   categories:
-    - Analytics
     - Social
+    - Analytics
   description: Social media like and share data for any URL.
   uri: http://docs.sharedcount.com/
   is_paid: false
@@ -16346,9 +16301,9 @@
 - name: Sheetsu
   slug: sheetsu
   categories:
-    - Conversions
     - Databases
     - Documents & Productivity
+    - Conversions
   description: Get data from Google Spreadsheet in a matter of seconds.  You can copy the HTML Snippet and paste it into your website without any code. If you are developer, you can use one of many languages or frameworks Sheetsu supports like Ruby, Node, React, JavaScript Python, PHP, JQuery, C#, Swift, or R. Turn Google Spreadsheets into an API
   uri: https://docs.sheetsu.com
   is_paid: false
@@ -16484,11 +16439,11 @@
 - name: Shutterstock
   slug: shutterstock
   categories:
-    - Photography
     - Images
     - Search
     - Music & Audio
     - Video & Media
+    - Photography
   description: Streamline user experience with the stock image, video, and music API trusted by Facebook, Google, Wix, and more. Get started with a free image API today. The Shutterstock API provides access to Shutterstock's library of media, as well as information about customers' accounts and the contributors that provide the media. It allows customer platforms to search for media, view information and previews for the media, and license and download media
   uri: https://www.shutterstock.com/developers/
   is_paid: false
@@ -16592,9 +16547,9 @@
 - name: Sketchfab API
   slug: sketchfab-api
   categories:
-    - Virtual & Augmented Reality
     - Images
     - Social
+    - Virtual & Augmented Reality
   description: Manage your 3D assets. Distribute 3D & AR experiences. Collaborate with others. Showcase your work. Buy & sell 3D models. Lets you build 3D/VR experiences that work across all devices and all browsers. Also, natively integrated into 80+ social networks, forums, and other sharing platforms such as Facebook, Twitter, LinkedIn, and many others.
   uri: https://sketchfab.com/developers
   is_paid: false
@@ -16613,16 +16568,16 @@
 - name: Skywatch
   slug: skywatch
   categories:
-    - Big Data
-    - Business
-    - Maps & Geo
-    - DevOps
-    - Images
-    - Environment
-    - Analytics
-    - AI & ML
-    - Space
     - Data
+    - Space
+    - Analytics
+    - Business
+    - DevOps
+    - Big Data
+    - AI & ML
+    - Maps & Geo
+    - Environment
+    - Images
   description: Instead, EarthCache allows development teams to focus on the business application and in delivering actionable intelligence to the end-user. Search for and retrieve Earth observation data in a fully autonomous manner via our APIs. Contact SkyWatch for access to documentation and more information on pricing.  SkyWatch provides a digital infrastructure for the distribution of Earth observation data and derived intelligence. SkyWatch EarthCache™ provides developers with the tools they need to cost-effectively add Earth observation data into their applications and workflows. SkyWatch removes the complexity out of Earth observation data sourcing and processing so developers can focus on what matters. Adopting EarthCache into your development environment eliminates the need for multiple integrations and costly multi-point searches
   uri: https://www.skywatch.com/
   is_paid: false
@@ -16632,11 +16587,11 @@
 - name: Slack
   slug: slack
   categories:
+    - Tools
+    - Collaboration
     - Files & Storage
     - Search
     - Social
-    - Tools
-    - Collaboration
   description: Slack APIs allow you to integrate complex services with Slack to go beyond the integrations we provide out of the box. . Slack APIs allow you to integrate complex services with Slack to go beyond the integrations we provide out of the box
   uri: https://api.slack.com/
   is_paid: false
@@ -16730,10 +16685,10 @@
 - name: Smartcar
   slug: smartcar
   categories:
-    - Vehicle
     - Development
     - Maps & Geo
     - Transportation
+    - Vehicle
   description: Build web and mobile apps that communicate with vehicles
   uri: https://smartcar.com/docs/
   is_paid: false
@@ -16801,9 +16756,9 @@
 - name: Sms And Phone Calls Api - 46elks
   slug: sms-and-phone-calls-api-46elks
   categories:
-    - Communications
     - Voice
     - Email & SMS
+    - Communications
   description: ). Integrate SMS, MMS and Phone calls into your applications with just a few lines of code. Transparent pricing, no startup fees, no minimum monthly costs. API for telephony (phone calls, sms, mms, viop
   uri: https://46elks.com
   is_paid: false
@@ -16945,9 +16900,9 @@
 - name: SparkPost
   slug: sparkpost
   categories:
+    - Email & SMS
     - Analytics
     - Chats & Messaging
-    - Email & SMS
   description: SparkPost is a cloud based email delivery service that sends 25% of the worlds legitimate emails. Emails are delivered to the inbox quickly via a RESTful API or SMTP.
   uri: https://developers.sparkpost.com
   is_paid: false
@@ -17118,8 +17073,7 @@
 - name: Spreaker
   slug: spreaker
   categories:
-    - Podcasts
-    - Other
+    - Music & Audio
   description: Enables developers to read and write data to Spreaker.  Get started with one of our guides, or jump straight into the API documentation
   uri: https://developers.spreaker.com/
   is_paid: false
@@ -17129,11 +17083,11 @@
 - name: Square
   slug: square
   categories:
-    - Finance & Economics
     - Payments
     - Business
     - Mobile
     - Commerce
+    - Finance & Economics
   description: Square provides support and tools for you to build apps for today’s business needs. . Build customized solutions that accept payments (online, in-person, or in-app), manage products and customers, and handle the day-to-day operations that keep business running. Square APIs are powerful, secure, reliable, and free to use.  Use our Developer APIs to build on the platform that sellers trust
   uri: https://developer.squareup.com/us/en
   is_paid: false
@@ -17189,8 +17143,8 @@
 - name: Starwars Translations Api
   slug: starwars-translations-api
   categories:
-    - Entertainment
     - Translation
+    - Entertainment
   description: Translate from imperial language ( English that is ) to one of the Starwars language. Yoda, Sith, Gungan ( Jar Jar Binks ), Cheunh, Huttese, Mandalorian etc
   uri: https://funtranslations.com/api/starwars
   is_paid: false
@@ -17230,9 +17184,9 @@
 - name: Strava
   slug: strava
   categories:
-    - Maps & Geo
     - Sport & Fitness
     - Social
+    - Maps & Geo
   description: API for accessing and managing data about athletes, activities and segments.  Strava API usage is limited on a per-application basis using a short term, 15 minute, limit and a long term, daily, limit. The default rate limit allows 600 requests every 15 minutes, with up to 30
   uri: https://strava.github.io/api/
   is_paid: false
@@ -17342,9 +17296,9 @@
 - name: Stripe
   slug: stripe
   categories:
+    - Finance & Economics
     - Commerce
     - Payments
-    - Finance & Economics
   description: Complete reference documentation for the Stripe API. Includes representative code snippets and examples for our Python, Java, PHP, Node. js, Go, Ruby, and . NET client libraries. Allows both private individuals and businesses to accept payments over the Internet
   uri: https://stripe.com/docs/api
   is_paid: false
@@ -17458,12 +17412,12 @@
 - name: SummarizeBot API
   slug: summarizebot-api
   categories:
-    - AI & ML
-    - News & Feeds
     - Text Analysis
     - Images
     - Scrapers & Data Mining
     - Documents & Productivity
+    - AI & ML
+    - News & Feeds
   description: Multilingual summarization, keywords and sentiment analysis, language recognition, article extraction, comments identification, multimedia analysis, image and face recognition solutions. Integrate our premium text and image analysis APIs into applications that may require artificial intelligence features.
   uri: https://www.summarizebot.com/summarization_business.html
   is_paid: false
@@ -17499,9 +17453,9 @@
 - name: SuredBits
   slug: suredbits
   categories:
-    - Sport & Fitness
     - Blockchain & Cryptocurrencies
     - Analytics
+    - Sport & Fitness
   description: Lightning API for real-time and historical data feeds. Lightning API for real-time and historical data feeds
   uri: https://suredbits.com/api/
   is_paid: false
@@ -17712,8 +17666,8 @@
 - name: Tardis.Dev
   slug: tardis-dev
   categories:
-    - Finance & Economics
     - Blockchain & Cryptocurrencies
+    - Finance & Economics
   description: "Tardis. \n\nRaw historical market data is available both in exchange native and normalized formats and includes full order book depth snapshots plus incremental updates, tick-by-tick trades, historical open interest, funding, index and mark prices. io Futures, Gate. dev is the the most comprehensive digital assets data platform, providing access to high frequency historical raw tick data for a wide range of use cases such as market microstructure and order book dynamics research, liquidity and lead-lag analysis, trading execution optimization, backtesting and optimization of trading strategies, full historical order book reconstruction at any given point in time, training machine learning models, alpha generation, designing quantitative models, academics research, data visualizations and more. dev provides historical tick-level cryptocurrency market data API that enables optimization and backtesting of latency-sensitive trading strategies, market microstructure research, historical full order book reconstruction and more.  Historical tick-level order book data, tick-by-tick trades, quotes, open interest, funding, liquidations, options chains and more. io and top digital assets such as Bitcoin, Ethereum, Litecoin, Ripple, Cardano, BNB, LEO as well as Bitcoin and Ether derivatives (Options, Futures and Perpetual Swaps).  Tardis.  BitMEX, Deribit, Binance Perpetual Futures, Binance Delivery Futures, Binance Spot, FTX, OKEx Futures, OKEx Swap, OKEx Options, OKEx Spot, Huobi Futures, Huobi Swap, Huobi Global, Bitfinex Derivatives, Bitfinex Spot, Kraken Futures (Crypto Facilities), Kraken, Bitstamp, Coinbase Pro, Gemini, Poloniex, CoinFLEX, Bybit, Phemex, FTX US, OKCoin, bitFlyer, HitBTC, Delta, Binance US, Binance UK, Binance Jersey, Binance DEX, Gate. Real-time consolidated market data streaming API via client libraries that connect directly to exchanges' WebSocket APIs. API access and downloadable CSV files"
   uri: https://tardis.dev
   is_paid: false
@@ -17726,7 +17680,6 @@
     - Books
     - Entertainment
     - Games
-    - Podcasts
     - Music & Audio
     - AI & ML
   description: The TasteDive API can be used to integrate recommendations in other products. The TasteDive API can be used to integrate recommendations in other products
@@ -17758,11 +17711,11 @@
 - name: Telegram
   slug: telegram
   categories:
-    - Mobile
     - Photography
     - Video & Media
     - Social
     - Chats & Messaging
+    - Mobile
   description: We offer two kinds of APIs for developers.  The Bot API allows you to easily create programs that use Telegram messages for…. The Telegram API allows you to build your own customized Telegram clients
   uri: https://core.telegram.org/
   is_paid: false
@@ -17844,12 +17797,12 @@
 - name: Telegram Bot
   slug: telegram-bot
   categories:
-    - AI & ML
     - Chats & Messaging
     - Mobile
     - Social
     - Bots
     - Cloud
+    - AI & ML
   description: "The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram. The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram. \nTo learn how to create…"
   uri: https://core.telegram.org/bots/api
   is_paid: false
@@ -17976,10 +17929,10 @@
 - name: Teleport
   slug: teleport
   categories:
-    - Video & Media
-    - Data
     - News & Feeds
     - Images
+    - Video & Media
+    - Data
   description: Welcome to Teleport for Developers! We're building the largest and most up-to-date quality of life database for Planet Earth using 300+ different data dimensions from 70+ different sources, all upd
   uri: https://developers.teleport.org/
   is_paid: false
@@ -17994,9 +17947,9 @@
 - name: Telleroo
   slug: telleroo
   categories:
-    - Automation
     - Finance & Economics
     - Payments
+    - Automation
   description: 'com" API Sandbox: "https://sandbox. com" Welcome to Telleroo API documentation! You can use this API for sending payments out through bank. Send money through Telleroo''s API to any third party bank account.  Introduction API Production: "https://api. telleroo'
   uri: https://docs.telleroo.com/
   is_paid: false
@@ -18034,8 +17987,8 @@
 - name: Texas Holdem
   slug: texas-holdem
   categories:
-    - Casino & Gambling
     - Games
+    - Casino & Gambling
   description: With this API you can easily create a full Texas Holdem game, just create the graphic and associate it with the results
   uri: https://www.mashape.com/neurone/Texas-Holdem
   is_paid: false
@@ -18103,8 +18056,8 @@
 - name: The Cat Api
   slug: the-cat-api
   categories:
-    - Animals
     - Fun
+    - Animals
   description: A public service API all about cat pictures.  A public service API all about Cats, free to use when making your fancy new App, Website or Service
   uri: https://TheCatAPI.com
   is_paid: false
@@ -18114,8 +18067,8 @@
 - name: The Dog Api
   slug: the-dog-api
   categories:
-    - Fun
     - Animals
+    - Fun
   description: An API all about dogs.  A public service API all about Dogs, free to use when making your fancy new App, Website or Service
   uri: https://thedogapi.com
   is_paid: false
@@ -18153,8 +18106,8 @@
 - name: The Meal Db
   slug: the-meal-db
   categories:
-    - Open Source
     - Food & Drinks
+    - Open Source
   description: This food API is free to use and can get you recipes, food details, food names , meals by category, food images and more!. Support The API and site will always remain free at point of access
   uri: https://www.themealdb.com/api.php
   is_paid: false
@@ -18202,9 +18155,9 @@
 - name: The Shrimpy Universal Crypto Exchange Api
   slug: the-shrimpy-universal-crypto-exchange-api
   categories:
-    - Blockchain & Cryptocurrencies
     - Finance & Economics
     - Data
+    - Blockchain & Cryptocurrencies
   description: Collect real-time trade or order book data for free, manage user exchange accounts, execute trading strategies, and simplify the way you connect to each exchange.  The industry leading API for crypto trading, real-time data collection, and exchange account management. Shrimpy’s Universal Crypto Exchange APIs are the only unified APIs for crypto exchanges that are specifically designed for application developers
   uri: https://developers.shrimpy.io/
   is_paid: false
@@ -18234,9 +18187,9 @@
 - name: TheCocktailDB
   slug: thecocktaildb
   categories:
-    - Images
     - Open Source
     - Food & Drinks
+    - Images
   description: An open, crowd-sourced database of drinks and cocktails from around the world. A fee API to query a db of 1000s of cocktails, you can search for recipes, images of specific cocktails, ingredients, filter by alcoholic, non alcoholic and more with the Cocktails DB
   uri: https://www.thecocktaildb.com/api.php
   is_paid: false
@@ -18245,10 +18198,10 @@
 - name: TheSportsDB
   slug: thesportsdb
   categories:
-    - Sport & Fitness
-    - Art & Design
     - Databases
     - Images
+    - Sport & Fitness
+    - Art & Design
   description: Various sports events, results, players, teams and high quality artwork. TheSportsDB is an open, crowd sourced database of Sports metadata with Events, TV listings, Artwork, Scores and a free JSON Sports API
   uri: http://www.thesportsdb.com/
   is_paid: false
@@ -18258,9 +18211,9 @@
 - name: They Said So
   slug: they-said-so
   categories:
-    - Content & Dictionaries
     - Entertainment
     - Religion
+    - Content & Dictionaries
   description: '", "length": "71", "author": "Leo Durocher", "tags": [ "ins. Gives you a random quote per day.  { "success": { "total": 1 }, "contents": { "quotes": [ { "quote": "Win any way as long as you can get away with it.  Nice guys finish last'
   uri: http://quotes.rest/qod.json?category=inspire
   is_paid: false
@@ -18274,10 +18227,8 @@
 - name: ThingSpeak
   slug: thingspeak
   categories:
-    - IoT & Home Automation
-    - Other
     - Open Source
-    - Real Time
+    - IoT & Home Automation
   description: “Internet of Things” application and API to store and retrieve data from things using HTTP over the Internet or via a Local Area Network. ThingSpeak is an open source “Internet of Things” application and API to store and retrieve data from things using HTTP over the Internet or via a Local Area Network. With ThingSpeak, you can creat
   uri: https://github.com/iobridge/ThingSpeak
   is_paid: false
@@ -18296,9 +18247,9 @@
 - name: This Person Does not Exist
   slug: this-person-does-not-exist
   categories:
+    - Testing
     - AI & ML
     - Random
-    - Testing
   description: This Person Does Not Exist
   uri: https://thispersondoesnotexist.com
   is_paid: false
@@ -18364,10 +18315,10 @@
 - name: Tinypng
   slug: tinypng
   categories:
-    - Art & Design
     - Tools
     - Conversions
     - Images
+    - Art & Design
   description: TinyPNG API will help you compress and reduce the size of your JPEF and PNG files.  The first 500 API requests are free. Automate your JPEG and PNG compression workflow
   uri: https://tinypng.com/developers
   is_paid: false
@@ -18445,11 +18396,11 @@
 - name: Traitify
   slug: traitify
   categories:
+    - AI & ML
     - Testing
     - Health
     - Personality
     - Development
-    - AI & ML
   description: Traitify API documentation and developer portal. Traitify API documentation and developer portal
   uri: https://app.traitify.com/developer
   is_paid: false
@@ -18491,8 +18442,8 @@
 - name: Trakt
   slug: trakt
   categories:
-    - Video & Media
     - Entertainment
+    - Video & Media
   description: Trakt collect lots of information about what tv shows and movies everyone is watching.  A place where APIs are kept
   uri: https://trakt.docs.apiary.io/
   is_paid: false
@@ -18828,10 +18779,10 @@
 - name: Trash Nothing
   slug: trash-nothing
   categories:
-    - Social
     - Community
     - Environment
     - Commerce
+    - Social
   description: Developer API trash nothing! provides a REST API which allows developers to build apps on top of the trash nothing platform (with thousands of new posts every day and millions of users from around. Build apps on top of one of the largest freecycling and reuse communities with millions of people giving away thousands of free items every day
   uri: https://trashnothing.com/developer
   is_paid: false
@@ -18898,10 +18849,10 @@
 - name: Trefle
   slug: trefle
   categories:
+    - Environment
     - Agriculture
     - Data
     - Science & Math
-    - Environment
   description: Trefle is a botanical API and data source
   uri: https://trefle.io/
   is_paid: false
@@ -18910,10 +18861,10 @@
 - name: Trello
   slug: trello
   categories:
-    - Project Management
-    - Collaboration
     - Tasks
     - Business
+    - Project Management
+    - Collaboration
   description: You are being redirected.  You are being redirected
   uri: https://developers.trello.com/
   is_paid: false
@@ -19043,8 +18994,6 @@
 - name: Tronald Dump
   slug: tronald-dump
   categories:
-    - Other
-    - Entertainment
     - Fun
   description: Tronald Dump Api & web archive for the dumbest things Donald Trump has ever said
   uri: https://www.tronalddump.io/
@@ -19157,11 +19106,11 @@
 - name: Twilio
   slug: twilio
   categories:
-    - Webhooks
     - Email & SMS
     - Communications
     - Cloud
     - Voice
+    - Webhooks
   description: APIs for SMS, Voice, Video and more
   uri: https://www.twilio.com/solutions
   is_paid: false
@@ -19301,10 +19250,10 @@
 - name: Twilio API
   slug: twilio-api
   categories:
-    - Voice
-    - Webhooks
     - Cloud
     - Communications
+    - Voice
+    - Webhooks
   description: Send SMS super easy, API Documentation & Libraries for SMS, VoIP & Voice. With Twilio, unite communications and strengthen customer relationships across your business â€“ from marketing and sales to customer service and operations
   uri: https://www.twilio.com:443/
   is_paid: false
@@ -19335,8 +19284,8 @@
 - name: Twitter Sign-in
   slug: twitter-sign-in
   categories:
-    - Authentication & User Management
     - Social
+    - Authentication & User Management
   description: Works on websites, iOS, mobile and desktop applications. The browser log in flow is appropriate for websites and applications which are able to open or embed a web browser.
   uri: https://dev.twitter.com/web/sign-in
   is_paid: false
@@ -19346,10 +19295,9 @@
 - name: Typeform
   slug: typeform
   categories:
+    - Tools
     - Mobile
     - Forms & Surveys
-    - Other
-    - Tools
   description: Typeform's APIs allow you to create and edit Typeform surveys, and retrieve survey responses on demand. Welcome to Typeform’s APIs! With our APIs and developer tools, you can do everything from the basics, like tweak your themes and add new images to your account, to the most powerful features Typefo.
   uri: https://developer.typeform.com/
   is_paid: false
@@ -19392,10 +19340,10 @@
 - name: UK Police
   slug: uk-police
   categories:
-    - Worldwide
-    - Data
     - Security
     - Government
+    - Worldwide
+    - Data
   description: 'Police API Documentation The API provides a rich data source for information, including: Neighbourhood team members Upcoming events Street-level crime and outcome data Nearest police stations The A. Police API Documentation The API provides a rich data source for information, including: Neighbourhood team members Upcoming events Street-level crime and outcome data Nearest police stations The A'
   uri: https://data.police.uk/docs/
   is_paid: false
@@ -19409,12 +19357,12 @@
 - name: UPC database
   slug: upc-database
   categories:
-    - Products
     - Reference
     - Data
     - Bar & QR Codes
     - Databases
     - Commerce
+    - Products
   description: Integrate your own applications using our new API. Integrate your own applications using our new API
   uri: https://upcdatabase.org/api
   is_paid: false
@@ -19562,8 +19510,8 @@
 - name: USA Census API'S
   slug: usa-census-apis
   categories:
-    - Government
     - Data
+    - Government
   description: These data are currently used to distribute around $400 B in Federal, State and local funds in ways that help communities plan for schools, social and emergency services, highway improvements and economic developments. The API lets developers customize Census Bureau statistics into web or mobile apps that provide users quick and easy access from an every increasing pool of publicly available datasets
   uri: https://www.census.gov/data/developers/data-sets.html
   is_paid: false
@@ -19778,9 +19726,9 @@
 - name: Unix Timestamp Converteri
   slug: unix-timestamp-converteri
   categories:
+    - Conversions
     - Calendar & Time
     - Development
-    - Conversions
   description: "\uFEFF\x20\x55\x6E\x69\x78\x20\x54\x69\x6D\x65\x73\x74\x61\x6D\x70\x20\x43\x6F\x6E\x76\x65\x72\x74\x65\x72\x20\x41\x50\x49\x20\x55\x6E\x69\x78\x20\x54\x69\x6D\x65\x73\x74\x61\x6D\x70\x20\x63\x6F\x6E\x76\x65\x72\x74\x65\x72\x20\x52\x45\x53\x54\x20\x41\x50\x49\x20\x43\x6F\x6E\x76\x65\x72\x74\x20\x55\x6E\x69\x78\x20\x54\x69\x6D\x65\x73\x74\x61\x6D\x70\x73\x20\x74\x6F\x20\x44\x61\x74\x65\x54\x69\x6D\x65\x20\x6F\x62\x6A\x65\x63\x74\x73\x20\x61\x6E\x64\x20\x44\x61\x74\x65\x54\x69\x6D\x65\x20\x6F\x62\x6A\x65\x63\x74\x73\x20\x74\x6F\x20\x55\x6E\x69\x78\x20\x54\x69\x6D\x65\x73\x74\x61\x6D\x70\x73\x20\x54\x68\x69\x73\x20\x57\x65\x62\x53\x65\x72\x76\x69\x63\x65\x20\x77\x61\x73\x20\x62\x75\x69\x6C\x74\x20\x69\x6E\x20\x32\x30\x20\x6D\x69\x6E\x75\x74\x65\x73\x20\x75\x73\x69\x6E\x67\x20\x4C\x69\x2E\x20\x43\x6F\x6E\x76\x65\x72\x74\x20\x55\x4E\x49\x58\x20\x74\x69\x6D\x65\x73\x74\x61\x6D\x70\x73\x20\x74\x6F\x20\x64\x61\x74\x65\x74\x69\x6D\x65\x20\x61\x6E\x64\x20\x76\x69\x63\x65\x20\x76\x65\x72\x73\x61"
   uri: http://unixtime.co.za
   is_paid: false
@@ -19789,9 +19737,9 @@
 - name: Unofficial Google News Api
   slug: unofficial-google-news-api
   categories:
-    - Text Analysis
     - Search
     - News & Feeds
+    - Text Analysis
   description: GNews is an API to search for articles from a variety of sources, including Google News.  We also provide top headlines from which you can filter by topic such as world, business, sports. The Unofficial Google News API is used for collecting articles corresponding to a given set of keywords. The API was created as a reliable alternative in response to Google's closure of their Google News API. Our API allows you to receive up to 100 articles per search (max item number depends on your plan). Each article contains a title, a description, the article link, the website, the source and the date
   uri: https://gnews.io/
   is_paid: false
@@ -19810,9 +19758,9 @@
 - name: Unsplash
   slug: unsplash
   categories:
+    - Development
     - Photography
     - Images
-    - Development
   description: but for photos.  Lorem Ipsum. Lorem Ipsum
   uri: https://unsplash.it/
   is_paid: false
@@ -20009,9 +19957,9 @@
 - name: Utelly
   slug: utelly
   categories:
-    - Video & Media
     - Content & Dictionaries
     - Entertainment
+    - Video & Media
   description: Check where a tv show or movie is available
   uri: https://www.utelly.com/
   is_paid: false
@@ -20155,11 +20103,11 @@
 - name: Viber
   slug: viber
   categories:
-    - Chats & Messaging
-    - Video & Media
     - Voice
     - Social
     - Communications
+    - Chats & Messaging
+    - Video & Media
   description: Millions of Viber users call, text, and send photos to each other, worldwide - for free. With Viber’s APIs, can create unique experiences for users at scale. Viber lets everyone in the world connect.  Freely
   uri: https://developers.viber.com/docs/api/
   is_paid: false
@@ -20178,11 +20126,11 @@
 - name: Vimeo
   slug: vimeo
   categories:
-    - Social
     - Video & Media
     - Community
     - Content & Dictionaries
     - Entertainment
+    - Social
   description: Unlock the power of video and join over 200M professionals, teams, and organizations who use Vimeo to create, collaborate and communicate. Access to Vimeo’s API
   uri: https://developer.vimeo.com/
   is_paid: false
@@ -20226,9 +20174,9 @@
 - name: VirusTotal
   slug: virustotal
   categories:
+    - Recognition
     - Security
     - Tools
-    - Recognition
   description: The VirusTotal API lets you upload and scan files or URLs, access finished scan reports and make automatic comments without the need of using the website interface.  In other words, it allows you to build simple scripts to access the information generated by VirusTotal
   uri: https://www.virustotal.com/en/documentation/public-api/
   is_paid: false
@@ -20264,9 +20212,9 @@
 - name: Voice Actions Jeannie
   slug: voice-actions-jeannie
   categories:
+    - Tools
     - Voice
     - Applications
-    - Tools
   description: Jeannie (Voice Actions) is a virtual assistant with over two Million downloads, now also available via API.  The objective of this service is to provide you and your robot with the smartest answer to any natural language question, just like Siri
   uri: ""
   is_paid: false
@@ -20343,8 +20291,8 @@
 - name: Watson Natural Language Understanding
   slug: watson-natural-language-understanding
   categories:
-    - AI & ML
     - Text Analysis
+    - AI & ML
   description: Provide text, raw HTML, or a public URL and IBM Watson Natural Language Understanding will give you results for the features you request.  The service cleans HTML content before analysis by default, so the results can ignore most advertisements and other unwanted content. Analyze various features of text content at scale
   uri: https://cloud.ibm.com/apidocs/natural-language-understanding/natural-language-understanding
   is_paid: false
@@ -20444,9 +20392,9 @@
 - name: Wegmans
   slug: wegmans
   categories:
-    - Commerce
     - Food & Drinks
     - Shopping
+    - Commerce
   description: APIs for products and store information
   uri: https://dev.wegmans.io
   is_paid: false
@@ -20465,8 +20413,8 @@
 - name: Wetransfer
   slug: wetransfer
   categories:
-    - Files & Storage
     - Documents & Productivity
+    - Files & Storage
   description: Put us in unexpected places, challenge the traditional creative flow, think big, go wild. File Sharing.  Integrate WeTransfer into your product, your platform, your life
   uri: https://developers.wetransfer.com
   is_paid: false
@@ -20545,8 +20493,8 @@
 - name: WhereIsMyTransport
   slug: whereismytransport
   categories:
-    - Transportation
     - Worldwide
+    - Transportation
   description: WhereIsMyTransport connects public transport data in one place. WhereIsMyTransport connects public transport data in one place.  Our platform helps cities understand transport systems, getting commuters where they want to go
   uri: https://developer.whereismytransport.com/
   is_paid: false
@@ -20570,11 +20518,11 @@
 - name: Whitepages Pro
   slug: whitepages-pro
   categories:
+    - Maps & Geo
+    - Business
     - Reference
     - Validation & Verification
     - CRM
-    - Maps & Geo
-    - Business
   description: Global Identity Verification API. Get a clearer picture of your customer.  Instantly know if a name, address, phone number, email, and IP all belong to the same person
   uri: https://pro.whitepages.com/
   is_paid: false
@@ -20612,10 +20560,10 @@
 - name: Wikipedia
   slug: wikipedia
   categories:
+    - Content & Dictionaries
     - Data
     - Reference
     - Wiki
-    - Content & Dictionaries
   description: 'Documentation and examples: https://www. mediawiki. org/wiki/Special:MyLanguage/API:Main_page Main module Status: The MediaWiki API is a ma. Free multilingual Encyclopedia. This is an auto-generated MediaWiki API documentation page'
   uri: https://en.wikipedia.org/w/api.php
   is_paid: false
@@ -20668,7 +20616,6 @@
     - Virtual & Augmented Reality
     - Maps & Geo
     - AI & ML
-    - Other
   description: Powerful augmented reality apps. Create immersive Augmented Reality experiences that transform the world around you
   uri: https://www.wikitude.com/developer-overview/
   is_paid: false
@@ -20755,9 +20702,9 @@
 - name: Wolfram|Alpha
   slug: wolfram-alpha
   categories:
+    - Text Analysis
     - Reference
     - Search
-    - Text Analysis
   description: General knowledge on every topic; query it all with natural language input. Easily add top-of-the-line computational knowledge into your applications with Wolfram|Alpha APIs.  Options from free to pre-built and custom solutions. The official Wolfram|Alpha API
   uri: https://products.wolframalpha.com/api/
   is_paid: false
@@ -20828,9 +20775,9 @@
 - name: Word Cloud Maker
   slug: word-cloud-maker
   categories:
-    - AI & ML
     - Text
     - Tools
+    - AI & ML
   description: Multi color and different sizes illustrate the frequency, and the “vibe” of the bigger text.  Try it with blog posts, article text, speeches, tweet histories, emails, or any other written word. Generate Word Clouds from blocks of text
   uri: https://www.mashape.com/gatheringpoint/Word-Cloud-Maker
   is_paid: false
@@ -20840,9 +20787,9 @@
 - name: Wordnik
   slug: wordnik
   categories:
-    - Content & Dictionaries
     - Text
     - Reference
+    - Content & Dictionaries
   description: The Wordnik API Docs. Dictionary functions
   uri: http://developer.wordnik.com/docs.html#!/word
   is_paid: false
@@ -20893,9 +20840,9 @@
 - name: WorkOS
   slug: workos
   categories:
-    - Security
     - Business
     - Authentication & User Management
+    - Security
   description: Easily integrate Okta SAML, Google OAuth, and more. Support Single Sign-On for common Enterprise Identity Providers (Okta, Azure, OneLogin). Documentation on integrating WorkOS API for Single Sign-On (SSO), Directory Sync (SCIM), Audit Trail (SIEM), and more
   uri: https://workos.com/docs
   is_paid: false
@@ -20933,8 +20880,8 @@
 - name: World Trading Data
   slug: world-trading-data
   categories:
-    - Data
     - Finance & Economics
+    - Data
   description: World Trading Data is a worldwide market data provider, for example provide a stock name and dates and get trading data for those. Free real-time and historical stock market data for 100,000+ stock tickers via REST API in JSON format, with 72 exchanges and 30+ years of historical data
   uri: https://marketstack.com/
   is_paid: false
@@ -20954,9 +20901,8 @@
 - name: WorldTimeAPI
   slug: worldtimeapi
   categories:
-    - Calendar & Time
     - Maps & Geo
-    - Other
+    - Calendar & Time
   description: |-
     A JSON/plain-text which returns the (approx) current time for a provided timezone or IP.  Targetted at limited-compute IoT devices. World Time API: Simple JSON/plain-text API to obtain the current
      time in, and related data about, a timezone
@@ -20976,10 +20922,8 @@
 - name: Wunderlist
   slug: wunderlist
   categories:
-    - Files & Storage
     - Tasks
     - Documents & Productivity
-    - Lists
   description: Todo Lists
   uri: https://developer.wunderlist.com/documentation
   is_paid: false
@@ -21092,8 +21036,8 @@
 - name: Yahoo Image Search API
   slug: yahoo-image-search-api
   categories:
-    - Search
     - Photography
+    - Search
   description: Web Service allows you to search the Internet for images
   uri: ""
   is_paid: false
@@ -21114,8 +21058,8 @@
 - name: Yahoo Map Image API
   slug: yahoo-map-image-api
   categories:
-    - Maps & Geo
     - Images
+    - Maps & Geo
   description: Measure, monetize, advertise and improve your apps with Yahoo tools. Join the 200,000 developers using Yahoo tools to build their app businesses. . Web Services
   uri: https://developer.yahoo.com/maps/rest/V1/
   is_paid: false
@@ -21172,8 +21116,8 @@
 - name: Yammer API
   slug: yammer-api
   categories:
-    - Social
     - Business
+    - Social
   description: Yammer Developer Site was created using ReadMe. Discuss ideas, share updates, and crowdsource answers from coworkers around the globe. Yammer gives your team a faster, smarter way to connect and collaborate across your company
   uri: https://developer.yammer.com/documentation/
   is_paid: false
@@ -21183,9 +21127,9 @@
 - name: Yandex
   slug: yandex
   categories:
-    - Search
     - Worldwide
     - Maps & Geo
+    - Search
   description: Maps and the necessary tools for working it on your web app or site. API for installing Yandex
   uri: https://tech.yandex.com/maps/
   is_paid: false
@@ -21208,10 +21152,8 @@
   slug: yclas
   categories:
     - Marketplace
-    - AI & ML
-    - Lists
     - Commerce
-  description: Be creative and create any type of marketplace Whether you are looking for a website for your Real Estate firm, a buy-and-sell preloved goods website or a. With Yclas API you have a full backend to create adversitements, categories, locations, geolocations and much more in a simple and easy to use API
+  description: Be creative and create any type of marketplace. Whether you are looking for a website for your Real Estate firm, a buy-and-sell preloved goods website with Yclas API you have a full backend to create adversitements, categories, locations, geolocations and much more in a simple and easy to use API
   uri: https://yclas.com/
   is_paid: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/yclas/logo_256x256.png
@@ -21220,14 +21162,13 @@
 - name: Yelp
   slug: yelp
   categories:
-    - AI & ML
     - Business
-    - Directories
     - Commerce
     - Point of Interest
     - Search
     - Maps & Geo
     - Data
+    - AI & ML
   description: Yelp's API exposes search to 3rd party developers. You can search location using longitude and latitude, neighborhood, address or city and filter listings by “where”, using a list of support categories
   uri: https://www.yelp.com/developers/documentation/v3/
   is_paid: false
@@ -21329,8 +21270,8 @@
 - name: Yes No
   slug: yes-no
   categories:
-    - Testing
     - Data
+    - Testing
   description: Yes or No
   uri: https://yesno.wtf/api
   is_paid: false
@@ -21539,9 +21480,9 @@
 - name: Zenserp
   slug: zenserp
   categories:
-    - Search
     - Marketing & SEO
     - Scrapers & Data Mining
+    - Search
   description: Our fast & reliable SERP API enables you to scrape search results in realtime and without interruption. Fast response times and fair pricing. Scraping SERPs from search engines is a difficult task, as it involves proxy management, captcha-solving and constant parser adaptation. SERP API makes this process easy, fast & scalable
   uri: https://zenserp.com
   is_paid: false
@@ -21647,10 +21588,10 @@
 - name: Zomato
   slug: zomato
   categories:
+    - Social
     - Food & Drinks
     - Worldwide
     - Point of Interest
-    - Social
   description: Zomato API. 5 million restaurants across 10,000 cities globally.
   uri: https://developers.zomato.com/api
   is_paid: false
@@ -21685,8 +21626,8 @@
 - name: balldontlie
   slug: balldontlie
   categories:
-    - Sport & Fitness
     - Data
+    - Sport & Fitness
   description: Introduction Welcome to the balldontlie API! You can use our free API to access NBA related data.  No email required.  No API key required. This is an open source project. Feel free to open issues an
   uri: https://balldontlie.io
   is_paid: false
@@ -21743,9 +21684,9 @@
 - name: bng2latlong
   slug: bng2latlong
   categories:
+    - Maps & Geo
     - Data
     - Post & Logistics
-    - Maps & Geo
   description: Simple API to convert an OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude. Convert an OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude
   uri: https://www.getthedata.com/bng2latlong
   is_paid: false
@@ -21756,9 +21697,9 @@
 - name: coinpaprika
   slug: coinpaprika
   categories:
+    - Data
     - Commerce
     - Blockchain & Cryptocurrencies
-    - Data
   description: Cryptocurrencies prices, market capitalization, volume and more.
   uri: https://api.coinpaprika.com
   is_paid: false
@@ -21772,10 +21713,10 @@
 - name: eBay
   slug: ebay
   categories:
-    - Search
-    - Marketplace
     - Commerce
     - Shopping
+    - Search
+    - Marketplace
   description: eBay Developers Program Celebrates 20 Years This year we’re celebrating 25 years of eBay and 20 years of the eBay Developers Program! On November 20, 2000, we launched our first APIs along with the
   uri: https://go.developer.ebay.com/
   is_paid: false
@@ -21909,9 +21850,9 @@
 - name: icanhazdadjoke
   slug: icanhazdadjoke
   categories:
+    - Personality
     - Fun
     - Health
-    - Personality
   description: The largest collection of dad jokes on the internet. The largest collection of dad jokes on the internet
   uri: https://icanhazdadjoke.com/api
   is_paid: false
@@ -21940,10 +21881,10 @@
 - name: ipstack
   slug: ipstack
   categories:
-    - Maps & Geo
-    - Security
     - Validation & Verification
     - Analytics
+    - Maps & Geo
+    - Security
   description: Locate website visitors for free using ipstack - a free, real-time IP address to location JSON API and database service supporting IPv4 and IPv6 lookup.
   uri: https://ipstack.com/
   is_paid: false
@@ -21953,10 +21894,10 @@
 - name: kanye.rest
   slug: kanye-rest
   categories:
-    - AI & ML
     - Health
     - Music & Audio
     - News & Feeds
+    - AI & ML
   description: A free REST API for random Kanye West quotes. A free REST API for random Kanye West quotes
   uri: https://kanye.rest
   is_paid: false
@@ -21986,9 +21927,9 @@
 - name: mailboxlayer
   slug: mailboxlayer
   categories:
+    - Security
     - Validation & Verification
     - Email & SMS
-    - Security
   description: Simple and powerful email verification JSON API using SMTP, typo checks, syntax validation, and free and disposable provider filtering. Simple and powerful email verification JSON API using SMTP, typo checks, syntax validation, and free and disposable provider filtering.  Free for personal use
   uri: https://mailboxlayer.com
   is_paid: false
@@ -22028,10 +21969,10 @@
 - name: numverify
   slug: numverify
   categories:
+    - Validation & Verification
     - Development
     - Security
     - Communications
-    - Validation & Verification
   description: Free, powerful JSON API offering international and national phone number validation and carrier, location and line type lookup for developers and businesses. Free, powerful JSON API offering international and national phone number validation and carrier, location and line type lookup for developers and businesses
   uri: https://numverify.com
   is_paid: false
@@ -22041,11 +21982,11 @@
 - name: openFDA
   slug: openfda
   categories:
-    - Big Data
-    - Food & Drinks
     - Government
     - Health
     - Data
+    - Big Data
+    - Food & Drinks
   description: openFDA. openFDA
   uri: https://open.fda.gov
   is_paid: false
@@ -22054,9 +21995,9 @@
 - name: pdflayer
   slug: pdflayer
   categories:
-    - Documents & Productivity
     - Tools
     - Conversions
+    - Documents & Productivity
   description: Free, powerful HTML to PDF API supporting both URL and raw HTML conversion. Free, powerful HTML to PDF API supporting both URL and raw HTML conversion. Unlimited document size, lightning-fast and compatible PHP, Python, Ruby, etc
   uri: https://pdflayer.com
   is_paid: false
@@ -22094,9 +22035,9 @@
 - name: vatlayer
   slug: vatlayer
   categories:
+    - Validation & Verification
     - Commerce
     - Finance & Economics
-    - Validation & Verification
   description: Free and HTTPS secured JSON API offering instant VAT number validation, reliable EU VAT rates and VAT compliant price calculations for developers & businesses.  Free and HTTPS secured JSON API offering instant VAT number validation, reliable EU VAT rates and VAT compliant price calculations for developers & businesses
   uri: https://vatlayer.com
   is_paid: false

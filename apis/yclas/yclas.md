@@ -3,7 +3,7 @@
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/yclas/logo_256x256.png" alt="Yclas Logo"/>
 </p>
 
-Be creative and create any type of marketplace Whether you are looking for a website for your Real Estate firm, a buy-and-sell preloved goods website or a. With Yclas API you have a full backend to create adversitements, categories, locations, geolocations and much more in a simple and easy to use API
+Be creative and create any type of marketplace. Whether you are looking for a website for your Real Estate firm, a buy-and-sell preloved goods website with Yclas API you have a full backend to create adversitements, categories, locations, geolocations and much more in a simple and easy to use API
 
 ##  🔗 Links
 **Docs / Website**: https://yclas.com/
@@ -18,8 +18,6 @@ Be creative and create any type of marketplace Whether you are looking for a web
 
 ## 🗄️ Categories:
 - [Marketplace](https://github.com/apis-list/apis-list#marketplace)
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Lists](https://github.com/apis-list/apis-list#lists)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 
 

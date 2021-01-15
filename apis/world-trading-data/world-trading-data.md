@@ -17,8 +17,8 @@ World Trading Data is a worldwide market data provider, for example provide a st
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Data](https://github.com/apis-list/apis-list#data)
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
+- [Data](https://github.com/apis-list/apis-list#data)
 
 
 

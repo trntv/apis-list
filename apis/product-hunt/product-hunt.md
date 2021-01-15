@@ -17,11 +17,11 @@ The best new products, every day. Product Hunt is a curation of the best new pro
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Products](https://github.com/apis-list/apis-list#products)
 - [Applications](https://github.com/apis-list/apis-list#applications)
 - [Jobs](https://github.com/apis-list/apis-list#jobs)
 - [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo)
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
 
 
 

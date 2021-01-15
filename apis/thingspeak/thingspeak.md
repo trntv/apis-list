@@ -17,10 +17,8 @@
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot--home-automation)
-- [Other](https://github.com/apis-list/apis-list#other)
 - [Open Source](https://github.com/apis-list/apis-list#open-source)
-- [Real Time](https://github.com/apis-list/apis-list#real-time)
+- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot--home-automation)
 
 
 

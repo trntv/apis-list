@@ -15,10 +15,10 @@ A-to-B routing with turn-by-turn instructions
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Travel](https://github.com/apis-list/apis-list#travel)
-- [Transportation](https://github.com/apis-list/apis-list#transportation)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 - [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics)
+- [Travel](https://github.com/apis-list/apis-list#travel)
+- [Transportation](https://github.com/apis-list/apis-list#transportation)
 
 
 

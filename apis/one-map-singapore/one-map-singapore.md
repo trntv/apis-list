@@ -17,8 +17,8 @@
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 
 
 

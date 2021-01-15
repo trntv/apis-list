@@ -17,9 +17,9 @@ identifies the content of images and videos, classify images based on content, e
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
 - [Images](https://github.com/apis-list/apis-list#images)
 - [Recognition](https://github.com/apis-list/apis-list#recognition)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
 
 
 

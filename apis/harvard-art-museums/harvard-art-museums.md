@@ -17,10 +17,10 @@ The Harvard Art Museums API is a REST-style service designed for developers who 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Art & Design](https://github.com/apis-list/apis-list#art--design)
 - [Education](https://github.com/apis-list/apis-list#education)
 - [Video & Media](https://github.com/apis-list/apis-list#video--media)
 - [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest)
-- [Art & Design](https://github.com/apis-list/apis-list#art--design)
 
 
 

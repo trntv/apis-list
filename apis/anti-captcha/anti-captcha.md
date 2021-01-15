@@ -17,8 +17,8 @@ Access to Anti-Captcha’s API.  Bypass reCAPTCHA, solve image captchas, hCaptch
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Captcha](https://github.com/apis-list/apis-list#captcha)
 - [Recognition](https://github.com/apis-list/apis-list#recognition)
+- [Captcha](https://github.com/apis-list/apis-list#captcha)
 
 
 

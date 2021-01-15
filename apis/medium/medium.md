@@ -17,10 +17,10 @@ Documentation for Medium's OAuth2 API. Documentation for Medium's OAuth2 API. Co
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Personality](https://github.com/apis-list/apis-list#personality)
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Writing](https://github.com/apis-list/apis-list#writing)
 - [Health](https://github.com/apis-list/apis-list#health)
-- [Personality](https://github.com/apis-list/apis-list#personality)
 
 
 

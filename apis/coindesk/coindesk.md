@@ -17,9 +17,9 @@ Bitcoin Price Index. CoinDesk provides a simple and free API to make its Bitcoin
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Currency](https://github.com/apis-list/apis-list#currency)
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
+- [Currency](https://github.com/apis-list/apis-list#currency)
 
 
 

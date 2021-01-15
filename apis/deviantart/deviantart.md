@@ -17,9 +17,9 @@ The largest social networking website for artists and art enthusiasts.  Find out
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Social](https://github.com/apis-list/apis-list#social)
 - [Art & Design](https://github.com/apis-list/apis-list#art--design)
 - [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
+- [Social](https://github.com/apis-list/apis-list#social)
 
 
 

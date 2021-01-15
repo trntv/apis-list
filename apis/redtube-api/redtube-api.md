@@ -15,8 +15,8 @@ The Redtube API.  RedTube API Documentation Welcome to the RedTube API developer
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Adult](https://github.com/apis-list/apis-list#adult)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 
 
 

@@ -15,15 +15,15 @@ You can use it in your apps to find words that match a given set o. Word-finding
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Writing](https://github.com/apis-list/apis-list#writing)
-- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
-- [Search](https://github.com/apis-list/apis-list#search)
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Text](https://github.com/apis-list/apis-list#text)
-- [Education](https://github.com/apis-list/apis-list#education)
-- [Data](https://github.com/apis-list/apis-list#data)
-- [Reference](https://github.com/apis-list/apis-list#reference)
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
+- [Search](https://github.com/apis-list/apis-list#search)
+- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
+- [Data](https://github.com/apis-list/apis-list#data)
+- [Education](https://github.com/apis-list/apis-list#education)
+- [Text](https://github.com/apis-list/apis-list#text)
+- [Reference](https://github.com/apis-list/apis-list#reference)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
+- [Writing](https://github.com/apis-list/apis-list#writing)
 
 
 

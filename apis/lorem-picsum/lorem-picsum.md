@@ -17,9 +17,9 @@ Lorem Ipsum, but for photos.
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Photography](https://github.com/apis-list/apis-list#photography)
 - [Art & Design](https://github.com/apis-list/apis-list#art--design)
 - [Random](https://github.com/apis-list/apis-list#random)
-- [Photography](https://github.com/apis-list/apis-list#photography)
 
 
 

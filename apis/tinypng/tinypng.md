@@ -17,10 +17,10 @@ TinyPNG API will help you compress and reduce the size of your JPEF and PNG file
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Art & Design](https://github.com/apis-list/apis-list#art--design)
 - [Tools](https://github.com/apis-list/apis-list#tools)
 - [Conversions](https://github.com/apis-list/apis-list#conversions)
 - [Images](https://github.com/apis-list/apis-list#images)
+- [Art & Design](https://github.com/apis-list/apis-list#art--design)
 
 
 

@@ -17,10 +17,10 @@ Zomato API. 5 million restaurants across 10,000 cities globally.
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Social](https://github.com/apis-list/apis-list#social)
 - [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks)
 - [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 - [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest)
-- [Social](https://github.com/apis-list/apis-list#social)
 
 
 

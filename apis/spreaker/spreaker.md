@@ -17,8 +17,7 @@ Enables developers to read and write data to Spreaker.  Get started with one of 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Podcasts](https://github.com/apis-list/apis-list#podcasts)
-- [Other](https://github.com/apis-list/apis-list#other)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
 
 
 
