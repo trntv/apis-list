@@ -14,10 +14,10 @@ A hosted REST-API ready to respond to AJAX requests
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management)
 - [Testing](https://github.com/apis-list/apis-list#testing)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Tools](https://github.com/apis-list/apis-list#tools)
-- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management)
 
 
 

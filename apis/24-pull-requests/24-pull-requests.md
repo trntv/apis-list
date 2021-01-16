@@ -17,7 +17,7 @@
 
 ## 🗄️ Categories:
 - [Events](https://github.com/apis-list/apis-list#events)
-- [Calendar](https://github.com/apis-list/apis-list#calendar)
+- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time)
 - [Development](https://github.com/apis-list/apis-list#development)
 
 

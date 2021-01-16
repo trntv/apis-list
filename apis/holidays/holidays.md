@@ -16,8 +16,8 @@ Don't let sourcing and maintaining holiday information get in the way of buildin
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time)
 - [Worldwide](https://github.com/apis-list/apis-list#worldwide)
-- [Calendar](https://github.com/apis-list/apis-list#calendar)
 
 
 

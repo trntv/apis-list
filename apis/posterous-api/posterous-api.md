@@ -17,7 +17,7 @@ Similar to other blogging platforms.  Posting could be done by logging into the 
 
 ## 🗄️ Categories:
 - [Email & SMS](https://github.com/apis-list/apis-list#email--sms)
-- [Photography](https://github.com/apis-list/apis-list#photography)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 - [Social](https://github.com/apis-list/apis-list#social)
 
 

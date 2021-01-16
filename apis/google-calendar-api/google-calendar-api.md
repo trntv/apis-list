@@ -16,7 +16,7 @@ Create and manage events and calendars for Google Calendar.  Create and manage e
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Calendar](https://github.com/apis-list/apis-list#calendar)
+- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time)
 
 
 

@@ -16,7 +16,7 @@ Lookup Tamil words and build your own Tamil dictionary APP using this API
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Content & Dictionary](https://github.com/apis-list/apis-list#content--dictionary)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
 
 
 

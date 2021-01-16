@@ -16,8 +16,8 @@ REST and GraphQL framework on top of Symfony and React. API Platform is a PHP fr
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
 - [Tools](https://github.com/apis-list/apis-list#tools)
+- [Development](https://github.com/apis-list/apis-list#development)
 
 
 

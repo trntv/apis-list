@@ -14,8 +14,8 @@ Madrid BUS transport API
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 
 
 

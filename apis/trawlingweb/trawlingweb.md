@@ -16,8 +16,8 @@ com API We structure, store, and index millions of web pages per day in vertical
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
 - [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
+- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
 
 
 

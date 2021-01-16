@@ -17,7 +17,7 @@ A simple way to share and discover interesting events from your friends, followe
 
 ## 🗄️ Categories:
 - [Events](https://github.com/apis-list/apis-list#events)
-- [Calendar](https://github.com/apis-list/apis-list#calendar)
+- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time)
 
 
 

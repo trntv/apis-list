@@ -16,7 +16,7 @@ Open repository of non-working days ics files. Open repository of non-working da
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Calendar](https://github.com/apis-list/apis-list#calendar)
+- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time)
 
 
 

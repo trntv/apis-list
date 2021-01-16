@@ -16,10 +16,10 @@ Automatic image keywording and categorization API. The Everypixel Image Recognit
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
-- [Recognition](https://github.com/apis-list/apis-list#recognition)
 - [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
 - [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
+- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
+- [Recognition](https://github.com/apis-list/apis-list#recognition)
 
 
 

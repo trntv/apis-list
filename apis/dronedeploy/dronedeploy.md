@@ -16,9 +16,9 @@ Integrate your existing service into DroneDeploy and reach tens of thousands of 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 - [Robots](https://github.com/apis-list/apis-list#robots)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 
 
 

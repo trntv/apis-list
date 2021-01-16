@@ -16,10 +16,10 @@ This simple RESTful interface is powerful, convenient, and great for writing mob
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management)
-- [Business](https://github.com/apis-list/apis-list#business)
 - [CRM](https://github.com/apis-list/apis-list#crm)
 - [Office](https://github.com/apis-list/apis-list#office)
+- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management)
+- [Business](https://github.com/apis-list/apis-list#business)
 
 
 

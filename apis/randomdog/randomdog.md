@@ -14,10 +14,10 @@
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 - [Video & Media](https://github.com/apis-list/apis-list#video--media)
 - [Animals](https://github.com/apis-list/apis-list#animals)
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 
 
 

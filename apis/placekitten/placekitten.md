@@ -16,9 +16,9 @@ A quick and simple service for getting pictures of kittens for use as placeholde
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 - [Testing](https://github.com/apis-list/apis-list#testing)
 - [Animals](https://github.com/apis-list/apis-list#animals)
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 
 
 

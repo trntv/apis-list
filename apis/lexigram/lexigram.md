@@ -14,8 +14,8 @@ io.  Document, mock, test, and more, with the StopLight API Designer. Hosted API
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Health](https://github.com/apis-list/apis-list#health)
 - [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
+- [Health](https://github.com/apis-list/apis-list#health)
 
 
 

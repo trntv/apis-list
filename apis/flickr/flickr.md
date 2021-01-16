@@ -17,7 +17,7 @@ Search through user Flickr content, contacts, upload or replace photos.  Flickr 
 
 ## 🗄️ Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
-- [Photography](https://github.com/apis-list/apis-list#photography)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 - [Video & Media](https://github.com/apis-list/apis-list#video--media)
 
 

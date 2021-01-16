@@ -16,12 +16,12 @@ Get access to millions of vehicle records, specs, ownership costs and market val
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
 - [Big Data](https://github.com/apis-list/apis-list#big-data)
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
 - [Vehicle](https://github.com/apis-list/apis-list#vehicle)
 - [Development](https://github.com/apis-list/apis-list#development)
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
 
 
 

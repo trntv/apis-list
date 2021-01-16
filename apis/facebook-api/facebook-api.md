@@ -14,8 +14,8 @@ Helps developers build, grow and monetize their business. Code to connect people
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Webhooks](https://github.com/apis-list/apis-list#webhooks)
 - [Social](https://github.com/apis-list/apis-list#social)
+- [Webhooks](https://github.com/apis-list/apis-list#webhooks)
 
 
 

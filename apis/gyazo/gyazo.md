@@ -19,9 +19,8 @@ Overview The Gyazo API can be used in a wide array of apps to upload new images,
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Video & Media](https://github.com/apis-list/apis-list#video--media)
 - [Art & Design](https://github.com/apis-list/apis-list#art--design)
-- [Photography](https://github.com/apis-list/apis-list#photography)
-- [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 - [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
+- [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 
 
 

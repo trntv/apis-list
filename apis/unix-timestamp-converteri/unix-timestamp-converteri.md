@@ -14,9 +14,9 @@
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Conversions](https://github.com/apis-list/apis-list#conversions)
-- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time)
 
 
 

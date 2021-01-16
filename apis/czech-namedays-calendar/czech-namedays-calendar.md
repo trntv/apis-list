@@ -14,10 +14,10 @@ Czech Holidays API
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
+- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time)
 - [Government](https://github.com/apis-list/apis-list#government)
 - [Worldwide](https://github.com/apis-list/apis-list#worldwide)
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
-- [Calendar](https://github.com/apis-list/apis-list#calendar)
 
 
 

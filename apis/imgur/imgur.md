@@ -16,7 +16,7 @@ Imgur: The magic of the Internet. Imgur's API exposes the entire Imgur infrastru
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Photography](https://github.com/apis-list/apis-list#photography)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 - [Social](https://github.com/apis-list/apis-list#social)
 
 

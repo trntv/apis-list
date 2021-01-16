@@ -14,9 +14,9 @@ Astronomy API provides timings for sunrise, sunset, moonrise, moonset, sun azimu
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Space](https://github.com/apis-list/apis-list#space)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 - [Science & Math](https://github.com/apis-list/apis-list#science--math)
-- [Space](https://github.com/apis-list/apis-list#space)
 
 
 

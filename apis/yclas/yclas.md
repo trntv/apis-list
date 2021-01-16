@@ -16,8 +16,8 @@ Be creative and create any type of marketplace. Whether you are looking for a we
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Marketplace](https://github.com/apis-list/apis-list#marketplace)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
+- [Marketplace](https://github.com/apis-list/apis-list#marketplace)
 
 
 

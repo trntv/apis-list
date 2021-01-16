@@ -16,8 +16,8 @@ Enhance your projects with free trusted historical, real-time and forecast air q
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Weather](https://github.com/apis-list/apis-list#weather)
 - [Environment](https://github.com/apis-list/apis-list#environment)
+- [Weather](https://github.com/apis-list/apis-list#weather)
 
 
 

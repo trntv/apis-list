@@ -16,9 +16,9 @@ Open Library is an open, editable library catalog, building towards a web page f
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Reference](https://github.com/apis-list/apis-list#reference)
 - [Search](https://github.com/apis-list/apis-list#search)
 - [Books](https://github.com/apis-list/apis-list#books)
+- [Reference](https://github.com/apis-list/apis-list#reference)
 
 
 

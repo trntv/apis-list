@@ -18,7 +18,7 @@ Pexels provides high quality and completely free stock photos licensed under the
 - [Open Source](https://github.com/apis-list/apis-list#open-source)
 - [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
 - [Art & Design](https://github.com/apis-list/apis-list#art--design)
-- [Photography](https://github.com/apis-list/apis-list#photography)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 
 
 

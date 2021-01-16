@@ -14,8 +14,8 @@ Allows you to check in to a place
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Social](https://github.com/apis-list/apis-list#social)
 - [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest)
+- [Social](https://github.com/apis-list/apis-list#social)
 
 
 

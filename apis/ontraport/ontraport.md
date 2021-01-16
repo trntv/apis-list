@@ -14,10 +14,10 @@ Marketing automation
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo)
 - [Business](https://github.com/apis-list/apis-list#business)
 - [Automation](https://github.com/apis-list/apis-list#automation)
 - [CRM](https://github.com/apis-list/apis-list#crm)
+- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo)
 
 
 

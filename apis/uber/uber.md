@@ -16,11 +16,11 @@ Discover how the Uber API can easily enhance your app’s user experience and ta
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Real Time](https://github.com/apis-list/apis-list#real-time)
 - [Travel](https://github.com/apis-list/apis-list#travel)
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
 
 
 

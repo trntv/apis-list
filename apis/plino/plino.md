@@ -14,8 +14,8 @@ Plino - A responsive spam filtering system
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
 - [Security](https://github.com/apis-list/apis-list#security)
+- [Development](https://github.com/apis-list/apis-list#development)
 
 
 

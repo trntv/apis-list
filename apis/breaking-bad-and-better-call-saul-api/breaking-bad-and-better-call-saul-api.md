@@ -14,8 +14,8 @@ Get data about characters, episodes, quotes, and deaths
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Video & Media](https://github.com/apis-list/apis-list#video--media)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media)
 
 
 

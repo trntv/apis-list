@@ -14,11 +14,11 @@ We offer two kinds of APIs for developers.  The Bot API allows you to easily cre
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging)
-- [Mobile](https://github.com/apis-list/apis-list#mobile)
-- [Photography](https://github.com/apis-list/apis-list#photography)
 - [Video & Media](https://github.com/apis-list/apis-list#video--media)
 - [Social](https://github.com/apis-list/apis-list#social)
+- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging)
+- [Mobile](https://github.com/apis-list/apis-list#mobile)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 
 
 

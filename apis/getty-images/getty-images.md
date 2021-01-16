@@ -14,10 +14,9 @@ Page moved here.  Page moved here
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 - [Video & Media](https://github.com/apis-list/apis-list#video--media)
 - [Art & Design](https://github.com/apis-list/apis-list#art--design)
-- [Photography](https://github.com/apis-list/apis-list#photography)
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 
 
 

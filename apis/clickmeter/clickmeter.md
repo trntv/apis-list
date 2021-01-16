@@ -14,10 +14,10 @@ ClickMeter API RESTful services. ClickMeter API RESTful services. Interact progr
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Email & SMS](https://github.com/apis-list/apis-list#email--sms)
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
 - [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo)
 - [URL Shortening](https://github.com/apis-list/apis-list#url-shortening)
+- [Email & SMS](https://github.com/apis-list/apis-list#email--sms)
 
 
 
