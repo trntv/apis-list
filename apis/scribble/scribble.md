@@ -7,17 +7,18 @@ For large organizations we can also assist in building you a custom Scribble. Th
 **Docs / Website**: https://www.scribblemaps.com/api/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Bookmarks](https://github.com/apis-list/apis-list#bookmarks)
 - [URLs](https://github.com/apis-list/apis-list#urls)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
-- [Bookmarks](https://github.com/apis-list/apis-list#bookmarks)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ ALL CAPS AS A SERVICE curl -X POST \ -d '{"INPUT": "hello world"}' \ -H 'Content
 **Docs / Website**: http://shoutcloud.io/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ ALL CAPS AS A SERVICE curl -X POST \ -d '{"INPUT": "hello world"}' \ -H 'Content
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

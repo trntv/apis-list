@@ -9,8 +9,7 @@ Tracks United States drone strikes. Real-time and historical data about every re
 **Docs / Website**: https://dronestre.am/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Tracks United States drone strikes. Real-time and historical data about every re
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

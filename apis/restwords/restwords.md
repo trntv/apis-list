@@ -7,8 +7,7 @@ You can GET to retrieve your text and you can POST to change your stored text.  
 **Docs / Website**: https://www.restwords.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ You can GET to retrieve your text and you can POST to change your stored text.  
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

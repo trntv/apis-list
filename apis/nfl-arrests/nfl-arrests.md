@@ -7,8 +7,7 @@ NFL Arrest provides an interactive visualized database of National Football Leag
 **Docs / Website**: http://www.nflarrest.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ NFL Arrest provides an interactive visualized database of National Football Leag
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

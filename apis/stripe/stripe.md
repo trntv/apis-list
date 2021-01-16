@@ -7,8 +7,7 @@ Complete reference documentation for the Stripe API. Includes representative cod
 **Docs / Website**: https://stripe.com/docs/api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Complete reference documentation for the Stripe API. Includes representative cod
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

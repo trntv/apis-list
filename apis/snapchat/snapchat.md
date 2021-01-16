@@ -9,8 +9,7 @@ Snapchat’s private API. Contribute to mgp25/SC-API development by creating an 
 **Docs / Website**: https://github.com/mgp25/SC-API
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Snapchat’s private API. Contribute to mgp25/SC-API development by creating an 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

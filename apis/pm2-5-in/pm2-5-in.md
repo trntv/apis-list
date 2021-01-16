@@ -7,8 +7,7 @@ Air quality of China. 提供PM2. 5(细颗粒物)及空气质量指数(AQI)实时
 **Docs / Website**: http://www.pm25.in/api_doc
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Air quality of China. 提供PM2. 5(细颗粒物)及空气质量指数(AQI)实时
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

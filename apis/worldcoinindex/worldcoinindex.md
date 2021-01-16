@@ -9,8 +9,7 @@ Cryptocurrencies price API, prices denoted in USD, EUR, CNY, GBP, RUB
 **Docs / Website**: https://www.worldcoinindex.com/apiservice
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Cryptocurrencies price API, prices denoted in USD, EUR, CNY, GBP, RUB
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

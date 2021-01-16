@@ -9,8 +9,7 @@ All the Star Wars data you've ever wanted: Planets, Spaceships, Vehicles, People
 **Docs / Website**: https://swapi.co
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ All the Star Wars data you've ever wanted: Planets, Spaceships, Vehicles, People
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

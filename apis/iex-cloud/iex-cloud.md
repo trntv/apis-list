@@ -9,8 +9,7 @@ IEX Cloud is a financial data infrastructure platform that connects developers a
 **Docs / Website**: https://iexcloud.io/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ IEX Cloud is a financial data infrastructure platform that connects developers a
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

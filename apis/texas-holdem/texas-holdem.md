@@ -9,8 +9,7 @@ With this API you can easily create a full Texas Holdem game, just create the gr
 **Docs / Website**: https://www.mashape.com/neurone/Texas-Holdem
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ With this API you can easily create a full Texas Holdem game, just create the gr
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

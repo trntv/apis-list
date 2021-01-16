@@ -7,8 +7,7 @@ Specializes more in electronic dance music genres such as hardstyle. You see thi
 **Docs / Website**: http://api.lololyrics.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Specializes more in electronic dance music genres such as hardstyle. You see thi
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

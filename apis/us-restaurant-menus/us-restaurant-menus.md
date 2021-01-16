@@ -9,8 +9,7 @@ Database of over 300,000 restaurant menus and over 30,000,000 Individual Menu It
 **Docs / Website**: https://rapidapi.com/restaurantmenus/api/restaurant-menus
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ Database of over 300,000 restaurant menus and over 30,000,000 Individual Menu It
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

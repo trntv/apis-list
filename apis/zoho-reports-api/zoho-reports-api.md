@@ -9,8 +9,7 @@ Zoho Analytics API Zoho Analytics API offers wide range of functions to help dev
 **Docs / Website**: https://zohoreportsapi.wiki.zoho.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ Zoho Analytics API Zoho Analytics API offers wide range of functions to help dev
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

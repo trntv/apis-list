@@ -7,8 +7,7 @@ Jamendo Api Documentation.  Jamendo Api Documentation
 **Docs / Website**: https://developer.jamendo.com/v3.0/docs
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Jamendo Api Documentation.  Jamendo Api Documentation
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

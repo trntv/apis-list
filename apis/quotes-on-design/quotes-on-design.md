@@ -7,8 +7,7 @@ Except with a few lines of code such that ?orderby=rand works. So: EVERY OTHER A
 **Docs / Website**: https://quotesondesign.com/api/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -20,3 +19,5 @@ Except with a few lines of code such that ?orderby=rand works. So: EVERY OTHER A
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

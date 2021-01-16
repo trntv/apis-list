@@ -9,8 +9,7 @@ Particularly nice, when compared to some of its competitors, in that it offers a
 **Docs / Website**: https://dummyimage.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Particularly nice, when compared to some of its competitors, in that it offers a
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

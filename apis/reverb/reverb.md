@@ -7,8 +7,7 @@ Sell and buy music related merchandise. Join the millions of music lovers who us
 **Docs / Website**: https://www.reverb-api.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -20,3 +19,5 @@ Sell and buy music related merchandise. Join the millions of music lovers who us
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,18 +7,18 @@ Astronomy API provides timings for sunrise, sunset, moonrise, moonset, sun azimu
 **Docs / Website**: https://ipgeolocation.io/astronomy-api.html
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Data](https://github.com/apis-list/apis-list#data)
-- [Space](https://github.com/apis-list/apis-list#space)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 - [Science & Math](https://github.com/apis-list/apis-list#science--math)
+- [Space](https://github.com/apis-list/apis-list#space)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

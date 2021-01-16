@@ -7,8 +7,7 @@ A check-in made to a location-based Page
 **Docs / Website**: https://developers.facebook.com/docs/graph-api/reference/v2.3/checkin
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ A check-in made to a location-based Page
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

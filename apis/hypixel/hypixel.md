@@ -9,8 +9,7 @@ Hypixel API
 **Docs / Website**: https://github.com/HypixelDev/PublicAPI/tree/master/Documentation
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Hypixel API
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

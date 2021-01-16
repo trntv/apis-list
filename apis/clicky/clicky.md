@@ -9,8 +9,7 @@ Clicky Web Analytics is simply the best way to monitor, analyze, and react to yo
 **Docs / Website**: https://clicky.com/help/api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Clicky Web Analytics is simply the best way to monitor, analyze, and react to yo
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ NET 4 or later) Javascript Php Python 2. 7 Python 3. 5 Ruby.  Name* Title* Websi
 **Docs / Website**: https://us.jooble.org/api/about
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -20,3 +19,5 @@ NET 4 or later) Javascript Php Python 2. 7 Python 3. 5 Ruby.  Name* Title* Websi
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

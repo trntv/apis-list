@@ -9,8 +9,7 @@ Purge Help API - Other languages Afrikaans asturianu azərbaycanca Bahasa Indone
 **Docs / Website**: http://wiki.openstreetmap.org/wiki/API
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Purge Help API - Other languages Afrikaans asturianu azərbaycanca Bahasa Indone
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

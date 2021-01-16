@@ -7,8 +7,7 @@ Free API to check and predict the age of a name.  Use the API for research, ad t
 **Docs / Website**: https://agify.io
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Free API to check and predict the age of a name.  Use the API for research, ad t
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

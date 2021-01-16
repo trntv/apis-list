@@ -7,8 +7,7 @@ Innovative License Management Solution. NetLicensing RESTful APIis for developer
 **Docs / Website**: https://netlicensing.io/wiki/restful-api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Innovative License Management Solution. NetLicensing RESTful APIis for developer
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

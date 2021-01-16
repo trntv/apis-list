@@ -9,8 +9,7 @@ World Trading Data is a worldwide market data provider, for example provide a st
 **Docs / Website**: https://marketstack.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -18,7 +17,8 @@ World Trading Data is a worldwide market data provider, for example provide a st
 
 ## 🗄️ Categories:
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
-- [Data](https://github.com/apis-list/apis-list#data)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

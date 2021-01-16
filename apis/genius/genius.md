@@ -9,17 +9,18 @@ Allows users to find details about Genius artists and songs. Use our API and hel
 **Docs / Website**: https://docs.genius.com/#/getting-started-h1
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
 - [Open Source](https://github.com/apis-list/apis-list#open-source)
 - [Wiki](https://github.com/apis-list/apis-list#wiki)
-- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ API Documentation This is version 3 of the shrturi. com API. It follows common R
 **Docs / Website**: https://shrturi.com/docs
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ API Documentation This is version 3 of the shrturi. com API. It follows common R
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

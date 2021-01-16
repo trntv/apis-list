@@ -7,8 +7,7 @@ Sign In Register Welcome to the Lufthansa Developer Network!. Use the data of Eu
 **Docs / Website**: https://developer.lufthansa.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Sign In Register Welcome to the Lufthansa Developer Network!. Use the data of Eu
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

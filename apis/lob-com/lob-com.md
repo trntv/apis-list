@@ -9,8 +9,7 @@ Lob provides direct mail and address verification APIs that allow businesses to 
 **Docs / Website**: https://lob.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Lob provides direct mail and address verification APIs that allow businesses to 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ QR Code REST API. Can create QR code images or read existing images and return t
 **Docs / Website**: https://fungenerators.com/api/qrcode/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ QR Code REST API. Can create QR code images or read existing images and return t
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

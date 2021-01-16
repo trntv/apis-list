@@ -9,8 +9,7 @@ A free API to retrieve some quotes of Breaking Bad, bitch!.  A free API to retri
 **Docs / Website**: https://breakingbadquotes.xyz/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ A free API to retrieve some quotes of Breaking Bad, bitch!.  A free API to retri
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

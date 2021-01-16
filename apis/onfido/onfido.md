@@ -9,8 +9,7 @@ Our document verification and facial biometrics technology lets your users verif
 **Docs / Website**: https://documentation.onfido.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -24,3 +23,5 @@ Our document verification and facial biometrics technology lets your users verif
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

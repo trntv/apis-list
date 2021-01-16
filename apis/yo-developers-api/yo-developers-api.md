@@ -9,8 +9,7 @@ Yo API Documentation. Programmatically send Yos (contextual messages) through AP
 **Docs / Website**: https://docs.justyo.co/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -23,3 +22,5 @@ Yo API Documentation. Programmatically send Yos (contextual messages) through AP
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

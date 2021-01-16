@@ -7,8 +7,7 @@ Prague City Open Data.  Vítejte na celoměstském portálu pro otevřená data 
 **Docs / Website**: https://opendata.praha.eu/en
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -16,7 +15,10 @@ Prague City Open Data.  Vítejte na celoměstském portálu pro otevřená data 
 
 ## 🗄️ Categories:
 - [Government](https://github.com/apis-list/apis-list#government)
-- [Data](https://github.com/apis-list/apis-list#data)
+- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data)
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

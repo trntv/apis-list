@@ -7,8 +7,7 @@ Scrape websites and get their content as plaintext
 **Docs / Website**: https://websitetextextraction.apifex.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Scrape websites and get their content as plaintext
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -10,16 +10,17 @@ SDKs for integration, rich historic tick data.  AllMarkets - US stock market: re
 **Docs / Website**: https://blockfacts.io/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

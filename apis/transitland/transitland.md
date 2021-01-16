@@ -9,8 +9,7 @@ Transitland is a community-edited edited open data service aggregating transit n
 **Docs / Website**: https://transit.land/documentation/datastore/api-endpoints.html
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Transitland is a community-edited edited open data service aggregating transit n
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

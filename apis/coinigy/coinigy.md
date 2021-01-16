@@ -7,8 +7,7 @@ A place where APIs are kept. apiary.  We are aware of the issue and are working 
 **Docs / Website**: https://coinigy.docs.apiary.io
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ A place where APIs are kept. apiary.  We are aware of the issue and are working 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

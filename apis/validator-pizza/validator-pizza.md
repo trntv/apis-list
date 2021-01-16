@@ -9,8 +9,7 @@ pizza is made to prevent users to register to websites with a disposable email a
 **Docs / Website**: https://www.validator.pizza
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ pizza is made to prevent users to register to websites with a disposable email a
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

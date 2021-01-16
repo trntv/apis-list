@@ -7,8 +7,7 @@ Detect language(s) from pieces of text
 **Docs / Website**: https://languagedetection.apifex.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Detect language(s) from pieces of text
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

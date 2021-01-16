@@ -9,8 +9,7 @@ It can also detect multiple barcodes at once. It reads the following barcode for
 **Docs / Website**: https://developers.google.com/vision/barcodes-overview?hl=en
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ It can also detect multiple barcodes at once. It reads the following barcode for
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

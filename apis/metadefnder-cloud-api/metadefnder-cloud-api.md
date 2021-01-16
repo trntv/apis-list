@@ -7,16 +7,17 @@ Metadefender Cloud provides unique set of APIs for everyone who is working with 
 **Docs / Website**: https://onlinehelp.opswat.com/mdcloud/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Security](https://github.com/apis-list/apis-list#security)
 - [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
+- [Security](https://github.com/apis-list/apis-list#security)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

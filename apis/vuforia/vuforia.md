@@ -7,8 +7,7 @@ Developers can easily add advanced computer vision functionality to Android, iOS
 **Docs / Website**: https://library.vuforia.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Developers can easily add advanced computer vision functionality to Android, iOS
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

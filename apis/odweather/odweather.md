@@ -7,8 +7,7 @@ Weather for boating
 **Docs / Website**: http://api.oceandrivers.com/static/docs.html
 
 ## 🧬 Specification:
-**Type**: swagger
-
+**Type**: swagger  
 **URI**: https://api.oceandrivers.com/static/resources.json
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Weather for boating
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

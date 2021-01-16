@@ -7,8 +7,7 @@ system_capacit. format Yes Type: string Default: None Options: json, xml The out
 **Docs / Website**: https://developer.nrel.gov/docs/solar/pvwatts/v6/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ system_capacit. format Yes Type: string Default: None Options: json, xml The out
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

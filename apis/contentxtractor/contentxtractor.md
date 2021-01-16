@@ -9,8 +9,7 @@ Extract relevant content from articles. ContentXtractor automatically extracts r
 **Docs / Website**: https://contentxtractor.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -23,3 +22,5 @@ Extract relevant content from articles. ContentXtractor automatically extracts r
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

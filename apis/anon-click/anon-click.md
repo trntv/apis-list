@@ -7,8 +7,7 @@ Shorten long URLs and optionally protect them with passwords or captcha.  No reg
 **Docs / Website**: https://anon.click/api/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Shorten long URLs and optionally protect them with passwords or captcha.  No reg
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

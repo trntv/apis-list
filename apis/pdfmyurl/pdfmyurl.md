@@ -9,18 +9,19 @@ Easily Convert URLs / Webpages or HTML to PDF in any Programming Language or on 
 **Docs / Website**: https://pdfmyurl.com/html-to-pdf-api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Office](https://github.com/apis-list/apis-list#office)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
 - [Conversions](https://github.com/apis-list/apis-list#conversions)
 - [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
+- [Office](https://github.com/apis-list/apis-list#office)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

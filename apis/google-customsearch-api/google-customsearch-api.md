@@ -9,8 +9,7 @@ With this API, you can use RESTful req. The Custom Search JSON API lets you deve
 **Docs / Website**: https://developers.google.com/custom-search/json-api/v1/overview
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ With this API, you can use RESTful req. The Custom Search JSON API lets you deve
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

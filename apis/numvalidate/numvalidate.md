@@ -7,8 +7,7 @@ Free and open source REST API that provides a simple yet effective way to valida
 **Docs / Website**: https://numvalidate.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Free and open source REST API that provides a simple yet effective way to valida
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

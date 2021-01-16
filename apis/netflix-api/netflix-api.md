@@ -7,8 +7,7 @@ The service that handles the (sign-up, discovery and playback) traffic from all 
 **Docs / Website**: https://netflix.github.io/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ The service that handles the (sign-up, discovery and playback) traffic from all 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

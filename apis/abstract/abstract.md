@@ -9,8 +9,7 @@ Used by 10,000+ developers worldwide. . Suite of utility API's (validate emails,
 **Docs / Website**: https://www.abstractapi.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -23,3 +22,5 @@ Used by 10,000+ developers worldwide. . Suite of utility API's (validate emails,
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

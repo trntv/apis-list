@@ -9,8 +9,7 @@ IPinfo APIs handle over 500 million requests per day and have been online since 
 **Docs / Website**: https://ipinfo.io/developers
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ IPinfo APIs handle over 500 million requests per day and have been online since 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

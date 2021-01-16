@@ -7,20 +7,21 @@ Multilingual summarization, keywords and sentiment analysis, language recognitio
 **Docs / Website**: https://www.summarizebot.com/summarization_business.html
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
-- [Images](https://github.com/apis-list/apis-list#images)
 - [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
 - [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
 - [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
+- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

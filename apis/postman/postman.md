@@ -7,8 +7,7 @@ Browser not supported Try using a different browser or the desktop app. View a l
 **Docs / Website**: https://docs.api.getpostman.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Browser not supported Try using a different browser or the desktop app. View a l
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

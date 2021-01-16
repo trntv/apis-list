@@ -7,8 +7,7 @@ Free JSON data storage service, ideal for small scale web apps, website, mobile 
 **Docs / Website**: https://jsonbin.io/api-reference
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Free JSON data storage service, ideal for small scale web apps, website, mobile 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

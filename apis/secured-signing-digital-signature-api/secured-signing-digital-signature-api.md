@@ -7,8 +7,7 @@ The Secured Signing REST-based, JSON API allows you to add PKI based digital sig
 **Docs / Website**: https://securedsigning.com/developer/api-documentation
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ The Secured Signing REST-based, JSON API allows you to add PKI based digital sig
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

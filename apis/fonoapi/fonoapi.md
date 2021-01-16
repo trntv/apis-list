@@ -1,21 +1,22 @@
 # fonoApi
 
 
-Sorry the site service is down. Sorry the site service is down. please take a look at github for updates : here
+Mobile Device Description Api
 
 ##  🔗 Links
 **Docs / Website**: https://fonoapi.freshpixl.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Data](https://github.com/apis-list/apis-list#data)
+- [Hardware](https://github.com/apis-list/apis-list#hardware)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

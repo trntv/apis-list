@@ -9,17 +9,18 @@ Integrate your existing service into DroneDeploy and reach tens of thousands of 
 **Docs / Website**: https://developer.dronedeploy.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Robots](https://github.com/apis-list/apis-list#robots)
-- [Images](https://github.com/apis-list/apis-list#images)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Robots](https://github.com/apis-list/apis-list#robots)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

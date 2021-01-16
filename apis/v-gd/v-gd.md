@@ -7,8 +7,7 @@ Simple URL shortener.  Supports custom short link ending.  Our main portal for d
 **Docs / Website**: https://v.gd/developers.php
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Simple URL shortener.  Supports custom short link ending.  Our main portal for d
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

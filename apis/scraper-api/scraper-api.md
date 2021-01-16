@@ -7,8 +7,7 @@ Scraper API is a web scraping API that handles proxy rotation, browsers, and CAP
 **Docs / Website**: https://www.scraperapi.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Scraper API is a web scraping API that handles proxy rotation, browsers, and CAP
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

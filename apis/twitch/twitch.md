@@ -9,8 +9,7 @@ The Twitch API enables you to develop your own applications using the rich featu
 **Docs / Website**: https://dev.twitch.tv/docs
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ The Twitch API enables you to develop your own applications using the rich featu
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

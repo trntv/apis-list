@@ -7,8 +7,7 @@ Official API for reed.co.uk jobs website
 **Docs / Website**: https://www.reed.co.uk/developers
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Official API for reed.co.uk jobs website
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

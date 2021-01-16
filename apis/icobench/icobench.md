@@ -9,8 +9,7 @@ ICObench Data API allows you to get various information and data from the platfo
 **Docs / Website**: https://icobench.com/developers
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ ICObench Data API allows you to get various information and data from the platfo
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

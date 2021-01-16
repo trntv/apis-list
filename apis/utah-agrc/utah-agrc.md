@@ -9,8 +9,7 @@ Geocoding API Methods API methods for finding a geolocation (x,y) for addresses.
 **Docs / Website**: https://api.mapserv.utah.gov
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Geocoding API Methods API methods for finding a geolocation (x,y) for addresses.
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,8 +9,7 @@ A restful API for football data.  A restful API for football data
 **Docs / Website**: http://api.football-data.org/index
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ A restful API for football data.  A restful API for football data
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

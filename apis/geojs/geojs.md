@@ -9,8 +9,7 @@ REST/JSON/JSONP GeoIP API.  REST/JSON/JSONP GeoIP API
 **Docs / Website**: https://geojs.io/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ REST/JSON/JSONP GeoIP API.  REST/JSON/JSONP GeoIP API
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

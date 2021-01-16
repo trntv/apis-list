@@ -7,8 +7,7 @@ Get information about countries via a RESTful API. Get information about countri
 **Docs / Website**: https://restcountries.eu
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Get information about countries via a RESTful API. Get information about countri
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,8 +9,7 @@ Real-time exchange rates for 154 world currencies provided in JSON format and wo
 **Docs / Website**: https://currencystack.io
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -23,3 +22,5 @@ Real-time exchange rates for 154 world currencies provided in JSON format and wo
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

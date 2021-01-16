@@ -9,8 +9,7 @@ Detects 164 languages. Supports short texts, batch requests, JavaScript, Python,
 **Docs / Website**: https://detectlanguage.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ Detects 164 languages. Supports short texts, batch requests, JavaScript, Python,
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

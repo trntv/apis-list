@@ -7,8 +7,7 @@ Free, legal research articles delivered instantly or automatically requested fro
 **Docs / Website**: https://openaccessbutton.org/api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -17,10 +16,10 @@ Free, legal research articles delivered instantly or automatically requested fro
 ## 🗄️ Categories:
 - [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
-- [Data](https://github.com/apis-list/apis-list#data)
 - [Science & Math](https://github.com/apis-list/apis-list#science--math)
 - [Search](https://github.com/apis-list/apis-list#search)
-- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

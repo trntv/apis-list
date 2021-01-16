@@ -7,8 +7,7 @@ USGS Earthquake Hazards Program, responsible for monitoring, reporting, and rese
 **Docs / Website**: https://earthquake.usgs.gov/fdsnws/event/1/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ USGS Earthquake Hazards Program, responsible for monitoring, reporting, and rese
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

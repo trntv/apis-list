@@ -9,8 +9,7 @@ Deezer API provides a nice set of services to build up web applications allowing
 **Docs / Website**: http://developers.deezer.com/api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -23,3 +22,5 @@ Deezer API provides a nice set of services to build up web applications allowing
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

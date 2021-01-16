@@ -7,8 +7,7 @@ Accurate & reliable Exchange Rates API trusted by tens of thousands of developer
 **Docs / Website**: https://www.exchangerate-api.com/docs/overview
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Accurate & reliable Exchange Rates API trusted by tens of thousands of developer
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

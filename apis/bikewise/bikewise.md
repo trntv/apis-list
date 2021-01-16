@@ -7,8 +7,7 @@ Posting in the future we will accept incidents, r. BikeWise API General notes: T
 **Docs / Website**: https://www.bikewise.org/documentation/api_v2
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Posting in the future we will accept incidents, r. BikeWise API General notes: T
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

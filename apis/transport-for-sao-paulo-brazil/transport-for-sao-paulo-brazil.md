@@ -7,8 +7,7 @@ A categoria Linhas possibilita a consulta pelas linhas de ônibus da cidade de S
 **Docs / Website**: http://www.sptrans.com.br/desenvolvedores/api-do-olho-vivo-guia-de-referencia/documentacao-api/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ A categoria Linhas possibilita a consulta pelas linhas de ônibus da cidade de S
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

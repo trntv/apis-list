@@ -9,8 +9,7 @@ Google’s product is quite similar to Amazon’s but it’s actually. Amazon Ma
 **Docs / Website**: http://www.louisdorard.com/blog/machine-learning-apis-comparison
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Google’s product is quite similar to Amazon’s but it’s actually. Amazon Ma
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

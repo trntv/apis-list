@@ -9,8 +9,7 @@ Weather API Documentation. Use our Weather API to access weather forecasts, and 
 **Docs / Website**: https://www.weatherbit.io/api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -18,8 +17,8 @@ Weather API Documentation. Use our Weather API to access weather forecasts, and 
 
 ## 🗄️ Categories:
 - [Weather](https://github.com/apis-list/apis-list#weather)
-- [Environment](https://github.com/apis-list/apis-list#environment)
-- [Data](https://github.com/apis-list/apis-list#data)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

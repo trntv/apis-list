@@ -7,8 +7,7 @@ Here you can view mobility data free of charge and access various services. The 
 **Docs / Website**: https://opentransportdata.swiss/en/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Here you can view mobility data free of charge and access various services. The 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ citybik. es/v2/networks { "networks":. CityBikes API Documentation Welcome to th
 **Docs / Website**: http://api.citybik.es/v2/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ citybik. es/v2/networks { "networks":. CityBikes API Documentation Welcome to th
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

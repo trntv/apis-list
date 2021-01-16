@@ -7,8 +7,7 @@ You may have mistyped the address or the page may have moved Take me back to the
 **Docs / Website**: https://help.fullstory.com/11269-Develop
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ You may have mistyped the address or the page may have moved Take me back to the
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

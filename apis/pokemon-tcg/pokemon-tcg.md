@@ -9,8 +9,7 @@ The Pokémon TCG API allows developers to easily consume Pokémon card and set d
 **Docs / Website**: https://pokemontcg.io
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ The Pokémon TCG API allows developers to easily consume Pokémon card and set d
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

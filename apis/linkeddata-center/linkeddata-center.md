@@ -7,8 +7,7 @@ a RDF graph database as a service with W3C SPARQL query and SPARQL update apis
 **Docs / Website**: http://linkeddata.center/home/gdaas
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ a RDF graph database as a service with W3C SPARQL query and SPARQL update apis
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

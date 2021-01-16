@@ -7,8 +7,7 @@ Biography. From both the universe, and more.  Images. Get all SuperHeroes and Vi
 **Docs / Website**: https://superheroapi.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Biography. From both the universe, and more.  Images. Get all SuperHeroes and Vi
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

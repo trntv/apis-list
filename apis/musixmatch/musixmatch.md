@@ -1,14 +1,13 @@
 # Musixmatch
 
 
-Power your music project by licensing access to the world’s most authoritative lyrics DB. API PLAYGROUND Our Playground lets you quickly test our API and play with the formatted response you’ll get for each call
+Power your music project by licensing access to the world’s most authoritative lyrics DB.
 
 ##  🔗 Links
 **Docs / Website**: https://developer.musixmatch.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -20,3 +19,5 @@ Power your music project by licensing access to the world’s most authoritative
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

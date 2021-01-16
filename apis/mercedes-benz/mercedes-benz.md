@@ -9,8 +9,7 @@ Get access to our live API products or newer initiatives in development. Easily 
 **Docs / Website**: https://developer.mercedes-benz.com/apis
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ Get access to our live API products or newer initiatives in development. Easily 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

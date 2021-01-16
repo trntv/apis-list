@@ -9,8 +9,7 @@ Central bank of Australia
 **Docs / Website**: https://www.rba.gov.au/statistics/tables/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Central bank of Australia
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

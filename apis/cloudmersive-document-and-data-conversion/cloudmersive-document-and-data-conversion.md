@@ -8,8 +8,7 @@ Convert files and content between file formats. Convert data between file format
 **Docs / Website**: https://cloudmersive.com/convert-api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -18,7 +17,9 @@ Convert files and content between file formats. Convert data between file format
 ## 🗄️ Categories:
 - [Office](https://github.com/apis-list/apis-list#office)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
-- [Images](https://github.com/apis-list/apis-list#images)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

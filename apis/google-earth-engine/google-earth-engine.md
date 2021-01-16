@@ -9,8 +9,7 @@ Perform geospatial processing powered by Google's cloud infrastructure. Perform 
 **Docs / Website**: https://developers.google.com/earth-engine/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -18,7 +17,9 @@ Perform geospatial processing powered by Google's cloud infrastructure. Perform 
 
 ## 🗄️ Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
-- [Images](https://github.com/apis-list/apis-list#images)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

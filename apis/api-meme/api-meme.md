@@ -7,8 +7,7 @@ Generate memes with a simple link!.  Meme Top Text Bottom Text Link To access th
 **Docs / Website**: http://apimeme.com
 
 ## 🧬 Specification:
-**Type**: openapi
-
+**Type**: openapi  
 **URI**: https://tl-api.azurewebsites.net/swagger/default/swagger.json
 
 ## 💬 Discussion:
@@ -20,3 +19,5 @@ Generate memes with a simple link!.  Meme Top Text Bottom Text Link To access th
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

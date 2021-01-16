@@ -7,8 +7,7 @@ What's this API for? This API is for fetching data from NASA's APOD website - a 
 **Docs / Website**: https://apodapi.herokuapp.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ What's this API for? This API is for fetching data from NASA's APOD website - a 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,8 +9,7 @@ Access metadata, user’s entire library of music and do much more. The Napster 
 **Docs / Website**: https://developer.rhapsody.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Access metadata, user’s entire library of music and do much more. The Napster 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ Buy, sell and store Bitcoin, Ethereum, Ripple (XRP), Litecoin & other cryptocurr
 **Docs / Website**: https://www.quidax.com/developers/api_v2
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Buy, sell and store Bitcoin, Ethereum, Ripple (XRP), Litecoin & other cryptocurr
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

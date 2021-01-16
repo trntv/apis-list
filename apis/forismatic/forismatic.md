@@ -7,8 +7,7 @@ Gives you a random quote per click.
 **Docs / Website**: http://forismatic.com/en/api/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Gives you a random quote per click.
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

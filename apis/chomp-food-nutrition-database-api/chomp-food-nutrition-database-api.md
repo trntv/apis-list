@@ -9,8 +9,7 @@ A powerful API that provides detailed data on over 500,000 products such as nutr
 **Docs / Website**: https://chompthis.com/api/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ A powerful API that provides detailed data on over 500,000 products such as nutr
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,8 +9,7 @@ A drop-in-replacement for the deprecated Google Image Charts. Easiest way to emb
 **Docs / Website**: https://www.image-charts.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ A drop-in-replacement for the deprecated Google Image Charts. Easiest way to emb
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

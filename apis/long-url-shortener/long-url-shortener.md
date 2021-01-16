@@ -7,8 +7,7 @@ Given a long URL, returns a short link
 **Docs / Website**: https://cleanuri.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Given a long URL, returns a short link
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

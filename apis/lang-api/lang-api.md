@@ -9,8 +9,7 @@ LangAPI exists to help developers rapidly translate and localize their apps for 
 **Docs / Website**: https://docs.langapi.co/#introduction/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ LangAPI exists to help developers rapidly translate and localize their apps for 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

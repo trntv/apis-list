@@ -7,8 +7,7 @@ Add an application You can have as many applications as you would like, we don't
 **Docs / Website**: https://shrtlnk.dev/developer
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Add an application You can have as many applications as you would like, we don't
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,8 +9,7 @@ Connect your app or website users to over 100 million points of interests with P
 **Docs / Website**: https://developers.google.com/places/?hl=en
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -23,3 +22,5 @@ Connect your app or website users to over 100 million points of interests with P
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ Supports intraday, daily, weekly, and monthly quotes and technical analysis with
 **Docs / Website**: https://www.alphavantage.co/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -20,3 +19,5 @@ Supports intraday, daily, weekly, and monthly quotes and technical analysis with
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

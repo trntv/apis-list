@@ -7,8 +7,7 @@ Overview Quickstart Expert user? Allergic to lengthy documentation sites?Follow 
 **Docs / Website**: https://developer.adzuna.com/overview
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ Overview Quickstart Expert user? Allergic to lengthy documentation sites?Follow 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

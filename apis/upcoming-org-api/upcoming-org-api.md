@@ -9,8 +9,7 @@ A simple way to share and discover interesting events from your friends, followe
 **Docs / Website**: 
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ A simple way to share and discover interesting events from your friends, followe
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

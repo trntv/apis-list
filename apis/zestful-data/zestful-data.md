@@ -9,8 +9,7 @@ The Zestful's ingredient parser API turns plain recipe strings into beautiful, s
 **Docs / Website**: https://zestfuldata.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ The Zestful's ingredient parser API turns plain recipe strings into beautiful, s
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

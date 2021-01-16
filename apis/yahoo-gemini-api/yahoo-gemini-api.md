@@ -9,8 +9,7 @@ Developer tools and the support you need to leverage Verizon Media's powerful da
 **Docs / Website**: https://developer.yahoo.com/gemini/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Developer tools and the support you need to leverage Verizon Media's powerful da
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

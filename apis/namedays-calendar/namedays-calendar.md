@@ -7,8 +7,7 @@ API returns namedays for various countries
 **Docs / Website**: https://api.abalin.net/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ API returns namedays for various countries
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

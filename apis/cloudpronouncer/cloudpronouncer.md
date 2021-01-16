@@ -7,8 +7,7 @@ Text To Speech API - CloudPronouncer (tts online or tts reader) is a cross brows
 **Docs / Website**: https://www.de-vis-software.ro/text-to-speech-api.aspx
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Text To Speech API - CloudPronouncer (tts online or tts reader) is a cross brows
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ There are limitless ways in which you can customize the Woopra platform, making 
 **Docs / Website**: https://www.woopra.com/docs/developer/analytics-api/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ There are limitless ways in which you can customize the Woopra platform, making 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

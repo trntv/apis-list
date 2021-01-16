@@ -9,8 +9,7 @@ Gfycat’s API - collection of GIFs
 **Docs / Website**: https://developers.gfycat.com/api/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -20,8 +19,10 @@ Gfycat’s API - collection of GIFs
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Art & Design](https://github.com/apis-list/apis-list#art--design)
 - [Photography](https://github.com/apis-list/apis-list#photography)
-- [Images](https://github.com/apis-list/apis-list#images)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 - [Fun](https://github.com/apis-list/apis-list#fun)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

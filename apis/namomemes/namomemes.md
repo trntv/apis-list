@@ -9,8 +9,7 @@ Is a description required ? Hail NaMo ! Contribute to theIYD/NaMoMemes developme
 **Docs / Website**: https://github.com/theIYD/NaMoMemes
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Is a description required ? Hail NaMo ! Contribute to theIYD/NaMoMemes developme
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

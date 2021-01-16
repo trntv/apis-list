@@ -9,8 +9,7 @@ Provides third-party integration with the TweetMeme web service, used to track p
 **Docs / Website**: 
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Provides third-party integration with the TweetMeme web service, used to track p
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ The StackExchange API provides RESTful services to all the sites on the StackExc
 **Docs / Website**: https://api.stackexchange.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ The StackExchange API provides RESTful services to all the sites on the StackExc
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

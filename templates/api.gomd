@@ -11,8 +11,7 @@
 **Docs / Website**: {{ .api.URI }}
 
 ## 🧬 Specification:
-**Type**: {{ if  .api.SpecificationType }}{{ .api.SpecificationType }}{{ else }}N/A{{ end }}
-
+**Type**: {{ if  .api.SpecificationType }}{{ .api.SpecificationType }}{{ else }}N/A{{ end }}  
 **URI**: {{ if  .api.SpecificationUri }}{{ .api.SpecificationUri }}{{ else }}N/A{{ end }}
 
 ## 💬 Discussion:
@@ -32,3 +31,5 @@
 {{- end }}
 {{ end }}
 {{ end }}
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

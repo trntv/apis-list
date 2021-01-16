@@ -7,8 +7,7 @@ Click here if you are not redirected. Access to GitHub’s Authentication API. R
 **Docs / Website**: https://developer.github.com/guides/basics-of-authentication/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Click here if you are not redirected. Access to GitHub’s Authentication API. R
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,8 +9,7 @@ These factors include permissions, inclusion of vulnerable third party javascrip
 **Docs / Website**: https://crxcavator.io/apidocs
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ These factors include permissions, inclusion of vulnerable third party javascrip
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

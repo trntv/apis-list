@@ -7,16 +7,17 @@ The Bitly API Bitly is the most widely trusted link management platform in the w
 **Docs / Website**: https://dev.bitly.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [URLs](https://github.com/apis-list/apis-list#urls)
 - [URL Shortening](https://github.com/apis-list/apis-list#url-shortening)
+- [URLs](https://github.com/apis-list/apis-list#urls)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

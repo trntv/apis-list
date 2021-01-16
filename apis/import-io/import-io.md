@@ -7,8 +7,7 @@ We use standard HTTP which ca. .  Introduction The import. Introduction The impo
 **Docs / Website**: http://api.docs.import.io/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ We use standard HTTP which ca. .  Introduction The import. Introduction The impo
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

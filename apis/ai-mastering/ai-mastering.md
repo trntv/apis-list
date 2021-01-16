@@ -7,8 +7,7 @@ AI Mastering API provides automated audio mastering service. You can upload your
 **Docs / Website**: https://aimastering.com/api_docs/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ AI Mastering API provides automated audio mastering service. You can upload your
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

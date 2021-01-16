@@ -9,8 +9,7 @@ API for IP and Email Intelligence & Phone Number Validation. API for email valid
 **Docs / Website**: https://www.antideo.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ API for IP and Email Intelligence & Phone Number Validation. API for email valid
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

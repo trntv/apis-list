@@ -9,8 +9,7 @@ This platform acts as a layer on top of third-party APIs, using code snippets to
 **Docs / Website**: https://temboo.com/download
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ This platform acts as a layer on top of third-party APIs, using code snippets to
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

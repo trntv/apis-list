@@ -7,8 +7,7 @@ Language Understanding Intelligent Service offers a fast and effective way of ad
 **Docs / Website**: https://www.luis.ai/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Language Understanding Intelligent Service offers a fast and effective way of ad
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

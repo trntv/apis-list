@@ -7,8 +7,7 @@ Last Update: November 1, 2012 7Timer! is a series of web-based meteorological fo
 **Docs / Website**: http://www.7timer.info/doc.php?lang=en
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Last Update: November 1, 2012 7Timer! is a series of web-based meteorological fo
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

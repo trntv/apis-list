@@ -9,8 +9,7 @@ An API for the english language. Definitions, related words, rhymes, and more. U
 **Docs / Website**: https://www.wordsapi.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ An API for the english language. Definitions, related words, rhymes, and more. U
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,8 +9,7 @@ Electronic medical records, practice management and medical billing API.  Explor
 **Docs / Website**: https://www.drchrono.com/api/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Electronic medical records, practice management and medical billing API.  Explor
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

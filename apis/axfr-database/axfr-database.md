@@ -9,8 +9,7 @@ AXFR public database
 **Docs / Website**: http://api.axfrcheck.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ AXFR public database
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

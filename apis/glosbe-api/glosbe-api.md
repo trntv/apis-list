@@ -9,8 +9,7 @@ Dictionary API and Translation Memory API description. Application Programming I
 **Docs / Website**: https://glosbe.com/a-api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Dictionary API and Translation Memory API description. Application Programming I
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

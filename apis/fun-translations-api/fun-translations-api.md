@@ -9,8 +9,7 @@ World's best fun translation tools via REST API.  Yoda speak converter, pirate c
 **Docs / Website**: https://funtranslations.com/api/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ World's best fun translation tools via REST API.  Yoda speak converter, pirate c
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

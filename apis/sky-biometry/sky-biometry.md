@@ -9,8 +9,7 @@ SkyBiometry uses completely different computer vision algorithms for face detect
 **Docs / Website**: https://skybiometry.com/documentation/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ SkyBiometry uses completely different computer vision algorithms for face detect
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

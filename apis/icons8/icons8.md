@@ -7,16 +7,17 @@ Icons8 offers simple reliable solutions to cope with all sorts of the challenges
 **Docs / Website**: https://icons8.github.io/icons8-docs/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Images](https://github.com/apis-list/apis-list#images)
 - [Art & Design](https://github.com/apis-list/apis-list#art--design)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ Find food recipes.  The Yummly Recipe API lets you integrate recipes and faceted
 **Docs / Website**: https://developer.yummly.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Find food recipes.  The Yummly Recipe API lets you integrate recipes and faceted
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ Australian Government Open Data
 **Docs / Website**: https://www.data.gov.au/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Australian Government Open Data
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

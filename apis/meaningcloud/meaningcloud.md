@@ -9,8 +9,7 @@ Text analysis APIs for topic extraction, sentiment analysis, automatic classific
 **Docs / Website**: https://www.meaningcloud.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Text analysis APIs for topic extraction, sentiment analysis, automatic classific
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ Languages: English • Русский • API 日本語 (Add your language) The 
 **Docs / Website**: https://codex.wordpress.org/WordPress_APIs
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Languages: English • Русский • API 日本語 (Add your language) The 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ Aadhaar is a 12-digit unique identification number issued by the Indian governme
 **Docs / Website**: https://www.aadhaarbridge.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -20,3 +19,5 @@ Aadhaar is a 12-digit unique identification number issued by the Indian governme
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

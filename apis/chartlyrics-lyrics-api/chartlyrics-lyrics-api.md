@@ -7,8 +7,7 @@ v1. 1 Update, adding TrackId and TrackChecksum for future AddLyric function, Add
 **Docs / Website**: http://www.chartlyrics.com/api.aspx
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ v1. 1 Update, adding TrackId and TrackChecksum for future AddLyric function, Add
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

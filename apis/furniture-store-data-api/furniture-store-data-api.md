@@ -9,8 +9,7 @@ Prerequisites: Visual Studio 4. The API is designed on a demo base for a furnitu
 **Docs / Website**: https://getrit.com/API/Token
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Prerequisites: Visual Studio 4. The API is designed on a demo base for a furnitu
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

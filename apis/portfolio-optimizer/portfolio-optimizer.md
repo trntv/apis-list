@@ -9,8 +9,7 @@ API for investment portfolio optimization.  The science of portfolio optimizatio
 **Docs / Website**: https://portfoliooptimizer.io/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ API for investment portfolio optimization.  The science of portfolio optimizatio
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,18 +7,19 @@ Already signed up and logged in? View your API key now. Try searching the API ri
 **Docs / Website**: https://developer.nutritionix.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks)
 - [Bar & QR Codes](https://github.com/apis-list/apis-list#bar--qr-codes)
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness)
 - [Health](https://github.com/apis-list/apis-list#health)
-- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

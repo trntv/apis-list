@@ -9,8 +9,7 @@ Generate random cartoon avatars
 **Docs / Website**: http://avatars.adorable.io
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Generate random cartoon avatars
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

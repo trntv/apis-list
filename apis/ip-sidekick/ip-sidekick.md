@@ -7,8 +7,7 @@ IP Sidekick is an API that returns information about an IP address. You can use 
 **Docs / Website**: https://ipsidekick.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ IP Sidekick is an API that returns information about an IP address. You can use 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

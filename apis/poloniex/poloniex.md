@@ -7,8 +7,7 @@ US based digital asset exchange
 **Docs / Website**: https://poloniex.com/support/api/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ US based digital asset exchange
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,8 +9,7 @@ Global Identity Verification API. Get a clearer picture of your customer.  Insta
 **Docs / Website**: https://pro.whitepages.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -25,3 +24,5 @@ Global Identity Verification API. Get a clearer picture of your customer.  Insta
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

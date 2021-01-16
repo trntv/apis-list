@@ -9,8 +9,7 @@ Generous free tier, offering Enterprise-grade APIs for everyone!. Affordable Geo
 **Docs / Website**: https://locationiq.org/docs/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Generous free tier, offering Enterprise-grade APIs for everyone!. Affordable Geo
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

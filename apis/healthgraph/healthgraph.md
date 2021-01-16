@@ -9,8 +9,7 @@ RunKeeper's web-based HealthGraph API presents Health Graph data, and provides i
 **Docs / Website**: https://runkeeper.com/developer/healthgraph/registration-authorization
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ RunKeeper's web-based HealthGraph API presents Health Graph data, and provides i
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

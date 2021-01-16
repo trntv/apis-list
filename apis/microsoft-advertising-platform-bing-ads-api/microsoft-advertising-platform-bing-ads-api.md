@@ -9,8 +9,7 @@ Official developer documentation for Microsoft Advertising. Provides programmati
 **Docs / Website**: https://msdn.microsoft.com/en-us/library/bing-ads-api.aspx
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Official developer documentation for Microsoft Advertising. Provides programmati
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

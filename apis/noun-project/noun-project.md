@@ -7,8 +7,7 @@ Grab a hold of the World’s Visual Language! Use it in your service or applicat
 **Docs / Website**: http://api.thenounproject.com/index.html
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -16,8 +15,10 @@ Grab a hold of the World’s Visual Language! Use it in your service or applicat
 
 ## 🗄️ Categories:
 - [Visualizations](https://github.com/apis-list/apis-list#visualizations)
-- [Images](https://github.com/apis-list/apis-list#images)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 - [Art & Design](https://github.com/apis-list/apis-list#art--design)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

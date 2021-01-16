@@ -7,8 +7,7 @@ Connect the people who have knowledge to the people who need it, to bring togeth
 **Docs / Website**: https://www.quora.com/q/edmondlausposts/Quora-Extension-API
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -20,3 +19,5 @@ Connect the people who have knowledge to the people who need it, to bring togeth
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ Free screenshot api for capturing web pages.  Let our website screenshot generat
 **Docs / Website**: https://www.screenshotmachine.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Free screenshot api for capturing web pages.  Let our website screenshot generat
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

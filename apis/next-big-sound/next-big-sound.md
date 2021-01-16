@@ -1,14 +1,13 @@
-# Next Big Sound
+# Next Big Sound API
 
 
-403 Forbidden Request forbidden by administrative rules. . API offers a very simple interface to access data from NBS. Ruby wrapper available
+Next Big Sound helps artists and their teams use Pandora to understand performance, grow audiences, and fuel strategy.
 
 ##  🔗 Links
 **Docs / Website**: https://api3.nextbigsound.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -17,7 +16,8 @@
 ## 🗄️ Categories:
 - [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
 - [Social](https://github.com/apis-list/apis-list#social)
-- [Data](https://github.com/apis-list/apis-list#data)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

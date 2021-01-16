@@ -9,8 +9,7 @@ Documentation for Medium's OAuth2 API. Documentation for Medium's OAuth2 API. Co
 **Docs / Website**: https://github.com/Medium/medium-api-docs
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -24,3 +23,5 @@ Documentation for Medium's OAuth2 API. Documentation for Medium's OAuth2 API. Co
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

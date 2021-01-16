@@ -9,8 +9,7 @@ Join the 200,000 developers using Yahoo tools to build their app businesses. Con
 **Docs / Website**: https://developer.yahoo.com/contentanalysis/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Join the 200,000 developers using Yahoo tools to build their app businesses. Con
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,8 +9,7 @@ NPR's API is a content API, which essentially provides a structured way for othe
 **Docs / Website**: https://dev.npr.org/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ NPR's API is a content API, which essentially provides a structured way for othe
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

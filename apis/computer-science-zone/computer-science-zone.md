@@ -9,8 +9,7 @@
 **Docs / Website**: http://www.computersciencezone.org/50-most-useful-apis-for-developers/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

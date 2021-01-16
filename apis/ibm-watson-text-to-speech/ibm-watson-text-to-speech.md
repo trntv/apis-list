@@ -9,16 +9,17 @@ A really simple api that lets you convert text to speech. It’s 100% free for u
 **Docs / Website**: https://www.ibm.com/thought-leadership/smart/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
 - [Voice](https://github.com/apis-list/apis-list#voice)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

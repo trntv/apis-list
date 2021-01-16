@@ -9,17 +9,18 @@ Grabs email addresses from a URL
 **Docs / Website**: https://market.mashape.com/tommytcchan/scrape-website-email
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
 - [Email & SMS](https://github.com/apis-list/apis-list#email--sms)
 - [Development](https://github.com/apis-list/apis-list#development)
-- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

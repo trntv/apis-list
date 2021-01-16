@@ -7,8 +7,7 @@ A comprehensive Cannabis database includes products, prices, stock and inventory
 **Docs / Website**: https://neobi.io/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ A comprehensive Cannabis database includes products, prices, stock and inventory
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

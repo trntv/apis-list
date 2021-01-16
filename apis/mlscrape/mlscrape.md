@@ -7,18 +7,19 @@ MLScrape is an API that allows you to scrape data from any online shop without h
 **Docs / Website**: https://www.mlscrape.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

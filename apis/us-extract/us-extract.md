@@ -9,8 +9,7 @@ Simple HTTP endpoint and SDKs.  Try free now. Extract USPS addresses from any te
 **Docs / Website**: https://smartystreets.com/products/apis/us-extract-api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Simple HTTP endpoint and SDKs.  Try free now. Extract USPS addresses from any te
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,15 +7,14 @@ Crime, school and transportation data for US cities.
 **Docs / Website**: https://www.citycontext.com/api-reference#/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Data](https://github.com/apis-list/apis-list#data)
+- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data)
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
 - [Education](https://github.com/apis-list/apis-list#education)
 - [Real Estate](https://github.com/apis-list/apis-list#real-estate)
@@ -23,3 +22,5 @@ Crime, school and transportation data for US cities.
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

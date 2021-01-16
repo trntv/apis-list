@@ -9,16 +9,17 @@ Documentation and Samples for the Official HN API. Contribute to HackerNews/API 
 **Docs / Website**: https://github.com/HackerNews/API
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
 - [Social](https://github.com/apis-list/apis-list#social)
+- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

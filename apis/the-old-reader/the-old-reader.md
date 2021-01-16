@@ -9,8 +9,7 @@ The Old Reader API. The Old Reader API.  Contribute to theoldreader/api developm
 **Docs / Website**: https://github.com/theoldreader/api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ The Old Reader API. The Old Reader API.  Contribute to theoldreader/api developm
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

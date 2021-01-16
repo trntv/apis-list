@@ -9,8 +9,7 @@ Secure and reliable Online Tools. Free URL Shortener API without limits
 **Docs / Website**: https://app.shrtco.de/docs
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Secure and reliable Online Tools. Free URL Shortener API without limits
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

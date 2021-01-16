@@ -9,8 +9,7 @@ This page is a hub space linking to the Analytics API guides.  There are two mai
 **Docs / Website**: https://matomo.org/docs/analytics-api/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ This page is a hub space linking to the Analytics API guides.  There are two mai
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

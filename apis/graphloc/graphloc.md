@@ -9,8 +9,7 @@ Free GraphQL IP Geolocation API
 **Docs / Website**: https://graphloc.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Free GraphQL IP Geolocation API
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

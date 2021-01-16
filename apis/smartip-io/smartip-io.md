@@ -17,8 +17,7 @@ Assess potential risks and threats coming from certain IP addresses by detecting
 **Docs / Website**: https://smartip.io
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -29,3 +28,5 @@ Assess potential risks and threats coming from certain IP addresses by detecting
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

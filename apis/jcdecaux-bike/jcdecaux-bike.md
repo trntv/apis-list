@@ -7,8 +7,7 @@ From the location of the bike stations to the availability of bikes and parking 
 **Docs / Website**: https://developer.jcdecaux.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ From the location of the bike stations to the availability of bikes and parking 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

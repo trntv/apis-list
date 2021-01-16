@@ -7,8 +7,7 @@ Information on all things Star Trek
 **Docs / Website**: http://stapi.co
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Information on all things Star Trek
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

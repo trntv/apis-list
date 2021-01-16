@@ -9,17 +9,18 @@ Free, powerful HTML to PDF API supporting both URL and raw HTML conversion. Free
 **Docs / Website**: https://pdflayer.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Tools](https://github.com/apis-list/apis-list#tools)
 - [Conversions](https://github.com/apis-list/apis-list#conversions)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
+- [Tools](https://github.com/apis-list/apis-list#tools)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

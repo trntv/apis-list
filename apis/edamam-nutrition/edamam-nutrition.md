@@ -7,17 +7,18 @@ API developer portal for Nutrition Analysis, Food Database Lookup, Recipe Search
 **Docs / Website**: https://developer.edamam.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Tools](https://github.com/apis-list/apis-list#tools)
 - [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks)
 - [Health](https://github.com/apis-list/apis-list#health)
+- [Tools](https://github.com/apis-list/apis-list#tools)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

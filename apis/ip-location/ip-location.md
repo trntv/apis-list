@@ -7,8 +7,7 @@ Free IP Geolocation API - lookup any IP address. Free IP Geolocation API - looku
 **Docs / Website**: http://ip-api.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Free IP Geolocation API - lookup any IP address. Free IP Geolocation API - looku
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

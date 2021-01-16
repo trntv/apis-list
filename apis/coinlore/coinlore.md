@@ -9,8 +9,7 @@ Coinlore presents public free crypto tick data api
 **Docs / Website**: https://www.coinlore.com/cryptocurrency-data-api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Coinlore presents public free crypto tick data api
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

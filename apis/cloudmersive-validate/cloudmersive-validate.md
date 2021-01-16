@@ -7,8 +7,7 @@ Email Validation High fidelity email verification at the source - no more bounce
 **Docs / Website**: https://cloudmersive.com/validate-api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -20,3 +19,5 @@ Email Validation High fidelity email verification at the source - no more bounce
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

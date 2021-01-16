@@ -13,20 +13,21 @@ the Box Developer Console
 **Docs / Website**: https://developer.box.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 - [Content Management](https://github.com/apis-list/apis-list#content-management)
 - [Business](https://github.com/apis-list/apis-list#business)
 - [Security](https://github.com/apis-list/apis-list#security)
+- [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ Real-time forex and crypto quotes via JSON and WebSocket
 **Docs / Website**: https://1forge.com/
 
 ## 🧬 Specification:
-**Type**: swagger
-
+**Type**: swagger  
 **URI**: http://1forge.com/openapi.json
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Real-time forex and crypto quotes via JSON and WebSocket
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ With the Sports DB API you can query teams, players in teams, player details, pl
 **Docs / Website**: https://www.thesportsdb.com/api.php
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -20,3 +19,5 @@ With the Sports DB API you can query teams, players in teams, player details, pl
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

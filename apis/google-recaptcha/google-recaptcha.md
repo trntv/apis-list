@@ -9,8 +9,7 @@ ReCAPTCHA lets you embed a CAPTCHA in your web pages in order to protect them ag
 **Docs / Website**: https://developers.google.com/recaptcha/intro?hl=en
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ ReCAPTCHA lets you embed a CAPTCHA in your web pages in order to protect them ag
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

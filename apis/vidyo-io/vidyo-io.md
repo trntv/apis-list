@@ -7,8 +7,7 @@ Developers do not need to be experts in video, all of the complexities of video 
 **Docs / Website**: https://vidyo.io/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Developers do not need to be experts in video, all of the complexities of video 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

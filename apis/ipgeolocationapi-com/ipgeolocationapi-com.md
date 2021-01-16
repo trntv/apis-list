@@ -7,8 +7,7 @@ IP Geolocation API is a free JSON REST API service for locating your visitors in
 **Docs / Website**: https://ipgeolocationapi.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ IP Geolocation API is a free JSON REST API service for locating your visitors in
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,8 +9,7 @@ Google Maps has 35 repositories available. Follow their code on GitHub
 **Docs / Website**: https://github.com/googlemaps/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Google Maps has 35 repositories available. Follow their code on GitHub
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

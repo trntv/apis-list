@@ -9,8 +9,7 @@ A FINAL FANTASY XIV: Online REST API - Game data, characters, free companies, li
 **Docs / Website**: https://xivapi.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ A FINAL FANTASY XIV: Online REST API - Game data, characters, free companies, li
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

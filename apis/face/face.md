@@ -9,8 +9,7 @@ Let’s you detect the information of a given photo (face location, age, race, g
 **Docs / Website**: 
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -24,3 +23,5 @@ Let’s you detect the information of a given photo (face location, age, race, g
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

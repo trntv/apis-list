@@ -7,8 +7,7 @@ Worldwide public holidays API
 **Docs / Website**: https://date.nager.at
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Worldwide public holidays API
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

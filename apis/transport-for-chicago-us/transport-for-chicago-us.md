@@ -9,8 +9,7 @@ The CTA's Developer Center offers a variety of data feeds that allow anyone to d
 **Docs / Website**: http://www.transitchicago.com/developers/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ The CTA's Developer Center offers a variety of data feeds that allow anyone to d
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

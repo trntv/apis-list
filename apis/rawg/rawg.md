@@ -9,8 +9,7 @@ IO ♛ Keep all games in one profile ✔ See what friends are playing, and find 
 **Docs / Website**: https://rawg.io/apidocs
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ IO ♛ Keep all games in one profile ✔ See what friends are playing, and find 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

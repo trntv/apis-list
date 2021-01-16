@@ -7,8 +7,7 @@ Registered domain names search checks the lists of registered domains for names 
 **Docs / Website**: https://domainsdb.info
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Registered domain names search checks the lists of registered domains for names 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

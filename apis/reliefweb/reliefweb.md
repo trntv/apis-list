@@ -10,19 +10,18 @@ and much much more
 **Docs / Website**: https://apidoc.rwlabs.org/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Data](https://github.com/apis-list/apis-list#data)
 - [Environment](https://github.com/apis-list/apis-list#environment)
 - [Government](https://github.com/apis-list/apis-list#government)
-- [Health](https://github.com/apis-list/apis-list#health)
 - [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,8 +9,7 @@ Web Service allows you to search the Internet for images
 **Docs / Website**: 
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ Web Service allows you to search the Internet for images
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

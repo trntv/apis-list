@@ -9,16 +9,17 @@ FavQs allows you to collect, discover, and share your favorite quotes.
 **Docs / Website**: https://favqs.com/api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Quotes](https://github.com/apis-list/apis-list#quotes)
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
+- [Quotes](https://github.com/apis-list/apis-list#quotes)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ Base url: https://api. coinranking. com/v2. Introduction Power your projects wit
 **Docs / Website**: https://docs.coinranking.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -20,3 +19,5 @@ Base url: https://api. coinranking. com/v2. Introduction Power your projects wit
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

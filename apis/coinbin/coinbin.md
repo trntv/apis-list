@@ -9,8 +9,7 @@ Cryptocurrency information
 **Docs / Website**: https://coinbin.org
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Cryptocurrency information
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

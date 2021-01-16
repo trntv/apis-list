@@ -9,8 +9,7 @@ OC Transpo next bus arrival API
 **Docs / Website**: https://www.octranspo.com/developers
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ OC Transpo next bus arrival API
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

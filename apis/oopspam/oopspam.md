@@ -7,8 +7,7 @@ Stop bots and manual spam from reaching you or your customer. All with high accu
 **Docs / Website**: https://oopspam.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Stop bots and manual spam from reaching you or your customer. All with high accu
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

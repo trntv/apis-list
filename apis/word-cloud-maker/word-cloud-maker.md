@@ -9,17 +9,18 @@ Multi color and different sizes illustrate the frequency, and the “vibe” of 
 **Docs / Website**: https://www.mashape.com/gatheringpoint/Word-Cloud-Maker
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
 - [Text](https://github.com/apis-list/apis-list#text)
 - [Tools](https://github.com/apis-list/apis-list#tools)
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

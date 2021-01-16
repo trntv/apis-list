@@ -9,8 +9,7 @@ Hosted by the USGS Core Science Analytics and Synthesis.  Page designed through 
 **Docs / Website**: https://www.itis.gov/ws_description.html
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Hosted by the USGS Core Science Analytics and Synthesis.  Page designed through 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

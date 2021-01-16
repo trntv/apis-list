@@ -11,8 +11,7 @@ The Evident Proof API allows developers to access and integrate the functionalit
 **Docs / Website**: https://evident-proof.com/developer
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -23,3 +22,5 @@ The Evident Proof API allows developers to access and integrate the functionalit
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,21 +9,21 @@ Get access to millions of vehicle records, specs, ownership costs and market val
 **Docs / Website**: https://api.carsxe.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Data](https://github.com/apis-list/apis-list#data)
-- [Transportation](https://github.com/apis-list/apis-list#transportation)
-- [Vehicle](https://github.com/apis-list/apis-list#vehicle)
-- [Development](https://github.com/apis-list/apis-list#development)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
 - [Big Data](https://github.com/apis-list/apis-list#big-data)
+- [Transportation](https://github.com/apis-list/apis-list#transportation)
+- [Vehicle](https://github.com/apis-list/apis-list#vehicle)
+- [Development](https://github.com/apis-list/apis-list#development)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

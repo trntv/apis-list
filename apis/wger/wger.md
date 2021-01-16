@@ -9,8 +9,7 @@ de/api/v2/ Authentication Public endpoints, such as the list of exercises or the
 **Docs / Website**: https://wger.de/en/software/api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ de/api/v2/ Authentication Public endpoints, such as the list of exercises or the
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

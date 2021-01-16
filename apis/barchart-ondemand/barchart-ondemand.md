@@ -7,8 +7,7 @@ Free Market Data APIs for Stock, futures and forex quotes, and historical data. 
 **Docs / Website**: https://www.barchartondemand.com/free
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Free Market Data APIs for Stock, futures and forex quotes, and historical data. 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

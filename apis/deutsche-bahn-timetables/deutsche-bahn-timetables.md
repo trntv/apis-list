@@ -7,8 +7,7 @@ A RESTful web service for timetable information for train stations operated by D
 **Docs / Website**: https://api.deutschebahn.com/timetables/v1
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ A RESTful web service for timetable information for train stations operated by D
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,8 +9,7 @@ com. Contribute to cmccandless/license-api development by creating an account on
 **Docs / Website**: https://github.com/cmccandless/license-api/blob/master/README.md
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ com. Contribute to cmccandless/license-api development by creating an account on
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

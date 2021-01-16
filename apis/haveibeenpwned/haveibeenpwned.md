@@ -9,8 +9,7 @@ Have I Been Pwned allows you to search across multiple data breaches to see if y
 **Docs / Website**: https://haveibeenpwned.com/API/v3
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Have I Been Pwned allows you to search across multiple data breaches to see if y
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

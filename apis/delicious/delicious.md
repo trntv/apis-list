@@ -9,17 +9,18 @@ Access to Delicious’s API.  Delicious API Documentation.  Contribute to domain
 **Docs / Website**: https://github.com/domainersuitedev/delicious-api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Social](https://github.com/apis-list/apis-list#social)
 - [Bookmarks](https://github.com/apis-list/apis-list#bookmarks)
 - [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Social](https://github.com/apis-list/apis-list#social)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

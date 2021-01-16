@@ -7,8 +7,7 @@ Zippopotamus.  Zippopotamus
 **Docs / Website**: http://www.zippopotam.us
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Zippopotamus.  Zippopotamus
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

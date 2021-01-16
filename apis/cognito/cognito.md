@@ -9,8 +9,7 @@ Can take a customer's cellphone number and return name, address history, full SS
 **Docs / Website**: https://cognitohq.com/docs
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Can take a customer's cellphone number and return name, address history, full SS
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

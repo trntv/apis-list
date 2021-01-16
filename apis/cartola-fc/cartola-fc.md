@@ -9,8 +9,7 @@ The Cartola FC API serves to check the partial points of your team. 🎩 Cartrol
 **Docs / Website**: https://github.com/wgenial/cartrolandofc
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ The Cartola FC API serves to check the partial points of your team. 🎩 Cartrol
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

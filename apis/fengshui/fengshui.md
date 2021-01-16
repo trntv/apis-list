@@ -7,8 +7,7 @@ Let’s you enter your name and the name of your partner/lover/crush to find Lov
 **Docs / Website**: https://confluence.test.draftway.pl/login.action?os_destination=%2Findex.action&permissionViolation=true
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Let’s you enter your name and the name of your partner/lover/crush to find Lov
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

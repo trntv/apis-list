@@ -9,8 +9,7 @@ Harry Potter API Documentation Response Formats Authentication All Routes Sortin
 **Docs / Website**: https://www.potterapi.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -23,3 +22,5 @@ Harry Potter API Documentation Response Formats Authentication All Routes Sortin
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

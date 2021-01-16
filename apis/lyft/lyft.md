@@ -9,8 +9,7 @@ Get real-time ETAs, availability, price estimates, ride status through the Lyft 
 **Docs / Website**: https://www.lyft.com/developers
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Get real-time ETAs, availability, price estimates, ride status through the Lyft 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

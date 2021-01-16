@@ -9,8 +9,7 @@ Free, powerful language detection JSON API for 173 languages, supporting single 
 **Docs / Website**: https://languagelayer.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Free, powerful language detection JSON API for 173 languages, supporting single 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

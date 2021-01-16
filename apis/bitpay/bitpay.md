@@ -9,8 +9,7 @@ A simple, RESTful API to the most powerful bitcoin infrastructure on the planet.
 **Docs / Website**: https://bitpay.com/developers
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ A simple, RESTful API to the most powerful bitcoin infrastructure on the planet.
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

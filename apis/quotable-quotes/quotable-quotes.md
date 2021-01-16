@@ -9,8 +9,7 @@ Contribute to lukePeavey/quotable development by creating an account on GitHub. 
 **Docs / Website**: https://github.com/lukePeavey/quotable
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Contribute to lukePeavey/quotable development by creating an account on GitHub. 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ Signup or login today.  Join thousands of developers who use SwaggerHub to build
 **Docs / Website**: https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Signup or login today.  Join thousands of developers who use SwaggerHub to build
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

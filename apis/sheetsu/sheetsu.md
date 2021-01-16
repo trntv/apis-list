@@ -9,17 +9,18 @@ Get data from Google Spreadsheet in a matter of seconds.  You can copy the HTML 
 **Docs / Website**: https://docs.sheetsu.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Conversions](https://github.com/apis-list/apis-list#conversions)
 - [Databases](https://github.com/apis-list/apis-list#databases)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
-- [Conversions](https://github.com/apis-list/apis-list#conversions)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

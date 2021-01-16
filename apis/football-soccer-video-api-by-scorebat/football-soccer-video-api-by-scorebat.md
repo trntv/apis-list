@@ -9,8 +9,7 @@ Embed codes of videos of the goals and highlights from a number of football leag
 **Docs / Website**: https://www.scorebat.com/video-api/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ Embed codes of videos of the goals and highlights from a number of football leag
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

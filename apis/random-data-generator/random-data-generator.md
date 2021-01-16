@@ -9,8 +9,7 @@ You have 1000 daily quota calls for your project. API Generator for telephones, 
 **Docs / Website**: https://randommer.io/randommer-api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -23,3 +22,5 @@ You have 1000 daily quota calls for your project. API Generator for telephones, 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

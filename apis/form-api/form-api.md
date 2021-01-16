@@ -9,17 +9,18 @@ Build forms easily, autocomplete and validate data. using gender api and zip cod
 **Docs / Website**: https://form-api.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Forms & Surveys](https://github.com/apis-list/apis-list#forms--surveys)
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
 - [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics)
-- [Forms & Surveys](https://github.com/apis-list/apis-list#forms--surveys)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

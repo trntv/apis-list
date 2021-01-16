@@ -9,8 +9,7 @@ Makes it easy to search for things on eBay
 **Docs / Website**: https://publishers.ebaycommercenetwork.com/home.action
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Makes it easy to search for things on eBay
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

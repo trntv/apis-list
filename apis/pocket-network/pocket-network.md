@@ -9,17 +9,16 @@ Pocket proportionally rewards the participating nodes with native cryptographic 
 **Docs / Website**: https://docs.pokt.network/docs
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Data](https://github.com/apis-list/apis-list#data)
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
-- [Development](https://github.com/apis-list/apis-list#development)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

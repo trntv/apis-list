@@ -9,8 +9,7 @@ An extremely mature, well organized and continuely updated resource of comic inf
 **Docs / Website**: http://comicvine.gamespot.com/api/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ An extremely mature, well organized and continuely updated resource of comic inf
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ Free phone number validation provided by PhoneValidator. Check phone numbers to 
 **Docs / Website**: https://www.phonevalidator.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Free phone number validation provided by PhoneValidator. Check phone numbers to 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

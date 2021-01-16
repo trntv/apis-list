@@ -9,8 +9,7 @@ Get 100 of memes with Imgflip API, or add text/caption to memes directly from th
 **Docs / Website**: https://imgflip.com/api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Get 100 of memes with Imgflip API, or add text/caption to memes directly from th
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

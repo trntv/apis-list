@@ -9,8 +9,7 @@ com - comichron-data/api. JSON API for monthly sales data from comichron
 **Docs / Website**: https://github.com/comichron-data/api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ com - comichron-data/api. JSON API for monthly sales data from comichron
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

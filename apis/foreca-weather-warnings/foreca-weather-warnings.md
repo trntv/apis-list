@@ -9,8 +9,7 @@ Data feed of the governmental severe weather warnings The Foreca WarningFeed int
 **Docs / Website**: https://developer.foreca.com/weatherdata
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Data feed of the governmental severe weather warnings The Foreca WarningFeed int
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

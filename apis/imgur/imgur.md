@@ -9,8 +9,7 @@ Imgur: The magic of the Internet. Imgur's API exposes the entire Imgur infrastru
 **Docs / Website**: https://api.imgur.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ Imgur: The magic of the Internet. Imgur's API exposes the entire Imgur infrastru
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

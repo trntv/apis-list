@@ -7,8 +7,7 @@ API Documentation cleanuri. com exposes its data via an Application Programming 
 **Docs / Website**: https://cleanuri.com/docs
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ API Documentation cleanuri. com exposes its data via an Application Programming 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

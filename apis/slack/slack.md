@@ -9,8 +9,7 @@ Slack APIs allow you to integrate complex services with Slack to go beyond the i
 **Docs / Website**: https://api.slack.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -25,3 +24,5 @@ Slack APIs allow you to integrate complex services with Slack to go beyond the i
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

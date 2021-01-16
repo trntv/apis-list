@@ -7,8 +7,7 @@ Minor Planet Center API Overview Asterank offers a database API for the Minor Pl
 **Docs / Website**: http://www.asterank.com/mpc
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Minor Planet Center API Overview Asterank offers a database API for the Minor Pl
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

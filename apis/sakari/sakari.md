@@ -9,8 +9,7 @@ Integrates with 1000+ applications with no code. Send and Receive SMS to over 20
 **Docs / Website**: https://developer.sakari.io
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Integrates with 1000+ applications with no code. Send and Receive SMS to over 20
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

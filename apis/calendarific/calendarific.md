@@ -9,8 +9,7 @@ With Calendarific API you can display the dates of public holidays, bank holiday
 **Docs / Website**: https://calendarific.com/api-documentation
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ With Calendarific API you can display the dates of public holidays, bank holiday
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

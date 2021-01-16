@@ -9,8 +9,7 @@ Online Customer Service software with customizable chat, embeddable widgets, hel
 **Docs / Website**: https://developers.livechatinc.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ Online Customer Service software with customizable chat, embeddable widgets, hel
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

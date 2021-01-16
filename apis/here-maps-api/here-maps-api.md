@@ -9,8 +9,7 @@ Wide range of APIs available through JavaScript, iOS, Android, or REST services.
 **Docs / Website**: https://developer.here.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Wide range of APIs available through JavaScript, iOS, Android, or REST services.
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

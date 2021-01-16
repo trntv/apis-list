@@ -7,8 +7,7 @@ Liturgical Calendar API Browse the calendar on-line, Learn how to obtain data fr
 **Docs / Website**: http://calapi.inadiutorium.cz/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Liturgical Calendar API Browse the calendar on-line, Learn how to obtain data fr
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

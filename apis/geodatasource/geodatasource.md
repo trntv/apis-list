@@ -9,8 +9,7 @@ Location Search Web Service (RESTful API) enable you to find nearest city inform
 **Docs / Website**: https://www.geodatasource.com/web-service
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Location Search Web Service (RESTful API) enable you to find nearest city inform
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

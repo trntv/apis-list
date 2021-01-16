@@ -9,8 +9,7 @@ The Amiibo RESTful API
 **Docs / Website**: https://amiiboapi.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ The Amiibo RESTful API
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

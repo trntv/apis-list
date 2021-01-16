@@ -9,8 +9,7 @@ Free powerful API for generating dummy images with unique features like delay, a
 **Docs / Website**: http://satyr.io/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Free powerful API for generating dummy images with unique features like delay, a
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

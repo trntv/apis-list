@@ -7,8 +7,7 @@ Zip Codes to Location The API can convert a zip code to the primary location for
 **Docs / Website**: https://www.zipcodeapi.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Zip Codes to Location The API can convert a zip code to the primary location for
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

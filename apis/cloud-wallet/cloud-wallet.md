@@ -7,8 +7,7 @@ Cloud Wallet enables closed-loop payments between IoT devices and facilitates Io
 **Docs / Website**: https://walletapi.cloud/index.html
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Cloud Wallet enables closed-loop payments between IoT devices and facilitates Io
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

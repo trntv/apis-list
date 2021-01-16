@@ -7,16 +7,17 @@ To get started check out Install the SDK. For detailed explana. In this document
 **Docs / Website**: https://semantria.readme.io/docs
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 - [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
+- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ Ultimate Fighting Championship information for events and fighters
 **Docs / Website**: http://ufc-data-api.ufc.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Ultimate Fighting Championship information for events and fighters
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

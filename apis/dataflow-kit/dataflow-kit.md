@@ -9,8 +9,7 @@ Web Scraper API to extract information from web sites, scrape SERPs, convert web
 **Docs / Website**: https://dataflowkit.com/doc-api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Web Scraper API to extract information from web sites, scrape SERPs, convert web
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

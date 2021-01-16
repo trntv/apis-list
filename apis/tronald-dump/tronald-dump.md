@@ -7,8 +7,7 @@ Tronald Dump Api & web archive for the dumbest things Donald Trump has ever said
 **Docs / Website**: https://www.tronalddump.io/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Tronald Dump Api & web archive for the dumbest things Donald Trump has ever said
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,8 +9,7 @@ In this day and age, everyone and their dog has an API. So why not have an API f
 **Docs / Website**: http://shibe.online/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ In this day and age, everyone and their dog has an API. So why not have an API f
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

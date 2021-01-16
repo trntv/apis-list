@@ -9,8 +9,7 @@ Contribute to AlbertSuarez/searchly development by creating an account on GitHub
 **Docs / Website**: https://github.com/AlbertSuarez/searchly
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Contribute to AlbertSuarez/searchly development by creating an account on GitHub
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

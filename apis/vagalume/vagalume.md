@@ -7,8 +7,7 @@ Vagalume » API » Documentação Documentação Conteúdo disponível na API do
 **Docs / Website**: https://api.vagalume.com.br/docs/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Vagalume » API » Documentação Documentação Conteúdo disponível na API do
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

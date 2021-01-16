@@ -7,8 +7,7 @@ Add interactive 3D maps, graphics, and custom overlays to your Fire Tablet and F
 **Docs / Website**: https://developer.amazon.com/maps
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Add interactive 3D maps, graphics, and custom overlays to your Fire Tablet and F
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

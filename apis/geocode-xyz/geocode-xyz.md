@@ -7,8 +7,7 @@ geocode. xyz - A geoparser, geocoder and batch geocoder for the world. Map your 
 **Docs / Website**: https://geocode.xyz/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ geocode. xyz - A geoparser, geocoder and batch geocoder for the world. Map your 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,8 +9,7 @@ Raw Saidit API Wrapper. Raw Saidit API Wrapper. Contribute to IThinkImOKAY/rsaw 
 **Docs / Website**: https://github.com/IThinkImOKAY/rsaw
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Raw Saidit API Wrapper. Raw Saidit API Wrapper. Contribute to IThinkImOKAY/rsaw 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

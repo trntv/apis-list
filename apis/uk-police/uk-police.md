@@ -7,8 +7,7 @@ Police API Documentation The API provides a rich data source for information, in
 **Docs / Website**: https://data.police.uk/docs/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -18,7 +17,9 @@ Police API Documentation The API provides a rich data source for information, in
 - [Security](https://github.com/apis-list/apis-list#security)
 - [Government](https://github.com/apis-list/apis-list#government)
 - [Worldwide](https://github.com/apis-list/apis-list#worldwide)
-- [Data](https://github.com/apis-list/apis-list#data)
+- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

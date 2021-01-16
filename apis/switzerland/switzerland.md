@@ -7,8 +7,7 @@ Swiss National Bank
 **Docs / Website**: https://data.snb.ch/en
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Swiss National Bank
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

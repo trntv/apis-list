@@ -7,8 +7,7 @@ A simple free reverse geocoding API for turning coordinates into human readable 
 **Docs / Website**: https://geo-info.co
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ A simple free reverse geocoding API for turning coordinates into human readable 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

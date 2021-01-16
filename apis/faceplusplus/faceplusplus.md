@@ -9,8 +9,7 @@ Meta description. A tool to detect face
 **Docs / Website**: https://www.faceplusplus.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Meta description. A tool to detect face
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

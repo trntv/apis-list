@@ -7,8 +7,7 @@ Natural Language Processing
 **Docs / Website**: https://wit.ai/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Natural Language Processing
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

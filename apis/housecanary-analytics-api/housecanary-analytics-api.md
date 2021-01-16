@@ -9,16 +9,17 @@ Real estate investors and lenders can make decisions in seconds that used to tak
 **Docs / Website**: https://www.housecanary.com/product-analytics-api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Data](https://github.com/apis-list/apis-list#data)
+- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data)
 - [Real Estate](https://github.com/apis-list/apis-list#real-estate)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,18 +9,19 @@ Banking API that allows you to extract financial data such as transaction histor
 **Docs / Website**: 
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 - [Payments](https://github.com/apis-list/apis-list#payments)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
-- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

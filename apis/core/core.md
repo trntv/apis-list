@@ -7,8 +7,7 @@ CORE harvests, maintains, enriches and makes available metadata and full text co
 **Docs / Website**: https://core.ac.uk/services#api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ CORE harvests, maintains, enriches and makes available metadata and full text co
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

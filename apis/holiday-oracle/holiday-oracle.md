@@ -7,8 +7,7 @@ A consensus driven API for national, federal and public holidays servicing over 
 **Docs / Website**: https://holidayoracle.io/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ A consensus driven API for national, federal and public holidays servicing over 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

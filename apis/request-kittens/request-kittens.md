@@ -3,24 +3,23 @@
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/request-kittens/logo_256x256.png" alt="Request Kittens Logo"/>
 </p>
 
-GET http://requestkittens. com/cats A randomized set of category-specific cat images.  The meat of the API. Authorization required.  Pass your API key as the 'Authorization' header. Parameter Accepted
+A randomized set of category-specific cat images.
 
 ##  🔗 Links
 **Docs / Website**: http://joshwcomeau.github.io/RequestKittensDocs/public/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Images](https://github.com/apis-list/apis-list#images)
-- [Recognition](https://github.com/apis-list/apis-list#recognition)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 - [Animals](https://github.com/apis-list/apis-list#animals)
-- [Databases](https://github.com/apis-list/apis-list#databases)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

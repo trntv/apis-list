@@ -7,8 +7,7 @@
 **Docs / Website**: https://developers.epo.org/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -16,7 +15,9 @@
 
 ## 🗄️ Categories:
 - [Government](https://github.com/apis-list/apis-list#government)
-- [Data](https://github.com/apis-list/apis-list#data)
+- [Patents](https://github.com/apis-list/apis-list#patents)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

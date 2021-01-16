@@ -9,8 +9,7 @@ Searchable and categorized collections of RSS feeds
 **Docs / Website**: https://api.feedster.me/v1/docs
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Searchable and categorized collections of RSS feeds
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

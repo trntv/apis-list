@@ -7,8 +7,7 @@ Access to Oxford Dictionary services with several different subscription options
 **Docs / Website**: https://developer.oxforddictionaries.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Access to Oxford Dictionary services with several different subscription options
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

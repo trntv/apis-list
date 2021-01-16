@@ -7,18 +7,19 @@ Enables developers to create web and mobile applications that find local busines
 **Docs / Website**: http://docs.citygridmedia.com/display/citygridv2/Places+API
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Search](https://github.com/apis-list/apis-list#search)
 - [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Search](https://github.com/apis-list/apis-list#search)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

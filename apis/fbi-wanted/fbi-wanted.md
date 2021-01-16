@@ -7,8 +7,7 @@ The FBI Wanted API is designed to help developers easily get information on the 
 **Docs / Website**: https://www.fbi.gov/wanted/api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ The FBI Wanted API is designed to help developers easily get information on the 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

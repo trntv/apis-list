@@ -9,8 +9,7 @@ Amazon Simple Storage Service (Amazon S3) is storage for the internet.  You can 
 **Docs / Website**: https://aws.amazon.com/s3/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Amazon Simple Storage Service (Amazon S3) is storage for the internet.  You can 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ We also provide top headlines from which you can filter by topic such as world, 
 **Docs / Website**: https://gnews.io/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ We also provide top headlines from which you can filter by topic such as world, 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

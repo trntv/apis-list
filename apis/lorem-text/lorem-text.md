@@ -9,8 +9,7 @@ Generates Lorem Ipsum text
 **Docs / Website**: https://market.mashape.com/montanaflynn/lorem-text-generator
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Generates Lorem Ipsum text
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

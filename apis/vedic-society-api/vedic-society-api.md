@@ -7,8 +7,7 @@ A description of all of the nouns in vedic literature, including the flora, faun
 **Docs / Website**: https://aninditabasu.github.io/indica/html/vs.html
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ A description of all of the nouns in vedic literature, including the flora, faun
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

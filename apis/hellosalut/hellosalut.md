@@ -9,8 +9,7 @@ Say hello to your website visitors in their native language.  Say hello to your 
 **Docs / Website**: https://www.fourtonfish.com/hellosalut/hello/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Say hello to your website visitors in their native language.  Say hello to your 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

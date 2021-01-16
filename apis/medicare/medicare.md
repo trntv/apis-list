@@ -7,8 +7,7 @@ gov. Access to the data from the CMS - medicare
 **Docs / Website**: https://data.medicare.gov/developers
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ gov. Access to the data from the CMS - medicare
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

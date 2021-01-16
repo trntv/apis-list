@@ -12,8 +12,8 @@ import (
 
 var slugRegexp = regexp.MustCompile("[^a-zA-Z0-9 ]")
 
-const readmeTmplName = "README.md.gotmpl"
-const apiTmplName = "api.md.gotmpl"
+const readmeTmplName = "readme.gomd"
+const apiTmplName = "api.gomd"
 
 func Render(l list.APIs, dir string) error {
 	funcs := template.FuncMap{
@@ -29,7 +29,7 @@ func Render(l list.APIs, dir string) error {
 			return CategoryIcons[s]
 		},
 	}
-	templates, err := template.New("readme").Funcs(funcs).ParseGlob(path.Join(dir, "templates", "*.gotmpl"))
+	templates, err := template.New("readme").Funcs(funcs).ParseGlob(path.Join(dir, "templates", "*.gomd"))
 	if err != nil {
 		return err
 	}
@@ -75,7 +75,7 @@ func Render(l list.APIs, dir string) error {
 }
 
 func FirstSentence(s string) string {
-	var sep = []string{".", "!", "?", "\n"}
+	var sep = []string{"\n", ".", "!", "?"}
 	for _, v := range sep {
 		if strings.Contains(s, v) {
 			return strings.Split(s, v)[0]

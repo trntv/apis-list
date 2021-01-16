@@ -7,8 +7,7 @@ Learn more today!. Transactional Email API Service For Developers. Free first 10
 **Docs / Website**: https://mailgun.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Learn more today!. Transactional Email API Service For Developers. Free first 10
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

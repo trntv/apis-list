@@ -9,8 +9,7 @@ HealthCare. gov for Developers We’re making our source code freely available o
 **Docs / Website**: https://www.healthcare.gov/developers/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ HealthCare. gov for Developers We’re making our source code freely available o
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

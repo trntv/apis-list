@@ -7,8 +7,7 @@ A place where APIs are kept.  A place where APIs are kept
 **Docs / Website**: http://docs.lyricsovh.apiary.io/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ A place where APIs are kept.  A place where APIs are kept
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ Scan anime image to get specific detail
 **Docs / Website**: https://soruly.github.io/trace.moe/#/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Scan anime image to get specific detail
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

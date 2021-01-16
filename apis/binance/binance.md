@@ -9,8 +9,7 @@ Official Documentation for the Binance Spot APIs and Streams - binance/binance-s
 **Docs / Website**: https://github.com/binance/binance-spot-api-docs
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ Official Documentation for the Binance Spot APIs and Streams - binance/binance-s
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

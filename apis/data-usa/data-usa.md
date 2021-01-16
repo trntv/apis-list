@@ -9,8 +9,7 @@ public data. Data USA provides an open, easy-to-use platform that turns data int
 **Docs / Website**: https://datausa.io/about/api/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ public data. Data USA provides an open, easy-to-use platform that turns data int
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

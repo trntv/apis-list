@@ -7,8 +7,7 @@ SHARE¶ SHARE is a higher education initiative whose mission is to maximize rese
 **Docs / Website**: http://share-research.readthedocs.io/en/latest/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ SHARE¶ SHARE is a higher education initiative whose mission is to maximize rese
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

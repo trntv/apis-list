@@ -7,8 +7,7 @@ Current and historical NBA Statistics
 **Docs / Website**: https://any-api.com/nba_com/nba_com/docs/API_Description
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Current and historical NBA Statistics
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

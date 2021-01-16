@@ -7,8 +7,7 @@ Tradier's technology platform - an innovative set of fully hosted APIs, modules 
 **Docs / Website**: https://developer.tradier.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Tradier's technology platform - an innovative set of fully hosted APIs, modules 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

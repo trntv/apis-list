@@ -9,8 +9,7 @@ Preview Web links with our reliable API service. Get Detailed JSON Response for 
 **Docs / Website**: https://www.linkpreview.net
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ Preview Web links with our reliable API service. Get Detailed JSON Response for 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

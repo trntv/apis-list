@@ -7,8 +7,7 @@ Unlock insights from your global device network with an intelligent IoT platform
 **Docs / Website**: https://cloud.google.com/solutions/iot
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -20,3 +19,5 @@ Unlock insights from your global device network with an intelligent IoT platform
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

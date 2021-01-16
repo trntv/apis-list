@@ -9,8 +9,7 @@ Learn how to build an API to show and update connections, run actions, perform q
 **Docs / Website**: https://platform.ifttt.com/docs/connect_api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Learn how to build an API to show and update connections, run actions, perform q
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

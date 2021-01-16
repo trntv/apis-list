@@ -7,8 +7,7 @@ Free API to check and predict the nationality of a name.  Free API to check and 
 **Docs / Website**: https://nationalize.io
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Free API to check and predict the nationality of a name.  Free API to check and 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

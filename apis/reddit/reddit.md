@@ -9,8 +9,7 @@ Contribute to reddit-archive/reddit development by creating an account on GitHub
 **Docs / Website**: https://github.com/reddit/reddit/wiki/API
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ Contribute to reddit-archive/reddit development by creating an account on GitHub
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

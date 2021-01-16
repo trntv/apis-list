@@ -9,8 +9,7 @@ Generate or get existing short URLs, with sequential or custom keyword.  ➤ Abo
 **Docs / Website**: https://yourls.org/#API
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Generate or get existing short URLs, with sequential or custom keyword.  ➤ Abo
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

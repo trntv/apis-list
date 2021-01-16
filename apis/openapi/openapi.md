@@ -9,8 +9,7 @@ The OpenAPI Specification: a broadly adopted industry standard for describing mo
 **Docs / Website**: https://www.openapis.org
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ The OpenAPI Specification: a broadly adopted industry standard for describing mo
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

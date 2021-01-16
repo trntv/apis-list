@@ -9,18 +9,19 @@ Alternative to Google Web Search API / Google News Search API, allows you to sea
 **Docs / Website**: http://www.faroo.com/hp/api/api.html
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Real Time](https://github.com/apis-list/apis-list#real-time)
 - [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
 - [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
 - [Search](https://github.com/apis-list/apis-list#search)
+- [Real Time](https://github.com/apis-list/apis-list#real-time)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

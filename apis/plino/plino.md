@@ -7,8 +7,7 @@ Plino - A responsive spam filtering system
 **Docs / Website**: https://plino.herokuapp.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -20,3 +19,5 @@ Plino - A responsive spam filtering system
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

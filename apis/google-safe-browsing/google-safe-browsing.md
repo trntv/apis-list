@@ -9,8 +9,7 @@ APIs to access the Google Safe Browsing lists of unsafe web resources. APIs to a
 **Docs / Website**: https://developers.google.com/safe-browsing/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ APIs to access the Google Safe Browsing lists of unsafe web resources. APIs to a
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

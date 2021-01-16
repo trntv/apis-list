@@ -9,8 +9,7 @@ Powerful cryptocurrency rates JSON API delivering real-time crypto exchange rate
 **Docs / Website**: https://coinlayer.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -23,3 +22,5 @@ Powerful cryptocurrency rates JSON API delivering real-time crypto exchange rate
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,8 +9,7 @@ Share and collaborate in developing threat intelligence.  Protect yourself and t
 **Docs / Website**: https://otx.alienvault.com/api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Share and collaborate in developing threat intelligence.  Protect yourself and t
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

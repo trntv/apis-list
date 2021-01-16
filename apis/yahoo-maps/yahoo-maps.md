@@ -9,8 +9,7 @@ Yahoo Maps lets you easily embed rich and interactive maps using your choice of 
 **Docs / Website**: https://developer.yahoo.com/maps/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Yahoo Maps lets you easily embed rich and interactive maps using your choice of 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

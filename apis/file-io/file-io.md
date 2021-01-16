@@ -7,8 +7,7 @@ io you agree to our Terms of Service and Privacy Policy.  Ephemeral file sharing
 **Docs / Website**: https://www.file.io
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ io you agree to our Terms of Service and Privacy Policy.  Ephemeral file sharing
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

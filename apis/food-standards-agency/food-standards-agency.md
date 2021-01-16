@@ -7,8 +7,7 @@ Find out if a restaurant, takeaway or food shop you want to visit has good food 
 **Docs / Website**: http://ratings.food.gov.uk/open-data/en-GB
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Find out if a restaurant, takeaway or food shop you want to visit has good food 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

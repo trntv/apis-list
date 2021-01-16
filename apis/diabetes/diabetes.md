@@ -7,8 +7,7 @@ Welcome to the PredictBGL API The PredictBGL API allows you to build the power o
 **Docs / Website**: http://predictbgl.com/api/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Welcome to the PredictBGL API The PredictBGL API allows you to build the power o
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

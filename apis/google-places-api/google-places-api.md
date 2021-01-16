@@ -9,8 +9,7 @@ Providing a places search that can be searched by latitude/longitude, keyword ma
 **Docs / Website**: https://developers.google.com/places/documentation/?csw=1
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Providing a places search that can be searched by latitude/longitude, keyword ma
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,8 +9,7 @@ ipify API is a simple public IP address API, easy enough to integrate into any a
 **Docs / Website**: https://www.ipify.org/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ ipify API is a simple public IP address API, easy enough to integrate into any a
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

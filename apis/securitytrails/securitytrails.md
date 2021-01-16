@@ -7,8 +7,7 @@ SecurityTrails currently offers three different products that can help you enric
 **Docs / Website**: https://securitytrails.com/corp/apidocs
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -20,3 +19,5 @@ SecurityTrails currently offers three different products that can help you enric
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

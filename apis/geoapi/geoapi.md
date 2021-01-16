@@ -9,8 +9,7 @@ API Découpage Administratif - (API Geo) est une des APIs du service public.  In
 **Docs / Website**: https://api.gouv.fr/api/geoapi.html
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ API Découpage Administratif - (API Geo) est une des APIs du service public.  In
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

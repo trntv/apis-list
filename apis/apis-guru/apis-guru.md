@@ -7,8 +7,7 @@ Our goal is to create a machine-readable Wikipedia for WEB APIs.  If you have an
 **Docs / Website**: https://apis.guru/api-doc/
 
 ## 🧬 Specification:
-**Type**: swagger
-
+**Type**: swagger  
 **URI**: https://api.apis.guru/v2/swagger.json
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Our goal is to create a machine-readable Wikipedia for WEB APIs.  If you have an
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

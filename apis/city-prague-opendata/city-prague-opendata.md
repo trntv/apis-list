@@ -7,8 +7,7 @@ Vítejte na celoměstském portálu pro otevřená data hlavního města Prahy. 
 **Docs / Website**: http://opendata.praha.eu/en
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Vítejte na celoměstském portálu pro otevřená data hlavního města Prahy. 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

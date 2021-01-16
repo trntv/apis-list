@@ -9,8 +9,7 @@ Cloud Speech Recognition API. Transform speech to text with high accuracy in mul
 **Docs / Website**: https://speechtext.ai/speech-recognition-api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Cloud Speech Recognition API. Transform speech to text with high accuracy in mul
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

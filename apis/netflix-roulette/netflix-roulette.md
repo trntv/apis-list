@@ -7,8 +7,7 @@ Wondering what to watch? Let Netflix Roulette pick a movie or TV show randomly f
 **Docs / Website**: https://reelgood.com/roulette/netflix
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Wondering what to watch? Let Netflix Roulette pick a movie or TV show randomly f
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

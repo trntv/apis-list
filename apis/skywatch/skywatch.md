@@ -9,24 +9,24 @@ Instead, EarthCache allows development teams to focus on the business applicatio
 **Docs / Website**: https://www.skywatch.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Data](https://github.com/apis-list/apis-list#data)
+- [Big Data](https://github.com/apis-list/apis-list#big-data)
+- [DevOps](https://github.com/apis-list/apis-list#devops)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 - [Space](https://github.com/apis-list/apis-list#space)
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
 - [Business](https://github.com/apis-list/apis-list#business)
-- [DevOps](https://github.com/apis-list/apis-list#devops)
-- [Big Data](https://github.com/apis-list/apis-list#big-data)
 - [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 - [Environment](https://github.com/apis-list/apis-list#environment)
-- [Images](https://github.com/apis-list/apis-list#images)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

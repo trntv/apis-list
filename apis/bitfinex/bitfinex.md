@@ -7,8 +7,7 @@ The Bitfinex API is designed to allow access to all the features of the Bitfinex
 **Docs / Website**: https://docs.bitfinex.com/docs
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ The Bitfinex API is designed to allow access to all the features of the Bitfinex
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

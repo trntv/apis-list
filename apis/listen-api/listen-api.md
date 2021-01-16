@@ -9,8 +9,7 @@ Simple & no-nonsense podcast search & directory API. Search the meta data of all
 **Docs / Website**: https://www.listennotes.com/api/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Simple & no-nonsense podcast search & directory API. Search the meta data of all
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

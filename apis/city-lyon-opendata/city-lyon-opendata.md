@@ -9,8 +9,7 @@ Les données des acteurs du territoire de la Métropole de Lyon
 **Docs / Website**: https://data.beta.grandlyon.com/fr/accueil
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Les données des acteurs du territoire de la Métropole de Lyon
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

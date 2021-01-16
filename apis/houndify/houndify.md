@@ -9,8 +9,7 @@ The Houndify Voice AI platform helps brands build voice user interfaces that enh
 **Docs / Website**: https://www.houndify.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -23,3 +22,5 @@ The Houndify Voice AI platform helps brands build voice user interfaces that enh
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

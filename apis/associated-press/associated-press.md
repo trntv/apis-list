@@ -7,8 +7,7 @@ AP Media API Get all your AP multimedia content in one place Access the content 
 **Docs / Website**: https://developer.ap.org/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -16,7 +15,9 @@ AP Media API Get all your AP multimedia content in one place Access the content 
 
 ## 🗄️ Categories:
 - [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
-- [Images](https://github.com/apis-list/apis-list#images)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

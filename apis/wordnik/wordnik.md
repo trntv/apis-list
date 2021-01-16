@@ -9,8 +9,7 @@ The Wordnik API Docs. Dictionary functions
 **Docs / Website**: http://developer.wordnik.com/docs.html#!/word
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -23,3 +22,5 @@ The Wordnik API Docs. Dictionary functions
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

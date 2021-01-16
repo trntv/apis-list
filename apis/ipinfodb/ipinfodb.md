@@ -9,8 +9,7 @@ Free Geolocation tools and APIs for country, region, city and time zone lookup b
 **Docs / Website**: https://ipinfodb.com/api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Free Geolocation tools and APIs for country, region, city and time zone lookup b
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

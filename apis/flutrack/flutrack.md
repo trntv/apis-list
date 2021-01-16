@@ -7,8 +7,7 @@ Flutrack is a system that detects in real time influenza symptoms, using Twitter
 **Docs / Website**: https://www.flutrack.org/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Flutrack is a system that detects in real time influenza symptoms, using Twitter
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

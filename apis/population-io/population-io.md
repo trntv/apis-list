@@ -9,15 +9,16 @@ Open demographic data such as population tables, population rank and life expect
 **Docs / Website**: http://api.population.io
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Data](https://github.com/apis-list/apis-list#data)
+- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

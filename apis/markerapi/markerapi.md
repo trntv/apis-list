@@ -9,8 +9,7 @@ Trademark search API to search the US trademarks database (USPTO) based on a sea
 **Docs / Website**: http://www.markerapi.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Trademark search API to search the US trademarks database (USPTO) based on a sea
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

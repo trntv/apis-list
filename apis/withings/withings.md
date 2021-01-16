@@ -7,8 +7,7 @@ Access to data from Withings activity trackers and body measures
 **Docs / Website**: http://oauth.withings.com/api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Access to data from Withings activity trackers and body measures
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

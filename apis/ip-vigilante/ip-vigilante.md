@@ -7,16 +7,17 @@ IP Vigilante provides a free geographical IP locator API, so the developers can 
 **Docs / Website**: https://www.ipvigilante.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 - [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

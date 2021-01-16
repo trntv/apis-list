@@ -9,16 +9,17 @@ com API We structure, store, and index millions of web pages per day in vertical
 **Docs / Website**: https://trawlingweb.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
 - [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

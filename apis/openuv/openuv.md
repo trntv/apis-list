@@ -9,8 +9,7 @@ The missing minimalistic JSON real-time UV Index API for awesome Developers, Inn
 **Docs / Website**: https://www.openuv.io
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ The missing minimalistic JSON real-time UV Index API for awesome Developers, Inn
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

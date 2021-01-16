@@ -9,8 +9,7 @@ You can use it to track page hits, and specific events among other things.  Coun
 **Docs / Website**: https://countapi.xyz
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ You can use it to track page hits, and specific events among other things.  Coun
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ Check phone number validity, location and timezones
 **Docs / Website**: https://phonenumbervalidation.apifex.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -17,8 +16,9 @@ Check phone number validity, location and timezones
 ## 🗄️ Categories:
 - [Email & SMS](https://github.com/apis-list/apis-list#email--sms)
 - [CRM](https://github.com/apis-list/apis-list#crm)
-- [Data](https://github.com/apis-list/apis-list#data)
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

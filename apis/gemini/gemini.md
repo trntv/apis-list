@@ -7,8 +7,7 @@ Introduction Gemini offers both public and private REST APIs.  Public REST APIs 
 **Docs / Website**: https://docs.gemini.com/rest-api/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Introduction Gemini offers both public and private REST APIs.  Public REST APIs 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

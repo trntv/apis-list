@@ -9,8 +9,7 @@ Welcome to the Mastodon documentation!.  Welcome to the Mastodon documentation!
 **Docs / Website**: https://docs.joinmastodon.org/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Welcome to the Mastodon documentation!.  Welcome to the Mastodon documentation!
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ Get images cartegorized by tags.
 **Docs / Website**: https://danbooru.donmai.us/posts?tags=help%3Aapi
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ Get images cartegorized by tags.
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

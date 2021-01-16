@@ -9,8 +9,7 @@ Your daily lectionary readings…. Your daily lectionary readings…
 **Docs / Website**: http://www.lectserve.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Your daily lectionary readings…. Your daily lectionary readings…
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

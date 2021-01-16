@@ -9,8 +9,7 @@ with the Audio DB API, you can get albums, artist, specific tracks data , youtub
 **Docs / Website**: https://www.theaudiodb.com/api_guide.php
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ with the Audio DB API, you can get albums, artist, specific tracks data , youtub
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

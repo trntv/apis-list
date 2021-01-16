@@ -9,8 +9,7 @@ Search, browse and learn about the Federal Register. Federal Register 2. 0 is th
 **Docs / Website**: https://www.federalregister.gov/reader-aids/developer-resources
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Search, browse and learn about the Federal Register. Federal Register 2. 0 is th
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

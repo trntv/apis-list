@@ -7,16 +7,17 @@ The Redtube API.  RedTube API Documentation Welcome to the RedTube API developer
 **Docs / Website**: https://api.redtube.com/docs
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Adult](https://github.com/apis-list/apis-list#adult)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+- [Adult](https://github.com/apis-list/apis-list#adult)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

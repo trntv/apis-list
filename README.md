@@ -20,7 +20,6 @@ Discuss any topic related to the specific API you can [here](https://github.com/
     - [Agriculture](#agriculture) 
     - [Analytics](#analytics) 
     - [Animals](#animals) 
-    - [Applications](#applications) 
     - [Art & Design](#art--design) 
     - [Authentication & User Management](#authentication--user-management) 
     - [Automation](#automation) 
@@ -48,7 +47,6 @@ Discuss any topic related to the specific API you can [here](https://github.com/
     - [Content Management](#content-management) 
     - [Conversions](#conversions) 
     - [Currency](#currency) 
-    - [Data](#data) 
     - [Databases](#databases) 
     - [DevOps](#devops) 
     - [Development](#development) 👨‍💻
@@ -69,7 +67,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
     - [Hardware](#hardware) 
     - [Health](#health) 💊
     - [History](#history) 
-    - [Images](#images) 
+    - [Images & Photography](#images--photography) 
     - [Integration](#integration) 
     - [IoT & Home Automation](#iot--home-automation) 
     - [Japanese](#japanese) 
@@ -86,6 +84,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
     - [Open Licenses](#open-licenses) 
     - [Open Source](#open-source) 
     - [Other](#other) 
+    - [Patents](#patents) 
     - [Payments](#payments) 💳
     - [Personality](#personality) 
     - [Photography](#photography) 
@@ -109,6 +108,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
     - [Social](#social) 
     - [Space](#space) 
     - [Sport & Fitness](#sport--fitness) ⚾
+    - [Statistics & Data](#statistics--data) 
     - [Tasks](#tasks) 
     - [Testing](#testing) 
     - [Text](#text) 
@@ -145,11 +145,10 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Blogcast](https://github.com/apis-list/apis-list/blob/main/apis/blogcast/blogcast.md) - Generate audio versions of your articles
 - [Clarifai](https://github.com/apis-list/apis-list/blob/main/apis/clarifai/clarifai.md) - Whether you have one input or billions, you are only steps away from using AI to power your business applications
 - [Clearbit Logo](https://github.com/apis-list/apis-list/blob/main/apis/clearbit-logo/clearbit-logo.md) - If you’re only interested in a Company’s logo, and don’t need any other data about the company, you can use our Logo API
-- [Cloud Machine Learning Engine](https://github.com/apis-list/apis-list/blob/main/apis/cloud-machine-learning-engine/cloud-machine-learning-engine.md) - Take your ML projects to production, quickly and cost-effectively
+- [Cloud Machine Learning Engine](https://github.com/apis-list/apis-list/blob/main/apis/cloud-machine-learning-engine/cloud-machine-learning-engine.md) - Take your ML projects to production, quickly and cost-effectively. 
 - [Cloudmersive Natural Language Processing](https://github.com/apis-list/apis-list/blob/main/apis/cloudmersive-natural-language-processing/cloudmersive-natural-language-processing.md) - Powerful Natural Language Processing APIs
-The most powerful and cost-effective NLP AI APIs, continuously updated
 - [Cloudpronouncer](https://github.com/apis-list/apis-list/blob/main/apis/cloudpronouncer/cloudpronouncer.md) - Text To Speech API - CloudPronouncer (tts online or tts reader) is a cross browsers REST API supporting now  255  Standard and Premium Voices in 42  languages including variants (the list is growing in time) and it may be used by any device that can connect to Internet and send the POST requests to our API as instructed in this website: smartphones, tablets, laptops, PC Desktops, other smart devices
-- [Datamuse API](https://github.com/apis-list/apis-list/blob/main/apis/datamuse-api/datamuse-api.md) - You can use it in your apps to find words that match a given set o
+- [Datamuse API](https://github.com/apis-list/apis-list/blob/main/apis/datamuse-api/datamuse-api.md) - Word-finding query engine that finds words that match a given set of constraints and that are likely in a given context
 - [Datum Box](https://github.com/apis-list/apis-list/blob/main/apis/datum-box/datum-box.md) - Unleash the power of Machine Learning by using the Powerful and Easy-to-Use API of Datumbox
 - [Deepaffects](https://github.com/apis-list/apis-list/blob/main/apis/deepaffects/deepaffects.md) - DeepAffects enables developers to analyze conversational audio by applying powerful machine learning models offered as a set of easy to use REST APIs
 - [Deepcode](https://github.com/apis-list/apis-list/blob/main/apis/deepcode/deepcode.md) - 
@@ -188,14 +187,14 @@ The most powerful and cost-effective NLP AI APIs, continuously updated
 - [Perfect Tense API](https://github.com/apis-list/apis-list/blob/main/apis/perfect-tense-api/perfect-tense-api.md) - Automated
 - [Quora API](https://github.com/apis-list/apis-list/blob/main/apis/quora-api/quora-api.md) - Connect the people who have knowledge to the people who need it, to bring together people with different perspectives so they can understand each other better, and to empower everyone to share their knowledge for the benefit of the rest of the world
 - [Recast.AI](https://github.com/apis-list/apis-list/blob/main/apis/recast-ai/recast-ai.md) - Collaborative chatbot software
-- [Ryft](https://github.com/apis-list/apis-list/blob/main/apis/ryft/ryft.md) - Try refining your search, or use the navigation above to locate the post
+- [Ryft](https://github.com/apis-list/apis-list/blob/main/apis/ryft/ryft.md) - Integrate the Ryft ONE’s data analysis capabilities into existing big data environments for faster data analysis and real-time intelligence
 - [Semantira](https://github.com/apis-list/apis-list/blob/main/apis/semantira/semantira.md) - To get started check out Install the SDK
 - [Sentim-API](https://github.com/apis-list/apis-list/blob/main/apis/sentim-api/sentim-api.md) - herokuapp
 - [Skywatch](https://github.com/apis-list/apis-list/blob/main/apis/skywatch/skywatch.md) - Instead, EarthCache allows development teams to focus on the business application and in delivering actionable intelligence to the end-user
 - [SpeechText.AI API](https://github.com/apis-list/apis-list/blob/main/apis/speechtext-ai-api/speechtext-ai-api.md) - Cloud Speech Recognition API
 - [SummarizeBot API](https://github.com/apis-list/apis-list/blob/main/apis/summarizebot-api/summarizebot-api.md) - Multilingual summarization, keywords and sentiment analysis, language recognition, article extraction, comments identification, multimedia analysis, image and face recognition solutions
 - [TasteDive](https://github.com/apis-list/apis-list/blob/main/apis/tastedive/tastedive.md) - The TasteDive API can be used to integrate recommendations in other products
-- [Telegram Bot](https://github.com/apis-list/apis-list/blob/main/apis/telegram-bot/telegram-bot.md) - The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram
+- [Telegram Bot](https://github.com/apis-list/apis-list/blob/main/apis/telegram-bot/telegram-bot.md) - The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram. The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram. 
 - [TextRazor](https://github.com/apis-list/apis-list/blob/main/apis/textrazor/textrazor.md) - #FreeToUse
 - [This Person Does not Exist](https://github.com/apis-list/apis-list/blob/main/apis/this-person-does-not-exist/this-person-does-not-exist.md) - This Person Does Not Exist
 - [Time Door](https://github.com/apis-list/apis-list/blob/main/apis/time-door/time-door.md) - A time series analysis API
@@ -220,7 +219,6 @@ The most powerful and cost-effective NLP AI APIs, continuously updated
 - [Bittrex](https://github.com/apis-list/apis-list/blob/main/apis/bittrex/bittrex.md) - Bittrex provides a simple and powerful API consisting of REST endpoints for transactional operations and a complementary Websocket service providing streaming market and user data updates
 - [ClickMeter](https://github.com/apis-list/apis-list/blob/main/apis/clickmeter/clickmeter.md) - ClickMeter API RESTful services
 - [Clicky](https://github.com/apis-list/apis-list/blob/main/apis/clicky/clicky.md) - Clicky Web Analytics is simply the best way to monitor, analyze, and react to your blog or web site's traffic in real time
-- [Climacell Micro Weather](https://github.com/apis-list/apis-list/blob/main/apis/climacell-micro-weather/climacell-micro-weather.md) - Historical, real-time and nowcast weather data
 - [CoinRanking](https://github.com/apis-list/apis-list/blob/main/apis/coinranking/coinranking.md) - Base url: https://api
 - [Countly](https://github.com/apis-list/apis-list/blob/main/apis/countly/countly.md) - Countly is the best analytics platform to understand and enhance customer journeys in web, desktop and mobile applications
 - [Fabric](https://github.com/apis-list/apis-list/blob/main/apis/fabric/fabric.md) - A platform that helps your mobile team build better apps, understand your users, and grow your business
@@ -233,13 +231,13 @@ The most powerful and cost-effective NLP AI APIs, continuously updated
 - [Lexalytics](https://github.com/apis-list/apis-list/blob/main/apis/semantria/semantria.md) - Flexible natural language processing APIs and complete text analytics platform solutions for data analytics companies and data analyst teams
 - [LinkedData.Center](https://github.com/apis-list/apis-list/blob/main/apis/linkeddata-center/linkeddata-center.md) - a RDF graph database as a service with W3C SPARQL query and SPARQL update apis
 - [Localytics](https://github.com/apis-list/apis-list/blob/main/apis/localytics/localytics.md) - Analytics Concepts In order to use an analytics API to its maximum potential, it is useful to agree on terminology
-- [Mailjet](https://github.com/apis-list/apis-list/blob/main/apis/mailjet/mailjet.md) - Reliable and scalable email delivery platform with SMTP and API
+- [Mailjet](https://github.com/apis-list/apis-list/blob/main/apis/mailjet/mailjet.md) - Reliable and scalable email delivery platform with SMTP and API.  
 - [Matomo](https://github.com/apis-list/apis-list/blob/main/apis/matomo/matomo.md) - This page is a hub space linking to the Analytics API guides
 - [MixPanel](https://github.com/apis-list/apis-list/blob/main/apis/mixpanel/mixpanel.md) - At our core, we maintain a custom datastore that queries your data in a fast, scalable, and reliable manner
 - [Open Web Analytics](https://github.com/apis-list/apis-list/blob/main/apis/open-web-analytics/open-web-analytics.md) - Web Analytics, open sourced
 - [Plaid](https://github.com/apis-list/apis-list/blob/main/apis/plaid/plaid.md) - Plaid helps companies build fintech solutions by making it easy, safe and reliable for people to connect their financial data to apps and services
 - [Riot Games](https://github.com/apis-list/apis-list/blob/main/apis/riot-games/riot-games.md) - Provide the League of Legends developer community with access to game data in a secure and reliable way
-- [Ryft](https://github.com/apis-list/apis-list/blob/main/apis/ryft/ryft.md) - Try refining your search, or use the navigation above to locate the post
+- [Ryft](https://github.com/apis-list/apis-list/blob/main/apis/ryft/ryft.md) - Integrate the Ryft ONE’s data analysis capabilities into existing big data environments for faster data analysis and real-time intelligence
 - [Skywatch](https://github.com/apis-list/apis-list/blob/main/apis/skywatch/skywatch.md) - Instead, EarthCache allows development teams to focus on the business application and in delivering actionable intelligence to the end-user
 - [SparkPost](https://github.com/apis-list/apis-list/blob/main/apis/sparkpost/sparkpost.md) - SparkPost is a cloud based email delivery service that sends 25% of the worlds legitimate emails
 - [SuredBits](https://github.com/apis-list/apis-list/blob/main/apis/suredbits/suredbits.md) - Lightning API for real-time and historical data feeds
@@ -249,11 +247,8 @@ The most powerful and cost-effective NLP AI APIs, continuously updated
 - [Zoho Reports API](https://github.com/apis-list/apis-list/blob/main/apis/zoho-reports-api/zoho-reports-api.md) - Zoho Analytics API Zoho Analytics API offers wide range of functions to help developers build & manage powerful reporting and analytical capabilities for their business application needs
 - [ipstack](https://github.com/apis-list/apis-list/blob/main/apis/ipstack/ipstack.md) - Locate website visitors for free using ipstack - a free, real-time IP address to location JSON API and database service supporting IPv4 and IPv6 lookup
  ### Animals 
-- [Cat Facts](https://github.com/apis-list/apis-list/blob/main/apis/cat-facts/cat-facts.md) - Daily cat facts! 🐱
-- [Cats](https://github.com/apis-list/apis-list/blob/main/apis/cats/cats.md) - com
-
-Here you'll find the API reference & Code examples for:
-1\
+- [Cat Facts](https://github.com/apis-list/apis-list/blob/main/apis/cat-facts/cat-facts.md) - Daily cat facts
+- [Cats](https://github.com/apis-list/apis-list/blob/main/apis/cats/cats.md) - A public service API all about Cats, free to use when making your fancy new App, Website or Service
 - [Dogs](https://github.com/apis-list/apis-list/blob/main/apis/dogs/dogs.md) - Over 20,000 images of dogs programmaticaly accessible by over 120 breeds
 - [HTTPCat](https://github.com/apis-list/apis-list/blob/main/apis/httpcat/httpcat.md) - API for HTTP Cats
 - [IUCN](https://github.com/apis-list/apis-list/blob/main/apis/iucn/iucn.md) - The use of this API is strictly under the Terms of Use of the IUCN Red List of Threatened Species
@@ -263,19 +258,12 @@ Here you'll find the API reference & Code examples for:
 - [RandomCat](https://github.com/apis-list/apis-list/blob/main/apis/randomcat/randomcat.md) - dream
 - [RandomDog](https://github.com/apis-list/apis-list/blob/main/apis/randomdog/randomdog.md) - {"fileSizeBytes":62176,"url":"https://random
 - [RandomFox](https://github.com/apis-list/apis-list/blob/main/apis/randomfox/randomfox.md) - Random image of a fox
-- [Request Kittens](https://github.com/apis-list/apis-list/blob/main/apis/request-kittens/request-kittens.md) - GET http://requestkittens
+- [Request Kittens](https://github.com/apis-list/apis-list/blob/main/apis/request-kittens/request-kittens.md) - A randomized set of category-specific cat images
 - [RescueGroups](https://github.com/apis-list/apis-list/blob/main/apis/rescuegroups/rescuegroups.md) - org APIs Not all adoptable pet data APIs are made equal! Choosing the right API service is more than just numbers
 - [Shibe.Online](https://github.com/apis-list/apis-list/blob/main/apis/shibe-online/shibe-online.md) - In this day and age, everyone and their dog has an API
 - [The Cat Api](https://github.com/apis-list/apis-list/blob/main/apis/the-cat-api/the-cat-api.md) - A public service API all about cat pictures
 - [The Dog Api](https://github.com/apis-list/apis-list/blob/main/apis/the-dog-api/the-dog-api.md) - An API all about dogs
 - [iDigBio](https://github.com/apis-list/apis-list/blob/main/apis/idigbio/idigbio.md) - Making data and images of millions of biological specimens available on the web
- ### Applications 
-- [Codeship](https://github.com/apis-list/apis-list/blob/main/apis/codeship/codeship.md) - Hosted API documentation for every OAS (Swagger) and RAML spec out there
-- [Flurry](https://github.com/apis-list/apis-list/blob/main/apis/flurry/flurry.md) - Yahoo’s Flurry provides you with a number of APIs enabling you to export your data
-- [Keygen](https://github.com/apis-list/apis-list/blob/main/apis/keygen/keygen.md) - Keygen is a dead-simple software licensing API built for developers of desktop apps, on-prem software and other digital products
-- [Localytics](https://github.com/apis-list/apis-list/blob/main/apis/localytics/localytics.md) - Analytics Concepts In order to use an analytics API to its maximum potential, it is useful to agree on terminology
-- [Product Hunt](https://github.com/apis-list/apis-list/blob/main/apis/product-hunt/product-hunt.md) - The best new products, every day
-- [ReqRes](https://github.com/apis-list/apis-list/blob/main/apis/reqres/reqres.md) - A hosted REST-API ready to respond to AJAX requests
  ### Art & Design 
 - [@Font-Face Generation Api](https://github.com/apis-list/apis-list/blob/main/apis/atfont-face-generation-api/atfont-face-generation-api.md) - Generate font-face using REST API
 - [Abstract](https://github.com/apis-list/apis-list/blob/main/apis/abstract/abstract.md) - Used by 10,000+ developers worldwide
@@ -298,7 +286,6 @@ Here you'll find the API reference & Code examples for:
 - [Noun Project](https://github.com/apis-list/apis-list/blob/main/apis/noun-project/noun-project.md) - Grab a hold of the World’s Visual Language! Use it in your service or application
 - [ObjectCut](https://github.com/apis-list/apis-list/blob/main/apis/objectcut/objectcut.md) - Automatic background removal real-time service powered by AI
 - [Pexels](https://github.com/apis-list/apis-list/blob/main/apis/pexels/pexels.md) - Pexels provides high quality and completely free stock photos licensed under the Creative Commons Zero (CC0) license
-- [PlaceKitten](https://github.com/apis-list/apis-list/blob/main/apis/placekitten/placekitten.md) - A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code
 - [PrexView](https://github.com/apis-list/apis-list/blob/main/apis/prexview/prexview.md) - Transform your data from XML or JSON to high quality, beautiful and readable documents in PDF, HTML, PNG or JPG
 - [Rijksmuseum](https://github.com/apis-list/apis-list/blob/main/apis/rijksmuseum/rijksmuseum.md) - The Rijksmuseum links individuals with art and history
 - [ScreenShotLayer](https://github.com/apis-list/apis-list/blob/main/apis/screenshotlayer/screenshotlayer.md) - Free for personal use
@@ -312,7 +299,7 @@ Here you'll find the API reference & Code examples for:
 - [Countly](https://github.com/apis-list/apis-list/blob/main/apis/countly/countly.md) - Countly is the best analytics platform to understand and enhance customer journeys in web, desktop and mobile applications
 - [EventBrite](https://github.com/apis-list/apis-list/blob/main/apis/eventbrite/eventbrite.md) - Eventbrite Python SDK
 - [Facebook Login for Apps](https://github.com/apis-list/apis-list/blob/main/apis/facebook-login-for-apps/facebook-login-for-apps.md) - Secure, fast, convenient way to login in your app/website
-- [Firebase](https://github.com/apis-list/apis-list/blob/main/apis/firebase/firebase.md) - Web reference View full API for JS Client
+- [Firebase](https://github.com/apis-list/apis-list/blob/main/apis/firebase/firebase.md) - Authentication, analytics, cloud messaging, crash reporting, ads and more
 - [GitHub Authentication](https://github.com/apis-list/apis-list/blob/main/apis/github-authentication/github-authentication.md) - Click here if you are not redirected
 - [Google Identity Toolkit API.](https://github.com/apis-list/apis-list/blob/main/apis/google-identity-toolkit-api/google-identity-toolkit-api.md) - Enable users to sign into apps and authorize apps to use Google services
 - [Instagram](https://github.com/apis-list/apis-list/blob/main/apis/instagram/instagram.md) - How to use the Instagram Graph API
@@ -328,12 +315,11 @@ Here you'll find the API reference & Code examples for:
 - [Twitter Sign-in](https://github.com/apis-list/apis-list/blob/main/apis/twitter-sign-in/twitter-sign-in.md) - Works on websites, iOS, mobile and desktop applications
 - [WorkOS](https://github.com/apis-list/apis-list/blob/main/apis/workos/workos.md) - Easily integrate Okta SAML, Google OAuth, and more
  ### Automation 
-- [Ontraport](https://github.com/apis-list/apis-list/blob/main/apis/ontraport/ontraport.md) - Introduction The base URL for all of the requests detailed in this documentation is: https://api
+- [Ontraport](https://github.com/apis-list/apis-list/blob/main/apis/ontraport/ontraport.md) - Marketing automation
 - [Scrapeboss](https://github.com/apis-list/apis-list/blob/main/apis/scrapeboss/scrapeboss.md) - Contact with an owner of ScrapeBoss
 - [SmartThings](https://github.com/apis-list/apis-list/blob/main/apis/smartthings/smartthings.md) - An open, programmatic interface for controlling smart devices The SmartThings platform has the largest coverage of competitive IoT devices on the market, including Samsung devices and appliances
 - [Telleroo](https://github.com/apis-list/apis-list/blob/main/apis/telleroo/telleroo.md) - com" API Sandbox: "https://sandbox
  ### Bar & QR Codes 
-- [Datakick](https://github.com/apis-list/apis-list/blob/main/apis/datakick/datakick.md) - You may have mistyped the address or the page may have moved
 - [EAN Barcode Search](https://github.com/apis-list/apis-list/blob/main/apis/ean-barcode-search/ean-barcode-search.md) - EAN Barcode API Integrate our database into your app or website! Easily query our database of over 230 million barcodes (EAN, UPC, ISBN) or search by product name with our REST-based webservice
 - [EAN-Search](https://github.com/apis-list/apis-list/blob/main/apis/ean-search/ean-search.md) - Search our EAN database with over 230 million products by EAN, UPC, ISBN or product name
 - [Google Barcode](https://github.com/apis-list/apis-list/blob/main/apis/google-barcode/google-barcode.md) - It can also detect multiple barcodes at once
@@ -341,15 +327,16 @@ Here you'll find the API reference & Code examples for:
 - [Nutritionix](https://github.com/apis-list/apis-list/blob/main/apis/nutritionix/nutritionix.md) - Already signed up and logged in? View your API key now
 - [QR Code API](https://github.com/apis-list/apis-list/blob/main/apis/qr-code-api/qr-code-api.md) - QR Code REST API
 - [Stakdek's QR generator API](https://github.com/apis-list/apis-list/blob/main/apis/stakdeks-qr-generator-api/stakdeks-qr-generator-api.md) - The QR-Code generator gets your data and generates a QR-Code
-- [UPC database](https://github.com/apis-list/apis-list/blob/main/apis/upc-database/upc-database.md) - Integrate your own applications using our new API
+- [UPC database](https://github.com/apis-list/apis-list/blob/main/apis/upc-database/upc-database.md) - Database contains a mixture of barcode types from the standard UPC numbering system, the worldwide EAN numbering system, and the Bookland numbering system
  ### Big Data 
 - [CarsXE API](https://github.com/apis-list/apis-list/blob/main/apis/carsxe-api/carsxe-api.md) - Get access to millions of vehicle records, specs, ownership costs and market values
-- [Data Demograph](https://github.com/apis-list/apis-list/blob/main/apis/data-demograph/data-demograph.md) - backends
+- [Data Demograph](https://github.com/apis-list/apis-list/blob/main/apis/data-demograph/data-demograph.md) - Enrich your contact lists with intelligent demographics
 - [Flurry](https://github.com/apis-list/apis-list/blob/main/apis/flurry/flurry.md) - Yahoo’s Flurry provides you with a number of APIs enabling you to export your data
-- [Ryft](https://github.com/apis-list/apis-list/blob/main/apis/ryft/ryft.md) - Try refining your search, or use the navigation above to locate the post
+- [Google BigQuery API](https://github.com/apis-list/apis-list/blob/main/apis/google-bigquery-api/google-bigquery-api.md) - A data platform for customers to create, manage, share and query data
+- [Ryft](https://github.com/apis-list/apis-list/blob/main/apis/ryft/ryft.md) - Integrate the Ryft ONE’s data analysis capabilities into existing big data environments for faster data analysis and real-time intelligence
 - [Skywatch](https://github.com/apis-list/apis-list/blob/main/apis/skywatch/skywatch.md) - Instead, EarthCache allows development teams to focus on the business application and in delivering actionable intelligence to the end-user
 - [Time Door](https://github.com/apis-list/apis-list/blob/main/apis/time-door/time-door.md) - A time series analysis API
-- [openFDA](https://github.com/apis-list/apis-list/blob/main/apis/openfda/openfda.md) - openFDA
+- [openFDA](https://github.com/apis-list/apis-list/blob/main/apis/openfda/openfda.md) - openFDA is an Elasticsearch-based API that serves public FDA data about nouns like drugs, devices, and foods
  ### Blockchain & Cryptocurrencies 
 - [Alpha Vantage](https://github.com/apis-list/apis-list/blob/main/apis/alpha-vantage/alpha-vantage.md) - Supports intraday, daily, weekly, and monthly quotes and technical analysis with chart-ready time series
 - [Binance](https://github.com/apis-list/apis-list/blob/main/apis/binance/binance.md) - Official Documentation for the Binance Spot APIs and Streams - binance/binance-spot-api-docs
@@ -361,17 +348,16 @@ Here you'll find the API reference & Code examples for:
 - [Bittrex](https://github.com/apis-list/apis-list/blob/main/apis/bittrex/bittrex.md) - Bittrex provides a simple and powerful API consisting of REST endpoints for transactional operations and a complementary Websocket service providing streaming market and user data updates
 - [Block](https://github.com/apis-list/apis-list/blob/main/apis/block/block.md) - The most versatile and secure wallet for all your coins
 - [BlockCypher](https://github.com/apis-list/apis-list/blob/main/apis/blockcypher/blockcypher.md) - Build blockchain applications easily with our web APIs and callbacks
-- [BlockFacts.io](https://github.com/apis-list/apis-list/blob/main/apis/blockfacts-io/blockfacts-io.md) - SDKs for integration, rich historic tick data
+- [BlockFacts.io](https://github.com/apis-list/apis-list/blob/main/apis/blockfacts-io/blockfacts-io.md) - SDKs for integration, rich historic tick data.  AllMarkets - US stock market: real-time, stock quotes, stock screener, stock charts and cryptocurrencies
 - [BlockScore](https://github.com/apis-list/apis-list/blob/main/apis/blockscore/blockscore.md) - A real-time API for verifying an identity by name, address, date of birth, and social security number
 - [Blockchain](https://github.com/apis-list/apis-list/blob/main/apis/blockchain/blockchain.md) - The easiest and most trusted transaction search engine and block explorer
 - [Chasing Coin](https://github.com/apis-list/apis-list/blob/main/apis/chasing-coin/chasing-coin.md) - Cryptocurrency, coin and token resource on the web
 - [CoinAPI](https://github.com/apis-list/apis-list/blob/main/apis/coinapi/coinapi.md) - CoinAPI is a platform which provides fast, reliable
-and unified data APIs to cryptocurrency markets
 - [CoinDesk](https://github.com/apis-list/apis-list/blob/main/apis/coindesk/coindesk.md) - Bitcoin Price Index
 - [CoinLayer](https://github.com/apis-list/apis-list/blob/main/apis/coinlayer/coinlayer.md) - Powerful cryptocurrency rates JSON API delivering real-time crypto exchange rate and conversion data for more than 25 exchanges and 385 coins worldwide
 - [CoinMarketCap](https://github.com/apis-list/apis-list/blob/main/apis/coinmarketcap/coinmarketcap.md) - Cryptocurrencies Prices
 - [CoinRanking](https://github.com/apis-list/apis-list/blob/main/apis/coinranking/coinranking.md) - Base url: https://api
-- [Coinbase](https://github.com/apis-list/apis-list/blob/main/apis/coinbase/coinbase.md) - Coinbase’s API makes it easy to integrate bitcoin, bitcoin cash, litecoin and ethereum into both new and existing applications
+- [Coinbase](https://github.com/apis-list/apis-list/blob/main/apis/coinbase/coinbase.md) - Coinbase’s API makes it easy to integrate bitcoin, bitcoin cash, litecoin and ethereum into both new and existing applications. 
 - [Coinbase Pro](https://github.com/apis-list/apis-list/blob/main/apis/coinbase-pro/coinbase-pro.md) - Trading APIs require authentication and provide access to placing orders and other account information
 - [Coinigy](https://github.com/apis-list/apis-list/blob/main/apis/coinigy/coinigy.md) - A place where APIs are kept
 - [Coinlib](https://github.com/apis-list/apis-list/blob/main/apis/coinlib/coinlib.md) - Coinlib - Crypto Prices, Charts, Lists & Crypto Market News
@@ -386,14 +372,14 @@ and unified data APIs to cryptocurrency markets
 - [Messari](https://github.com/apis-list/apis-list/blob/main/apis/messari/messari.md) - Messari provides an institutional grade Bitcoin and blockchain data API, ranging from market data to fundamentals, blockchain metrics and news
 - [Nexchange](https://github.com/apis-list/apis-list/blob/main/apis/nexchange/nexchange.md) - API for crypto currency exchange
 - [Nicehash](https://github.com/apis-list/apis-list/blob/main/apis/nicehash/nicehash.md) - Largest Crypto Mining Marketplace
-- [Nimiq Hub](https://github.com/apis-list/apis-list/blob/main/apis/nimiq-hub/nimiq-hub.md) - com/en/#community
+- [Nimiq Hub](https://github.com/apis-list/apis-list/blob/main/apis/nimiq-hub/nimiq-hub.md) - com/en/#community.  Documentation of the Nimiq Hub API, the secure and central place to interact with your users’ keys. Nimiq aims to be the best performing and easiest-to-use decentralized payment protocol ecosystem. The Nimiq Hub API enables website developers to integrate payment with Nimiq into their webapp, shop, and mobile app. It's all open source, the GitHub repository is here: http://github. com/nimiq/hub 
 - [Pocket Network](https://github.com/apis-list/apis-list/blob/main/apis/pocket-network/pocket-network.md) - Pocket proportionally rewards the participating nodes with native cryptographic tokens POKT
 - [Poloniex](https://github.com/apis-list/apis-list/blob/main/apis/poloniex/poloniex.md) - US based digital asset exchange
 - [Quidax Merchant](https://github.com/apis-list/apis-list/blob/main/apis/quidax-merchant/quidax-merchant.md) - Buy, sell and store Bitcoin, Ethereum, Ripple (XRP), Litecoin & other cryptocurrencies with Naira
 - [ShapeShift.io](https://github.com/apis-list/apis-list/blob/main/apis/shapeshift-io/shapeshift-io.md) - Exchange between cryptocurrencies without an account
 - [SuredBits](https://github.com/apis-list/apis-list/blob/main/apis/suredbits/suredbits.md) - Lightning API for real-time and historical data feeds
 - [Tardis](https://github.com/apis-list/apis-list/blob/main/apis/tardis/tardis.md) - dev is the the most comprehensive digital assets data platform, providing access to high frequency historical raw tick data for a wide range of use cases such as market microstructure and order book dynamics research, liquidity and lead-lag analysis, trading execution optimization, backtesting and optimization of trading strategies, full historical order book reconstruction at any given point in time, training machine learning models, alpha generation, designing quantitative models, academics research, data visualizations and more
-- [Tardis.Dev](https://github.com/apis-list/apis-list/blob/main/apis/tardis-dev/tardis-dev.md) - Tardis
+- [Tardis.Dev](https://github.com/apis-list/apis-list/blob/main/apis/tardis-dev/tardis-dev.md) - Tardis. 
 - [Technical Analysis](https://github.com/apis-list/apis-list/blob/main/apis/technical-analysis/technical-analysis.md) - Coin predictions as a service
 - [The Shrimpy Universal Crypto Exchange Api](https://github.com/apis-list/apis-list/blob/main/apis/the-shrimpy-universal-crypto-exchange-api/the-shrimpy-universal-crypto-exchange-api.md) - Collect real-time trade or order book data for free, manage user exchange accounts, execute trading strategies, and simplify the way you connect to each exchange
 - [Twelve Data](https://github.com/apis-list/apis-list/blob/main/apis/twelve-data/twelve-data.md) - Stock market data (real-time & historical)
@@ -418,17 +404,15 @@ and unified data APIs to cryptocurrency markets
 - [Penguin Publishing](https://github.com/apis-list/apis-list/blob/main/apis/penguin-publishing/penguin-publishing.md) - Sample XML response Sample JSON response
 - [TasteDive](https://github.com/apis-list/apis-list/blob/main/apis/tastedive/tastedive.md) - The TasteDive API can be used to integrate recommendations in other products
  ### Bots 
-- [Cat Facts](https://github.com/apis-list/apis-list/blob/main/apis/cat-facts/cat-facts.md) - Daily cat facts! 🐱
+- [Cat Facts](https://github.com/apis-list/apis-list/blob/main/apis/cat-facts/cat-facts.md) - Daily cat facts
 - [Cathyjs](https://github.com/apis-list/apis-list/blob/main/apis/cathyjs/cathyjs.md) - It is mainly created for discord bots
 - [Infermedica API](https://github.com/apis-list/apis-list/blob/main/apis/infermedica-api/infermedica-api.md) - The most advanced Symptom Checker and Patient Triage API
 - [Recast.AI](https://github.com/apis-list/apis-list/blob/main/apis/recast-ai/recast-ai.md) - Collaborative chatbot software
-- [Telegram Bot](https://github.com/apis-list/apis-list/blob/main/apis/telegram-bot/telegram-bot.md) - The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram
+- [Telegram Bot](https://github.com/apis-list/apis-list/blob/main/apis/telegram-bot/telegram-bot.md) - The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram. The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram. 
  ### Business 
 - [Adzuna](https://github.com/apis-list/apis-list/blob/main/apis/adzuna/adzuna.md) - Overview Quickstart Expert user? Allergic to lengthy documentation sites?Follow these steps: Register to receive an app_key and app_id Use the Interactive Endpoint Documentation to make test calls
 - [Basecamp API](https://github.com/apis-list/apis-list/blob/main/apis/basecamp-api/basecamp-api.md) - A web based system for managing collaborative projects
 - [Box](https://github.com/apis-list/apis-list/blob/main/apis/box/box.md) - Explore the Box APIs and SDKs to use for app development,
-API documentation, developer support resources, and access
-the Box Developer Console
 - [Braintree](https://github.com/apis-list/apis-list/blob/main/apis/braintree/braintree.md) - Specializes in mobile and web payment systems for ecommerce companies
 - [Charity Search](https://github.com/apis-list/apis-list/blob/main/apis/charity-search/charity-search.md) - Available API analytics options include detailed traffic breakdowns and reports by account, application or servic
 - [Clearbit Logo](https://github.com/apis-list/apis-list/blob/main/apis/clearbit-logo/clearbit-logo.md) - If you’re only interested in a Company’s logo, and don’t need any other data about the company, you can use our Logo API
@@ -436,6 +420,7 @@ the Box Developer Console
 - [Currencystack](https://github.com/apis-list/apis-list/blob/main/apis/currencystack/currencystack.md) - Real-time exchange rates for 154 world currencies provided in JSON format and works for any programming environment
 - [Ecart](https://github.com/apis-list/apis-list/blob/main/apis/ecart/ecart.md) - Data is offered in JSON format
 - [Elasticpath](https://github.com/apis-list/apis-list/blob/main/apis/elasticpath/elasticpath.md) - Provides the full commerce solution to bring your unique, revenue-driving experiences to life, fast
+- [Enigma Public](https://github.com/apis-list/apis-list/blob/main/apis/enigma-public/enigma-public.md) - Enigma Businesses provides the most accurate and reliable information on small and medium businesses in real-time
 - [Formstack](https://github.com/apis-list/apis-list/blob/main/apis/formstack/formstack.md) - The Formstack API allows users and 3rd-party applications to access Formstack resources programmatically
 - [Freelancer](https://github.com/apis-list/apis-list/blob/main/apis/freelancer/freelancer.md) - Hire in any profession you can think of using our API, on demand–developers, designers, photographers, copywriters, delivery people, manufacturers and more
 - [Google Analytics](https://github.com/apis-list/apis-list/blob/main/apis/google-analytics/google-analytics.md) - Google Analytics provides APIs to collect, configure, and report on user-interactions with your online content
@@ -445,11 +430,11 @@ the Box Developer Console
 - [Localytics](https://github.com/apis-list/apis-list/blob/main/apis/localytics/localytics.md) - Analytics Concepts In order to use an analytics API to its maximum potential, it is useful to agree on terminology
 - [MailboxValidator](https://github.com/apis-list/apis-list/blob/main/apis/mailboxvalidator/mailboxvalidator.md) - MailboxValidator provides single email validation API that checks if an email address is valid and exists
 - [Mercury](https://github.com/apis-list/apis-list/blob/main/apis/mercury/mercury.md) - Mercury Web Parser turns web articles into structured content reliably and easily
-- [Ontraport](https://github.com/apis-list/apis-list/blob/main/apis/ontraport/ontraport.md) - Introduction The base URL for all of the requests detailed in this documentation is: https://api
-- [OpenCorporates](https://github.com/apis-list/apis-list/blob/main/apis/opencorporates/opencorporates.md) - Introduction This documentation covers the main API (the so-called REST API)
+- [Ontraport](https://github.com/apis-list/apis-list/blob/main/apis/ontraport/ontraport.md) - Marketing automation
+- [OpenCorporates](https://github.com/apis-list/apis-list/blob/main/apis/opencorporates/opencorporates.md) - World's largest open database of companies
 - [Postmark](https://github.com/apis-list/apis-list/blob/main/apis/postmark/postmark.md) - No bulk
 - [Quantumdigital](https://github.com/apis-list/apis-list/blob/main/apis/quantumdigital/quantumdigital.md) -  QuantumDigital’s APIs make navigating the USPS, securing national consumer and business lists, uploading your own designs or lists, and shipping small order marketing materials a breeze
-- [Rushtranslate](https://github.com/apis-list/apis-list/blob/main/apis/rushtranslate/rushtranslate.md) - RushTranslate offers certified document translation services in over 60 languages provided by native speaking professionals
+- [Rushtranslate](https://github.com/apis-list/apis-list/blob/main/apis/rushtranslate/rushtranslate.md) - RushTranslate offers certified document translation services in over 60 languages provided by native speaking professionals. RushTranslate provides a REST API for human translation services allowing programmatic placement and management of orders.  Our API is perfect for high volume users who want to automate their workflow. 
 - [Salesforce](https://github.com/apis-list/apis-list/blob/main/apis/salesforce/salesforce.md) - This simple RESTful interface is powerful, convenient, and great for writing mobile and web apps
 - [Salesforce SOAP API](https://github.com/apis-list/apis-list/blob/main/apis/salesforce-soap-api/salesforce-soap-api.md) - The Salesforce Platform connects the entire customer journey across Sales, Service, Marketing, Commerce, and every touchpoint
 - [Skywatch](https://github.com/apis-list/apis-list/blob/main/apis/skywatch/skywatch.md) - Instead, EarthCache allows development teams to focus on the business application and in delivering actionable intelligence to the end-user
@@ -465,9 +450,9 @@ the Box Developer Console
 - [markerapi](https://github.com/apis-list/apis-list/blob/main/apis/markerapi/markerapi.md) - Trademark search API to search the US trademarks database (USPTO) based on a search string
  ### CRM 
 - [Clust](https://github.com/apis-list/apis-list/blob/main/apis/clust/clust.md) - The best way to gather anyone’s documents, directly from your app & without hassle
-- [Data Demograph](https://github.com/apis-list/apis-list/blob/main/apis/data-demograph/data-demograph.md) - backends
+- [Data Demograph](https://github.com/apis-list/apis-list/blob/main/apis/data-demograph/data-demograph.md) - Enrich your contact lists with intelligent demographics
 - [Microsoft Graph](https://github.com/apis-list/apis-list/blob/main/apis/microsoft-graph/microsoft-graph.md) - Find out how you can use the Microsoft Graph API to connect to the data that drives productivity - mail, calendar, contacts, documents, directory, devices, and more
-- [Ontraport](https://github.com/apis-list/apis-list/blob/main/apis/ontraport/ontraport.md) - Introduction The base URL for all of the requests detailed in this documentation is: https://api
+- [Ontraport](https://github.com/apis-list/apis-list/blob/main/apis/ontraport/ontraport.md) - Marketing automation
 - [Phone Number Validation](https://github.com/apis-list/apis-list/blob/main/apis/phone-number-validation/phone-number-validation.md) - Check phone number validity, location and timezones
 - [Salesforce](https://github.com/apis-list/apis-list/blob/main/apis/salesforce/salesforce.md) - This simple RESTful interface is powerful, convenient, and great for writing mobile and web apps
 - [Salesforce SOAP API](https://github.com/apis-list/apis-list/blob/main/apis/salesforce-soap-api/salesforce-soap-api.md) - The Salesforce Platform connects the entire customer journey across Sales, Service, Marketing, Commerce, and every touchpoint
@@ -477,7 +462,7 @@ the Box Developer Console
 - [Calendarific](https://github.com/apis-list/apis-list/blob/main/apis/calendarific/calendarific.md) - With Calendarific API you can display the dates of public holidays, bank holidays, local holidays and religious holidays for over 200 countries worldwide
 - [Church Calendar](https://github.com/apis-list/apis-list/blob/main/apis/church-calendar/church-calendar.md) - Liturgical Calendar API Browse the calendar on-line, Learn how to obtain data from it's JSON API or fork it at github and hack it
 - [Cronofy](https://github.com/apis-list/apis-list/blob/main/apis/cronofy/cronofy.md) - Our Scheduler lets you share your availability with contacts no matter what application you use
-- [Czech Namedays Calendar](https://github.com/apis-list/apis-list/blob/main/apis/czech-namedays-calendar/czech-namedays-calendar.md) - Svátky API Vám řekne kdo má kdy svátek, nebo kdy má kdo svátek
+- [Czech Namedays Calendar](https://github.com/apis-list/apis-list/blob/main/apis/czech-namedays-calendar/czech-namedays-calendar.md) - Czech Holidays API
 - [Eventful API](https://github.com/apis-list/apis-list/blob/main/apis/eventful-api/eventful-api.md) - Eventful is a leading digital media company connecting consumers with entertainment, movies and local events
 - [Google Calendar API](https://github.com/apis-list/apis-list/blob/main/apis/google-calendar-api/google-calendar-api.md) - Create and manage events and calendars for Google Calendar
 - [Hebrew Calendar](https://github.com/apis-list/apis-list/blob/main/apis/hebrew-calendar/hebrew-calendar.md) - You can embed Hebcal
@@ -493,7 +478,7 @@ the Box Developer Console
  ### Calendar & Time 
 - [Time Door](https://github.com/apis-list/apis-list/blob/main/apis/time-door/time-door.md) - A time series analysis API
 - [Unix Timestamp Converteri](https://github.com/apis-list/apis-list/blob/main/apis/unix-timestamp-converteri/unix-timestamp-converteri.md) - ﻿ Unix Timestamp Converter API Unix Timestamp converter REST API Convert Unix Timestamps to DateTime objects and DateTime objects to Unix Timestamps This WebService was built in 20 minutes using Li
-- [WorldTimeAPI](https://github.com/apis-list/apis-list/blob/main/apis/worldtimeapi/worldtimeapi.md) - A JSON/plain-text which returns the (approx) current time for a provided timezone or IP
+- [WorldTimeAPI](https://github.com/apis-list/apis-list/blob/main/apis/worldtimeapi/worldtimeapi.md) - A JSON/plain-text which returns the (approx) current time for a provided timezone or IP.  Targetted at limited-compute IoT devices. World Time API: Simple JSON/plain-text API to obtain the current
  ### Captcha 
 - [Anti-Captcha](https://github.com/apis-list/apis-list/blob/main/apis/anti-captcha/anti-captcha.md) - Access to Anti-Captcha’s API
 - [Google reCAPTCHA](https://github.com/apis-list/apis-list/blob/main/apis/google-recaptcha/google-recaptcha.md) - ReCAPTCHA lets you embed a CAPTCHA in your web pages in order to protect them against spam and other types of automated abuse
@@ -501,11 +486,11 @@ the Box Developer Console
 - [ProxyCrawl](https://github.com/apis-list/apis-list/blob/main/apis/proxycrawl/proxycrawl.md) - Crawl and scrape websites without the need of proxies, infrastructure or browsers
  ### Casino & Gambling 
 - [Lottery Number Generation](https://github.com/apis-list/apis-list/blob/main/apis/lottery-number-generation/lottery-number-generation.md) - Hundereds of lottery games from various countries are supported
-- [Oddsapi](https://github.com/apis-list/apis-list/blob/main/apis/oddsapi/oddsapi.md) - All results are returned in easy-to-read JSON format
+- [Oddsapi](https://github.com/apis-list/apis-list/blob/main/apis/oddsapi/oddsapi.md) - Sports data API provides live and historical sports data from all around the world
  ### Chats & Messaging 
 - [Ably](https://github.com/apis-list/apis-list/blob/main/apis/ably/ably.md) - API for making cross-protocol realtime communication between devices easy
 - [Africa's Talking](https://github.com/apis-list/apis-list/blob/main/apis/africas-talking/africas-talking.md) - A unified API platform for software developers in Africa building SMS, USSD, Voice, Payments and Airtime applications
-- [Chat Messaging By Stream](https://github.com/apis-list/apis-list/blob/main/apis/chat-messaging-by-stream/chat-messaging-by-stream.md) - Stream's API and SDKs enable developers to build messaging solutions very quickly and reliably
+- [Chat Messaging By Stream](https://github.com/apis-list/apis-list/blob/main/apis/chat-messaging-by-stream/chat-messaging-by-stream.md) - Stream's API and SDKs enable developers to build messaging solutions very quickly and reliably. Drive in-app conversion, engagement, and retention while letting the Stream backend handle all the heavy lifting. 
 - [Cisco Spark](https://github.com/apis-list/apis-list/blob/main/apis/cisco-spark/cisco-spark.md) - Build the future of business collaboration with Webex! Learn more about the Webex API and SDKs to create the next great collaboration app on the Webex Platform
 - [Clust](https://github.com/apis-list/apis-list/blob/main/apis/clust/clust.md) - The best way to gather anyone’s documents, directly from your app & without hassle
 - [Discord](https://github.com/apis-list/apis-list/blob/main/apis/discord/discord.md) - Integrate your service with Discord — whether it's a bot or a game or whatever your wildest imagination can come up with
@@ -517,7 +502,7 @@ the Box Developer Console
 - [PubNub](https://github.com/apis-list/apis-list/blob/main/apis/pubnub/pubnub.md) - <div class="homepage-wrap">
 - [SparkPost](https://github.com/apis-list/apis-list/blob/main/apis/sparkpost/sparkpost.md) - SparkPost is a cloud based email delivery service that sends 25% of the worlds legitimate emails
 - [Telegram](https://github.com/apis-list/apis-list/blob/main/apis/telegram/telegram.md) - We offer two kinds of APIs for developers
-- [Telegram Bot](https://github.com/apis-list/apis-list/blob/main/apis/telegram-bot/telegram-bot.md) - The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram
+- [Telegram Bot](https://github.com/apis-list/apis-list/blob/main/apis/telegram-bot/telegram-bot.md) - The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram. The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram. 
 - [Viber](https://github.com/apis-list/apis-list/blob/main/apis/viber/viber.md) - Millions of Viber users call, text, and send photos to each other, worldwide - for free
 - [Vidyo.Io](https://github.com/apis-list/apis-list/blob/main/apis/vidyo-io/vidyo-io.md) - Developers do not need to be experts in video, all of the complexities of video communication is handled by the Vidyo
 - [Yo Developers API](https://github.com/apis-list/apis-list/blob/main/apis/yo-developers-api/yo-developers-api.md) - Yo API Documentation
@@ -531,17 +516,15 @@ the Box Developer Console
 - [IEX Cloud](https://github.com/apis-list/apis-list/blob/main/apis/iex-cloud/iex-cloud.md) - IEX Cloud is a financial data infrastructure platform that connects developers and financial data creators
 - [Marketcloud](https://github.com/apis-list/apis-list/blob/main/apis/marketcloud/marketcloud.md) - It covers inventory and database, carts and checkout, payments, user authentication, and more
 - [Rackspace Cloud Databases API](https://github.com/apis-list/apis-list/blob/main/apis/rackspace-cloud-databases-api/rackspace-cloud-databases-api.md) - Can be created, updated, and deleted using the OS::Trove::Instance resource
-- [Telegram Bot](https://github.com/apis-list/apis-list/blob/main/apis/telegram-bot/telegram-bot.md) - The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram
+- [Telegram Bot](https://github.com/apis-list/apis-list/blob/main/apis/telegram-bot/telegram-bot.md) - The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram. The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram. 
 - [Twilio](https://github.com/apis-list/apis-list/blob/main/apis/twilio/twilio.md) - APIs for SMS, Voice, Video and more
 - [Twilio API](https://github.com/apis-list/apis-list/blob/main/apis/twilio-api/twilio-api.md) - Send SMS super easy, API Documentation & Libraries for SMS, VoIP & Voice
  ### Collaboration 
 - [Abstract](https://github.com/apis-list/apis-list/blob/main/apis/abstract/abstract.md) - Used by 10,000+ developers worldwide
-- [ApiFlash](https://github.com/apis-list/apis-list/blob/main/apis/apiflash/apiflash.md) - Chrome based screenshot API to convert URLs to images
+- [ApiFlash](https://github.com/apis-list/apis-list/blob/main/apis/apiflash/apiflash.md) - Chrome based screenshot API to convert URLs to images.  ApiFlash is an easy to use screenshot API for developers.  It is powerful and
 - [Apileap](https://github.com/apis-list/apis-list/blob/main/apis/apileap/apileap.md) - Make screenshots from web pages and HTML
 - [Basecamp API](https://github.com/apis-list/apis-list/blob/main/apis/basecamp-api/basecamp-api.md) - A web based system for managing collaborative projects
 - [Box](https://github.com/apis-list/apis-list/blob/main/apis/box/box.md) - Explore the Box APIs and SDKs to use for app development,
-API documentation, developer support resources, and access
-the Box Developer Console
 - [Clust](https://github.com/apis-list/apis-list/blob/main/apis/clust/clust.md) - The best way to gather anyone’s documents, directly from your app & without hassle
 - [GitLab](https://github.com/apis-list/apis-list/blob/main/apis/gitlab/gitlab.md) - Access to GitLab's API
 - [Gyazo](https://github.com/apis-list/apis-list/blob/main/apis/gyazo/gyazo.md) - Overview The Gyazo API can be used in a wide array of apps to upload new images, show a Gyazo userâ€™s images, and more
@@ -549,7 +532,6 @@ the Box Developer Console
 - [Microlink](https://github.com/apis-list/apis-list/blob/main/apis/microlink/microlink.md) - Generate PDF from any website
 - [Microsoft Graph](https://github.com/apis-list/apis-list/blob/main/apis/microsoft-graph/microsoft-graph.md) - Find out how you can use the Microsoft Graph API to connect to the data that drives productivity - mail, calendar, contacts, documents, directory, devices, and more
 - [Open Science Framework](https://github.com/apis-list/apis-list/blob/main/apis/open-science-framework/open-science-framework.md) - Hosted on the Open Science Framework
-
 - [Pexels](https://github.com/apis-list/apis-list/blob/main/apis/pexels/pexels.md) - Pexels provides high quality and completely free stock photos licensed under the Creative Commons Zero (CC0) license
 - [ScreenShotLayer](https://github.com/apis-list/apis-list/blob/main/apis/screenshotlayer/screenshotlayer.md) - Free for personal use
 - [Slack](https://github.com/apis-list/apis-list/blob/main/apis/slack/slack.md) - Slack APIs allow you to integrate complex services with Slack to go beyond the integrations we provide out of the box
@@ -599,7 +581,7 @@ the Box Developer Console
 - [Stripe](https://github.com/apis-list/apis-list/blob/main/apis/stripe/stripe.md) - Complete reference documentation for the Stripe API
 - [Trash Nothing](https://github.com/apis-list/apis-list/blob/main/apis/trash-nothing/trash-nothing.md) - Developer API trash nothing! provides a REST API which allows developers to build apps on top of the trash nothing platform (with thousands of new posts every day and millions of users from around
 - [Treopim Api](https://github.com/apis-list/apis-list/blob/main/apis/treopim-api/treopim-api.md) - AtroPIM is a free, modern, open source, GPLv3 licensed, web-based, feature-rich and configurable PIM solution of the new generation
-- [UPC database](https://github.com/apis-list/apis-list/blob/main/apis/upc-database/upc-database.md) - Integrate your own applications using our new API
+- [UPC database](https://github.com/apis-list/apis-list/blob/main/apis/upc-database/upc-database.md) - Database contains a mixture of barcode types from the standard UPC numbering system, the worldwide EAN numbering system, and the Bookland numbering system
 - [UPS](https://github.com/apis-list/apis-list/blob/main/apis/ups/ups.md) - Integrate our Application Programming Interfaces (APIs) with your back-end systems for increased shipping management efficiency
 - [Uber](https://github.com/apis-list/apis-list/blob/main/apis/uber/uber.md) - Discover how the Uber API can easily enhance your app’s user experience and take your innovation further with a wide range of new capabilities
 - [Upwork](https://github.com/apis-list/apis-list/blob/main/apis/upwork/upwork.md) - reference The reference of the accounting transaction
@@ -607,7 +589,6 @@ the Box Developer Console
 - [Wegmans](https://github.com/apis-list/apis-list/blob/main/apis/wegmans/wegmans.md) - APIs for products and store information
 - [Yclas](https://github.com/apis-list/apis-list/blob/main/apis/yclas/yclas.md) - Be creative and create any type of marketplace
 - [Yelp](https://github.com/apis-list/apis-list/blob/main/apis/yelp/yelp.md) - Yelp's API exposes search to 3rd party developers
-- [coinpaprika](https://github.com/apis-list/apis-list/blob/main/apis/coinpaprika/coinpaprika.md) - Cryptocurrencies prices, market capitalization, volume and more
 - [eBay](https://github.com/apis-list/apis-list/blob/main/apis/ebay/ebay.md) - eBay Developers Program Celebrates 20 Years This year we’re celebrating 25 years of eBay and 20 years of the eBay Developers Program
 - [envoice](https://github.com/apis-list/apis-list/blob/main/apis/envoice/envoice.md) - Invoicing for online businesses
 - [koomalooma](https://github.com/apis-list/apis-list/blob/main/apis/koomalooma/koomalooma.md) - koomalooma takes care of all the rest, from signing up users, keeping track of points and delivering rewards in over 80 countries
@@ -629,10 +610,8 @@ the Box Developer Console
  ### Content & Dictionaries 
 - [Agarathi](https://github.com/apis-list/apis-list/blob/main/apis/agarathi/agarathi.md) - Tamil language Dictionary API
 - [Box](https://github.com/apis-list/apis-list/blob/main/apis/box/box.md) - Explore the Box APIs and SDKs to use for app development,
-API documentation, developer support resources, and access
-the Box Developer Console
 - [Cambridge Dictionaries Online](https://github.com/apis-list/apis-list/blob/main/apis/cambridge-dictionaries-online/cambridge-dictionaries-online.md) - Access to Cambridge’s custom-developed API
-- [Datamuse API](https://github.com/apis-list/apis-list/blob/main/apis/datamuse-api/datamuse-api.md) - You can use it in your apps to find words that match a given set o
+- [Datamuse API](https://github.com/apis-list/apis-list/blob/main/apis/datamuse-api/datamuse-api.md) - Word-finding query engine that finds words that match a given set of constraints and that are likely in a given context
 - [Elasticpath](https://github.com/apis-list/apis-list/blob/main/apis/elasticpath/elasticpath.md) - Provides the full commerce solution to bring your unique, revenue-driving experiences to life, fast
 - [FavQs](https://github.com/apis-list/apis-list/blob/main/apis/favqs/favqs.md) - FavQs allows you to collect, discover, and share your favorite quotes
 - [Forismatic](https://github.com/apis-list/apis-list/blob/main/apis/forismatic/forismatic.md) - Gives you a random quote per click
@@ -655,7 +634,7 @@ the Box Developer Console
 - [Today in History](https://github.com/apis-list/apis-list/blob/main/apis/today-in-history/today-in-history.md) - Database of historical events
 - [Utelly](https://github.com/apis-list/apis-list/blob/main/apis/utelly/utelly.md) - Check where a tv show or movie is available
 - [Vimeo](https://github.com/apis-list/apis-list/blob/main/apis/vimeo/vimeo.md) - Unlock the power of video and join over 200M professionals, teams, and organizations who use Vimeo to create, collaborate and communicate
-- [Wikipedia](https://github.com/apis-list/apis-list/blob/main/apis/wikipedia/wikipedia.md) - Documentation and examples: https://www
+- [Wikipedia](https://github.com/apis-list/apis-list/blob/main/apis/wikipedia/wikipedia.md) - Free multilingual Encyclopedia
 - [Wiktionary API](https://github.com/apis-list/apis-list/blob/main/apis/wiktionary-api/wiktionary-api.md) - This is an auto-generated MediaWiki API documentation page
 - [Wordnik](https://github.com/apis-list/apis-list/blob/main/apis/wordnik/wordnik.md) - The Wordnik API Docs
 - [Words API](https://github.com/apis-list/apis-list/blob/main/apis/words-api/words-api.md) - An API for the english language
@@ -664,8 +643,6 @@ the Box Developer Console
 - [Tamil Dictionary Api](https://github.com/apis-list/apis-list/blob/main/apis/tamil-dictionary-api/tamil-dictionary-api.md) - Lookup Tamil words and build your own Tamil dictionary APP using this API
  ### Content Management 
 - [Box](https://github.com/apis-list/apis-list/blob/main/apis/box/box.md) - Explore the Box APIs and SDKs to use for app development,
-API documentation, developer support resources, and access
-the Box Developer Console
 - [Elasticpath](https://github.com/apis-list/apis-list/blob/main/apis/elasticpath/elasticpath.md) - Provides the full commerce solution to bring your unique, revenue-driving experiences to life, fast
  ### Conversions 
 - [Blogcast](https://github.com/apis-list/apis-list/blob/main/apis/blogcast/blogcast.md) - Generate audio versions of your articles
@@ -673,7 +650,7 @@ the Box Developer Console
 - [CoinLayer](https://github.com/apis-list/apis-list/blob/main/apis/coinlayer/coinlayer.md) - Powerful cryptocurrency rates JSON API delivering real-time crypto exchange rate and conversion data for more than 25 exchanges and 385 coins worldwide
 - [Currencystack](https://github.com/apis-list/apis-list/blob/main/apis/currencystack/currencystack.md) - Real-time exchange rates for 154 world currencies provided in JSON format and works for any programming environment
 - [PDFmyURL](https://github.com/apis-list/apis-list/blob/main/apis/pdfmyurl/pdfmyurl.md) - Easily Convert URLs / Webpages or HTML to PDF in any Programming Language or on the Command Line! Options for page format, layout, headers, footers, watermarking and more
-- [Pdfshift ](https://github.com/apis-list/apis-list/blob/main/apis/pdfshift/pdfshift.md) - An API to convert HTML/CSS documents to PDF
+- [Pdfshift ](https://github.com/apis-list/apis-list/blob/main/apis/pdfshift/pdfshift.md) - An API to convert HTML/CSS documents to PDF. PDFShift is the reliable, Up-to-date and high-fidelity conversion API with no maintenance costs. Convert any HTML documents to high-fidelity PDF in one single POST request. 
 - [Sheetsu](https://github.com/apis-list/apis-list/blob/main/apis/sheetsu/sheetsu.md) - Get data from Google Spreadsheet in a matter of seconds
 - [Thumbnails Cloud](https://github.com/apis-list/apis-list/blob/main/apis/thumbnails-cloud/thumbnails-cloud.md) - cloud API generates JPG and PDF file previews for all common document formats, using a super simple API
 - [Tinypng](https://github.com/apis-list/apis-list/blob/main/apis/tinypng/tinypng.md) - TinyPNG API will help you compress and reduce the size of your JPEF and PNG files
@@ -683,116 +660,19 @@ the Box Developer Console
 - [Bitfinex](https://github.com/apis-list/apis-list/blob/main/apis/bitfinex/bitfinex.md) - The Bitfinex API is designed to allow access to all the features of the Bitfinex platform on the condition that it is used in compliance with our API Terms of Service
 - [CoinDesk](https://github.com/apis-list/apis-list/blob/main/apis/coindesk/coindesk.md) - Bitcoin Price Index
 - [CoinLayer](https://github.com/apis-list/apis-list/blob/main/apis/coinlayer/coinlayer.md) - Powerful cryptocurrency rates JSON API delivering real-time crypto exchange rate and conversion data for more than 25 exchanges and 385 coins worldwide
-- [Coinbase](https://github.com/apis-list/apis-list/blob/main/apis/coinbase/coinbase.md) - Coinbase’s API makes it easy to integrate bitcoin, bitcoin cash, litecoin and ethereum into both new and existing applications
+- [Coinbase](https://github.com/apis-list/apis-list/blob/main/apis/coinbase/coinbase.md) - Coinbase’s API makes it easy to integrate bitcoin, bitcoin cash, litecoin and ethereum into both new and existing applications. 
 - [Cryptonator](https://github.com/apis-list/apis-list/blob/main/apis/cryptonator/cryptonator.md) - Prices are updated every 30 seconds, covering 300+ cryptocurrencies across 42 exchanges
 - [Currencystack](https://github.com/apis-list/apis-list/blob/main/apis/currencystack/currencystack.md) - Real-time exchange rates for 154 world currencies provided in JSON format and works for any programming environment
 - [Exchange Rates API](https://github.com/apis-list/apis-list/blob/main/apis/exchange-rates-api/exchange-rates-api.md) - com is the most popular place to securely buy, store, and trade Bitcoin, Ethereum, and other top cryptocurrencies
 - [Messari](https://github.com/apis-list/apis-list/blob/main/apis/messari/messari.md) - Messari provides an institutional grade Bitcoin and blockchain data API, ranging from market data to fundamentals, blockchain metrics and news
 - [Nexchange](https://github.com/apis-list/apis-list/blob/main/apis/nexchange/nexchange.md) - API for crypto currency exchange
 - [Quidax Merchant](https://github.com/apis-list/apis-list/blob/main/apis/quidax-merchant/quidax-merchant.md) - Buy, sell and store Bitcoin, Ethereum, Ripple (XRP), Litecoin & other cryptocurrencies with Naira
- ### Data 
-- [18F](https://github.com/apis-list/apis-list/blob/main/apis/18f/18f.md) - Named after the common practice of 
-- [APIXU](https://github.com/apis-list/apis-list/blob/main/apis/apixu/apixu.md) - Get current weather information, historical data and forecasts using weatherstack - a free world weather REST API supporting millions of global locations
-- [AirVisual](https://github.com/apis-list/apis-list/blob/main/apis/airvisual/airvisual.md) - Enhance your projects with free trusted historical, real-time and forecast air quality data
-- [Archive.org](https://github.com/apis-list/apis-list/blob/main/apis/archive-org/archive-org.md) - This describes the resources that make up the official Archive
-- [Astronomy](https://github.com/apis-list/apis-list/blob/main/apis/astronomy/astronomy.md) - Astronomy API provides timings for sunrise, sunset, moonrise, moonset, sun azimuth, moon azimuth, sun altitude, moon altitude, sun distance from the earth and moon distance from the earth from latitude and longitude or an IPv4 or IPv6 address for a given date
-- [Bacon Ipsum](https://github.com/apis-list/apis-list/blob/main/apis/bacon-ipsum/bacon-ipsum.md) - JSON API for returning meaty lorem ipsum filler text
-- [BetterDoctor](https://github.com/apis-list/apis-list/blob/main/apis/betterdoctor/betterdoctor.md) - BetterDoctor API is the most frequently updated and trusted source of doctor data
-- [COVID-19 Data](https://github.com/apis-list/apis-list/blob/main/apis/covid-19-data/covid-19-data.md) - fr/v1
-- [CarsXE API](https://github.com/apis-list/apis-list/blob/main/apis/carsxe-api/carsxe-api.md) - Get access to millions of vehicle records, specs, ownership costs and market values
-- [CartoDB](https://github.com/apis-list/apis-list/blob/main/apis/cartodb/cartodb.md) - Allows you to generate maps based on data hosted in your CartoDB account
-- [Census.gov](https://github.com/apis-list/apis-list/blob/main/apis/census-gov/census-gov.md) - Access demographic, economic and population data from the U
-- [City Context](https://github.com/apis-list/apis-list/blob/main/apis/city-context/city-context.md) - Crime, school and transportation data for US cities
-- [CivicFeed](https://github.com/apis-list/apis-list/blob/main/apis/civicfeed/civicfeed.md) - Get online news, blogs, social and TV/radio through a JSON API - easy integration for developers
-- [Climacell Micro Weather](https://github.com/apis-list/apis-list/blob/main/apis/climacell-micro-weather/climacell-micro-weather.md) - Historical, real-time and nowcast weather data
-- [CryptoCompare](https://github.com/apis-list/apis-list/blob/main/apis/cryptocompare/cryptocompare.md) - Cryptocurrencies Comparison
-- [Czech Namedays Calendar](https://github.com/apis-list/apis-list/blob/main/apis/czech-namedays-calendar/czech-namedays-calendar.md) - Svátky API Vám řekne kdo má kdy svátek, nebo kdy má kdo svátek
-- [Dashblock](https://github.com/apis-list/apis-list/blob/main/apis/dashblock/dashblock.md) - They offer 1000 free API calls per month,
-- [Data Demograph](https://github.com/apis-list/apis-list/blob/main/apis/data-demograph/data-demograph.md) - backends
-- [Data Science Toolkit](https://github.com/apis-list/apis-list/blob/main/apis/data-science-toolkit/data-science-toolkit.md) - A collection of the best open data sets and open-source tools for data science
-- [Datakick](https://github.com/apis-list/apis-list/blob/main/apis/datakick/datakick.md) - You may have mistyped the address or the page may have moved
-- [Datamuse API](https://github.com/apis-list/apis-list/blob/main/apis/datamuse-api/datamuse-api.md) - You can use it in your apps to find words that match a given set o
-- [Dicebear Avatars](https://github.com/apis-list/apis-list/blob/main/apis/dicebear-avatars/dicebear-avatars.md) - Avatars is an avatar placeholder library for designers and developers
-- [District of Columbia Open Data](https://github.com/apis-list/apis-list/blob/main/apis/district-of-columbia-open-data/district-of-columbia-open-data.md) - Welcome, Application Developers! We are very happy that you’re considering building with Open Data DC
-- [Dummyapi.Io](https://github.com/apis-list/apis-list/blob/main/apis/dummyapi-io/dummyapi-io.md) - Simple API that includes a common data for most of the applications
-- [EPO](https://github.com/apis-list/apis-list/blob/main/apis/epo/epo.md) -  Open Patent Services (OPS) is a web service which provides access to the EPO's raw data via a standardised XML interface
-- [Elis](https://github.com/apis-list/apis-list/blob/main/apis/elis/elis.md) - Automate data extraction from your documents with Artificial Intelligence
-- [Enigma Public](https://github.com/apis-list/apis-list/blob/main/apis/enigma-public/enigma-public.md) - Enigma Businesses provides the most accurate and reliable information on small and medium businesses in real-time
-- [Factual](https://github.com/apis-list/apis-list/blob/main/apis/factual/factual.md) - Welcome to the Factual developer hub! Here you'll find comprehensive guides and documentation to help you start working with Factual data, APIs, and SDKs
-- [Faker API](https://github.com/apis-list/apis-list/blob/main/apis/faker-api/faker-api.md) - Generate fake data and get by REST API requests
-- [Firebase](https://github.com/apis-list/apis-list/blob/main/apis/firebase/firebase.md) - Web reference View full API for JS Client
-- [French Address Search](https://github.com/apis-list/apis-list/blob/main/apis/french-address-search/french-address-search.md) - Cherchez des adresses et lieux-dits
-- [HouseCanary Analytics API](https://github.com/apis-list/apis-list/blob/main/apis/housecanary-analytics-api/housecanary-analytics-api.md) - Real estate investors and lenders can make decisions in seconds that used to take weeks, using the most accurate proprietary and public record data available
-- [Infermedica API](https://github.com/apis-list/apis-list/blob/main/apis/infermedica-api/infermedica-api.md) - The most advanced Symptom Checker and Patient Triage API
-- [Ip Geolocation Api By Ipwhois.Io](https://github.com/apis-list/apis-list/blob/main/apis/ip-geolocation-api-by-ipwhois-io/ip-geolocation-api-by-ipwhois-io.md) - io to filter out bot traffic, customize content based on visitor's location, display full country names, perform bulk IP geolocation, and more
-- [JSONPlaceholder](https://github.com/apis-list/apis-list/blob/main/apis/jsonplaceholder/jsonplaceholder.md) - When to use JSONPlaceholder is a free online REST API that you can use whenever you need some fake data
-- [Jservice](https://github.com/apis-list/apis-list/blob/main/apis/jservice/jservice.md) - Trivia Questions
-- [Loripsum](https://github.com/apis-list/apis-list/blob/main/apis/loripsum/loripsum.md) - This Lorem Ipsum generator fits all your Lipsum needs! Come on over, make some Lipsum and copy-paste like a pro!
-- [MAC address vendor lookup](https://github.com/apis-list/apis-list/blob/main/apis/mac-address-vendor-lookup/mac-address-vendor-lookup.md) - The MAC address API allows you to retrieve OUI vendor information, detect virtual machines, possible applications, read the information encoded in the MAC, and get our research's results regarding the given MAC address or the OUI
-- [Marijuana Strains](https://github.com/apis-list/apis-list/blob/main/apis/marijuana-strains/marijuana-strains.md) - com/API_KEY Information Queries Information queries are used for getting information needed for ma
-- [Next Big Sound](https://github.com/apis-list/apis-list/blob/main/apis/next-big-sound/next-big-sound.md) - 403 Forbidden Request forbidden by administrative rules
-- [Oddsapi](https://github.com/apis-list/apis-list/blob/main/apis/oddsapi/oddsapi.md) - All results are returned in easy-to-read JSON format
-- [Ontraport](https://github.com/apis-list/apis-list/blob/main/apis/ontraport/ontraport.md) - Introduction The base URL for all of the requests detailed in this documentation is: https://api
-- [Open Access Button](https://github.com/apis-list/apis-list/blob/main/apis/open-access-button/open-access-button.md) - Free, legal research articles delivered instantly or automatically requested from authors
-- [Open Brewery DB](https://github.com/apis-list/apis-list/blob/main/apis/open-brewery-db/open-brewery-db.md) - The goal of Open Brewery DB is to maintain an open-source, community-drive
-- [Open Food Facts](https://github.com/apis-list/apis-list/blob/main/apis/open-food-facts/open-food-facts.md) - Open Food Facts is a database of food products with ingredients, allergens, nutrition facts and all the tidbits of information we can find on product labels
-- [OpenCorporates](https://github.com/apis-list/apis-list/blob/main/apis/opencorporates/opencorporates.md) - Introduction This documentation covers the main API (the so-called REST API)
-- [PIPL API](https://github.com/apis-list/apis-list/blob/main/apis/pipl-api/pipl-api.md) - Free and public API that generates random and fake people's data in JSON
-- [PandaScore](https://github.com/apis-list/apis-list/blob/main/apis/pandascore/pandascore.md) - Get events and detailed match data in real time from major league tournaments, or fetch data about players, tournaments, leagues, matches, teams and more !  Pandascore, the e-sports data and live API
-- [Phone Number Validation](https://github.com/apis-list/apis-list/blob/main/apis/phone-number-validation/phone-number-validation.md) - Check phone number validity, location and timezones
-- [Pocket Network](https://github.com/apis-list/apis-list/blob/main/apis/pocket-network/pocket-network.md) - Pocket proportionally rewards the participating nodes with native cryptographic tokens POKT
-- [Prague Opendata](https://github.com/apis-list/apis-list/blob/main/apis/prague-opendata/prague-opendata.md) - Prague City Open Data
-- [Quandl](https://github.com/apis-list/apis-list/blob/main/apis/quandl/quandl.md) - The source for financial, economic, and alternative datasets, serving investment professionals
-- [QuickChart](https://github.com/apis-list/apis-list/blob/main/apis/quickchart/quickchart.md) - Create a chart image with one API call and embed it anywhere
-- [Recreation Information Database](https://github.com/apis-list/apis-list/blob/main/apis/recreation-information-database/recreation-information-database.md) - Recreation
-- [Reliefweb](https://github.com/apis-list/apis-list/blob/main/apis/reliefweb/reliefweb.md) - ReliefWeb API to get the latest updates when a disaster happens
-- [ReqRes](https://github.com/apis-list/apis-list/blob/main/apis/reqres/reqres.md) - A hosted REST-API ready to respond to AJAX requests
-- [RoboHash](https://github.com/apis-list/apis-list/blob/main/apis/robohash/robohash.md) - Generate Unique images from any text Robohash is a easy web service that makes it easy to provide unique, robot/alien/monster/whatever images for any text
-- [Ryft](https://github.com/apis-list/apis-list/blob/main/apis/ryft/ryft.md) - Try refining your search, or use the navigation above to locate the post
-- [Scoop.it](https://github.com/apis-list/apis-list/blob/main/apis/scoop-it/scoop-it.md) - Scoop
-- [Scrapestack](https://github.com/apis-list/apis-list/blob/main/apis/scrapestack/scrapestack.md) - Use our proxy and web scraping REST API to extract html data from any web page, supporting 100 geolocations, CAPTCHAs and IP rotation for millions of IPs
-- [Skywatch](https://github.com/apis-list/apis-list/blob/main/apis/skywatch/skywatch.md) - Instead, EarthCache allows development teams to focus on the business application and in delivering actionable intelligence to the end-user
-- [Teleport](https://github.com/apis-list/apis-list/blob/main/apis/teleport/teleport.md) - Welcome to Teleport for Developers
-- [The Shrimpy Universal Crypto Exchange Api](https://github.com/apis-list/apis-list/blob/main/apis/the-shrimpy-universal-crypto-exchange-api/the-shrimpy-universal-crypto-exchange-api.md) - Collect real-time trade or order book data for free, manage user exchange accounts, execute trading strategies, and simplify the way you connect to each exchange
-- [Trefle](https://github.com/apis-list/apis-list/blob/main/apis/trefle/trefle.md) - Trefle is a botanical API and data source
-- [UK Police](https://github.com/apis-list/apis-list/blob/main/apis/uk-police/uk-police.md) - Police API Documentation The API provides a rich data source for information, including: Neighbourhood team members Upcoming events Street-level crime and outcome data Nearest police stations The A
-- [UPC database](https://github.com/apis-list/apis-list/blob/main/apis/upc-database/upc-database.md) - Integrate your own applications using our new API
-- [US Street Address](https://github.com/apis-list/apis-list/blob/main/apis/us-street-address/us-street-address.md) - How to verify one or more addresses using the SmartyStreets US Street Address API
-- [USA Census API'S](https://github.com/apis-list/apis-list/blob/main/apis/usa-census-apis/usa-census-apis.md) - These data are currently used to distribute around $400 B in Federal, State and local funds in ways that help communities plan for schools, social and emergency services, highway improvements and economic developments
-- [USPTO](https://github.com/apis-list/apis-list/blob/main/apis/uspto/uspto.md) - United States patent and trademark office API
-- [Universities List](https://github.com/apis-list/apis-list/blob/main/apis/universities-list/universities-list.md) - List of universities and their domain names
-- [University of Oslo](https://github.com/apis-list/apis-list/blob/main/apis/university-of-oslo/university-of-oslo.md) - Universitet i Oslo (lisensgiver) gir deg som lisenstaker rett til å bruke dataene fra tjenesten i henhold til Norsk l
-- [Visual Crossing Weather Api](https://github.com/apis-list/apis-list/blob/main/apis/visual-crossing-weather-api/visual-crossing-weather-api.md) - Weather API for businesses & data science
-- [Weather Source](https://github.com/apis-list/apis-list/blob/main/apis/weather-source/weather-source.md) - Powerful Weather API built for systems that demand speed, reliability and heavy load
-- [Weatherbit](https://github.com/apis-list/apis-list/blob/main/apis/weatherbit/weatherbit.md) - Weather API Documentation
-- [Wgs84 To Osgb36](https://github.com/apis-list/apis-list/blob/main/apis/wgs84-to-osgb36/wgs84-to-osgb36.md) - Convert a WGS84 latitude and longitude to OSGB36 easting and northing (British National Grid)
-- [Wikidata](https://github.com/apis-list/apis-list/blob/main/apis/wikidata/wikidata.md) - This is an auto-generated MediaWiki API documentation page
-- [Wikipedia](https://github.com/apis-list/apis-list/blob/main/apis/wikipedia/wikipedia.md) - Documentation and examples: https://www
-- [World Trading Data](https://github.com/apis-list/apis-list/blob/main/apis/world-trading-data/world-trading-data.md) - World Trading Data is a worldwide market data provider, for example provide a stock name and dates and get trading data for those
-- [Yelp](https://github.com/apis-list/apis-list/blob/main/apis/yelp/yelp.md) - Yelp's API exposes search to 3rd party developers
-- [Yes No](https://github.com/apis-list/apis-list/blob/main/apis/yes-no/yes-no.md) - Yes or No
-- [balldontlie](https://github.com/apis-list/apis-list/blob/main/apis/balldontlie/balldontlie.md) - Introduction Welcome to the balldontlie API! You can use our free API to access NBA related data
-- [bng2latlong](https://github.com/apis-list/apis-list/blob/main/apis/bng2latlong/bng2latlong.md) - Simple API to convert an OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude
-- [coinpaprika](https://github.com/apis-list/apis-list/blob/main/apis/coinpaprika/coinpaprika.md) - Cryptocurrencies prices, market capitalization, volume and more
-- [fonoApi](https://github.com/apis-list/apis-list/blob/main/apis/fonoapi/fonoapi.md) - Sorry the site service is down
-- [iDigBio](https://github.com/apis-list/apis-list/blob/main/apis/idigbio/idigbio.md) - Making data and images of millions of biological specimens available on the web
-- [openFDA](https://github.com/apis-list/apis-list/blob/main/apis/openfda/openfda.md) - openFDA
  ### Databases 
-- [CartoDB](https://github.com/apis-list/apis-list/blob/main/apis/cartodb/cartodb.md) - Allows you to generate maps based on data hosted in your CartoDB account
-- [Datakick](https://github.com/apis-list/apis-list/blob/main/apis/datakick/datakick.md) - You may have mistyped the address or the page may have moved
-- [EAN-Search](https://github.com/apis-list/apis-list/blob/main/apis/ean-search/ean-search.md) - Search our EAN database with over 230 million products by EAN, UPC, ISBN or product name
-- [Firebase](https://github.com/apis-list/apis-list/blob/main/apis/firebase/firebase.md) - Web reference View full API for JS Client
-- [GeoNames](https://github.com/apis-list/apis-list/blob/main/apis/geonames/geonames.md) - Important: Do not use the 'demo' account for your app or your tests
+- [Firebase](https://github.com/apis-list/apis-list/blob/main/apis/firebase/firebase.md) - Authentication, analytics, cloud messaging, crash reporting, ads and more
 - [Google BigQuery API](https://github.com/apis-list/apis-list/blob/main/apis/google-bigquery-api/google-bigquery-api.md) - A data platform for customers to create, manage, share and query data
-- [Json Base](https://github.com/apis-list/apis-list/blob/main/apis/json-base/json-base.md) - The free plan allows you to store 100,000 write ops per month and 1 million read operations per month
+- [Json Base](https://github.com/apis-list/apis-list/blob/main/apis/json-base/json-base.md) - API Based JSON Storage
 - [Rackspace Cloud Databases API](https://github.com/apis-list/apis-list/blob/main/apis/rackspace-cloud-databases-api/rackspace-cloud-databases-api.md) - Can be created, updated, and deleted using the OS::Trove::Instance resource
-- [Request Kittens](https://github.com/apis-list/apis-list/blob/main/apis/request-kittens/request-kittens.md) - GET http://requestkittens
 - [Sheetsu](https://github.com/apis-list/apis-list/blob/main/apis/sheetsu/sheetsu.md) - Get data from Google Spreadsheet in a matter of seconds
-- [The Audio DB](https://github.com/apis-list/apis-list/blob/main/apis/theaudiodb/theaudiodb.md) - TheAudioDB is a community database of Music Artwork, Metadata and Charts with a free JSON Music API
-- [TheSportsDB](https://github.com/apis-list/apis-list/blob/main/apis/thesportsdb/thesportsdb.md) - Various sports events, results, players, teams and high quality artwork
-- [TuneFind](https://github.com/apis-list/apis-list/blob/main/apis/tunefind/tunefind.md) - Since 2005 Tunefind has been the leading site dedicated to tracking the music featured in TV shows and movies
-- [UPC database](https://github.com/apis-list/apis-list/blob/main/apis/upc-database/upc-database.md) - Integrate your own applications using our new API
-- [Weather Source](https://github.com/apis-list/apis-list/blob/main/apis/weather-source/weather-source.md) - Powerful Weather API built for systems that demand speed, reliability and heavy load
  ### DevOps 
 - [Bittrex](https://github.com/apis-list/apis-list/blob/main/apis/bittrex/bittrex.md) - Bittrex provides a simple and powerful API consisting of REST endpoints for transactional operations and a complementary Websocket service providing streaming market and user data updates
 - [Contify Newfeed Api](https://github.com/apis-list/apis-list/blob/main/apis/contify-newfeed-api/contify-newfeed-api.md) - Contify's News Feed APIs provides a clean, company-based market and competitive intelligence feed with only business and industry-relevant information
@@ -807,25 +687,26 @@ the Box Developer Console
 - [APIs.guru](https://github.com/apis-list/apis-list/blob/main/apis/apis-guru/apis-guru.md) - Our goal is to create a machine-readable Wikipedia for WEB APIs
 - [Abstract](https://github.com/apis-list/apis-list/blob/main/apis/abstract/abstract.md) - Used by 10,000+ developers worldwide
 - [Agify.io](https://github.com/apis-list/apis-list/blob/main/apis/agify-io/agify-io.md) - Free API to check and predict the age of a name
-- [ApiFlash](https://github.com/apis-list/apis-list/blob/main/apis/apiflash/apiflash.md) - Chrome based screenshot API to convert URLs to images
+- [ApiFlash](https://github.com/apis-list/apis-list/blob/main/apis/apiflash/apiflash.md) - Chrome based screenshot API to convert URLs to images.  ApiFlash is an easy to use screenshot API for developers.  It is powerful and
 - [Apiary](https://github.com/apis-list/apis-list/blob/main/apis/apiary/apiary.md) - Apiary provides the leading API-First platform designed specifically to help companies accelerate and control the design, development, and documentation of APIs
 - [Apileap](https://github.com/apis-list/apis-list/blob/main/apis/apileap/apileap.md) - Make screenshots from web pages and HTML
 - [Approveapi](https://github.com/apis-list/apis-list/blob/main/apis/approveapi/approveapi.md) - A simple API to request a user's real-time approval on any device or platform via Email, SMS, Slack, and in-app mobile Push
 - [AudD](https://github.com/apis-list/apis-list/blob/main/apis/audd/audd.md) - AudD Music Recognition API Docs: how to identify songs in audio using our API
+- [Bacon Ipsum](https://github.com/apis-list/apis-list/blob/main/apis/bacon-ipsum/bacon-ipsum.md) - JSON API for returning meaty lorem ipsum filler text
 - [BetterMeta](https://github.com/apis-list/apis-list/blob/main/apis/bettermeta/bettermeta.md) - A simple API to return the meta tags of any site in a digestable JSON format
 - [Bitbucket](https://github.com/apis-list/apis-list/blob/main/apis/bitbucket/bitbucket.md) - Code against the Bitbucket API to automate simple tasks, embed Bitbucket data into your own site, build mobile or desktop apps, or even add custom UI add-ons into Bitbucket itself using the Connect framework
 - [Bored](https://github.com/apis-list/apis-list/blob/main/apis/bored/bored.md) - Find random activities to fight boredom
 - [CDNJS](https://github.com/apis-list/apis-list/blob/main/apis/cdnjs/cdnjs.md) - cdnjs provides a simple API to allow anyone to quickly query the libraries we have on the CDN
 - [CarsXE API](https://github.com/apis-list/apis-list/blob/main/apis/carsxe-api/carsxe-api.md) - Get access to millions of vehicle records, specs, ownership costs and market values
 - [Changelogs.md](https://github.com/apis-list/apis-list/blob/main/apis/changelogs-md/changelogs-md.md) - Search changelogs from open source projects, or use the REST API for a parsed JSON changelog format
-- [Chat Messaging By Stream](https://github.com/apis-list/apis-list/blob/main/apis/chat-messaging-by-stream/chat-messaging-by-stream.md) - Stream's API and SDKs enable developers to build messaging solutions very quickly and reliably
+- [Chat Messaging By Stream](https://github.com/apis-list/apis-list/blob/main/apis/chat-messaging-by-stream/chat-messaging-by-stream.md) - Stream's API and SDKs enable developers to build messaging solutions very quickly and reliably. Drive in-app conversion, engagement, and retention while letting the Stream backend handle all the heavy lifting. 
 - [CircleCI](https://github.com/apis-list/apis-list/blob/main/apis/circleci/circleci.md) - CircleCI V1 API Overview The CircleCI API is a full-featured RESTful API that allows you to access all information and trigger all actions in CircleCI
 - [Codacy API](https://github.com/apis-list/apis-list/blob/main/apis/codacy-api/codacy-api.md) - 0 Scroll down for code samples, example requests and responses
 - [Codeship](https://github.com/apis-list/apis-list/blob/main/apis/codeship/codeship.md) - Hosted API documentation for every OAS (Swagger) and RAML spec out there
 - [CountAPI](https://github.com/apis-list/apis-list/blob/main/apis/countapi/countapi.md) - You can use it to track page hits, and specific events among other things
 - [Countly](https://github.com/apis-list/apis-list/blob/main/apis/countly/countly.md) - Countly is the best analytics platform to understand and enhance customer journeys in web, desktop and mobile applications
 - [Creative Commons Catalog](https://github.com/apis-list/apis-list/blob/main/apis/creative-commons-catalog/creative-commons-catalog.md) - The Creative Commons Catalog API ('cccatalog-api') is a system that allows programmatic access to public domain digital media
-- [Data Demograph](https://github.com/apis-list/apis-list/blob/main/apis/data-demograph/data-demograph.md) - backends
+- [Data Demograph](https://github.com/apis-list/apis-list/blob/main/apis/data-demograph/data-demograph.md) - Enrich your contact lists with intelligent demographics
 - [DigitalOcean Status](https://github.com/apis-list/apis-list/blob/main/apis/digitalocean-status/digitalocean-status.md) - In order to keep DigitalOcean bot-free, please complete this security check Please stand by, while we are checking your browser
 - [Domainsdb.info](https://github.com/apis-list/apis-list/blob/main/apis/domainsdb-info/domainsdb-info.md) - Registered domain names search checks the lists of registered domains for names containing particular words/phrases/numbers or symbols
 - [Drupal.org](https://github.com/apis-list/apis-list/blob/main/apis/drupal-org/drupal-org.md) - This may happen as a result of the following: Javascript is disabled or blocked by an extension (ad bl
@@ -834,7 +715,7 @@ the Box Developer Console
 - [EAN Barcode Search](https://github.com/apis-list/apis-list/blob/main/apis/ean-barcode-search/ean-barcode-search.md) - EAN Barcode API Integrate our database into your app or website! Easily query our database of over 230 million barcodes (EAN, UPC, ISBN) or search by product name with our REST-based webservice
 - [Faceplusplus](https://github.com/apis-list/apis-list/blob/main/apis/faceplusplus/faceplusplus.md) - Meta description
 - [FakeJSON](https://github.com/apis-list/apis-list/blob/main/apis/fakejson/fakejson.md) - Easily create custom HTTP resources complete with fake data
-- [Firebase](https://github.com/apis-list/apis-list/blob/main/apis/firebase/firebase.md) - Web reference View full API for JS Client
+- [Firebase](https://github.com/apis-list/apis-list/blob/main/apis/firebase/firebase.md) - Authentication, analytics, cloud messaging, crash reporting, ads and more
 - [Genderize.io](https://github.com/apis-list/apis-list/blob/main/apis/genderize-io/genderize-io.md) - 000 names in our database, Serving more than 1 million requests/day
 - [GitHub Gists](https://github.com/apis-list/apis-list/blob/main/apis/github-gists/github-gists.md) - For more information
 - [GitLab](https://github.com/apis-list/apis-list/blob/main/apis/gitlab/gitlab.md) - Access to GitLab's API
@@ -843,13 +724,6 @@ the Box Developer Console
 - [Google Monitoring API](https://github.com/apis-list/apis-list/blob/main/apis/google-monitoring-api/google-monitoring-api.md) - This page describes some of the features of the Cloud Monitoring API v3
 - [HTTP2.Pro](https://github.com/apis-list/apis-list/blob/main/apis/http2-pro/http2-pro.md) - Pro, Client HTTP/2 Support API
 - [Html2pdf.App](https://github.com/apis-list/apis-list/blob/main/apis/html2pdf-app/html2pdf-app.md) - Free Html to Pdf online generator
-
-Most realistic, high quality html to pdf api service!
-
-Free API - no payments
-No need your own server
-Maintainable and improving service
-Easy to use
 - [HyperTrack](https://github.com/apis-list/apis-list/blob/main/apis/hypertrack/hypertrack.md) - Build applications that track the movement of your business
 - [IBM Visual Recognition](https://github.com/apis-list/apis-list/blob/main/apis/ibm-visual-recognition/ibm-visual-recognition.md) - Existing instances are supported until 1 December 2021, but as of 7 January 2021, you can&#39;t create instances
 - [IFTTT](https://github.com/apis-list/apis-list/blob/main/apis/ifttt/ifttt.md) - Learn how to build an API to show and update connections, run actions, perform queries, and listen for triggers
@@ -857,10 +731,10 @@ Easy to use
 - [IPify](https://github.com/apis-list/apis-list/blob/main/apis/ipify/ipify.md) - ipify API is a simple public IP address API, easy enough to integrate into any application in seconds
 - [IPinfo](https://github.com/apis-list/apis-list/blob/main/apis/ipinfo/ipinfo.md) - If you'd
 - [Intellexer](https://github.com/apis-list/apis-list/blob/main/apis/intellexer/intellexer.md) - Processing (NLP) Service including sentiment analysis, content extraction, and language detection
-- [Ipinfo.Io Ip Address Data Api](https://github.com/apis-list/apis-list/blob/main/apis/ipinfo-io-ip-address-data-api/ipinfo-io-ip-address-data-api.md) - If you'd
+- [Ipinfo.Io Ip Address Data Api](https://github.com/apis-list/apis-list/blob/main/apis/ipinfo-io-ip-address-data-api/ipinfo-io-ip-address-data-api.md) - If you'd. IPinfo is a free IP data API provider specializing in IP geolocation, though also offering endpoints for ASN, IP to company, IP to carrier, IP ranges, and hosted domains.  The geolocation API returns a JSON response containing data fields describing the specified IP's region, country, city, postal code, coordinates, and more. 
 - [JSON 2 JSONP](https://github.com/apis-list/apis-list/blob/main/apis/json-2-jsonp/json-2-jsonp.md) - Requests are served as content type 'application/javascript' and cached for 4 hours for better performance
 - [JSON Pretty Print](https://github.com/apis-list/apis-list/blob/main/apis/json-pretty-print/json-pretty-print.md) - JSON Pretty Print with modern user interface and ssl
-- [JSONPlaceholder](https://github.com/apis-list/apis-list/blob/main/apis/jsonplaceholder/jsonplaceholder.md) - When to use JSONPlaceholder is a free online REST API that you can use whenever you need some fake data
+- [JSONPlaceholder](https://github.com/apis-list/apis-list/blob/main/apis/jsonplaceholder/jsonplaceholder.md) - Free online REST API that you can use whenever you need some fake data
 - [Jesus Api](https://github.com/apis-list/apis-list/blob/main/apis/jesus-api/jesus-api.md) - Upgrade to Hostinger By upgrading to premium hosting you will unlock all available features, more disk sp
 - [Keygen](https://github.com/apis-list/apis-list/blob/main/apis/keygen/keygen.md) - Keygen is a dead-simple software licensing API built for developers of desktop apps, on-prem software and other digital products
 - [Keyserv](https://github.com/apis-list/apis-list/blob/main/apis/keyserv/keyserv.md) - SmartQ is an technology company founded in 2017 with the intention of providing innovative tools for the modern world
@@ -868,7 +742,8 @@ Easy to use
 - [Lexalytics](https://github.com/apis-list/apis-list/blob/main/apis/semantria/semantria.md) - Flexible natural language processing APIs and complete text analytics platform solutions for data analytics companies and data analyst teams
 - [License-API](https://github.com/apis-list/apis-list/blob/main/apis/license-api/license-api.md) - com
 - [Liveedu](https://github.com/apis-list/apis-list/blob/main/apis/liveedu/liveedu.md) - Live Coding Streaming
-- [MAC address vendor lookup](https://github.com/apis-list/apis-list/blob/main/apis/mac-address-vendor-lookup/mac-address-vendor-lookup.md) - The MAC address API allows you to retrieve OUI vendor information, detect virtual machines, possible applications, read the information encoded in the MAC, and get our research's results regarding the given MAC address or the OUI
+- [Loripsum](https://github.com/apis-list/apis-list/blob/main/apis/loripsum/loripsum.md) - This Lorem Ipsum generator fits all your Lipsum needs! Come on over, make some Lipsum and copy-paste like a pro!
+- [MAC address vendor lookup](https://github.com/apis-list/apis-list/blob/main/apis/mac-address-vendor-lookup/mac-address-vendor-lookup.md) - The MAC address API allows you to retrieve OUI vendor information, detect virtual machines, possible applications, read the information encoded in the MAC, and get research's results regarding the given MAC address or the OUI
 - [MLScrape](https://github.com/apis-list/apis-list/blob/main/apis/mlscrape/mlscrape.md) - MLScrape is an API that allows you to scrape data from any online shop without having to maintain your own web scraper - simply send the product URL to our API
 - [Marketcloud](https://github.com/apis-list/apis-list/blob/main/apis/marketcloud/marketcloud.md) - It covers inventory and database, carts and checkout, payments, user authentication, and more
 - [Matlab](https://github.com/apis-list/apis-list/blob/main/apis/matlab/matlab.md) - It allows you to create client programs in any programming language with an HTTP library
@@ -878,13 +753,11 @@ Easy to use
 - [Nationalize.io](https://github.com/apis-list/apis-list/blob/main/apis/nationalize-io/nationalize-io.md) - Free API to check and predict the nationality of a name
 - [OpenAPI](https://github.com/apis-list/apis-list/blob/main/apis/openapi/openapi.md) - The OpenAPI Specification: a broadly adopted industry standard for describing modern APIs
 - [PageCDN](https://github.com/apis-list/apis-list/blob/main/apis/pagecdn/pagecdn.md) - PageCDN provides a state of the art opensource content delivery network that uses brotli-11 compression
-- [Pdfshift ](https://github.com/apis-list/apis-list/blob/main/apis/pdfshift/pdfshift.md) - An API to convert HTML/CSS documents to PDF
+- [Pdfshift ](https://github.com/apis-list/apis-list/blob/main/apis/pdfshift/pdfshift.md) - An API to convert HTML/CSS documents to PDF. PDFShift is the reliable, Up-to-date and high-fidelity conversion API with no maintenance costs. Convert any HTML documents to high-fidelity PDF in one single POST request. 
 - [Pixabay](https://github.com/apis-list/apis-list/blob/main/apis/pixabay/pixabay.md) - Restful API for searching and retrieving free images and videos
 - [PlaceGoat](https://github.com/apis-list/apis-list/blob/main/apis/placegoat/placegoat.md) - PlaceGOAT Tired of all these placeholder services that just cater to superficial celebrity worship? Missing farm animals in your design mockups? Have an unhealthy love of yelling goats? You are wel
-- [PlaceKitten](https://github.com/apis-list/apis-list/blob/main/apis/placekitten/placekitten.md) - A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code
 - [Placehold](https://github.com/apis-list/apis-list/blob/main/apis/placehold/placehold.md) - Contents1 What Is Placeholder
 - [Plino](https://github.com/apis-list/apis-list/blob/main/apis/plino/plino.md) - Plino - A responsive spam filtering system
-- [Pocket Network](https://github.com/apis-list/apis-list/blob/main/apis/pocket-network/pocket-network.md) - Pocket proportionally rewards the participating nodes with native cryptographic tokens POKT
 - [Postman](https://github.com/apis-list/apis-list/blob/main/apis/postman/postman.md) - Browser not supported Try using a different browser or the desktop app
 - [Postmen](https://github.com/apis-list/apis-list/blob/main/apis/postmen/postmen.md) - Download Postmen's JSON schema
 - [ProxyCrawl](https://github.com/apis-list/apis-list/blob/main/apis/proxycrawl/proxycrawl.md) - Crawl and scrape websites without the need of proxies, infrastructure or browsers
@@ -897,7 +770,7 @@ Easy to use
 - [SVN](https://github.com/apis-list/apis-list/blob/main/apis/svn/svn.md) - It is intended mainly for programmers, both those working on Subversion itself, as well as developers of 3rd-party ap
 - [Satyr](https://github.com/apis-list/apis-list/blob/main/apis/satyr/satyr.md) - Free powerful API for generating dummy images with unique features like delay, aspect ratio, variable resolution, themes, flags and offline mode
 - [Scraper.AI](https://github.com/apis-list/apis-list/blob/main/apis/scraper-ai/scraper-ai.md) - Scraper
-- [Scrapestack](https://github.com/apis-list/apis-list/blob/main/apis/scrapestack/scrapestack.md) - Use our proxy and web scraping REST API to extract html data from any web page, supporting 100 geolocations, CAPTCHAs and IP rotation for millions of IPs
+- [Scrapestack](https://github.com/apis-list/apis-list/blob/main/apis/scrapestack/scrapestack.md) - Use this proxy and web scraping REST API to extract html data from any web page, supporting 100 geolocations, CAPTCHAs and IP rotation for millions of IPs
 - [Smartcar](https://github.com/apis-list/apis-list/blob/main/apis/smartcar/smartcar.md) - Build web and mobile apps that communicate with vehicles
 - [Swagger](https://github.com/apis-list/apis-list/blob/main/apis/swagger/swagger.md) - Find out how Swagger can help you and get started today
 - [Team Foundation Server](https://github.com/apis-list/apis-list/blob/main/apis/team-foundation-server/team-foundation-server.md) - Overview of integrating with Azure DevOps
@@ -914,7 +787,6 @@ Easy to use
 - [Barzahlen](https://github.com/apis-list/apis-list/blob/main/apis/barzahlen/barzahlen.md) - viafintech API v2 allows you to create payment, partial payment, payout, and refund slips customers can use in stores like supermarkets to pay or receive money
 - [Buffer](https://github.com/apis-list/apis-list/blob/main/apis/buffer/buffer.md) - Buffer makes it super easy to share any page you're reading
 - [Cloudmersive Document and Data Conversion](https://github.com/apis-list/apis-list/blob/main/apis/cloudmersive-document-and-data-conversion/cloudmersive-document-and-data-conversion.md) - Document and Data Conversion APIs
-Convert files and content between file formats
 - [Clust](https://github.com/apis-list/apis-list/blob/main/apis/clust/clust.md) - The best way to gather anyone’s documents, directly from your app & without hassle
 - [Codacy API](https://github.com/apis-list/apis-list/blob/main/apis/codacy-api/codacy-api.md) - 0 Scroll down for code samples, example requests and responses
 - [Cronofy](https://github.com/apis-list/apis-list/blob/main/apis/cronofy/cronofy.md) - Our Scheduler lets you share your availability with contacts no matter what application you use
@@ -922,25 +794,17 @@ Convert files and content between file formats
 - [File.io](https://github.com/apis-list/apis-list/blob/main/apis/file-io/file-io.md) - io you agree to our Terms of Service and Privacy Policy
 - [Freelancer Api](https://github.com/apis-list/apis-list/blob/main/apis/freelancer-api/freelancer-api.md) - It can be used to set up a food delivery network, crowdsource the price for a local repair job, plug into a large pool of translators and more
 - [Html2pdf.App](https://github.com/apis-list/apis-list/blob/main/apis/html2pdf-app/html2pdf-app.md) - Free Html to Pdf online generator
-
-Most realistic, high quality html to pdf api service!
-
-Free API - no payments
-No need your own server
-Maintainable and improving service
-Easy to use
 - [HyperTrack](https://github.com/apis-list/apis-list/blob/main/apis/hypertrack/hypertrack.md) - Build applications that track the movement of your business
 - [Intellexer](https://github.com/apis-list/apis-list/blob/main/apis/intellexer/intellexer.md) - Processing (NLP) Service including sentiment analysis, content extraction, and language detection
 - [Mercury](https://github.com/apis-list/apis-list/blob/main/apis/mercury/mercury.md) - Mercury Web Parser turns web articles into structured content reliably and easily
 - [Microsoft Graph](https://github.com/apis-list/apis-list/blob/main/apis/microsoft-graph/microsoft-graph.md) - Find out how you can use the Microsoft Graph API to connect to the data that drives productivity - mail, calendar, contacts, documents, directory, devices, and more
 - [Notepad Api - Simplenotes](https://github.com/apis-list/apis-list/blob/main/apis/notepad-api-simplenotes/notepad-api-simplenotes.md) - Share the notes with everyone you want
-- [Open Access Button](https://github.com/apis-list/apis-list/blob/main/apis/open-access-button/open-access-button.md) - Free, legal research articles delivered instantly or automatically requested from authors
 - [PDFmyURL](https://github.com/apis-list/apis-list/blob/main/apis/pdfmyurl/pdfmyurl.md) - Easily Convert URLs / Webpages or HTML to PDF in any Programming Language or on the Command Line! Options for page format, layout, headers, footers, watermarking and more
-- [Pdfshift ](https://github.com/apis-list/apis-list/blob/main/apis/pdfshift/pdfshift.md) - An API to convert HTML/CSS documents to PDF
+- [Pdfshift ](https://github.com/apis-list/apis-list/blob/main/apis/pdfshift/pdfshift.md) - An API to convert HTML/CSS documents to PDF. PDFShift is the reliable, Up-to-date and high-fidelity conversion API with no maintenance costs. Convert any HTML documents to high-fidelity PDF in one single POST request. 
 - [Pocket](https://github.com/apis-list/apis-list/blob/main/apis/pocket/pocket.md) - When you find something you want to view later, put it in Pocket
 - [PrexView](https://github.com/apis-list/apis-list/blob/main/apis/prexview/prexview.md) - Transform your data from XML or JSON to high quality, beautiful and readable documents in PDF, HTML, PNG or JPG
 - [Restpack](https://github.com/apis-list/apis-list/blob/main/apis/restpack/restpack.md) - Restpack is a company focused on building great restful microservices for developers and businesses
-- [Rushtranslate](https://github.com/apis-list/apis-list/blob/main/apis/rushtranslate/rushtranslate.md) - RushTranslate offers certified document translation services in over 60 languages provided by native speaking professionals
+- [Rushtranslate](https://github.com/apis-list/apis-list/blob/main/apis/rushtranslate/rushtranslate.md) - RushTranslate offers certified document translation services in over 60 languages provided by native speaking professionals. RushTranslate provides a REST API for human translation services allowing programmatic placement and management of orders.  Our API is perfect for high volume users who want to automate their workflow. 
 - [Secured Signing Digital Signature Api](https://github.com/apis-list/apis-list/blob/main/apis/secured-signing-digital-signature-api/secured-signing-digital-signature-api.md) - The Secured Signing REST-based, JSON API allows you to add PKI based digital signing capabilities to your software, web applications or business processes
 - [Sheetsu](https://github.com/apis-list/apis-list/blob/main/apis/sheetsu/sheetsu.md) - Get data from Google Spreadsheet in a matter of seconds
 - [SummarizeBot API](https://github.com/apis-list/apis-list/blob/main/apis/summarizebot-api/summarizebot-api.md) - Multilingual summarization, keywords and sentiment analysis, language recognition, article extraction, comments identification, multimedia analysis, image and face recognition solutions
@@ -953,14 +817,16 @@ Easy to use
  ### Education 
 - [CORE](https://github.com/apis-list/apis-list/blob/main/apis/core/core.md) - CORE harvests, maintains, enriches and makes available metadata and full text content - typically a PDF - from many Open Access journals and repositories
 - [Cambridge Dictionaries Online](https://github.com/apis-list/apis-list/blob/main/apis/cambridge-dictionaries-online/cambridge-dictionaries-online.md) - Access to Cambridge’s custom-developed API
-- [Cat Facts](https://github.com/apis-list/apis-list/blob/main/apis/cat-facts/cat-facts.md) - Daily cat facts! 🐱
+- [Cat Facts](https://github.com/apis-list/apis-list/blob/main/apis/cat-facts/cat-facts.md) - Daily cat facts
 - [City Context](https://github.com/apis-list/apis-list/blob/main/apis/city-context/city-context.md) - Crime, school and transportation data for US cities
-- [Datamuse API](https://github.com/apis-list/apis-list/blob/main/apis/datamuse-api/datamuse-api.md) - You can use it in your apps to find words that match a given set o
+- [Datamuse API](https://github.com/apis-list/apis-list/blob/main/apis/datamuse-api/datamuse-api.md) - Word-finding query engine that finds words that match a given set of constraints and that are likely in a given context
 - [Google Classroom API](https://github.com/apis-list/apis-list/blob/main/apis/google-classroom-api/google-classroom-api.md) - Provision and manage your Classroom courses
 - [Harvard Art Museums](https://github.com/apis-list/apis-list/blob/main/apis/harvard-art-museums/harvard-art-museums.md) - The Harvard Art Museums API is a REST-style service designed for developers who wish to explore and integrate the museums’ collections in their projects
 - [Liveedu](https://github.com/apis-list/apis-list/blob/main/apis/liveedu/liveedu.md) - Live Coding Streaming
 - [Numbers Api](https://github.com/apis-list/apis-list/blob/main/apis/numbers-api/numbers-api.md) - Numbers
 - [Rijksmuseum](https://github.com/apis-list/apis-list/blob/main/apis/rijksmuseum/rijksmuseum.md) - The Rijksmuseum links individuals with art and history
+- [Universities List](https://github.com/apis-list/apis-list/blob/main/apis/universities-list/universities-list.md) - List of universities and their domain names
+- [University of Oslo](https://github.com/apis-list/apis-list/blob/main/apis/university-of-oslo/university-of-oslo.md) - University of Oslo
  ### Email & SMS 
 - [Africa's Talking](https://github.com/apis-list/apis-list/blob/main/apis/africas-talking/africas-talking.md) - A unified API platform for software developers in Africa building SMS, USSD, Voice, Payments and Airtime applications
 - [Antideo](https://github.com/apis-list/apis-list/blob/main/apis/antideo/antideo.md) - API for IP and Email Intelligence & Phone Number Validation
@@ -969,7 +835,7 @@ Easy to use
 - [Gmail API](https://github.com/apis-list/apis-list/blob/main/apis/gmail-api/gmail-api.md) - The Gmail API: modern, fast, RESTful
 - [Image-Charts](https://github.com/apis-list/apis-list/blob/main/apis/image-charts/image-charts.md) - A drop-in-replacement for the deprecated Google Image Charts
 - [MailGun](https://github.com/apis-list/apis-list/blob/main/apis/mailgun/mailgun.md) - Learn more today!
-- [Mailjet](https://github.com/apis-list/apis-list/blob/main/apis/mailjet/mailjet.md) - Reliable and scalable email delivery platform with SMTP and API
+- [Mailjet](https://github.com/apis-list/apis-list/blob/main/apis/mailjet/mailjet.md) - Reliable and scalable email delivery platform with SMTP and API.  
 - [Microsoft Graph](https://github.com/apis-list/apis-list/blob/main/apis/microsoft-graph/microsoft-graph.md) - Find out how you can use the Microsoft Graph API to connect to the data that drives productivity - mail, calendar, contacts, documents, directory, devices, and more
 - [Nexmo](https://github.com/apis-list/apis-list/blob/main/apis/nexmo/nexmo.md) - Make and receive phone calls, send and receive SMS worldwide
 - [Nylas Email Api](https://github.com/apis-list/apis-list/blob/main/apis/nylas-email-api/nylas-email-api.md) - Email API to integrate 100% of Email Services Providers directly into your app
@@ -992,7 +858,7 @@ Easy to use
 - [AudD](https://github.com/apis-list/apis-list/blob/main/apis/audd/audd.md) - AudD Music Recognition API Docs: how to identify songs in audio using our API
 - [Braille Api](https://github.com/apis-list/apis-list/blob/main/apis/braille-api/braille-api.md) - It is traditionally written with embossed paper
 - [Breaking Bad & Better Call Saul API](https://github.com/apis-list/apis-list/blob/main/apis/breaking-bad-and-better-call-saul-api/breaking-bad-and-better-call-saul-api.md) - Get data about characters, episodes, quotes, and deaths
-- [Cat Facts](https://github.com/apis-list/apis-list/blob/main/apis/cat-facts/cat-facts.md) - Daily cat facts! 🐱
+- [Cat Facts](https://github.com/apis-list/apis-list/blob/main/apis/cat-facts/cat-facts.md) - Daily cat facts
 - [Cat as a Service (CATAAS)](https://github.com/apis-list/apis-list/blob/main/apis/cat-as-a-service-cataas/cat-as-a-service-cataas.md) - Cat as a service (CATAAS) is a REST API to spread peace and love (or not) thanks to cats
 - [CheapShark](https://github.com/apis-list/apis-list/blob/main/apis/cheapshark/cheapshark.md) - CheapShark is a price comparison website for digital PC Games
 - [Clash Royale](https://github.com/apis-list/apis-list/blob/main/apis/clash-royale/clash-royale.md) - API that provides informations about Clash Royale game
@@ -1033,7 +899,7 @@ Easy to use
 - [OMDB](https://github.com/apis-list/apis-list/blob/main/apis/omdb/omdb.md) - Attention Users 04/08/19 - Added support for eight digit IMDb IDs
 - [Open Movie Database](https://github.com/apis-list/apis-list/blob/main/apis/open-movie-database/open-movie-database.md) - Attention Users 04/08/19 - Added support for eight digit IMDb IDs
 - [Open Trivia](https://github.com/apis-list/apis-list/blob/main/apis/open-trivia/open-trivia.md) - Free to use, user-contributed trivia questions
-- [PandaScore](https://github.com/apis-list/apis-list/blob/main/apis/pandascore/pandascore.md) - Get events and detailed match data in real time from major league tournaments, or fetch data about players, tournaments, leagues, matches, teams and more !  Pandascore, the e-sports data and live API
+- [PandaScore](https://github.com/apis-list/apis-list/blob/main/apis/pandascore/pandascore.md) - Get events and detailed match data in real time from major league tournaments, or fetch data about players, tournaments, leagues, matches, teams and more
 - [PlayerUnknown's Battlegrounds](https://github.com/apis-list/apis-list/blob/main/apis/playerunknowns-battlegrounds/playerunknowns-battlegrounds.md) - Start building your own website today using official PUBG data
 - [Pokéapi](https://github.com/apis-list/apis-list/blob/main/apis/pokeapi/pokeapi.md) - This is a full RESTful API linked to an extensive database detailing everything about the Pokémon main game series
 - [Pokémon TCG](https://github.com/apis-list/apis-list/blob/main/apis/pokemon-tcg/pokemon-tcg.md) - The Pokémon TCG API allows developers to easily consume Pokémon card and set data in JSON format
@@ -1064,7 +930,6 @@ Easy to use
 - [mod.io](https://github.com/apis-list/apis-list/blob/main/apis/mod-io/mod-io.md) - Cross-platform mod support
 - [xkcd](https://github.com/apis-list/apis-list/blob/main/apis/xkcd/xkcd.md) - xkcd API
  ### Environment 
-- [APIXU](https://github.com/apis-list/apis-list/blob/main/apis/apixu/apixu.md) - Get current weather information, historical data and forecasts using weatherstack - a free world weather REST API supporting millions of global locations
 - [AirVisual](https://github.com/apis-list/apis-list/blob/main/apis/airvisual/airvisual.md) - Enhance your projects with free trusted historical, real-time and forecast air quality data
 - [GrünstromIndex](https://github.com/apis-list/apis-list/blob/main/apis/grunstromindex/grunstromindex.md) - The green electricity index shows when a lot of renewable electricity is in the grid and can be used in the household
 - [Open Charge Map](https://github.com/apis-list/apis-list/blob/main/apis/open-charge-map/open-charge-map.md) - Open Charge Map is a non-commercial, non-profit, electric vehicle data service hosted and supported by a community of businesses, charities, developers and interested parties around the world
@@ -1072,12 +937,13 @@ Easy to use
 - [PM25.in](https://github.com/apis-list/apis-list/blob/main/apis/pm25-in/pm25-in.md) - 502 Bad Gateway nginx
 - [PVWatts](https://github.com/apis-list/apis-list/blob/main/apis/pvwatts/pvwatts.md) - system_capacit
 - [Pm2.5.In](https://github.com/apis-list/apis-list/blob/main/apis/pm2-5-in/pm2-5-in.md) - Air quality of China
-- [Reliefweb](https://github.com/apis-list/apis-list/blob/main/apis/reliefweb/reliefweb.md) - ReliefWeb API to get the latest updates when a disaster happens
+- [Reliefweb](https://github.com/apis-list/apis-list/blob/main/apis/reliefweb/reliefweb.md) - ReliefWeb API to get the latest updates when a disaster happens. Do you want to have the latest information about humanitarian training all around the world? Use ReliefWeb API to get ReliefWeb's posted training that fits better with your goals and embed the information into your corporate training system
 - [Skywatch](https://github.com/apis-list/apis-list/blob/main/apis/skywatch/skywatch.md) - Instead, EarthCache allows development teams to focus on the business application and in delivering actionable intelligence to the end-user
+- [Teleport](https://github.com/apis-list/apis-list/blob/main/apis/teleport/teleport.md) - Welcome to Teleport for Developers
 - [Trash Nothing](https://github.com/apis-list/apis-list/blob/main/apis/trash-nothing/trash-nothing.md) - Developer API trash nothing! provides a REST API which allows developers to build apps on top of the trash nothing platform (with thousands of new posts every day and millions of users from around
 - [Trefle](https://github.com/apis-list/apis-list/blob/main/apis/trefle/trefle.md) - Trefle is a botanical API and data source
 - [UK Carbon Intensity](https://github.com/apis-list/apis-list/blob/main/apis/uk-carbon-intensity/uk-carbon-intensity.md) - Carbon Intensity API Great Britain Scroll down for code samples and responses
-- [Weatherbit](https://github.com/apis-list/apis-list/blob/main/apis/weatherbit/weatherbit.md) - Weather API Documentation
+- [iDigBio](https://github.com/apis-list/apis-list/blob/main/apis/idigbio/idigbio.md) - Making data and images of millions of biological specimens available on the web
  ### Events 
 - [24 Pull Requests](https://github.com/apis-list/apis-list/blob/main/apis/24-pull-requests/24-pull-requests.md) - 24 Pull Requests is a yearly initiative to encourage contributors around the world to send 24 pull requests between December 1st and December 24th
 - [Bandsintown](https://github.com/apis-list/apis-list/blob/main/apis/bandsintown/bandsintown.md) - Signup or login today
@@ -1093,8 +959,6 @@ Easy to use
  ### Files & Storage 
 - [Amazon S3 API](https://github.com/apis-list/apis-list/blob/main/apis/amazon-s3-api/amazon-s3-api.md) - Amazon Simple Storage Service (Amazon S3) is storage for the internet
 - [Box](https://github.com/apis-list/apis-list/blob/main/apis/box/box.md) - Explore the Box APIs and SDKs to use for app development,
-API documentation, developer support resources, and access
-the Box Developer Console
 - [Cloudinary](https://github.com/apis-list/apis-list/blob/main/apis/cloudinary/cloudinary.md) - API for image and video storage and manipulation - free for up to 75,000 images and 7,500 manipulations per month, good documentation, it can also manipulate GIFs and PDFs
 - [DeviantArt](https://github.com/apis-list/apis-list/blob/main/apis/deviantart/deviantart.md) - The largest social networking website for artists and art enthusiasts
 - [DigitalOcean Spaces](https://github.com/apis-list/apis-list/blob/main/apis/digitalocean-spaces/digitalocean-spaces.md) - The simplest way to cost effectively store, serve, backup, and archive a virtually infinite amount of media, content, images, and static files for your apps
@@ -1106,7 +970,6 @@ the Box Developer Console
 - [Microsoft Graph](https://github.com/apis-list/apis-list/blob/main/apis/microsoft-graph/microsoft-graph.md) - Find out how you can use the Microsoft Graph API to connect to the data that drives productivity - mail, calendar, contacts, documents, directory, devices, and more
 - [OneDrive](https://github.com/apis-list/apis-list/blob/main/apis/onedrive/onedrive.md) - OneDrive API works on every platform, so you don't have to
 - [Open Science Framework](https://github.com/apis-list/apis-list/blob/main/apis/open-science-framework/open-science-framework.md) - Hosted on the Open Science Framework
-
 - [Pastebin](https://github.com/apis-list/apis-list/blob/main/apis/pastebin/pastebin.md) - Pastebin is a website where you can store text online for a set period of time
 - [Pexels](https://github.com/apis-list/apis-list/blob/main/apis/pexels/pexels.md) - Pexels provides high quality and completely free stock photos licensed under the Creative Commons Zero (CC0) license
 - [Slack](https://github.com/apis-list/apis-list/blob/main/apis/slack/slack.md) - Slack APIs allow you to integrate complex services with Slack to go beyond the integrations we provide out of the box
@@ -1124,15 +987,13 @@ the Box Developer Console
 - [Bitfinex](https://github.com/apis-list/apis-list/blob/main/apis/bitfinex/bitfinex.md) - The Bitfinex API is designed to allow access to all the features of the Bitfinex platform on the condition that it is used in compliance with our API Terms of Service
 - [Bitmex](https://github.com/apis-list/apis-list/blob/main/apis/bitmex/bitmex.md) - BitMEX is the world's most advanced P2P crypto-products trading platform and API
 - [BlockCypher](https://github.com/apis-list/apis-list/blob/main/apis/blockcypher/blockcypher.md) - Build blockchain applications easily with our web APIs and callbacks
-- [BlockFacts.io](https://github.com/apis-list/apis-list/blob/main/apis/blockfacts-io/blockfacts-io.md) - SDKs for integration, rich historic tick data
+- [BlockFacts.io](https://github.com/apis-list/apis-list/blob/main/apis/blockfacts-io/blockfacts-io.md) - SDKs for integration, rich historic tick data.  AllMarkets - US stock market: real-time, stock quotes, stock screener, stock charts and cryptocurrencies
 - [Bunq Api](https://github.com/apis-list/apis-list/blob/main/apis/bunq-api/bunq-api.md) - Open RESTful bank API that lets you work with bank cards, accounts, payments, transactions, attachments, and more! 
-200 endpoints to ensure our API is flexible enough to fit any project! 
-bunq is an anti-bank that is licenced to work in Europe
 - [CarsXE API](https://github.com/apis-list/apis-list/blob/main/apis/carsxe-api/carsxe-api.md) - Get access to millions of vehicle records, specs, ownership costs and market values
 - [Cloud Wallet](https://github.com/apis-list/apis-list/blob/main/apis/cloud-wallet/cloud-wallet.md) - Cloud Wallet enables closed-loop payments between IoT devices and facilitates IoT adoption worldwide
 - [CoinDesk](https://github.com/apis-list/apis-list/blob/main/apis/coindesk/coindesk.md) - Bitcoin Price Index
 - [CoinMarketCap](https://github.com/apis-list/apis-list/blob/main/apis/coinmarketcap/coinmarketcap.md) - Cryptocurrencies Prices
-- [Coinbase](https://github.com/apis-list/apis-list/blob/main/apis/coinbase/coinbase.md) - Coinbase’s API makes it easy to integrate bitcoin, bitcoin cash, litecoin and ethereum into both new and existing applications
+- [Coinbase](https://github.com/apis-list/apis-list/blob/main/apis/coinbase/coinbase.md) - Coinbase’s API makes it easy to integrate bitcoin, bitcoin cash, litecoin and ethereum into both new and existing applications. 
 - [Coingecko.com](https://github.com/apis-list/apis-list/blob/main/apis/coingecko-com/coingecko-com.md) - Free, comprehensive cryptocurrency API
 - [Computer Science Zone](https://github.com/apis-list/apis-list/blob/main/apis/computer-science-zone/computer-science-zone.md) - &#8221; APIs govern how one application can talk to another, and are largely how
 - [Consumer Financial Protection Bureau](https://github.com/apis-list/apis-list/blob/main/apis/consumer-financial-protection-bureau/consumer-financial-protection-bureau.md) - Financial services consumer complaint data
@@ -1140,7 +1001,7 @@ bunq is an anti-bank that is licenced to work in Europe
 - [Cryptonator](https://github.com/apis-list/apis-list/blob/main/apis/cryptonator/cryptonator.md) - Prices are updated every 30 seconds, covering 300+ cryptocurrencies across 42 exchanges
 - [CurrencyLayer.com](https://github.com/apis-list/apis-list/blob/main/apis/currencylayer-com/currencylayer-com.md) - Documentation, code and integration guides for the currencylayer JSON API - reliable and accurate JSON exchange rates for 168 world currencies and metals
 - [CurrencyScoop.com](https://github.com/apis-list/apis-list/blob/main/apis/currencyscoop-com/currencyscoop-com.md) - Real-time and historical currency rates JSON API
-- [Czech Namedays Calendar](https://github.com/apis-list/apis-list/blob/main/apis/czech-namedays-calendar/czech-namedays-calendar.md) - Svátky API Vám řekne kdo má kdy svátek, nebo kdy má kdo svátek
+- [Czech Namedays Calendar](https://github.com/apis-list/apis-list/blob/main/apis/czech-namedays-calendar/czech-namedays-calendar.md) - Czech Holidays API
 - [Czech National Bank](https://github.com/apis-list/apis-list/blob/main/apis/czech-national-bank/czech-national-bank.md) - A collection of exchange rates
 - [Exchange Rates API](https://github.com/apis-list/apis-list/blob/main/apis/exchange-rates-api/exchange-rates-api.md) - com is the most popular place to securely buy, store, and trade Bitcoin, Ethereum, and other top cryptocurrencies
 - [ExchangeRate-API.com](https://github.com/apis-list/apis-list/blob/main/apis/exchangerate-api-com/exchangerate-api-com.md) - Accurate & reliable Exchange Rates API trusted by tens of thousands of developers since 2010
@@ -1155,11 +1016,12 @@ bunq is an anti-bank that is licenced to work in Europe
 - [Music Machinery](https://github.com/apis-list/apis-list/blob/main/apis/music-machinery/music-machinery.md) - Here’s a categorized list of all the Music APIs
 - [NewStack](https://github.com/apis-list/apis-list/blob/main/apis/newstack/newstack.md) - Vendors offer a variety of methods and capabilities that allow devices to talk to each other and cloud/Web-based services
 - [Nexchange](https://github.com/apis-list/apis-list/blob/main/apis/nexchange/nexchange.md) - API for crypto currency exchange
-- [OpenCorporates](https://github.com/apis-list/apis-list/blob/main/apis/opencorporates/opencorporates.md) - Introduction This documentation covers the main API (the so-called REST API)
+- [OpenCorporates](https://github.com/apis-list/apis-list/blob/main/apis/opencorporates/opencorporates.md) - World's largest open database of companies
 - [OpenRates.io](https://github.com/apis-list/apis-list/blob/main/apis/openrates-io/openrates-io.md) - Free live exchange rates and currency conversion API for developers
 - [PayPal](https://github.com/apis-list/apis-list/blob/main/apis/paypal/paypal.md) - Enables your customers to sign in to your web site quickly and securely using their PayPal login credentials
 - [Plaid](https://github.com/apis-list/apis-list/blob/main/apis/plaid/plaid.md) - Plaid helps companies build fintech solutions by making it easy, safe and reliable for people to connect their financial data to apps and services
 - [Portfolio Optimizer](https://github.com/apis-list/apis-list/blob/main/apis/portfolio-optimizer/portfolio-optimizer.md) - API for investment portfolio optimization
+- [Quandl](https://github.com/apis-list/apis-list/blob/main/apis/quandl/quandl.md) - The source for financial, economic, and alternative datasets, serving investment professionals
 - [Quidax Merchant](https://github.com/apis-list/apis-list/blob/main/apis/quidax-merchant/quidax-merchant.md) - Buy, sell and store Bitcoin, Ethereum, Ripple (XRP), Litecoin & other cryptocurrencies with Naira
 - [Razorpay IFSC](https://github.com/apis-list/apis-list/blob/main/apis/razorpay-ifsc/razorpay-ifsc.md) - { "BANK": "HDFC BANK", "IFSC": "HDFC0CAGSBK", "BRANCH": "THE AGS EMPLOYEES' CO-OP BANK LTD", "ADDRESS": "PARK HOUSE ROAD, BANGALORE 560001", "CONTACT": "2265658", "CITY": "BANGALORE", "DISTRICT": "
 - [Routingnumbers.Info](https://github.com/apis-list/apis-list/blob/main/apis/routingnumbers-info/routingnumbers-info.md) - json Coming soon: Map of routing numbers for a given query
@@ -1169,7 +1031,7 @@ bunq is an anti-bank that is licenced to work in Europe
 - [Stock News Api](https://github.com/apis-list/apis-list/blob/main/apis/stock-news-api/stock-news-api.md) - Get the latest stock news from the best news sources
 - [Stripe](https://github.com/apis-list/apis-list/blob/main/apis/stripe/stripe.md) - Complete reference documentation for the Stripe API
 - [Tardis](https://github.com/apis-list/apis-list/blob/main/apis/tardis/tardis.md) - dev is the the most comprehensive digital assets data platform, providing access to high frequency historical raw tick data for a wide range of use cases such as market microstructure and order book dynamics research, liquidity and lead-lag analysis, trading execution optimization, backtesting and optimization of trading strategies, full historical order book reconstruction at any given point in time, training machine learning models, alpha generation, designing quantitative models, academics research, data visualizations and more
-- [Tardis.Dev](https://github.com/apis-list/apis-list/blob/main/apis/tardis-dev/tardis-dev.md) - Tardis
+- [Tardis.Dev](https://github.com/apis-list/apis-list/blob/main/apis/tardis-dev/tardis-dev.md) - Tardis. 
 - [Telleroo](https://github.com/apis-list/apis-list/blob/main/apis/telleroo/telleroo.md) - com" API Sandbox: "https://sandbox
 - [The Shrimpy Universal Crypto Exchange Api](https://github.com/apis-list/apis-list/blob/main/apis/the-shrimpy-universal-crypto-exchange-api/the-shrimpy-universal-crypto-exchange-api.md) - Collect real-time trade or order book data for free, manage user exchange accounts, execute trading strategies, and simplify the way you connect to each exchange
 - [Tradier](https://github.com/apis-list/apis-list/blob/main/apis/tradier/tradier.md) - Tradier's technology platform - an innovative set of fully hosted APIs, modules and 'out of the box' tools built to serve developers, providers and investors
@@ -1205,7 +1067,7 @@ bunq is an anti-bank that is licenced to work in Europe
 - [Yummly](https://github.com/apis-list/apis-list/blob/main/apis/yummly/yummly.md) - Find food recipes
 - [Zestful Data](https://github.com/apis-list/apis-list/blob/main/apis/zestful-data/zestful-data.md) - The Zestful's ingredient parser API turns plain recipe strings into beautiful, structured data
 - [Zomato](https://github.com/apis-list/apis-list/blob/main/apis/zomato/zomato.md) - Zomato API
-- [openFDA](https://github.com/apis-list/apis-list/blob/main/apis/openfda/openfda.md) - openFDA
+- [openFDA](https://github.com/apis-list/apis-list/blob/main/apis/openfda/openfda.md) - openFDA is an Elasticsearch-based API that serves public FDA data about nouns like drugs, devices, and foods
  ### Forms & Surveys 
 - [Autopilot](https://github.com/apis-list/apis-list/blob/main/apis/autopilot/autopilot.md) - The Autopilot API documentation, examples and blog for Autopilot REST API
 - [Clust](https://github.com/apis-list/apis-list/blob/main/apis/clust/clust.md) - The best way to gather anyone’s documents, directly from your app & without hassle
@@ -1216,8 +1078,7 @@ bunq is an anti-bank that is licenced to work in Europe
  ### Fun 
 - [Advice Slip](https://github.com/apis-list/apis-list/blob/main/apis/advice-slip/advice-slip.md) - Parameters callback string To define your own callback function name and return the
 - [Api Meme](https://github.com/apis-list/apis-list/blob/main/apis/api-meme/api-meme.md) - Generate memes with a simple link!
-- [Bacon Ipsum](https://github.com/apis-list/apis-list/blob/main/apis/bacon-ipsum/bacon-ipsum.md) - JSON API for returning meaty lorem ipsum filler text
-- [Cat Facts](https://github.com/apis-list/apis-list/blob/main/apis/cat-facts/cat-facts.md) - Daily cat facts! 🐱
+- [Cat Facts](https://github.com/apis-list/apis-list/blob/main/apis/cat-facts/cat-facts.md) - Daily cat facts
 - [Chuck Norris Database](https://github.com/apis-list/apis-list/blob/main/apis/chuck-norris-database/chuck-norris-database.md) - API for online Chuck Norris jokes database
 - [ChuckNorris.io](https://github.com/apis-list/apis-list/blob/main/apis/chucknorris-io/chucknorris-io.md) - Read more Chuck Norris facts are satirical factoids about martial artist and actor Chuck Norris that have become an Internet p
 - [FOAAS](https://github.com/apis-list/apis-list/blob/main/apis/foaas/foaas.md) - API Content Negotiation FOAAS will respond to the follo
@@ -1228,7 +1089,6 @@ bunq is an anti-bank that is licenced to work in Europe
 - [JokeAPI](https://github.com/apis-list/apis-list/blob/main/apis/jokeapi/jokeapi.md) - JokeAPI is a RESTful API that serves jokes from many categories while also offering a lot of filtering methods
 - [Jokes](https://github.com/apis-list/apis-list/blob/main/apis/jokes/jokes.md) - Full featured Jokes API
 - [Open Notify](https://github.com/apis-list/apis-list/blob/main/apis/open-notify/open-notify.md) - API Examples Current ISS Location The International Space Station is moving at close to 28,000 km/h so its location changes really fast
-- [PlaceKitten](https://github.com/apis-list/apis-list/blob/main/apis/placekitten/placekitten.md) - A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code
 - [Ron Swanson Quotes](https://github.com/apis-list/apis-list/blob/main/apis/ron-swanson-quotes/ron-swanson-quotes.md) - Node
 - [Superhero Api](https://github.com/apis-list/apis-list/blob/main/apis/superhero-api/superhero-api.md) - Biography
 - [TacoFancy](https://github.com/apis-list/apis-list/blob/main/apis/tacofancy/tacofancy.md) - Making an API for https://github
@@ -1263,7 +1123,7 @@ bunq is an anti-bank that is licenced to work in Europe
 - [Magic The Gathering](https://github.com/apis-list/apis-list/blob/main/apis/magic-the-gathering/magic-the-gathering.md) - The MTG API allows developers to easily consume MTG card and set data in JSON format
 - [Newseum NewsMania](https://github.com/apis-list/apis-list/blob/main/apis/newseum-newsmania/newseum-newsmania.md) - Gives you access to 1000s of Trivia questions
 - [Open Trivia](https://github.com/apis-list/apis-list/blob/main/apis/open-trivia/open-trivia.md) - Free to use, user-contributed trivia questions
-- [PandaScore](https://github.com/apis-list/apis-list/blob/main/apis/pandascore/pandascore.md) - Get events and detailed match data in real time from major league tournaments, or fetch data about players, tournaments, leagues, matches, teams and more !  Pandascore, the e-sports data and live API
+- [PandaScore](https://github.com/apis-list/apis-list/blob/main/apis/pandascore/pandascore.md) - Get events and detailed match data in real time from major league tournaments, or fetch data about players, tournaments, leagues, matches, teams and more
 - [PlayerUnknown's Battlegrounds](https://github.com/apis-list/apis-list/blob/main/apis/playerunknowns-battlegrounds/playerunknowns-battlegrounds.md) - Start building your own website today using official PUBG data
 - [Pokéapi](https://github.com/apis-list/apis-list/blob/main/apis/pokeapi/pokeapi.md) - This is a full RESTful API linked to an extensive database detailing everything about the Pokémon main game series
 - [Pokémon TCG](https://github.com/apis-list/apis-list/blob/main/apis/pokemon-tcg/pokemon-tcg.md) - The Pokémon TCG API allows developers to easily consume Pokémon card and set data in JSON format
@@ -1274,6 +1134,7 @@ bunq is an anti-bank that is licenced to work in Europe
 - [Vainglory](https://github.com/apis-list/apis-list/blob/main/apis/vainglory/vainglory.md) - Vainglory Players, Matches and Telemetry
 - [Wargaming.net](https://github.com/apis-list/apis-list/blob/main/apis/wargaming-net/wargaming-net.md) - Wargaming Games API
  ### Government 
+- [18F](https://github.com/apis-list/apis-list/blob/main/apis/18f/18f.md) - The /Developer Program, a service of GSA’s 18F team, seeks to provide comprehensive support for any federal agency engaged in the production or use of APIs
 - [Aadhaar Bridge](https://github.com/apis-list/apis-list/blob/main/apis/aadhaar-bridge/aadhaar-bridge.md) - Aadhaar is a 12-digit unique identification number issued by the Indian government to every individual resident of India
 - [Australia](https://github.com/apis-list/apis-list/blob/main/apis/australia/australia.md) - Central bank of Australia
 - [BCLaws](https://github.com/apis-list/apis-list/blob/main/apis/bclaws/bclaws.md) - CiviX Server API CiviX Server is an electronic library providing free public access to law and bylaw content of British Columbia
@@ -1288,11 +1149,11 @@ bunq is an anti-bank that is licenced to work in Europe
 - [Code.gov](https://github.com/apis-list/apis-list/blob/main/apis/code-gov/code-gov.md) - We are Americaâ€™s primary platform for aggregating Open Source Software from the federal government
 - [Colorado Data Engine](https://github.com/apis-list/apis-list/blob/main/apis/colorado-data-engine/colorado-data-engine.md) - Formatted and geolocated Colorado public data
 - [Colorado Information Marketplace](https://github.com/apis-list/apis-list/blob/main/apis/colorado-information-marketplace/colorado-information-marketplace.md) - Dive into Colorado’s water, including wells, surface water conditions, and water rights
-- [Czech Namedays Calendar](https://github.com/apis-list/apis-list/blob/main/apis/czech-namedays-calendar/czech-namedays-calendar.md) - Svátky API Vám řekne kdo má kdy svátek, nebo kdy má kdo svátek
+- [Czech Namedays Calendar](https://github.com/apis-list/apis-list/blob/main/apis/czech-namedays-calendar/czech-namedays-calendar.md) - Czech Holidays API
 - [Data USA](https://github.com/apis-list/apis-list/blob/main/apis/data-usa/data-usa.md) - public data
 - [Data.gov](https://github.com/apis-list/apis-list/blob/main/apis/data-gov/data-gov.md) - Our aim is to make it easier for
 - [Data.parliament.uk](https://github.com/apis-list/apis-list/blob/main/apis/data-parliament-uk/data-parliament-uk.md) - The resource you are looking for has been removed, had its name changed, or is temporarily unavailable
-- [District of Columbia Open Data](https://github.com/apis-list/apis-list/blob/main/apis/district-of-columbia-open-data/district-of-columbia-open-data.md) - Welcome, Application Developers! We are very happy that you’re considering building with Open Data DC
+- [District of Columbia Open Data](https://github.com/apis-list/apis-list/blob/main/apis/district-of-columbia-open-data/district-of-columbia-open-data.md) - Goal is for this API is to be your platform for developing apps around DC’s freely available, machine readable data
 - [EPA](https://github.com/apis-list/apis-list/blob/main/apis/epa/epa.md) - The Developer Central API Service converts a data-set in the form of a csv file into a CORS enabled REST API
 - [EPO](https://github.com/apis-list/apis-list/blob/main/apis/epo/epo.md) -  Open Patent Services (OPS) is a web service which provides access to the EPO's raw data via a standardised XML interface
 - [Exchange Rates API](https://github.com/apis-list/apis-list/blob/main/apis/exchange-rates-api/exchange-rates-api.md) - com is the most popular place to securely buy, store, and trade Bitcoin, Ethereum, and other top cryptocurrencies
@@ -1318,10 +1179,10 @@ bunq is an anti-bank that is licenced to work in Europe
 - [Open Government, Taiwan](https://github.com/apis-list/apis-list/blob/main/apis/open-government-taiwan/open-government-taiwan.md) - 哈囉!我是客服小幫手，請問你今天想詢問哪一方面的問題呢?
 - [Open Government, USA](https://github.com/apis-list/apis-list/blob/main/apis/open-government-usa/open-government-usa.md) - Government’s open data Here you will find data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations, and more
 - [Peru](https://github.com/apis-list/apis-list/blob/main/apis/peru/peru.md) - Central bank of Peru
-- [Poland](https://github.com/apis-list/apis-list/blob/main/apis/poland/poland.md) - Central bank of Poland
+- [Poland](https://github.com/apis-list/apis-list/blob/main/apis/poland/poland.md) - Central bank of Poland.
 - [Prague Opendata](https://github.com/apis-list/apis-list/blob/main/apis/prague-opendata/prague-opendata.md) - Prague City Open Data
 - [Regulations.gov](https://github.com/apis-list/apis-list/blob/main/apis/regulations-gov/regulations-gov.md) - More information is available here
-- [Reliefweb](https://github.com/apis-list/apis-list/blob/main/apis/reliefweb/reliefweb.md) - ReliefWeb API to get the latest updates when a disaster happens
+- [Reliefweb](https://github.com/apis-list/apis-list/blob/main/apis/reliefweb/reliefweb.md) - ReliefWeb API to get the latest updates when a disaster happens. Do you want to have the latest information about humanitarian training all around the world? Use ReliefWeb API to get ReliefWeb's posted training that fits better with your goals and embed the information into your corporate training system
 - [Represent by Open North](https://github.com/apis-list/apis-list/blob/main/apis/represent-by-open-north/represent-by-open-north.md) - Find the elected officials and electoral districts for any Canadian address or postal code, at all levels of government
 - [Russian Central Bank](https://github.com/apis-list/apis-list/blob/main/apis/russian-federation/russian-federation.md) - Central bank of Russian Federation
 - [Switzerland](https://github.com/apis-list/apis-list/blob/main/apis/switzerland/switzerland.md) - Swiss National Bank
@@ -1331,14 +1192,16 @@ bunq is an anti-bank that is licenced to work in Europe
 - [USAspending.gov](https://github.com/apis-list/apis-list/blob/main/apis/usaspending-gov/usaspending-gov.md) - Announcement The USASpending API is in V2
 - [USPTO](https://github.com/apis-list/apis-list/blob/main/apis/uspto/uspto.md) - United States patent and trademark office API
 - [World Bank](https://github.com/apis-list/apis-list/blob/main/apis/world-bank/world-bank.md) - Click the link to create a password, then come back here and sign in
-- [openFDA](https://github.com/apis-list/apis-list/blob/main/apis/openfda/openfda.md) - openFDA
+- [openFDA](https://github.com/apis-list/apis-list/blob/main/apis/openfda/openfda.md) - openFDA is an Elasticsearch-based API that serves public FDA data about nouns like drugs, devices, and foods
  ### Hardware 
 - [Keyserv](https://github.com/apis-list/apis-list/blob/main/apis/keyserv/keyserv.md) - SmartQ is an technology company founded in 2017 with the intention of providing innovative tools for the modern world
+- [MAC address vendor lookup](https://github.com/apis-list/apis-list/blob/main/apis/mac-address-vendor-lookup/mac-address-vendor-lookup.md) - The MAC address API allows you to retrieve OUI vendor information, detect virtual machines, possible applications, read the information encoded in the MAC, and get research's results regarding the given MAC address or the OUI
 - [Philips Hue](https://github.com/apis-list/apis-list/blob/main/apis/philips-hue/philips-hue.md) - Step 2 Then you need to discover the IP address of the bridge on your network
+- [fonoApi](https://github.com/apis-list/apis-list/blob/main/apis/fonoapi/fonoapi.md) - Mobile Device Description Api
  ### Health 💊
 - [Advice Slip](https://github.com/apis-list/apis-list/blob/main/apis/advice-slip/advice-slip.md) - Parameters callback string To define your own callback function name and return the
 - [BetterDoctor](https://github.com/apis-list/apis-list/blob/main/apis/betterdoctor/betterdoctor.md) - BetterDoctor API is the most frequently updated and trusted source of doctor data
-- [COVID-19 Data](https://github.com/apis-list/apis-list/blob/main/apis/covid-19-data/covid-19-data.md) - fr/v1
+- [COVID-19 Data](https://github.com/apis-list/apis-list/blob/main/apis/covid-19-data/covid-19-data.md) - The API provides realtime and historical data on Coronavirus COVID-19 confirmed cases, deaths, and recovered cases
 - [Covid-19 Government Response](https://github.com/apis-list/apis-list/blob/main/apis/covid-19-government-response/covid-19-government-response.md) - 
 - [Diabetes](https://github.com/apis-list/apis-list/blob/main/apis/diabetes/diabetes.md) - Welcome to the PredictBGL API The PredictBGL API allows you to build the power of PredictBGL's diabetes management, coaching and analysis dire
 - [Drchrono Healthcare Api](https://github.com/apis-list/apis-list/blob/main/apis/drchrono-healthcare-api/drchrono-healthcare-api.md) - Electronic medical records, practice management and medical billing API
@@ -1346,12 +1209,13 @@ bunq is an anti-bank that is licenced to work in Europe
 - [FOAAS](https://github.com/apis-list/apis-list/blob/main/apis/foaas/foaas.md) - API Content Negotiation FOAAS will respond to the follo
 - [FitBit](https://github.com/apis-list/apis-list/blob/main/apis/fitbit/fitbit.md) - You'll fit in here
 - [Flutrack](https://github.com/apis-list/apis-list/blob/main/apis/flutrack/flutrack.md) - Flutrack is a system that detects in real time influenza symptoms, using Twitter
-- [Getguidelines](https://github.com/apis-list/apis-list/blob/main/apis/getguidelines/getguidelines.md) - Get personalized clinical recommendations using parameters such as weight, blood pressure, age, etc
+- [Getguidelines](https://github.com/apis-list/apis-list/blob/main/apis/getguidelines/getguidelines.md) - Get personalized clinical recommendations using parameters such as weight, blood pressure, age, etc.  About the Guidelines Use this API to get medical guidelines from multiple sources like the CDC, USPSTF and American Cancer Society (references included). This initial version focuses on evidence-ba. Free REST API for Medical Guidelines:
 - [Google Genomics API](https://github.com/apis-list/apis-list/blob/main/apis/google-genomics-api/google-genomics-api.md) - Beta This product or feature is covered by the Pre-GA Offerings Terms of the Google Cloud Platform Terms of Service
 - [Healthcare.gov](https://github.com/apis-list/apis-list/blob/main/apis/healthcare-gov/healthcare-gov.md) - HealthCare
 - [Infermedica API](https://github.com/apis-list/apis-list/blob/main/apis/infermedica-api/infermedica-api.md) - The most advanced Symptom Checker and Patient Triage API
 - [Lexigram](https://github.com/apis-list/apis-list/blob/main/apis/lexigram/lexigram.md) - io
 - [Makeup](https://github.com/apis-list/apis-list/blob/main/apis/makeup/makeup.md) - Search makeup products
+- [Marijuana Strains](https://github.com/apis-list/apis-list/blob/main/apis/marijuana-strains/marijuana-strains.md) - The Strain API
 - [Medicare](https://github.com/apis-list/apis-list/blob/main/apis/medicare/medicare.md) - gov
 - [Medium](https://github.com/apis-list/apis-list/blob/main/apis/medium/medium.md) - Documentation for Medium's OAuth2 API
 - [NPPES](https://github.com/apis-list/apis-list/blob/main/apis/nppes/nppes.md) - National Plan & Provider Enumeration System, info on healthcare providers registered in US
@@ -1362,36 +1226,37 @@ bunq is an anti-bank that is licenced to work in Europe
 - [Quotable Quotes](https://github.com/apis-list/apis-list/blob/main/apis/quotable-quotes/quotable-quotes.md) - Contribute to lukePeavey/quotable development by creating an account on GitHub
 - [Quote Garden](https://github.com/apis-list/apis-list/blob/main/apis/quote-garden/quote-garden.md) - A RESTful API for quotes
 - [Quotes on Design](https://github.com/apis-list/apis-list/blob/main/apis/quotes-on-design/quotes-on-design.md) - Except with a few lines of code such that ?orderby=rand works
-- [Reliefweb](https://github.com/apis-list/apis-list/blob/main/apis/reliefweb/reliefweb.md) - ReliefWeb API to get the latest updates when a disaster happens
 - [Traitify](https://github.com/apis-list/apis-list/blob/main/apis/traitify/traitify.md) - Traitify API documentation and developer portal
 - [USDA Nutrients](https://github.com/apis-list/apis-list/blob/main/apis/usda-nutrients/usda-nutrients.md) - FoodData Central is an integrated data system that provides expanded nutrient profile data and links to related agricultural and experimental research
 - [Withings](https://github.com/apis-list/apis-list/blob/main/apis/withings/withings.md) - Access to data from Withings activity trackers and body measures
 - [icanhazdadjoke](https://github.com/apis-list/apis-list/blob/main/apis/icanhazdadjoke/icanhazdadjoke.md) - The largest collection of dad jokes on the internet
 - [kanye.rest](https://github.com/apis-list/apis-list/blob/main/apis/kanye-rest/kanye-rest.md) - A free REST API for random Kanye West quotes
-- [openFDA](https://github.com/apis-list/apis-list/blob/main/apis/openfda/openfda.md) - openFDA
+- [openFDA](https://github.com/apis-list/apis-list/blob/main/apis/openfda/openfda.md) - openFDA is an Elasticsearch-based API that serves public FDA data about nouns like drugs, devices, and foods
 - [taylor.rest](https://github.com/apis-list/apis-list/blob/main/apis/taylor-rest/taylor-rest.md) - A Taylor Swift REST API, written in Deno
  ### History 
 - [Chronicling America](https://github.com/apis-list/apis-list/blob/main/apis/chronicling-america/chronicling-america.md) - Newspaper Directory to find information about American newspapers published between 1690-present
- ### Images 
+ ### Images & Photography 
 - [500px](https://github.com/apis-list/apis-list/blob/main/apis/500px/500px.md) - Viewing feature streams, photo information and comments, as well as user profiles
-- [ApiFlash](https://github.com/apis-list/apis-list/blob/main/apis/apiflash/apiflash.md) - Chrome based screenshot API to convert URLs to images
+- [ApiFlash](https://github.com/apis-list/apis-list/blob/main/apis/apiflash/apiflash.md) - Chrome based screenshot API to convert URLs to images.  ApiFlash is an easy to use screenshot API for developers.  It is powerful and
 - [Associated Press](https://github.com/apis-list/apis-list/blob/main/apis/associated-press/associated-press.md) - AP Media API Get all your AP multimedia content in one place Access the content programmatically via the API or use the AP Media Agent to download content automatically
 - [Browshot](https://github.com/apis-list/apis-list/blob/main/apis/browshot/browshot.md) - Full API to take screenshots of any website
 - [Clarifai](https://github.com/apis-list/apis-list/blob/main/apis/clarifai/clarifai.md) - Whether you have one input or billions, you are only steps away from using AI to power your business applications
 - [Clearbit Logo](https://github.com/apis-list/apis-list/blob/main/apis/clearbit-logo/clearbit-logo.md) - If you’re only interested in a Company’s logo, and don’t need any other data about the company, you can use our Logo API
 - [Cloudinary](https://github.com/apis-list/apis-list/blob/main/apis/cloudinary/cloudinary.md) - API for image and video storage and manipulation - free for up to 75,000 images and 7,500 manipulations per month, good documentation, it can also manipulate GIFs and PDFs
 - [Cloudmersive Document and Data Conversion](https://github.com/apis-list/apis-list/blob/main/apis/cloudmersive-document-and-data-conversion/cloudmersive-document-and-data-conversion.md) - Document and Data Conversion APIs
-Convert files and content between file formats
+- [Dicebear Avatars](https://github.com/apis-list/apis-list/blob/main/apis/dicebear-avatars/dicebear-avatars.md) - Avatars is an avatar placeholder library for designers and developers
 - [DroneDeploy](https://github.com/apis-list/apis-list/blob/main/apis/dronedeploy/dronedeploy.md) - Integrate your existing service into DroneDeploy and reach tens of thousands of commercial drone users from over 160 countries and industries like agriculture, construction, mining, surveying, and more
 - [Everypixel](https://github.com/apis-list/apis-list/blob/main/apis/everypixel/everypixel.md) - Automatic image keywording and categorization API
 - [Filestack](https://github.com/apis-list/apis-list/blob/main/apis/filestack/filestack.md) - API for image and file manipulation, 250 uploads and 500 uploads per month for free, free CDN, HTML widget
-- [Getscreenshot By Rasterwise](https://github.com/apis-list/apis-list/blob/main/apis/getscreenshot-by-rasterwise/getscreenshot-by-rasterwise.md) - A successful request to the API will return a simple JSON that includes a URL pointing to the resulting screen capture
+- [Foursquare API](https://github.com/apis-list/apis-list/blob/main/apis/foursquare-api/foursquare-api.md) - Gives you access to our world-class places database and the ability to interact with Foursquare users and merchants
+- [Getscreenshot By Rasterwise](https://github.com/apis-list/apis-list/blob/main/apis/getscreenshot-by-rasterwise/getscreenshot-by-rasterwise.md) - A successful request to the API will return a simple JSON that includes a URL pointing to the resulting screen capture.  GetScreenshot is an affordable and highly scalable screenshot API service, with integrated rendering customization and workflows like email and webhooks. GetScreenshot is a powerful programmable API that allows you to do screenshot operations at scale and for less than the existing solutions. 
 - [Getty Images](https://github.com/apis-list/apis-list/blob/main/apis/getty-images/getty-images.md) - Page moved here
 - [Gfycat](https://github.com/apis-list/apis-list/blob/main/apis/gfycat/gfycat.md) - Gfycat’s API - collection of GIFs
 - [Gifs.Com Public API](https://github.com/apis-list/apis-list/blob/main/apis/gifs-com-public-api/gifs-com-public-api.md) - com API makes it dead simple to convert and transcode a vast array of media into our HTML5 optimized gifs
 - [Giphy](https://github.com/apis-list/apis-list/blob/main/apis/giphy/giphy.md) - Worlds largest library of GIFs
 - [Google Earth Engine](https://github.com/apis-list/apis-list/blob/main/apis/google-earth-engine/google-earth-engine.md) - Perform geospatial processing powered by Google's cloud infrastructure
 - [Graphql360](https://github.com/apis-list/apis-list/blob/main/apis/graphql360/graphql360.md) - Create and consume 360 degree panoramic tours using a GraphQL API
+- [Gravatar](https://github.com/apis-list/apis-list/blob/main/apis/gravatar/gravatar.md) - Use the links below to find out more about constructing request URLs, different imp
 - [Gyazo](https://github.com/apis-list/apis-list/blob/main/apis/gyazo/gyazo.md) - Overview The Gyazo API can be used in a wide array of apps to upload new images, show a Gyazo userâ€™s images, and more
 - [IBM Visual Recognition](https://github.com/apis-list/apis-list/blob/main/apis/ibm-visual-recognition/ibm-visual-recognition.md) - Existing instances are supported until 1 December 2021, but as of 7 January 2021, you can&#39;t create instances
 - [Iconfinder](https://github.com/apis-list/apis-list/blob/main/apis/iconfinder/iconfinder.md) - The Iconfinder API is a HTTP JSON API and allows you to programatically access resources on the service, such as icons, icon sets, categories, styles, authors, etc
@@ -1401,15 +1266,17 @@ Convert files and content between file formats
 - [Kairos](https://github.com/apis-list/apis-list/blob/main/apis/kairos/kairos.md) - Face recognition, emotion analysis and measuring engagement of people in images or videos for any mobile or web application
 - [Let'S Validate](https://github.com/apis-list/apis-list/blob/main/apis/lets-validate/lets-validate.md) - Uncovers the technologies used on websites and URL to thumbnail
 - [Lolwallpapers Api](https://github.com/apis-list/apis-list/blob/main/apis/lolwallpapers-api/lolwallpapers-api.md) - League of Legends Wallpapers website official API
+- [Lorem Picsum](https://github.com/apis-list/apis-list/blob/main/apis/lorem-picsum/lorem-picsum.md) - Lorem Ipsum, but for photos
 - [Makeup](https://github.com/apis-list/apis-list/blob/main/apis/makeup/makeup.md) - Search makeup products
 - [NewsAPI](https://github.com/apis-list/apis-list/blob/main/apis/newsapi/newsapi.md) - Search worldwide news articles and headlines from all over the web in real-time with our free News API
 - [Noun Project](https://github.com/apis-list/apis-list/blob/main/apis/noun-project/noun-project.md) - Grab a hold of the World’s Visual Language! Use it in your service or application
 - [Nudity Detection Api](https://github.com/apis-list/apis-list/blob/main/apis/nudity-detection-api/nudity-detection-api.md) - io detects nudity in images and helps to recognise and filter undesired content
 - [Pinterest](https://github.com/apis-list/apis-list/blob/main/apis/pinterest/pinterest.md) - Enables apps to view the most clicked-through or repinned Pins, view related posts, and user profiles
+- [PlaceKitten](https://github.com/apis-list/apis-list/blob/main/apis/placekitten/placekitten.md) - A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code
 - [PrexView](https://github.com/apis-list/apis-list/blob/main/apis/prexview/prexview.md) - Transform your data from XML or JSON to high quality, beautiful and readable documents in PDF, HTML, PNG or JPG
 - [RandomDog](https://github.com/apis-list/apis-list/blob/main/apis/randomdog/randomdog.md) - {"fileSizeBytes":62176,"url":"https://random
 - [RandomFox](https://github.com/apis-list/apis-list/blob/main/apis/randomfox/randomfox.md) - Random image of a fox
-- [Request Kittens](https://github.com/apis-list/apis-list/blob/main/apis/request-kittens/request-kittens.md) - GET http://requestkittens
+- [Request Kittens](https://github.com/apis-list/apis-list/blob/main/apis/request-kittens/request-kittens.md) - A randomized set of category-specific cat images
 - [Screenshotscloud](https://github.com/apis-list/apis-list/blob/main/apis/screenshotscloud/screenshotscloud.md) - With this screenshot API you can automate high quality real browser screenshots in seconds using reliable CDN backed queueless API service
 - [Shutterstock](https://github.com/apis-list/apis-list/blob/main/apis/shutterstock/shutterstock.md) - Streamline user experience with the stock image, video, and music API trusted by Facebook, Google, Wix, and more
 - [Sketchfab API](https://github.com/apis-list/apis-list/blob/main/apis/sketchfab-api/sketchfab-api.md) - Manage your 3D assets
@@ -1478,21 +1345,20 @@ Convert files and content between file formats
 - [CityGrid](https://github.com/apis-list/apis-list/blob/main/apis/citygrid/citygrid.md) - Enables developers to create web and mobile applications that find local businesses, organizations, and points of interest by a variety of search criteria
 - [CitySDK](https://github.com/apis-list/apis-list/blob/main/apis/citysdk/citysdk.md) - CitySDK is a “service development kit” for cities and developers that aims at harmonizing application programming interfaces (APIs) across cities
 - [Clients can be found here.](https://github.com/apis-list/apis-list/blob/main/apis/clients-can-be-found-here/clients-can-be-found-here.md) - Google Maps has 35 repositories available
-- [Climacell Micro Weather](https://github.com/apis-list/apis-list/blob/main/apis/climacell-micro-weather/climacell-micro-weather.md) - Historical, real-time and nowcast weather data
 - [CountryAPI](https://github.com/apis-list/apis-list/blob/main/apis/countryapi/countryapi.md) - A Rest Api of simple country information that you need
 - [D3 Visualization](https://github.com/apis-list/apis-list/blob/main/apis/d3-visualization/d3-visualization.md) - D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS
 - [Daum Maps API](https://github.com/apis-list/apis-list/blob/main/apis/daum-maps-api/daum-maps-api.md) - Kakao 지도 API를 이용해보세요
 - [DroneDeploy](https://github.com/apis-list/apis-list/blob/main/apis/dronedeploy/dronedeploy.md) - Integrate your existing service into DroneDeploy and reach tens of thousands of commercial drone users from over 160 countries and industries like agriculture, construction, mining, surveying, and more
 - [Elasticpath](https://github.com/apis-list/apis-list/blob/main/apis/elasticpath/elasticpath.md) - Provides the full commerce solution to bring your unique, revenue-driving experiences to life, fast
-- [Factual](https://github.com/apis-list/apis-list/blob/main/apis/factual/factual.md) - Welcome to the Factual developer hub! Here you'll find comprehensive guides and documentation to help you start working with Factual data, APIs, and SDKs
+- [Factual](https://github.com/apis-list/apis-list/blob/main/apis/factual/factual.md) - Provids a places search that can be searched by latitude/longitude, and “where” using full text search query string
 - [Foursquare API](https://github.com/apis-list/apis-list/blob/main/apis/foursquare-api/foursquare-api.md) - Gives you access to our world-class places database and the ability to interact with Foursquare users and merchants
 - [Foursquare Venue](https://github.com/apis-list/apis-list/blob/main/apis/foursquare-venue/foursquare-venue.md) - Providing a places search that can be searched by hierarchical list of categories, longitude/latitude etc
 - [FreeGeoIP](https://github.com/apis-list/apis-list/blob/main/apis/freegeoip/freegeoip.md) - Free IP Geolocation API with no registration required
-- [French Address Search](https://github.com/apis-list/apis-list/blob/main/apis/french-address-search/french-address-search.md) - Cherchez des adresses et lieux-dits
+- [French Address Search](https://github.com/apis-list/apis-list/blob/main/apis/french-address-search/french-address-search.md) - Find addresses and localities in France
 - [GeoApi](https://github.com/apis-list/apis-list/blob/main/apis/geoapi/geoapi.md) - API Découpage Administratif - (API Geo) est une des APIs du service public
 - [GeoDataSource](https://github.com/apis-list/apis-list/blob/main/apis/geodatasource/geodatasource.md) - Location Search Web Service (RESTful API) enable you to find nearest city information based on latitude and longitude provided
 - [GeoJS](https://github.com/apis-list/apis-list/blob/main/apis/geojs/geojs.md) - REST/JSON/JSONP GeoIP API
-- [GeoNames](https://github.com/apis-list/apis-list/blob/main/apis/geonames/geonames.md) - Important: Do not use the 'demo' account for your app or your tests
+- [GeoNames](https://github.com/apis-list/apis-list/blob/main/apis/geonames/geonames.md) - The GeoNames geographical database covers all countries and contains over eleven million placenames that are available for download free of charge
 - [Geocod.io](https://github.com/apis-list/apis-list/blob/main/apis/geocod-io/geocod-io.md) - Geocode spreadsheets or use our API - without restrictions
 - [Geocode.xyz](https://github.com/apis-list/apis-list/blob/main/apis/geocode-xyz/geocode-xyz.md) - geocode
 - [Geocodify](https://github.com/apis-list/apis-list/blob/main/apis/geocodify/geocodify.md) - Worldwide geocoding, geoparsing and autocomplete for addresses
@@ -1516,7 +1382,7 @@ Convert files and content between file formats
 - [IPGeolocationAPI.com](https://github.com/apis-list/apis-list/blob/main/apis/ipgeolocationapi-com/ipgeolocationapi-com.md) - IP Geolocation API is a free JSON REST API service for locating your visitors in real-time with detailed country information
 - [IPInfoDB](https://github.com/apis-list/apis-list/blob/main/apis/ipinfodb/ipinfodb.md) - Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address
 - [Ip Geolocation Api](https://github.com/apis-list/apis-list/blob/main/apis/ip-geolocation-api/ip-geolocation-api.md) - Free IP Geolocation API and Accurate IP Database provides country, city, zip code, ISP data in REST JSON and XML format from any IPv4 and IPv6 Address
-- [Ip Geolocation Api By Ipwhois.Io](https://github.com/apis-list/apis-list/blob/main/apis/ip-geolocation-api-by-ipwhois-io/ip-geolocation-api-by-ipwhois-io.md) - io to filter out bot traffic, customize content based on visitor's location, display full country names, perform bulk IP geolocation, and more
+- [Ip Geolocation Api By Ipwhois.Io](https://github.com/apis-list/apis-list/blob/main/apis/ip-geolocation-api-by-ipwhois-io/ip-geolocation-api-by-ipwhois-io.md) - Filter out bot traffic, customize content based on visitor's location, display full country names, perform bulk IP geolocation, and more
 - [Leaflet.js](https://github.com/apis-list/apis-list/blob/main/apis/leaflet-js/leaflet-js.md) - Leaflet is a modern, lightweight open-source JavaScript library for mobile-friendly interactive maps
 - [LocationIQ](https://github.com/apis-list/apis-list/blob/main/apis/locationiq/locationiq.md) - Generous free tier, offering Enterprise-grade APIs for everyone!
 - [Mapbox](https://github.com/apis-list/apis-list/blob/main/apis/mapbox/mapbox.md) - Access to MapBox’s API
@@ -1533,7 +1399,7 @@ Convert files and content between file formats
 - [Open Street Map](https://github.com/apis-list/apis-list/blob/main/apis/open-street-map/open-street-map.md) - Purge Help API - Other languages Afrikaans asturianu azərbaycanca Bahasa Indonesia Bahasa Melayu bosanski brezhoneg català čeština dansk Deutsch eesti English español Esperanto euskara français Fry
 - [OpenCage](https://github.com/apis-list/apis-list/blob/main/apis/opencage/opencage.md) - An easy-to-use forward and reverse geocoding API
 - [OpenStreetMap](https://github.com/apis-list/apis-list/blob/main/apis/openstreetmap/openstreetmap.md) - Purge Help API - Other languages Afrikaans asturianu azərbaycanca Bahasa Indonesia Bahasa Melayu bosanski brezhoneg català čeština dansk Deutsch eesti English español Esperanto euskara français Fry
-- [OpenWeatherMap](https://github.com/apis-list/apis-list/blob/main/apis/openweathermap/openweathermap.md) - Simple and fast and free weather API from OpenWeatherMap you have access to current weather data, hourly, 5- and 16-day forecasts
+- [OpenWeatherMap](https://github.com/apis-list/apis-list/blob/main/apis/openweathermap/openweathermap.md) - Simple and fast and free weather API from OpenWeatherMap you have access to current weather data, hourly, 5- and 16-day forecasts. Simple and fast and free weather API from OpenWeatherMap you have access to current weather data, hourly, 5- and 16-day forecasts. Historical weather data for 40 years back for any coordinate. Weather maps, UV Index, air pollution
 - [PostcodeData.nl](https://github.com/apis-list/apis-list/blob/main/apis/postcodedata-nl/postcodedata-nl.md) - {"status":"ok","details":[{"street":"Stationsstraat","city":"Hilversum","municipality":"Hilversum","province":"Noord-Holland","postcode":"1211 EP","pnum":"1211","pchar":"EP","rd_x":"140707
 - [Postcodes.io](https://github.com/apis-list/apis-list/blob/main/apis/postcodes-io/postcodes-io.md) - Search, validate and reverse geocode postcodes
 - [Postmon](https://github.com/apis-list/apis-list/blob/main/apis/postmon/postmon.md) - API to query zip codes and orders in an easy, fast and free way
@@ -1544,10 +1410,6 @@ Convert files and content between file formats
 - [Skywatch](https://github.com/apis-list/apis-list/blob/main/apis/skywatch/skywatch.md) - Instead, EarthCache allows development teams to focus on the business application and in delivering actionable intelligence to the end-user
 - [Smartcar](https://github.com/apis-list/apis-list/blob/main/apis/smartcar/smartcar.md) - Build web and mobile apps that communicate with vehicles
 - [Smartip.Io](https://github.com/apis-list/apis-list/blob/main/apis/smartip-io/smartip-io.md) - SmartIP offers the following data points: 
-- Location data
-Localize your users, apply geographical restrictions to your website and increase customer satisfaction
-- Crypto data
-Gather information about any crypto transaction related to a specific IP address
 - [Strava](https://github.com/apis-list/apis-list/blob/main/apis/strava/strava.md) - API for accessing and managing data about athletes, activities and segments
 - [Sweden](https://github.com/apis-list/apis-list/blob/main/apis/sweden/sweden.md) - 0 Here you will find information you need to get started using PostNord API, Swagger version 2
 - [Traveltime Api](https://github.com/apis-list/apis-list/blob/main/apis/traveltime-api/traveltime-api.md) - Testing the TravelTime API is free
@@ -1563,7 +1425,7 @@ Gather information about any crypto transaction related to a specific IP address
 - [WhatPulse](https://github.com/apis-list/apis-list/blob/main/apis/whatpulse/whatpulse.md) - Get to know your time with your computer
 - [Whitepages Pro](https://github.com/apis-list/apis-list/blob/main/apis/whitepages-pro/whitepages-pro.md) - Global Identity Verification API
 - [Wikitude](https://github.com/apis-list/apis-list/blob/main/apis/wikitude/wikitude.md) - Powerful augmented reality apps
-- [WorldTimeAPI](https://github.com/apis-list/apis-list/blob/main/apis/worldtimeapi/worldtimeapi.md) - A JSON/plain-text which returns the (approx) current time for a provided timezone or IP
+- [WorldTimeAPI](https://github.com/apis-list/apis-list/blob/main/apis/worldtimeapi/worldtimeapi.md) - A JSON/plain-text which returns the (approx) current time for a provided timezone or IP.  Targetted at limited-compute IoT devices. World Time API: Simple JSON/plain-text API to obtain the current
 - [Yahoo Local Search API](https://github.com/apis-list/apis-list/blob/main/apis/yahoo-local-search-api/yahoo-local-search-api.md) - Join the 200,000 developers using Yahoo tools to build their app businesses
 - [Yahoo Map Image API](https://github.com/apis-list/apis-list/blob/main/apis/yahoo-map-image-api/yahoo-map-image-api.md) - Measure, monetize, advertise and improve your apps with Yahoo tools
 - [Yahoo Maps](https://github.com/apis-list/apis-list/blob/main/apis/yahoo-maps/yahoo-maps.md) - Yahoo Maps lets you easily embed rich and interactive maps using your choice of platform
@@ -1589,9 +1451,9 @@ Gather information about any crypto transaction related to a specific IP address
 - [IP2Location](https://github.com/apis-list/apis-list/blob/main/apis/ip2location/ip2location.md) - IP Address Geolocation to Country, City, Region, Latitude, Longitude, ZIP Code, ISP, Domain, Time Zone, Area Code, Mobile Data, Usage Type, Elevation and so on
 - [Kaltura VPaaS](https://github.com/apis-list/apis-list/blob/main/apis/kaltura-vpaas/kaltura-vpaas.md) - Build video apps and add native video capabilities to your products
 - [Localytics](https://github.com/apis-list/apis-list/blob/main/apis/localytics/localytics.md) - Analytics Concepts In order to use an analytics API to its maximum potential, it is useful to agree on terminology
-- [Mailjet](https://github.com/apis-list/apis-list/blob/main/apis/mailjet/mailjet.md) - Reliable and scalable email delivery platform with SMTP and API
+- [Mailjet](https://github.com/apis-list/apis-list/blob/main/apis/mailjet/mailjet.md) - Reliable and scalable email delivery platform with SMTP and API.  
 - [Microsoft Advertising Platform - Bing Ads API](https://github.com/apis-list/apis-list/blob/main/apis/microsoft-advertising-platform-bing-ads-api/microsoft-advertising-platform-bing-ads-api.md) - Official developer documentation for Microsoft Advertising
-- [Ontraport](https://github.com/apis-list/apis-list/blob/main/apis/ontraport/ontraport.md) - Introduction The base URL for all of the requests detailed in this documentation is: https://api
+- [Ontraport](https://github.com/apis-list/apis-list/blob/main/apis/ontraport/ontraport.md) - Marketing automation
 - [Orange SMS API](https://github.com/apis-list/apis-list/blob/main/apis/orange-sms-api/orange-sms-api.md) - The SMS Service,allows you to send and receive text messages, of up to 160 characters, to and from a mobile phone
 - [Product Hunt](https://github.com/apis-list/apis-list/blob/main/apis/product-hunt/product-hunt.md) - The best new products, every day
 - [Quantumdigital](https://github.com/apis-list/apis-list/blob/main/apis/quantumdigital/quantumdigital.md) -  QuantumDigital’s APIs make navigating the USPS, securing national consumer and business lists, uploading your own designs or lists, and shipping small order marketing materials a breeze
@@ -1609,15 +1471,14 @@ Gather information about any crypto transaction related to a specific IP address
  ### Mobile 
 - [Ably](https://github.com/apis-list/apis-list/blob/main/apis/ably/ably.md) - API for making cross-protocol realtime communication between devices easy
 - [Amazon Mobile Ads](https://github.com/apis-list/apis-list/blob/main/apis/amazon-mobile-ads/amazon-mobile-ads.md) - Monetize across platforms with multiple ad formats
-- [Factual](https://github.com/apis-list/apis-list/blob/main/apis/factual/factual.md) - Welcome to the Factual developer hub! Here you'll find comprehensive guides and documentation to help you start working with Factual data, APIs, and SDKs
-- [Firebase](https://github.com/apis-list/apis-list/blob/main/apis/firebase/firebase.md) - Web reference View full API for JS Client
+- [Firebase](https://github.com/apis-list/apis-list/blob/main/apis/firebase/firebase.md) - Authentication, analytics, cloud messaging, crash reporting, ads and more
 - [Foursquare API](https://github.com/apis-list/apis-list/blob/main/apis/foursquare-api/foursquare-api.md) - Gives you access to our world-class places database and the ability to interact with Foursquare users and merchants
 - [Instagram](https://github.com/apis-list/apis-list/blob/main/apis/instagram/instagram.md) - How to use the Instagram Graph API
 - [Localytics](https://github.com/apis-list/apis-list/blob/main/apis/localytics/localytics.md) - Analytics Concepts In order to use an analytics API to its maximum potential, it is useful to agree on terminology
 - [MixPanel](https://github.com/apis-list/apis-list/blob/main/apis/mixpanel/mixpanel.md) - At our core, we maintain a custom datastore that queries your data in a fast, scalable, and reliable manner
 - [Square](https://github.com/apis-list/apis-list/blob/main/apis/square/square.md) - Square provides support and tools for you to build apps for today’s business needs
 - [Telegram](https://github.com/apis-list/apis-list/blob/main/apis/telegram/telegram.md) - We offer two kinds of APIs for developers
-- [Telegram Bot](https://github.com/apis-list/apis-list/blob/main/apis/telegram-bot/telegram-bot.md) - The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram
+- [Telegram Bot](https://github.com/apis-list/apis-list/blob/main/apis/telegram-bot/telegram-bot.md) - The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram. The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram. 
 - [Typeform](https://github.com/apis-list/apis-list/blob/main/apis/typeform/typeform.md) - Typeform's APIs allow you to create and edit Typeform surveys, and retrieve survey responses on demand
  ### Music & Audio 
 - [AI Mastering](https://github.com/apis-list/apis-list/blob/main/apis/ai-mastering/ai-mastering.md) - AI Mastering API provides automated audio mastering service
@@ -1646,7 +1507,6 @@ Gather information about any crypto transaction related to a specific IP address
 - [MusicBrainz](https://github.com/apis-list/apis-list/blob/main/apis/musicbrainz/musicbrainz.md) - The API discussed here is an interface to the MusicBrainz Database
 - [Musixmatch](https://github.com/apis-list/apis-list/blob/main/apis/musixmatch/musixmatch.md) - Power your music project by licensing access to the world’s most authoritative lyrics DB
 - [NPR API](https://github.com/apis-list/apis-list/blob/main/apis/npr-api/npr-api.md) - NPR's API is a content API, which essentially provides a structured way for other computer applications to get NPR stories in a predictable, flexible and powerful way
-- [Next Big Sound](https://github.com/apis-list/apis-list/blob/main/apis/next-big-sound/next-big-sound.md) - 403 Forbidden Request forbidden by administrative rules
 - [Openwhyd](https://github.com/apis-list/apis-list/blob/main/apis/openwhyd/openwhyd.md) - 💎 Like Pinterest, for Music
 - [QuantOneMusic](https://github.com/apis-list/apis-list/blob/main/apis/quantonemusic/quantonemusic.md) - Answers the need for digital music data
 - [Reverb](https://github.com/apis-list/apis-list/blob/main/apis/reverb/reverb.md) - Sell and buy music related merchandise
@@ -1686,7 +1546,7 @@ Gather information about any crypto transaction related to a specific IP address
 - [NewsCatcherAPI](https://github.com/apis-list/apis-list/blob/main/apis/newscatcherapi/newscatcherapi.md) - Search news articles from all over the world in real-time with News API
 - [Open Access Button](https://github.com/apis-list/apis-list/blob/main/apis/open-access-button/open-access-button.md) - Free, legal research articles delivered instantly or automatically requested from authors
 - [Reddit](https://github.com/apis-list/apis-list/blob/main/apis/reddit/reddit.md) - Contribute to reddit-archive/reddit development by creating an account on GitHub
-- [Reliefweb](https://github.com/apis-list/apis-list/blob/main/apis/reliefweb/reliefweb.md) - ReliefWeb API to get the latest updates when a disaster happens
+- [Reliefweb](https://github.com/apis-list/apis-list/blob/main/apis/reliefweb/reliefweb.md) - ReliefWeb API to get the latest updates when a disaster happens. Do you want to have the latest information about humanitarian training all around the world? Use ReliefWeb API to get ReliefWeb's posted training that fits better with your goals and embed the information into your corporate training system
 - [Scrapeboss](https://github.com/apis-list/apis-list/blob/main/apis/scrapeboss/scrapeboss.md) - Contact with an owner of ScrapeBoss
 - [Spaceflight News](https://github.com/apis-list/apis-list/blob/main/apis/spaceflight-news/spaceflight-news.md) - The Spaceflight News API lets you add space related news to your apps
 - [SummarizeBot API](https://github.com/apis-list/apis-list/blob/main/apis/summarizebot-api/summarizebot-api.md) - Multilingual summarization, keywords and sentiment analysis, language recognition, article extraction, comments identification, multimedia analysis, image and face recognition solutions
@@ -1701,7 +1561,6 @@ Gather information about any crypto transaction related to a specific IP address
 - [Yo Developers API](https://github.com/apis-list/apis-list/blob/main/apis/yo-developers-api/yo-developers-api.md) - Yo API Documentation
  ### Office 
 - [Cloudmersive Document and Data Conversion](https://github.com/apis-list/apis-list/blob/main/apis/cloudmersive-document-and-data-conversion/cloudmersive-document-and-data-conversion.md) - Document and Data Conversion APIs
-Convert files and content between file formats
 - [PDFmyURL](https://github.com/apis-list/apis-list/blob/main/apis/pdfmyurl/pdfmyurl.md) - Easily Convert URLs / Webpages or HTML to PDF in any Programming Language or on the Command Line! Options for page format, layout, headers, footers, watermarking and more
 - [Salesforce](https://github.com/apis-list/apis-list/blob/main/apis/salesforce/salesforce.md) - This simple RESTful interface is powerful, convenient, and great for writing mobile and web apps
 - [Salesforce SOAP API](https://github.com/apis-list/apis-list/blob/main/apis/salesforce-soap-api/salesforce-soap-api.md) - The Salesforce Platform connects the entire customer journey across Sales, Service, Marketing, Commerce, and every touchpoint
@@ -1731,7 +1590,7 @@ Convert files and content between file formats
 - [Carbon Intensity](https://github.com/apis-list/apis-list/blob/main/apis/carbon-intensity/carbon-intensity.md) - Regional Data new National Grid ESO forecasts the carbon intensity and generation mix of electricity consumed across 14 geographical regions in Great Britain
 - [Dataflow Kit](https://github.com/apis-list/apis-list/blob/main/apis/dataflow-kit/dataflow-kit.md) - Web Scraper API to extract information from web sites, scrape SERPs, convert web pages to PDF, and capture screenshots
 - [Dronestream](https://github.com/apis-list/apis-list/blob/main/apis/dronestream/dronestream.md) - Tracks United States drone strikes
-- [Evident Proof](https://github.com/apis-list/apis-list/blob/main/apis/evident-proof/evident-proof.md) - Users of Evident Proof can plug any data source sitting on current databases to Evident Proof’s immutable un-hackable Blockchain data platform and through Evident Proof's Verification Bundle & Proof Seals Engine produce court-ready certificates for any data or workflow to prove data has not been tampered with or hacked, and/or meets GDPR, HIPPA, FISMA, Sarbanes-Oxley and other Regulatory Compliance 
+- [Evident Proof](https://github.com/apis-list/apis-list/blob/main/apis/evident-proof/evident-proof.md) - Users of Evident Proof can plug any data source sitting on current databases to Evident Proof’s immutable un-hackable Blockchain data platform and through Evident Proof's Verification Bundle & Proof Seals Engine produce court-ready certificates for any data or workflow to prove data has not been tampered with or hacked, and/or meets GDPR, HIPPA, FISMA, Sarbanes-Oxley and other Regulatory Compliance . 
 - [Evil Insult Generator](https://github.com/apis-list/apis-list/blob/main/apis/evil-insult-generator/evil-insult-generator.md) - The following parameters are optional lang - The language of the insult you want
 - [Foreca Weather Warnings](https://github.com/apis-list/apis-list/blob/main/apis/foreca-weather-warnings/foreca-weather-warnings.md) - Data feed of the governmental severe weather warnings The Foreca WarningFeed integrates weather warnings from many national warning systems worldwide and presents them in a harmonized global offeri
 - [Game of Thrones Quotes](https://github.com/apis-list/apis-list/blob/main/apis/game-of-thrones-quotes/game-of-thrones-quotes.md) - A free API to retrieve some quotes of Game of Thrones
@@ -1744,11 +1603,12 @@ Convert files and content between file formats
 - [Judge0 API](https://github.com/apis-list/apis-list/blob/main/apis/judge0-api/judge0-api.md) - Judge0 - API Documentation Judge0 is a robust, scalable, and open-source online code execution system that can be used to build a wide range of applications that need online code execution features
 - [Labs64 NetLicensing](https://github.com/apis-list/apis-list/blob/main/apis/labs64-netlicensing/labs64-netlicensing.md) - Innovative License Management Solution
 - [Logdna](https://github.com/apis-list/apis-list/blob/main/apis/logdna/logdna.md) - Learn about logging, how to get started, and how to maximize our log collection, monitoring, retention, alerting, and analysis features
-- [National Flood Data (Us)](https://github.com/apis-list/apis-list/blob/main/apis/national-flood-data-us/national-flood-data-us.md) - Send us an email, and we'll send you a trial credentials to test out the product
+- [National Flood Data (Us)](https://github.com/apis-list/apis-list/blob/main/apis/national-flood-data-us/national-flood-data-us.md) - Send us an email, and we'll send you a trial credentials to test out the product. None. The FEMA Flood Map API offers up-to-date FEMA flood zone maps and data that can be easily embedded into partners' products or workflow. Our data service is used by insurance companies, appraisers, real estate investors and software companies that offer services to these industries. 
 - [Neobi](https://github.com/apis-list/apis-list/blob/main/apis/neobi/neobi.md) - A comprehensive Cannabis database includes products, prices, stock and inventory status, images, Producer and Brand information and other metadata
+- [Recreation Information Database](https://github.com/apis-list/apis-list/blob/main/apis/recreation-information-database/recreation-information-database.md) - Recreation
 - [Rig Veda API](https://github.com/apis-list/apis-list/blob/main/apis/rig-veda-api/rig-veda-api.md) - All of the poets and gods in the Rig Veda, presented with the mandal and sukta numbers, and the meters the verses are composed in rv = Rig Veda You can make only GET calls to the API
 - [RiteKit](https://github.com/apis-list/apis-list/blob/main/apis/ritekit/ritekit.md) - Looking for hashtag suggestions, analytics, trend data, influencers of a hashtag or historical data? How about auto-hashtagging entire social media posts, Tweets, updates?
-- [Sheet2site Api](https://github.com/apis-list/apis-list/blob/main/apis/sheet2site-api/sheet2site-api.md) - Create JSON from Google Sheets without writing code
+- [Sheet2site Api](https://github.com/apis-list/apis-list/blob/main/apis/sheet2site-api/sheet2site-api.md) - Create JSON from Google Sheets without writing code. Create JSON from Google Sheet
 - [Simple Analytics](https://github.com/apis-list/apis-list/blob/main/apis/simple-analytics/simple-analytics.md) - Simple Analytics does not own your data
 - [StackExchange](https://github.com/apis-list/apis-list/blob/main/apis/stackexchange/stackexchange.md) - The StackExchange API provides RESTful services to all the sites on the StackExchange domain
 - [Trace.Moe](https://github.com/apis-list/apis-list/blob/main/apis/trace-moe/trace-moe.md) - Scan anime image to get specific detail
@@ -1758,7 +1618,9 @@ Convert files and content between file formats
 - [Website Text Extraction](https://github.com/apis-list/apis-list/blob/main/apis/website-text-extraction/website-text-extraction.md) - Scrape websites and get their content as plaintext
 - [Whisky Hunter](https://github.com/apis-list/apis-list/blob/main/apis/whisky-hunter/whisky-hunter.md) - {"_type":"document","_meta":{"url":"https://whiskyhunter
 - [Who Hosts This](https://github.com/apis-list/apis-list/blob/main/apis/who-hosts-this/who-hosts-this.md) - Detect the hosting provider powering any web site
-- [Zenscrape - Web Scraping Api](https://github.com/apis-list/apis-list/blob/main/apis/zenscrape-web-scraping-api/zenscrape-web-scraping-api.md) - Our web scraping API handles all problems that are related to web scraping
+- [Zenscrape - Web Scraping Api](https://github.com/apis-list/apis-list/blob/main/apis/zenscrape-web-scraping-api/zenscrape-web-scraping-api.md) - Our web scraping API handles all problems that are related to web scraping. Extracting HTML from websites has never been so easy!. Scraping API: Hassle-Free Data Extraction
+ ### Patents 
+- [EPO](https://github.com/apis-list/apis-list/blob/main/apis/epo/epo.md) -  Open Patent Services (OPS) is a web service which provides access to the EPO's raw data via a standardised XML interface
  ### Payments 💳
 - [Afex](https://github.com/apis-list/apis-list/blob/main/apis/afex/afex.md) - Never worry about maintaining API documentation again
 - [Barzahlen](https://github.com/apis-list/apis-list/blob/main/apis/barzahlen/barzahlen.md) - viafintech API v2 allows you to create payment, partial payment, payout, and refund slips customers can use in stores like supermarkets to pay or receive money
@@ -1766,16 +1628,14 @@ Convert files and content between file formats
 - [BlockScore](https://github.com/apis-list/apis-list/blob/main/apis/blockscore/blockscore.md) - A real-time API for verifying an identity by name, address, date of birth, and social security number
 - [Braintree](https://github.com/apis-list/apis-list/blob/main/apis/braintree/braintree.md) - Specializes in mobile and web payment systems for ecommerce companies
 - [Bunq Api](https://github.com/apis-list/apis-list/blob/main/apis/bunq-api/bunq-api.md) - Open RESTful bank API that lets you work with bank cards, accounts, payments, transactions, attachments, and more! 
-200 endpoints to ensure our API is flexible enough to fit any project! 
-bunq is an anti-bank that is licenced to work in Europe
-- [Coinbase](https://github.com/apis-list/apis-list/blob/main/apis/coinbase/coinbase.md) - Coinbase’s API makes it easy to integrate bitcoin, bitcoin cash, litecoin and ethereum into both new and existing applications
+- [Coinbase](https://github.com/apis-list/apis-list/blob/main/apis/coinbase/coinbase.md) - Coinbase’s API makes it easy to integrate bitcoin, bitcoin cash, litecoin and ethereum into both new and existing applications. 
 - [Elasticpath](https://github.com/apis-list/apis-list/blob/main/apis/elasticpath/elasticpath.md) - Provides the full commerce solution to bring your unique, revenue-driving experiences to life, fast
 - [Elis](https://github.com/apis-list/apis-list/blob/main/apis/elis/elis.md) - Automate data extraction from your documents with Artificial Intelligence
 - [FIDEL API](https://github.com/apis-list/apis-list/blob/main/apis/fidel-api/fidel-api.md) - FIDEL is a card-linked API that lets developers create web and mobile applications for linking banks cards with reward services
 - [Gumroad](https://github.com/apis-list/apis-list/blob/main/apis/gumroad/gumroad.md) - Gumroad helps creators do more of what they love by offering tools to get paid online, they have sent over $202M to artists, designers, educators, writers, influencers and more
 - [Keyserv](https://github.com/apis-list/apis-list/blob/main/apis/keyserv/keyserv.md) - SmartQ is an technology company founded in 2017 with the intention of providing innovative tools for the modern world
 - [Mastercard](https://github.com/apis-list/apis-list/blob/main/apis/mastercard/mastercard.md) - Mastercard official API
-- [Nimiq Hub](https://github.com/apis-list/apis-list/blob/main/apis/nimiq-hub/nimiq-hub.md) - com/en/#community
+- [Nimiq Hub](https://github.com/apis-list/apis-list/blob/main/apis/nimiq-hub/nimiq-hub.md) - com/en/#community.  Documentation of the Nimiq Hub API, the secure and central place to interact with your users’ keys. Nimiq aims to be the best performing and easiest-to-use decentralized payment protocol ecosystem. The Nimiq Hub API enables website developers to integrate payment with Nimiq into their webapp, shop, and mobile app. It's all open source, the GitHub repository is here: http://github. com/nimiq/hub 
 - [PayPal](https://github.com/apis-list/apis-list/blob/main/apis/paypal/paypal.md) - Enables your customers to sign in to your web site quickly and securely using their PayPal login credentials
 - [Picatic](https://github.com/apis-list/apis-list/blob/main/apis/picatic/picatic.md) - Sell tickets directly from your app or website
 - [Plaid](https://github.com/apis-list/apis-list/blob/main/apis/plaid/plaid.md) - Plaid helps companies build fintech solutions by making it easy, safe and reliable for people to connect their financial data to apps and services
@@ -1793,19 +1653,13 @@ bunq is an anti-bank that is licenced to work in Europe
 - [icanhazdadjoke](https://github.com/apis-list/apis-list/blob/main/apis/icanhazdadjoke/icanhazdadjoke.md) - The largest collection of dad jokes on the internet
  ### Photography 
 - [500px](https://github.com/apis-list/apis-list/blob/main/apis/500px/500px.md) - Viewing feature streams, photo information and comments, as well as user profiles
-- [Clarifai](https://github.com/apis-list/apis-list/blob/main/apis/clarifai/clarifai.md) - Whether you have one input or billions, you are only steps away from using AI to power your business applications
 - [Flickr](https://github.com/apis-list/apis-list/blob/main/apis/flickr/flickr.md) - Search through user Flickr content, contacts, upload or replace photos
-- [Foursquare API](https://github.com/apis-list/apis-list/blob/main/apis/foursquare-api/foursquare-api.md) - Gives you access to our world-class places database and the ability to interact with Foursquare users and merchants
 - [Getty Images](https://github.com/apis-list/apis-list/blob/main/apis/getty-images/getty-images.md) - Page moved here
 - [Gfycat](https://github.com/apis-list/apis-list/blob/main/apis/gfycat/gfycat.md) - Gfycat’s API - collection of GIFs
 - [Gracenote](https://github.com/apis-list/apis-list/blob/main/apis/gracenote/gracenote.md) - Largest source of music and video metadata on the planet
-- [Graphql360](https://github.com/apis-list/apis-list/blob/main/apis/graphql360/graphql360.md) - Create and consume 360 degree panoramic tours using a GraphQL API
-- [Gravatar](https://github.com/apis-list/apis-list/blob/main/apis/gravatar/gravatar.md) - Use the links below to find out more about constructing request URLs, different imp
 - [Gyazo](https://github.com/apis-list/apis-list/blob/main/apis/gyazo/gyazo.md) - Overview The Gyazo API can be used in a wide array of apps to upload new images, show a Gyazo userâ€™s images, and more
 - [Imgur](https://github.com/apis-list/apis-list/blob/main/apis/imgur/imgur.md) - Imgur: The magic of the Internet
 - [Instagram](https://github.com/apis-list/apis-list/blob/main/apis/instagram/instagram.md) - How to use the Instagram Graph API
-- [Kairos](https://github.com/apis-list/apis-list/blob/main/apis/kairos/kairos.md) - Face recognition, emotion analysis and measuring engagement of people in images or videos for any mobile or web application
-- [Lorem Picsum](https://github.com/apis-list/apis-list/blob/main/apis/lorem-picsum/lorem-picsum.md) - Lorem Ipsum, but for photos
 - [Pexels](https://github.com/apis-list/apis-list/blob/main/apis/pexels/pexels.md) - Pexels provides high quality and completely free stock photos licensed under the Creative Commons Zero (CC0) license
 - [Pixabay](https://github.com/apis-list/apis-list/blob/main/apis/pixabay/pixabay.md) - Restful API for searching and retrieving free images and videos
 - [ScreenShotLayer](https://github.com/apis-list/apis-list/blob/main/apis/screenshotlayer/screenshotlayer.md) - Free for personal use
@@ -1826,7 +1680,7 @@ bunq is an anti-bank that is licenced to work in Europe
 - [Zomato](https://github.com/apis-list/apis-list/blob/main/apis/zomato/zomato.md) - Zomato API
  ### Post & Logistics 
 - [Form-Api](https://github.com/apis-list/apis-list/blob/main/apis/form-api/form-api.md) - Build forms easily, autocomplete and validate data
-- [GeoNames](https://github.com/apis-list/apis-list/blob/main/apis/geonames/geonames.md) - Important: Do not use the 'demo' account for your app or your tests
+- [GeoNames](https://github.com/apis-list/apis-list/blob/main/apis/geonames/geonames.md) - The GeoNames geographical database covers all countries and contains over eleven million placenames that are available for download free of charge
 - [GraphHopper](https://github.com/apis-list/apis-list/blob/main/apis/graphhopper/graphhopper.md) - A-to-B routing with turn-by-turn instructions
 - [IP Vigilante](https://github.com/apis-list/apis-list/blob/main/apis/ip-vigilante/ip-vigilante.md) - IP Vigilante provides a free geographical IP locator API, so the developers can obtain geographical information of an IP in various formats: JSON and CSV
 - [Mapbox Directions API](https://github.com/apis-list/apis-list/blob/main/apis/mapbox-directions-api/mapbox-directions-api.md) - The Mapbox Directions API can calculate optimal driving, walking, and cycling routes, produce turn-by-turn instructions, produce routes with up to 25 coordinates anywhere on earth
@@ -1844,13 +1698,12 @@ bunq is an anti-bank that is licenced to work in Europe
 - [Wgs84 To Osgb36](https://github.com/apis-list/apis-list/blob/main/apis/wgs84-to-osgb36/wgs84-to-osgb36.md) - Convert a WGS84 latitude and longitude to OSGB36 easting and northing (British National Grid)
 - [bng2latlong](https://github.com/apis-list/apis-list/blob/main/apis/bng2latlong/bng2latlong.md) - Simple API to convert an OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude
  ### Products 
-- [Datakick](https://github.com/apis-list/apis-list/blob/main/apis/datakick/datakick.md) - You may have mistyped the address or the page may have moved
 - [EAN-Search](https://github.com/apis-list/apis-list/blob/main/apis/ean-search/ean-search.md) - Search our EAN database with over 230 million products by EAN, UPC, ISBN or product name
 - [Elasticpath](https://github.com/apis-list/apis-list/blob/main/apis/elasticpath/elasticpath.md) - Provides the full commerce solution to bring your unique, revenue-driving experiences to life, fast
 - [Keyserv](https://github.com/apis-list/apis-list/blob/main/apis/keyserv/keyserv.md) - SmartQ is an technology company founded in 2017 with the intention of providing innovative tools for the modern world
 - [Open Food Facts](https://github.com/apis-list/apis-list/blob/main/apis/open-food-facts/open-food-facts.md) - Open Food Facts is a database of food products with ingredients, allergens, nutrition facts and all the tidbits of information we can find on product labels
 - [Product Hunt](https://github.com/apis-list/apis-list/blob/main/apis/product-hunt/product-hunt.md) - The best new products, every day
-- [UPC database](https://github.com/apis-list/apis-list/blob/main/apis/upc-database/upc-database.md) - Integrate your own applications using our new API
+- [UPC database](https://github.com/apis-list/apis-list/blob/main/apis/upc-database/upc-database.md) - Database contains a mixture of barcode types from the standard UPC numbering system, the worldwide EAN numbering system, and the Bookland numbering system
 - [Wip](https://github.com/apis-list/apis-list/blob/main/apis/wip/wip.md) - Open API for the maker community
  ### Project Management 
 - [Basecamp API](https://github.com/apis-list/apis-list/blob/main/apis/basecamp-api/basecamp-api.md) - A web based system for managing collaborative projects
@@ -1861,15 +1714,19 @@ bunq is an anti-bank that is licenced to work in Europe
 - [Forismatic](https://github.com/apis-list/apis-list/blob/main/apis/forismatic/forismatic.md) - Gives you a random quote per click
 - [Quotes Api](https://github.com/apis-list/apis-list/blob/main/apis/quotes-api/quotes-api.md) - They Said So
  ### Random 
+- [Faker API](https://github.com/apis-list/apis-list/blob/main/apis/faker-api/faker-api.md) - Generate fake data and get by REST API requests
 - [Forismatic](https://github.com/apis-list/apis-list/blob/main/apis/forismatic/forismatic.md) - Gives you a random quote per click
+- [JSONPlaceholder](https://github.com/apis-list/apis-list/blob/main/apis/jsonplaceholder/jsonplaceholder.md) - Free online REST API that you can use whenever you need some fake data
 - [Jesus Api](https://github.com/apis-list/apis-list/blob/main/apis/jesus-api/jesus-api.md) - Upgrade to Hostinger By upgrading to premium hosting you will unlock all available features, more disk sp
 - [Lorem Picsum](https://github.com/apis-list/apis-list/blob/main/apis/lorem-picsum/lorem-picsum.md) - Lorem Ipsum, but for photos
 - [Lottery Number Generation](https://github.com/apis-list/apis-list/blob/main/apis/lottery-number-generation/lottery-number-generation.md) - Hundereds of lottery games from various countries are supported
 - [Numbers](https://github.com/apis-list/apis-list/blob/main/apis/numbers/numbers.md) - An API for interesting facts about numbers
+- [PIPL API](https://github.com/apis-list/apis-list/blob/main/apis/pipl-api/pipl-api.md) - Free and public API that generates random and fake people's data in JSON
 - [Random Data Generator](https://github.com/apis-list/apis-list/blob/main/apis/random-data-generator/random-data-generator.md) - You have 1000 daily quota calls for your project
 - [Random Facts](https://github.com/apis-list/apis-list/blob/main/apis/random-facts/random-facts.md) - Random Facts API
 - [Random Facts Api](https://github.com/apis-list/apis-list/blob/main/apis/random-facts-api/random-facts-api.md) - Get random Facts on different topics
 - [RandomFox](https://github.com/apis-list/apis-list/blob/main/apis/randomfox/randomfox.md) - Random image of a fox
+- [RoboHash](https://github.com/apis-list/apis-list/blob/main/apis/robohash/robohash.md) - Generate Unique images from any text Robohash is a easy web service that makes it easy to provide unique, robot/alien/monster/whatever images for any text
 - [This Person Does not Exist](https://github.com/apis-list/apis-list/blob/main/apis/this-person-does-not-exist/this-person-does-not-exist.md) - This Person Does Not Exist
 - [UI Names](https://github.com/apis-list/apis-list/blob/main/apis/ui-names/ui-names.md) - A simple tool to generate names for use in designs and mockups
  ### Real Estate 
@@ -1879,11 +1736,10 @@ bunq is an anti-bank that is licenced to work in Europe
  ### Real Time 
 - [Ably](https://github.com/apis-list/apis-list/blob/main/apis/ably/ably.md) - API for making cross-protocol realtime communication between devices easy
 - [Faroo](https://github.com/apis-list/apis-list/blob/main/apis/faroo/faroo.md) - Alternative to Google Web Search API / Google News Search API, allows you to search news within dates, fetch trending news, topics and terms
-- [Firebase](https://github.com/apis-list/apis-list/blob/main/apis/firebase/firebase.md) - Web reference View full API for JS Client
+- [Firebase](https://github.com/apis-list/apis-list/blob/main/apis/firebase/firebase.md) - Authentication, analytics, cloud messaging, crash reporting, ads and more
 - [HyperTrack](https://github.com/apis-list/apis-list/blob/main/apis/hypertrack/hypertrack.md) - Build applications that track the movement of your business
 - [MixPanel](https://github.com/apis-list/apis-list/blob/main/apis/mixpanel/mixpanel.md) - At our core, we maintain a custom datastore that queries your data in a fast, scalable, and reliable manner
 - [Open Notify](https://github.com/apis-list/apis-list/blob/main/apis/open-notify/open-notify.md) - API Examples Current ISS Location The International Space Station is moving at close to 28,000 km/h so its location changes really fast
-- [Ryft](https://github.com/apis-list/apis-list/blob/main/apis/ryft/ryft.md) - Try refining your search, or use the navigation above to locate the post
 - [Uber](https://github.com/apis-list/apis-list/blob/main/apis/uber/uber.md) - Discover how the Uber API can easily enhance your app’s user experience and take your innovation further with a wide range of new capabilities
  ### Recognition 
 - [Anti-Captcha](https://github.com/apis-list/apis-list/blob/main/apis/anti-captcha/anti-captcha.md) - Access to Anti-Captcha’s API
@@ -1896,14 +1752,13 @@ bunq is an anti-bank that is licenced to work in Europe
 - [Kairos](https://github.com/apis-list/apis-list/blob/main/apis/kairos/kairos.md) - Face recognition, emotion analysis and measuring engagement of people in images or videos for any mobile or web application
 - [Language Detection](https://github.com/apis-list/apis-list/blob/main/apis/language-detection/language-detection.md) - Detect language(s) from pieces of text
 - [Nudity Detection Api](https://github.com/apis-list/apis-list/blob/main/apis/nudity-detection-api/nudity-detection-api.md) - io detects nudity in images and helps to recognise and filter undesired content
-- [Request Kittens](https://github.com/apis-list/apis-list/blob/main/apis/request-kittens/request-kittens.md) - GET http://requestkittens
 - [Sky Biometry](https://github.com/apis-list/apis-list/blob/main/apis/sky-biometry/sky-biometry.md) - SkyBiometry uses completely different computer vision algorithms for face detection and recognition than face
 - [TrueFace.Ai API](https://github.com/apis-list/apis-list/blob/main/apis/trueface-ai-api/trueface-ai-api.md) - Our endpoints include face detection (detect 1 or multiple faces), face matching (1 to 1 matching, good for authentication), face identification (face recognition - good for a a crowd/group), spoof detection (determine if someone is trying to trick the technology by holding up a picture of someone else), raw landmark detection (determine the facial characteristics to size a face)
+- [TuneFind](https://github.com/apis-list/apis-list/blob/main/apis/tunefind/tunefind.md) - Since 2005 Tunefind has been the leading site dedicated to tracking the music featured in TV shows and movies
 - [VirusTotal](https://github.com/apis-list/apis-list/blob/main/apis/virustotal/virustotal.md) - The VirusTotal API lets you upload and scan files or URLs, access finished scan reports and make automatic comments without the need of using the website interface
  ### Reference 
 - [Chronicling America](https://github.com/apis-list/apis-list/blob/main/apis/chronicling-america/chronicling-america.md) - Newspaper Directory to find information about American newspapers published between 1690-present
-- [Datamuse API](https://github.com/apis-list/apis-list/blob/main/apis/datamuse-api/datamuse-api.md) - You can use it in your apps to find words that match a given set o
-- [GeoNames](https://github.com/apis-list/apis-list/blob/main/apis/geonames/geonames.md) - Important: Do not use the 'demo' account for your app or your tests
+- [Datamuse API](https://github.com/apis-list/apis-list/blob/main/apis/datamuse-api/datamuse-api.md) - Word-finding query engine that finds words that match a given set of constraints and that are likely in a given context
 - [GoodReads](https://github.com/apis-list/apis-list/blob/main/apis/goodreads/goodreads.md) - The Goodreads API allows developers access to Goodreads data in order to help websites or applications that deal with books be more personalized, social,
 - [Google Places](https://github.com/apis-list/apis-list/blob/main/apis/google-places/google-places.md) - Connect your app or website users to over 100 million points of interests with Places, using Autocomplete, Geocoding & Place Search APIs
 - [Gracenote](https://github.com/apis-list/apis-list/blob/main/apis/gracenote/gracenote.md) - Largest source of music and video metadata on the planet
@@ -1911,15 +1766,14 @@ bunq is an anti-bank that is licenced to work in Europe
 - [OMDB](https://github.com/apis-list/apis-list/blob/main/apis/omdb/omdb.md) - Attention Users 04/08/19 - Added support for eight digit IMDb IDs
 - [Open Brewery DB](https://github.com/apis-list/apis-list/blob/main/apis/open-brewery-db/open-brewery-db.md) - The goal of Open Brewery DB is to maintain an open-source, community-drive
 - [Open Library](https://github.com/apis-list/apis-list/blob/main/apis/open-library/open-library.md) - Open Library is an open, editable library catalog, building towards a web page for every book ever published
-- [OpenCorporates](https://github.com/apis-list/apis-list/blob/main/apis/opencorporates/opencorporates.md) - Introduction This documentation covers the main API (the so-called REST API)
+- [OpenCorporates](https://github.com/apis-list/apis-list/blob/main/apis/opencorporates/opencorporates.md) - World's largest open database of companies
 - [REST Countries](https://github.com/apis-list/apis-list/blob/main/apis/rest-countries/rest-countries.md) - Get information about countries via a RESTful API
 - [Random Facts](https://github.com/apis-list/apis-list/blob/main/apis/random-facts/random-facts.md) - Random Facts API
 - [Random Facts Api](https://github.com/apis-list/apis-list/blob/main/apis/random-facts-api/random-facts-api.md) - Get random Facts on different topics
 - [TextRazor](https://github.com/apis-list/apis-list/blob/main/apis/textrazor/textrazor.md) - #FreeToUse
 - [Trivia Api](https://github.com/apis-list/apis-list/blob/main/apis/trivia-api/trivia-api.md) - 100k+ trivia entries available via REST API
-- [UPC database](https://github.com/apis-list/apis-list/blob/main/apis/upc-database/upc-database.md) - Integrate your own applications using our new API
 - [Whitepages Pro](https://github.com/apis-list/apis-list/blob/main/apis/whitepages-pro/whitepages-pro.md) - Global Identity Verification API
-- [Wikipedia](https://github.com/apis-list/apis-list/blob/main/apis/wikipedia/wikipedia.md) - Documentation and examples: https://www
+- [Wikipedia](https://github.com/apis-list/apis-list/blob/main/apis/wikipedia/wikipedia.md) - Free multilingual Encyclopedia
 - [Wikipedia API](https://github.com/apis-list/apis-list/blob/main/apis/wikipedia-api/wikipedia-api.md) - While we try to avoid it, we may occasionally need to make breaking changes; subscrib
 - [Wolfram|Alpha](https://github.com/apis-list/apis-list/blob/main/apis/wolfram-alpha/wolfram-alpha.md) - General knowledge on every topic; query it all with natural language input
 - [Wordnik](https://github.com/apis-list/apis-list/blob/main/apis/wordnik/wordnik.md) - The Wordnik API Docs
@@ -1947,7 +1801,6 @@ bunq is an anti-bank that is licenced to work in Europe
 - [Open Access Button](https://github.com/apis-list/apis-list/blob/main/apis/open-access-button/open-access-button.md) - Free, legal research articles delivered instantly or automatically requested from authors
 - [Open Notify](https://github.com/apis-list/apis-list/blob/main/apis/open-notify/open-notify.md) - API Examples Current ISS Location The International Space Station is moving at close to 28,000 km/h so its location changes really fast
 - [Open Science Framework](https://github.com/apis-list/apis-list/blob/main/apis/open-science-framework/open-science-framework.md) - Hosted on the Open Science Framework
-
 - [Portfolio Optimizer](https://github.com/apis-list/apis-list/blob/main/apis/portfolio-optimizer/portfolio-optimizer.md) - API for investment portfolio optimization
 - [SHARE](https://github.com/apis-list/apis-list/blob/main/apis/share/share.md) - SHARE¶ SHARE is a higher education initiative whose mission is to maximize research impact by making research widely accessible, discoverable, and reusable
 - [SpaceX](https://github.com/apis-list/apis-list/blob/main/apis/spacex/spacex.md) - :rocket: Open Source REST API for rocket, core, capsule, pad, and launch data - r-spacex/SpaceX-API
@@ -1961,8 +1814,8 @@ bunq is an anti-bank that is licenced to work in Europe
  ### Scrapers & Data Mining 
 - [Browshot](https://github.com/apis-list/apis-list/blob/main/apis/browshot/browshot.md) - Full API to take screenshots of any website
 - [Choppingboard.Recipes](https://github.com/apis-list/apis-list/blob/main/apis/choppingboard-recipes/choppingboard-recipes.md) - 
-- [Dashblock](https://github.com/apis-list/apis-list/blob/main/apis/dashblock/dashblock.md) - They offer 1000 free API calls per month,
-- [Data Demograph](https://github.com/apis-list/apis-list/blob/main/apis/data-demograph/data-demograph.md) - backends
+- [Dashblock](https://github.com/apis-list/apis-list/blob/main/apis/dashblock/dashblock.md) - The easiest way to access websites programmatically and collect structured data
+- [Data Demograph](https://github.com/apis-list/apis-list/blob/main/apis/data-demograph/data-demograph.md) - Enrich your contact lists with intelligent demographics
 - [Elis](https://github.com/apis-list/apis-list/blob/main/apis/elis/elis.md) - Automate data extraction from your documents with Artificial Intelligence
 - [Intellexer](https://github.com/apis-list/apis-list/blob/main/apis/intellexer/intellexer.md) - Processing (NLP) Service including sentiment analysis, content extraction, and language detection
 - [LinkPreview](https://github.com/apis-list/apis-list/blob/main/apis/linkpreview/linkpreview.md) - Preview Web links with our reliable API service
@@ -1972,8 +1825,8 @@ bunq is an anti-bank that is licenced to work in Europe
 - [ProxyCrawl](https://github.com/apis-list/apis-list/blob/main/apis/proxycrawl/proxycrawl.md) - Crawl and scrape websites without the need of proxies, infrastructure or browsers
 - [Scrapeboss](https://github.com/apis-list/apis-list/blob/main/apis/scrapeboss/scrapeboss.md) - Contact with an owner of ScrapeBoss
 - [Scraper API](https://github.com/apis-list/apis-list/blob/main/apis/scraper-api/scraper-api.md) - Scraper API is a web scraping API that handles proxy rotation, browsers, and CAPTCHAs so developers can scrape any page with a single API call
-- [Scrapestack](https://github.com/apis-list/apis-list/blob/main/apis/scrapestack/scrapestack.md) - Use our proxy and web scraping REST API to extract html data from any web page, supporting 100 geolocations, CAPTCHAs and IP rotation for millions of IPs
-- [Scrapingbee](https://github.com/apis-list/apis-list/blob/main/apis/scrapingbee/scrapingbee.md) - Scraping is hard, scraping at scale can be very challenging
+- [Scrapestack](https://github.com/apis-list/apis-list/blob/main/apis/scrapestack/scrapestack.md) - Use this proxy and web scraping REST API to extract html data from any web page, supporting 100 geolocations, CAPTCHAs and IP rotation for millions of IPs
+- [Scrapingbee](https://github.com/apis-list/apis-list/blob/main/apis/scrapingbee/scrapingbee.md) - Scraping is hard, scraping at scale can be very challenging.  
 - [Screenshot Machine](https://github.com/apis-list/apis-list/blob/main/apis/screenshot-machine/screenshot-machine.md) - Free screenshot api for capturing web pages
 - [Screenshotscloud](https://github.com/apis-list/apis-list/blob/main/apis/screenshotscloud/screenshotscloud.md) - With this screenshot API you can automate high quality real browser screenshots in seconds using reliable CDN backed queueless API service
 - [Spotify](https://github.com/apis-list/apis-list/blob/main/apis/spotify/spotify.md) - Let’s you search and lookup metadata about artists, tracks and albums
@@ -1984,13 +1837,13 @@ bunq is an anti-bank that is licenced to work in Europe
  ### Search 
 - [Bing Search API](https://github.com/apis-list/apis-list/blob/main/apis/bing-search-api/bing-search-api.md) - Add intelligent search to your app, combing hundreds of billions of webpages, images, videos, and news to provide relevant results with no ad requirements
 - [CityGrid](https://github.com/apis-list/apis-list/blob/main/apis/citygrid/citygrid.md) - Enables developers to create web and mobile applications that find local businesses, organizations, and points of interest by a variety of search criteria
-- [Datamuse API](https://github.com/apis-list/apis-list/blob/main/apis/datamuse-api/datamuse-api.md) - You can use it in your apps to find words that match a given set o
+- [Datamuse API](https://github.com/apis-list/apis-list/blob/main/apis/datamuse-api/datamuse-api.md) - Word-finding query engine that finds words that match a given set of constraints and that are likely in a given context
 - [Deezer](https://github.com/apis-list/apis-list/blob/main/apis/deezer/deezer.md) - Deezer API provides a nice set of services to build up web applications allowing the discovery of Deezer's music catalogue
 - [EAN-Search](https://github.com/apis-list/apis-list/blob/main/apis/ean-search/ean-search.md) - Search our EAN database with over 230 million products by EAN, UPC, ISBN or product name
 - [Faroo](https://github.com/apis-list/apis-list/blob/main/apis/faroo/faroo.md) - Alternative to Google Web Search API / Google News Search API, allows you to search news within dates, fetch trending news, topics and terms
 - [Foursquare API](https://github.com/apis-list/apis-list/blob/main/apis/foursquare-api/foursquare-api.md) - Gives you access to our world-class places database and the ability to interact with Foursquare users and merchants
 - [Freesound](https://github.com/apis-list/apis-list/blob/main/apis/freesound/freesound.md) - With the Freesound API you can browse, search, and retrieve information about Freesound users, packs, and the sounds themselves
-- [Furniture Store Data Api](https://github.com/apis-list/apis-list/blob/main/apis/furniture-store-data-api/furniture-store-data-api.md) - You will learn how to provide any type of data via api in seconds
+- [Furniture Store Data Api](https://github.com/apis-list/apis-list/blob/main/apis/furniture-store-data-api/furniture-store-data-api.md) - You will learn how to provide any type of data via api in seconds.  The great thing in this api is that it very simple to use and edit. The updated version of the API is also available at <a href='https://getrit. com</a>. The API is developed on C# and json. [{"ID":"1","TITLE":"Scott","Publishe_Date":"2/2/2","Modified_Date":"3/3/3","Image_Url":"noimage","TEXT":"about the topic"}]. com'>getrit. 0 and above
 - [Gnews](https://github.com/apis-list/apis-list/blob/main/apis/gnews/gnews.md) - GNews is an API to search for articles from a variety of sources, including Google News
 - [Google AdWords API](https://github.com/apis-list/apis-list/blob/main/apis/google-adwords-api/google-adwords-api.md) - A SOAP API that provides access to Google Ads accounts, campaigns, and reports
 - [Google Custom Search API](https://github.com/apis-list/apis-list/blob/main/apis/google-custom-search-api/google-custom-search-api.md) - With this API, you can use RESTful req
@@ -2008,13 +1861,11 @@ bunq is an anti-bank that is licenced to work in Europe
 - [Open Movie Database](https://github.com/apis-list/apis-list/blob/main/apis/open-movie-database/open-movie-database.md) - Attention Users 04/08/19 - Added support for eight digit IMDb IDs
 - [Petfinder](https://github.com/apis-list/apis-list/blob/main/apis/petfinder/petfinder.md) - Learn how to use our API to build your own website or applications backed by the same data we use on Petfinder
 - [Qmeta Global Search Engine](https://github.com/apis-list/apis-list/blob/main/apis/qmeta-global-search-engine/qmeta-global-search-engine.md) - RadSportRadar ist eine Übersichtskarte über alle gemeldeten Straßenschäden und Gefahrenstellen die so gravierend sind, dass sie zu einem Unfall führen könnten
-- [Quandl](https://github.com/apis-list/apis-list/blob/main/apis/quandl/quandl.md) - The source for financial, economic, and alternative datasets, serving investment professionals
-- [Scrapestack](https://github.com/apis-list/apis-list/blob/main/apis/scrapestack/scrapestack.md) - Use our proxy and web scraping REST API to extract html data from any web page, supporting 100 geolocations, CAPTCHAs and IP rotation for millions of IPs
+- [Scrapestack](https://github.com/apis-list/apis-list/blob/main/apis/scrapestack/scrapestack.md) - Use this proxy and web scraping REST API to extract html data from any web page, supporting 100 geolocations, CAPTCHAs and IP rotation for millions of IPs
 - [Shodan](https://github.com/apis-list/apis-list/blob/main/apis/shodan/shodan.md) - To ge
 - [Shutterstock](https://github.com/apis-list/apis-list/blob/main/apis/shutterstock/shutterstock.md) - Streamline user experience with the stock image, video, and music API trusted by Facebook, Google, Wix, and more
 - [Slack](https://github.com/apis-list/apis-list/blob/main/apis/slack/slack.md) - Slack APIs allow you to integrate complex services with Slack to go beyond the integrations we provide out of the box
 - [TMDb](https://github.com/apis-list/apis-list/blob/main/apis/tmdb/tmdb.md) - TMDb provides powerful searches as well as powerful movie discovery
-- [The Audio DB](https://github.com/apis-list/apis-list/blob/main/apis/theaudiodb/theaudiodb.md) - TheAudioDB is a community database of Music Artwork, Metadata and Charts with a free JSON Music API
 - [Unofficial Google News Api](https://github.com/apis-list/apis-list/blob/main/apis/unofficial-google-news-api/unofficial-google-news-api.md) - GNews is an API to search for articles from a variety of sources, including Google News
 - [Upwork](https://github.com/apis-list/apis-list/blob/main/apis/upwork/upwork.md) - reference The reference of the accounting transaction
 - [Visit Rank](https://github.com/apis-list/apis-list/blob/main/apis/visit-rank/visit-rank.md) - Get a rank for any of 385 million domains
@@ -2033,19 +1884,17 @@ bunq is an anti-bank that is licenced to work in Europe
 - [AlienVault Open Threat Exchange (OTX)](https://github.com/apis-list/apis-list/blob/main/apis/alienvault-open-threat-exchange-otx/alienvault-open-threat-exchange-otx.md) - Share and collaborate in developing threat intelligence
 - [BlockScore](https://github.com/apis-list/apis-list/blob/main/apis/blockscore/blockscore.md) - A real-time API for verifying an identity by name, address, date of birth, and social security number
 - [Box](https://github.com/apis-list/apis-list/blob/main/apis/box/box.md) - Explore the Box APIs and SDKs to use for app development,
-API documentation, developer support resources, and access
-the Box Developer Console
 - [CRXcavator](https://github.com/apis-list/apis-list/blob/main/apis/crxcavator/crxcavator.md) - These factors include permissions, inclusion of vulnerable third party javascript libraries, weak content security policies, missing details from the Chrome Web Store description, and more
 - [Censys.io](https://github.com/apis-list/apis-list/blob/main/apis/censys-io/censys-io.md) - Censys helps organizations, individuals, and researchers find and monitor every server on the Internet to reduce exposure and improve security
 - [Don't Kill My App](https://github.com/apis-list/apis-list/blob/main/apis/dont-kill-my-app/dont-kill-my-app.md) - Android vendors, don't kill my app! Contribute to urbandroid-team/dont-kill-my-app development by creating an account on GitHub
 - [FilterLists](https://github.com/apis-list/apis-list/blob/main/apis/filterlists/filterlists.md) - By Collin M
-- [Firebase](https://github.com/apis-list/apis-list/blob/main/apis/firebase/firebase.md) - Web reference View full API for JS Client
+- [Firebase](https://github.com/apis-list/apis-list/blob/main/apis/firebase/firebase.md) - Authentication, analytics, cloud messaging, crash reporting, ads and more
 - [FraudLabs Pro](https://github.com/apis-list/apis-list/blob/main/apis/fraudlabs-pro/fraudlabs-pro.md) - FraudLabs Pro Rest API to screen the order transaction for online fraud
 - [Google Safe Browsing](https://github.com/apis-list/apis-list/blob/main/apis/google-safe-browsing/google-safe-browsing.md) - APIs to access the Google Safe Browsing lists of unsafe web resources
 - [Google reCAPTCHA](https://github.com/apis-list/apis-list/blob/main/apis/google-recaptcha/google-recaptcha.md) - ReCAPTCHA lets you embed a CAPTCHA in your web pages in order to protect them against spam and other types of automated abuse
 - [HaveIBeenPwned](https://github.com/apis-list/apis-list/blob/main/apis/haveibeenpwned/haveibeenpwned.md) - Have I Been Pwned allows you to search across multiple data breaches to see if your email address has been compromised
 - [Intelligence X](https://github.com/apis-list/apis-list/blob/main/apis/intelligence-x/intelligence-x.md) - Public SDK for Intelligence X
-- [MAC address vendor lookup](https://github.com/apis-list/apis-list/blob/main/apis/mac-address-vendor-lookup/mac-address-vendor-lookup.md) - The MAC address API allows you to retrieve OUI vendor information, detect virtual machines, possible applications, read the information encoded in the MAC, and get our research's results regarding the given MAC address or the OUI
+- [MAC address vendor lookup](https://github.com/apis-list/apis-list/blob/main/apis/mac-address-vendor-lookup/mac-address-vendor-lookup.md) - The MAC address API allows you to retrieve OUI vendor information, detect virtual machines, possible applications, read the information encoded in the MAC, and get research's results regarding the given MAC address or the OUI
 - [Metacert](https://github.com/apis-list/apis-list/blob/main/apis/metacert/metacert.md) - MetaCert takes just 1 minute to install and reduces the risk of identity theft, data breaches, phishing, malware and ransomware attacks, by more than 98%
 - [Metadefnder Cloud API](https://github.com/apis-list/apis-list/blob/main/apis/metadefnder-cloud-api/metadefnder-cloud-api.md) - Metadefender Cloud provides unique set of APIs for everyone who is working with files post by users
 - [Monapi - Ip Address & Domain Api](https://github.com/apis-list/apis-list/blob/main/apis/monapi-ip-address-and-domain-api/monapi-ip-address-and-domain-api.md) - Our Anomaly API gives you IP & Domain Data for your Business
@@ -2062,7 +1911,7 @@ the Box Developer Console
 - [UK Police](https://github.com/apis-list/apis-list/blob/main/apis/uk-police/uk-police.md) - Police API Documentation The API provides a rich data source for information, including: Neighbourhood team members Upcoming events Street-level crime and outcome data Nearest police stations The A
 - [URLScan.io](https://github.com/apis-list/apis-list/blob/main/apis/urlscan-io/urlscan-io.md) - urlscan
 - [VirusTotal](https://github.com/apis-list/apis-list/blob/main/apis/virustotal/virustotal.md) - The VirusTotal API lets you upload and scan files or URLs, access finished scan reports and make automatic comments without the need of using the website interface
-- [Web Of Trust (WOT)](https://github.com/apis-list/apis-list/blob/main/apis/web-of-trust-wot/web-of-trust-wot.md) - As a result, before July 1, 2020, you will need to update your requests
+- [Web Of Trust (WOT)](https://github.com/apis-list/apis-list/blob/main/apis/web-of-trust-wot/web-of-trust-wot.md) - As a result, before July 1, 2020, you will need to update your requests. Please stand by, while we are checking your browser. Reputation API
 - [WebPurify](https://github.com/apis-list/apis-list/blob/main/apis/webpurify/webpurify.md) - Provides live image moderation by humans or AI-based image moderation service
 - [WorkOS](https://github.com/apis-list/apis-list/blob/main/apis/workos/workos.md) - Easily integrate Okta SAML, Google OAuth, and more
 - [Xposedornot Passwords](https://github.com/apis-list/apis-list/blob/main/apis/xposedornot-passwords/xposedornot-passwords.md) - XposedOrNot is a collection of ~850 million real time passwords collated from real time data breaches
@@ -2078,12 +1927,13 @@ the Box Developer Console
 - [Blogcast](https://github.com/apis-list/apis-list/blob/main/apis/blogcast/blogcast.md) - Generate audio versions of your articles
 - [Buffer](https://github.com/apis-list/apis-list/blob/main/apis/buffer/buffer.md) - Buffer makes it super easy to share any page you're reading
 - [Carro Score](https://github.com/apis-list/apis-list/blob/main/apis/carro-score/carro-score.md) - Carro makes finding influencers that love your brand easier than ever before
-- [Chat Messaging By Stream](https://github.com/apis-list/apis-list/blob/main/apis/chat-messaging-by-stream/chat-messaging-by-stream.md) - Stream's API and SDKs enable developers to build messaging solutions very quickly and reliably
+- [Chat Messaging By Stream](https://github.com/apis-list/apis-list/blob/main/apis/chat-messaging-by-stream/chat-messaging-by-stream.md) - Stream's API and SDKs enable developers to build messaging solutions very quickly and reliably. Drive in-app conversion, engagement, and retention while letting the Stream backend handle all the heavy lifting. 
 - [Cisco Spark](https://github.com/apis-list/apis-list/blob/main/apis/cisco-spark/cisco-spark.md) - Build the future of business collaboration with Webex! Learn more about the Webex API and SDKs to create the next great collaboration app on the Webex Platform
 - [Dailymotion](https://github.com/apis-list/apis-list/blob/main/apis/dailymotion/dailymotion.md) - Build applications centered around DailyMotion
 - [Danbooru](https://github.com/apis-list/apis-list/blob/main/apis/danbooru/danbooru.md) - Get images cartegorized by tags
 - [Delicious](https://github.com/apis-list/apis-list/blob/main/apis/delicious/delicious.md) - Access to Delicious’s API
 - [DeviantArt](https://github.com/apis-list/apis-list/blob/main/apis/deviantart/deviantart.md) - The largest social networking website for artists and art enthusiasts
+- [Dicebear Avatars](https://github.com/apis-list/apis-list/blob/main/apis/dicebear-avatars/dicebear-avatars.md) - Avatars is an avatar placeholder library for designers and developers
 - [Discord](https://github.com/apis-list/apis-list/blob/main/apis/discord/discord.md) - Integrate your service with Discord — whether it's a bot or a game or whatever your wildest imagination can come up with
 - [Disqus](https://github.com/apis-list/apis-list/blob/main/apis/disqus/disqus.md) - Disqus is a global comment system that improves discussion on websites and connects conversations across the web
 - [Dropbox](https://github.com/apis-list/apis-list/blob/main/apis/dropbox/dropbox.md) - Â De
@@ -2111,7 +1961,6 @@ the Box Developer Console
 - [Microlink](https://github.com/apis-list/apis-list/blob/main/apis/microlink/microlink.md) - Generate PDF from any website
 - [MySocialApp](https://github.com/apis-list/apis-list/blob/main/apis/mysocialapp/mysocialapp.md) - Build scalable news feed for your app
 - [NewsAPI](https://github.com/apis-list/apis-list/blob/main/apis/newsapi/newsapi.md) - Search worldwide news articles and headlines from all over the web in real-time with our free News API
-- [Next Big Sound](https://github.com/apis-list/apis-list/blob/main/apis/next-big-sound/next-big-sound.md) - 403 Forbidden Request forbidden by administrative rules
 - [Notepad Api - Simplenotes](https://github.com/apis-list/apis-list/blob/main/apis/notepad-api-simplenotes/notepad-api-simplenotes.md) - Share the notes with everyone you want
 - [Open Collective](https://github.com/apis-list/apis-list/blob/main/apis/open-collective/open-collective.md) - Learn more about it here: https://medium
 - [Pinterest](https://github.com/apis-list/apis-list/blob/main/apis/pinterest/pinterest.md) - Enables apps to view the most clicked-through or repinned Pins, view related posts, and user profiles
@@ -2127,7 +1976,7 @@ the Box Developer Console
 - [SoundCloud](https://github.com/apis-list/apis-list/blob/main/apis/soundcloud/soundcloud.md) - Using the SoundCloud API, you can build applications that take sound on the web to the next level
 - [Strava](https://github.com/apis-list/apis-list/blob/main/apis/strava/strava.md) - API for accessing and managing data about athletes, activities and segments
 - [Telegram](https://github.com/apis-list/apis-list/blob/main/apis/telegram/telegram.md) - We offer two kinds of APIs for developers
-- [Telegram Bot](https://github.com/apis-list/apis-list/blob/main/apis/telegram-bot/telegram-bot.md) - The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram
+- [Telegram Bot](https://github.com/apis-list/apis-list/blob/main/apis/telegram-bot/telegram-bot.md) - The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram. The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram. 
 - [Telegram MTProto](https://github.com/apis-list/apis-list/blob/main/apis/telegram-mtproto/telegram-mtproto.md) - The Bot API allows you to easily create programs that use Telegram messages for…
 - [Trash Nothing](https://github.com/apis-list/apis-list/blob/main/apis/trash-nothing/trash-nothing.md) - Developer API trash nothing! provides a REST API which allows developers to build apps on top of the trash nothing platform (with thousands of new posts every day and millions of users from around
 - [Tumblr](https://github.com/apis-list/apis-list/blob/main/apis/tumblr/tumblr.md) - Create new ways to use Tumblr with access to content, likes, followers, and drafts
@@ -2141,7 +1990,6 @@ the Box Developer Console
 - [Vimeo](https://github.com/apis-list/apis-list/blob/main/apis/vimeo/vimeo.md) - Unlock the power of video and join over 200M professionals, teams, and organizations who use Vimeo to create, collaborate and communicate
 - [Weibo](https://github.com/apis-list/apis-list/blob/main/apis/weibo/weibo.md) - 9 Block API [NEW]
 - [Whatsapp Document Interaction](https://github.com/apis-list/apis-list/blob/main/apis/whatsapp-document-interaction/whatsapp-document-interaction.md) - Універсальні посилання
- Універсальні посилання– пріоритетний спосіб надавання посилань на обліковий запис WhatsApp
 - [Windows Live Spaces API](https://github.com/apis-list/apis-list/blob/main/apis/windows-live-spaces-api/windows-live-spaces-api.md) - Included a blogging system, photo gallery, lists, friends, a guestbook, and a social profile
 - [Wordpress](https://github.com/apis-list/apis-list/blob/main/apis/wordpress/wordpress.md) - Languages: English • Русский • API 日本語 (Add your language) The WordPress API stands for the WordPress Application Programming Interface
 - [Yammer API](https://github.com/apis-list/apis-list/blob/main/apis/yammer-api/yammer-api.md) - Yammer Developer Site was created using ReadMe
@@ -2157,7 +2005,7 @@ the Box Developer Console
 - [arcsecond.io](https://github.com/apis-list/apis-list/blob/main/apis/arcsecond-io/arcsecond-io.md) - Unified REST APIs for world-wide astronomy data
  ### Sport & Fitness ⚾
 - [BikeWise](https://github.com/apis-list/apis-list/blob/main/apis/bikewise/bikewise.md) - Posting in the future we will accept incidents, r
-- [Broadage Sports Data Api](https://github.com/apis-list/apis-list/blob/main/apis/broadage-sports-data-api/broadage-sports-data-api.md) - Create your unique project or enrich your content with Broadage Sports real-time data feeds, the flexible and cost effective data solution in the market for more than 10 years, reaching out to millions of users
+- [Broadage Sports Data Api](https://github.com/apis-list/apis-list/blob/main/apis/broadage-sports-data-api/broadage-sports-data-api.md) - Create your unique project or enrich your content with Broadage Sports real-time data feeds, the flexible and cost effective data solution in the market for more than 10 years, reaching out to millions of users.  Broadage Sports real time data, developers portal includes global API details, global API technical docs, global API sports list
 - [Canadian Football League (CFL)](https://github.com/apis-list/apis-list/blob/main/apis/canadian-football-league-cfl/canadian-football-league-cfl.md) - CFL API Need assistance
 - [Cartola Fc](https://github.com/apis-list/apis-list/blob/main/apis/cartola-fc/cartola-fc.md) - The Cartola FC API serves to check the partial points of your team
 - [City Bikes](https://github.com/apis-list/apis-list/blob/main/apis/city-bikes/city-bikes.md) - citybik
@@ -2175,9 +2023,9 @@ the Box Developer Console
 - [NHL Records and Stats](https://github.com/apis-list/apis-list/blob/main/apis/nhl-records-and-stats/nhl-records-and-stats.md) - Documenting the publicly accessible portions of the NHL API
 - [Nfl Arrests](https://github.com/apis-list/apis-list/blob/main/apis/nfl-arrests/nfl-arrests.md) - NFL Arrest provides an interactive visualized database of National Football League player Arrests & Charges
 - [Nutritionix](https://github.com/apis-list/apis-list/blob/main/apis/nutritionix/nutritionix.md) - Already signed up and logged in? View your API key now
-- [Oddsapi](https://github.com/apis-list/apis-list/blob/main/apis/oddsapi/oddsapi.md) - All results are returned in easy-to-read JSON format
+- [Oddsapi](https://github.com/apis-list/apis-list/blob/main/apis/oddsapi/oddsapi.md) - Sports data API provides live and historical sports data from all around the world
 - [Open Food Facts](https://github.com/apis-list/apis-list/blob/main/apis/open-food-facts/open-food-facts.md) - Open Food Facts is a database of food products with ingredients, allergens, nutrition facts and all the tidbits of information we can find on product labels
-- [PandaScore](https://github.com/apis-list/apis-list/blob/main/apis/pandascore/pandascore.md) - Get events and detailed match data in real time from major league tournaments, or fetch data about players, tournaments, leagues, matches, teams and more !  Pandascore, the e-sports data and live API
+- [PandaScore](https://github.com/apis-list/apis-list/blob/main/apis/pandascore/pandascore.md) - Get events and detailed match data in real time from major league tournaments, or fetch data about players, tournaments, leagues, matches, teams and more
 - [Strava](https://github.com/apis-list/apis-list/blob/main/apis/strava/strava.md) - API for accessing and managing data about athletes, activities and segments
 - [SuredBits](https://github.com/apis-list/apis-list/blob/main/apis/suredbits/suredbits.md) - Lightning API for real-time and historical data feeds
 - [The Sports Db](https://github.com/apis-list/apis-list/blob/main/apis/the-sports-db/the-sports-db.md) - With the Sports DB API you can query teams, players in teams, player details, player contract details, and just about any player or team data from a broad range of sports (from soccer/football to handball)
@@ -2185,7 +2033,23 @@ the Box Developer Console
 - [Ufc Data](https://github.com/apis-list/apis-list/blob/main/apis/ufc-data/ufc-data.md) - Ultimate Fighting Championship information for events and fighters
 - [Wger](https://github.com/apis-list/apis-list/blob/main/apis/wger/wger.md) - de/api/v2/ Authentication Public endpoints, such as the list of exercises or the ingredients can be accessed with
 - [Withings](https://github.com/apis-list/apis-list/blob/main/apis/withings/withings.md) - Access to data from Withings activity trackers and body measures
-- [balldontlie](https://github.com/apis-list/apis-list/blob/main/apis/balldontlie/balldontlie.md) - Introduction Welcome to the balldontlie API! You can use our free API to access NBA related data
+- [balldontlie](https://github.com/apis-list/apis-list/blob/main/apis/balldontlie/balldontlie.md) - Access NBA related data
+ ### Statistics & Data 
+- [Archive.org](https://github.com/apis-list/apis-list/blob/main/apis/archive-org/archive-org.md) - The Internet Archive (the “Archive”) is a 501(c)(3) nonprofit organization committed to Universal Access of Knowledge
+- [Census.gov](https://github.com/apis-list/apis-list/blob/main/apis/census-gov/census-gov.md) - Access demographic, economic and population data from the U
+- [City Context](https://github.com/apis-list/apis-list/blob/main/apis/city-context/city-context.md) - Crime, school and transportation data for US cities
+- [Data Demograph](https://github.com/apis-list/apis-list/blob/main/apis/data-demograph/data-demograph.md) - Enrich your contact lists with intelligent demographics
+- [Data Science Toolkit](https://github.com/apis-list/apis-list/blob/main/apis/data-science-toolkit/data-science-toolkit.md) - A collection of the best open data sets and open-source tools for data science
+- [District of Columbia Open Data](https://github.com/apis-list/apis-list/blob/main/apis/district-of-columbia-open-data/district-of-columbia-open-data.md) - Goal is for this API is to be your platform for developing apps around DC’s freely available, machine readable data
+- [HouseCanary Analytics API](https://github.com/apis-list/apis-list/blob/main/apis/housecanary-analytics-api/housecanary-analytics-api.md) - Real estate investors and lenders can make decisions in seconds that used to take weeks, using the most accurate proprietary and public record data available
+- [Open Food Facts](https://github.com/apis-list/apis-list/blob/main/apis/open-food-facts/open-food-facts.md) - Open Food Facts is a database of food products with ingredients, allergens, nutrition facts and all the tidbits of information we can find on product labels
+- [PandaScore](https://github.com/apis-list/apis-list/blob/main/apis/pandascore/pandascore.md) - Get events and detailed match data in real time from major league tournaments, or fetch data about players, tournaments, leagues, matches, teams and more
+- [Prague Opendata](https://github.com/apis-list/apis-list/blob/main/apis/prague-opendata/prague-opendata.md) - Prague City Open Data
+- [The Audio DB](https://github.com/apis-list/apis-list/blob/main/apis/theaudiodb/theaudiodb.md) - TheAudioDB is a community database of Music Artwork, Metadata and Charts with a free JSON Music API
+- [TheSportsDB](https://github.com/apis-list/apis-list/blob/main/apis/thesportsdb/thesportsdb.md) - Various sports events, results, players, teams and high quality artwork
+- [UK Police](https://github.com/apis-list/apis-list/blob/main/apis/uk-police/uk-police.md) - Police API Documentation The API provides a rich data source for information, including: Neighbourhood team members Upcoming events Street-level crime and outcome data Nearest police stations The A
+- [USA Census API'S](https://github.com/apis-list/apis-list/blob/main/apis/usa-census-apis/usa-census-apis.md) - These data are currently used to distribute around $400 B in Federal, State and local funds in ways that help communities plan for schools, social and emergency services, highway improvements and economic developments
+- [USPTO](https://github.com/apis-list/apis-list/blob/main/apis/uspto/uspto.md) - United States patent and trademark office API
  ### Tasks 
 - [Todoist](https://github.com/apis-list/apis-list/blob/main/apis/todoist/todoist.md) - Todo Lists
 - [Trello](https://github.com/apis-list/apis-list/blob/main/apis/trello/trello.md) - You are being redirected
@@ -2193,11 +2057,15 @@ the Box Developer Console
 - [Bacon Ipsum](https://github.com/apis-list/apis-list/blob/main/apis/bacon-ipsum/bacon-ipsum.md) - JSON API for returning meaty lorem ipsum filler text
 - [CircleCI](https://github.com/apis-list/apis-list/blob/main/apis/circleci/circleci.md) - CircleCI V1 API Overview The CircleCI API is a full-featured RESTful API that allows you to access all information and trigger all actions in CircleCI
 - [Dicebear Avatars](https://github.com/apis-list/apis-list/blob/main/apis/dicebear-avatars/dicebear-avatars.md) - Avatars is an avatar placeholder library for designers and developers
+- [Dummyapi.Io](https://github.com/apis-list/apis-list/blob/main/apis/dummyapi-io/dummyapi-io.md) - Simple API that includes a common data for most of the applications
 - [FakeJSON](https://github.com/apis-list/apis-list/blob/main/apis/fakejson/fakejson.md) - Easily create custom HTTP resources complete with fake data
-- [JSONPlaceholder](https://github.com/apis-list/apis-list/blob/main/apis/jsonplaceholder/jsonplaceholder.md) - When to use JSONPlaceholder is a free online REST API that you can use whenever you need some fake data
+- [Faker API](https://github.com/apis-list/apis-list/blob/main/apis/faker-api/faker-api.md) - Generate fake data and get by REST API requests
+- [JSONPlaceholder](https://github.com/apis-list/apis-list/blob/main/apis/jsonplaceholder/jsonplaceholder.md) - Free online REST API that you can use whenever you need some fake data
 - [Lorempicsum](https://github.com/apis-list/apis-list/blob/main/apis/lorempicsum/lorempicsum.md) - Generate placeholder pictures
 - [Loripsum](https://github.com/apis-list/apis-list/blob/main/apis/loripsum/loripsum.md) - This Lorem Ipsum generator fits all your Lipsum needs! Come on over, make some Lipsum and copy-paste like a pro!
+- [PIPL API](https://github.com/apis-list/apis-list/blob/main/apis/pipl-api/pipl-api.md) - Free and public API that generates random and fake people's data in JSON
 - [PhantAuth](https://github.com/apis-list/apis-list/blob/main/apis/phantauth/phantauth.md) - Random User Generator + OpenID Connect Provider
+- [PlaceKitten](https://github.com/apis-list/apis-list/blob/main/apis/placekitten/placekitten.md) - A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code
 - [RandomUserGenerator](https://github.com/apis-list/apis-list/blob/main/apis/randomusergenerator/randomusergenerator.md) - Random user generator is a FREE API for generating placeholder user information
 - [ReqRes](https://github.com/apis-list/apis-list/blob/main/apis/reqres/reqres.md) - A hosted REST-API ready to respond to AJAX requests
 - [RoboHash](https://github.com/apis-list/apis-list/blob/main/apis/robohash/robohash.md) - Generate Unique images from any text Robohash is a easy web service that makes it easy to provide unique, robot/alien/monster/whatever images for any text
@@ -2206,8 +2074,7 @@ the Box Developer Console
 - [UI Names](https://github.com/apis-list/apis-list/blob/main/apis/ui-names/ui-names.md) - A simple tool to generate names for use in designs and mockups
 - [Yes No](https://github.com/apis-list/apis-list/blob/main/apis/yes-no/yes-no.md) - Yes or No
  ### Text 
-- [Bacon Ipsum](https://github.com/apis-list/apis-list/blob/main/apis/bacon-ipsum/bacon-ipsum.md) - JSON API for returning meaty lorem ipsum filler text
-- [Datamuse API](https://github.com/apis-list/apis-list/blob/main/apis/datamuse-api/datamuse-api.md) - You can use it in your apps to find words that match a given set o
+- [Datamuse API](https://github.com/apis-list/apis-list/blob/main/apis/datamuse-api/datamuse-api.md) - Word-finding query engine that finds words that match a given set of constraints and that are likely in a given context
 - [Digital Owl Free Text Classification Api](https://github.com/apis-list/apis-list/blob/main/apis/digital-owl-free-text-classification-api/digital-owl-free-text-classification-api.md) - Free for use text classification, sentiment analysis, semantic similarity and word analysis api
 - [Lexalytics](https://github.com/apis-list/apis-list/blob/main/apis/semantria/semantria.md) - Flexible natural language processing APIs and complete text analytics platform solutions for data analytics companies and data analyst teams
 - [Pastebin](https://github.com/apis-list/apis-list/blob/main/apis/pastebin/pastebin.md) - Pastebin is a website where you can store text online for a set period of time
@@ -2217,8 +2084,7 @@ the Box Developer Console
  ### Text Analysis 
 - [Aylien Text Analysis](https://github.com/apis-list/apis-list/blob/main/apis/aylien-text-analysis/aylien-text-analysis.md) - Explore AYLIEN’s advanced NLP APIs
 - [Cloudmersive Natural Language Processing](https://github.com/apis-list/apis-list/blob/main/apis/cloudmersive-natural-language-processing/cloudmersive-natural-language-processing.md) - Powerful Natural Language Processing APIs
-The most powerful and cost-effective NLP AI APIs, continuously updated
-- [Datamuse API](https://github.com/apis-list/apis-list/blob/main/apis/datamuse-api/datamuse-api.md) - You can use it in your apps to find words that match a given set o
+- [Datamuse API](https://github.com/apis-list/apis-list/blob/main/apis/datamuse-api/datamuse-api.md) - Word-finding query engine that finds words that match a given set of constraints and that are likely in a given context
 - [Deepaffects](https://github.com/apis-list/apis-list/blob/main/apis/deepaffects/deepaffects.md) - DeepAffects enables developers to analyze conversational audio by applying powerful machine learning models offered as a set of easy to use REST APIs
 - [Detect Language](https://github.com/apis-list/apis-list/blob/main/apis/detect-language/detect-language.md) - Detects 164 languages
 - [Digital Owl Free Text Classification Api](https://github.com/apis-list/apis-list/blob/main/apis/digital-owl-free-text-classification-api/digital-owl-free-text-classification-api.md) - Free for use text classification, sentiment analysis, semantic similarity and word analysis api
@@ -2241,8 +2107,7 @@ The most powerful and cost-effective NLP AI APIs, continuously updated
 - [languagelayer](https://github.com/apis-list/apis-list/blob/main/apis/languagelayer/languagelayer.md) - Free, powerful language detection JSON API for 173 languages, supporting single and batch requests, PHP, JavaScript, Python, Ruby, Java, and more
  ### Tools 
 - [API Platform](https://github.com/apis-list/apis-list/blob/main/apis/api-platform/api-platform.md) - REST and GraphQL framework on top of Symfony and React
-- [ApiFlash](https://github.com/apis-list/apis-list/blob/main/apis/apiflash/apiflash.md) - Chrome based screenshot API to convert URLs to images
-- [Bacon Ipsum](https://github.com/apis-list/apis-list/blob/main/apis/bacon-ipsum/bacon-ipsum.md) - JSON API for returning meaty lorem ipsum filler text
+- [ApiFlash](https://github.com/apis-list/apis-list/blob/main/apis/apiflash/apiflash.md) - Chrome based screenshot API to convert URLs to images.  ApiFlash is an easy to use screenshot API for developers.  It is powerful and
 - [CircleCI](https://github.com/apis-list/apis-list/blob/main/apis/circleci/circleci.md) - CircleCI V1 API Overview The CircleCI API is a full-featured RESTful API that allows you to access all information and trigger all actions in CircleCI
 - [Edamam nutrition & recipes](https://github.com/apis-list/apis-list/blob/main/apis/edamam-nutrition/edamam-nutrition.md) - API developer portal for Nutrition Analysis, Food Database Lookup, Recipe Search API and others
 - [Gender API](https://github.com/apis-list/apis-list/blob/main/apis/gender-api/gender-api.md) - Keep your registration forms simple
@@ -2266,7 +2131,7 @@ The most powerful and cost-effective NLP AI APIs, continuously updated
 - [Braille Api](https://github.com/apis-list/apis-list/blob/main/apis/braille-api/braille-api.md) - It is traditionally written with embossed paper
 - [Fun Translations API](https://github.com/apis-list/apis-list/blob/main/apis/fun-translations-api/fun-translations-api.md) - World's best fun translation tools via REST API
 - [Lang Api](https://github.com/apis-list/apis-list/blob/main/apis/lang-api/lang-api.md) - LangAPI exists to help developers rapidly translate and localize their apps for users worldwide
-- [Rushtranslate](https://github.com/apis-list/apis-list/blob/main/apis/rushtranslate/rushtranslate.md) - RushTranslate offers certified document translation services in over 60 languages provided by native speaking professionals
+- [Rushtranslate](https://github.com/apis-list/apis-list/blob/main/apis/rushtranslate/rushtranslate.md) - RushTranslate offers certified document translation services in over 60 languages provided by native speaking professionals. RushTranslate provides a REST API for human translation services allowing programmatic placement and management of orders.  Our API is perfect for high volume users who want to automate their workflow. 
 - [Shakespeare Translation Api](https://github.com/apis-list/apis-list/blob/main/apis/shakespeare-translation-api/shakespeare-translation-api.md) - Translate from English to Shakespeare English
 - [Starwars Translations Api](https://github.com/apis-list/apis-list/blob/main/apis/starwars-translations-api/starwars-translations-api.md) - Translate from imperial language ( English that is ) to one of the Starwars language
  ### Transportation 🚇
@@ -2292,7 +2157,7 @@ The most powerful and cost-effective NLP AI APIs, continuously updated
 - [Metro Lisboa](https://github.com/apis-list/apis-list/blob/main/apis/metro-lisboa/metro-lisboa.md) - Lisboa metro data
 - [NHTSA](https://github.com/apis-list/apis-list/blob/main/apis/nhtsa/nhtsa.md) - The NHTSA Product Information Catalog Vehicle Listing (vPIC) Application Programming Interface (API) provides different ways to gather information on Vehicles and their specifications
 - [Navitia](https://github.com/apis-list/apis-list/blob/main/apis/navitia/navitia.md) - The open API for building cool stuff with transport data
-- [Ola](https://github.com/apis-list/apis-list/blob/main/apis/ola/ola.md) - Ola is India’s most popular cab booking app with availability of rides in more than 100 cities across India
+- [Ola](https://github.com/apis-list/apis-list/blob/main/apis/ola/ola.md) - Ola is India’s most popular cab booking app with availability of rides in more than 100 cities across India. 
 - [Open Charge Map](https://github.com/apis-list/apis-list/blob/main/apis/open-charge-map/open-charge-map.md) - Open Charge Map is a non-commercial, non-profit, electric vehicle data service hosted and supported by a community of businesses, charities, developers and interested parties around the world
 - [Postmates](https://github.com/apis-list/apis-list/blob/main/apis/postmates/postmates.md) - Build on-demand delivery into your app or website
 - [Schiphol Airport](https://github.com/apis-list/apis-list/blob/main/apis/schiphol-airport/schiphol-airport.md) - Important notice Due to maintenance the Public Flight API v4 will be offline on dateFromMaintenance
@@ -2302,7 +2167,7 @@ The most powerful and cost-effective NLP AI APIs, continuously updated
 - [Transport For Minneapolis, Us](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-minneapolis-us/transport-for-minneapolis-us.md) - NexTrip API
 - [Transport For New York City, Us](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-new-york-city-us/transport-for-new-york-city-us.md) - MTA
 - [Transport For Ottawa, Canada](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-ottawa-canada/transport-for-ottawa-canada.md) - OC Transpo next bus arrival API
-- [Transport For Victoria, Au](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-victoria-au/transport-for-victoria-au.md) - This page is not yet available on the PTV Beta website
+- [Transport For Victoria, Au](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-victoria-au/transport-for-victoria-au.md) - This page is not yet available on the PTV Beta website. <br />
 - [Transport for Atlanta, US](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-atlanta-us/transport-for-atlanta-us.md) - marta
 - [Transport for Auckland, New Zealand](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-auckland-new-zealand/transport-for-auckland-new-zealand.md) - Welcome to the Auckland Transport Developer Portal
 - [Transport for Belgium](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-belgium/transport-for-belgium.md) - API Caveat lector: you want to use a data dump? Don’t harvest our entire API, please just use our datadump in GTFS which you can find here: We are also working on datadumps which give you the delay
@@ -2313,7 +2178,7 @@ The most powerful and cost-effective NLP AI APIs, continuously updated
 - [Transport for Chicago, US](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-chicago-us/transport-for-chicago-us.md) - The CTA's Developer Center offers a variety of data feeds that allow anyone to develop Web, mobile and other applications to help transit riders throughout the Chicago area
 - [Transport for Czech Republic](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-czech-republic/transport-for-czech-republic.md) - CHAPS spol
 - [Transport for Denver, US](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-denver-us/transport-for-denver-us.md) - All passengers are required to wear face masks on RTD services
-- [Transport for Finland](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-finland/transport-for-finland.md) - Route planning algorithms and APIs…
+- [Transport for Finland](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-finland/transport-for-finland.md) - Route planning algorithms and APIs…. Digitransit Platform is an open source journey planning solution that combines several open source components into a
 - [Transport for Germany](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-germany/transport-for-germany.md) - Diese API stellt Fahrplandaten, im ersten Schritt den SOLL-Fahrplan des Fernverkehrs, zur VerfÃ¼gung
 - [Transport for Grenoble, France](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-grenoble-france/transport-for-grenoble-france.md) - mobilites-m, c'est le service unique qui regroupe toutes vos informations de déplacement sur l'aire grenobloise
 - [Transport for Honolulu, US](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-honolulu-us/transport-for-honolulu-us.md) - « Return to TheBusHEA Web Services API The Web API (Application Programming Interface) allows a developer to access our real-time AVL data
@@ -2407,7 +2272,7 @@ The most powerful and cost-effective NLP AI APIs, continuously updated
  ### Video & Media 
 - [Acoustid](https://github.com/apis-list/apis-list/blob/main/apis/acoustid/acoustid.md) - Web Service The AcoustID web service currently supports only two operations, searching in the fingerprint database and submitting new fingerprints into the database
 - [An API of Ice And Fire](https://github.com/apis-list/apis-list/blob/main/apis/an-api-of-ice-and-fire/an-api-of-ice-and-fire.md) - The API is open source! Contribute directly to the API by writing code, documentation or posting bugs!
-- [ApiFlash](https://github.com/apis-list/apis-list/blob/main/apis/apiflash/apiflash.md) - Chrome based screenshot API to convert URLs to images
+- [ApiFlash](https://github.com/apis-list/apis-list/blob/main/apis/apiflash/apiflash.md) - Chrome based screenshot API to convert URLs to images.  ApiFlash is an easy to use screenshot API for developers.  It is powerful and
 - [Braille Api](https://github.com/apis-list/apis-list/blob/main/apis/braille-api/braille-api.md) - It is traditionally written with embossed paper
 - [Breaking Bad & Better Call Saul API](https://github.com/apis-list/apis-list/blob/main/apis/breaking-bad-and-better-call-saul-api/breaking-bad-and-better-call-saul-api.md) - Get data about characters, episodes, quotes, and deaths
 - [Breaking Bad Quotes](https://github.com/apis-list/apis-list/blob/main/apis/breaking-bad-quotes/breaking-bad-quotes.md) - A free API to retrieve some quotes of Breaking Bad, bitch!
@@ -2485,14 +2350,13 @@ The most powerful and cost-effective NLP AI APIs, continuously updated
 - [AirVisual](https://github.com/apis-list/apis-list/blob/main/apis/airvisual/airvisual.md) - Enhance your projects with free trusted historical, real-time and forecast air quality data
 - [Climacell Micro Weather](https://github.com/apis-list/apis-list/blob/main/apis/climacell-micro-weather/climacell-micro-weather.md) - Historical, real-time and nowcast weather data
 - [Dark Sky](https://github.com/apis-list/apis-list/blob/main/apis/dark-sky/dark-sky.md) - Weather
-- [GeoNames](https://github.com/apis-list/apis-list/blob/main/apis/geonames/geonames.md) - Important: Do not use the 'demo' account for your app or your tests
 - [MetaWeather](https://github.com/apis-list/apis-list/blob/main/apis/metaweather/metaweather.md) - API MetaWeather provides an API that delivers JSON over HTTPS for access to our data
 - [Meteorologisk Institutt](https://github.com/apis-list/apis-list/blob/main/apis/meteorologisk-institutt/meteorologisk-institutt.md) - A
 - [NOAA Climate Data](https://github.com/apis-list/apis-list/blob/main/apis/noaa-climate-data/noaa-climate-data.md) - Climate Data Online (CDO) provides free access to NCDC's archive of global historical weather and climate data in addition to station history information
 - [ODWeather](https://github.com/apis-list/apis-list/blob/main/apis/odweather/odweather.md) - Weather for boating
-- [Open Weather](https://github.com/apis-list/apis-list/blob/main/apis/open-weather/open-weather.md) - Simple and fast and free weather API from OpenWeatherMap you have access to current weather data, hourly, 5- and 16-day forecasts
+- [Open Weather](https://github.com/apis-list/apis-list/blob/main/apis/open-weather/open-weather.md) - Simple and fast and free weather API from OpenWeatherMap you have access to current weather data, hourly, 5- and 16-day forecasts.  Historical weather data for 40 years back for any coordinate.  Weather maps, UV Index, air pollution
 - [OpenUV](https://github.com/apis-list/apis-list/blob/main/apis/openuv/openuv.md) - The missing minimalistic JSON real-time UV Index API for awesome Developers, Innovators and Smart Home Enthusiasts you've been looking for
-- [OpenWeatherMap](https://github.com/apis-list/apis-list/blob/main/apis/openweathermap/openweathermap.md) - Simple and fast and free weather API from OpenWeatherMap you have access to current weather data, hourly, 5- and 16-day forecasts
+- [OpenWeatherMap](https://github.com/apis-list/apis-list/blob/main/apis/openweathermap/openweathermap.md) - Simple and fast and free weather API from OpenWeatherMap you have access to current weather data, hourly, 5- and 16-day forecasts. Simple and fast and free weather API from OpenWeatherMap you have access to current weather data, hourly, 5- and 16-day forecasts. Historical weather data for 40 years back for any coordinate. Weather maps, UV Index, air pollution
 - [Storm Glass Marine Weather API](https://github.com/apis-list/apis-list/blob/main/apis/storm-glass-marine-weather-api/storm-glass-marine-weather-api.md) - Read More
 - [Visual Crossing Weather Api](https://github.com/apis-list/apis-list/blob/main/apis/visual-crossing-weather-api/visual-crossing-weather-api.md) - Weather API for businesses & data science
 - [Weather Source](https://github.com/apis-list/apis-list/blob/main/apis/weather-source/weather-source.md) - Powerful Weather API built for systems that demand speed, reliability and heavy load
@@ -2502,29 +2366,32 @@ The most powerful and cost-effective NLP AI APIs, continuously updated
  ### Webhooks 
 - [Cronofy](https://github.com/apis-list/apis-list/blob/main/apis/cronofy/cronofy.md) - Our Scheduler lets you share your availability with contacts no matter what application you use
 - [Facebook API](https://github.com/apis-list/apis-list/blob/main/apis/facebook-api/facebook-api.md) - Helps developers build, grow and monetize their business
-- [Getscreenshot By Rasterwise](https://github.com/apis-list/apis-list/blob/main/apis/getscreenshot-by-rasterwise/getscreenshot-by-rasterwise.md) - A successful request to the API will return a simple JSON that includes a URL pointing to the resulting screen capture
+- [Getscreenshot By Rasterwise](https://github.com/apis-list/apis-list/blob/main/apis/getscreenshot-by-rasterwise/getscreenshot-by-rasterwise.md) - A successful request to the API will return a simple JSON that includes a URL pointing to the resulting screen capture.  GetScreenshot is an affordable and highly scalable screenshot API service, with integrated rendering customization and workflows like email and webhooks. GetScreenshot is a powerful programmable API that allows you to do screenshot operations at scale and for less than the existing solutions. 
 - [Google App Engine API](https://github.com/apis-list/apis-list/blob/main/apis/google-app-engine-api/google-app-engine-api.md) - Build scalable web and mobile backends in any language on Google’s infrastructure
 - [Twilio](https://github.com/apis-list/apis-list/blob/main/apis/twilio/twilio.md) - APIs for SMS, Voice, Video and more
 - [Twilio API](https://github.com/apis-list/apis-list/blob/main/apis/twilio-api/twilio-api.md) - Send SMS super easy, API Documentation & Libraries for SMS, VoIP & Voice
  ### Wiki 
 - [Genius](https://github.com/apis-list/apis-list/blob/main/apis/genius/genius.md) - Allows users to find details about Genius artists and songs
-- [Wikipedia](https://github.com/apis-list/apis-list/blob/main/apis/wikipedia/wikipedia.md) - Documentation and examples: https://www
+- [Wikidata](https://github.com/apis-list/apis-list/blob/main/apis/wikidata/wikidata.md) - This is an auto-generated MediaWiki API documentation page
+- [Wikipedia](https://github.com/apis-list/apis-list/blob/main/apis/wikipedia/wikipedia.md) - Free multilingual Encyclopedia
 - [Wikipedia API](https://github.com/apis-list/apis-list/blob/main/apis/wikipedia-api/wikipedia-api.md) - While we try to avoid it, we may occasionally need to make breaking changes; subscrib
  ### Worldwide 
 - [Aadhaar Bridge](https://github.com/apis-list/apis-list/blob/main/apis/aadhaar-bridge/aadhaar-bridge.md) - Aadhaar is a 12-digit unique identification number issued by the Indian government to every individual resident of India
 - [Africa's Talking](https://github.com/apis-list/apis-list/blob/main/apis/africas-talking/africas-talking.md) - A unified API platform for software developers in Africa building SMS, USSD, Voice, Payments and Airtime applications
 - [Car Registration Api](https://github.com/apis-list/apis-list/blob/main/apis/car-registration-api/car-registration-api.md) - Get the Make, Model, Insurer, VIN and 50 other data fields from an Australian number plate (rego)
 - [CountryAPI](https://github.com/apis-list/apis-list/blob/main/apis/countryapi/countryapi.md) - A Rest Api of simple country information that you need
-- [Czech Namedays Calendar](https://github.com/apis-list/apis-list/blob/main/apis/czech-namedays-calendar/czech-namedays-calendar.md) - Svátky API Vám řekne kdo má kdy svátek, nebo kdy má kdo svátek
+- [Czech Namedays Calendar](https://github.com/apis-list/apis-list/blob/main/apis/czech-namedays-calendar/czech-namedays-calendar.md) - Czech Holidays API
 - [Exchange Rates API](https://github.com/apis-list/apis-list/blob/main/apis/exchange-rates-api/exchange-rates-api.md) - com is the most popular place to securely buy, store, and trade Bitcoin, Ethereum, and other top cryptocurrencies
-- [French Address Search](https://github.com/apis-list/apis-list/blob/main/apis/french-address-search/french-address-search.md) - Cherchez des adresses et lieux-dits
+- [French Address Search](https://github.com/apis-list/apis-list/blob/main/apis/french-address-search/french-address-search.md) - Find addresses and localities in France
+- [GeoNames](https://github.com/apis-list/apis-list/blob/main/apis/geonames/geonames.md) - The GeoNames geographical database covers all countries and contains over eleven million placenames that are available for download free of charge
 - [Holiday API](https://github.com/apis-list/apis-list/blob/main/apis/holiday-api/holiday-api.md) - Start developing for free
 - [Holidays](https://github.com/apis-list/apis-list/blob/main/apis/holidays/holidays.md) - Don't let sourcing and maintaining holiday information get in the way of building your product
 - [Indian Railways](https://github.com/apis-list/apis-list/blob/main/apis/indian-railways/indian-railways.md) - Indian Railways Information
 - [Lettria](https://github.com/apis-list/apis-list/blob/main/apis/lettria/lettria.md) - LETTRIA est un outil de traitement du langage naturel (NLP) dédié à la compréhension du français
-- [Ola](https://github.com/apis-list/apis-list/blob/main/apis/ola/ola.md) - Ola is India’s most popular cab booking app with availability of rides in more than 100 cities across India
+- [Ola](https://github.com/apis-list/apis-list/blob/main/apis/ola/ola.md) - Ola is India’s most popular cab booking app with availability of rides in more than 100 cities across India. 
 - [One Map, Singapore](https://github.com/apis-list/apis-list/blob/main/apis/one-map-singapore/one-map-singapore.md) - ####
 - [Orange SMS API](https://github.com/apis-list/apis-list/blob/main/apis/orange-sms-api/orange-sms-api.md) - The SMS Service,allows you to send and receive text messages, of up to 160 characters, to and from a mobile phone
+- [Prague Opendata](https://github.com/apis-list/apis-list/blob/main/apis/prague-opendata/prague-opendata.md) - Prague City Open Data
 - [REST Countries](https://github.com/apis-list/apis-list/blob/main/apis/rest-countries/rest-countries.md) - Get information about countries via a RESTful API
 - [Transport For Madrid, Spain](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-madrid-spain/transport-for-madrid-spain.md) - Madrid BUS transport API
 - [UK Police](https://github.com/apis-list/apis-list/blob/main/apis/uk-police/uk-police.md) - Police API Documentation The API provides a rich data source for information, including: Neighbourhood team members Upcoming events Street-level crime and outcome data Nearest police stations The A
@@ -2533,8 +2400,9 @@ The most powerful and cost-effective NLP AI APIs, continuously updated
 - [Yandex](https://github.com/apis-list/apis-list/blob/main/apis/yandex/yandex.md) - Maps and the necessary tools for working it on your web app or site
 - [Zomato](https://github.com/apis-list/apis-list/blob/main/apis/zomato/zomato.md) - Zomato API
  ### Writing 
-- [Datamuse API](https://github.com/apis-list/apis-list/blob/main/apis/datamuse-api/datamuse-api.md) - You can use it in your apps to find words that match a given set o
+- [Datamuse API](https://github.com/apis-list/apis-list/blob/main/apis/datamuse-api/datamuse-api.md) - Word-finding query engine that finds words that match a given set of constraints and that are likely in a given context
 - [Medium](https://github.com/apis-list/apis-list/blob/main/apis/medium/medium.md) - Documentation for Medium's OAuth2 API
+- [Scoop.it](https://github.com/apis-list/apis-list/blob/main/apis/scoop-it/scoop-it.md) - Enables professionals and businesses to research and publish content through its content curation tool
 
 
 ## Graveyard 🪦
@@ -2553,6 +2421,7 @@ The most powerful and cost-effective NLP AI APIs, continuously updated
 - [Count.Io](https://github.com/apis-list/apis-list/blob/main/apis/count-io/count-io.md) - Persistent counting and A/B testing
 - [Cricket Live Scores](https://github.com/apis-list/apis-list/blob/main/apis/cricket-live-scores/cricket-live-scores.md) - Live cricket scores
 - [Cryptostandardizer](https://github.com/apis-list/apis-list/blob/main/apis/cryptostandardizer/cryptostandardizer.md) - Standardize crypto coin symbols (eg
+- [Datakick](https://github.com/apis-list/apis-list/blob/main/apis/datakick/datakick.md) - The open product database
 - [Del.Icio.Us API](https://github.com/apis-list/apis-list/blob/main/apis/del-icio-us-api/del-icio-us-api.md) - Keep, share, and discover the best of the Web using Delicious, the world's leading social bookmarking service
 - [Delion.Io](https://github.com/apis-list/apis-list/blob/main/apis/delion-io/delion-io.md) - A powerful API for developers and companies to explore and develop new apps based on IOTA distributed ledger technology
 - [ERMAHGERD Translator](https://github.com/apis-list/apis-list/blob/main/apis/ermahgerd-translator/ermahgerd-translator.md) - This translates text to ERMAHGERD
@@ -2579,6 +2448,7 @@ The most powerful and cost-effective NLP AI APIs, continuously updated
 - [Myjson](https://github.com/apis-list/apis-list/blob/main/apis/myjson/myjson.md) - A simple JSON store for your web or mobile app
 - [NanoSDK](https://github.com/apis-list/apis-list/blob/main/apis/nanosdk/nanosdk.md) - 
 - [News Feed Search](https://github.com/apis-list/apis-list/blob/main/apis/news-feed-search/news-feed-search.md) - Free news search API
+- [Next Big Sound API](https://github.com/apis-list/apis-list/blob/main/apis/next-big-sound/next-big-sound.md) - Next Big Sound helps artists and their teams use Pandora to understand performance, grow audiences, and fuel strategy
 - [Notable And Quotable Random Quote](https://github.com/apis-list/apis-list/blob/main/apis/notable-and-quotable-random-quote/notable-and-quotable-random-quote.md) - Gets you a random quote from famous movies in XML,SOAP format
 - [Path Tech Crypto API](https://github.com/apis-list/apis-list/blob/main/apis/path-tech-crypto-api/path-tech-crypto-api.md) - Single interface to retrieve transactions across crypto exchanges and wallets
 - [Pixhost](https://github.com/apis-list/apis-list/blob/main/apis/pixhost/pixhost.md) - Upload images, photos, galleries

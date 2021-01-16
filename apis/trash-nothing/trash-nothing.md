@@ -9,8 +9,7 @@ Developer API trash nothing! provides a REST API which allows developers to buil
 **Docs / Website**: https://trashnothing.com/developer
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -24,3 +23,5 @@ Developer API trash nothing! provides a REST API which allows developers to buil
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

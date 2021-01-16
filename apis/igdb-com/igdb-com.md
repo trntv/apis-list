@@ -7,8 +7,7 @@ Video Game database on demand! Images, info video and other data you can retriev
 **Docs / Website**: https://api.igdb.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -20,3 +19,5 @@ Video Game database on demand! Images, info video and other data you can retriev
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

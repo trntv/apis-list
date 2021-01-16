@@ -7,8 +7,7 @@ geoPlugin is a free, fast and reliable Geolocation Webservice API to locate your
 **Docs / Website**: https://www.geoplugin.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ geoPlugin is a free, fast and reliable Geolocation Webservice API to locate your
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

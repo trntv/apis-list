@@ -7,8 +7,7 @@ From both the universe, and more. Biography. Powerstats. Connections.  Images.  
 **Docs / Website**: https://superheroapi.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ From both the universe, and more. Biography. Powerstats. Connections.  Images.  
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

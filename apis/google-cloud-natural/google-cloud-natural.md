@@ -9,8 +9,7 @@ Enables easy integration of Google natural language understanding technologies i
 **Docs / Website**: https://cloud.google.com/natural-language/docs/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ Enables easy integration of Google natural language understanding technologies i
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

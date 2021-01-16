@@ -9,8 +9,7 @@ While we try to avoid it, we may occasionally need to make breaking changes; sub
 **Docs / Website**: https://www.mediawiki.org/wiki/API
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ While we try to avoid it, we may occasionally need to make breaking changes; sub
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

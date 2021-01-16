@@ -9,8 +9,7 @@ Find the best shipping rates, integrate with e-commerce platforms, print shippin
 **Docs / Website**: https://goshippo.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -23,3 +22,5 @@ Find the best shipping rates, integrate with e-commerce platforms, print shippin
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

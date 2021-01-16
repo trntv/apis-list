@@ -7,8 +7,7 @@ The API is open source! Contribute directly to the API by writing code, document
 **Docs / Website**: https://anapioficeandfire.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ The API is open source! Contribute directly to the API by writing code, document
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

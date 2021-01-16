@@ -9,8 +9,7 @@ Search changelogs from open source projects, or use the REST API for a parsed JS
 **Docs / Website**: https://changelogs.md
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Search changelogs from open source projects, or use the REST API for a parsed JS
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

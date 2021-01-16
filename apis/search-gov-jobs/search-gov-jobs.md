@@ -7,8 +7,7 @@ gov • Terms of Service • Site Policies • D. Tap into a list of current job
 **Docs / Website**: https://search.gov/developer/jobs.html
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ gov • Terms of Service • Site Policies • D. Tap into a list of current job
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

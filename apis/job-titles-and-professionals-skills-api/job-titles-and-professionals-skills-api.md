@@ -9,8 +9,7 @@ Like job and skill match etc.  The API is growing every day thanks to the mycru.
 **Docs / Website**: https://mycru.io/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Like job and skill match etc.  The API is growing every day thanks to the mycru.
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,8 +9,7 @@ Build a clearer picture of your customers in minutes with our data-focused APIs.
 **Docs / Website**: https://www.fullcontact.com/developer/docs/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Build a clearer picture of your customers in minutes with our data-focused APIs.
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

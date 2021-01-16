@@ -7,18 +7,19 @@ Upgrade to Hostinger By upgrading to premium hosting you will unlock all availab
 **Docs / Website**: https://jesusapi.000webhostapp.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Images](https://github.com/apis-list/apis-list#images)
+- [Random](https://github.com/apis-list/apis-list#random)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 - [Religion](https://github.com/apis-list/apis-list#religion)
 - [Development](https://github.com/apis-list/apis-list#development)
-- [Random](https://github.com/apis-list/apis-list#random)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

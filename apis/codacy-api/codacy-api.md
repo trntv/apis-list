@@ -7,16 +7,17 @@
 **Docs / Website**: https://api.codacy.com/swagger
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
 - [Development](https://github.com/apis-list/apis-list#development)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

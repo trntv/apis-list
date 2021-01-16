@@ -7,8 +7,7 @@
 **Docs / Website**: http://www.pm25.in/api_doc
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

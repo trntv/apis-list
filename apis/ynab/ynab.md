@@ -9,8 +9,7 @@ Introduction Hello Developers Welcome to the YNAB API! (If you aren't a develope
 **Docs / Website**: https://api.youneedabudget.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Introduction Hello Developers Welcome to the YNAB API! (If you aren't a develope
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,8 +9,7 @@ Home page for water resources information from the US Geological Survey.  Home p
 **Docs / Website**: https://waterservices.usgs.gov/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Home page for water resources information from the US Geological Survey.  Home p
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

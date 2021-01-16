@@ -7,8 +7,7 @@ A Remake of the original api, using the MERN stack
 **Docs / Website**: https://www.swapi.tech/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ A Remake of the original api, using the MERN stack
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ With this API you’ll be able to craft your own experiences using the same APIs
 **Docs / Website**: https://developer.haloapi.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -20,3 +19,5 @@ With this API you’ll be able to craft your own experiences using the same APIs
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

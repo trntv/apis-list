@@ -9,8 +9,7 @@ Centralized package to get data from qq, xiami, netease music - LIU9293/musicAPI
 **Docs / Website**: https://github.com/LIU9293/musicAPI
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Centralized package to get data from qq, xiami, netease music - LIU9293/musicAPI
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

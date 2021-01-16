@@ -7,8 +7,7 @@ Discover open source libraries, modules and frameworks you can use in your code.
 **Docs / Website**: https://libraries.io/api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Discover open source libraries, modules and frameworks you can use in your code.
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

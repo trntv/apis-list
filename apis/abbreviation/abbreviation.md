@@ -9,15 +9,16 @@ Get abbreviations and meanings
 **Docs / Website**: https://market.mashape.com/daxeel/abbreviations
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Data](https://github.com/apis-list/apis-list#data)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

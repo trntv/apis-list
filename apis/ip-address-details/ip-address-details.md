@@ -7,8 +7,7 @@ We're the trusted source for IP address information, handling 20 billion IP geol
 **Docs / Website**: https://ipinfo.io/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ We're the trusted source for IP address information, handling 20 billion IP geol
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

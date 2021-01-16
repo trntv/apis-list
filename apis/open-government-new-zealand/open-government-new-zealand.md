@@ -9,8 +9,7 @@ govt. nz provides access to guidance, standards, and data from New Zealand gover
 **Docs / Website**: https://www.data.govt.nz/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ govt. nz provides access to guidance, standards, and data from New Zealand gover
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

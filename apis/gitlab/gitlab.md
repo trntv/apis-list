@@ -9,18 +9,19 @@ Access to GitLab's API.  Documentation for GitLab Community Edition, GitLab Ente
 **Docs / Website**: https://docs.gitlab.com/ce/api/README.html
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
-- [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 - [Open Source](https://github.com/apis-list/apis-list#open-source)
 - [Project Management](https://github.com/apis-list/apis-list#project-management)
+- [Development](https://github.com/apis-list/apis-list#development)
+- [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,8 +9,7 @@ This is a full RESTful API linked to an extensive database detailing everything 
 **Docs / Website**: https://pokeapi.co/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ This is a full RESTful API linked to an extensive database detailing everything 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ Recipe Puppy API Recipe Puppy has a very simple API.  This api lets you search t
 **Docs / Website**: http://www.recipepuppy.com/about/api/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Recipe Puppy API Recipe Puppy has a very simple API.  This api lets you search t
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

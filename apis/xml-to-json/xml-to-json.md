@@ -7,8 +7,7 @@ Integration developer utility APIs. By API Name [Default] By API Provider [ Synt
 **Docs / Website**: https://developers.wso2apistore.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Integration developer utility APIs. By API Name [Default] By API Provider [ Synt
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

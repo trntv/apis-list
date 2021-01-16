@@ -7,8 +7,7 @@ Providing a places search that can be searched by hierarchical list of categorie
 **Docs / Website**: https://developer.foursquare.com/overview/venues
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Providing a places search that can be searched by hierarchical list of categorie
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

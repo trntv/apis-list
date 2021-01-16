@@ -9,19 +9,20 @@ SmartQ is an technology company founded in 2017 with the intention of providing 
 **Docs / Website**: https://keyserv.solutions
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
-- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot--home-automation)
 - [Hardware](https://github.com/apis-list/apis-list#hardware)
 - [Products](https://github.com/apis-list/apis-list#products)
 - [Payments](https://github.com/apis-list/apis-list#payments)
+- [Development](https://github.com/apis-list/apis-list#development)
+- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot--home-automation)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ Allows you to check in to a place
 **Docs / Website**: https://developer.foursquare.com/docs/checkins/add
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -20,3 +19,5 @@ Allows you to check in to a place
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

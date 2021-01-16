@@ -7,8 +7,7 @@ This Hearthstone API provides up to date Hearthstone data pulled directly from t
 **Docs / Website**: http://hearthstoneapi.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -20,3 +19,5 @@ This Hearthstone API provides up to date Hearthstone data pulled directly from t
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

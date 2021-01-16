@@ -7,8 +7,7 @@ Check what's the latest version of your favorite open-source project.  無効な
 **Docs / Website**: https://verse.pawelad.xyz/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Check what's the latest version of your favorite open-source project.  無効な
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

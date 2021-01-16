@@ -9,8 +9,7 @@ A public service API all about cat pictures.  A public service API all about Cat
 **Docs / Website**: https://TheCatAPI.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ A public service API all about cat pictures.  A public service API all about Cat
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

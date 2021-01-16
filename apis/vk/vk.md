@@ -9,8 +9,7 @@ Additionally, you may use the VK API to control much of the functionality on the
 **Docs / Website**: https://vk.com/dev
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ Additionally, you may use the VK API to control much of the functionality on the
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

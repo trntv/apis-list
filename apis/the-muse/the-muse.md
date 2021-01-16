@@ -9,8 +9,7 @@ Check out our easy-to-use and public API to provide job and company listings.  C
 **Docs / Website**: https://www.themuse.com/developers/api/v2
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Check out our easy-to-use and public API to provide job and company listings.  C
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

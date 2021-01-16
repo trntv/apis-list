@@ -9,8 +9,7 @@ The AniList GraphQL Api provides quick and powerful access to over 500k anime an
 **Docs / Website**: https://github.com/AniList/ApiV2-GraphQL-Docs
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ The AniList GraphQL Api provides quick and powerful access to over 500k anime an
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

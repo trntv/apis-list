@@ -7,8 +7,7 @@ Monetize across platforms with multiple ad formats.  Mobile Ads Monetize your gl
 **Docs / Website**: https://developer.amazon.com/mobile-ads
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Monetize across platforms with multiple ad formats.  Mobile Ads Monetize your gl
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

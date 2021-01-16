@@ -7,8 +7,7 @@ Full featured Jokes API
 **Docs / Website**: https://jokes.one/api/joke/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -20,3 +19,5 @@ Full featured Jokes API
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

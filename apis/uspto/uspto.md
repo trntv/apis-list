@@ -7,8 +7,7 @@ United States patent and trademark office API
 **Docs / Website**: https://www.uspto.gov/learning-and-resources/open-data-and-mobility
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -16,7 +15,9 @@ United States patent and trademark office API
 
 ## 🗄️ Categories:
 - [Government](https://github.com/apis-list/apis-list#government)
-- [Data](https://github.com/apis-list/apis-list#data)
+- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

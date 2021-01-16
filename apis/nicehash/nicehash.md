@@ -7,8 +7,7 @@ Largest Crypto Mining Marketplace
 **Docs / Website**: https://www.nicehash.com/doc-api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Largest Crypto Mining Marketplace
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

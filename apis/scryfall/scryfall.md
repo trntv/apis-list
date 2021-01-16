@@ -9,16 +9,17 @@ Scryfall is a powerful Magic: The Gathering card search
 **Docs / Website**: https://scryfall.com/docs/api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Games](https://github.com/apis-list/apis-list#games)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

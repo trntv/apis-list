@@ -9,8 +9,7 @@ Learn how to use our API to build your own website or applications backed by the
 **Docs / Website**: https://www.petfinder.com/developers/v2/docs/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ Learn how to use our API to build your own website or applications backed by the
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

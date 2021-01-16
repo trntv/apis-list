@@ -7,8 +7,7 @@ All of the poets and gods in the Rig Veda, presented with the mandal and sukta n
 **Docs / Website**: https://aninditabasu.github.io/indica/html/rv.html
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ All of the poets and gods in the Rig Veda, presented with the mandal and sukta n
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,8 +9,7 @@ A simple API to request a user's real-time approval on any device or platform vi
 **Docs / Website**: https://approveapi.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ A simple API to request a user's real-time approval on any device or platform vi
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ Use one simple API call to generate screenshots of any website. Use this screens
 **Docs / Website**: https://screenshotapi.net
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Use one simple API call to generate screenshots of any website. Use this screens
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

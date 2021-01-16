@@ -9,8 +9,7 @@ The API discussed here is an interface to the MusicBrainz Database. It is aimed 
 **Docs / Website**: https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ The API discussed here is an interface to the MusicBrainz Database. It is aimed 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

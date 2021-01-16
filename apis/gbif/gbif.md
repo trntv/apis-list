@@ -7,8 +7,7 @@ Please refer to the documentation on the GBIF website. If you arrived here unexp
 **Docs / Website**: http://api.gbif.org/v1/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Please refer to the documentation on the GBIF website. If you arrived here unexp
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

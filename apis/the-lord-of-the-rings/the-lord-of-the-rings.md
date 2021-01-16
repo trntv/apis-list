@@ -7,8 +7,7 @@ The Lord of the Rings API - The one API
 **Docs / Website**: https://the-one-api.dev/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ The Lord of the Rings API - The one API
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ The requested URL was rejected. Please consult with your administrator. Your sup
 **Docs / Website**: https://data.gov.in/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ The requested URL was rejected. Please consult with your administrator. Your sup
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

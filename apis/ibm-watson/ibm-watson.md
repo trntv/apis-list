@@ -9,8 +9,7 @@ Build and train models, and create apps, with a trusted AI-infused platform. Off
 **Docs / Website**: https://developer.ibm.com/watson/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Build and train models, and create apps, with a trusted AI-infused platform. Off
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,16 +9,17 @@ Let’s you get most recent and historical crime data so you feel safe in your n
 **Docs / Website**: http://labs.hamptonroads.com/api/crime/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Data](https://github.com/apis-list/apis-list#data)
 - [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
+- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

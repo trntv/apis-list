@@ -9,8 +9,7 @@ Access Clan Search, Global and Local Leaderboards, Clan and Player Profiles and 
 **Docs / Website**: https://developer.clashofclans.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ Access Clan Search, Global and Local Leaderboards, Clan and Player Profiles and 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

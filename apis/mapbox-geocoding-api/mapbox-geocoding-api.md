@@ -7,8 +7,7 @@ The Mapbox Geocoding API does forward geocoding (search place names and return c
 **Docs / Website**: https://docs.mapbox.com/api/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -20,3 +19,5 @@ The Mapbox Geocoding API does forward geocoding (search place names and return c
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

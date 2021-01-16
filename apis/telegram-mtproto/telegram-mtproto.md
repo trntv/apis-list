@@ -7,8 +7,7 @@ The Bot API allows you to easily create programs that use Telegram messages forâ
 **Docs / Website**: https://core.telegram.org/api#getting-started
 
 ## ðŸ§¬ Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## ðŸ’¬ Discussion:
@@ -19,3 +18,5 @@ The Bot API allows you to easily create programs that use Telegram messages forâ
 
 
 
+
+[ðŸ”™ Back to List](https://github.com/apis-list/apis-list)

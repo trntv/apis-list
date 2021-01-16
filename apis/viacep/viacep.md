@@ -7,8 +7,7 @@ Webservice gratuito para pesquisa de endereço via CEP, suporta Ajax e retorno n
 **Docs / Website**: https://viacep.com.br
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Webservice gratuito para pesquisa de endereço via CEP, suporta Ajax e retorno n
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

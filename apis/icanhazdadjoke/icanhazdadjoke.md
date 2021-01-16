@@ -9,8 +9,7 @@ The largest collection of dad jokes on the internet. The largest collection of d
 **Docs / Website**: https://icanhazdadjoke.com/api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -23,3 +22,5 @@ The largest collection of dad jokes on the internet. The largest collection of d
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

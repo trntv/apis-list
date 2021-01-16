@@ -9,8 +9,7 @@ Skills API.  Contribute to workforce-data-initiative/skills-api development by c
 **Docs / Website**: https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Skills API.  Contribute to workforce-data-initiative/skills-api development by c
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

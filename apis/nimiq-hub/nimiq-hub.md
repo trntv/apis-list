@@ -9,16 +9,17 @@ To get direct support from the Nimiq Team and the community, join our social cha
 **Docs / Website**: https://nimiq.github.io/hub/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
 - [Payments](https://github.com/apis-list/apis-list#payments)
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

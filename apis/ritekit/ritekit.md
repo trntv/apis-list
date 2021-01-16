@@ -9,8 +9,7 @@ Looking for hashtag suggestions, analytics, trend data, influencers of a hashtag
 **Docs / Website**: https://ritekit.com/api-demo/auto-hashtag
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Looking for hashtag suggestions, analytics, trend data, influencers of a hashtag
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

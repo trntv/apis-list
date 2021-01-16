@@ -9,8 +9,7 @@ A Rest Api of simple country information that you need. Gets all the countries, 
 **Docs / Website**: https://fabian7593.github.io/CountryAPI/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ A Rest Api of simple country information that you need. Gets all the countries, 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

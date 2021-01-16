@@ -9,8 +9,7 @@ Create a chart image with one API call and embed it anywhere. Send charts in ema
 **Docs / Website**: https://quickchart.io
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -18,7 +17,8 @@ Create a chart image with one API call and embed it anywhere. Send charts in ema
 
 ## 🗄️ Categories:
 - [Visualizations](https://github.com/apis-list/apis-list#visualizations)
-- [Data](https://github.com/apis-list/apis-list#data)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

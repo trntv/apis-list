@@ -9,8 +9,7 @@ Feedbin API Documentation. Contribute to feedbin/feedbin-api development by crea
 **Docs / Website**: https://github.com/feedbin/feedbin-api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Feedbin API Documentation. Contribute to feedbin/feedbin-api development by crea
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

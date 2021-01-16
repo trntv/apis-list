@@ -7,8 +7,7 @@ XposedOrNot is a collection of ~850 million real time passwords collated from re
 **Docs / Website**: https://xposedornot.com/api_doc
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ XposedOrNot is a collection of ~850 million real time passwords collated from re
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

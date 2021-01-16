@@ -7,8 +7,7 @@ NextBus API
 **Docs / Website**: http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ NextBus API
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

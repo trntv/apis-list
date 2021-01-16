@@ -9,8 +9,7 @@ This is an auto-generated MediaWiki API documentation page. Documentation and ex
 **Docs / Website**: https://en.wiktionary.org/w/api.php
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ This is an auto-generated MediaWiki API documentation page. Documentation and ex
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -8,20 +8,21 @@ To learn how to create…
 **Docs / Website**: https://core.telegram.org/bots/api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging)
-- [Mobile](https://github.com/apis-list/apis-list#mobile)
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Bots](https://github.com/apis-list/apis-list#bots)
 - [Cloud](https://github.com/apis-list/apis-list#cloud)
 - [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
+- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging)
+- [Mobile](https://github.com/apis-list/apis-list#mobile)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

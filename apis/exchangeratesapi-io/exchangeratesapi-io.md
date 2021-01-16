@@ -7,8 +7,7 @@ Exchange rates API is a free service for current and historical foreign exchange
 **Docs / Website**: https://exchangeratesapi.io/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Exchange rates API is a free service for current and historical foreign exchange
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

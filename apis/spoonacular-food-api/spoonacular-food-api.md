@@ -7,8 +7,7 @@ The only Food API you'll ever need. Spoonacular offers its food parsing, matchin
 **Docs / Website**: https://spoonacular.com/food-api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ The only Food API you'll ever need. Spoonacular offers its food parsing, matchin
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ Scraper. AI is a no-code data extraction tool that allows you to extract data fr
 **Docs / Website**: https://docs.scraper.ai/#/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Scraper. AI is a no-code data extraction tool that allows you to extract data fr
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

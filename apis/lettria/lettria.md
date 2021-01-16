@@ -9,8 +9,7 @@ LETTRIA est un outil de traitement du langage naturel (NLP) dédié à la compr�
 **Docs / Website**: https://lettria.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ LETTRIA est un outil de traitement du langage naturel (NLP) dédié à la compr�
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

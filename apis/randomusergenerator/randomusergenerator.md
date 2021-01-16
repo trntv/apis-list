@@ -7,8 +7,7 @@ Random user generator is a FREE API for generating placeholder user information.
 **Docs / Website**: https://randomuser.me/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Random user generator is a FREE API for generating placeholder user information.
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

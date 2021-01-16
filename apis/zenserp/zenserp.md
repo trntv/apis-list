@@ -9,17 +9,18 @@ Our fast & reliable SERP API enables you to scrape search results in realtime an
 **Docs / Website**: https://zenserp.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo)
 - [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
 - [Search](https://github.com/apis-list/apis-list#search)
+- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,8 +9,7 @@ Brewdog's DIY Dog as a searchable, filterable API. Brewdog's DIY Dog as a search
 **Docs / Website**: https://punkapi.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Brewdog's DIY Dog as a searchable, filterable API. Brewdog's DIY Dog as a search
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,8 +9,7 @@ Make it convenient for your users to sign in with their professional identity.  
 **Docs / Website**: https://developer.linkedin.com/docs/signin-with-linkedin
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -23,3 +22,5 @@ Make it convenient for your users to sign in with their professional identity.  
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,8 +9,7 @@ Contents1 What Is Placeholder. com?2 How To Use Our Placeholders3 How To Set Ima
 **Docs / Website**: https://placehold.it/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Contents1 What Is Placeholder. com?2 How To Use Our Placeholders3 How To Set Ima
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

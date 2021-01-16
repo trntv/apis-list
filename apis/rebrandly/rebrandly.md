@@ -7,8 +7,7 @@ Copy-and-paste in your application/script to create a custom short URL:. Copy-an
 **Docs / Website**: https://developers.rebrandly.com/v1/docs
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Copy-and-paste in your application/script to create a custom short URL:. Copy-an
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

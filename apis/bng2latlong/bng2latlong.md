@@ -9,8 +9,7 @@ Simple API to convert an OSGB36 easting and northing (British National Grid) to 
 **Docs / Website**: https://www.getthedata.com/bng2latlong
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -18,8 +17,9 @@ Simple API to convert an OSGB36 easting and northing (British National Grid) to 
 
 ## 🗄️ Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
-- [Data](https://github.com/apis-list/apis-list#data)
 - [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

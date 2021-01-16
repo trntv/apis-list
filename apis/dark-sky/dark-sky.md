@@ -7,8 +7,7 @@ Weather. We are no longer accepting new signups.
 **Docs / Website**: https://darksky.net/dev
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Weather. We are no longer accepting new signups.
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

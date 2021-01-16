@@ -7,8 +7,7 @@ Sample XML response Sample JSON response
 **Docs / Website**: http://www.penguinrandomhouse.biz/webservices/rest/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Sample XML response Sample JSON response
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

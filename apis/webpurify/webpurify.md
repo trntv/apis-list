@@ -7,8 +7,7 @@ Provides live image moderation by humans or AI-based image moderation service.
 **Docs / Website**: https://www.webpurify.com/image-moderation/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -16,8 +15,10 @@ Provides live image moderation by humans or AI-based image moderation service.
 
 ## 🗄️ Categories:
 - [Security](https://github.com/apis-list/apis-list#security)
-- [Images](https://github.com/apis-list/apis-list#images)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ Detect the hosting provider powering any web site. API
 **Docs / Website**: https://www.who-hosts-this.com/API
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Detect the hosting provider powering any web site. API
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

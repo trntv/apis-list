@@ -9,8 +9,7 @@ With this API, you can use RESTful req. Create a search engine for your website,
 **Docs / Website**: https://developers.google.com/custom-search/v1/overview
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ With this API, you can use RESTful req. Create a search engine for your website,
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

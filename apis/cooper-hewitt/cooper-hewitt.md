@@ -7,8 +7,7 @@ Cooper Hewitt, Smithsonian Design Museum Collections provides a REST-ish style a
 **Docs / Website**: https://collection.cooperhewitt.org/api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Cooper Hewitt, Smithsonian Design Museum Collections provides a REST-ish style a
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,16 +9,17 @@
 **Docs / Website**: https://docs.onemap.sg/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 - [Worldwide](https://github.com/apis-list/apis-list#worldwide)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

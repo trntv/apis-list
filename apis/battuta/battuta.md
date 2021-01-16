@@ -7,8 +7,7 @@ Country Region City. Country Region City
 **Docs / Website**: http://battuta.medunes.net
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Country Region City. Country Region City
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

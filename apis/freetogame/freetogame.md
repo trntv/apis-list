@@ -7,8 +7,7 @@ Free-to-play games database API.  Free-To-Play Games Database API Create using t
 **Docs / Website**: https://www.freetogame.com/api-doc
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Free-to-play games database API.  Free-To-Play Games Database API Create using t
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

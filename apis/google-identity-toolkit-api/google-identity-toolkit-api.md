@@ -9,8 +9,7 @@ Enable users to sign into apps and authorize apps to use Google services
 **Docs / Website**: https://developers.google.com/identity/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Enable users to sign into apps and authorize apps to use Google services
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

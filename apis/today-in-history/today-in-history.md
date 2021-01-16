@@ -7,8 +7,7 @@ Database of historical events
 **Docs / Website**: https://history.muffinlabs.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Database of historical events
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

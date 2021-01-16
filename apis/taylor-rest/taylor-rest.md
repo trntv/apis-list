@@ -7,8 +7,7 @@ A Taylor Swift REST API, written in Deno
 **Docs / Website**: https://taylor.rest
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ A Taylor Swift REST API, written in Deno
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

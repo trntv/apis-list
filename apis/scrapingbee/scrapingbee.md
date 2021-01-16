@@ -15,8 +15,7 @@ ScrapingBee is a simple API that does all the above for you. It is truly the mos
 **Docs / Website**: https://www.scrapingbee.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -27,3 +26,5 @@ ScrapingBee is a simple API that does all the above for you. It is truly the mos
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

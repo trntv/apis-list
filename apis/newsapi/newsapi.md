@@ -9,19 +9,20 @@ Search worldwide news articles and headlines from all over the web in real-time 
 **Docs / Website**: https://newsapi.org/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Social](https://github.com/apis-list/apis-list#social)
-- [Search](https://github.com/apis-list/apis-list#search)
-- [Images](https://github.com/apis-list/apis-list#images)
 - [Metadata](https://github.com/apis-list/apis-list#metadata)
 - [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
+- [Social](https://github.com/apis-list/apis-list#social)
+- [Search](https://github.com/apis-list/apis-list#search)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

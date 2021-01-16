@@ -3,25 +3,24 @@
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/geonames/logo_256x256.png" alt="GeoNames Logo"/>
 </p>
 
-Important: Do not use the 'demo' account for your app or your tests. It is only meant for the sample links on the docu. GeoNames Web Services Documentation GeoNames is mainly using REST webservices
+The GeoNames geographical database covers all countries and contains over eleven million placenames that are available for download free of charge.
 
 ##  🔗 Links
 **Docs / Website**: http://www.geonames.org/export/web-services.html
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Weather](https://github.com/apis-list/apis-list#weather)
-- [Reference](https://github.com/apis-list/apis-list#reference)
-- [Databases](https://github.com/apis-list/apis-list#databases)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 - [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics)
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

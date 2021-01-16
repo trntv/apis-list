@@ -9,8 +9,7 @@ Rapidly integrate authentication and authorization for web, mobile, and legacy a
 **Docs / Website**: https://auth0.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Rapidly integrate authentication and authorization for web, mobile, and legacy a
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

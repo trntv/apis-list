@@ -9,8 +9,7 @@ National Plan & Provider Enumeration System, info on healthcare providers regist
 **Docs / Website**: https://npiregistry.cms.hhs.gov/registry/help-api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ National Plan & Provider Enumeration System, info on healthcare providers regist
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

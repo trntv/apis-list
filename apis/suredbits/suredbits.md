@@ -7,8 +7,7 @@ Lightning API for real-time and historical data feeds. Lightning API for real-ti
 **Docs / Website**: https://suredbits.com/api/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Lightning API for real-time and historical data feeds. Lightning API for real-ti
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

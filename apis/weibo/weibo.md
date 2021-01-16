@@ -7,8 +7,7 @@
 **Docs / Website**: http://open.weibo.com/wiki/API%E6%96%87%E6%A1%A3/en
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

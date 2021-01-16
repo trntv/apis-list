@@ -9,8 +9,7 @@ Broadage Sports provides comprehensive sports data API solutions for your projec
 **Docs / Website**: https://www.broadage.com/developers/global-api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Broadage Sports provides comprehensive sports data API solutions for your projec
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,8 +9,7 @@ Our endpoints include face detection (detect 1 or multiple faces), face matching
 **Docs / Website**: https://trueface.ai/sign-up
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Our endpoints include face detection (detect 1 or multiple faces), face matching
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

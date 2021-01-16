@@ -7,8 +7,7 @@ Welcome Please note this is an early release of our API and should be considered
 **Docs / Website**: https://developer.gitter.im/docs/welcome
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Welcome Please note this is an early release of our API and should be considered
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

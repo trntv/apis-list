@@ -7,8 +7,7 @@ ANN provides a direct feed to the Encyclopedia data in XML format
 **Docs / Website**: https://www.animenewsnetwork.com/encyclopedia/api.php
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ ANN provides a direct feed to the Encyclopedia data in XML format
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

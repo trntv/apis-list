@@ -9,8 +9,7 @@ This Lorem Ipsum generator fits all your Lipsum needs! Come on over, make some L
 **Docs / Website**: http://loripsum.net/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -18,7 +17,9 @@ This Lorem Ipsum generator fits all your Lipsum needs! Come on over, make some L
 
 ## 🗄️ Categories:
 - [Testing](https://github.com/apis-list/apis-list#testing)
-- [Data](https://github.com/apis-list/apis-list#data)
+- [Development](https://github.com/apis-list/apis-list#development)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

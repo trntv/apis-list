@@ -9,8 +9,7 @@ Build Voice, SMS, Fax, Networking and Cellular IoT applications on a private, pu
 **Docs / Website**: https://developers.telnyx.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Build Voice, SMS, Fax, Networking and Cellular IoT applications on a private, pu
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

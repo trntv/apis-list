@@ -9,18 +9,18 @@ A quick and simple service for getting pictures of kittens for use as placeholde
 **Docs / Website**: https://placekitten.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Testing](https://github.com/apis-list/apis-list#testing)
 - [Animals](https://github.com/apis-list/apis-list#animals)
-- [Art & Design](https://github.com/apis-list/apis-list#art--design)
-- [Fun](https://github.com/apis-list/apis-list#fun)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

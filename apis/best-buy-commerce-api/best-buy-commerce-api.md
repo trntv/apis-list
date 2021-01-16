@@ -9,8 +9,7 @@ Allows companies to conduct commerce with Best Buy services within their own e-c
 **Docs / Website**: https://developer.bestbuy.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ Allows companies to conduct commerce with Best Buy services within their own e-c
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

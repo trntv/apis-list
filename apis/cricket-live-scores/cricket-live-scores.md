@@ -9,8 +9,7 @@ Live cricket scores
 **Docs / Website**: https://market.mashape.com/dev132/cricket-live-scores
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Live cricket scores
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

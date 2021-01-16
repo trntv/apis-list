@@ -7,8 +7,7 @@ Connect your B2B eCommerce solution with 40+ shopping platforms and marketplaces
 **Docs / Website**: https://api2cart.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Connect your B2B eCommerce solution with 40+ shopping platforms and marketplaces
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

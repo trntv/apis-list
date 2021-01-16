@@ -7,8 +7,7 @@ Upcoming Space Launches
 **Docs / Website**: https://ll.thespacedevs.com/2.1.0/swagger
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Upcoming Space Launches
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

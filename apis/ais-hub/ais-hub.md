@@ -7,8 +7,7 @@ AISHub members have access to AISHub aggregated AIS data via our API and receive
 **Docs / Website**: http://www.aishub.net/api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ AISHub members have access to AISHub aggregated AIS data via our API and receive
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

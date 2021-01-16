@@ -9,8 +9,7 @@ An API all about dogs.  A public service API all about Dogs, free to use when ma
 **Docs / Website**: https://thedogapi.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ An API all about dogs.  A public service API all about Dogs, free to use when ma
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,8 +9,7 @@ Gather and compare all kinds of interesting data, they weren't really interactiv
 **Docs / Website**: 
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -23,3 +22,5 @@ Gather and compare all kinds of interesting data, they weren't really interactiv
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

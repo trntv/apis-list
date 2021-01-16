@@ -7,8 +7,7 @@ D&D 5th Edition SRD API. D&D 5th Edition SRD API
 **Docs / Website**: http://www.dnd5eapi.co/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ D&D 5th Edition SRD API. D&D 5th Edition SRD API
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

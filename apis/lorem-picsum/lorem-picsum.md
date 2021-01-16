@@ -9,17 +9,18 @@ Lorem Ipsum, but for photos.
 **Docs / Website**: https://picsum.photos/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Photography](https://github.com/apis-list/apis-list#photography)
 - [Art & Design](https://github.com/apis-list/apis-list#art--design)
 - [Random](https://github.com/apis-list/apis-list#random)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

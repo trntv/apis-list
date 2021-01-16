@@ -7,8 +7,7 @@ about “Terms of Service; Didn't Read” (short: ToS;DR) is a project started i
 **Docs / Website**: https://tosdr.org/api.html
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ about “Terms of Service; Didn't Read” (short: ToS;DR) is a project started i
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

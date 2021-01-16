@@ -1,14 +1,13 @@
 # CartoDB
 
 
-Allows you to generate maps based on data hosted in your CartoDB account.  Documentation - CARTO
+Allows you to generate maps based on data hosted in your CartoDB account.
 
 ##  🔗 Links
 **Docs / Website**: https://carto.com/developers/#apis
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -16,8 +15,8 @@ Allows you to generate maps based on data hosted in your CartoDB account.  Docum
 
 ## 🗄️ Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
-- [Data](https://github.com/apis-list/apis-list#data)
-- [Databases](https://github.com/apis-list/apis-list#databases)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

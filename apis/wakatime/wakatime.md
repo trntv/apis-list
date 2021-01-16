@@ -9,8 +9,7 @@ Developer reference documentation for the WakaTime API.  Developer reference doc
 **Docs / Website**: https://wakatime.com/developers
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Developer reference documentation for the WakaTime API.  Developer reference doc
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

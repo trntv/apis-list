@@ -7,8 +7,7 @@ INSPIRE API Q: I want to do automated searching and receive machine readable res
 **Docs / Website**: https://inspirehep.net/info/hep/api?ln=en
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ INSPIRE API Q: I want to do automated searching and receive machine readable res
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

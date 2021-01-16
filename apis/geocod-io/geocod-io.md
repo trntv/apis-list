@@ -9,8 +9,7 @@ Geocode spreadsheets or use our API - without restrictions. Geocode spreadsheets
 **Docs / Website**: https://www.geocod.io/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Geocode spreadsheets or use our API - without restrictions. Geocode spreadsheets
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

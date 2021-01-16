@@ -7,8 +7,7 @@ IPFS API Upload files, pin hashes, and send pubsub messages using our proprietar
 **Docs / Website**: https://gateway.temporal.cloud/ipns/docs.api.temporal.cloud
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ IPFS API Upload files, pin hashes, and send pubsub messages using our proprietar
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

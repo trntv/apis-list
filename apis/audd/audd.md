@@ -9,8 +9,7 @@ AudD Music Recognition API Docs: how to identify songs in audio using our API
 **Docs / Website**: https://docs.audd.io/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -25,3 +24,5 @@ AudD Music Recognition API Docs: how to identify songs in audio using our API
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

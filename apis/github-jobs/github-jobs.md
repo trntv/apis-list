@@ -7,8 +7,7 @@ The GitHub Jobs API allows you to search, and view jobs with JSON over HTTP.  To
 **Docs / Website**: https://jobs.github.com/api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ The GitHub Jobs API allows you to search, and view jobs with JSON over HTTP.  To
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ A-to-B routing with turn-by-turn instructions
 **Docs / Website**: https://graphhopper.com/api/1/docs/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ A-to-B routing with turn-by-turn instructions
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

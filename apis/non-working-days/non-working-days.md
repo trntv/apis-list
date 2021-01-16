@@ -9,8 +9,7 @@ Open repository of non-working days ics files. Open repository of non-working da
 **Docs / Website**: https://github.com/gadael/icsdb
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Open repository of non-working days ics files. Open repository of non-working da
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ Free IP Geolocation API with no registration required.  15000 requests per hour 
 **Docs / Website**: https://freegeoip.app/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Free IP Geolocation API with no registration required.  15000 requests per hour 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

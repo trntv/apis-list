@@ -9,16 +9,17 @@ com API makes it dead simple to convert and transcode a vast array of media into
 **Docs / Website**: https://docs.gifs.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Images](https://github.com/apis-list/apis-list#images)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 - [Video & Media](https://github.com/apis-list/apis-list#video--media)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

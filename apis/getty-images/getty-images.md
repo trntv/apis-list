@@ -7,18 +7,19 @@ Page moved here.  Page moved here
 **Docs / Website**: http://developers.gettyimages.com/en/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Video & Media](https://github.com/apis-list/apis-list#video--media)
 - [Art & Design](https://github.com/apis-list/apis-list#art--design)
 - [Photography](https://github.com/apis-list/apis-list#photography)
-- [Images](https://github.com/apis-list/apis-list#images)
-- [Video & Media](https://github.com/apis-list/apis-list#video--media)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

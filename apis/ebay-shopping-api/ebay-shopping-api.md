@@ -7,8 +7,7 @@ If you're interested in . Offers access to public read-only data such as searchi
 **Docs / Website**: http://developer.ebay.com/Devzone/shopping/docs/Concepts/ShoppingAPIGuide.html
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ If you're interested in . Offers access to public read-only data such as searchi
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

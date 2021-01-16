@@ -7,8 +7,7 @@ Generate placeholder pictures. The web host lorempicsum. com does not exist
 **Docs / Website**: http://lorempicsum.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Generate placeholder pictures. The web host lorempicsum. com does not exist
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

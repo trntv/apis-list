@@ -9,17 +9,18 @@ Node. Node. js server for providing Ron Swanson quotes. Contribute to jamesseanw
 **Docs / Website**: https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Fun](https://github.com/apis-list/apis-list#fun)
 - [Video & Media](https://github.com/apis-list/apis-list#video--media)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

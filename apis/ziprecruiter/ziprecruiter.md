@@ -9,8 +9,7 @@ Learn why 1,000s of PARTNERS, PUBLISHERS, and AFFILIATES use our jobs API, email
 **Docs / Website**: https://www.ziprecruiter.com/publishers
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Learn why 1,000s of PARTNERS, PUBLISHERS, and AFFILIATES use our jobs API, email
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,8 +9,7 @@ MyAnimeList.net official API
 **Docs / Website**: https://myanimelist.net/clubs.php?cid=13727
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ MyAnimeList.net official API
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

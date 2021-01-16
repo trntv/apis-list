@@ -7,8 +7,7 @@ Reliable data, accurate forecast, & global coverage in 80 languages
 **Docs / Website**: https://www.wunderground.com/weather/api/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Reliable data, accurate forecast, & global coverage in 80 languages
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

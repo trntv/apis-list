@@ -9,8 +9,7 @@ NYC Open Data helps New Yorkers use and learn about City data. NYC Open Data hel
 **Docs / Website**: https://opendata.cityofnewyork.us/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ NYC Open Data helps New Yorkers use and learn about City data. NYC Open Data hel
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

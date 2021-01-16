@@ -8,8 +8,7 @@ and unified data APIs to cryptocurrency markets. All cryptocurrency exchanges in
 **Docs / Website**: https://docs.coinapi.io/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -20,3 +19,5 @@ and unified data APIs to cryptocurrency markets. All cryptocurrency exchanges in
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

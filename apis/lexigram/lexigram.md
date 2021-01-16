@@ -7,8 +7,7 @@ io.  Document, mock, test, and more, with the StopLight API Designer. Hosted API
 **Docs / Website**: https://docs.lexigram.io/v1/welcome
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -20,3 +19,5 @@ io.  Document, mock, test, and more, with the StopLight API Designer. Hosted API
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

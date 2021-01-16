@@ -7,8 +7,7 @@ Wargaming Games API. Stats, Matches, Data
 **Docs / Website**: https://developers.wargaming.net/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -20,3 +19,5 @@ Wargaming Games API. Stats, Matches, Data
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

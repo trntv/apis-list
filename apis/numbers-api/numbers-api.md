@@ -9,8 +9,7 @@ Numbers. Number of the day, random number generation , number facts and anything
 **Docs / Website**: https://math.tools/api/numbers/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ Numbers. Number of the day, random number generation , number facts and anything
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,8 +9,7 @@ Recipe Search
 **Docs / Website**: https://food2fork.com/about/api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Recipe Search
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

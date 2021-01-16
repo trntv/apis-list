@@ -9,8 +9,7 @@ Crawl and scrape websites without the need of proxies, infrastructure or browser
 **Docs / Website**: https://proxycrawl.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -23,3 +22,5 @@ Crawl and scrape websites without the need of proxies, infrastructure or browser
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

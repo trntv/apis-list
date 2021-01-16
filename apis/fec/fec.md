@@ -7,8 +7,7 @@ Information on campaign donations in federal elections
 **Docs / Website**: https://api.open.fec.gov/developers/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Information on campaign donations in federal elections
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

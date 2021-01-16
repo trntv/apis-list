@@ -9,8 +9,7 @@ Vainglory Players, Matches and Telemetry
 **Docs / Website**: https://developer.vainglorygame.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Vainglory Players, Matches and Telemetry
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

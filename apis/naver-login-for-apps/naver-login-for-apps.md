@@ -9,8 +9,7 @@ Access to Naver’s Authentication API.  네이버 아이디로 로그인 별도
 **Docs / Website**: https://developers.naver.com/products/login/api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Access to Naver’s Authentication API.  네이버 아이디로 로그인 별도
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

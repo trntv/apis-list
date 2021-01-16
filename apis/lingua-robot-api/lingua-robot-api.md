@@ -9,8 +9,7 @@ English dictionary API providing an access to the data of over 800 000 English l
 **Docs / Website**: https://www.linguarobot.io/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ English dictionary API providing an access to the data of over 800 000 English l
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

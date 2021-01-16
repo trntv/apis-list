@@ -7,8 +7,7 @@ Easily detect possible bad users and act upon them. Simple and free to use IP lo
 **Docs / Website**: https://iplegit.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Easily detect possible bad users and act upon them. Simple and free to use IP lo
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

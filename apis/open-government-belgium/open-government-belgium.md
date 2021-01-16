@@ -7,8 +7,7 @@ The Belgian Open Data Initiative. The Belgian Open Data Initiative
 **Docs / Website**: https://data.gov.be/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ The Belgian Open Data Initiative. The Belgian Open Data Initiative
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

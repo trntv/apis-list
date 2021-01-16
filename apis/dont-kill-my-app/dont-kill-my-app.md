@@ -9,8 +9,7 @@ Android vendors, don't kill my app! Contribute to urbandroid-team/dont-kill-my-a
 **Docs / Website**: https://github.com/urbandroid-team/dont-kill-my-app
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Android vendors, don't kill my app! Contribute to urbandroid-team/dont-kill-my-a
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

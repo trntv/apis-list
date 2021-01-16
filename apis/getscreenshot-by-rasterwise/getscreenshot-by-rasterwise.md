@@ -11,8 +11,7 @@ This RESTful API can be accessed by any standard/popular client with HTTP capabi
 **Docs / Website**: https://getscreenshot.rasterwise.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -20,7 +19,9 @@ This RESTful API can be accessed by any standard/popular client with HTTP capabi
 
 ## 🗄️ Categories:
 - [Webhooks](https://github.com/apis-list/apis-list#webhooks)
-- [Images](https://github.com/apis-list/apis-list#images)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

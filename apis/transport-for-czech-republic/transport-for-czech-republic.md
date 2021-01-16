@@ -9,8 +9,7 @@ CHAPS spol. s r. o.  je společnost zabývající se vývojem IT aplikací a sys
 **Docs / Website**: https://www.chaps.cz/eng/products/idos-internet
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ CHAPS spol. s r. o.  je společnost zabývající se vývojem IT aplikací a sys
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

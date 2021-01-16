@@ -9,8 +9,7 @@ Exchange between cryptocurrencies without an account. Well documented API for ea
 **Docs / Website**: https://shapeshift.io/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Exchange between cryptocurrencies without an account. Well documented API for ea
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

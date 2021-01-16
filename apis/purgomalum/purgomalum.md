@@ -7,8 +7,7 @@ PurgoMalum is a simple, free, RESTful web service for filtering and removing con
 **Docs / Website**: http://www.purgomalum.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ PurgoMalum is a simple, free, RESTful web service for filtering and removing con
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

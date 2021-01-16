@@ -7,8 +7,7 @@ Our Anomaly API gives you IP & Domain Data for your Business.  Lookup threat int
 **Docs / Website**: https://www.monapi.io
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Our Anomaly API gives you IP & Domain Data for your Business.  Lookup threat int
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

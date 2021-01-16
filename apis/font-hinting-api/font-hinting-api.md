@@ -7,8 +7,7 @@ Fonts API - Subscription. Font hinting REST API
 **Docs / Website**: https://everythingfonts.com/api/hinting
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Fonts API - Subscription. Font hinting REST API
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

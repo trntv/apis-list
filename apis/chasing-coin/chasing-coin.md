@@ -9,8 +9,7 @@ Cryptocurrency, coin and token resource on the web. Full and free cryptocurrency
 **Docs / Website**: https://chasing-coins.com/api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Cryptocurrency, coin and token resource on the web. Full and free cryptocurrency
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

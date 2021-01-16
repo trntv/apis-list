@@ -7,8 +7,7 @@ Maps and the necessary tools for working it on your web app or site. API for ins
 **Docs / Website**: https://tech.yandex.com/maps/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Maps and the necessary tools for working it on your web app or site. API for ins
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

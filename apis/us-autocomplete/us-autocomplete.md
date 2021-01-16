@@ -9,8 +9,7 @@ Uses a simple HTTP endpoint.  Address Autocomplete | Use our Autocomplete API to
 **Docs / Website**: https://smartystreets.com/docs/cloud/us-autocomplete-api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Uses a simple HTTP endpoint.  Address Autocomplete | Use our Autocomplete API to
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

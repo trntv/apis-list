@@ -9,8 +9,7 @@ Enrich your games' experience by adding a global highscore for your games.
 **Docs / Website**:  platform agnostic infrastructure for your games statistics.
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Enrich your games' experience by adding a global highscore for your games.
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

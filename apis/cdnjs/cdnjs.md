@@ -7,8 +7,7 @@ cdnjs provides a simple API to allow anyone to quickly query the libraries we ha
 **Docs / Website**: https://cdnjs.com/api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ cdnjs provides a simple API to allow anyone to quickly query the libraries we ha
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

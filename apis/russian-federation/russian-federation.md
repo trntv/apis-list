@@ -9,8 +9,7 @@ Central bank of Russian Federation
 **Docs / Website**: https://www.cbr.ru/development/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ Central bank of Russian Federation
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

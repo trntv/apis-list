@@ -3,23 +3,24 @@
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/mac-address-vendor-lookup/logo_256x256.png" alt="MAC address vendor lookup Logo"/>
 </p>
 
-The MAC address API allows you to retrieve OUI vendor information, detect virtual machines, possible applications, read the information encoded in the MAC, and get our research's results regarding the given MAC address or the OUI. The MAC address API allows you to retrieve OUI vendor information, detect virtual machines, possible applications, read the information encoded in the MAC, and get our research's results regarding the given MAC address or the OUI
+The MAC address API allows you to retrieve OUI vendor information, detect virtual machines, possible applications, read the information encoded in the MAC, and get research's results regarding the given MAC address or the OUI.
 
 ##  🔗 Links
 **Docs / Website**: https://macaddress.io/api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Data](https://github.com/apis-list/apis-list#data)
-- [Development](https://github.com/apis-list/apis-list#development)
 - [Security](https://github.com/apis-list/apis-list#security)
+- [Hardware](https://github.com/apis-list/apis-list#hardware)
+- [Development](https://github.com/apis-list/apis-list#development)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

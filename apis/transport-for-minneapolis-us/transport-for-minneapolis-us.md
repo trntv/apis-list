@@ -9,8 +9,7 @@ NexTrip API
 **Docs / Website**: https://svc.metrotransit.org/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ NexTrip API
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

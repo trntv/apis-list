@@ -7,8 +7,7 @@ Article search, best sellers, campaign finance, community, most popular, real es
 **Docs / Website**: http://developer.nytimes.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Article search, best sellers, campaign finance, community, most popular, real es
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

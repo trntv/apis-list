@@ -9,8 +9,7 @@ Similar to other blogging platforms.  Posting could be done by logging into the 
 **Docs / Website**: http://www.posterous.com/api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -23,3 +22,5 @@ Similar to other blogging platforms.  Posting could be done by logging into the 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ Since 2005. Job board for designers, hackers and creative pros. The leading job 
 **Docs / Website**: https://authenticjobs.com/api/docs
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Since 2005. Job board for designers, hackers and creative pros. The leading job 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

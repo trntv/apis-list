@@ -9,8 +9,7 @@ This page helps you quickly create your first source, dataset, model, and predic
 **Docs / Website**: http://bigml.com/api/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ This page helps you quickly create your first source, dataset, model, and predic
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

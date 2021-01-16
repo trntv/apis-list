@@ -9,8 +9,7 @@ Coinlib - Crypto Prices, Charts, Lists & Crypto Market News
 **Docs / Website**: https://coinlib.io/apidocs
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Coinlib - Crypto Prices, Charts, Lists & Crypto Market News
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,8 +9,7 @@ Included a blogging system, photo gallery, lists, friends, a guestbook, and a so
 **Docs / Website**: 
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Included a blogging system, photo gallery, lists, friends, a guestbook, and a so
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

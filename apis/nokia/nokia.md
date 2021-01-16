@@ -9,8 +9,7 @@ Use a set of easy-to-use class and method libraries to build interactive B2B and
 **Docs / Website**: https://developer.here.com/develop/javascript-api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Use a set of easy-to-use class and method libraries to build interactive B2B and
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

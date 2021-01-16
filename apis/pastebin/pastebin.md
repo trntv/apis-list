@@ -7,8 +7,7 @@ Pastebin is a website where you can store text online for a set period of time. 
 **Docs / Website**: https://pastebin.com/doc_scraping_api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -20,3 +19,5 @@ Pastebin is a website where you can store text online for a set period of time. 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

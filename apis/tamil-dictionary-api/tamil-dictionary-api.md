@@ -9,8 +9,7 @@ Lookup Tamil words and build your own Tamil dictionary APP using this API
 **Docs / Website**: https://agarathi.com/api/dictionary
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Lookup Tamil words and build your own Tamil dictionary APP using this API
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ Access database of artists, labels, releases, marketplace and more. Here’s you
 **Docs / Website**: https://www.discogs.com/developers/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Access database of artists, labels, releases, marketplace and more. Here’s you
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

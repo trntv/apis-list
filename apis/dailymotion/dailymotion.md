@@ -9,17 +9,18 @@ Build applications centered around DailyMotion. Explore Dailymotion API document
 **Docs / Website**: https://developer.dailymotion.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Video & Media](https://github.com/apis-list/apis-list#video--media)
 - [Social](https://github.com/apis-list/apis-list#social)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

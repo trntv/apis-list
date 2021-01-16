@@ -7,8 +7,7 @@ If you'd. .  Developers Guide The quickest and easiest way to get started with I
 **Docs / Website**: https://ipinfo.io/developers
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ If you'd. .  Developers Guide The quickest and easiest way to get started with I
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

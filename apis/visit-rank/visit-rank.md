@@ -9,8 +9,7 @@ Get a rank for any of 385 million domains. Visit Rank tells how popular and infl
 **Docs / Website**: https://www.webfinery.com/cloud/visitrank
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ Get a rank for any of 385 million domains. Visit Rank tells how popular and infl
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

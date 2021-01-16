@@ -7,8 +7,7 @@ API for online Chuck Norris jokes database
 **Docs / Website**: http://www.icndb.com/api/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ API for online Chuck Norris jokes database
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

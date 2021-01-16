@@ -7,8 +7,7 @@ org APIs Not all adoptable pet data APIs are made equal! Choosing the right API 
 **Docs / Website**: https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ org APIs Not all adoptable pet data APIs are made equal! Choosing the right API 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ API for accessing and managing data about athletes, activities and segments.  St
 **Docs / Website**: https://strava.github.io/api/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ API for accessing and managing data about athletes, activities and segments.  St
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

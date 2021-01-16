@@ -9,8 +9,7 @@ A simple API to return the meta tags of any site in a digestable JSON format.  A
 **Docs / Website**: http://bettermeta.io
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ A simple API to return the meta tags of any site in a digestable JSON format.  A
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

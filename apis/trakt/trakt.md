@@ -7,8 +7,7 @@ Trakt collect lots of information about what tv shows and movies everyone is wat
 **Docs / Website**: https://trakt.docs.apiary.io/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -20,3 +19,5 @@ Trakt collect lots of information about what tv shows and movies everyone is wat
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

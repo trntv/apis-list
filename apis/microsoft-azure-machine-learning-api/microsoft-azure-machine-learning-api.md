@@ -9,8 +9,7 @@ Azure Cognitive Services brings AI within reach of every developer through a fam
 **Docs / Website**: https://azure.microsoft.com/en-us/services/cognitive-services/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Azure Cognitive Services brings AI within reach of every developer through a fam
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

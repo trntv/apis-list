@@ -7,8 +7,7 @@ You can use this API to include markets data in your websites, mobile apps or de
 **Docs / Website**: https://bitcoincharts.com/about/markets-api/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ You can use this API to include markets data in your websites, mobile apps or de
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

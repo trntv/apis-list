@@ -9,8 +9,7 @@ Easily create custom HTTP resources complete with fake data.  fakeJSON's API sca
 **Docs / Website**: https://fakejson.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ Easily create custom HTTP resources complete with fake data.  fakeJSON's API sca
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

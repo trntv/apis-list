@@ -9,18 +9,19 @@ Build the future of business collaboration with Webex! Learn more about the Webe
 **Docs / Website**: https://developer.ciscospark.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Communications](https://github.com/apis-list/apis-list#communications)
 - [Video & Media](https://github.com/apis-list/apis-list#video--media)
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging)
+- [Communications](https://github.com/apis-list/apis-list#communications)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

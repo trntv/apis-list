@@ -7,8 +7,7 @@ Token Added. Token Added
 **Docs / Website**: https://api.thetvdb.com/swagger
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Token Added. Token Added
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

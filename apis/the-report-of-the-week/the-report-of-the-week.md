@@ -9,8 +9,7 @@ API of The Report Of The Week Reviews.  Contribute to andyklimczak/TheReportOfTh
 **Docs / Website**: https://github.com/andyklimczak/TheReportOfTheWeek-API
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ API of The Report Of The Week Reviews.  Contribute to andyklimczak/TheReportOfTh
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

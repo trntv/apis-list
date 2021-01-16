@@ -7,17 +7,18 @@
 **Docs / Website**: http://quotes.rest/qod.json?category=inspire
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Religion](https://github.com/apis-list/apis-list#religion)
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

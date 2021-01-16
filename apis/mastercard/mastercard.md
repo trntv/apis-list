@@ -9,8 +9,7 @@ Mastercard official API
 **Docs / Website**: https://developer.mastercard.com/apis
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Mastercard official API
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

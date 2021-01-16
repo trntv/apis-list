@@ -7,8 +7,7 @@ Find random activities to fight boredom
 **Docs / Website**: https://www.boredapi.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Find random activities to fight boredom
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

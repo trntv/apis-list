@@ -7,8 +7,7 @@ The Creative Commons Catalog API ('cccatalog-api') is a system that allows progr
 **Docs / Website**: https://api.creativecommons.engineering/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ The Creative Commons Catalog API ('cccatalog-api') is a system that allows progr
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

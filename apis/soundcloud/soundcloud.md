@@ -7,8 +7,7 @@ Using the SoundCloud API, you can build applications that take sound on the web 
 **Docs / Website**: https://developers.soundcloud.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -20,3 +19,5 @@ Using the SoundCloud API, you can build applications that take sound on the web 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

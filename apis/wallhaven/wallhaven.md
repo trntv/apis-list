@@ -7,8 +7,7 @@ wallhaven. cc help docs!. A huge wallpaper library
 **Docs / Website**: https://wallhaven.cc/help/api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ wallhaven. cc help docs!. A huge wallpaper library
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

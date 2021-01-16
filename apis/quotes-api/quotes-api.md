@@ -7,8 +7,7 @@ They Said So. Quotes API with lot of features
 **Docs / Website**: http://quotes.rest
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ They Said So. Quotes API with lot of features
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

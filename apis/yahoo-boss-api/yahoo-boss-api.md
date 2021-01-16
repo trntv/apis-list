@@ -9,8 +9,7 @@ Join the 200,000 developers using Yahoo tools to build their app businesses. Off
 **Docs / Website**: https://developer.yahoo.com/boss/search/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Join the 200,000 developers using Yahoo tools to build their app businesses. Off
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

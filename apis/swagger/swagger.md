@@ -7,8 +7,7 @@ Find out how Swagger can help you and get started today. Simplify API developmen
 **Docs / Website**: http://swagger.io/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Find out how Swagger can help you and get started today. Simplify API developmen
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

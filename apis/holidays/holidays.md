@@ -9,8 +9,7 @@ Don't let sourcing and maintaining holiday information get in the way of buildin
 **Docs / Website**: https://holidayapi.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ Don't let sourcing and maintaining holiday information get in the way of buildin
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

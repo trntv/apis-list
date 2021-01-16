@@ -9,8 +9,7 @@ Works on websites, iOS, mobile and desktop applications. The browser log in flow
 **Docs / Website**: https://dev.twitter.com/web/sign-in
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ Works on websites, iOS, mobile and desktop applications. The browser log in flow
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

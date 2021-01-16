@@ -1,21 +1,22 @@
 # Marijuana Strains
 
 
-com/API_KEY Information Queries Information queries are used for getting information needed for ma. Documentation The base url for making queries to The Strain API is as follows: strainapi. evanbusse
+The Strain API
 
 ##  🔗 Links
 **Docs / Website**: http://strains.evanbusse.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Data](https://github.com/apis-list/apis-list#data)
+- [Health](https://github.com/apis-list/apis-list#health)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

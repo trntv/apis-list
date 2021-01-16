@@ -9,8 +9,7 @@ MailboxValidator provides single email validation API that checks if an email ad
 **Docs / Website**: https://www.mailboxvalidator.com/api-single-validation
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ MailboxValidator provides single email validation API that checks if an email ad
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

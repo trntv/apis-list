@@ -8,8 +8,7 @@ A JSON/plain-text which returns the (approx) current time for a provided timezon
 **Docs / Website**: http://worldtimeapi.org
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ A JSON/plain-text which returns the (approx) current time for a provided timezon
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,8 +9,7 @@ Central bank of Canada
 **Docs / Website**: https://www.bankofcanada.ca/rates/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Central bank of Canada
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,16 +9,17 @@ Measure, monetize, advertise and improve your apps with Yahoo tools. Join the 20
 **Docs / Website**: https://developer.yahoo.com/maps/rest/V1/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Images](https://github.com/apis-list/apis-list#images)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

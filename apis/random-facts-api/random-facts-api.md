@@ -7,8 +7,7 @@ Get random Facts on different topics
 **Docs / Website**: https://fungenerators.com/api/facts/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -23,3 +22,5 @@ Get random Facts on different topics
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

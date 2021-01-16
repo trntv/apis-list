@@ -7,8 +7,7 @@ You can embed Hebcal. com content directly onto your synagogue website with our.
 **Docs / Website**: https://www.hebcal.com/home/developer-apis
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ You can embed Hebcal. com content directly onto your synagogue website with our.
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

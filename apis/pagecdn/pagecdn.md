@@ -9,8 +9,7 @@ PageCDN provides a state of the art opensource content delivery network that use
 **Docs / Website**: https://pagecdn.com/docs/public-api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ PageCDN provides a state of the art opensource content delivery network that use
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

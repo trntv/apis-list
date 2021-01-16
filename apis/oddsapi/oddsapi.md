@@ -1,14 +1,13 @@
 # Oddsapi
 
 
-All results are returned in easy-to-read JSON format.  Our sports data API provides live and historical sports data from all around the world. Data sets are updated in realtime. Odds data from all over the world with our odds API
+Sports data API provides live and historical sports data from all around the world. Data sets are updated in realtime.
 
 ##  🔗 Links
 **Docs / Website**: https://sportdataapi.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -16,8 +15,9 @@ All results are returned in easy-to-read JSON format.  Our sports data API provi
 
 ## 🗄️ Categories:
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness)
-- [Data](https://github.com/apis-list/apis-list#data)
 - [Casino & Gambling](https://github.com/apis-list/apis-list#casino--gambling)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

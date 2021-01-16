@@ -9,8 +9,7 @@ An API-first, open source software platform for the Internet of Things.  - zetta
 **Docs / Website**: https://github.com/zettajs/zetta/wiki
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ An API-first, open source software platform for the Internet of Things.  - zetta
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

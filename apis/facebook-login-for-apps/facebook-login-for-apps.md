@@ -7,8 +7,7 @@ Secure, fast, convenient way to login in your app/website.  A secure, quick, and
 **Docs / Website**: https://developers.facebook.com/docs/facebook-login
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Secure, fast, convenient way to login in your app/website.  A secure, quick, and
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

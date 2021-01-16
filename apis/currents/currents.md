@@ -9,8 +9,7 @@ Currents - Capture the world news through simple json News API. Currents - Captu
 **Docs / Website**: https://currentsapi.services/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Currents - Capture the world news through simple json News API. Currents - Captu
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

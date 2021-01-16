@@ -9,8 +9,7 @@ API for HTTP Cats.  API for HTTP Cats
 **Docs / Website**: https://http.cat/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ API for HTTP Cats.  API for HTTP Cats
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

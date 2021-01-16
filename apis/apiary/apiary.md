@@ -9,8 +9,7 @@ Apiary provides the leading API-First platform designed specifically to help com
 **Docs / Website**: https://apiary.io/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Apiary provides the leading API-First platform designed specifically to help com
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

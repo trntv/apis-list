@@ -7,8 +7,7 @@ Free foreign currency exchange rates and currency conversion. Best Foreign excha
 **Docs / Website**: https://ratesapi.io/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Free foreign currency exchange rates and currency conversion. Best Foreign excha
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

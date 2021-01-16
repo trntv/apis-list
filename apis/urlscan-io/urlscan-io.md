@@ -7,8 +7,7 @@ urlscan. io - Website scanner for suspicious and malicious URLs.  urlscan
 **Docs / Website**: https://urlscan.io/about-api/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ urlscan. io - Website scanner for suspicious and malicious URLs.  urlscan
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

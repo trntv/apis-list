@@ -9,8 +9,7 @@ Mercury Web Parser turns web articles into structured content reliably and easil
 **Docs / Website**: https://mercury.postlight.com/web-parser/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -23,3 +22,5 @@ Mercury Web Parser turns web articles into structured content reliably and easil
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

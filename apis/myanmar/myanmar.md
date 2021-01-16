@@ -7,8 +7,7 @@ Central bank of New Myanmar
 **Docs / Website**: http://forex.cbm.gov.mm/api/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Central bank of New Myanmar
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

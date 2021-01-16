@@ -9,8 +9,7 @@ CheapShark is a price comparison website for digital PC Games.  We keep track of
 **Docs / Website**: https://www.cheapshark.com/api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -23,3 +22,5 @@ CheapShark is a price comparison website for digital PC Games.  We keep track of
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

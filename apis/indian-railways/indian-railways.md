@@ -7,8 +7,7 @@ Indian Railways Information. Rail Road Air USA Megabus Amtrak CANADA Transport G
 **Docs / Website**: http://api.erail.in/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -20,3 +19,5 @@ Indian Railways Information. Rail Road Air USA Megabus Amtrak CANADA Transport G
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

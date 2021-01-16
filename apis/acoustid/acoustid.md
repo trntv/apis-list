@@ -7,8 +7,7 @@ Web Service The AcoustID web service currently supports only two operations, sea
 **Docs / Website**: https://acoustid.org/webservice
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -20,3 +19,5 @@ Web Service The AcoustID web service currently supports only two operations, sea
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ When you find something you want to view later, put it in Pocket. When you find 
 **Docs / Website**: https://getpocket.com/developer/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -20,3 +19,5 @@ When you find something you want to view later, put it in Pocket. When you find 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

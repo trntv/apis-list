@@ -9,8 +9,7 @@ Coin predictions as a service. Automatically fetch coin data from various exchan
 **Docs / Website**: https://technical-analysis-api.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Coin predictions as a service. Automatically fetch coin data from various exchan
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

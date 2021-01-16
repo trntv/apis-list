@@ -9,8 +9,7 @@ API that provides informations about Clash Royale game
 **Docs / Website**: https://github.com/martincarrera/clash-royale-api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ API that provides informations about Clash Royale game
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,8 +9,7 @@ Collaborative chatbot software. Recast.AI provides an NLP API for text analysis 
 **Docs / Website**: https://recast.ai
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -23,3 +22,5 @@ Collaborative chatbot software. Recast.AI provides an NLP API for text analysis 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

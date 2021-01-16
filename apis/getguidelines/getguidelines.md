@@ -8,8 +8,7 @@ Use biometric and demographic data to search the same medical references used by
 **Docs / Website**: https://getguidelines.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -20,3 +19,5 @@ Use biometric and demographic data to search the same medical references used by
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

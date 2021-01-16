@@ -9,8 +9,7 @@ Start building your own website today using official PUBG data
 **Docs / Website**: https://pubgtracker.com/site-api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ Start building your own website today using official PUBG data
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

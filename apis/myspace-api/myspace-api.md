@@ -9,8 +9,7 @@ A social networking website offering an interactive, user-submitted network of f
 **Docs / Website**: http://developer.myspace.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ A social networking website offering an interactive, user-submitted network of f
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

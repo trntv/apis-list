@@ -9,8 +9,7 @@ Contify's News Feed APIs provides a clean, company-based market and competitive 
 **Docs / Website**: https://www.contify.com/news-feed-api/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Contify's News Feed APIs provides a clean, company-based market and competitive 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

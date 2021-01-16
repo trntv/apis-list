@@ -7,8 +7,7 @@ Describes the iTunes Search API used to place search fields in a website. The Se
 **Docs / Website**: https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/Searching.html#//apple_ref/doc/uid/TP40017632-CH5-SW1
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Describes the iTunes Search API used to place search fields in a website. The Se
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,8 +9,7 @@ XYZ Menus API provides access to a Database of over 350,000 Restaurant Menus wit
 **Docs / Website**: https://menuapi.xyz
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -23,3 +22,5 @@ XYZ Menus API provides access to a Database of over 350,000 Restaurant Menus wit
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

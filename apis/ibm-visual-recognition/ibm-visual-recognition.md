@@ -7,19 +7,20 @@ Existing instances are supported until 1 December 2021, but as of 7 January 2021
 **Docs / Website**: https://cloud.ibm.com/apidocs/visual-recognition/visual-recognition-v3
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Images](https://github.com/apis-list/apis-list#images)
 - [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Recognition](https://github.com/apis-list/apis-list#recognition)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -9,8 +9,7 @@ Programming Quotes API for open source projects.  Contribute to skolakoda/progra
 **Docs / Website**: https://github.com/skolakoda/programming-quotes-api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Programming Quotes API for open source projects.  Contribute to skolakoda/progra
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

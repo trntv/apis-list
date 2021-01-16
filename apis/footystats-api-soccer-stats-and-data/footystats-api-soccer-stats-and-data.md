@@ -7,8 +7,7 @@ Affordable Soccer Stats API for making football predictions. Includes stats such
 **Docs / Website**: https://football-data-api.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Affordable Soccer Stats API for making football predictions. Includes stats such
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

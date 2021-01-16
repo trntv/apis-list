@@ -9,8 +9,7 @@ Simple and powerful email verification JSON API using SMTP, typo checks, syntax 
 **Docs / Website**: https://mailboxlayer.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -23,3 +22,5 @@ Simple and powerful email verification JSON API using SMTP, typo checks, syntax 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

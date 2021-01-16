@@ -7,8 +7,7 @@ Blizzard Entertainment
 **Docs / Website**: https://develop.battle.net
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Blizzard Entertainment
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

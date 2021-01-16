@@ -9,8 +9,7 @@ Documentation, code and integration guides for the currencylayer JSON API - reli
 **Docs / Website**: https://currencylayer.com/documentation
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Documentation, code and integration guides for the currencylayer JSON API - reli
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

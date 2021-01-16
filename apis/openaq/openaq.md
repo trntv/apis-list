@@ -7,8 +7,7 @@ Loading
 **Docs / Website**: https://docs.openaq.org/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Loading
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

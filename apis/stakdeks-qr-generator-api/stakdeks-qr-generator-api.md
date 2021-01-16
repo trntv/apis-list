@@ -9,8 +9,7 @@ The QR-Code generator gets your data and generates a QR-Code
 **Docs / Website**: https://api.stakdek.de/blog?id=1006
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ The QR-Code generator gets your data and generates a QR-Code
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

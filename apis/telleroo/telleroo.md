@@ -7,8 +7,7 @@ com" API Sandbox: "https://sandbox. com" Welcome to Telleroo API documentation! 
 **Docs / Website**: https://docs.telleroo.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ com" API Sandbox: "https://sandbox. com" Welcome to Telleroo API documentation! 
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

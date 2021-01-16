@@ -7,8 +7,7 @@ A dataset containing all the car makes. Edmunds has detailed specs, customer rat
 **Docs / Website**: http://developer.edmunds.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ A dataset containing all the car makes. Edmunds has detailed specs, customer rat
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

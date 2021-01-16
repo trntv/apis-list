@@ -7,8 +7,7 @@ A RESTful API for quotes.  The database currently includes more than 75000 quote
 **Docs / Website**: https://pprathameshmore.github.io/QuoteGarden/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ A RESTful API for quotes.  The database currently includes more than 75000 quote
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

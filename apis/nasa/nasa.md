@@ -7,8 +7,7 @@ Get NASA data, including imagery, list of asteroids based on their closest appro
 **Docs / Website**: https://api.nasa.gov/index.html
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -20,3 +19,5 @@ Get NASA data, including imagery, list of asteroids based on their closest appro
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

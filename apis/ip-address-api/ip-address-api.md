@@ -9,8 +9,7 @@ IP Address API free service provides country name, 2 symbol code and 3 symbol co
 **Docs / Website**: https://any.ge/api/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ IP Address API free service provides country name, 2 symbol code and 3 symbol co
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

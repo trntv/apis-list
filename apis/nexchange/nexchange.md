@@ -7,8 +7,7 @@ API for crypto currency exchange.
 **Docs / Website**: https://nexchange2.docs.apiary.io/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ API for crypto currency exchange.
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

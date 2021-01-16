@@ -7,8 +7,7 @@ Sunset and sunrise times API We offer a free API that provides sunset and sunris
 **Docs / Website**: https://sunrise-sunset.org/api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Sunset and sunrise times API We offer a free API that provides sunset and sunris
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

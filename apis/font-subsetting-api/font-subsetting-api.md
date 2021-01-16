@@ -7,8 +7,7 @@ Font subsetting REST API. Fonts API - Subscription
 **Docs / Website**: https://everythingfonts.com/api/subset
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Font subsetting REST API. Fonts API - Subscription
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

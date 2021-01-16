@@ -3,14 +3,13 @@
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/dashblock/logo_256x256.png" alt="Dashblock Logo"/>
 </p>
 
-They offer 1000 free API calls per month,. The easiest way to access websites programmatically and collect structured data - Start for free today!. With Dashblock you an turn any website into an API, watch the amazing demo video on the homepage
+The easiest way to access websites programmatically and collect structured data. With Dashblock you can turn any website into an API. Offers 1000 free API calls per month.
 
 ##  🔗 Links
 **Docs / Website**: https://www.dashblock.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -18,7 +17,8 @@ They offer 1000 free API calls per month,. The easiest way to access websites pr
 
 ## 🗄️ Categories:
 - [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
-- [Data](https://github.com/apis-list/apis-list#data)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

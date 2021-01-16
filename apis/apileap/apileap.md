@@ -7,8 +7,7 @@ Make screenshots from web pages and HTML
 **Docs / Website**: https://apileap.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -20,3 +19,5 @@ Make screenshots from web pages and HTML
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

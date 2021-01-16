@@ -9,8 +9,7 @@ Step 2 Then you need to discover the IP address of the bridge on your network.  
 **Docs / Website**: https://developers.meethue.com/documentation/getting-started
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -23,3 +22,5 @@ Step 2 Then you need to discover the IP address of the bridge on your network.  
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

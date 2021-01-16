@@ -7,8 +7,7 @@ Easy-to-use URL shortener.  Supports custom short link ending.  API documentatio
 **Docs / Website**: https://tiny.cc/api-docs
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Easy-to-use URL shortener.  Supports custom short link ending.  API documentatio
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

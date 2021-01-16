@@ -7,8 +7,7 @@ Kitsu is a modern anime discovery platform that helps you track the anime you're
 **Docs / Website**: https://kitsu.docs.apiary.io/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -23,3 +22,5 @@ Kitsu is a modern anime discovery platform that helps you track the anime you're
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

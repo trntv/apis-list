@@ -9,8 +9,7 @@ A collection of all VAT rates for EU countries
 **Docs / Website**: https://jsonvat.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ A collection of all VAT rates for EU countries
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

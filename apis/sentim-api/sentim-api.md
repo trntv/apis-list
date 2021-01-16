@@ -7,8 +7,7 @@ herokuapp. com/api/v1/ with headers of Accept: "application/json", "Content-Type
 **Docs / Website**: https://sentim-api.herokuapp.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ herokuapp. com/api/v1/ with headers of Accept: "application/json", "Content-Type
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

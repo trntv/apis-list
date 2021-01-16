@@ -7,18 +7,19 @@ Enables your customers to sign in to your web site quickly and securely using th
 **Docs / Website**: https://developer.paypal.com/docs/integration/direct/identity/log-in-with-paypal/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Payments](https://github.com/apis-list/apis-list#payments)
 - [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
-- [Payments](https://github.com/apis-list/apis-list#payments)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

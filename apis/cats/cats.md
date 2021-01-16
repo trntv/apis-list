@@ -1,19 +1,13 @@
 # Cats
 
 
-com
-
-Here you'll find the API reference & Code examples for:
-1\. Searc. TheCatApi // Developer Experience
-
-Get your API Key from - https&#x3A;//TheCatAPI
+A public service API all about Cats, free to use when making your fancy new App, Website or Service.
 
 ##  🔗 Links
 **Docs / Website**: https://docs.thecatapi.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -24,3 +18,5 @@ Get your API Key from - https&#x3A;//TheCatAPI
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

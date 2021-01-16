@@ -9,8 +9,7 @@ Translate from English to Shakespeare English
 **Docs / Website**: https://funtranslations.com/api/shakespeare
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Translate from English to Shakespeare English
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

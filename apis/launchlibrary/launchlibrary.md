@@ -7,8 +7,7 @@ Aggregated info about space launches.
 **Docs / Website**: https://launchlibrary.net/docs/1.3/api.html
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Aggregated info about space launches.
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@ The web address you entered is not a functioning page on our site.  Try one of t
 **Docs / Website**: https://webservices.amazon.com/paapi5/documentation/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ The web address you entered is not a functioning page on our site.  Try one of t
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

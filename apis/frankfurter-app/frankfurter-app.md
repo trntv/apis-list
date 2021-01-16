@@ -7,8 +7,7 @@ Documentation and code examples for the Frankfurter currency data API.  Document
 **Docs / Website**: https://www.frankfurter.app/docs/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ Documentation and code examples for the Frankfurter currency data API.  Document
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

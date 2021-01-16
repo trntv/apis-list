@@ -9,8 +9,7 @@ Get to know your time with your computer
 **Docs / Website**: https://whatpulse.org/pages/webapi/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Get to know your time with your computer
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

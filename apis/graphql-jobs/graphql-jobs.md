@@ -7,8 +7,7 @@ GET query missing
 **Docs / Website**: https://api.graphql.jobs
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ GET query missing
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

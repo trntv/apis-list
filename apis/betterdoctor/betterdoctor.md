@@ -7,16 +7,16 @@ BetterDoctor API is the most frequently updated and trusted source of doctor dat
 **Docs / Website**: https://developer.betterdoctor.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Data](https://github.com/apis-list/apis-list#data)
 - [Health](https://github.com/apis-list/apis-list#health)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

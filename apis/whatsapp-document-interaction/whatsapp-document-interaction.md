@@ -24,8 +24,7 @@
 **Docs / Website**: https://faq.whatsapp.com/en/iphone/23559013
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -36,3 +35,5 @@
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

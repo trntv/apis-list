@@ -7,8 +7,7 @@ This Person Does Not Exist
 **Docs / Website**: https://thispersondoesnotexist.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ This Person Does Not Exist
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

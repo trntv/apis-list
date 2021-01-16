@@ -7,8 +7,7 @@ Explore AYLIEN’s advanced NLP APIs.  Explore AYLIEN’s advanced NLP APIs
 **Docs / Website**: http://docs.aylien.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ Explore AYLIEN’s advanced NLP APIs.  Explore AYLIEN’s advanced NLP APIs
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

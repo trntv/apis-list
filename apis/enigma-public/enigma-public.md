@@ -3,21 +3,22 @@
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/enigma-public/logo_256x256.png" alt="Enigma Public Logo"/>
 </p>
 
-Enigma Businesses provides the most accurate and reliable information on small and medium businesses in real-time. Enigma Businesses provides the most accurate and reliable information on small and medium businesses in real-time.  This site helps you learn about our unique SMB data, understand how to access it, and discover how to leverage it in your daily business processes
+Enigma Businesses provides the most accurate and reliable information on small and medium businesses in real-time.
 
 ##  🔗 Links
 **Docs / Website**: http://docs.enigma.com/public/public_v20_api_about
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Data](https://github.com/apis-list/apis-list#data)
+- [Business](https://github.com/apis-list/apis-list#business)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

@@ -7,8 +7,7 @@
 **Docs / Website**: https://nanosdk.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -16,8 +15,10 @@
 
 ## 🗄️ Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
-- [Images](https://github.com/apis-list/apis-list#images)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 - [Tools](https://github.com/apis-list/apis-list#tools)
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

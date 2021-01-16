@@ -1,14 +1,13 @@
 # Json Base
 
 
-The free plan allows you to store 100,000 write ops per month and 1 million read operations per month. 1 Million Read Ops per month 100,000 Write Ops per month. API Based JSON Storage
+API Based JSON Storage. The free plan allows you to store 100,000 write ops per month and 1 million read operations per month.
 
 ##  🔗 Links
 **Docs / Website**: https://jsonbase.com/#docs
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ The free plan allows you to store 100,000 write ops per month and 1 million read
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

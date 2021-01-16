@@ -9,8 +9,7 @@ It can be used to set up a food delivery network, crowdsource the price for a lo
 **Docs / Website**: https://developers.freelancer.com/
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ It can be used to set up a food delivery network, crowdsource the price for a lo
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

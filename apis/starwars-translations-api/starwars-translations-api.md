@@ -9,8 +9,7 @@ Translate from imperial language ( English that is ) to one of the Starwars lang
 **Docs / Website**: https://funtranslations.com/api/starwars
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -22,3 +21,5 @@ Translate from imperial language ( English that is ) to one of the Starwars lang
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

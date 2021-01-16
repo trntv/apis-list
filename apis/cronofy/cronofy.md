@@ -9,8 +9,7 @@ Our Scheduler lets you share your availability with contacts no matter what appl
 **Docs / Website**: https://www.cronofy.com
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -25,3 +24,5 @@ Our Scheduler lets you share your availability with contacts no matter what appl
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

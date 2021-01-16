@@ -7,8 +7,7 @@ The Goodreads API allows developers access to Goodreads data in order to help we
 **Docs / Website**: https://www.goodreads.com/api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -21,3 +20,5 @@ The Goodreads API allows developers access to Goodreads data in order to help we
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)

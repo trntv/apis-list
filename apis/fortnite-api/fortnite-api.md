@@ -7,8 +7,7 @@ A fortnite tracker api that returns data about and account
 **Docs / Website**: https://fortnitetracker.com/site-api
 
 ## 🧬 Specification:
-**Type**: N/A
-
+**Type**: N/A  
 **URI**: N/A
 
 ## 💬 Discussion:
@@ -19,3 +18,5 @@ A fortnite tracker api that returns data about and account
 
 
 
+
+[🔙 Back to List](https://github.com/apis-list/apis-list)
