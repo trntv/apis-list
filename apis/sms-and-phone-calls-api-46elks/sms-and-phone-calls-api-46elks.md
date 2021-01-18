@@ -16,9 +16,9 @@
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Voice](https://github.com/apis-list/apis-list#voice)
-- [Email & SMS](https://github.com/apis-list/apis-list#email--sms)
 - [Communications](https://github.com/apis-list/apis-list#communications)
+- [Email & SMS](https://github.com/apis-list/apis-list#email--sms)
+- [Voice](https://github.com/apis-list/apis-list#voice)
 
 
 

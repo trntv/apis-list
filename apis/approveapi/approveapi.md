@@ -16,8 +16,8 @@ A simple API to request a user's real-time approval on any device or platform vi
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
 - [Development](https://github.com/apis-list/apis-list#development)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
 
 
 

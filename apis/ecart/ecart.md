@@ -14,8 +14,8 @@ Data is offered in JSON format. The following marketplaces are available: eBay, 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Business](https://github.com/apis-list/apis-list#business)
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
 
 
 

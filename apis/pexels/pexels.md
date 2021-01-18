@@ -14,11 +14,11 @@ Pexels provides high quality and completely free stock photos licensed under the
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Collaboration](https://github.com/apis-list/apis-list#collaboration)
-- [Open Source](https://github.com/apis-list/apis-list#open-source)
-- [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
 - [Art & Design](https://github.com/apis-list/apis-list#art--design)
+- [Collaboration](https://github.com/apis-list/apis-list#collaboration)
+- [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
 - [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
+- [Open Source](https://github.com/apis-list/apis-list#open-source)
 
 
 

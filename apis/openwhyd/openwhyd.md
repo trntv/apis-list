@@ -17,8 +17,8 @@
 
 ## 🗄️ Categories:
 - [Bookmarks](https://github.com/apis-list/apis-list#bookmarks)
-- [Video & Media](https://github.com/apis-list/apis-list#video--media)
 - [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media)
 
 
 

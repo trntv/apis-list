@@ -16,8 +16,8 @@ Uncovers the technologies used on websites and URL to thumbnail.  API that uncov
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
+- [Development](https://github.com/apis-list/apis-list#development)
 - [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
 

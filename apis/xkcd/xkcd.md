@@ -14,9 +14,9 @@ xkcd API
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Fun](https://github.com/apis-list/apis-list#fun)
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Comics & Anime](https://github.com/apis-list/apis-list#comics--anime)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+- [Fun](https://github.com/apis-list/apis-list#fun)
 
 
 

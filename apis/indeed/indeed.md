@@ -16,8 +16,8 @@
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Search](https://github.com/apis-list/apis-list#search)
 - [Jobs](https://github.com/apis-list/apis-list#jobs)
+- [Search](https://github.com/apis-list/apis-list#search)
 
 
 

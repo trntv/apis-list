@@ -16,10 +16,10 @@ Welcome to Teleport for Developers! Largest and most up-to-date quality of life 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
-- [Video & Media](https://github.com/apis-list/apis-list#video--media)
 - [Environment](https://github.com/apis-list/apis-list#environment)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
+- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media)
 
 
 

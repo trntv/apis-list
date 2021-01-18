@@ -14,8 +14,8 @@ Wargaming Games API. Stats, Matches, Data
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Games](https://github.com/apis-list/apis-list#games)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+- [Games](https://github.com/apis-list/apis-list#games)
 
 
 

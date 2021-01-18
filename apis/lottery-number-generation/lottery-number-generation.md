@@ -14,8 +14,8 @@ Hundereds of lottery games from various countries are supported. Generate lotter
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Random](https://github.com/apis-list/apis-list#random)
 - [Casino & Gambling](https://github.com/apis-list/apis-list#casino--gambling)
+- [Random](https://github.com/apis-list/apis-list#random)
 
 
 

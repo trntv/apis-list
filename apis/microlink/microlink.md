@@ -16,11 +16,11 @@ Generate PDF from any website. Automate web performance. Turns any link into inf
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
 - [Art & Design](https://github.com/apis-list/apis-list#art--design)
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
-- [URLs](https://github.com/apis-list/apis-list#urls)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
 - [Social](https://github.com/apis-list/apis-list#social)
+- [URLs](https://github.com/apis-list/apis-list#urls)
 
 
 

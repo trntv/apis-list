@@ -16,10 +16,10 @@ Streamline user experience with the stock image, video, and music API trusted by
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
-- [Video & Media](https://github.com/apis-list/apis-list#video--media)
 - [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
 - [Search](https://github.com/apis-list/apis-list#search)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media)
 
 
 

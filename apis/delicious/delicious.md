@@ -17,8 +17,8 @@ Access to Delicious’s API.  Delicious API Documentation.  Contribute to domain
 
 ## 🗄️ Categories:
 - [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Social](https://github.com/apis-list/apis-list#social)
 - [Bookmarks](https://github.com/apis-list/apis-list#bookmarks)
+- [Social](https://github.com/apis-list/apis-list#social)
 
 
 

@@ -14,9 +14,9 @@ For large organizations we can also assist in building you a custom Scribble. Th
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [URLs](https://github.com/apis-list/apis-list#urls)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 - [Bookmarks](https://github.com/apis-list/apis-list#bookmarks)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [URLs](https://github.com/apis-list/apis-list#urls)
 
 
 

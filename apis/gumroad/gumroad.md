@@ -16,9 +16,9 @@ Gumroad helps creators do more of what they love by offering tools to get paid o
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Social](https://github.com/apis-list/apis-list#social)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Payments](https://github.com/apis-list/apis-list#payments)
+- [Social](https://github.com/apis-list/apis-list#social)
 
 
 

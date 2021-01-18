@@ -14,8 +14,8 @@
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Social](https://github.com/apis-list/apis-list#social)
 - [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
+- [Social](https://github.com/apis-list/apis-list#social)
 
 
 

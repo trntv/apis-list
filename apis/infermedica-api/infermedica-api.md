@@ -16,8 +16,8 @@ The most advanced Symptom Checker and Patient Triage API. Infermedica provides a
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Bots](https://github.com/apis-list/apis-list#bots)
 - [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
+- [Bots](https://github.com/apis-list/apis-list#bots)
 - [Health](https://github.com/apis-list/apis-list#health)
 
 

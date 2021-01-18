@@ -16,8 +16,8 @@ API for IP and Email Intelligence & Phone Number Validation. API for email valid
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
 - [Email & SMS](https://github.com/apis-list/apis-list#email--sms)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
 
 
 

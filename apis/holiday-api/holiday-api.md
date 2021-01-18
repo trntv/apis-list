@@ -14,8 +14,8 @@ Start developing for free. Public holiday API service for several supported coun
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 - [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time)
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 
 
 

@@ -15,8 +15,8 @@ The Bitfinex API is designed to allow access to all the features of the Bitfinex
 
 ## 🗄️ Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
 - [Currency](https://github.com/apis-list/apis-list#currency)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
 
 
 

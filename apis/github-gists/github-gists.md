@@ -14,8 +14,8 @@ For more information. Access to GitHub’s Gists API.  You can read public gists
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
 - [Development](https://github.com/apis-list/apis-list#development)
+- [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
 
 
 

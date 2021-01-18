@@ -16,9 +16,9 @@ The Wordnik API Docs. Dictionary functions
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Text](https://github.com/apis-list/apis-list#text)
-- [Reference](https://github.com/apis-list/apis-list#reference)
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
+- [Reference](https://github.com/apis-list/apis-list#reference)
+- [Text](https://github.com/apis-list/apis-list#text)
 
 
 

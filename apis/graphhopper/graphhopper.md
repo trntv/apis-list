@@ -16,8 +16,8 @@ A-to-B routing with turn-by-turn instructions
 ## 🗄️ Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 - [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics)
-- [Travel](https://github.com/apis-list/apis-list#travel)
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
+- [Travel](https://github.com/apis-list/apis-list#travel)
 
 
 

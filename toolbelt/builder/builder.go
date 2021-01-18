@@ -6,6 +6,7 @@ import (
 	"os"
 	"path"
 	"regexp"
+	"sort"
 	"strings"
 	"text/template"
 )
@@ -24,6 +25,10 @@ func Render(l list.APIs, dir string) error {
 		},
 		"short": func(s string) string {
 			return FirstSentence(s)
+		},
+		"sort": func(s []string) []string {
+			sort.Strings(s)
+			return s
 		},
 		"category_icon": func(s string) string {
 			return CategoryIcons[s]

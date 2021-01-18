@@ -16,10 +16,10 @@ Open Charge Map is a non-commercial, non-profit, electric vehicle data service h
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Transportation](https://github.com/apis-list/apis-list#transportation)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
-- [Vehicle](https://github.com/apis-list/apis-list#vehicle)
 - [Environment](https://github.com/apis-list/apis-list#environment)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Transportation](https://github.com/apis-list/apis-list#transportation)
+- [Vehicle](https://github.com/apis-list/apis-list#vehicle)
 
 
 

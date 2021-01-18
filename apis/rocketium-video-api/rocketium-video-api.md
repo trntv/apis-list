@@ -16,8 +16,8 @@ Create multiple videos with your logo, captions, and background music in differe
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Video & Media](https://github.com/apis-list/apis-list#video--media)
 - [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media)
 
 
 

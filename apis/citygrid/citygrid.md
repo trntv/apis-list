@@ -15,9 +15,9 @@ Enables developers to create web and mobile applications that find local busines
 
 ## 🗄️ Categories:
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Search](https://github.com/apis-list/apis-list#search)
-- [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest)
+- [Search](https://github.com/apis-list/apis-list#search)
 
 
 

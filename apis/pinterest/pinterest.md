@@ -16,8 +16,8 @@ Enables apps to view the most clicked-through or repinned Pins, view related pos
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Social](https://github.com/apis-list/apis-list#social)
 - [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
+- [Social](https://github.com/apis-list/apis-list#social)
 
 
 

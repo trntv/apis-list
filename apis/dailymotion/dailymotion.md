@@ -16,9 +16,9 @@ Build applications centered around DailyMotion. Explore Dailymotion API document
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Video & Media](https://github.com/apis-list/apis-list#video--media)
-- [Social](https://github.com/apis-list/apis-list#social)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+- [Social](https://github.com/apis-list/apis-list#social)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media)
 
 
 

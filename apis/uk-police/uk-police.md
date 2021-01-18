@@ -15,9 +15,9 @@ Police API Documentation The API provides a rich data source for information, in
 
 ## 🗄️ Categories:
 - [Government](https://github.com/apis-list/apis-list#government)
-- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
-- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data)
 - [Security](https://github.com/apis-list/apis-list#security)
+- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data)
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 
 
 

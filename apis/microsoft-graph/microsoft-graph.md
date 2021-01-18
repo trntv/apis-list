@@ -14,11 +14,11 @@ Find out how you can use the Microsoft Graph API to connect to the data that dri
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time)
 - [CRM](https://github.com/apis-list/apis-list#crm)
+- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time)
+- [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
 - [Email & SMS](https://github.com/apis-list/apis-list#email--sms)
-- [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 - [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
 
 

@@ -14,10 +14,10 @@ You are being redirected.  You are being redirected
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Collaboration](https://github.com/apis-list/apis-list#collaboration)
-- [Tasks](https://github.com/apis-list/apis-list#tasks)
 - [Business](https://github.com/apis-list/apis-list#business)
+- [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 - [Project Management](https://github.com/apis-list/apis-list#project-management)
+- [Tasks](https://github.com/apis-list/apis-list#tasks)
 
 
 

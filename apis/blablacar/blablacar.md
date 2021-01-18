@@ -14,8 +14,8 @@ We connect people together, making it possible to travel literally anywhere, dir
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Transportation](https://github.com/apis-list/apis-list#transportation)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
+- [Transportation](https://github.com/apis-list/apis-list#transportation)
 
 
 

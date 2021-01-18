@@ -16,8 +16,8 @@ Automatic background removal real-time service powered by AI. Automatic backgrou
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Art & Design](https://github.com/apis-list/apis-list#art--design)
 - [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
+- [Art & Design](https://github.com/apis-list/apis-list#art--design)
 
 
 

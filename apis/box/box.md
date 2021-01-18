@@ -20,12 +20,12 @@ the Box Developer Console
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Content Management](https://github.com/apis-list/apis-list#content-management)
 - [Business](https://github.com/apis-list/apis-list#business)
-- [Security](https://github.com/apis-list/apis-list#security)
-- [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
-- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
+- [Content Management](https://github.com/apis-list/apis-list#content-management)
+- [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
+- [Security](https://github.com/apis-list/apis-list#security)
 
 
 

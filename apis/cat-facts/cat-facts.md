@@ -16,11 +16,11 @@ Daily cat facts! 🐱
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+- [Animals](https://github.com/apis-list/apis-list#animals)
 - [Bots](https://github.com/apis-list/apis-list#bots)
 - [Education](https://github.com/apis-list/apis-list#education)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Fun](https://github.com/apis-list/apis-list#fun)
-- [Animals](https://github.com/apis-list/apis-list#animals)
 
 
 

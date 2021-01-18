@@ -14,8 +14,8 @@ Next Big Sound helps artists and their teams use Pandora to understand performan
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Social](https://github.com/apis-list/apis-list#social)
 - [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
+- [Social](https://github.com/apis-list/apis-list#social)
 
 
 

@@ -16,10 +16,10 @@ API for image and video storage and manipulation - free for up to 75,000 images 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Video & Media](https://github.com/apis-list/apis-list#video--media)
 - [Cloud](https://github.com/apis-list/apis-list#cloud)
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 - [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media)
 
 
 

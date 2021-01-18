@@ -14,12 +14,12 @@ Processing (NLP) Service including sentiment analysis, content extraction, and l
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
-- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
-- [Development](https://github.com/apis-list/apis-list#development)
 - [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Search](https://github.com/apis-list/apis-list#search)
+- [Development](https://github.com/apis-list/apis-list#development)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
+- [Search](https://github.com/apis-list/apis-list#search)
+- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 
 
 

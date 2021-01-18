@@ -14,8 +14,8 @@ viafintech API v2 allows you to create payment, partial payment, payout, and ref
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
 - [Payments](https://github.com/apis-list/apis-list#payments)
 
 

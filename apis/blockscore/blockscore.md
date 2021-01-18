@@ -16,10 +16,10 @@ A real-time API for verifying an identity by name, address, date of birth, and s
 ## 🗄️ Categories:
 - [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management)
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
-- [Payments](https://github.com/apis-list/apis-list#payments)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
+- [Payments](https://github.com/apis-list/apis-list#payments)
 - [Security](https://github.com/apis-list/apis-list#security)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
 
 
 

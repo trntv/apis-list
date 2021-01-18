@@ -16,10 +16,10 @@ API for making cross-protocol realtime communication between devices easy.  Ably
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Real Time](https://github.com/apis-list/apis-list#real-time)
-- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot--home-automation)
 - [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging)
+- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot--home-automation)
 - [Mobile](https://github.com/apis-list/apis-list#mobile)
+- [Real Time](https://github.com/apis-list/apis-list#real-time)
 
 
 

@@ -16,8 +16,8 @@ Central bank of Russian Federation
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Government](https://github.com/apis-list/apis-list#government)
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
+- [Government](https://github.com/apis-list/apis-list#government)
 
 
 

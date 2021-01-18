@@ -14,8 +14,8 @@ This food API is free to use and can get you recipes, food details, food names ,
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Open Source](https://github.com/apis-list/apis-list#open-source)
 - [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks)
+- [Open Source](https://github.com/apis-list/apis-list#open-source)
 
 
 

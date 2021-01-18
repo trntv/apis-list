@@ -16,9 +16,9 @@ Alternative to Google Web Search API / Google News Search API, allows you to sea
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Real Time](https://github.com/apis-list/apis-list#real-time)
 - [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
 - [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
+- [Real Time](https://github.com/apis-list/apis-list#real-time)
 - [Search](https://github.com/apis-list/apis-list#search)
 
 

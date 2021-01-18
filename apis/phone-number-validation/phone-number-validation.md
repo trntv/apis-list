@@ -14,8 +14,8 @@ Check phone number validity, location and timezones
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Email & SMS](https://github.com/apis-list/apis-list#email--sms)
 - [CRM](https://github.com/apis-list/apis-list#crm)
+- [Email & SMS](https://github.com/apis-list/apis-list#email--sms)
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
 
 

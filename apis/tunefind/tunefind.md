@@ -16,9 +16,9 @@ Since 2005 Tunefind has been the leading site dedicated to tracking the music fe
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Recognition](https://github.com/apis-list/apis-list#recognition)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
+- [Recognition](https://github.com/apis-list/apis-list#recognition)
 
 
 

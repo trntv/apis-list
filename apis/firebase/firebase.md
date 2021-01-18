@@ -16,12 +16,12 @@ Authentication, analytics, cloud messaging, crash reporting, ads and more
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Databases](https://github.com/apis-list/apis-list#databases)
-- [Real Time](https://github.com/apis-list/apis-list#real-time)
-- [Development](https://github.com/apis-list/apis-list#development)
 - [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management)
-- [Security](https://github.com/apis-list/apis-list#security)
+- [Databases](https://github.com/apis-list/apis-list#databases)
+- [Development](https://github.com/apis-list/apis-list#development)
 - [Mobile](https://github.com/apis-list/apis-list#mobile)
+- [Real Time](https://github.com/apis-list/apis-list#real-time)
+- [Security](https://github.com/apis-list/apis-list#security)
 
 
 

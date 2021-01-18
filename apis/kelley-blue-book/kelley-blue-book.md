@@ -16,8 +16,8 @@ Please try again. Unable to load webpage Sorry, we were unable to load the reque
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Vehicle](https://github.com/apis-list/apis-list#vehicle)
 - [Transportation](https://github.com/apis-list/apis-list#transportation)
+- [Vehicle](https://github.com/apis-list/apis-list#vehicle)
 
 
 

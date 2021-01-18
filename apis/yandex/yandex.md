@@ -14,9 +14,9 @@ Maps and the necessary tools for working it on your web app or site. API for ins
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 - [Search](https://github.com/apis-list/apis-list#search)
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 
 
 

@@ -14,10 +14,10 @@ Analytics Concepts In order to use an analytics API to its maximum potential, it
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Mobile](https://github.com/apis-list/apis-list#mobile)
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
 - [Business](https://github.com/apis-list/apis-list#business)
 - [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo)
+- [Mobile](https://github.com/apis-list/apis-list#mobile)
 
 
 

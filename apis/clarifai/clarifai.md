@@ -17,10 +17,10 @@ Whether you have one input or billions, you are only steps away from using AI to
 
 ## 🗄️ Categories:
 - [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Video & Media](https://github.com/apis-list/apis-list#video--media)
-- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
-- [Recognition](https://github.com/apis-list/apis-list#recognition)
 - [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
+- [Recognition](https://github.com/apis-list/apis-list#recognition)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media)
 
 
 

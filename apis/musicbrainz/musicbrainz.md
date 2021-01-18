@@ -16,8 +16,8 @@ The API discussed here is an interface to the MusicBrainz Database. It is aimed 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 - [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
+- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 
 
 

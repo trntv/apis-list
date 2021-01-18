@@ -14,9 +14,9 @@ Free online REST API that you can use whenever you need some fake data. It can b
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Development](https://github.com/apis-list/apis-list#development)
 - [Random](https://github.com/apis-list/apis-list#random)
 - [Testing](https://github.com/apis-list/apis-list#testing)
-- [Development](https://github.com/apis-list/apis-list#development)
 
 
 

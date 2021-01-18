@@ -14,14 +14,14 @@ Word-finding query engine that finds words that match a given set of constraints
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Reference](https://github.com/apis-list/apis-list#reference)
 - [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Writing](https://github.com/apis-list/apis-list#writing)
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
-- [Search](https://github.com/apis-list/apis-list#search)
-- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 - [Education](https://github.com/apis-list/apis-list#education)
+- [Reference](https://github.com/apis-list/apis-list#reference)
+- [Search](https://github.com/apis-list/apis-list#search)
 - [Text](https://github.com/apis-list/apis-list#text)
+- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
+- [Writing](https://github.com/apis-list/apis-list#writing)
 
 
 

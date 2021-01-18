@@ -14,9 +14,9 @@ Eventful is a leading digital media company connecting consumers with entertainm
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
 - [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time)
 - [Events](https://github.com/apis-list/apis-list#events)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
 - [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest)
 
 

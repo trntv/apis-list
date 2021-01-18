@@ -16,8 +16,8 @@ Goal is for this API is to be your platform for developing apps around DC’s fr
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data)
 - [Government](https://github.com/apis-list/apis-list#government)
+- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data)
 
 
 

@@ -14,8 +14,8 @@ With this API you’ll be able to craft your own experiences using the same APIs
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Games](https://github.com/apis-list/apis-list#games)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+- [Games](https://github.com/apis-list/apis-list#games)
 
 
 

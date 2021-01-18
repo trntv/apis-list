@@ -17,8 +17,8 @@ It allows you to create client programs in any programming language with an HTTP
 
 ## 🗄️ Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
-- [Visualizations](https://github.com/apis-list/apis-list#visualizations)
 - [Science & Math](https://github.com/apis-list/apis-list#science--math)
+- [Visualizations](https://github.com/apis-list/apis-list#visualizations)
 
 
 

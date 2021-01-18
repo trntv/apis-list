@@ -16,9 +16,9 @@ The Salesforce Platform connects the entire customer journey across Sales, Servi
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Office](https://github.com/apis-list/apis-list#office)
-- [CRM](https://github.com/apis-list/apis-list#crm)
 - [Business](https://github.com/apis-list/apis-list#business)
+- [CRM](https://github.com/apis-list/apis-list#crm)
+- [Office](https://github.com/apis-list/apis-list#office)
 
 
 

@@ -14,8 +14,8 @@ Full API to take screenshots of any website.
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
 - [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
 
 
 

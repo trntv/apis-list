@@ -16,8 +16,8 @@ A simple way to share and discover interesting events from your friends, followe
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Events](https://github.com/apis-list/apis-list#events)
 - [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time)
+- [Events](https://github.com/apis-list/apis-list#events)
 
 
 

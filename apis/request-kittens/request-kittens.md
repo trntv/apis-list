@@ -16,8 +16,8 @@ A randomized set of category-specific cat images.
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 - [Animals](https://github.com/apis-list/apis-list#animals)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 
 
 

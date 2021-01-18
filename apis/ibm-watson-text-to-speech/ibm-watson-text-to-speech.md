@@ -16,8 +16,8 @@ A really simple api that lets you convert text to speech. It’s 100% free for u
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Voice](https://github.com/apis-list/apis-list#voice)
 - [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
+- [Voice](https://github.com/apis-list/apis-list#voice)
 
 
 

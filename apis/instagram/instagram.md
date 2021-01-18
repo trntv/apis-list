@@ -14,9 +14,9 @@ How to use the Instagram Graph API. Access to Instagram’s OAuth API
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management)
 - [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 - [Mobile](https://github.com/apis-list/apis-list#mobile)
-- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management)
 - [Social](https://github.com/apis-list/apis-list#social)
 
 

@@ -18,7 +18,7 @@
 {{ if .api.DiscussionURI -}}[Discuss {{ .api.Name }}](.api.DiscussionURI){{else}}[Create discussion](https://github.com/apis-list/apis-list/discussions/new){{ end }}
 
 ## 🗄️ Categories:
-{{ range .api.Categories -}}
+{{ range .api.Categories | sort -}}
 - [{{ . }}](https://github.com/apis-list/apis-list#{{ . | slug }})
 {{ end }}
 

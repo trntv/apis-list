@@ -16,9 +16,9 @@ Grabs email addresses from a URL
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
-- [Email & SMS](https://github.com/apis-list/apis-list#email--sms)
 - [Development](https://github.com/apis-list/apis-list#development)
+- [Email & SMS](https://github.com/apis-list/apis-list#email--sms)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
 
 
 

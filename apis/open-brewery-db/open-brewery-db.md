@@ -17,8 +17,8 @@ The goal of Open Brewery DB is to maintain an open-source, community-drive. Abou
 
 ## 🗄️ Categories:
 - [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks)
-- [Reference](https://github.com/apis-list/apis-list#reference)
 - [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest)
+- [Reference](https://github.com/apis-list/apis-list#reference)
 
 
 

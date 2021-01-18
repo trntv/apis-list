@@ -14,9 +14,9 @@ Text To Speech API - CloudPronouncer (tts online or tts reader) is a cross brows
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Voice](https://github.com/apis-list/apis-list#voice)
 - [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
 - [IoT & Home Automation](https://github.com/apis-list/apis-list#iot--home-automation)
+- [Voice](https://github.com/apis-list/apis-list#voice)
 
 
 

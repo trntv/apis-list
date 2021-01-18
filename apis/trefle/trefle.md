@@ -15,8 +15,8 @@ Trefle is a botanical API and data source
 
 ## 🗄️ Categories:
 - [Agriculture](https://github.com/apis-list/apis-list#agriculture)
-- [Science & Math](https://github.com/apis-list/apis-list#science--math)
 - [Environment](https://github.com/apis-list/apis-list#environment)
+- [Science & Math](https://github.com/apis-list/apis-list#science--math)
 
 
 

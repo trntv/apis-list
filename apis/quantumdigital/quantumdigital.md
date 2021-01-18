@@ -16,10 +16,10 @@
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo)
 - [Business](https://github.com/apis-list/apis-list#business)
-- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
+- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo)
+- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics)
 
 
 

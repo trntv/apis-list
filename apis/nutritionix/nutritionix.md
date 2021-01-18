@@ -14,10 +14,10 @@ Already signed up and logged in? View your API key now. Try searching the API ri
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks)
 - [Bar & QR Codes](https://github.com/apis-list/apis-list#bar--qr-codes)
-- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness)
+- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks)
 - [Health](https://github.com/apis-list/apis-list#health)
+- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness)
 
 
 

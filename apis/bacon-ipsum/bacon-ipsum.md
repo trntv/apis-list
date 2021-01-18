@@ -14,8 +14,8 @@ JSON API for returning meaty lorem ipsum filler text.
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Testing](https://github.com/apis-list/apis-list#testing)
 - [Development](https://github.com/apis-list/apis-list#development)
+- [Testing](https://github.com/apis-list/apis-list#testing)
 
 
 

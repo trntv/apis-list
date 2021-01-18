@@ -14,8 +14,8 @@ Pastebin is a website where you can store text online for a set period of time. 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Text](https://github.com/apis-list/apis-list#text)
 - [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
+- [Text](https://github.com/apis-list/apis-list#text)
 
 
 

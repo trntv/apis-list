@@ -15,8 +15,8 @@ Grab a hold of the World’s Visual Language! Use it in your service or applicat
 
 ## 🗄️ Categories:
 - [Art & Design](https://github.com/apis-list/apis-list#art--design)
-- [Visualizations](https://github.com/apis-list/apis-list#visualizations)
 - [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
+- [Visualizations](https://github.com/apis-list/apis-list#visualizations)
 
 
 
