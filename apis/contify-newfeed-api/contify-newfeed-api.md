@@ -16,7 +16,7 @@ Contify's News Feed APIs provides a clean, company-based market and competitive 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [DevOps](https://github.com/apis-list/apis-list#devops)
+- [Development](https://github.com/apis-list/apis-list#development)
 
 
 

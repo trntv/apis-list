@@ -16,7 +16,7 @@ Offers self-service website and application performance monitoring solutions
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [DevOps](https://github.com/apis-list/apis-list#devops)
+- [Development](https://github.com/apis-list/apis-list#development)
 
 
 

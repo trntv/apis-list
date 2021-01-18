@@ -1,7 +1,7 @@
 # Shodan
 
 
-To ge. API-First Development The Shodan website, including Shodan Images and Shodan Maps, are powered by the API.  Anything that can be done using those websites you can also do directly via the API
+Shodan API, the easiest way to access the Shodan search engine on your own terms. Shodan is the world's first search engine for Internet-connected devices.
 
 ##  🔗 Links
 **Docs / Website**: https://developer.shodan.io/
@@ -14,7 +14,6 @@ To ge. API-First Development The Shodan website, including Shodan Images and Sho
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [DevOps](https://github.com/apis-list/apis-list#devops)
 - [IoT & Home Automation](https://github.com/apis-list/apis-list#iot--home-automation)
 - [Search](https://github.com/apis-list/apis-list#search)
 - [Security](https://github.com/apis-list/apis-list#security)

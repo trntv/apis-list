@@ -15,7 +15,6 @@ Welcome Please note this is an early release of our API and should be considered
 
 ## 🗄️ Categories:
 - [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging)
-- [DevOps](https://github.com/apis-list/apis-list#devops)
 - [Development](https://github.com/apis-list/apis-list#development)
 
 

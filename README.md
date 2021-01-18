@@ -46,7 +46,6 @@ Discuss any topic related to the specific API you can [here](https://github.com/
     - [Conversions](#conversions) 
     - [Currency](#currency) 
     - [Databases](#databases) 
-    - [DevOps](#devops) 
     - [Development](#development) 👨‍💻
     - [Documents & Productivity](#documents--productivity) 
     - [Education](#education) 
@@ -85,7 +84,6 @@ Discuss any topic related to the specific API you can [here](https://github.com/
     - [Patents](#patents) 
     - [Payments](#payments) 💳
     - [Personality](#personality) 
-    - [Photography](#photography) 
     - [Point of Interest](#point-of-interest) 
     - [Post & Logistics](#post--logistics) 
     - [Products](#products) 
@@ -669,13 +667,6 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Json Base](https://github.com/apis-list/apis-list/blob/main/apis/json-base/json-base.md) - API Based JSON Storage
 - [Rackspace Cloud Databases API](https://github.com/apis-list/apis-list/blob/main/apis/rackspace-cloud-databases-api/rackspace-cloud-databases-api.md) - Can be created, updated, and deleted using the OS::Trove::Instance resource
 - [Sheetsu](https://github.com/apis-list/apis-list/blob/main/apis/sheetsu/sheetsu.md) - Get data from Google Spreadsheet in a matter of seconds
- ### DevOps 
-- [Bittrex](https://github.com/apis-list/apis-list/blob/main/apis/bittrex/bittrex.md) - Bittrex provides a simple and powerful API consisting of REST endpoints for transactional operations and a complementary Websocket service providing streaming market and user data updates
-- [Contify Newfeed Api](https://github.com/apis-list/apis-list/blob/main/apis/contify-newfeed-api/contify-newfeed-api.md) - Contify's News Feed APIs provides a clean, company-based market and competitive intelligence feed with only business and industry-relevant information
-- [Gitter](https://github.com/apis-list/apis-list/blob/main/apis/gitter/gitter.md) - Welcome Please note this is an early release of our API and should be considered to be in beta at the moment
-- [Shodan](https://github.com/apis-list/apis-list/blob/main/apis/shodan/shodan.md) - To ge
-- [Skywatch](https://github.com/apis-list/apis-list/blob/main/apis/skywatch/skywatch.md) - Instead, EarthCache allows development teams to focus on the business application and in delivering actionable intelligence to the end-user
-- [Time Door](https://github.com/apis-list/apis-list/blob/main/apis/time-door/time-door.md) - A time series analysis API
  ### Development 👨‍💻
 - [24 Pull Requests](https://github.com/apis-list/apis-list/blob/main/apis/24-pull-requests/24-pull-requests.md) - 24 Pull Requests is a yearly initiative to encourage contributors around the world to send 24 pull requests between December 1st and December 24th
 - [API Platform](https://github.com/apis-list/apis-list/blob/main/apis/api-platform/api-platform.md) - REST and GraphQL framework on top of Symfony and React
@@ -691,6 +682,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Bacon Ipsum](https://github.com/apis-list/apis-list/blob/main/apis/bacon-ipsum/bacon-ipsum.md) - JSON API for returning meaty lorem ipsum filler text
 - [BetterMeta](https://github.com/apis-list/apis-list/blob/main/apis/bettermeta/bettermeta.md) - A simple API to return the meta tags of any site in a digestable JSON format
 - [Bitbucket](https://github.com/apis-list/apis-list/blob/main/apis/bitbucket/bitbucket.md) - Code against the Bitbucket API to automate simple tasks, embed Bitbucket data into your own site, build mobile or desktop apps, or even add custom UI add-ons into Bitbucket itself using the Connect framework
+- [Bittrex](https://github.com/apis-list/apis-list/blob/main/apis/bittrex/bittrex.md) - Bittrex provides a simple and powerful API consisting of REST endpoints for transactional operations and a complementary Websocket service providing streaming market and user data updates
 - [Bored](https://github.com/apis-list/apis-list/blob/main/apis/bored/bored.md) - Find random activities to fight boredom
 - [CDNJS](https://github.com/apis-list/apis-list/blob/main/apis/cdnjs/cdnjs.md) - cdnjs provides a simple API to allow anyone to quickly query the libraries we have on the CDN
 - [CarsXE API](https://github.com/apis-list/apis-list/blob/main/apis/carsxe-api/carsxe-api.md) - Get access to millions of vehicle records, specs, ownership costs and market values
@@ -699,6 +691,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [CircleCI](https://github.com/apis-list/apis-list/blob/main/apis/circleci/circleci.md) - CircleCI V1 API Overview The CircleCI API is a full-featured RESTful API that allows you to access all information and trigger all actions in CircleCI
 - [Codacy API](https://github.com/apis-list/apis-list/blob/main/apis/codacy-api/codacy-api.md) - 0 Scroll down for code samples, example requests and responses
 - [Codeship](https://github.com/apis-list/apis-list/blob/main/apis/codeship/codeship.md) - Hosted API documentation for every OAS (Swagger) and RAML spec out there
+- [Contify Newfeed Api](https://github.com/apis-list/apis-list/blob/main/apis/contify-newfeed-api/contify-newfeed-api.md) - Contify's News Feed APIs provides a clean, company-based market and competitive intelligence feed with only business and industry-relevant information
 - [CountAPI](https://github.com/apis-list/apis-list/blob/main/apis/countapi/countapi.md) - You can use it to track page hits, and specific events among other things
 - [Countly](https://github.com/apis-list/apis-list/blob/main/apis/countly/countly.md) - Countly is the best analytics platform to understand and enhance customer journeys in web, desktop and mobile applications
 - [Creative Commons Catalog](https://github.com/apis-list/apis-list/blob/main/apis/creative-commons-catalog/creative-commons-catalog.md) - The Creative Commons Catalog API ('cccatalog-api') is a system that allows programmatic access to public domain digital media
@@ -767,9 +760,11 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Satyr](https://github.com/apis-list/apis-list/blob/main/apis/satyr/satyr.md) - Free powerful API for generating dummy images with unique features like delay, aspect ratio, variable resolution, themes, flags and offline mode
 - [Scraper.AI](https://github.com/apis-list/apis-list/blob/main/apis/scraper-ai/scraper-ai.md) - Scraper
 - [Scrapestack](https://github.com/apis-list/apis-list/blob/main/apis/scrapestack/scrapestack.md) - Use this proxy and web scraping REST API to extract html data from any web page, supporting 100 geolocations, CAPTCHAs and IP rotation for millions of IPs
+- [Skywatch](https://github.com/apis-list/apis-list/blob/main/apis/skywatch/skywatch.md) - Instead, EarthCache allows development teams to focus on the business application and in delivering actionable intelligence to the end-user
 - [Smartcar](https://github.com/apis-list/apis-list/blob/main/apis/smartcar/smartcar.md) - Build web and mobile apps that communicate with vehicles
 - [Swagger](https://github.com/apis-list/apis-list/blob/main/apis/swagger/swagger.md) - Find out how Swagger can help you and get started today
 - [Team Foundation Server](https://github.com/apis-list/apis-list/blob/main/apis/team-foundation-server/team-foundation-server.md) - Overview of integrating with Azure DevOps
+- [Time Door](https://github.com/apis-list/apis-list/blob/main/apis/time-door/time-door.md) - A time series analysis API
 - [Traitify](https://github.com/apis-list/apis-list/blob/main/apis/traitify/traitify.md) - Traitify API documentation and developer portal
 - [Travis CI](https://github.com/apis-list/apis-list/blob/main/apis/travis-ci/travis-ci.md) - If you’re new to the Travis CI API, you should be using API V3
 - [Unix Timestamp Converteri](https://github.com/apis-list/apis-list/blob/main/apis/unix-timestamp-converteri/unix-timestamp-converteri.md) - ﻿ Unix Timestamp Converter API Unix Timestamp converter REST API Convert Unix Timestamps to DateTime objects and DateTime objects to Unix Timestamps This WebService was built in 20 minutes using Li
@@ -1310,7 +1305,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Particle](https://github.com/apis-list/apis-list/blob/main/apis/particle/particle.md) - API to manage Particle devices (including their own Arduino-compatible ones and the Raspberry Pi) and control them
 - [Philips Hue](https://github.com/apis-list/apis-list/blob/main/apis/philips-hue/philips-hue.md) - Step 2 Then you need to discover the IP address of the bridge on your network
 - [PubNub](https://github.com/apis-list/apis-list/blob/main/apis/pubnub/pubnub.md) - <div class="homepage-wrap">
-- [Shodan](https://github.com/apis-list/apis-list/blob/main/apis/shodan/shodan.md) - To ge
+- [Shodan](https://github.com/apis-list/apis-list/blob/main/apis/shodan/shodan.md) - Shodan API, the easiest way to access the Shodan search engine on your own terms
 - [SmartThings](https://github.com/apis-list/apis-list/blob/main/apis/smartthings/smartthings.md) - An open, programmatic interface for controlling smart devices The SmartThings platform has the largest coverage of competitive IoT devices on the market, including Samsung devices and appliances
 - [Temboo SDK](https://github.com/apis-list/apis-list/blob/main/apis/temboo-sdk/temboo-sdk.md) - This platform acts as a layer on top of third-party APIs, using code snippets to trigger complex processes that run through their cloud platform
 - [ThingSpeak](https://github.com/apis-list/apis-list/blob/main/apis/thingspeak/thingspeak.md) - “Internet of Things” application and API to store and retrieve data from things using HTTP over the Internet or via a Local Area Network
@@ -1655,7 +1650,6 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Quotes on Design](https://github.com/apis-list/apis-list/blob/main/apis/quotes-on-design/quotes-on-design.md) - Except with a few lines of code such that ?orderby=rand works
 - [Traitify](https://github.com/apis-list/apis-list/blob/main/apis/traitify/traitify.md) - Traitify API documentation and developer portal
 - [icanhazdadjoke](https://github.com/apis-list/apis-list/blob/main/apis/icanhazdadjoke/icanhazdadjoke.md) - The largest collection of dad jokes on the internet
- ### Photography 
  ### Point of Interest 
 - [CityGrid](https://github.com/apis-list/apis-list/blob/main/apis/citygrid/citygrid.md) - Enables developers to create web and mobile applications that find local businesses, organizations, and points of interest by a variety of search criteria
 - [Eventful API](https://github.com/apis-list/apis-list/blob/main/apis/eventful-api/eventful-api.md) - Eventful is a leading digital media company connecting consumers with entertainment, movies and local events
@@ -1852,7 +1846,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Petfinder](https://github.com/apis-list/apis-list/blob/main/apis/petfinder/petfinder.md) - Learn how to use our API to build your own website or applications backed by the same data we use on Petfinder
 - [Qmeta Global Search Engine](https://github.com/apis-list/apis-list/blob/main/apis/qmeta-global-search-engine/qmeta-global-search-engine.md) - RadSportRadar ist eine Übersichtskarte über alle gemeldeten Straßenschäden und Gefahrenstellen die so gravierend sind, dass sie zu einem Unfall führen könnten
 - [Scrapestack](https://github.com/apis-list/apis-list/blob/main/apis/scrapestack/scrapestack.md) - Use this proxy and web scraping REST API to extract html data from any web page, supporting 100 geolocations, CAPTCHAs and IP rotation for millions of IPs
-- [Shodan](https://github.com/apis-list/apis-list/blob/main/apis/shodan/shodan.md) - To ge
+- [Shodan](https://github.com/apis-list/apis-list/blob/main/apis/shodan/shodan.md) - Shodan API, the easiest way to access the Shodan search engine on your own terms
 - [Shutterstock](https://github.com/apis-list/apis-list/blob/main/apis/shutterstock/shutterstock.md) - Streamline user experience with the stock image, video, and music API trusted by Facebook, Google, Wix, and more
 - [Slack](https://github.com/apis-list/apis-list/blob/main/apis/slack/slack.md) - Slack APIs allow you to integrate complex services with Slack to go beyond the integrations we provide out of the box
 - [TMDb](https://github.com/apis-list/apis-list/blob/main/apis/tmdb/tmdb.md) - TMDb provides powerful searches as well as powerful movie discovery
@@ -1897,7 +1891,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Pulsedive](https://github.com/apis-list/apis-list/blob/main/apis/pulsedive/pulsedive.md) - Pulsedive is a free threat intelligence platform
 - [Qmeta Global Search Engine](https://github.com/apis-list/apis-list/blob/main/apis/qmeta-global-search-engine/qmeta-global-search-engine.md) - RadSportRadar ist eine Übersichtskarte über alle gemeldeten Straßenschäden und Gefahrenstellen die so gravierend sind, dass sie zu einem Unfall führen könnten
 - [SecurityTrails](https://github.com/apis-list/apis-list/blob/main/apis/securitytrails/securitytrails.md) - SecurityTrails currently offers three different products that can help you enrich your data, search for information, and find relevant security information for organizations in no time
-- [Shodan](https://github.com/apis-list/apis-list/blob/main/apis/shodan/shodan.md) - To ge
+- [Shodan](https://github.com/apis-list/apis-list/blob/main/apis/shodan/shodan.md) - Shodan API, the easiest way to access the Shodan search engine on your own terms
 - [UK Police](https://github.com/apis-list/apis-list/blob/main/apis/uk-police/uk-police.md) - Police API Documentation The API provides a rich data source for information, including: Neighbourhood team members Upcoming events Street-level crime and outcome data Nearest police stations The A
 - [URLScan.io](https://github.com/apis-list/apis-list/blob/main/apis/urlscan-io/urlscan-io.md) - urlscan
 - [VirusTotal](https://github.com/apis-list/apis-list/blob/main/apis/virustotal/virustotal.md) - The VirusTotal API lets you upload and scan files or URLs, access finished scan reports and make automatic comments without the need of using the website interface
