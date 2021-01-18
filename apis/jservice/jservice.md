@@ -1,6 +1,6 @@
 # Jservice
 
-Trivia Questions. Get answers, (and the correct questions) from 20+ years of Jeopardy episodes
+Trivia Questions. Get answers (and the correct questions) from 20+ years of Jeopardy episodes
 
 ##  🔗 Links
 **Docs / Website**: http://jservice.io

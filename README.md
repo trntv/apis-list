@@ -1168,7 +1168,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [GraphQL Jobs](https://github.com/apis-list/apis-list/blob/main/apis/graphql-jobs/graphql-jobs.md) - GET query missing
 - [Indeed](https://github.com/apis-list/apis-list/blob/main/apis/indeed/indeed.md) - Post your jobs on Indeed, the #1 job site worldwide
 - [Jobs2Careers](https://github.com/apis-list/apis-list/blob/main/apis/jobs2careers/jobs2careers.md) - %PDF-1
-- [Jooble](https://github.com/apis-list/apis-list/blob/main/apis/jooble/jooble.md) - NET 4 or later) Javascript Php Python 2
+- [Jooble](https://github.com/apis-list/apis-list/blob/main/apis/jooble/jooble.md) - The REST API allows developers to access and integrate Jooble's search results within your web products, or to build an entirely new web product of your own
 - [Juju](https://github.com/apis-list/apis-list/blob/main/apis/juju/juju.md) - Juju
 - [Open Skills](https://github.com/apis-list/apis-list/blob/main/apis/open-skills/open-skills.md) - Skills API
 - [Product Hunt](https://github.com/apis-list/apis-list/blob/main/apis/product-hunt/product-hunt.md) - The best new products, every day
@@ -1606,7 +1606,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Iconfinder](https://github.com/apis-list/apis-list/blob/main/apis/iconfinder/iconfinder.md) - The Iconfinder API is a HTTP JSON API and allows you to programatically access resources on the service, such as icons, icon sets, categories, styles, authors, etc
 - [Indeed](https://github.com/apis-list/apis-list/blob/main/apis/indeed/indeed.md) - Post your jobs on Indeed, the #1 job site worldwide
 - [Intellexer](https://github.com/apis-list/apis-list/blob/main/apis/intellexer/intellexer.md) - Processing (NLP) Service including sentiment analysis, content extraction, and language detection
-- [Jooble](https://github.com/apis-list/apis-list/blob/main/apis/jooble/jooble.md) - NET 4 or later) Javascript Php Python 2
+- [Jooble](https://github.com/apis-list/apis-list/blob/main/apis/jooble/jooble.md) - The REST API allows developers to access and integrate Jooble's search results within your web products, or to build an entirely new web product of your own
 - [Lolwallpapers Api](https://github.com/apis-list/apis-list/blob/main/apis/lolwallpapers-api/lolwallpapers-api.md) - League of Legends Wallpapers website official API
 - [Mapbox Geocoding API](https://github.com/apis-list/apis-list/blob/main/apis/mapbox-geocoding-api/mapbox-geocoding-api.md) - The Mapbox Geocoding API does forward geocoding (search place names and return coordinates) and reverse geocoding (search coordinates and return place names)
 - [NewsAPI](https://github.com/apis-list/apis-list/blob/main/apis/newsapi/newsapi.md) - Search worldwide news articles and headlines from all over the web in real-time with our free News API
