@@ -8,17 +8,17 @@ MetaCert takes just 1 minute to install and reduces the risk of identity theft, 
 ##  🔗 Links
 **Docs / Website**: https://metacert.com/
 
-## 🧬 Specification:
+## 🧬 Metacert Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Metacert Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Security](https://github.com/apis-list/apis-list#security)
+- [Security](https://github.com/apis-list/apis-list#security-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

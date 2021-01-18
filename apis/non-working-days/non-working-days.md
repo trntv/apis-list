@@ -8,17 +8,17 @@ Open repository of non-working days ics files. Open repository of non-working da
 ##  🔗 Links
 **Docs / Website**: https://github.com/gadael/icsdb
 
-## 🧬 Specification:
+## 🧬 Non-Working Days Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Non-Working Days Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time)
+- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -6,18 +6,18 @@ Monetize across platforms with multiple ad formats.  Mobile Ads Monetize your gl
 ##  🔗 Links
 **Docs / Website**: https://developer.amazon.com/mobile-ads
 
-## 🧬 Specification:
+## 🧬 Amazon Mobile Ads Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Amazon Mobile Ads Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
+- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

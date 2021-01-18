@@ -6,17 +6,17 @@ Liturgical Calendar API Browse the calendar on-line, Learn how to obtain data fr
 ##  🔗 Links
 **Docs / Website**: http://calapi.inadiutorium.cz/
 
-## 🧬 Specification:
+## 🧬 Church Calendar Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Church Calendar Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time)
+- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

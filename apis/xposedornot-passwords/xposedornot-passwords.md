@@ -6,17 +6,17 @@ XposedOrNot is a collection of ~850 million real time passwords collated from re
 ##  🔗 Links
 **Docs / Website**: https://xposedornot.com/api_doc
 
-## 🧬 Specification:
+## 🧬 Xposedornot Passwords Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Xposedornot Passwords Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Security](https://github.com/apis-list/apis-list#security)
+- [Security](https://github.com/apis-list/apis-list#security-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

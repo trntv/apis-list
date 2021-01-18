@@ -8,17 +8,17 @@ Here you will find everything you need to get started with your integration of o
 ##  🔗 Links
 **Docs / Website**: https://www.ip1sms.com/en/developer/
 
-## 🧬 Specification:
+## 🧬 iP1sms Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 iP1sms Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Email & SMS](https://github.com/apis-list/apis-list#email--sms)
+- [Email & SMS](https://github.com/apis-list/apis-list#email--sms-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

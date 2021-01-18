@@ -6,17 +6,17 @@ The GitHub Jobs API allows you to search, and view jobs with JSON over HTTP.  To
 ##  🔗 Links
 **Docs / Website**: https://jobs.github.com/api
 
-## 🧬 Specification:
+## 🧬 Github Jobs Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Github Jobs Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Jobs](https://github.com/apis-list/apis-list#jobs)
+- [Jobs](https://github.com/apis-list/apis-list#jobs-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

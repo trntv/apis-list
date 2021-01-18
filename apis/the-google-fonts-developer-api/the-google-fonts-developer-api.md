@@ -8,17 +8,17 @@ High-quality fonts to use on your web site
 ##  🔗 Links
 **Docs / Website**: https://developers.google.com/fonts/?hl=en
 
-## 🧬 Specification:
+## 🧬 The Google Fonts Developer API. Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 The Google Fonts Developer API. Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Art & Design](https://github.com/apis-list/apis-list#art--design)
+- [Art & Design](https://github.com/apis-list/apis-list#art--design-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

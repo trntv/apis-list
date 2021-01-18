@@ -6,17 +6,17 @@ Stop bots and manual spam from reaching you or your customer. All with high accu
 ##  🔗 Links
 **Docs / Website**: https://oopspam.com/
 
-## 🧬 Specification:
+## 🧬 OOPSpam Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 OOPSpam Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Security](https://github.com/apis-list/apis-list#security)
+- [Security](https://github.com/apis-list/apis-list#security-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

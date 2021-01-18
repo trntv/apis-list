@@ -8,17 +8,17 @@ Contify's News Feed APIs provides a clean, company-based market and competitive 
 ##  🔗 Links
 **Docs / Website**: https://www.contify.com/news-feed-api/
 
-## 🧬 Specification:
+## 🧬 Contify Newfeed Api Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Contify Newfeed Api Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,18 +8,18 @@ A public service API all about cat pictures.  A public service API all about Cat
 ##  🔗 Links
 **Docs / Website**: https://TheCatAPI.com
 
-## 🧬 Specification:
+## 🧬 The Cat Api Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 The Cat Api Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Animals](https://github.com/apis-list/apis-list#animals)
-- [Fun](https://github.com/apis-list/apis-list#fun)
+- [Animals](https://github.com/apis-list/apis-list#animals-)
+- [Fun](https://github.com/apis-list/apis-list#fun-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

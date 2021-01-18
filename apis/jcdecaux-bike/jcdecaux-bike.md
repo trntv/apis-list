@@ -6,17 +6,17 @@ From the location of the bike stations to the availability of bikes and parking 
 ##  🔗 Links
 **Docs / Website**: https://developer.jcdecaux.com/
 
-## 🧬 Specification:
+## 🧬 JCDecaux Bike Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 JCDecaux Bike Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness)
+- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

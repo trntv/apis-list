@@ -6,17 +6,17 @@ Shorten long URLs and optionally protect them with passwords or captcha.  No reg
 ##  🔗 Links
 **Docs / Website**: https://anon.click/api/
 
-## 🧬 Specification:
+## 🧬 Anon.click Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Anon.click Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [URLs](https://github.com/apis-list/apis-list#urls)
+- [URLs](https://github.com/apis-list/apis-list#urls-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

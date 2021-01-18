@@ -8,18 +8,18 @@ Contribute to reddit-archive/reddit development by creating an account on GitHub
 ##  🔗 Links
 **Docs / Website**: https://github.com/reddit/reddit/wiki/API
 
-## 🧬 Specification:
+## 🧬 Reddit Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Reddit Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
-- [Social](https://github.com/apis-list/apis-list#social)
+- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds-)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

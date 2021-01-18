@@ -6,18 +6,18 @@ Web Service The AcoustID web service currently supports only two operations, sea
 ##  🔗 Links
 **Docs / Website**: https://acoustid.org/webservice
 
-## 🧬 Specification:
+## 🧬 Acoustid Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Acoustid Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
-- [Video & Media](https://github.com/apis-list/apis-list#video--media)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

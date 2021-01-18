@@ -8,20 +8,20 @@ QuantumDigital’s APIs make navigating the USPS, securing national consumer and
 ##  🔗 Links
 **Docs / Website**: https://developer.quantumdigital.com
 
-## 🧬 Specification:
+## 🧬 Quantumdigital Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Quantumdigital Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Business](https://github.com/apis-list/apis-list#business)
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo)
-- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics)
+- [Business](https://github.com/apis-list/apis-list#business-)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
+- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo-)
+- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

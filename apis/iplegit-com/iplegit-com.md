@@ -6,17 +6,17 @@ Easily detect possible bad users and act upon them. Simple and free to use IP lo
 ##  🔗 Links
 **Docs / Website**: https://iplegit.com
 
-## 🧬 Specification:
+## 🧬 Iplegit.Com Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Iplegit.Com Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Other](https://github.com/apis-list/apis-list#other)
+- [Other](https://github.com/apis-list/apis-list#other-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

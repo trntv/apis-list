@@ -6,17 +6,17 @@ Our Anomaly API gives you IP & Domain Data for your Business.  Lookup threat int
 ##  🔗 Links
 **Docs / Website**: https://www.monapi.io
 
-## 🧬 Specification:
+## 🧬 Monapi - Ip Address & Domain Api Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Monapi - Ip Address & Domain Api Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Security](https://github.com/apis-list/apis-list#security)
+- [Security](https://github.com/apis-list/apis-list#security-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

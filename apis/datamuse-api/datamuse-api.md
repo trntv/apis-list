@@ -6,20 +6,20 @@ Word-finding query engine that finds words that match a given set of constraints
 ##  🔗 Links
 **Docs / Website**: https://www.datamuse.com/api/
 
-## 🧬 Specification:
+## 🧬 Datamuse API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Datamuse API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
-- [Search](https://github.com/apis-list/apis-list#search)
-- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries-)
+- [Search](https://github.com/apis-list/apis-list#search-)
+- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

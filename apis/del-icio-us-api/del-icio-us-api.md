@@ -8,18 +8,18 @@ Keep, share, and discover the best of the Web using Delicious, the world's leadi
 ##  🔗 Links
 **Docs / Website**: https://delicious.com/developers#title1
 
-## 🧬 Specification:
+## 🧬 Del.Icio.Us API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Del.Icio.Us API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Bookmarks](https://github.com/apis-list/apis-list#bookmarks)
-- [Social](https://github.com/apis-list/apis-list#social)
+- [Bookmarks](https://github.com/apis-list/apis-list#bookmarks-)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

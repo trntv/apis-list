@@ -8,17 +8,17 @@ With Calendarific API you can display the dates of public holidays, bank holiday
 ##  🔗 Links
 **Docs / Website**: https://calendarific.com/api-documentation
 
-## 🧬 Specification:
+## 🧬 Calendarific Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Calendarific Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time)
+- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

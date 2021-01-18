@@ -8,18 +8,18 @@ Invoicing for online businesses. Simplify your invoicing process and get paid on
 ##  🔗 Links
 **Docs / Website**: https://www.envoice.in
 
-## 🧬 Specification:
+## 🧬 envoice Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 envoice Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Payments](https://github.com/apis-list/apis-list#payments)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
+- [Payments](https://github.com/apis-list/apis-list#payments-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

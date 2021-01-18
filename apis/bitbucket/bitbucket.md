@@ -8,17 +8,17 @@ Code against the Bitbucket API to automate simple tasks, embed Bitbucket data in
 ##  🔗 Links
 **Docs / Website**: https://developer.atlassian.com/bitbucket/api/2/reference/
 
-## 🧬 Specification:
+## 🧬 Bitbucket Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Bitbucket Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

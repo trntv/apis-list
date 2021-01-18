@@ -9,19 +9,19 @@ Hosted on the Open Science Framework
 ##  🔗 Links
 **Docs / Website**: https://osf.io/y9jdt/wiki/home/
 
-## 🧬 Specification:
+## 🧬 Open Science Framework Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Open Science Framework Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Collaboration](https://github.com/apis-list/apis-list#collaboration)
-- [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
-- [Science & Math](https://github.com/apis-list/apis-list#science--math)
+- [Collaboration](https://github.com/apis-list/apis-list#collaboration-)
+- [Files & Storage](https://github.com/apis-list/apis-list#files--storage-)
+- [Science & Math](https://github.com/apis-list/apis-list#science--math-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

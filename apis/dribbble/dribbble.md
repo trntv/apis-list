@@ -8,17 +8,17 @@ Build and integrate tools and applications to help members publish their design 
 ##  🔗 Links
 **Docs / Website**: http://developer.dribbble.com/
 
-## 🧬 Specification:
+## 🧬 Dribbble Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Dribbble Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Art & Design](https://github.com/apis-list/apis-list#art--design)
+- [Art & Design](https://github.com/apis-list/apis-list#art--design-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

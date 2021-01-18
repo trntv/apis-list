@@ -8,18 +8,18 @@ Central bank of Russian Federation
 ##  🔗 Links
 **Docs / Website**: https://www.cbr.ru/development/
 
-## 🧬 Specification:
+## 🧬 Russian Central Bank Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Russian Central Bank Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
-- [Government](https://github.com/apis-list/apis-list#government)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics-)
+- [Government](https://github.com/apis-list/apis-list#government-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,17 +8,17 @@ NPR's API is a content API, which essentially provides a structured way for othe
 ##  🔗 Links
 **Docs / Website**: https://dev.npr.org/
 
-## 🧬 Specification:
+## 🧬 NPR API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 NPR API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

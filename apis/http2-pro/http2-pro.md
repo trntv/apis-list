@@ -6,17 +6,17 @@ Pro, Client HTTP/2 Support API. HTTP2. HTTP2
 ##  🔗 Links
 **Docs / Website**: https://http2.pro/doc/api
 
-## 🧬 Specification:
+## 🧬 HTTP2.Pro Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 HTTP2.Pro Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

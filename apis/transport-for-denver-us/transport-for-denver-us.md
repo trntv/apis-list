@@ -8,17 +8,17 @@ All passengers are required to wear face masks on RTD services. Capacity is limi
 ##  🔗 Links
 **Docs / Website**: http://www.rtd-denver.com/gtfs-developer-guide.shtml
 
-## 🧬 Specification:
+## 🧬 Transport for Denver, US Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Transport for Denver, US Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,19 +8,19 @@ Lorem Ipsum, but for photos.
 ##  🔗 Links
 **Docs / Website**: https://picsum.photos/
 
-## 🧬 Specification:
+## 🧬 Lorem Picsum Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Lorem Picsum Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Art & Design](https://github.com/apis-list/apis-list#art--design)
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
-- [Random](https://github.com/apis-list/apis-list#random)
+- [Art & Design](https://github.com/apis-list/apis-list#art--design-)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Random](https://github.com/apis-list/apis-list#random-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

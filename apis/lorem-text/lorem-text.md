@@ -8,17 +8,17 @@ Generates Lorem Ipsum text
 ##  🔗 Links
 **Docs / Website**: https://market.mashape.com/montanaflynn/lorem-text-generator
 
-## 🧬 Specification:
+## 🧬 Lorem Text Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Lorem Text Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Testing](https://github.com/apis-list/apis-list#testing)
+- [Testing](https://github.com/apis-list/apis-list#testing-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

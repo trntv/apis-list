@@ -6,17 +6,17 @@
 ##  🔗 Links
 **Docs / Website**: https://jesusapi.000webhostapp.com
 
-## 🧬 Specification:
+## 🧬 Jesus Api Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Jesus Api Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Other](https://github.com/apis-list/apis-list#other)
+- [Other](https://github.com/apis-list/apis-list#other-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

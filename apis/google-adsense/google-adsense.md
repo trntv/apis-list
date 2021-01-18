@@ -8,17 +8,17 @@ Google AdSense provides a free, flexible way to earn money from your websites, m
 ##  🔗 Links
 **Docs / Website**: https://developers.google.com/adsense/?hl=en
 
-## 🧬 Specification:
+## 🧬 Google AdSense Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Google AdSense Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo)
+- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,17 +8,17 @@ Get realtime delivery and transparency to develop your iOS and Android apps.  #P
 ##  🔗 Links
 **Docs / Website**: https://pusher.com/beams
 
-## 🧬 Specification:
+## 🧬 Pusher Beams Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Pusher Beams Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

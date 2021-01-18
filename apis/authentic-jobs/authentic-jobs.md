@@ -6,17 +6,17 @@ Since 2005. Job board for designers, hackers and creative pros. The leading job 
 ##  🔗 Links
 **Docs / Website**: https://authenticjobs.com/api/docs
 
-## 🧬 Specification:
+## 🧬 Authentic Jobs Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Authentic Jobs Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Jobs](https://github.com/apis-list/apis-list#jobs)
+- [Jobs](https://github.com/apis-list/apis-list#jobs-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

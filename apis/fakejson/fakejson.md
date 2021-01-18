@@ -8,18 +8,18 @@ Easily create custom HTTP resources complete with fake data.  fakeJSON's API sca
 ##  🔗 Links
 **Docs / Website**: https://fakejson.com
 
-## 🧬 Specification:
+## 🧬 FakeJSON Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 FakeJSON Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
-- [Testing](https://github.com/apis-list/apis-list#testing)
+- [Development](https://github.com/apis-list/apis-list#development-)
+- [Testing](https://github.com/apis-list/apis-list#testing-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

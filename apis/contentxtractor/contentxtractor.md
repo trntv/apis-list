@@ -8,17 +8,17 @@ Extract relevant content from articles. ContentXtractor automatically extracts r
 ##  🔗 Links
 **Docs / Website**: https://contentxtractor.com
 
-## 🧬 Specification:
+## 🧬 Contentxtractor Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Contentxtractor Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

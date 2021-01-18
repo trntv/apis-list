@@ -8,17 +8,17 @@ Battlefield 4 Information. P-Stats Player Stats Network As of October 27, 2019 t
 ##  🔗 Links
 **Docs / Website**: https://endof.p-stats.com/
 
-## 🧬 Specification:
+## 🧬 Battlefield 4 Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Battlefield 4 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Games](https://github.com/apis-list/apis-list#games)
+- [Games](https://github.com/apis-list/apis-list#games-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

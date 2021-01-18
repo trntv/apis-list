@@ -6,17 +6,17 @@ The only Food API you'll ever need. Spoonacular offers its food parsing, matchin
 ##  🔗 Links
 **Docs / Website**: https://spoonacular.com/food-api
 
-## 🧬 Specification:
+## 🧬 Spoonacular Food API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Spoonacular Food API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks)
+- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

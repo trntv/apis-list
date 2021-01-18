@@ -8,17 +8,17 @@ Enables professionals and businesses to research and publish content through its
 ##  🔗 Links
 **Docs / Website**: http://www.scoop.it/dev
 
-## 🧬 Specification:
+## 🧬 Scoop.it Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Scoop.it Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo)
+- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

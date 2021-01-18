@@ -8,17 +8,17 @@ Multi color and different sizes illustrate the frequency, and the “vibe” of 
 ##  🔗 Links
 **Docs / Website**: https://www.mashape.com/gatheringpoint/Word-Cloud-Maker
 
-## 🧬 Specification:
+## 🧬 Word Cloud Maker Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Word Cloud Maker Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools)
+- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

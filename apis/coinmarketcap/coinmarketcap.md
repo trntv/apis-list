@@ -8,17 +8,17 @@ Cryptocurrencies Prices. Use CoinMarketCap's free crypto API to get the best, mo
 ##  🔗 Links
 **Docs / Website**: https://coinmarketcap.com/api/
 
-## 🧬 Specification:
+## 🧬 CoinMarketCap Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 CoinMarketCap Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

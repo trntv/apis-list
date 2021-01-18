@@ -8,18 +8,18 @@ FavQs allows you to collect, discover, and share your favorite quotes.
 ##  🔗 Links
 **Docs / Website**: https://favqs.com/api
 
-## 🧬 Specification:
+## 🧬 FavQs Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 FavQs Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
-- [Fun](https://github.com/apis-list/apis-list#fun)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries-)
+- [Fun](https://github.com/apis-list/apis-list#fun-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

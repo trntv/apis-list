@@ -6,22 +6,22 @@ Multilingual summarization, keywords and sentiment analysis, language recognitio
 ##  🔗 Links
 **Docs / Website**: https://www.summarizebot.com/summarization_business.html
 
-## 🧬 Specification:
+## 🧬 SummarizeBot API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 SummarizeBot API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
-- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
-- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
-- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity-)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds-)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining-)
+- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

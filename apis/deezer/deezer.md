@@ -8,19 +8,19 @@ Deezer API provides a nice set of services to build up web applications allowing
 ##  🔗 Links
 **Docs / Website**: http://developers.deezer.com/api
 
-## 🧬 Specification:
+## 🧬 Deezer Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Deezer Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
-- [Search](https://github.com/apis-list/apis-list#search)
-- [Video & Media](https://github.com/apis-list/apis-list#video--media)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)
+- [Search](https://github.com/apis-list/apis-list#search-)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

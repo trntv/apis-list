@@ -8,17 +8,17 @@ Coin predictions as a service. Automatically fetch coin data from various exchan
 ##  🔗 Links
 **Docs / Website**: https://technical-analysis-api.com
 
-## 🧬 Specification:
+## 🧬 Technical Analysis Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Technical Analysis Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

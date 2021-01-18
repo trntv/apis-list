@@ -6,17 +6,17 @@ Weather API for businesses & data science. 0001/record. com/weather-data) inside
 ##  🔗 Links
 **Docs / Website**: https://www.visualcrossing.com/weather-api
 
-## 🧬 Specification:
+## 🧬 Visual Crossing Weather Api Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Visual Crossing Weather Api Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Weather](https://github.com/apis-list/apis-list#weather)
+- [Weather](https://github.com/apis-list/apis-list#weather-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

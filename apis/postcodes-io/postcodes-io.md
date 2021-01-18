@@ -8,18 +8,18 @@ Search, validate and reverse geocode postcodes. An open sourced project by Ideal
 ##  🔗 Links
 **Docs / Website**: https://postcodes.io
 
-## 🧬 Specification:
+## 🧬 Postcodes.io Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Postcodes.io Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
-- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
+- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

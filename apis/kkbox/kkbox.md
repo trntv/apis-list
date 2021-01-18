@@ -8,17 +8,17 @@ Get ready to unbox the joy of music!
 ##  🔗 Links
 **Docs / Website**: https://developer.kkbox.com
 
-## 🧬 Specification:
+## 🧬 KKBOX Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 KKBOX Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

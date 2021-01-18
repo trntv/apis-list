@@ -6,17 +6,17 @@ Judge0 - API Documentation Judge0 is a robust, scalable, and open-source online 
 ##  🔗 Links
 **Docs / Website**: https://api.judge0.com/
 
-## 🧬 Specification:
+## 🧬 Judge0 API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Judge0 API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Other](https://github.com/apis-list/apis-list#other)
+- [Other](https://github.com/apis-list/apis-list#other-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -6,17 +6,17 @@ A check-in made to a location-based Page
 ##  🔗 Links
 **Docs / Website**: https://developers.facebook.com/docs/graph-api/reference/v2.3/checkin
 
-## 🧬 Specification:
+## 🧬 Facebook Check-In Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Facebook Check-In Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest)
+- [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,17 +8,17 @@ Public SDK for Intelligence X. Contribute to IntelligenceX/SDK development by cr
 ##  🔗 Links
 **Docs / Website**: https://github.com/IntelligenceX/SDK/blob/master/Intelligence%20X%20API.pdf
 
-## 🧬 Specification:
+## 🧬 Intelligence X Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Intelligence X Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Security](https://github.com/apis-list/apis-list#security)
+- [Security](https://github.com/apis-list/apis-list#security-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

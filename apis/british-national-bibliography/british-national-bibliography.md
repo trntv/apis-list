@@ -8,17 +8,17 @@ Welcome to bnb. data. bl. uk TheBritish National Bibliography(BNB) records the p
 ##  🔗 Links
 **Docs / Website**: http://bnb.data.bl.uk/
 
-## 🧬 Specification:
+## 🧬 British National Bibliography Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 British National Bibliography Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Books](https://github.com/apis-list/apis-list#books)
+- [Books](https://github.com/apis-list/apis-list#books-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,17 +8,17 @@ Historical, real-time and nowcast weather data.
 ##  🔗 Links
 **Docs / Website**: https://developer.climacell.co
 
-## 🧬 Specification:
+## 🧬 Climacell Micro Weather Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Climacell Micro Weather Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Weather](https://github.com/apis-list/apis-list#weather)
+- [Weather](https://github.com/apis-list/apis-list#weather-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

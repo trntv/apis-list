@@ -8,19 +8,19 @@ It allows you to create client programs in any programming language with an HTTP
 ##  🔗 Links
 **Docs / Website**: https://www.programmableweb.com/api/matlab
 
-## 🧬 Specification:
+## 🧬 Matlab Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Matlab Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
-- [Science & Math](https://github.com/apis-list/apis-list#science--math)
-- [Visualizations](https://github.com/apis-list/apis-list#visualizations)
+- [Development](https://github.com/apis-list/apis-list#development-)
+- [Science & Math](https://github.com/apis-list/apis-list#science--math-)
+- [Visualizations](https://github.com/apis-list/apis-list#visualizations-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

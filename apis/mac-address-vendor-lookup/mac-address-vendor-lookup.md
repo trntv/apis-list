@@ -8,19 +8,19 @@ The MAC address API allows you to retrieve OUI vendor information, detect virtua
 ##  🔗 Links
 **Docs / Website**: https://macaddress.io/api
 
-## 🧬 Specification:
+## 🧬 MAC address vendor lookup Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 MAC address vendor lookup Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
-- [Hardware](https://github.com/apis-list/apis-list#hardware)
-- [Security](https://github.com/apis-list/apis-list#security)
+- [Development](https://github.com/apis-list/apis-list#development-)
+- [Hardware](https://github.com/apis-list/apis-list#hardware-)
+- [Security](https://github.com/apis-list/apis-list#security-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

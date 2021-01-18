@@ -8,17 +8,17 @@ Brewdog's DIY Dog as a searchable, filterable API. Brewdog's DIY Dog as a search
 ##  🔗 Links
 **Docs / Website**: https://punkapi.com/
 
-## 🧬 Specification:
+## 🧬 PunkAPI Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 PunkAPI Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks)
+- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

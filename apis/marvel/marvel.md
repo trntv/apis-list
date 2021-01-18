@@ -8,19 +8,19 @@ The Marvel developer portal gives Marvel fans, partners and other technologists 
 ##  🔗 Links
 **Docs / Website**: https://developer.marvel.com/
 
-## 🧬 Specification:
+## 🧬 Marvel Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Marvel Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Art & Design](https://github.com/apis-list/apis-list#art--design)
-- [Comics & Anime](https://github.com/apis-list/apis-list#comics--anime)
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+- [Art & Design](https://github.com/apis-list/apis-list#art--design-)
+- [Comics & Anime](https://github.com/apis-list/apis-list#comics--anime-)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

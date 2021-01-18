@@ -8,20 +8,20 @@ Uncovers the technologies used on websites and URL to thumbnail.  API that uncov
 ##  🔗 Links
 **Docs / Website**: https://github.com/letsvalidate/api
 
-## 🧬 Specification:
+## 🧬 Let'S Validate Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Let'S Validate Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Collaboration](https://github.com/apis-list/apis-list#collaboration)
-- [Development](https://github.com/apis-list/apis-list#development)
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
-- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
+- [Collaboration](https://github.com/apis-list/apis-list#collaboration-)
+- [Development](https://github.com/apis-list/apis-list#development-)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

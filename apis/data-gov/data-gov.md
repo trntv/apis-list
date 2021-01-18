@@ -6,17 +6,17 @@ Our aim is to make it easier for. Signup for a single API key and use it across 
 ##  🔗 Links
 **Docs / Website**: https://api.data.gov/
 
-## 🧬 Specification:
+## 🧬 Data.gov Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Data.gov Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Government](https://github.com/apis-list/apis-list#government)
+- [Government](https://github.com/apis-list/apis-list#government-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,17 +8,17 @@ The API provides realtime and historical data on Coronavirus COVID-19 confirmed 
 ##  🔗 Links
 **Docs / Website**: https://github.com/M-Media-Group/Covid-19-API
 
-## 🧬 Specification:
+## 🧬 COVID-19 Data Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 COVID-19 Data Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Health](https://github.com/apis-list/apis-list#health)
+- [Health](https://github.com/apis-list/apis-list#health-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

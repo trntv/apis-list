@@ -8,18 +8,18 @@ he API supports competitions in over 90 countries and over 140 national leagues.
 ##  🔗 Links
 **Docs / Website**: https://boggio-analytics.com/fp-api/
 
-## 🧬 Specification:
+## 🧬 Football Prediction Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Football Prediction Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
+- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

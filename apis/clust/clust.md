@@ -8,22 +8,22 @@ The best way to gather anyone’s documents, directly from your app & without ha
 ##  🔗 Links
 **Docs / Website**: https://clustdoc.com/developers
 
-## 🧬 Specification:
+## 🧬 Clust Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Clust Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Business](https://github.com/apis-list/apis-list#business)
-- [CRM](https://github.com/apis-list/apis-list#crm)
-- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging)
-- [Collaboration](https://github.com/apis-list/apis-list#collaboration)
-- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
-- [Forms & Surveys](https://github.com/apis-list/apis-list#forms--surveys)
+- [Business](https://github.com/apis-list/apis-list#business-)
+- [CRM](https://github.com/apis-list/apis-list#crm-)
+- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging-)
+- [Collaboration](https://github.com/apis-list/apis-list#collaboration-)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity-)
+- [Forms & Surveys](https://github.com/apis-list/apis-list#forms--surveys-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

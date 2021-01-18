@@ -6,17 +6,17 @@ Learn more today!. Transactional Email API Service For Developers. Free first 10
 ##  🔗 Links
 **Docs / Website**: https://mailgun.com
 
-## 🧬 Specification:
+## 🧬 MailGun Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 MailGun Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Email & SMS](https://github.com/apis-list/apis-list#email--sms)
+- [Email & SMS](https://github.com/apis-list/apis-list#email--sms-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

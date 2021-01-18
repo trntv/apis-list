@@ -8,18 +8,18 @@ Join the 200,000 developers using Yahoo tools to build their app businesses. Loc
 ##  🔗 Links
 **Docs / Website**: https://developer.yahoo.com/search/local/localSearch.html
 
-## 🧬 Specification:
+## 🧬 Yahoo Local Search API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Yahoo Local Search API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
-- [Search](https://github.com/apis-list/apis-list#search)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
+- [Search](https://github.com/apis-list/apis-list#search-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

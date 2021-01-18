@@ -8,18 +8,18 @@ Access the Untappd API documentation to power your app or project. . Untappd is 
 ##  🔗 Links
 **Docs / Website**: https://untappd.com/api/docs
 
-## 🧬 Specification:
+## 🧬 Untappd Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Untappd Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks)
-- [Social](https://github.com/apis-list/apis-list#social)
+- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks-)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

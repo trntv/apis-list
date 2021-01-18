@@ -6,17 +6,17 @@ ParallelDots AI APIs are the most comprehensive set of document classification a
 ##  🔗 Links
 **Docs / Website**: https://www.paralleldots.com/text-analysis-apis
 
-## 🧬 Specification:
+## 🧬 ParallelDots Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 ParallelDots Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

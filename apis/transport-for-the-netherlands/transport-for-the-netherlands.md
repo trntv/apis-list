@@ -8,17 +8,17 @@ NS beschikt over een grote hoeveelheid data met informatie over de geplande en a
 ##  🔗 Links
 **Docs / Website**: http://www.ns.nl/reisinformatie/ns-api
 
-## 🧬 Specification:
+## 🧬 Transport for The Netherlands Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Transport for The Netherlands Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

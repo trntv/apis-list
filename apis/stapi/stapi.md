@@ -6,17 +6,17 @@ Information on all things Star Trek
 ##  🔗 Links
 **Docs / Website**: http://stapi.co
 
-## 🧬 Specification:
+## 🧬 STAPI Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 STAPI Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Video & Media](https://github.com/apis-list/apis-list#video--media)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

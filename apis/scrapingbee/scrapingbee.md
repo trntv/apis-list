@@ -14,17 +14,17 @@ ScrapingBee is a simple API that does all the above for you. It is truly the mos
 ##  🔗 Links
 **Docs / Website**: https://www.scrapingbee.com
 
-## 🧬 Specification:
+## 🧬 Scrapingbee Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Scrapingbee Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,17 +8,17 @@
 ##  🔗 Links
 **Docs / Website**: https://apility.io/apidocs/
 
-## 🧬 Specification:
+## 🧬 Apility.io Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Apility.io Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Other](https://github.com/apis-list/apis-list#other)
+- [Other](https://github.com/apis-list/apis-list#other-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,19 +8,19 @@ Powerful augmented reality apps. Create immersive Augmented Reality experiences 
 ##  🔗 Links
 **Docs / Website**: https://www.wikitude.com/developer-overview/
 
-## 🧬 Specification:
+## 🧬 Wikitude Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Wikitude Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
-- [Virtual & Augmented Reality](https://github.com/apis-list/apis-list#virtual--augmented-reality)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
+- [Virtual & Augmented Reality](https://github.com/apis-list/apis-list#virtual--augmented-reality-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

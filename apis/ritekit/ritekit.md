@@ -8,17 +8,17 @@ Looking for hashtag suggestions, analytics, trend data, influencers of a hashtag
 ##  🔗 Links
 **Docs / Website**: https://ritekit.com/api-demo/auto-hashtag
 
-## 🧬 Specification:
+## 🧬 RiteKit Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 RiteKit Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Other](https://github.com/apis-list/apis-list#other)
+- [Other](https://github.com/apis-list/apis-list#other-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

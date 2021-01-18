@@ -6,19 +6,19 @@ Integrate our Application Programming Interfaces (APIs) with your back-end syste
 ##  🔗 Links
 **Docs / Website**: https://www.ups.com/upsdeveloperkit
 
-## 🧬 Specification:
+## 🧬 UPS Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 UPS Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
-- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
+- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

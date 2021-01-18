@@ -6,17 +6,17 @@ We're the trusted source for IP address information, handling 20 billion IP geol
 ##  🔗 Links
 **Docs / Website**: https://ipinfo.io/
 
-## 🧬 Specification:
+## 🧬 IP Address Details Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 IP Address Details Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

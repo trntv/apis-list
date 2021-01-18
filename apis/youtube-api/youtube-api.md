@@ -6,17 +6,17 @@ Add YouTube functionality to your sites and apps. . Allows developers to access 
 ##  🔗 Links
 **Docs / Website**: https://developers.google.com/youtube/
 
-## 🧬 Specification:
+## 🧬 YouTube API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 YouTube API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Video & Media](https://github.com/apis-list/apis-list#video--media)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

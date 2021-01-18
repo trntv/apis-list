@@ -6,17 +6,17 @@ Buy, sell and store Bitcoin, Ethereum, Ripple (XRP), Litecoin & other cryptocurr
 ##  🔗 Links
 **Docs / Website**: https://www.quidax.com/developers/api_v2
 
-## 🧬 Specification:
+## 🧬 Quidax Merchant Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Quidax Merchant Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

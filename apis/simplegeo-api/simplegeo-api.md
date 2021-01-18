@@ -8,17 +8,17 @@ Offers an API that allows developers to build location-aware applications for mo
 ##  🔗 Links
 **Docs / Website**: https://simplegeo.com
 
-## 🧬 Specification:
+## 🧬 SimpleGeo API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 SimpleGeo API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

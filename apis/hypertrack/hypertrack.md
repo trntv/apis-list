@@ -6,19 +6,19 @@ Build applications that track the movement of your business. HyperTrack is the A
 ##  🔗 Links
 **Docs / Website**: https://docs.hypertrack.com
 
-## 🧬 Specification:
+## 🧬 HyperTrack Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 HyperTrack Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
-- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics)
-- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
+- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics-)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

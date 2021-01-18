@@ -6,18 +6,18 @@ Automated. Perfect Tense gives you error-free content in seconds. The Perfect Te
 ##  🔗 Links
 **Docs / Website**: https://www.perfecttense.com/developers
 
-## 🧬 Specification:
+## 🧬 Perfect Tense API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Perfect Tense API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

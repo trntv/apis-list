@@ -8,20 +8,20 @@ Welcome to Teleport for Developers! Largest and most up-to-date quality of life 
 ##  🔗 Links
 **Docs / Website**: https://developers.teleport.org/
 
-## 🧬 Specification:
+## 🧬 Teleport Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Teleport Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Environment & Nature](https://github.com/apis-list/apis-list#environment--nature)
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
-- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
-- [Video & Media](https://github.com/apis-list/apis-list#video--media)
+- [Environment & Nature](https://github.com/apis-list/apis-list#environment--nature-)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds-)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

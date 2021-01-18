@@ -8,19 +8,19 @@ Crawl and scrape websites without the need of proxies, infrastructure or browser
 ##  🔗 Links
 **Docs / Website**: https://proxycrawl.com
 
-## 🧬 Specification:
+## 🧬 ProxyCrawl Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 ProxyCrawl Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Captcha](https://github.com/apis-list/apis-list#captcha)
-- [Development](https://github.com/apis-list/apis-list#development)
-- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
+- [Captcha](https://github.com/apis-list/apis-list#captcha-)
+- [Development](https://github.com/apis-list/apis-list#development-)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

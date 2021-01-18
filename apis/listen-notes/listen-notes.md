@@ -8,17 +8,17 @@ Best podcast API trusted by 2,104 companies and developers. Search 1,904,658 pod
 ##  🔗 Links
 **Docs / Website**: https://www.listennotes.com/api/
 
-## 🧬 Specification:
+## 🧬 Listen Notes Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Listen Notes Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

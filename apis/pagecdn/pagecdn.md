@@ -8,17 +8,17 @@ PageCDN provides a state of the art opensource content delivery network that use
 ##  🔗 Links
 **Docs / Website**: https://pagecdn.com/docs/public-api
 
-## 🧬 Specification:
+## 🧬 PageCDN Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 PageCDN Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

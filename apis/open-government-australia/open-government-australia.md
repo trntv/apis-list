@@ -6,17 +6,17 @@ Australian Government Open Data
 ##  🔗 Links
 **Docs / Website**: https://www.data.gov.au/
 
-## 🧬 Specification:
+## 🧬 Open Government, Australia Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Open Government, Australia Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Government](https://github.com/apis-list/apis-list#government)
+- [Government](https://github.com/apis-list/apis-list#government-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

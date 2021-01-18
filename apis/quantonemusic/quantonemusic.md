@@ -6,17 +6,17 @@ Answers the need for digital music data. Our API delivers high-resolution data o
 ##  🔗 Links
 **Docs / Website**: http://quantonemusic.com/
 
-## 🧬 Specification:
+## 🧬 QuantOneMusic Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 QuantOneMusic Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

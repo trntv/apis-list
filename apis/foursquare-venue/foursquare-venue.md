@@ -6,17 +6,17 @@ Providing a places search that can be searched by hierarchical list of categorie
 ##  🔗 Links
 **Docs / Website**: https://developer.foursquare.com/overview/venues
 
-## 🧬 Specification:
+## 🧬 Foursquare Venue Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Foursquare Venue Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

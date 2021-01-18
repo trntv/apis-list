@@ -7,17 +7,17 @@ Simple and fast and free weather API from OpenWeatherMap you have access to curr
 ##  🔗 Links
 **Docs / Website**: http://openweathermap.org/api
 
-## 🧬 Specification:
+## 🧬 Open Weather Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Open Weather Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Weather](https://github.com/apis-list/apis-list#weather)
+- [Weather](https://github.com/apis-list/apis-list#weather-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

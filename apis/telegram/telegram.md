@@ -6,21 +6,21 @@ The Bot API allows you to easily create programs that use Telegram. The Telegram
 ##  🔗 Links
 **Docs / Website**: https://core.telegram.org/
 
-## 🧬 Specification:
+## 🧬 Telegram Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Telegram Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Bots](https://github.com/apis-list/apis-list#bots)
-- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging)
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
-- [Social](https://github.com/apis-list/apis-list#social)
-- [Video & Media](https://github.com/apis-list/apis-list#video--media)
+- [Bots](https://github.com/apis-list/apis-list#bots-)
+- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging-)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Social](https://github.com/apis-list/apis-list#social-)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -6,17 +6,17 @@ Posting in the future we will accept incidents, r. BikeWise API General notes: T
 ##  🔗 Links
 **Docs / Website**: https://www.bikewise.org/documentation/api_v2
 
-## 🧬 Specification:
+## 🧬 BikeWise Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 BikeWise Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness)
+- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

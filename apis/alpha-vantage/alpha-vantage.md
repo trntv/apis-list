@@ -6,17 +6,17 @@ Supports intraday, daily, weekly, and monthly quotes and technical analysis with
 ##  🔗 Links
 **Docs / Website**: https://www.alphavantage.co/
 
-## 🧬 Specification:
+## 🧬 Alpha Vantage Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Alpha Vantage Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -6,17 +6,17 @@ Biography. From both the universe, and more.  Images. Get all SuperHeroes and Vi
 ##  🔗 Links
 **Docs / Website**: https://superheroapi.com
 
-## 🧬 Specification:
+## 🧬 Superhero Api Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Superhero Api Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Fun](https://github.com/apis-list/apis-list#fun)
+- [Fun](https://github.com/apis-list/apis-list#fun-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

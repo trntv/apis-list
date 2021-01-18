@@ -8,18 +8,18 @@ Perform geospatial processing powered by Google's cloud infrastructure. Perform 
 ##  🔗 Links
 **Docs / Website**: https://developers.google.com/earth-engine/
 
-## 🧬 Specification:
+## 🧬 Google Earth Engine Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Google Earth Engine Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

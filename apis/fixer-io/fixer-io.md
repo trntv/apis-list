@@ -8,17 +8,17 @@ The API tracks rates published daily by the European Central Bank. JSON API for 
 ##  🔗 Links
 **Docs / Website**: http://fixer.io/
 
-## 🧬 Specification:
+## 🧬 Fixer.io Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Fixer.io Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

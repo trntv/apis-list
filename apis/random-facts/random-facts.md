@@ -6,18 +6,18 @@ Random Facts API
 ##  🔗 Links
 **Docs / Website**: https://fungenerators.com/api/facts/
 
-## 🧬 Specification:
+## 🧬 Random Facts Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Random Facts Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Fun](https://github.com/apis-list/apis-list#fun)
-- [Random](https://github.com/apis-list/apis-list#random)
+- [Fun](https://github.com/apis-list/apis-list#fun-)
+- [Random](https://github.com/apis-list/apis-list#random-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

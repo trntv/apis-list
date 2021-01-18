@@ -8,17 +8,17 @@ Beta This product or feature is covered by the Pre-GA Offerings Terms of the Goo
 ##  🔗 Links
 **Docs / Website**: https://cloud.google.com/genomics/reference/rest/
 
-## 🧬 Specification:
+## 🧬 Google Genomics API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Google Genomics API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Health](https://github.com/apis-list/apis-list#health)
+- [Health](https://github.com/apis-list/apis-list#health-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

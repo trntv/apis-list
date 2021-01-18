@@ -8,18 +8,18 @@ The Wordnik API Docs. Dictionary functions
 ##  🔗 Links
 **Docs / Website**: http://developer.wordnik.com/docs.html#!/word
 
-## 🧬 Specification:
+## 🧬 Wordnik Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Wordnik Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
-- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries-)
+- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

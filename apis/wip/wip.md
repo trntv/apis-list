@@ -8,18 +8,18 @@ Open API for the maker community. We are a community of makers who help each oth
 ##  🔗 Links
 **Docs / Website**: https://wip.co/api
 
-## 🧬 Specification:
+## 🧬 Wip Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Wip Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Social](https://github.com/apis-list/apis-list#social)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

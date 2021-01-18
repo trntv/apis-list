@@ -7,17 +7,17 @@ Use biometric and demographic data to search the same medical references used by
 ##  🔗 Links
 **Docs / Website**: https://getguidelines.com/
 
-## 🧬 Specification:
+## 🧬 Getguidelines Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Getguidelines Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Health](https://github.com/apis-list/apis-list#health)
+- [Health](https://github.com/apis-list/apis-list#health-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

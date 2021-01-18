@@ -8,18 +8,18 @@ Database contains a mixture of barcode types from the standard UPC numbering sys
 ##  🔗 Links
 **Docs / Website**: https://upcdatabase.org/api
 
-## 🧬 Specification:
+## 🧬 UPC database Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 UPC database Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Bar & QR Codes](https://github.com/apis-list/apis-list#bar--qr-codes)
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
+- [Bar & QR Codes](https://github.com/apis-list/apis-list#bar--qr-codes-)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

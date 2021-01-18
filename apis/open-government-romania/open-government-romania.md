@@ -6,17 +6,17 @@
 ##  🔗 Links
 **Docs / Website**: http://data.gov.ro/
 
-## 🧬 Specification:
+## 🧬 Open Government, Romania Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Open Government, Romania Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Government](https://github.com/apis-list/apis-list#government)
+- [Government](https://github.com/apis-list/apis-list#government-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

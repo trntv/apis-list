@@ -8,20 +8,20 @@ Unlock the power of video and join over 200M professionals, teams, and organizat
 ##  🔗 Links
 **Docs / Website**: https://developer.vimeo.com/
 
-## 🧬 Specification:
+## 🧬 Vimeo Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Vimeo Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-- [Social](https://github.com/apis-list/apis-list#social)
-- [Video & Media](https://github.com/apis-list/apis-list#video--media)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries-)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
+- [Social](https://github.com/apis-list/apis-list#social-)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

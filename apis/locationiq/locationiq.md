@@ -8,17 +8,17 @@ Generous free tier, offering Enterprise-grade APIs for everyone!. Affordable Geo
 ##  🔗 Links
 **Docs / Website**: https://locationiq.org/docs/
 
-## 🧬 Specification:
+## 🧬 LocationIQ Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 LocationIQ Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

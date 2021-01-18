@@ -9,19 +9,19 @@ Chrome based screenshot API to convert URLs to images. ApiFlash is an easy to us
 ##  🔗 Links
 **Docs / Website**: https://apiflash.com/
 
-## 🧬 Specification:
+## 🧬 ApiFlash Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 ApiFlash Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
-- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity-)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

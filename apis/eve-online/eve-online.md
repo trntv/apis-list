@@ -8,18 +8,18 @@ An OpenAPI for EVE Online
 ##  🔗 Links
 **Docs / Website**: https://esi.evetech.net/ui
 
-## 🧬 Specification:
+## 🧬 Eve Online Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Eve Online Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-- [Games](https://github.com/apis-list/apis-list#games)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
+- [Games](https://github.com/apis-list/apis-list#games-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

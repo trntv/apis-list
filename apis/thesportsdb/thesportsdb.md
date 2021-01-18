@@ -8,20 +8,20 @@ Various sports events, results, players, teams and high quality artwork. TheSpor
 ##  🔗 Links
 **Docs / Website**: http://www.thesportsdb.com/
 
-## 🧬 Specification:
+## 🧬 TheSportsDB Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 TheSportsDB Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Art & Design](https://github.com/apis-list/apis-list#art--design)
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
-- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness)
-- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data)
+- [Art & Design](https://github.com/apis-list/apis-list#art--design-)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness-)
+- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

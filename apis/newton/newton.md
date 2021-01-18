@@ -6,17 +6,17 @@
 ##  🔗 Links
 **Docs / Website**: https://newton.now.sh/
 
-## 🧬 Specification:
+## 🧬 Newton Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Newton Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Science & Math](https://github.com/apis-list/apis-list#science--math)
+- [Science & Math](https://github.com/apis-list/apis-list#science--math-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

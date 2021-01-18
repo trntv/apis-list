@@ -8,17 +8,17 @@ Search news articles from all over the world in real-time with News API. News AP
 ##  🔗 Links
 **Docs / Website**: https://newscatcherapi.com/news-api
 
-## 🧬 Specification:
+## 🧬 NewsCatcherAPI Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 NewsCatcherAPI Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
+- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

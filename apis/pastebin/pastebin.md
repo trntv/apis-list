@@ -6,18 +6,18 @@ Pastebin is a website where you can store text online for a set period of time. 
 ##  🔗 Links
 **Docs / Website**: https://pastebin.com/doc_scraping_api
 
-## 🧬 Specification:
+## 🧬 Pastebin Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Pastebin Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Collaboration](https://github.com/apis-list/apis-list#collaboration)
-- [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
+- [Collaboration](https://github.com/apis-list/apis-list#collaboration-)
+- [Files & Storage](https://github.com/apis-list/apis-list#files--storage-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

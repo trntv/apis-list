@@ -6,17 +6,17 @@ You can use this API to include markets data in your websites, mobile apps or de
 ##  🔗 Links
 **Docs / Website**: https://bitcoincharts.com/about/markets-api/
 
-## 🧬 Specification:
+## 🧬 Bitcoincharts Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Bitcoincharts Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

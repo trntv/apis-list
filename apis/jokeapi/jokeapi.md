@@ -6,18 +6,18 @@ JokeAPI is a RESTful API that serves jokes from many categories while also offer
 ##  🔗 Links
 **Docs / Website**: https://sv443.net/jokeapi/v2/
 
-## 🧬 Specification:
+## 🧬 JokeAPI Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 JokeAPI Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-- [Fun](https://github.com/apis-list/apis-list#fun)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
+- [Fun](https://github.com/apis-list/apis-list#fun-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

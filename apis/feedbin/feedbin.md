@@ -8,17 +8,17 @@ Feedbin API Documentation. Contribute to feedbin/feedbin-api development by crea
 ##  🔗 Links
 **Docs / Website**: https://github.com/feedbin/feedbin-api
 
-## 🧬 Specification:
+## 🧬 Feedbin Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Feedbin Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
+- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,18 +8,18 @@ A drop-in-replacement for the deprecated Google Image Charts. Easiest way to emb
 ##  🔗 Links
 **Docs / Website**: https://www.image-charts.com
 
-## 🧬 Specification:
+## 🧬 Image-Charts Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Image-Charts Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Email & SMS](https://github.com/apis-list/apis-list#email--sms)
-- [Visualizations](https://github.com/apis-list/apis-list#visualizations)
+- [Email & SMS](https://github.com/apis-list/apis-list#email--sms-)
+- [Visualizations](https://github.com/apis-list/apis-list#visualizations-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

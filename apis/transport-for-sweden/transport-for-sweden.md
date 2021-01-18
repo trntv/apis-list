@@ -6,17 +6,17 @@ Ankomst- och avgångsprognoserom bussar, tunnelbana, pendeltåg, lokalbana och b
 ##  🔗 Links
 **Docs / Website**: https://www.trafiklab.se/api
 
-## 🧬 Specification:
+## 🧬 Transport for Sweden Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Transport for Sweden Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

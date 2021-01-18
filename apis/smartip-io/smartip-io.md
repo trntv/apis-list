@@ -16,17 +16,17 @@ Assess potential risks and threats coming from certain IP addresses by detecting
 ##  🔗 Links
 **Docs / Website**: https://smartip.io
 
-## 🧬 Specification:
+## 🧬 Smartip.Io Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Smartip.Io Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,17 +8,17 @@ Você pode usar a biblioteca em PHP desenvolvida para consumir a API https://git
 ##  🔗 Links
 **Docs / Website**: https://deividfortuna.github.io/fipe/
 
-## 🧬 Specification:
+## 🧬 Brazilian Vehicles and Prices Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Brazilian Vehicles and Prices Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

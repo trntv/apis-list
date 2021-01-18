@@ -8,17 +8,17 @@ Used by Google products to create short URLs that can be easily shared, tweeted,
 ##  🔗 Links
 **Docs / Website**: https://developers.google.com/url-shortener/
 
-## 🧬 Specification:
+## 🧬 Google URL Shortener API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Google URL Shortener API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [URLs](https://github.com/apis-list/apis-list#urls)
+- [URLs](https://github.com/apis-list/apis-list#urls-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

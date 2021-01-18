@@ -6,17 +6,17 @@ Free live exchange rates and currency conversion API for developers.  ECB rates 
 ##  🔗 Links
 **Docs / Website**: http://www.openrates.io/
 
-## 🧬 Specification:
+## 🧬 OpenRates.io Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 OpenRates.io Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

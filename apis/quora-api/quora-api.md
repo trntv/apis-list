@@ -6,18 +6,18 @@ Connect the people who have knowledge to the people who need it, to bring togeth
 ##  🔗 Links
 **Docs / Website**: https://www.quora.com/q/edmondlausposts/Quora-Extension-API
 
-## 🧬 Specification:
+## 🧬 Quora API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Quora API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Social](https://github.com/apis-list/apis-list#social)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

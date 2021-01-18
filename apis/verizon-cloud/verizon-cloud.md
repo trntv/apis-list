@@ -6,17 +6,17 @@ API for accessing stored pictures and other files stored by users of Verizon Clo
 ##  🔗 Links
 **Docs / Website**: http://www.verizon.com/cloudstorageapi
 
-## 🧬 Specification:
+## 🧬 Verizon Cloud Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Verizon Cloud Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
+- [Files & Storage](https://github.com/apis-list/apis-list#files--storage-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

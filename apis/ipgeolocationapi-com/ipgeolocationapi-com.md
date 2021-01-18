@@ -6,17 +6,17 @@ IP Geolocation API is a free JSON REST API service for locating your visitors in
 ##  🔗 Links
 **Docs / Website**: https://ipgeolocationapi.com/
 
-## 🧬 Specification:
+## 🧬 IPGeolocationAPI.com Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 IPGeolocationAPI.com Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

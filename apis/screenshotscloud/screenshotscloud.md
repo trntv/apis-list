@@ -8,18 +8,18 @@ With this screenshot API you can automate high quality real browser screenshots 
 ##  🔗 Links
 **Docs / Website**: https://screenshots.cloud/
 
-## 🧬 Specification:
+## 🧬 Screenshotscloud Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Screenshotscloud Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
-- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

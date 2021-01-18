@@ -63,7 +63,7 @@ var CategoryIcons = map[string]string{
 	"Project Management":               "🚧",
 	"Jobs":                             "🛠️",
 	"Databases":                        "🗄️",
-	"Comics & Anime":                   "\U0001F9B8🏻‍♂️",
+	"Comics & Anime":                   "\U0001F9B8🏻‍️️",
 	"Testing":                          "🐞",
 	"Hardware":                         "⚙️",
 	"Virtual & Augmented Reality":      "📱",

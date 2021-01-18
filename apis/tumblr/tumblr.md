@@ -6,17 +6,17 @@ Create new ways to use Tumblr with access to content, likes, followers, and draf
 ##  🔗 Links
 **Docs / Website**: https://www.tumblr.com/docs/en/api/v2
 
-## 🧬 Specification:
+## 🧬 Tumblr Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Tumblr Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Social](https://github.com/apis-list/apis-list#social)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

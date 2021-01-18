@@ -8,18 +8,18 @@ Scheduler lets you share your availability with contacts no matter what applicat
 ##  🔗 Links
 **Docs / Website**: https://www.cronofy.com
 
-## 🧬 Specification:
+## 🧬 Cronofy Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Cronofy Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time)
-- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
+- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time-)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

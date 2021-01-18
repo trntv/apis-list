@@ -8,17 +8,17 @@ Access metadata, user’s entire library of music and do much more. The Napster 
 ##  🔗 Links
 **Docs / Website**: https://developer.rhapsody.com/
 
-## 🧬 Specification:
+## 🧬 Rhapsody Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Rhapsody Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,17 +8,17 @@ Create and manage events and calendars for Google Calendar.  Create and manage e
 ##  🔗 Links
 **Docs / Website**: https://developers.google.com/google-apps/calendar/?hl=en
 
-## 🧬 Specification:
+## 🧬 Google Calendar API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Google Calendar API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time)
+- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

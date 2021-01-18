@@ -6,18 +6,18 @@
 ##  🔗 Links
 **Docs / Website**: https://developers.epo.org/
 
-## 🧬 Specification:
+## 🧬 EPO Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 EPO Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Government](https://github.com/apis-list/apis-list#government)
-- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data)
+- [Government](https://github.com/apis-list/apis-list#government-)
+- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,19 +8,19 @@ Since 2005 Tunefind has been the leading site dedicated to tracking the music fe
 ##  🔗 Links
 **Docs / Website**: http://www.tunefind.com/api
 
-## 🧬 Specification:
+## 🧬 TuneFind Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 TuneFind Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
-- [Recognition](https://github.com/apis-list/apis-list#recognition)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)
+- [Recognition](https://github.com/apis-list/apis-list#recognition-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

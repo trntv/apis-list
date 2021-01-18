@@ -8,17 +8,17 @@ A RESTful API as pizza restaurant ordering system. swagger Explore
 ##  🔗 Links
 **Docs / Website**: https://order-pizza-api.herokuapp.com/api/ui/
 
-## 🧬 Specification:
+## 🧬 Order Pizza Api Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Order Pizza Api Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks)
+- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

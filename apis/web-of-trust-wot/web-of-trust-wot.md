@@ -9,17 +9,17 @@ Note After July 1, 2020, requests to the v0. 4 endpoints will no longer be suppo
 ##  🔗 Links
 **Docs / Website**: https://support.mywot.com/hc/en-us/articles/360024398673-3-Using-the-API
 
-## 🧬 Specification:
+## 🧬 Web Of Trust (WOT) Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Web Of Trust (WOT) Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Security](https://github.com/apis-list/apis-list#security)
+- [Security](https://github.com/apis-list/apis-list#security-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

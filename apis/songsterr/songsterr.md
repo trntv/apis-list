@@ -8,17 +8,17 @@ One accurate tab per song. Huge selection of 500,000 tabs. No abusive ads.  Guit
 ##  🔗 Links
 **Docs / Website**: https://www.songsterr.com/a/wa/api/
 
-## 🧬 Specification:
+## 🧬 Songsterr Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Songsterr Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

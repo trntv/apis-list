@@ -6,17 +6,17 @@ geoPlugin is a free, fast and reliable Geolocation Webservice API to locate your
 ##  🔗 Links
 **Docs / Website**: https://www.geoplugin.com
 
-## 🧬 Specification:
+## 🧬 geoPlugin Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 geoPlugin Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

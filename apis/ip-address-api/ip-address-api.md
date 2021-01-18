@@ -8,17 +8,17 @@ IP Address API free service provides country name, 2 symbol code and 3 symbol co
 ##  🔗 Links
 **Docs / Website**: https://any.ge/api/
 
-## 🧬 Specification:
+## 🧬 Ip Address Api Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Ip Address Api Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Other](https://github.com/apis-list/apis-list#other)
+- [Other](https://github.com/apis-list/apis-list#other-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

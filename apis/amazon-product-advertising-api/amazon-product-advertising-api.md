@@ -6,17 +6,17 @@ The web address you entered is not a functioning page on our site.  Try one of t
 ##  🔗 Links
 **Docs / Website**: https://webservices.amazon.com/paapi5/documentation/
 
-## 🧬 Specification:
+## 🧬 Amazon Product Advertising API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Amazon Product Advertising API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

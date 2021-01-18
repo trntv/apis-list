@@ -6,17 +6,17 @@ You can GET to retrieve your text and you can POST to change your stored text.  
 ##  🔗 Links
 **Docs / Website**: https://www.restwords.com
 
-## 🧬 Specification:
+## 🧬 Restwords Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Restwords Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Other](https://github.com/apis-list/apis-list#other)
+- [Other](https://github.com/apis-list/apis-list#other-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

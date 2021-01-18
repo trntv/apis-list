@@ -9,17 +9,17 @@ Our scraping API handles all problems that are related to web scraping. Website 
 ##  🔗 Links
 **Docs / Website**: https://zenscrape.com/web-scraping-api/
 
-## 🧬 Specification:
+## 🧬 Zenscrape - Web Scraping Api Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Zenscrape - Web Scraping Api Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Other](https://github.com/apis-list/apis-list#other)
+- [Other](https://github.com/apis-list/apis-list#other-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

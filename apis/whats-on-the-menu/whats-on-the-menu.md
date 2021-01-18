@@ -6,17 +6,17 @@ This is built for programmers and power-users, . .  Menus Beta API v1 What Is Th
 ##  🔗 Links
 **Docs / Website**: http://nypl.github.io/menus-api/
 
-## 🧬 Specification:
+## 🧬 What's on the menu? Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 What's on the menu? Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks)
+- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

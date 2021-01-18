@@ -6,18 +6,18 @@ Sell and buy music related merchandise. Join the millions of music lovers who us
 ##  🔗 Links
 **Docs / Website**: https://www.reverb-api.com/
 
-## 🧬 Specification:
+## 🧬 Reverb Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Reverb Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

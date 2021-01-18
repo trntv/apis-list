@@ -8,19 +8,19 @@ Developer API trash nothing! provides a REST API which allows developers to buil
 ##  🔗 Links
 **Docs / Website**: https://trashnothing.com/developer
 
-## 🧬 Specification:
+## 🧬 Trash Nothing Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Trash Nothing Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Environment & Nature](https://github.com/apis-list/apis-list#environment--nature)
-- [Social](https://github.com/apis-list/apis-list#social)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
+- [Environment & Nature](https://github.com/apis-list/apis-list#environment--nature-)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

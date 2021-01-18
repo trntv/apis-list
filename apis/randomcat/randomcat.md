@@ -6,17 +6,17 @@ dream. io\/i\/048_-_x0vwSRZ. objects-us-east-1.  {"file":"https:\/\/purr. gif"}.
 ##  🔗 Links
 **Docs / Website**: https://aws.random.cat/meow
 
-## 🧬 Specification:
+## 🧬 RandomCat Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 RandomCat Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Animals](https://github.com/apis-list/apis-list#animals)
+- [Animals](https://github.com/apis-list/apis-list#animals-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

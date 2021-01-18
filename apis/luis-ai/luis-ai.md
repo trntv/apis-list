@@ -6,17 +6,17 @@ Language Understanding Intelligent Service offers a fast and effective way of ad
 ##  🔗 Links
 **Docs / Website**: https://www.luis.ai/
 
-## 🧬 Specification:
+## 🧬 LUIS AI Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 LUIS AI Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

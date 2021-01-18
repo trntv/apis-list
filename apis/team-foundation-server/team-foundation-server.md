@@ -8,17 +8,17 @@ Overview of integrating with Azure DevOps. . TFS APIs are based on REST, OAuth, 
 ##  🔗 Links
 **Docs / Website**: https://www.visualstudio.com/en-us/docs/integrate/get-started/overview
 
-## 🧬 Specification:
+## 🧬 Team Foundation Server Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Team Foundation Server Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

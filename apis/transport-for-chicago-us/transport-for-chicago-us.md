@@ -8,17 +8,17 @@ The CTA's Developer Center offers a variety of data feeds that allow anyone to d
 ##  🔗 Links
 **Docs / Website**: http://www.transitchicago.com/developers/
 
-## 🧬 Specification:
+## 🧬 Transport for Chicago, US Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Transport for Chicago, US Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

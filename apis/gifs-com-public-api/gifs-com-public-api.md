@@ -8,18 +8,18 @@ com API makes it dead simple to convert and transcode a vast array of media into
 ##  🔗 Links
 **Docs / Website**: https://docs.gifs.com/
 
-## 🧬 Specification:
+## 🧬 Gifs.Com Public API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Gifs.Com Public API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
-- [Video & Media](https://github.com/apis-list/apis-list#video--media)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

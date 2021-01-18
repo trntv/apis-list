@@ -8,17 +8,17 @@ Enrich your games' experience by adding a global highscore for your games.
 ##  🔗 Links
 **Docs / Website**:  platform agnostic infrastructure for your games statistics.
 
-## 🧬 Specification:
+## 🧬 Globalstats.Io Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Globalstats.Io Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Games](https://github.com/apis-list/apis-list#games)
+- [Games](https://github.com/apis-list/apis-list#games-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

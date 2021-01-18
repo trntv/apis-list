@@ -6,17 +6,17 @@ The Bot API allows you to easily create programs that use Telegram messages for�
 ##  🔗 Links
 **Docs / Website**: https://core.telegram.org/api#getting-started
 
-## 🧬 Specification:
+## 🧬 Telegram MTProto Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Telegram MTProto Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Social](https://github.com/apis-list/apis-list#social)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

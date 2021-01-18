@@ -8,18 +8,18 @@ Never worry about maintaining API documentation again. AFEX API is designed for 
 ##  🔗 Links
 **Docs / Website**: https://doc.api.afex.com/?version=latest
 
-## 🧬 Specification:
+## 🧬 Afex Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Afex Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
-- [Payments](https://github.com/apis-list/apis-list#payments)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics-)
+- [Payments](https://github.com/apis-list/apis-list#payments-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

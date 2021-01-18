@@ -6,17 +6,17 @@ Use one simple API call to generate screenshots of any website. Use this screens
 ##  🔗 Links
 **Docs / Website**: https://screenshotapi.net
 
-## 🧬 Specification:
+## 🧬 ScreenshotAPI.net Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 ScreenshotAPI.net Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Video & Media](https://github.com/apis-list/apis-list#video--media)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

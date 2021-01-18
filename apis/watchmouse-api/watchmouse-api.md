@@ -8,17 +8,17 @@ Offers self-service website and application performance monitoring solutions
 ##  🔗 Links
 **Docs / Website**: http://apidoc.watchmouse.com
 
-## 🧬 Specification:
+## 🧬 WatchMouse API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 WatchMouse API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

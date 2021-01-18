@@ -8,19 +8,19 @@ Square provides support and tools for you to build apps for today’s business n
 ##  🔗 Links
 **Docs / Website**: https://developer.squareup.com/us/en
 
-## 🧬 Specification:
+## 🧬 Square Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Square Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Business](https://github.com/apis-list/apis-list#business)
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Payments](https://github.com/apis-list/apis-list#payments)
+- [Business](https://github.com/apis-list/apis-list#business-)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
+- [Payments](https://github.com/apis-list/apis-list#payments-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

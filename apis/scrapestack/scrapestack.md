@@ -8,19 +8,19 @@ Use this proxy and web scraping REST API to extract html data from any web page,
 ##  🔗 Links
 **Docs / Website**: https://scrapestack.com
 
-## 🧬 Specification:
+## 🧬 Scrapestack Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Scrapestack Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
-- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
-- [Search](https://github.com/apis-list/apis-list#search)
+- [Development](https://github.com/apis-list/apis-list#development-)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining-)
+- [Search](https://github.com/apis-list/apis-list#search-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

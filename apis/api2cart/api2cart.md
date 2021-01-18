@@ -6,18 +6,18 @@ Connect your B2B eCommerce solution with 40+ shopping platforms and marketplaces
 ##  🔗 Links
 **Docs / Website**: https://api2cart.com/
 
-## 🧬 Specification:
+## 🧬 API2Cart Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 API2Cart Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

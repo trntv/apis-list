@@ -8,20 +8,20 @@ Millions of Viber users call, text, and send photos to each other, worldwide - f
 ##  🔗 Links
 **Docs / Website**: https://developers.viber.com/docs/api/
 
-## 🧬 Specification:
+## 🧬 Viber Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Viber Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging)
-- [Social](https://github.com/apis-list/apis-list#social)
-- [Video & Media](https://github.com/apis-list/apis-list#video--media)
-- [Voice](https://github.com/apis-list/apis-list#voice)
+- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging-)
+- [Social](https://github.com/apis-list/apis-list#social-)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
+- [Voice](https://github.com/apis-list/apis-list#voice-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

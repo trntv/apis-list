@@ -8,17 +8,17 @@ Kakao 지도 API를 이용해보세요. 다양한 샘플과 상세한 매뉴얼�
 ##  🔗 Links
 **Docs / Website**: http://apis.map.daum.net/
 
-## 🧬 Specification:
+## 🧬 Daum Maps API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Daum Maps API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

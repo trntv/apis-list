@@ -8,17 +8,17 @@ Description of download interface to build calls to the Movebank database using 
 ##  🔗 Links
 **Docs / Website**: https://github.com/movebank/movebank-api-doc
 
-## 🧬 Specification:
+## 🧬 Movebank Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Movebank Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Animals](https://github.com/apis-list/apis-list#animals)
+- [Animals](https://github.com/apis-list/apis-list#animals-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

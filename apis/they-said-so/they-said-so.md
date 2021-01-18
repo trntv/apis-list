@@ -6,17 +6,17 @@ They Said So Quotes API offers a complete feature rich REST API access to its qu
 ##  🔗 Links
 **Docs / Website**: http://quotes.rest/
 
-## 🧬 Specification:
+## 🧬 They Said So Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 They Said So Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Fun](https://github.com/apis-list/apis-list#fun)
+- [Fun](https://github.com/apis-list/apis-list#fun-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

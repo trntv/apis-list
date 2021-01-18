@@ -8,17 +8,17 @@ With this API, you can use RESTful req. The Custom Search JSON API lets you deve
 ##  🔗 Links
 **Docs / Website**: https://developers.google.com/custom-search/json-api/v1/overview
 
-## 🧬 Specification:
+## 🧬 Google CustomSearch API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Google CustomSearch API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Search](https://github.com/apis-list/apis-list#search)
+- [Search](https://github.com/apis-list/apis-list#search-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

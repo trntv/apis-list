@@ -12,18 +12,18 @@ World Bank APIs provide access to various types of data and databases:
 ##  🔗 Links
 **Docs / Website**: https://datahelpdesk.worldbank.org/knowledgebase/topics/125589
 
-## 🧬 Specification:
+## 🧬 World Bank Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 World Bank Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
-- [Government](https://github.com/apis-list/apis-list#government)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics-)
+- [Government](https://github.com/apis-list/apis-list#government-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

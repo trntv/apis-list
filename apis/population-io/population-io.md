@@ -8,17 +8,17 @@ Open demographic data such as population tables, population rank and life expect
 ##  🔗 Links
 **Docs / Website**: http://api.population.io
 
-## 🧬 Specification:
+## 🧬 Population.Io Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Population.Io Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data)
+- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

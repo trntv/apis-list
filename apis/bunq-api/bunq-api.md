@@ -9,18 +9,18 @@ Let's cooperate!
 ##  🔗 Links
 **Docs / Website**: https://doc.bunq.com/
 
-## 🧬 Specification:
+## 🧬 Bunq Api Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Bunq Api Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
-- [Payments](https://github.com/apis-list/apis-list#payments)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics-)
+- [Payments](https://github.com/apis-list/apis-list#payments-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

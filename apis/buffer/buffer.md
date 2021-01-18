@@ -8,18 +8,18 @@ Buffer makes it super easy to share any page you're reading. Buffer makes it sup
 ##  🔗 Links
 **Docs / Website**: https://buffer.com/developers/api
 
-## 🧬 Specification:
+## 🧬 Buffer Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Buffer Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
-- [Social](https://github.com/apis-list/apis-list#social)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity-)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

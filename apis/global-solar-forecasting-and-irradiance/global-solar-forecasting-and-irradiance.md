@@ -8,17 +8,17 @@ Solar radiation and forecasting data globally available and free for researchers
 ##  🔗 Links
 **Docs / Website**: https://solcast.com/solar-data-api/
 
-## 🧬 Specification:
+## 🧬 Global Solar Forecasting And Irradiance Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Global Solar Forecasting And Irradiance Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Other](https://github.com/apis-list/apis-list#other)
+- [Other](https://github.com/apis-list/apis-list#other-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

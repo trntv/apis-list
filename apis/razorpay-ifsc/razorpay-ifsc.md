@@ -6,17 +6,17 @@
 ##  🔗 Links
 **Docs / Website**: https://ifsc.razorpay.com/
 
-## 🧬 Specification:
+## 🧬 Razorpay IFSC Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Razorpay IFSC Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

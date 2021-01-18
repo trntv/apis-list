@@ -8,17 +8,17 @@ Electronic medical records, practice management and medical billing API.  Explor
 ##  🔗 Links
 **Docs / Website**: https://www.drchrono.com/api/
 
-## 🧬 Specification:
+## 🧬 Drchrono Healthcare Api Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Drchrono Healthcare Api Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Health](https://github.com/apis-list/apis-list#health)
+- [Health](https://github.com/apis-list/apis-list#health-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

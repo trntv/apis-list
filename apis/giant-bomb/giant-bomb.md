@@ -8,18 +8,18 @@ The largest video game database online
 ##  🔗 Links
 **Docs / Website**: https://www.giantbomb.com/api/documentation
 
-## 🧬 Specification:
+## 🧬 Giant Bomb Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Giant Bomb Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-- [Games](https://github.com/apis-list/apis-list#games)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
+- [Games](https://github.com/apis-list/apis-list#games-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

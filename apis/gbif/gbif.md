@@ -6,17 +6,17 @@ Please refer to the documentation on the GBIF website. If you arrived here unexp
 ##  🔗 Links
 **Docs / Website**: http://api.gbif.org/v1/
 
-## 🧬 Specification:
+## 🧬 GBIF Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 GBIF Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Science & Math](https://github.com/apis-list/apis-list#science--math)
+- [Science & Math](https://github.com/apis-list/apis-list#science--math-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

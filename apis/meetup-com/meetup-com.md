@@ -8,17 +8,17 @@ Find groups that host online or in person events and meet people in your local c
 ##  🔗 Links
 **Docs / Website**: https://www.meetup.com/meetup_api/
 
-## 🧬 Specification:
+## 🧬 Meetup.com Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Meetup.com Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Social](https://github.com/apis-list/apis-list#social)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

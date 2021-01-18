@@ -8,18 +8,18 @@ Integrate the Ryft ONE’s data analysis capabilities into existing big data env
 ##  🔗 Links
 **Docs / Website**: http://www.ryft.com/api
 
-## 🧬 Specification:
+## 🧬 Ryft Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Ryft Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Analytics](https://github.com/apis-list/apis-list#analytics)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
+- [Analytics](https://github.com/apis-list/apis-list#analytics-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,17 +8,17 @@ Contribute to lukePeavey/quotable development by creating an account on GitHub. 
 ##  🔗 Links
 **Docs / Website**: https://github.com/lukePeavey/quotable
 
-## 🧬 Specification:
+## 🧬 Quotable Quotes Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Quotable Quotes Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Health](https://github.com/apis-list/apis-list#health)
+- [Health](https://github.com/apis-list/apis-list#health-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

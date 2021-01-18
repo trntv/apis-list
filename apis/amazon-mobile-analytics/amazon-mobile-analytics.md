@@ -6,17 +6,17 @@ Service for collecting, visualizing, and understanding app usage data at scale
 ##  🔗 Links
 **Docs / Website**: https://aws.amazon.com/documentation/mobileanalytics/
 
-## 🧬 Specification:
+## 🧬 Amazon Mobile Analytics Specification:
 **Type**: N/A  
 **URI**: https://raw.githubusercontent.com/aws/aws-sdk-js/master/apis/mobileanalytics-2014-06-05.normal.json
 
-## 💬 Discussion:
+## 💬 Amazon Mobile Analytics Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Analytics](https://github.com/apis-list/apis-list#analytics)
+- [Analytics](https://github.com/apis-list/apis-list#analytics-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

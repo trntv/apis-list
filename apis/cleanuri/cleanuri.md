@@ -6,17 +6,17 @@ API Documentation cleanuri. com exposes its data via an Application Programming 
 ##  🔗 Links
 **Docs / Website**: https://cleanuri.com/docs
 
-## 🧬 Specification:
+## 🧬 CleanURI Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 CleanURI Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [URLs](https://github.com/apis-list/apis-list#urls)
+- [URLs](https://github.com/apis-list/apis-list#urls-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

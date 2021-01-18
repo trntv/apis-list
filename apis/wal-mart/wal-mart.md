@@ -6,17 +6,17 @@ Product Lookup API gives access to item price and availability in real-time. Ite
 ##  🔗 Links
 **Docs / Website**: https://developer.walmartlabs.com/docs
 
-## 🧬 Specification:
+## 🧬 Wal-Mart Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Wal-Mart Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

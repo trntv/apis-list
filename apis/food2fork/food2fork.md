@@ -8,17 +8,17 @@ Recipe Search
 ##  🔗 Links
 **Docs / Website**: https://food2fork.com/about/api
 
-## 🧬 Specification:
+## 🧬 Food2fork Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Food2fork Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks)
+- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

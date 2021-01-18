@@ -7,18 +7,18 @@ A JSON/plain-text which returns the (approx) current time for a provided timezon
 ##  🔗 Links
 **Docs / Website**: http://worldtimeapi.org
 
-## 🧬 Specification:
+## 🧬 WorldTimeAPI Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 WorldTimeAPI Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time-)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

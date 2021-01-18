@@ -6,17 +6,17 @@ In order to keep DigitalOcean bot-free, please complete this security check Plea
 ##  🔗 Links
 **Docs / Website**: https://status.digitalocean.com/api
 
-## 🧬 Specification:
+## 🧬 DigitalOcean Status Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 DigitalOcean Status Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -6,17 +6,17 @@ A simple free reverse geocoding API for turning coordinates into human readable 
 ##  🔗 Links
 **Docs / Website**: https://geo-info.co
 
-## 🧬 Specification:
+## 🧬 Geo Info Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Geo Info Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Other](https://github.com/apis-list/apis-list#other)
+- [Other](https://github.com/apis-list/apis-list#other-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

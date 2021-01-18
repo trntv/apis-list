@@ -6,17 +6,17 @@ Free IP Geolocation API and Accurate IP Database provides country, city, zip cod
 ##  🔗 Links
 **Docs / Website**: https://ipgeolocation.io
 
-## 🧬 Specification:
+## 🧬 Ip Geolocation Api Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Ip Geolocation Api Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

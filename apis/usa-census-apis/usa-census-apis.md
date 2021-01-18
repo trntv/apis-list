@@ -6,18 +6,18 @@ These data are currently used to distribute around $400 B in Federal, State and 
 ##  🔗 Links
 **Docs / Website**: https://www.census.gov/data/developers/data-sets.html
 
-## 🧬 Specification:
+## 🧬 USA Census API'S Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 USA Census API'S Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Government](https://github.com/apis-list/apis-list#government)
-- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data)
+- [Government](https://github.com/apis-list/apis-list#government-)
+- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

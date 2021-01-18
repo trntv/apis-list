@@ -8,17 +8,17 @@ Prerequisites: Visual Studio 4. The API is designed on a demo base for a furnitu
 ##  🔗 Links
 **Docs / Website**: https://getrit.com/API/Token
 
-## 🧬 Specification:
+## 🧬 Furniture Store Data Api Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Furniture Store Data Api Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Search](https://github.com/apis-list/apis-list#search)
+- [Search](https://github.com/apis-list/apis-list#search-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

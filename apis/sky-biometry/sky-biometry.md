@@ -8,17 +8,17 @@ SkyBiometry uses completely different computer vision algorithms for face detect
 ##  🔗 Links
 **Docs / Website**: https://skybiometry.com/documentation/
 
-## 🧬 Specification:
+## 🧬 Sky Biometry Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Sky Biometry Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Recognition](https://github.com/apis-list/apis-list#recognition)
+- [Recognition](https://github.com/apis-list/apis-list#recognition-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

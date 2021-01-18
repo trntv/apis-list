@@ -8,18 +8,18 @@ Yammer Developer Site was created using ReadMe. Discuss ideas, share updates, an
 ##  🔗 Links
 **Docs / Website**: https://developer.yammer.com/documentation/
 
-## 🧬 Specification:
+## 🧬 Yammer API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Yammer API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Business](https://github.com/apis-list/apis-list#business)
-- [Social](https://github.com/apis-list/apis-list#social)
+- [Business](https://github.com/apis-list/apis-list#business-)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

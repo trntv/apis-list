@@ -6,18 +6,18 @@ Start developing for free. Public holiday API service for several supported coun
 ##  🔗 Links
 **Docs / Website**: https://holidayapi.pl/
 
-## 🧬 Specification:
+## 🧬 Holiday API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Holiday API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time)
-- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
+- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time-)
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,17 +8,17 @@ A powerful API that provides detailed data on over 500,000 products such as nutr
 ##  🔗 Links
 **Docs / Website**: https://chompthis.com/api/
 
-## 🧬 Specification:
+## 🧬 Chomp - Food Nutrition Database Api Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Chomp - Food Nutrition Database Api Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks)
+- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,17 +8,17 @@ Simple Analytics does not own your data. That’s why we care a lot about the in
 ##  🔗 Links
 **Docs / Website**: https://docs.simpleanalytics.com/api
 
-## 🧬 Specification:
+## 🧬 Simple Analytics Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Simple Analytics Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Other](https://github.com/apis-list/apis-list#other)
+- [Other](https://github.com/apis-list/apis-list#other-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

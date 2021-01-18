@@ -6,19 +6,19 @@ Random image of a fox
 ##  🔗 Links
 **Docs / Website**: https://randomfox.ca/
 
-## 🧬 Specification:
+## 🧬 RandomFox Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 RandomFox Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Animals](https://github.com/apis-list/apis-list#animals)
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
-- [Random](https://github.com/apis-list/apis-list#random)
+- [Animals](https://github.com/apis-list/apis-list#animals-)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Random](https://github.com/apis-list/apis-list#random-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

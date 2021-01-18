@@ -8,17 +8,17 @@ Your daily lectionary readings…. Your daily lectionary readings…
 ##  🔗 Links
 **Docs / Website**: http://www.lectserve.com
 
-## 🧬 Specification:
+## 🧬 LectServe Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 LectServe Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time)
+- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

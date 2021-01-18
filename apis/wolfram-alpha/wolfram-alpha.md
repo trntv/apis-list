@@ -6,19 +6,19 @@ General knowledge on every topic; query it all with natural language input. Easi
 ##  🔗 Links
 **Docs / Website**: https://products.wolframalpha.com/api/
 
-## 🧬 Specification:
+## 🧬 Wolfram|Alpha Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Wolfram|Alpha Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Search](https://github.com/apis-list/apis-list#search)
-- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data)
-- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools)
+- [Search](https://github.com/apis-list/apis-list#search-)
+- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data-)
+- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

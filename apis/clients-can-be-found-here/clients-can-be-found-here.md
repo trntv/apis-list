@@ -8,17 +8,17 @@ Google Maps has 35 repositories available. Follow their code on GitHub
 ##  🔗 Links
 **Docs / Website**: https://github.com/googlemaps/
 
-## 🧬 Specification:
+## 🧬 Clients can be found here. Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Clients can be found here. Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

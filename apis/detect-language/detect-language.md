@@ -8,18 +8,18 @@ Detects 164 languages. Supports short texts, batch requests, JavaScript, Python,
 ##  🔗 Links
 **Docs / Website**: https://detectlanguage.com/
 
-## 🧬 Specification:
+## 🧬 Detect Language Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Detect Language Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
+- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

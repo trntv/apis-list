@@ -8,18 +8,18 @@ An API all about dogs.  A public service API all about Dogs, free to use when ma
 ##  🔗 Links
 **Docs / Website**: https://thedogapi.com
 
-## 🧬 Specification:
+## 🧬 The Dog Api Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 The Dog Api Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Animals](https://github.com/apis-list/apis-list#animals)
-- [Fun](https://github.com/apis-list/apis-list#fun)
+- [Animals](https://github.com/apis-list/apis-list#animals-)
+- [Fun](https://github.com/apis-list/apis-list#fun-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,17 +8,17 @@ The largest collection of dad jokes on the internet.
 ##  🔗 Links
 **Docs / Website**: https://icanhazdadjoke.com/api
 
-## 🧬 Specification:
+## 🧬 icanhazdadjoke Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 icanhazdadjoke Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Fun](https://github.com/apis-list/apis-list#fun)
+- [Fun](https://github.com/apis-list/apis-list#fun-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

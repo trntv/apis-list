@@ -8,20 +8,20 @@ Our document verification and facial biometrics technology lets your users verif
 ##  🔗 Links
 **Docs / Website**: https://documentation.onfido.com
 
-## 🧬 Specification:
+## 🧬 Onfido Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Onfido Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management)
-- [Security](https://github.com/apis-list/apis-list#security)
-- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
+- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management-)
+- [Security](https://github.com/apis-list/apis-list#security-)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

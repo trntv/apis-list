@@ -8,18 +8,18 @@
 ##  🔗 Links
 **Docs / Website**: https://docs.onemap.sg/
 
-## 🧬 Specification:
+## 🧬 One Map, Singapore Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 One Map, Singapore Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
-- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

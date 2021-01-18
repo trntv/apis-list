@@ -6,19 +6,19 @@ The GamerPower API (Aka Game Giveaway Tracker API) is available for everyone to 
 ##  🔗 Links
 **Docs / Website**: https://www.gamerpower.com/api-read
 
-## 🧬 Specification:
+## 🧬 GamerPower Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 GamerPower Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-- [Games](https://github.com/apis-list/apis-list#games)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
+- [Games](https://github.com/apis-list/apis-list#games-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

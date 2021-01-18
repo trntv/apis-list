@@ -8,17 +8,17 @@ Build a clearer picture of your customers in minutes with our data-focused APIs.
 ##  🔗 Links
 **Docs / Website**: https://www.fullcontact.com/developer/docs/
 
-## 🧬 Specification:
+## 🧬 Full Contact Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Full Contact Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Social](https://github.com/apis-list/apis-list#social)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,19 +8,19 @@ Check where a tv show or movie is available
 ##  🔗 Links
 **Docs / Website**: https://www.utelly.com/
 
-## 🧬 Specification:
+## 🧬 Utelly Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Utelly Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-- [Video & Media](https://github.com/apis-list/apis-list#video--media)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries-)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,17 +8,17 @@ Contribute to AlbertSuarez/searchly development by creating an account on GitHub
 ##  🔗 Links
 **Docs / Website**: https://github.com/AlbertSuarez/searchly
 
-## 🧬 Specification:
+## 🧬 SearchLy Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 SearchLy Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

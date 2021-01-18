@@ -6,17 +6,17 @@ A Remake of the original api, using the MERN stack. A Remake of the original api
 ##  🔗 Links
 **Docs / Website**: https://www.swapi.tech
 
-## 🧬 Specification:
+## 🧬 SWAPI Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 SWAPI Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Video & Media](https://github.com/apis-list/apis-list#video--media)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

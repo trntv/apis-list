@@ -8,18 +8,18 @@ Philips Hue, smart home lighting
 ##  🔗 Links
 **Docs / Website**: https://developers.meethue.com/documentation/getting-started
 
-## 🧬 Specification:
+## 🧬 Philips Hue Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Philips Hue Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Hardware](https://github.com/apis-list/apis-list#hardware)
-- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot--home-automation)
+- [Hardware](https://github.com/apis-list/apis-list#hardware-)
+- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot--home-automation-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

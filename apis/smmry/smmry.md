@@ -8,17 +8,17 @@ Summarize articles, text, websites, essays and documents online for free with SM
 ##  🔗 Links
 **Docs / Website**: https://smmry.com/api
 
-## 🧬 Specification:
+## 🧬 SMMRY Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 SMMRY Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools)
+- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

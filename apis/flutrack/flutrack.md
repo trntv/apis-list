@@ -6,17 +6,17 @@ Flutrack is a system that detects in real time influenza symptoms, using Twitter
 ##  🔗 Links
 **Docs / Website**: https://www.flutrack.org/
 
-## 🧬 Specification:
+## 🧬 Flutrack Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Flutrack Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Health](https://github.com/apis-list/apis-list#health)
+- [Health](https://github.com/apis-list/apis-list#health-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

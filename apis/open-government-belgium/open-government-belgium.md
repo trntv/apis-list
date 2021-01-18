@@ -6,17 +6,17 @@ The Belgian Open Data Initiative. The Belgian Open Data Initiative
 ##  🔗 Links
 **Docs / Website**: https://data.gov.be/
 
-## 🧬 Specification:
+## 🧬 Open Government, Belgium Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Open Government, Belgium Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Government](https://github.com/apis-list/apis-list#government)
+- [Government](https://github.com/apis-list/apis-list#government-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

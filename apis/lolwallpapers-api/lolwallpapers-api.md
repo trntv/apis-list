@@ -8,19 +8,19 @@ League of Legends Wallpapers website official API. This is a lightweight public 
 ##  🔗 Links
 **Docs / Website**: https://api.lolwallpapers.net
 
-## 🧬 Specification:
+## 🧬 Lolwallpapers Api Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Lolwallpapers Api Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Games](https://github.com/apis-list/apis-list#games)
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
-- [Search](https://github.com/apis-list/apis-list#search)
+- [Games](https://github.com/apis-list/apis-list#games-)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Search](https://github.com/apis-list/apis-list#search-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

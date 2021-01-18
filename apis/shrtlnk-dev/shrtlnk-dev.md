@@ -6,17 +6,17 @@ Add an application You can have as many applications as you would like, we don't
 ##  🔗 Links
 **Docs / Website**: https://shrtlnk.dev/developer
 
-## 🧬 Specification:
+## 🧬 Shrtlnk.dev Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Shrtlnk.dev Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [URLs](https://github.com/apis-list/apis-list#urls)
+- [URLs](https://github.com/apis-list/apis-list#urls-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

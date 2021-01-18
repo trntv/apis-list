@@ -8,18 +8,18 @@ The API discussed here is an interface to the MusicBrainz Database. It is aimed 
 ##  🔗 Links
 **Docs / Website**: https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2
 
-## 🧬 Specification:
+## 🧬 MusicBrainz Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 MusicBrainz Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
-- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)
+- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

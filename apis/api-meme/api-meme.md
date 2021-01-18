@@ -6,18 +6,18 @@ Generate memes with a simple link!.  Meme Top Text Bottom Text Link To access th
 ##  🔗 Links
 **Docs / Website**: http://apimeme.com
 
-## 🧬 Specification:
+## 🧬 Api Meme Specification:
 **Type**: openapi  
 **URI**: https://tl-api.azurewebsites.net/swagger/default/swagger.json
 
-## 💬 Discussion:
+## 💬 Api Meme Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-- [Fun](https://github.com/apis-list/apis-list#fun)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
+- [Fun](https://github.com/apis-list/apis-list#fun-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

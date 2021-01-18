@@ -6,17 +6,17 @@ API MetaWeather provides an API that delivers JSON over HTTPS for access to our 
 ##  🔗 Links
 **Docs / Website**: https://www.metaweather.com/api/
 
-## 🧬 Specification:
+## 🧬 MetaWeather Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 MetaWeather Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Weather](https://github.com/apis-list/apis-list#weather)
+- [Weather](https://github.com/apis-list/apis-list#weather-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

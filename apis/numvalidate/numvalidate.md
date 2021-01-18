@@ -6,17 +6,17 @@ Free and open source REST API that provides a simple yet effective way to valida
 ##  🔗 Links
 **Docs / Website**: https://numvalidate.com
 
-## 🧬 Specification:
+## 🧬 NumValidate Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 NumValidate Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

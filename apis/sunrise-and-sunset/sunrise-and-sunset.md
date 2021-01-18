@@ -6,17 +6,17 @@ Sunset and sunrise times API We offer a free API that provides sunset and sunris
 ##  🔗 Links
 **Docs / Website**: https://sunrise-sunset.org/api
 
-## 🧬 Specification:
+## 🧬 Sunrise and Sunset Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Sunrise and Sunset Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Science & Math](https://github.com/apis-list/apis-list#science--math)
+- [Science & Math](https://github.com/apis-list/apis-list#science--math-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

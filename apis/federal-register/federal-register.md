@@ -8,17 +8,17 @@ Search, browse and learn about the Federal Register. Federal Register 2. 0 is th
 ##  🔗 Links
 **Docs / Website**: https://www.federalregister.gov/reader-aids/developer-resources
 
-## 🧬 Specification:
+## 🧬 Federal Register Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Federal Register Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Government](https://github.com/apis-list/apis-list#government)
+- [Government](https://github.com/apis-list/apis-list#government-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

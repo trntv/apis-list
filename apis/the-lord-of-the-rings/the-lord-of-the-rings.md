@@ -6,17 +6,17 @@ The Lord of the Rings API - The one API
 ##  🔗 Links
 **Docs / Website**: https://the-one-api.dev/
 
-## 🧬 Specification:
+## 🧬 The Lord of the Rings Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 The Lord of the Rings Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Video & Media](https://github.com/apis-list/apis-list#video--media)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

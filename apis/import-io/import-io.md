@@ -6,17 +6,17 @@ We use standard HTTP which ca. .  Introduction The import. Introduction The impo
 ##  🔗 Links
 **Docs / Website**: http://api.docs.import.io/
 
-## 🧬 Specification:
+## 🧬 import.io Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 import.io Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

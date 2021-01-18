@@ -8,17 +8,17 @@ Geocode spreadsheets or use our API - without restrictions. Geocode spreadsheets
 ##  🔗 Links
 **Docs / Website**: https://www.geocod.io/
 
-## 🧬 Specification:
+## 🧬 Geocod.io Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Geocod.io Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

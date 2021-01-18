@@ -6,17 +6,17 @@ Access database of artists, labels, releases, marketplace and more. Here’s you
 ##  🔗 Links
 **Docs / Website**: https://www.discogs.com/developers/
 
-## 🧬 Specification:
+## 🧬 Discogs Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Discogs Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

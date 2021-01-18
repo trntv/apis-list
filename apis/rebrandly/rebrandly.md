@@ -6,17 +6,17 @@ Copy-and-paste in your application/script to create a custom short URL:. Copy-an
 ##  🔗 Links
 **Docs / Website**: https://developers.rebrandly.com/v1/docs
 
-## 🧬 Specification:
+## 🧬 Rebrandly Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Rebrandly Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [URLs](https://github.com/apis-list/apis-list#urls)
+- [URLs](https://github.com/apis-list/apis-list#urls-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

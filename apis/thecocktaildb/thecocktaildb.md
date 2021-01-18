@@ -6,19 +6,19 @@ An open, crowd-sourced database of drinks and cocktails from around the world. A
 ##  🔗 Links
 **Docs / Website**: https://www.thecocktaildb.com/api.php
 
-## 🧬 Specification:
+## 🧬 TheCocktailDB Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 TheCocktailDB Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks)
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
-- [Open Source](https://github.com/apis-list/apis-list#open-source)
+- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks-)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Open Source](https://github.com/apis-list/apis-list#open-source-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

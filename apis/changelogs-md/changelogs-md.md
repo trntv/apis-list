@@ -8,17 +8,17 @@ Search changelogs from open source projects, or use the REST API for a parsed JS
 ##  🔗 Links
 **Docs / Website**: https://changelogs.md
 
-## 🧬 Specification:
+## 🧬 Changelogs.md Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Changelogs.md Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

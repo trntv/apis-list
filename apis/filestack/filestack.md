@@ -6,19 +6,19 @@ API for image and file manipulation, 250 uploads and 500 uploads per month for f
 ##  🔗 Links
 **Docs / Website**: https://filestack.com/docs/
 
-## 🧬 Specification:
+## 🧬 Filestack Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Filestack Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
-- [Video & Media](https://github.com/apis-list/apis-list#video--media)
+- [Files & Storage](https://github.com/apis-list/apis-list#files--storage-)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

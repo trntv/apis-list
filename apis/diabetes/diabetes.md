@@ -6,17 +6,17 @@ Welcome to the PredictBGL API The PredictBGL API allows you to build the power o
 ##  🔗 Links
 **Docs / Website**: http://predictbgl.com/api/
 
-## 🧬 Specification:
+## 🧬 Diabetes Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Diabetes Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Health](https://github.com/apis-list/apis-list#health)
+- [Health](https://github.com/apis-list/apis-list#health-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

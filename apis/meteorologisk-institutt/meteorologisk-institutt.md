@@ -6,17 +6,17 @@ A. Q.  Available products: LegendMeani. Introduction This is version 3 of the ME
 ##  🔗 Links
 **Docs / Website**: https://api.met.no/weatherapi/documentation
 
-## 🧬 Specification:
+## 🧬 Meteorologisk Institutt Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Meteorologisk Institutt Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Weather](https://github.com/apis-list/apis-list#weather)
+- [Weather](https://github.com/apis-list/apis-list#weather-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

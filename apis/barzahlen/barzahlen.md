@@ -6,19 +6,19 @@ viafintech API v2 allows you to create payment, partial payment, payout, and ref
 ##  🔗 Links
 **Docs / Website**: https://docs.viafintech.com
 
-## 🧬 Specification:
+## 🧬 Barzahlen Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Barzahlen Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
-- [Payments](https://github.com/apis-list/apis-list#payments)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity-)
+- [Payments](https://github.com/apis-list/apis-list#payments-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

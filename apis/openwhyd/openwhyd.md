@@ -8,18 +8,18 @@
 ##  🔗 Links
 **Docs / Website**: https://openwhyd.github.io/openwhyd/API
 
-## 🧬 Specification:
+## 🧬 Openwhyd Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Openwhyd Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Bookmarks](https://github.com/apis-list/apis-list#bookmarks)
-- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
+- [Bookmarks](https://github.com/apis-list/apis-list#bookmarks-)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -6,18 +6,18 @@ We connect people together, making it possible to travel literally anywhere, dir
 ##  🔗 Links
 **Docs / Website**: https://dev.blablacar.com
 
-## 🧬 Specification:
+## 🧬 BlaBlaCar Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 BlaBlaCar Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

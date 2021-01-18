@@ -8,17 +8,17 @@ Generate or get existing short URLs, with sequential or custom keyword.  ➤ Abo
 ##  🔗 Links
 **Docs / Website**: https://yourls.org/#API
 
-## 🧬 Specification:
+## 🧬 Yourls Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Yourls Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [URLs](https://github.com/apis-list/apis-list#urls)
+- [URLs](https://github.com/apis-list/apis-list#urls-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,19 +8,19 @@ Simple and powerful email verification JSON API using SMTP, typo checks, syntax 
 ##  🔗 Links
 **Docs / Website**: https://mailboxlayer.com
 
-## 🧬 Specification:
+## 🧬 mailboxlayer Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 mailboxlayer Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Email & SMS](https://github.com/apis-list/apis-list#email--sms)
-- [Security](https://github.com/apis-list/apis-list#security)
-- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
+- [Email & SMS](https://github.com/apis-list/apis-list#email--sms-)
+- [Security](https://github.com/apis-list/apis-list#security-)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

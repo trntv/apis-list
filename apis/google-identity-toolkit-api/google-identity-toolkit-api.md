@@ -8,17 +8,17 @@ Enable users to sign into apps and authorize apps to use Google services
 ##  🔗 Links
 **Docs / Website**: https://developers.google.com/identity/
 
-## 🧬 Specification:
+## 🧬 Google Identity Toolkit API. Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Google Identity Toolkit API. Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management)
+- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

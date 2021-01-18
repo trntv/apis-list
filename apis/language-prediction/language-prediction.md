@@ -8,17 +8,17 @@ The API returns maximum 3 detected languages and a numeric confidences between 0
 ##  🔗 Links
 **Docs / Website**: https://rapidapi.com/BigLobster/api/language-identification-prediction
 
-## 🧬 Specification:
+## 🧬 Language Prediction Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Language Prediction Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

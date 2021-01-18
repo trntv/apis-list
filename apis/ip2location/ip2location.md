@@ -8,19 +8,19 @@ IP Address Geolocation to Country, City, Region, Latitude, Longitude, ZIP Code, 
 ##  🔗 Links
 **Docs / Website**: https://www.ip2location.com/web-service/ip2location
 
-## 🧬 Specification:
+## 🧬 IP2Location Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 IP2Location Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
-- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo)
+- [Development](https://github.com/apis-list/apis-list#development-)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
+- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

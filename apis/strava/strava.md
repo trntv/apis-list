@@ -6,19 +6,19 @@ API for accessing and managing data about athletes, activities and segments.  St
 ##  🔗 Links
 **Docs / Website**: https://strava.github.io/api/
 
-## 🧬 Specification:
+## 🧬 Strava Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Strava Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
-- [Social](https://github.com/apis-list/apis-list#social)
-- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
+- [Social](https://github.com/apis-list/apis-list#social-)
+- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

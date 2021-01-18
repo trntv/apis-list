@@ -6,17 +6,17 @@ Article search, best sellers, campaign finance, community, most popular, real es
 ##  🔗 Links
 **Docs / Website**: http://developer.nytimes.com/
 
-## 🧬 Specification:
+## 🧬 New York Times Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 New York Times Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
+- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

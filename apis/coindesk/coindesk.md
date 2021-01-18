@@ -8,17 +8,17 @@ Bitcoin Price Index. CoinDesk provides a simple and free API to make its Bitcoin
 ##  🔗 Links
 **Docs / Website**: http://www.coindesk.com/api/
 
-## 🧬 Specification:
+## 🧬 CoinDesk Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 CoinDesk Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

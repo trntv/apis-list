@@ -6,17 +6,17 @@ cdnjs provides a simple API to allow anyone to quickly query the libraries we ha
 ##  🔗 Links
 **Docs / Website**: https://cdnjs.com/api
 
-## 🧬 Specification:
+## 🧬 CDNJS Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 CDNJS Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

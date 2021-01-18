@@ -8,19 +8,19 @@ API for image and video storage and manipulation - free for up to 75,000 images 
 ##  🔗 Links
 **Docs / Website**: http://cloudinary.com/documentation
 
-## 🧬 Specification:
+## 🧬 Cloudinary Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Cloudinary Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
-- [Video & Media](https://github.com/apis-list/apis-list#video--media)
+- [Files & Storage](https://github.com/apis-list/apis-list#files--storage-)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

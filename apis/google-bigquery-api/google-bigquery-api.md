@@ -8,18 +8,18 @@ A data platform for customers to create, manage, share and query data.
 ##  🔗 Links
 **Docs / Website**: https://cloud.google.com/bigquery/docs/reference/rest/v2/
 
-## 🧬 Specification:
+## 🧬 Google BigQuery API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Google BigQuery API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Databases](https://github.com/apis-list/apis-list#databases)
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Databases](https://github.com/apis-list/apis-list#databases-)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

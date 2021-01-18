@@ -8,17 +8,17 @@ With this API, you can use RESTful req. Create a search engine for your website,
 ##  🔗 Links
 **Docs / Website**: https://developers.google.com/custom-search/v1/overview
 
-## 🧬 Specification:
+## 🧬 Google Custom Search API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Google Custom Search API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Search](https://github.com/apis-list/apis-list#search)
+- [Search](https://github.com/apis-list/apis-list#search-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

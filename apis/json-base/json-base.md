@@ -6,17 +6,17 @@ API Based JSON Storage. The free plan allows you to store 100,000 write ops per 
 ##  🔗 Links
 **Docs / Website**: https://jsonbase.com/#docs
 
-## 🧬 Specification:
+## 🧬 Json Base Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Json Base Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Databases](https://github.com/apis-list/apis-list#databases)
+- [Databases](https://github.com/apis-list/apis-list#databases-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

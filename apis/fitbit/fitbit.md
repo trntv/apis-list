@@ -8,18 +8,18 @@ You'll fit in here. Using JavaScript, CSS, and SVG, developers now have a fast, 
 ##  🔗 Links
 **Docs / Website**: https://dev.fitbit.com/build/reference/
 
-## 🧬 Specification:
+## 🧬 FitBit Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 FitBit Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Health](https://github.com/apis-list/apis-list#health)
-- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness)
+- [Health](https://github.com/apis-list/apis-list#health-)
+- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

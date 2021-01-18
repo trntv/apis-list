@@ -8,18 +8,18 @@ An extremely mature, well organized and continuely updated resource of comic inf
 ##  🔗 Links
 **Docs / Website**: http://comicvine.gamespot.com/api/
 
-## 🧬 Specification:
+## 🧬 Comic Vine Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Comic Vine Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Comics & Anime](https://github.com/apis-list/apis-list#comics--anime)
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+- [Comics & Anime](https://github.com/apis-list/apis-list#comics--anime-)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -6,17 +6,17 @@ Recipe Puppy API Recipe Puppy has a very simple API.  This api lets you search t
 ##  🔗 Links
 **Docs / Website**: http://www.recipepuppy.com/about/api/
 
-## 🧬 Specification:
+## 🧬 Recipe Puppy Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Recipe Puppy Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks)
+- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

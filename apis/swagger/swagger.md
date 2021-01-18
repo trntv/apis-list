@@ -6,17 +6,17 @@ Find out how Swagger can help you and get started today. Simplify API developmen
 ##  🔗 Links
 **Docs / Website**: http://swagger.io/
 
-## 🧬 Specification:
+## 🧬 Swagger Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Swagger Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

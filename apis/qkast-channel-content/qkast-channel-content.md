@@ -8,17 +8,17 @@ qKast API documentation and examples.  Contribute to egfx/qKast development by c
 ##  🔗 Links
 **Docs / Website**: https://github.com/egfx/qKast
 
-## 🧬 Specification:
+## 🧬 qKast Channel Content Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 qKast Channel Content Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

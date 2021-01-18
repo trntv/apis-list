@@ -6,17 +6,17 @@ The world's best and longest running Cryptocurrency price API provider. These AP
 ##  🔗 Links
 **Docs / Website**: https://apiv2.bitcoinaverage.com/
 
-## 🧬 Specification:
+## 🧬 BitcoinAverage Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 BitcoinAverage Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

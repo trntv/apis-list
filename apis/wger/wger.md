@@ -8,17 +8,17 @@ de/api/v2/ Authentication Public endpoints, such as the list of exercises or the
 ##  🔗 Links
 **Docs / Website**: https://wger.de/en/software/api
 
-## 🧬 Specification:
+## 🧬 Wger Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Wger Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness)
+- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

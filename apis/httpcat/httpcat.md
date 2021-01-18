@@ -8,17 +8,17 @@ API for HTTP Cats.  API for HTTP Cats
 ##  🔗 Links
 **Docs / Website**: https://http.cat/
 
-## 🧬 Specification:
+## 🧬 HTTPCat Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 HTTPCat Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Animals](https://github.com/apis-list/apis-list#animals)
+- [Animals](https://github.com/apis-list/apis-list#animals-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

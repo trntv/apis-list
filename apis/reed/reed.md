@@ -6,17 +6,17 @@ Official API for reed.co.uk jobs website
 ##  🔗 Links
 **Docs / Website**: https://www.reed.co.uk/developers
 
-## 🧬 Specification:
+## 🧬 Reed Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Reed Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Jobs](https://github.com/apis-list/apis-list#jobs)
+- [Jobs](https://github.com/apis-list/apis-list#jobs-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

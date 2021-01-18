@@ -8,18 +8,18 @@ A simple, RESTful API to the most powerful bitcoin infrastructure on the planet.
 ##  🔗 Links
 **Docs / Website**: https://bitpay.com/developers
 
-## 🧬 Specification:
+## 🧬 bitpay Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 bitpay Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
-- [Payments](https://github.com/apis-list/apis-list#payments)
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies-)
+- [Payments](https://github.com/apis-list/apis-list#payments-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

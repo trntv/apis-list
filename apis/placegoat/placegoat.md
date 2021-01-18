@@ -6,17 +6,17 @@ PlaceGOAT Tired of all these placeholder services that just cater to superficial
 ##  🔗 Links
 **Docs / Website**: https://placegoat.com/
 
-## 🧬 Specification:
+## 🧬 PlaceGoat Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 PlaceGoat Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

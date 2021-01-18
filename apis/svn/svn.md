@@ -6,17 +6,17 @@ It is intended mainly for programmers, both those working on Subversion itself, 
 ##  🔗 Links
 **Docs / Website**: https://subversion.apache.org/docs/api/1.8/
 
-## 🧬 Specification:
+## 🧬 SVN Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 SVN Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

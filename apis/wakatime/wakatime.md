@@ -8,17 +8,17 @@ Developer reference documentation for the WakaTime API.  Developer reference doc
 ##  🔗 Links
 **Docs / Website**: https://wakatime.com/developers
 
-## 🧬 Specification:
+## 🧬 WakaTime Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 WakaTime Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

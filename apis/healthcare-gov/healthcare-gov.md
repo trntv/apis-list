@@ -8,17 +8,17 @@ HealthCare. gov for Developers We’re making our source code freely available o
 ##  🔗 Links
 **Docs / Website**: https://www.healthcare.gov/developers/
 
-## 🧬 Specification:
+## 🧬 Healthcare.gov Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Healthcare.gov Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Health](https://github.com/apis-list/apis-list#health)
+- [Health](https://github.com/apis-list/apis-list#health-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,19 +8,19 @@ Free for personal use. Free URL to Screenshot API - capture crisp and clean snap
 ##  🔗 Links
 **Docs / Website**: https://screenshotlayer.com
 
-## 🧬 Specification:
+## 🧬 ScreenShotLayer Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 ScreenShotLayer Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Art & Design](https://github.com/apis-list/apis-list#art--design)
-- [Collaboration](https://github.com/apis-list/apis-list#collaboration)
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
+- [Art & Design](https://github.com/apis-list/apis-list#art--design-)
+- [Collaboration](https://github.com/apis-list/apis-list#collaboration-)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

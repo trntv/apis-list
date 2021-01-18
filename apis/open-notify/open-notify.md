@@ -6,17 +6,17 @@ API Examples Current ISS Location The International Space Station is moving at c
 ##  🔗 Links
 **Docs / Website**: http://open-notify.org/Open-Notify-API/
 
-## 🧬 Specification:
+## 🧬 Open Notify Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Open Notify Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Space](https://github.com/apis-list/apis-list#space)
+- [Space](https://github.com/apis-list/apis-list#space-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

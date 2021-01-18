@@ -8,18 +8,18 @@ Post your jobs on Indeed, the #1 job site worldwide.
 ##  🔗 Links
 **Docs / Website**: https://www.indeed.com/publisher
 
-## 🧬 Specification:
+## 🧬 Indeed Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Indeed Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Jobs](https://github.com/apis-list/apis-list#jobs)
-- [Search](https://github.com/apis-list/apis-list#search)
+- [Jobs](https://github.com/apis-list/apis-list#jobs-)
+- [Search](https://github.com/apis-list/apis-list#search-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

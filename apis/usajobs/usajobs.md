@@ -8,18 +8,18 @@ USAJOBS API Terms of Service As a USAJOBS API Consumer, you agree to the followi
 ##  🔗 Links
 **Docs / Website**: https://developer.usajobs.gov/
 
-## 🧬 Specification:
+## 🧬 USAJOBS Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 USAJOBS Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Government](https://github.com/apis-list/apis-list#government)
-- [Jobs](https://github.com/apis-list/apis-list#jobs)
+- [Government](https://github.com/apis-list/apis-list#government-)
+- [Jobs](https://github.com/apis-list/apis-list#jobs-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -6,17 +6,17 @@ Ziptastic API is a super easy to use API that returns the Country, State, City o
 ##  🔗 Links
 **Docs / Website**: https://ziptasticapi.com/
 
-## 🧬 Specification:
+## 🧬 Zipstatic Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Zipstatic Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

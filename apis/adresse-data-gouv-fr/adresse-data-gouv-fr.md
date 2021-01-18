@@ -6,17 +6,17 @@ Pour que les services d’urgence arrivent au bon endroit, pour vous permettre d
 ##  🔗 Links
 **Docs / Website**: https://adresse.data.gouv.fr
 
-## 🧬 Specification:
+## 🧬 adresse.data.gouv.fr Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 adresse.data.gouv.fr Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

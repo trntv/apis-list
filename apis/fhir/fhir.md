@@ -8,18 +8,18 @@ Fast Healthcare Interoperability Resources test data
 ##  🔗 Links
 **Docs / Website**: 
 
-## 🧬 Specification:
+## 🧬 Fhir Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Fhir Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Health](https://github.com/apis-list/apis-list#health)
-- [Testing](https://github.com/apis-list/apis-list#testing)
+- [Health](https://github.com/apis-list/apis-list#health-)
+- [Testing](https://github.com/apis-list/apis-list#testing-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

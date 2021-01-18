@@ -8,18 +8,18 @@ Free multilingual Encyclopedia.
 ##  🔗 Links
 **Docs / Website**: https://en.wikipedia.org/w/api.php
 
-## 🧬 Specification:
+## 🧬 Wikipedia Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Wikipedia Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
-- [Wiki](https://github.com/apis-list/apis-list#wiki)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries-)
+- [Wiki](https://github.com/apis-list/apis-list#wiki-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

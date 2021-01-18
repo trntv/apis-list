@@ -8,17 +8,17 @@ public data. Data USA provides an open, easy-to-use platform that turns data int
 ##  🔗 Links
 **Docs / Website**: https://datausa.io/about/api/
 
-## 🧬 Specification:
+## 🧬 Data USA Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Data USA Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Government](https://github.com/apis-list/apis-list#government)
+- [Government](https://github.com/apis-list/apis-list#government-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

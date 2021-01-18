@@ -6,17 +6,17 @@ IP Sidekick is an API that returns information about an IP address. You can use 
 ##  🔗 Links
 **Docs / Website**: https://ipsidekick.com
 
-## 🧬 Specification:
+## 🧬 IP Sidekick Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 IP Sidekick Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

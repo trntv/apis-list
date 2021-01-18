@@ -8,17 +8,17 @@ pizza is made to prevent users to register to websites with a disposable email a
 ##  🔗 Links
 **Docs / Website**: https://www.validator.pizza
 
-## 🧬 Specification:
+## 🧬 Validator.Pizza Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Validator.Pizza Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

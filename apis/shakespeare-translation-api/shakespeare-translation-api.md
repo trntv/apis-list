@@ -8,17 +8,17 @@ Translate from English to Shakespeare English
 ##  🔗 Links
 **Docs / Website**: https://funtranslations.com/api/shakespeare
 
-## 🧬 Specification:
+## 🧬 Shakespeare Translation Api Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Shakespeare Translation Api Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Translation](https://github.com/apis-list/apis-list#translation)
+- [Translation](https://github.com/apis-list/apis-list#translation-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

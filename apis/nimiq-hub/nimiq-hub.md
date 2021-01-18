@@ -6,17 +6,17 @@ Nimiq aims to be the best performing and easiest-to-use decentralized payment pr
 ##  🔗 Links
 **Docs / Website**: https://nimiq.github.io/hub/
 
-## 🧬 Specification:
+## 🧬 Nimiq Hub Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Nimiq Hub Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

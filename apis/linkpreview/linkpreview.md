@@ -8,18 +8,18 @@ Preview Web links with our reliable API service. Get Detailed JSON Response for 
 ##  🔗 Links
 **Docs / Website**: https://www.linkpreview.net
 
-## 🧬 Specification:
+## 🧬 LinkPreview Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 LinkPreview Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
-- [URLs](https://github.com/apis-list/apis-list#urls)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining-)
+- [URLs](https://github.com/apis-list/apis-list#urls-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

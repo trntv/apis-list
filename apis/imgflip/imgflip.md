@@ -8,17 +8,17 @@ Get 100 of memes with Imgflip API, or add text/caption to memes directly from th
 ##  🔗 Links
 **Docs / Website**: https://imgflip.com/api
 
-## 🧬 Specification:
+## 🧬 Imgflip Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Imgflip Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Fun](https://github.com/apis-list/apis-list#fun)
+- [Fun](https://github.com/apis-list/apis-list#fun-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

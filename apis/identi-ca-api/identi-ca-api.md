@@ -8,17 +8,17 @@ It pumps your life in and out of your friends, family and colleagues. Runs pump.
 ##  🔗 Links
 **Docs / Website**: 
 
-## 🧬 Specification:
+## 🧬 Identi.Ca API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Identi.Ca API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Social](https://github.com/apis-list/apis-list#social)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,17 +8,17 @@ Programming Quotes API for open source projects.  Contribute to skolakoda/progra
 ##  🔗 Links
 **Docs / Website**: https://github.com/skolakoda/programming-quotes-api
 
-## 🧬 Specification:
+## 🧬 Programming Quotes Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Programming Quotes Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Health](https://github.com/apis-list/apis-list#health)
+- [Health](https://github.com/apis-list/apis-list#health-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,17 +8,17 @@ Models are duplicated across 5 data centers around the world with latency-routed
 ##  🔗 Links
 **Docs / Website**: https://dan.com/buy-domain/mlrequest.com?redirected=true&tld=com
 
-## 🧬 Specification:
+## 🧬 Mlrequest Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Mlrequest Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,17 +8,17 @@ Makes it easy to search for things on eBay
 ##  🔗 Links
 **Docs / Website**: https://publishers.ebaycommercenetwork.com/home.action
 
-## 🧬 Specification:
+## 🧬 Shopping.Com API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Shopping.Com API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

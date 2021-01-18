@@ -8,17 +8,17 @@ Dictionary API and Translation Memory API description. Application Programming I
 ##  🔗 Links
 **Docs / Website**: https://glosbe.com/a-api
 
-## 🧬 Specification:
+## 🧬 Glosbe API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Glosbe API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

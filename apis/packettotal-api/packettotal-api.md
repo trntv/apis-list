@@ -6,17 +6,17 @@ Search, correlate, and download PCAP files, based on their behaviors and content
 ##  🔗 Links
 **Docs / Website**: https://packettotal.com/api.html
 
-## 🧬 Specification:
+## 🧬 Packettotal Api Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Packettotal Api Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Security](https://github.com/apis-list/apis-list#security)
+- [Security](https://github.com/apis-list/apis-list#security-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

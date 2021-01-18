@@ -8,17 +8,17 @@
 ##  🔗 Links
 **Docs / Website**: https://www.booknomads.com
 
-## 🧬 Specification:
+## 🧬 Booknomads Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Booknomads Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Books](https://github.com/apis-list/apis-list#books)
+- [Books](https://github.com/apis-list/apis-list#books-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

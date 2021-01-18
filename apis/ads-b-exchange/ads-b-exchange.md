@@ -8,17 +8,17 @@ Access real-time and historical data of any and all airborne aircraft. Filtered 
 ##  🔗 Links
 **Docs / Website**: https://www.adsbexchange.com/data/
 
-## 🧬 Specification:
+## 🧬 ADS-B Exchange Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 ADS-B Exchange Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

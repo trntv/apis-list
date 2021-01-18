@@ -6,17 +6,17 @@ Introduction FOAAS (Fuck Off As A Service) provides a modern, RESTful, scalable 
 ##  🔗 Links
 **Docs / Website**: https://www.foaas.com
 
-## 🧬 Specification:
+## 🧬 Fuck Off as a Service Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Fuck Off as a Service Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Social](https://github.com/apis-list/apis-list#social)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

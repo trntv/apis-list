@@ -8,17 +8,17 @@ Share and collaborate in developing threat intelligence.  Protect yourself and t
 ##  🔗 Links
 **Docs / Website**: https://otx.alienvault.com/api
 
-## 🧬 Specification:
+## 🧬 AlienVault Open Threat Exchange (OTX) Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 AlienVault Open Threat Exchange (OTX) Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Security](https://github.com/apis-list/apis-list#security)
+- [Security](https://github.com/apis-list/apis-list#security-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

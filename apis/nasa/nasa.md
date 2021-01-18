@@ -6,18 +6,18 @@ Get NASA data, including imagery, list of asteroids based on their closest appro
 ##  🔗 Links
 **Docs / Website**: https://api.nasa.gov/index.html
 
-## 🧬 Specification:
+## 🧬 NASA Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 NASA Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
-- [Science & Math](https://github.com/apis-list/apis-list#science--math)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
+- [Science & Math](https://github.com/apis-list/apis-list#science--math-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

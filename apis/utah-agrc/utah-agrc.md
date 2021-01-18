@@ -8,17 +8,17 @@ Geocoding API Methods API methods for finding a geolocation (x,y) for addresses.
 ##  🔗 Links
 **Docs / Website**: https://api.mapserv.utah.gov
 
-## 🧬 Specification:
+## 🧬 Utah AGRC Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Utah AGRC Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

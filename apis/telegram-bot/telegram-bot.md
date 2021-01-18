@@ -7,19 +7,19 @@ To learn how to create…
 ##  🔗 Links
 **Docs / Website**: https://core.telegram.org/bots/api
 
-## 🧬 Specification:
+## 🧬 Telegram Bot Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Telegram Bot Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Bots](https://github.com/apis-list/apis-list#bots)
-- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
+- [Bots](https://github.com/apis-list/apis-list#bots-)
+- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

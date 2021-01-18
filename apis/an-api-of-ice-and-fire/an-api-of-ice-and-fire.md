@@ -6,17 +6,17 @@ The API is open source! Contribute directly to the API by writing code, document
 ##  🔗 Links
 **Docs / Website**: https://anapioficeandfire.com/
 
-## 🧬 Specification:
+## 🧬 An API of Ice And Fire Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 An API of Ice And Fire Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Video & Media](https://github.com/apis-list/apis-list#video--media)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

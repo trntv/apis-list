@@ -8,17 +8,17 @@ The Upvest Blockchain API is a multi-protocol blockchain API for building blockc
 ##  🔗 Links
 **Docs / Website**: https://doc.upvest.co/docs
 
-## 🧬 Specification:
+## 🧬 Upvest Blockchain Api Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Upvest Blockchain Api Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

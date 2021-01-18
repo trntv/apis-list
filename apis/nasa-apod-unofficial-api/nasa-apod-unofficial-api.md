@@ -6,17 +6,17 @@ What's this API for? This API is for fetching data from NASA's APOD website - a 
 ##  🔗 Links
 **Docs / Website**: https://apodapi.herokuapp.com/
 
-## 🧬 Specification:
+## 🧬 NASA APOD (unofficial API) Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 NASA APOD (unofficial API) Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Science & Math](https://github.com/apis-list/apis-list#science--math)
+- [Science & Math](https://github.com/apis-list/apis-list#science--math-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

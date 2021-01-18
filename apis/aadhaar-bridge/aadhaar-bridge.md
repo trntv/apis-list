@@ -6,18 +6,18 @@ Aadhaar is a 12-digit unique identification number issued by the Indian governme
 ##  🔗 Links
 **Docs / Website**: https://www.aadhaarbridge.com/
 
-## 🧬 Specification:
+## 🧬 Aadhaar Bridge Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Aadhaar Bridge Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Government](https://github.com/apis-list/apis-list#government)
-- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
+- [Government](https://github.com/apis-list/apis-list#government-)
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

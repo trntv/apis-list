@@ -6,17 +6,17 @@ Weather for boating
 ##  🔗 Links
 **Docs / Website**: http://api.oceandrivers.com/static/docs.html
 
-## 🧬 Specification:
+## 🧬 ODWeather Specification:
 **Type**: swagger  
 **URI**: https://api.oceandrivers.com/static/resources.json
 
-## 💬 Discussion:
+## 💬 ODWeather Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Weather](https://github.com/apis-list/apis-list#weather)
+- [Weather](https://github.com/apis-list/apis-list#weather-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

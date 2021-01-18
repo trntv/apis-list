@@ -8,17 +8,17 @@ Create a chart image with one API call and embed it anywhere. Send charts in ema
 ##  🔗 Links
 **Docs / Website**: https://quickchart.io
 
-## 🧬 Specification:
+## 🧬 QuickChart Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 QuickChart Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Visualizations](https://github.com/apis-list/apis-list#visualizations)
+- [Visualizations](https://github.com/apis-list/apis-list#visualizations-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

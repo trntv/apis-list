@@ -8,19 +8,19 @@ Similar to other blogging platforms.  Posting could be done by logging into the 
 ##  🔗 Links
 **Docs / Website**: http://www.posterous.com/api
 
-## 🧬 Specification:
+## 🧬 Posterous API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Posterous API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Email & SMS](https://github.com/apis-list/apis-list#email--sms)
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
-- [Social](https://github.com/apis-list/apis-list#social)
+- [Email & SMS](https://github.com/apis-list/apis-list#email--sms-)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

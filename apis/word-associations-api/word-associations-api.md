@@ -8,17 +8,17 @@ Provides service to get associations for a word or phrase. Words are grouped by 
 ##  🔗 Links
 **Docs / Website**: https://wordassociations.net/en/api
 
-## 🧬 Specification:
+## 🧬 Word Associations API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Word Associations API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

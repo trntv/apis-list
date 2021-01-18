@@ -8,18 +8,18 @@ Embed codes of videos of the goals and highlights from a number of football leag
 ##  🔗 Links
 **Docs / Website**: https://www.scorebat.com/video-api/
 
-## 🧬 Specification:
+## 🧬 Football (Soccer) Video Api By Scorebat Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Football (Soccer) Video Api By Scorebat Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness)
-- [Video & Media](https://github.com/apis-list/apis-list#video--media)
+- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness-)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

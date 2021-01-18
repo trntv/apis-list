@@ -6,19 +6,19 @@ Manage your 3D assets. Distribute 3D & AR experiences. Collaborate with others. 
 ##  🔗 Links
 **Docs / Website**: https://sketchfab.com/developers
 
-## 🧬 Specification:
+## 🧬 Sketchfab API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Sketchfab API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
-- [Social](https://github.com/apis-list/apis-list#social)
-- [Virtual & Augmented Reality](https://github.com/apis-list/apis-list#virtual--augmented-reality)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Social](https://github.com/apis-list/apis-list#social-)
+- [Virtual & Augmented Reality](https://github.com/apis-list/apis-list#virtual--augmented-reality-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

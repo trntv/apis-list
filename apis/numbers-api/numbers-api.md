@@ -8,18 +8,18 @@ Numbers. Number of the day, random number generation , number facts and anything
 ##  🔗 Links
 **Docs / Website**: https://math.tools/api/numbers/
 
-## 🧬 Specification:
+## 🧬 Numbers Api Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Numbers Api Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Education](https://github.com/apis-list/apis-list#education)
-- [Science & Math](https://github.com/apis-list/apis-list#science--math)
+- [Education](https://github.com/apis-list/apis-list#education-)
+- [Science & Math](https://github.com/apis-list/apis-list#science--math-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,19 +8,19 @@ Mercury Web Parser turns web articles into structured content reliably and easil
 ##  🔗 Links
 **Docs / Website**: https://mercury.postlight.com/web-parser/
 
-## 🧬 Specification:
+## 🧬 Mercury Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Mercury Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Business](https://github.com/apis-list/apis-list#business)
-- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
+- [Business](https://github.com/apis-list/apis-list#business-)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity-)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

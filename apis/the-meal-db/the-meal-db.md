@@ -6,18 +6,18 @@ This food API is free to use and can get you recipes, food details, food names ,
 ##  🔗 Links
 **Docs / Website**: https://www.themealdb.com/api.php
 
-## 🧬 Specification:
+## 🧬 The Meal Db Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 The Meal Db Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks)
-- [Open Source](https://github.com/apis-list/apis-list#open-source)
+- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks-)
+- [Open Source](https://github.com/apis-list/apis-list#open-source-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

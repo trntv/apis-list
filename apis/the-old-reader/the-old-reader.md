@@ -8,17 +8,17 @@ The Old Reader API. The Old Reader API.  Contribute to theoldreader/api developm
 ##  🔗 Links
 **Docs / Website**: https://github.com/theoldreader/api
 
-## 🧬 Specification:
+## 🧬 The Old Reader Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 The Old Reader Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
+- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

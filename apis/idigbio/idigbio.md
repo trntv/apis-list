@@ -8,18 +8,18 @@ Making data and images of millions of biological specimens available on the web
 ##  🔗 Links
 **Docs / Website**: https://github.com/idigbio/idigbio-search-api/wiki
 
-## 🧬 Specification:
+## 🧬 iDigBio Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 iDigBio Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Animals](https://github.com/apis-list/apis-list#animals)
-- [Environment & Nature](https://github.com/apis-list/apis-list#environment--nature)
+- [Animals](https://github.com/apis-list/apis-list#animals-)
+- [Environment & Nature](https://github.com/apis-list/apis-list#environment--nature-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -7,18 +7,18 @@ Coinbase’s APIs enable a variety of capabilities; from simply gathering read-o
 ##  🔗 Links
 **Docs / Website**: https://developers.coinbase.com/
 
-## 🧬 Specification:
+## 🧬 Coinbase Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Coinbase Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
-- [Payments](https://github.com/apis-list/apis-list#payments)
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies-)
+- [Payments](https://github.com/apis-list/apis-list#payments-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

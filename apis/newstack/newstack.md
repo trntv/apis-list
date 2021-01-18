@@ -8,17 +8,17 @@ Vendors offer a variety of methods and capabilities that allow devices to talk t
 ##  🔗 Links
 **Docs / Website**: http://thenewstack.io/the-different-flavors-of-iot-apis/
 
-## 🧬 Specification:
+## 🧬 NewStack Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 NewStack Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

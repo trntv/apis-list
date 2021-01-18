@@ -9,19 +9,19 @@ This simple RESTful interface is powerful, convenient, and great for writing mob
 ##  🔗 Links
 **Docs / Website**: https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/intro_understanding_authentication.htm
 
-## 🧬 Specification:
+## 🧬 Salesforce Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Salesforce Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Business](https://github.com/apis-list/apis-list#business)
-- [CRM](https://github.com/apis-list/apis-list#crm)
-- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo)
+- [Business](https://github.com/apis-list/apis-list#business-)
+- [CRM](https://github.com/apis-list/apis-list#crm-)
+- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

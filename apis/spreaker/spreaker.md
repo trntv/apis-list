@@ -8,17 +8,17 @@ Enables developers to read and write data to Spreaker.  Get started with one of 
 ##  🔗 Links
 **Docs / Website**: https://developers.spreaker.com/
 
-## 🧬 Specification:
+## 🧬 Spreaker Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Spreaker Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

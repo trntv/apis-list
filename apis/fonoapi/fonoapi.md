@@ -6,17 +6,17 @@ Mobile Device Description Api
 ##  🔗 Links
 **Docs / Website**: https://fonoapi.freshpixl.com/
 
-## 🧬 Specification:
+## 🧬 fonoApi Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 fonoApi Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Hardware](https://github.com/apis-list/apis-list#hardware)
+- [Hardware](https://github.com/apis-list/apis-list#hardware-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

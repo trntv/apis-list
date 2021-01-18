@@ -8,17 +8,17 @@ We offer the data in the various formats described below to meet a variety or pa
 ##  🔗 Links
 **Docs / Website**: http://nationalflooddata.com/flood/
 
-## 🧬 Specification:
+## 🧬 National Flood Data (Us) Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 National Flood Data (Us) Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Other](https://github.com/apis-list/apis-list#other)
+- [Other](https://github.com/apis-list/apis-list#other-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

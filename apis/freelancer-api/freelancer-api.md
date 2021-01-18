@@ -8,17 +8,17 @@ It can be used to set up a food delivery network, crowdsource the price for a lo
 ##  🔗 Links
 **Docs / Website**: https://developers.freelancer.com/
 
-## 🧬 Specification:
+## 🧬 Freelancer Api Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Freelancer Api Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

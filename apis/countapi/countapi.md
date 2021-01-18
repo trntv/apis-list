@@ -8,17 +8,17 @@ You can use it to track page hits, and specific events among other things.  Coun
 ##  🔗 Links
 **Docs / Website**: https://countapi.xyz
 
-## 🧬 Specification:
+## 🧬 CountAPI Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 CountAPI Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -6,17 +6,17 @@ v1. 1 Update, adding TrackId and TrackChecksum for future AddLyric function, Add
 ##  🔗 Links
 **Docs / Website**: http://www.chartlyrics.com/api.aspx
 
-## 🧬 Specification:
+## 🧬 ChartLyrics Lyrics API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 ChartLyrics Lyrics API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

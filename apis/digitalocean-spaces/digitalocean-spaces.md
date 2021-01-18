@@ -8,17 +8,17 @@ The simplest way to cost effectively store, serve, backup, and archive a virtual
 ##  🔗 Links
 **Docs / Website**: https://www.digitalocean.com/products/spaces
 
-## 🧬 Specification:
+## 🧬 DigitalOcean Spaces Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 DigitalOcean Spaces Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
+- [Files & Storage](https://github.com/apis-list/apis-list#files--storage-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

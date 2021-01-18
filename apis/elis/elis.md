@@ -8,20 +8,20 @@ Automate data extraction from your documents with Artificial Intelligence
 ##  🔗 Links
 **Docs / Website**: https://rossum.ai/developers/
 
-## 🧬 Specification:
+## 🧬 Elis Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Elis Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
-- [Payments](https://github.com/apis-list/apis-list#payments)
-- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity-)
+- [Payments](https://github.com/apis-list/apis-list#payments-)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

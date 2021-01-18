@@ -8,18 +8,18 @@ API for investment portfolio optimization.  The science of portfolio optimizatio
 ##  🔗 Links
 **Docs / Website**: https://portfoliooptimizer.io/
 
-## 🧬 Specification:
+## 🧬 Portfolio Optimizer Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Portfolio Optimizer Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
-- [Science & Math](https://github.com/apis-list/apis-list#science--math)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics-)
+- [Science & Math](https://github.com/apis-list/apis-list#science--math-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

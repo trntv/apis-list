@@ -9,17 +9,17 @@ With IPinfo, you can pinpoint your users’ locations, customize their experienc
 ##  🔗 Links
 **Docs / Website**: https://ipinfo.io/developers
 
-## 🧬 Specification:
+## 🧬 IPinfo Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 IPinfo Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

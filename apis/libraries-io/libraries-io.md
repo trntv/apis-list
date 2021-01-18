@@ -6,17 +6,17 @@ Discover open source libraries, modules and frameworks you can use in your code.
 ##  🔗 Links
 **Docs / Website**: https://libraries.io/api
 
-## 🧬 Specification:
+## 🧬 Libraries.Io Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Libraries.Io Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Open Source](https://github.com/apis-list/apis-list#open-source)
+- [Open Source](https://github.com/apis-list/apis-list#open-source-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

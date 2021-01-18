@@ -8,18 +8,18 @@ Works on websites, iOS, mobile and desktop applications. The browser log in flow
 ##  🔗 Links
 **Docs / Website**: https://dev.twitter.com/web/sign-in
 
-## 🧬 Specification:
+## 🧬 Twitter Sign-in Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Twitter Sign-in Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management)
-- [Social](https://github.com/apis-list/apis-list#social)
+- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management-)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -6,17 +6,17 @@ io you agree to our Terms of Service and Privacy Policy.  Ephemeral file sharing
 ##  🔗 Links
 **Docs / Website**: https://www.file.io
 
-## 🧬 Specification:
+## 🧬 File.io Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 File.io Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

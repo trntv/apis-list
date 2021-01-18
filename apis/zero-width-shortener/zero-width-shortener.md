@@ -8,17 +8,17 @@ Shorten URLs with invisible spaces. URL shortener that shortens URLs using space
 ##  🔗 Links
 **Docs / Website**: https://docs.zws.im
 
-## 🧬 Specification:
+## 🧬 Zero Width Shortener Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Zero Width Shortener Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [URLs](https://github.com/apis-list/apis-list#urls)
+- [URLs](https://github.com/apis-list/apis-list#urls-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

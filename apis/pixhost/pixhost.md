@@ -8,17 +8,17 @@ Upload images, photos, galleries
 ##  🔗 Links
 **Docs / Website**: https://pixhost.org/api/index.html
 
-## 🧬 Specification:
+## 🧬 Pixhost Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Pixhost Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,17 +8,17 @@ Find the elected officials and electoral districts for any Canadian address or p
 ##  🔗 Links
 **Docs / Website**: https://represent.opennorth.ca/
 
-## 🧬 Specification:
+## 🧬 Represent by Open North Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Represent by Open North Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Government](https://github.com/apis-list/apis-list#government)
+- [Government](https://github.com/apis-list/apis-list#government-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

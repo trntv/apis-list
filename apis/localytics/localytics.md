@@ -6,19 +6,19 @@ Analytics Concepts In order to use an analytics API to its maximum potential, it
 ##  🔗 Links
 **Docs / Website**: http://docs.localytics.com/dev/query-api.html#query-api
 
-## 🧬 Specification:
+## 🧬 Localytics Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Localytics Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Analytics](https://github.com/apis-list/apis-list#analytics)
-- [Business](https://github.com/apis-list/apis-list#business)
-- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo)
+- [Analytics](https://github.com/apis-list/apis-list#analytics-)
+- [Business](https://github.com/apis-list/apis-list#business-)
+- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

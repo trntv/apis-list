@@ -6,17 +6,17 @@ mobilites-m, c'est le service unique qui regroupe toutes vos informations de dé
 ##  🔗 Links
 **Docs / Website**: https://www.metromobilite.fr/pages/opendata/OpenDataApi.html
 
-## 🧬 Specification:
+## 🧬 Transport for Grenoble, France Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Transport for Grenoble, France Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

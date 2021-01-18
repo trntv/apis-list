@@ -8,18 +8,18 @@ API for IP and Email Intelligence & Phone Number Validation. API for email valid
 ##  🔗 Links
 **Docs / Website**: https://www.antideo.com
 
-## 🧬 Specification:
+## 🧬 Antideo Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Antideo Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Email & SMS](https://github.com/apis-list/apis-list#email--sms)
-- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
+- [Email & SMS](https://github.com/apis-list/apis-list#email--sms-)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

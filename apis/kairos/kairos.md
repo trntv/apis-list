@@ -8,19 +8,19 @@ Face recognition, emotion analysis and measuring engagement of people in images 
 ##  🔗 Links
 **Docs / Website**: https://www.kairos.com/
 
-## 🧬 Specification:
+## 🧬 Kairos Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Kairos Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
-- [Recognition](https://github.com/apis-list/apis-list#recognition)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Recognition](https://github.com/apis-list/apis-list#recognition-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

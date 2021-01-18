@@ -8,17 +8,17 @@ MyAnimeList.net official API
 ##  🔗 Links
 **Docs / Website**: https://myanimelist.net/clubs.php?cid=13727
 
-## 🧬 Specification:
+## 🧬 MyAnimeList Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 MyAnimeList Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Comics & Anime](https://github.com/apis-list/apis-list#comics--anime)
+- [Comics & Anime](https://github.com/apis-list/apis-list#comics--anime-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -6,18 +6,18 @@ Instant Bulk Payments for your Finance Team. Finance teams use Telleroo’s Bulk
 ##  🔗 Links
 **Docs / Website**: https://docs.telleroo.com/
 
-## 🧬 Specification:
+## 🧬 Telleroo Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Telleroo Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Business](https://github.com/apis-list/apis-list#business)
-- [Payments](https://github.com/apis-list/apis-list#payments)
+- [Business](https://github.com/apis-list/apis-list#business-)
+- [Payments](https://github.com/apis-list/apis-list#payments-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,19 +8,19 @@ The Rijksmuseum links individuals with art and history. Our data services are im
 ##  🔗 Links
 **Docs / Website**: https://www.rijksmuseum.nl/en/api
 
-## 🧬 Specification:
+## 🧬 Rijksmuseum Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Rijksmuseum Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Art & Design](https://github.com/apis-list/apis-list#art--design)
-- [Education](https://github.com/apis-list/apis-list#education)
-- [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest)
+- [Art & Design](https://github.com/apis-list/apis-list#art--design-)
+- [Education](https://github.com/apis-list/apis-list#education-)
+- [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -6,18 +6,18 @@ The Formstack API allows users and 3rd-party applications to access Formstack re
 ##  🔗 Links
 **Docs / Website**: https://developers.formstack.com/docs
 
-## 🧬 Specification:
+## 🧬 Formstack Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Formstack Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Business](https://github.com/apis-list/apis-list#business)
-- [Forms & Surveys](https://github.com/apis-list/apis-list#forms--surveys)
+- [Business](https://github.com/apis-list/apis-list#business-)
+- [Forms & Surveys](https://github.com/apis-list/apis-list#forms--surveys-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

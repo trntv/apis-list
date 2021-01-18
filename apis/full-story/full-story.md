@@ -6,17 +6,17 @@ You may have mistyped the address or the page may have moved Take me back to the
 ##  🔗 Links
 **Docs / Website**: https://help.fullstory.com/11269-Develop
 
-## 🧬 Specification:
+## 🧬 Full Story Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Full Story Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Analytics](https://github.com/apis-list/apis-list#analytics)
+- [Analytics](https://github.com/apis-list/apis-list#analytics-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

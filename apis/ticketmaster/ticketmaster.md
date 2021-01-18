@@ -8,17 +8,17 @@ Everything you need to start playing with the Ticketmaster API. Everything you n
 ##  🔗 Links
 **Docs / Website**: http://developer.ticketmaster.com/products-and-docs/apis/getting-started/
 
-## 🧬 Specification:
+## 🧬 Ticketmaster Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Ticketmaster Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Events](https://github.com/apis-list/apis-list#events)
+- [Events](https://github.com/apis-list/apis-list#events-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

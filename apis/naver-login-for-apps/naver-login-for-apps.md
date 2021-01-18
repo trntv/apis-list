@@ -8,17 +8,17 @@ Access to Naver’s Authentication API.  네이버 아이디로 로그인 별도
 ##  🔗 Links
 **Docs / Website**: https://developers.naver.com/products/login/api
 
-## 🧬 Specification:
+## 🧬 Naver Login for Apps Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Naver Login for Apps Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management)
+- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

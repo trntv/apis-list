@@ -8,17 +8,17 @@ Azure Cognitive Services brings AI within reach of every developer through a fam
 ##  🔗 Links
 **Docs / Website**: https://azure.microsoft.com/en-us/services/cognitive-services/
 
-## 🧬 Specification:
+## 🧬 Microsoft Azure Machine Learning API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Microsoft Azure Machine Learning API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

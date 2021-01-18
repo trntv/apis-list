@@ -8,19 +8,19 @@ identifies the content of images and videos, classify images based on content, e
 ##  🔗 Links
 **Docs / Website**: https://imagga.com/
 
-## 🧬 Specification:
+## 🧬 Imagga Api Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Imagga Api Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
-- [Recognition](https://github.com/apis-list/apis-list#recognition)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Recognition](https://github.com/apis-list/apis-list#recognition-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

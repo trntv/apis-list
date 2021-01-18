@@ -6,17 +6,17 @@ Bratabase API Widget. Hello Developers! Welcome to the developers corner of Brat
 ##  🔗 Links
 **Docs / Website**: https://developers.bratabase.com/
 
-## 🧬 Specification:
+## 🧬 Bratabase Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Bratabase Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

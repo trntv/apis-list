@@ -6,18 +6,18 @@ For more information. Access to GitHub’s Gists API.  You can read public gists
 ##  🔗 Links
 **Docs / Website**: https://developer.github.com/v3/gists/
 
-## 🧬 Specification:
+## 🧬 GitHub Gists Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 GitHub Gists Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
-- [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
+- [Development](https://github.com/apis-list/apis-list#development-)
+- [Files & Storage](https://github.com/apis-list/apis-list#files--storage-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

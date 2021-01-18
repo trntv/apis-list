@@ -6,17 +6,17 @@ org APIs Not all adoptable pet data APIs are made equal! Choosing the right API 
 ##  🔗 Links
 **Docs / Website**: https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home
 
-## 🧬 Specification:
+## 🧬 RescueGroups Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 RescueGroups Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Animals](https://github.com/apis-list/apis-list#animals)
+- [Animals](https://github.com/apis-list/apis-list#animals-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

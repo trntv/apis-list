@@ -8,17 +8,17 @@ Keygen is a dead-simple software licensing API built for developers of desktop a
 ##  🔗 Links
 **Docs / Website**: https://keygen.sh
 
-## 🧬 Specification:
+## 🧬 Keygen Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Keygen Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Payments](https://github.com/apis-list/apis-list#payments)
+- [Payments](https://github.com/apis-list/apis-list#payments-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

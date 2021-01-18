@@ -8,19 +8,19 @@ Free tool with a wide range of capabilities for visualizing data from a website.
 ##  🔗 Links
 **Docs / Website**: https://developers.google.com/chart/interactive/docs/
 
-## 🧬 Specification:
+## 🧬 Google Charts Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Google Charts Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Analytics](https://github.com/apis-list/apis-list#analytics)
-- [Bar & QR Codes](https://github.com/apis-list/apis-list#bar--qr-codes)
-- [Visualizations](https://github.com/apis-list/apis-list#visualizations)
+- [Analytics](https://github.com/apis-list/apis-list#analytics-)
+- [Bar & QR Codes](https://github.com/apis-list/apis-list#bar--qr-codes-)
+- [Visualizations](https://github.com/apis-list/apis-list#visualizations-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

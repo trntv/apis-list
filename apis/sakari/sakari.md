@@ -8,17 +8,17 @@ Integrates with 1000+ applications with no code. Send and Receive SMS to over 20
 ##  🔗 Links
 **Docs / Website**: https://developer.sakari.io
 
-## 🧬 Specification:
+## 🧬 Sakari Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Sakari Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Email & SMS](https://github.com/apis-list/apis-list#email--sms)
+- [Email & SMS](https://github.com/apis-list/apis-list#email--sms-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

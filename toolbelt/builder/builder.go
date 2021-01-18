@@ -18,22 +18,23 @@ const apiTmplName = "api.gomd"
 
 func Render(l list.APIs, dir string) error {
 	funcs := template.FuncMap{
-		"slug": func(s string) string {
-			s = slugRegexp.ReplaceAllString(s, "")
-			s = strings.ReplaceAll(s, " ", "-")
-			return strings.ToLower(s)
-		},
 		"short": func(s string) string {
-			s = FirstSentence(s)
+			s = firstSentence(s)
 			s = strings.ReplaceAll(s, "\n", ". ")
 			return strings.TrimSpace(s)
 		},
+		"slug": slug,
 		"sort": func(s []string) []string {
 			sort.Strings(s)
 			return s
 		},
 		"category_icon": func(s string) string {
-			return CategoryIcons[s]
+			icon := CategoryIcons[s]
+			if icon == "" {
+				icon = "📃"
+			}
+
+			return icon
 		},
 	}
 	templates, err := template.New("readme").Funcs(funcs).ParseGlob(path.Join(dir, "templates", "*.gomd"))
@@ -47,9 +48,14 @@ func Render(l list.APIs, dir string) error {
 	}
 	defer readmeFile.Close()
 
+	categoriesIndex := make(map[string]string)
+	for k := range l.ByCategory() {
+		categoriesIndex[k] = slug(k)
+	}
 	err = templates.Lookup(readmeTmplName).Execute(readmeFile, map[string]interface{}{
-		"apis":      l.ByCategory(),
-		"graveyard": l.Graveyard(),
+		"categoriesIndex": categoriesIndex,
+		"apis":            l.ByCategory(),
+		"graveyard":       l.Graveyard(),
 	})
 	if err != nil {
 		return err
@@ -81,7 +87,7 @@ func Render(l list.APIs, dir string) error {
 	return nil
 }
 
-func FirstSentence(s string) string {
+func firstSentence(s string) string {
 	var sep = []string{"\n", ".", "!", "?"}
 	for _, v := range sep {
 		if strings.Contains(s, v) {
@@ -90,4 +96,10 @@ func FirstSentence(s string) string {
 	}
 
 	return s
+}
+
+func slug(s string) string {
+	s = slugRegexp.ReplaceAllString(s, "")
+	s = strings.ReplaceAll(s, " ", "-")
+	return strings.ToLower(s)
 }

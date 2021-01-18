@@ -6,17 +6,17 @@ Free phone number validation provided by PhoneValidator. Check phone numbers to 
 ##  🔗 Links
 **Docs / Website**: https://www.phonevalidator.com
 
-## 🧬 Specification:
+## 🧬 Phone Validator Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Phone Validator Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

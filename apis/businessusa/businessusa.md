@@ -8,17 +8,17 @@ Software developers and researchers can use these APIs and data feeds to help pe
 ##  🔗 Links
 **Docs / Website**: https://business.usa.gov/developer
 
-## 🧬 Specification:
+## 🧬 BusinessUSA Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 BusinessUSA Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Government](https://github.com/apis-list/apis-list#government)
+- [Government](https://github.com/apis-list/apis-list#government-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

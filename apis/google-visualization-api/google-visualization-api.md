@@ -8,17 +8,17 @@ This page lists the objects exposed by the Google Visualization API, and the sta
 ##  🔗 Links
 **Docs / Website**: https://developers.google.com/chart/interactive/docs/reference
 
-## 🧬 Specification:
+## 🧬 Google Visualization API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Google Visualization API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Visualizations](https://github.com/apis-list/apis-list#visualizations)
+- [Visualizations](https://github.com/apis-list/apis-list#visualizations-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

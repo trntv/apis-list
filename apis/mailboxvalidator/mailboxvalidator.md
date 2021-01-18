@@ -8,17 +8,17 @@ MailboxValidator provides single email validation API that checks if an email ad
 ##  🔗 Links
 **Docs / Website**: https://www.mailboxvalidator.com/api-single-validation
 
-## 🧬 Specification:
+## 🧬 MailboxValidator Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 MailboxValidator Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Business](https://github.com/apis-list/apis-list#business)
+- [Business](https://github.com/apis-list/apis-list#business-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -6,17 +6,17 @@ Browser not supported Try using a different browser or the desktop app. View a l
 ##  🔗 Links
 **Docs / Website**: https://docs.api.getpostman.com/
 
-## 🧬 Specification:
+## 🧬 Postman Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Postman Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

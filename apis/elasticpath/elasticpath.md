@@ -6,21 +6,21 @@ Provides the full commerce solution to bring your unique, revenue-driving experi
 ##  🔗 Links
 **Docs / Website**: https://developers.elasticpath.com/
 
-## 🧬 Specification:
+## 🧬 Elasticpath Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Elasticpath Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Business](https://github.com/apis-list/apis-list#business)
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
-- [Payments](https://github.com/apis-list/apis-list#payments)
+- [Business](https://github.com/apis-list/apis-list#business-)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries-)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
+- [Payments](https://github.com/apis-list/apis-list#payments-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

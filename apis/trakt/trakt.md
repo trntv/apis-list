@@ -6,18 +6,18 @@ Trakt collect lots of information about what tv shows and movies everyone is wat
 ##  🔗 Links
 **Docs / Website**: https://trakt.docs.apiary.io/
 
-## 🧬 Specification:
+## 🧬 Trakt Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Trakt Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-- [Video & Media](https://github.com/apis-list/apis-list#video--media)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

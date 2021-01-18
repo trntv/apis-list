@@ -8,17 +8,17 @@ IP Address Geolocation to Country, City, Region, Latitude, Longitude, ZIP Code, 
 ##  🔗 Links
 **Docs / Website**: https://www.ip2location.com/web-service/ip2proxy
 
-## 🧬 Specification:
+## 🧬 IP2Proxy Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 IP2Proxy Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

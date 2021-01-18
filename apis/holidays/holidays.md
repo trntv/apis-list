@@ -8,18 +8,18 @@ Don't let sourcing and maintaining holiday information get in the way of buildin
 ##  🔗 Links
 **Docs / Website**: https://holidayapi.com/
 
-## 🧬 Specification:
+## 🧬 Holidays Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Holidays Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time)
-- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
+- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time-)
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

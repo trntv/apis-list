@@ -8,18 +8,18 @@ The green electricity index shows when a lot of renewable electricity is in the 
 ##  🔗 Links
 **Docs / Website**: https://gruenstromindex.de/
 
-## 🧬 Specification:
+## 🧬 GrünstromIndex Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 GrünstromIndex Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Environment & Nature](https://github.com/apis-list/apis-list#environment--nature)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
+- [Environment & Nature](https://github.com/apis-list/apis-list#environment--nature-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

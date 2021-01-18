@@ -6,17 +6,17 @@ All accessible with a single open platform key.  Get Started. Access a huge rang
 ##  🔗 Links
 **Docs / Website**: http://open-platform.theguardian.com/
 
-## 🧬 Specification:
+## 🧬 The Guardian Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 The Guardian Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
+- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -6,17 +6,17 @@ OneDrive API works on every platform, so you don't have to. OneDrive API works o
 ##  🔗 Links
 **Docs / Website**: https://dev.onedrive.com/
 
-## 🧬 Specification:
+## 🧬 OneDrive Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 OneDrive Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
+- [Files & Storage](https://github.com/apis-list/apis-list#files--storage-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

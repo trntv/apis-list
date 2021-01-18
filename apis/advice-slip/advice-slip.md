@@ -8,17 +8,17 @@ Parameters callback string To define your own callback function name and return 
 ##  🔗 Links
 **Docs / Website**: http://api.adviceslip.com/
 
-## 🧬 Specification:
+## 🧬 Advice Slip Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Advice Slip Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Fun](https://github.com/apis-list/apis-list#fun)
+- [Fun](https://github.com/apis-list/apis-list#fun-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

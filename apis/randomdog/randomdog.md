@@ -6,20 +6,20 @@
 ##  🔗 Links
 **Docs / Website**: https://random.dog/woof.json
 
-## 🧬 Specification:
+## 🧬 RandomDog Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 RandomDog Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Animals](https://github.com/apis-list/apis-list#animals)
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
-- [Video & Media](https://github.com/apis-list/apis-list#video--media)
+- [Animals](https://github.com/apis-list/apis-list#animals-)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

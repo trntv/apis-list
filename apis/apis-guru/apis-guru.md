@@ -6,17 +6,17 @@ Our goal is to create a machine-readable Wikipedia for WEB APIs.  If you have an
 ##  🔗 Links
 **Docs / Website**: https://apis.guru/api-doc/
 
-## 🧬 Specification:
+## 🧬 APIs.guru Specification:
 **Type**: swagger  
 **URI**: https://api.apis.guru/v2/swagger.json
 
-## 💬 Discussion:
+## 💬 APIs.guru Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,17 +8,17 @@ We aggregate and distribute landscape webcams worldwide. Add webcams to your app
 ##  🔗 Links
 **Docs / Website**: https://www.windy.com/webcams/
 
-## 🧬 Specification:
+## 🧬 Webcams.Travel Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Webcams.Travel Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Travel](https://github.com/apis-list/apis-list#travel)
+- [Travel](https://github.com/apis-list/apis-list#travel-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

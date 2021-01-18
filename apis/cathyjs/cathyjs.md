@@ -8,17 +8,17 @@ It is mainly created for discord bots. . A chatbot api which is completely free
 ##  🔗 Links
 **Docs / Website**: https://www.npmjs.com/package/cathyjs
 
-## 🧬 Specification:
+## 🧬 Cathyjs Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Cathyjs Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Bots](https://github.com/apis-list/apis-list#bots)
+- [Bots](https://github.com/apis-list/apis-list#bots-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

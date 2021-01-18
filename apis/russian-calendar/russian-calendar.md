@@ -8,17 +8,17 @@ Work calendar service.  Contribute to egno/work-calendar development by creating
 ##  🔗 Links
 **Docs / Website**: https://github.com/egno/work-calendar
 
-## 🧬 Specification:
+## 🧬 Russian Calendar Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Russian Calendar Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time)
+- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -6,17 +6,17 @@ Announcement The USASpending API is in V2. V1 endpoints are currently Deprecated
 ##  🔗 Links
 **Docs / Website**: https://api.usaspending.gov/
 
-## 🧬 Specification:
+## 🧬 USAspending.gov Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 USAspending.gov Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Government](https://github.com/apis-list/apis-list#government)
+- [Government](https://github.com/apis-list/apis-list#government-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

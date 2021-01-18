@@ -8,17 +8,17 @@ Contribute to IcaliaLabs/sepomex development by creating an account on GitHub. A
 ##  🔗 Links
 **Docs / Website**: https://github.com/IcaliaLabs/sepomex
 
-## 🧬 Specification:
+## 🧬 Mexico Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Mexico Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

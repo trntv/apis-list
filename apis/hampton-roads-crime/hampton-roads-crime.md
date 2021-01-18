@@ -8,18 +8,18 @@ Let’s you get most recent and historical crime data so you feel safe in your n
 ##  🔗 Links
 **Docs / Website**: http://labs.hamptonroads.com/api/crime/
 
-## 🧬 Specification:
+## 🧬 Hampton Roads Crime Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Hampton Roads Crime Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
-- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data)
+- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds-)
+- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

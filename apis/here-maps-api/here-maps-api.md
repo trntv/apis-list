@@ -8,17 +8,17 @@ Wide range of APIs available through JavaScript, iOS, Android, or REST services.
 ##  🔗 Links
 **Docs / Website**: https://developer.here.com/
 
-## 🧬 Specification:
+## 🧬 HERE Maps API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 HERE Maps API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

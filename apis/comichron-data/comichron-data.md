@@ -8,17 +8,17 @@ com - comichron-data/api. JSON API for monthly sales data from comichron
 ##  🔗 Links
 **Docs / Website**: https://github.com/comichron-data/api
 
-## 🧬 Specification:
+## 🧬 Comichron Data Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Comichron Data Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,17 +8,17 @@ koomalooma takes care of all the rest, from signing up users, keeping track of p
 ##  🔗 Links
 **Docs / Website**: http://business.koomalooma.com
 
-## 🧬 Specification:
+## 🧬 koomalooma Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 koomalooma Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

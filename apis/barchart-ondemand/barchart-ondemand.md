@@ -6,17 +6,17 @@ Free Market Data APIs for Stock, futures and forex quotes, and historical data. 
 ##  🔗 Links
 **Docs / Website**: https://www.barchartondemand.com/free
 
-## 🧬 Specification:
+## 🧬 Barchart OnDemand Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Barchart OnDemand Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

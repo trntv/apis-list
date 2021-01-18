@@ -6,17 +6,17 @@ Maintains a custom datastore that queries your data in a fast, scalable, and rel
 ##  🔗 Links
 **Docs / Website**: https://developer.mixpanel.com/docs/implement-mixpanel
 
-## 🧬 Specification:
+## 🧬 MixPanel Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 MixPanel Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Analytics](https://github.com/apis-list/apis-list#analytics)
+- [Analytics](https://github.com/apis-list/apis-list#analytics-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

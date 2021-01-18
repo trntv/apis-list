@@ -8,17 +8,17 @@ Particularly nice, when compared to some of its competitors, in that it offers a
 ##  🔗 Links
 **Docs / Website**: https://dummyimage.com/
 
-## 🧬 Specification:
+## 🧬 DummyImage Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 DummyImage Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,17 +8,17 @@ Secure and reliable Online Tools. Free URL Shortener API without limits
 ##  🔗 Links
 **Docs / Website**: https://app.shrtco.de/docs
 
-## 🧬 Specification:
+## 🧬 Shrtco.De Api Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Shrtco.De Api Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [URLs](https://github.com/apis-list/apis-list#urls)
+- [URLs](https://github.com/apis-list/apis-list#urls-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

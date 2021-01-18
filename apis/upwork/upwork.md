@@ -6,19 +6,19 @@ reference The reference of the accounting transaction. reference The reference o
 ##  🔗 Links
 **Docs / Website**: https://developers.upwork.com/
 
-## 🧬 Specification:
+## 🧬 Upwork Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Upwork Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Jobs](https://github.com/apis-list/apis-list#jobs)
-- [Search](https://github.com/apis-list/apis-list#search)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
+- [Jobs](https://github.com/apis-list/apis-list#jobs-)
+- [Search](https://github.com/apis-list/apis-list#search-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

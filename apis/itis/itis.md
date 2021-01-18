@@ -8,17 +8,17 @@ Hosted by the USGS Core Science Analytics and Synthesis.  Page designed through 
 ##  🔗 Links
 **Docs / Website**: https://www.itis.gov/ws_description.html
 
-## 🧬 Specification:
+## 🧬 ITIS Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 ITIS Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Science & Math](https://github.com/apis-list/apis-list#science--math)
+- [Science & Math](https://github.com/apis-list/apis-list#science--math-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

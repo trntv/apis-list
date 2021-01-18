@@ -8,17 +8,17 @@ Open Library is an open, editable library catalog, building towards a web page f
 ##  🔗 Links
 **Docs / Website**: https://openlibrary.org/developers/api
 
-## 🧬 Specification:
+## 🧬 Open Library Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Open Library Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Books](https://github.com/apis-list/apis-list#books)
+- [Books](https://github.com/apis-list/apis-list#books-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

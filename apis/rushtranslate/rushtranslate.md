@@ -9,19 +9,19 @@ RushTranslate offers certified document translation services in over 60 language
 ##  🔗 Links
 **Docs / Website**: https://rushtranslate.com/docs
 
-## 🧬 Specification:
+## 🧬 Rushtranslate Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Rushtranslate Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Business](https://github.com/apis-list/apis-list#business)
-- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
-- [Translation](https://github.com/apis-list/apis-list#translation)
+- [Business](https://github.com/apis-list/apis-list#business-)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity-)
+- [Translation](https://github.com/apis-list/apis-list#translation-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

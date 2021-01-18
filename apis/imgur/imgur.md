@@ -8,18 +8,18 @@ Imgur: The magic of the Internet. Imgur's API exposes the entire Imgur infrastru
 ##  🔗 Links
 **Docs / Website**: https://api.imgur.com/
 
-## 🧬 Specification:
+## 🧬 Imgur Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Imgur Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
-- [Social](https://github.com/apis-list/apis-list#social)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

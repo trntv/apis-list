@@ -6,17 +6,17 @@ Find out if a restaurant, takeaway or food shop you want to visit has good food 
 ##  🔗 Links
 **Docs / Website**: http://ratings.food.gov.uk/open-data/en-GB
 
-## 🧬 Specification:
+## 🧬 Food Standards Agency Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Food Standards Agency Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Government](https://github.com/apis-list/apis-list#government)
+- [Government](https://github.com/apis-list/apis-list#government-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

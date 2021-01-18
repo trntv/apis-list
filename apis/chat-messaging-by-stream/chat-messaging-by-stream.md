@@ -12,19 +12,19 @@ Stream's API and SDKs enable developers to build messaging solutions very quickl
 ##  🔗 Links
 **Docs / Website**: https://getstream.io/chat/
 
-## 🧬 Specification:
+## 🧬 Chat Messaging By Stream Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Chat Messaging By Stream Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging)
-- [Development](https://github.com/apis-list/apis-list#development)
-- [Social](https://github.com/apis-list/apis-list#social)
+- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging-)
+- [Development](https://github.com/apis-list/apis-list#development-)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

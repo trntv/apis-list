@@ -8,17 +8,17 @@ Access the full text of the Google Books repository.  Access the full text of th
 ##  🔗 Links
 **Docs / Website**: https://developers.google.com/books/
 
-## 🧬 Specification:
+## 🧬 Google Books API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Google Books API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Books](https://github.com/apis-list/apis-list#books)
+- [Books](https://github.com/apis-list/apis-list#books-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

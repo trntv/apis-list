@@ -6,18 +6,18 @@ Next Big Sound helps artists and their teams use Pandora to understand performan
 ##  🔗 Links
 **Docs / Website**: https://api3.nextbigsound.com/
 
-## 🧬 Specification:
+## 🧬 Next Big Sound API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Next Big Sound API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
-- [Social](https://github.com/apis-list/apis-list#social)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

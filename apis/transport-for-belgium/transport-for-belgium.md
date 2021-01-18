@@ -6,17 +6,17 @@ API Caveat lector: you want to use a data dump? Don’t harvest our entire API, 
 ##  🔗 Links
 **Docs / Website**: https://hello.irail.be/api/
 
-## 🧬 Specification:
+## 🧬 Transport for Belgium Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Transport for Belgium Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

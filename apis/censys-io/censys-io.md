@@ -8,17 +8,17 @@ Censys helps organizations, individuals, and researchers find and monitor every 
 ##  🔗 Links
 **Docs / Website**: https://censys.io/api
 
-## 🧬 Specification:
+## 🧬 Censys.io Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Censys.io Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Security](https://github.com/apis-list/apis-list#security)
+- [Security](https://github.com/apis-list/apis-list#security-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

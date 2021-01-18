@@ -8,17 +8,17 @@ Standardize crypto coin symbols (eg. BTC, XBT) across 100+ exchanges.
 ##  🔗 Links
 **Docs / Website**: https://cryptostandardizer.com
 
-## 🧬 Specification:
+## 🧬 Cryptostandardizer Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Cryptostandardizer Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

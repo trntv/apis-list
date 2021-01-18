@@ -6,17 +6,17 @@ Cooper Hewitt, Smithsonian Design Museum Collections provides a REST-ish style a
 ##  🔗 Links
 **Docs / Website**: https://collection.cooperhewitt.org/api
 
-## 🧬 Specification:
+## 🧬 Cooper Hewitt Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Cooper Hewitt Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Art & Design](https://github.com/apis-list/apis-list#art--design)
+- [Art & Design](https://github.com/apis-list/apis-list#art--design-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

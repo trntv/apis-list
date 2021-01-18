@@ -8,17 +8,17 @@ API of The Report Of The Week Reviews.  Contribute to andyklimczak/TheReportOfTh
 ##  🔗 Links
 **Docs / Website**: https://github.com/andyklimczak/TheReportOfTheWeek-API
 
-## 🧬 Specification:
+## 🧬 The Report of the Week Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 The Report of the Week Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks)
+- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

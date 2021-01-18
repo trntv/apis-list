@@ -6,18 +6,18 @@ The current version of the API. The Guild Wars 2 API (application programming in
 ##  🔗 Links
 **Docs / Website**: https://wiki.guildwars2.com/wiki/API:Main
 
-## 🧬 Specification:
+## 🧬 Guild Wars 2 Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Guild Wars 2 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-- [Games](https://github.com/apis-list/apis-list#games)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
+- [Games](https://github.com/apis-list/apis-list#games-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

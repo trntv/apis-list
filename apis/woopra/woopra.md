@@ -6,17 +6,17 @@ There are limitless ways in which you can customize the Woopra platform, making 
 ##  🔗 Links
 **Docs / Website**: https://www.woopra.com/docs/developer/analytics-api/
 
-## 🧬 Specification:
+## 🧬 Woopra Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Woopra Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Analytics](https://github.com/apis-list/apis-list#analytics)
+- [Analytics](https://github.com/apis-list/apis-list#analytics-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,17 +8,17 @@ LangAPI exists to help developers rapidly translate and localize their apps for 
 ##  🔗 Links
 **Docs / Website**: https://docs.langapi.co/#introduction/
 
-## 🧬 Specification:
+## 🧬 Lang Api Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Lang Api Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Translation](https://github.com/apis-list/apis-list#translation)
+- [Translation](https://github.com/apis-list/apis-list#translation-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

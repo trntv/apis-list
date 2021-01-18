@@ -8,17 +8,17 @@ Be creative and create any type of marketplace. Whether you are looking for a we
 ##  🔗 Links
 **Docs / Website**: https://yclas.com/
 
-## 🧬 Specification:
+## 🧬 Yclas Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Yclas Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

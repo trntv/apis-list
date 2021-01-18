@@ -6,19 +6,19 @@ The NHTSA Product Information Catalog Vehicle Listing (vPIC) Application Program
 ##  🔗 Links
 **Docs / Website**: https://vpic.nhtsa.dot.gov/api/
 
-## 🧬 Specification:
+## 🧬 NHTSA Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 NHTSA Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Government](https://github.com/apis-list/apis-list#government)
-- [Security](https://github.com/apis-list/apis-list#security)
-- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation)
+- [Government](https://github.com/apis-list/apis-list#government-)
+- [Security](https://github.com/apis-list/apis-list#security-)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

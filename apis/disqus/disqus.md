@@ -6,17 +6,17 @@ Disqus is a global comment system that improves discussion on websites and conne
 ##  🔗 Links
 **Docs / Website**: https://disqus.com/api/docs/auth/
 
-## 🧬 Specification:
+## 🧬 Disqus Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Disqus Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Social](https://github.com/apis-list/apis-list#social)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

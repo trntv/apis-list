@@ -6,17 +6,17 @@ js and Java.  Quickly use official Hytale API in your projects. . Quickly use of
 ##  🔗 Links
 **Docs / Website**: https://hytale-api.com/
 
-## 🧬 Specification:
+## 🧬 Hytale Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Hytale Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

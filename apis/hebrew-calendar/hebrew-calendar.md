@@ -6,17 +6,17 @@ You can embed Hebcal. com content directly onto your synagogue website with our.
 ##  🔗 Links
 **Docs / Website**: https://www.hebcal.com/home/developer-apis
 
-## 🧬 Specification:
+## 🧬 Hebrew Calendar Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Hebrew Calendar Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time)
+- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

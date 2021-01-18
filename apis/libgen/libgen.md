@@ -6,17 +6,17 @@ An English-language guide to using the LibGen API.  An English-language guide to
 ##  🔗 Links
 **Docs / Website**: https://garbage.world/posts/libgen/
 
-## 🧬 Specification:
+## 🧬 LibGen Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 LibGen Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Books](https://github.com/apis-list/apis-list#books)
+- [Books](https://github.com/apis-list/apis-list#books-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

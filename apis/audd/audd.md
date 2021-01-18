@@ -8,21 +8,21 @@ AudD Music Recognition API Docs: how to identify songs in audio using our API
 ##  🔗 Links
 **Docs / Website**: https://docs.audd.io/
 
-## 🧬 Specification:
+## 🧬 AudD Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 AudD Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Development](https://github.com/apis-list/apis-list#development)
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
-- [Recognition](https://github.com/apis-list/apis-list#recognition)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
+- [Development](https://github.com/apis-list/apis-list#development-)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)
+- [Recognition](https://github.com/apis-list/apis-list#recognition-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -6,17 +6,17 @@ Amazon Machine Learning API simplifies the process of making predictions that re
 ##  🔗 Links
 **Docs / Website**: http://docs.aws.amazon.com/machine-learning/latest/APIReference/Welcome.html
 
-## 🧬 Specification:
+## 🧬 Amazon MI API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Amazon MI API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

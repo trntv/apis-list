@@ -8,17 +8,17 @@ Dive into Colorado’s water, including wells, surface water conditions, and wat
 ##  🔗 Links
 **Docs / Website**: https://data.colorado.gov/
 
-## 🧬 Specification:
+## 🧬 Colorado Information Marketplace Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Colorado Information Marketplace Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Government](https://github.com/apis-list/apis-list#government)
+- [Government](https://github.com/apis-list/apis-list#government-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

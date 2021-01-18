@@ -6,17 +6,17 @@ Get current weather information, historical data and forecasts using weatherstac
 ##  🔗 Links
 **Docs / Website**: https://www.apixu.com/doc/request.aspx
 
-## 🧬 Specification:
+## 🧬 APIXU Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 APIXU Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Weather](https://github.com/apis-list/apis-list#weather)
+- [Weather](https://github.com/apis-list/apis-list#weather-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

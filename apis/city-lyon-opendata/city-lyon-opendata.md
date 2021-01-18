@@ -8,17 +8,17 @@ Les données des acteurs du territoire de la Métropole de Lyon
 ##  🔗 Links
 **Docs / Website**: https://data.beta.grandlyon.com/fr/accueil
 
-## 🧬 Specification:
+## 🧬 City, Lyon Opendata Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 City, Lyon Opendata Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Government](https://github.com/apis-list/apis-list#government)
+- [Government](https://github.com/apis-list/apis-list#government-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

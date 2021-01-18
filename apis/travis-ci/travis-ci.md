@@ -6,17 +6,17 @@ If you’re new to the Travis CI API, you should be using API V3. The API V2 des
 ##  🔗 Links
 **Docs / Website**: https://docs.travis-ci.com/api/
 
-## 🧬 Specification:
+## 🧬 Travis CI Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Travis CI Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

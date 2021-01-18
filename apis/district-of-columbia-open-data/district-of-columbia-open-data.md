@@ -8,18 +8,18 @@ Goal is for this API is to be your platform for developing apps around DC’s fr
 ##  🔗 Links
 **Docs / Website**: http://opendata.dc.gov/pages/using-apis
 
-## 🧬 Specification:
+## 🧬 District of Columbia Open Data Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 District of Columbia Open Data Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Government](https://github.com/apis-list/apis-list#government)
-- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data)
+- [Government](https://github.com/apis-list/apis-list#government-)
+- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

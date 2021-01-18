@@ -6,17 +6,17 @@ system_capacit. format Yes Type: string Default: None Options: json, xml The out
 ##  🔗 Links
 **Docs / Website**: https://developer.nrel.gov/docs/solar/pvwatts/v6/
 
-## 🧬 Specification:
+## 🧬 PVWatts Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 PVWatts Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Environment & Nature](https://github.com/apis-list/apis-list#environment--nature)
+- [Environment & Nature](https://github.com/apis-list/apis-list#environment--nature-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

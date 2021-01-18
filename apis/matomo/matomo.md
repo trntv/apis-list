@@ -8,17 +8,17 @@ This page is a hub space linking to the Analytics API guides.  There are two mai
 ##  🔗 Links
 **Docs / Website**: https://matomo.org/docs/analytics-api/
 
-## 🧬 Specification:
+## 🧬 Matomo Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Matomo Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Analytics](https://github.com/apis-list/apis-list#analytics)
+- [Analytics](https://github.com/apis-list/apis-list#analytics-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

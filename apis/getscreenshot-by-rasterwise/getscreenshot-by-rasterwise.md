@@ -10,18 +10,18 @@ This RESTful API can be accessed by any standard/popular client with HTTP capabi
 ##  🔗 Links
 **Docs / Website**: https://getscreenshot.rasterwise.com/
 
-## 🧬 Specification:
+## 🧬 Getscreenshot By Rasterwise Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Getscreenshot By Rasterwise Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
-- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

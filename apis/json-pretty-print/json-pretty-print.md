@@ -6,17 +6,17 @@ JSON Pretty Print with modern user interface and ssl.  JSON Pretty Print with mo
 ##  🔗 Links
 **Docs / Website**: https://jsonprettyprint.org/api
 
-## 🧬 Specification:
+## 🧬 JSON Pretty Print Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 JSON Pretty Print Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

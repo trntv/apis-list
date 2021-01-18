@@ -8,17 +8,17 @@ Generate random cartoon avatars
 ##  🔗 Links
 **Docs / Website**: http://avatars.adorable.io
 
-## 🧬 Specification:
+## 🧬 Adorable Avatars Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Adorable Avatars Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Testing](https://github.com/apis-list/apis-list#testing)
+- [Testing](https://github.com/apis-list/apis-list#testing-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

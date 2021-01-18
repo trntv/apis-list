@@ -6,17 +6,17 @@ Developers do not need to be experts in video, all of the complexities of video 
 ##  🔗 Links
 **Docs / Website**: https://vidyo.io/
 
-## 🧬 Specification:
+## 🧬 Vidyo.Io Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Vidyo.Io Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging)
+- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

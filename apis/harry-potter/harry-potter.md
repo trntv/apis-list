@@ -8,19 +8,19 @@ Harry Potter API Documentation Response Formats Authentication All Routes Sortin
 ##  🔗 Links
 **Docs / Website**: https://www.potterapi.com/
 
-## 🧬 Specification:
+## 🧬 Harry Potter Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Harry Potter Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Books](https://github.com/apis-list/apis-list#books)
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-- [Video & Media](https://github.com/apis-list/apis-list#video--media)
+- [Books](https://github.com/apis-list/apis-list#books-)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -6,18 +6,18 @@ Welcome Please note this is an early release of our API and should be considered
 ##  🔗 Links
 **Docs / Website**: https://developer.gitter.im/docs/welcome
 
-## 🧬 Specification:
+## 🧬 Gitter Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Gitter Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging)
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging-)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

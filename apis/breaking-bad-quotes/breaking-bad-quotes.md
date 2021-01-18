@@ -8,17 +8,17 @@ A free API to retrieve some quotes of Breaking Bad, bitch!.  A free API to retri
 ##  🔗 Links
 **Docs / Website**: https://breakingbadquotes.xyz/
 
-## 🧬 Specification:
+## 🧬 Breaking Bad Quotes Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Breaking Bad Quotes Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Video & Media](https://github.com/apis-list/apis-list#video--media)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

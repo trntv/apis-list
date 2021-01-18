@@ -6,17 +6,17 @@ Last Update: November 1, 2012 7Timer! is a series of web-based meteorological fo
 ##  🔗 Links
 **Docs / Website**: http://www.7timer.info/doc.php?lang=en
 
-## 🧬 Specification:
+## 🧬 7Timer! Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 7Timer! Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Weather](https://github.com/apis-list/apis-list#weather)
+- [Weather](https://github.com/apis-list/apis-list#weather-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

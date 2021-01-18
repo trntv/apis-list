@@ -8,18 +8,18 @@ A simple JSON store for your web or mobile app
 ##  🔗 Links
 **Docs / Website**: 
 
-## 🧬 Specification:
+## 🧬 Myjson Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Myjson Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
-- [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
+- [Development](https://github.com/apis-list/apis-list#development-)
+- [Files & Storage](https://github.com/apis-list/apis-list#files--storage-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -6,17 +6,17 @@ If you're interested in . Offers access to public read-only data such as searchi
 ##  🔗 Links
 **Docs / Website**: http://developer.ebay.com/Devzone/shopping/docs/Concepts/ShoppingAPIGuide.html
 
-## 🧬 Specification:
+## 🧬 EBay Shopping API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 EBay Shopping API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

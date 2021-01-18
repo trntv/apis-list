@@ -6,17 +6,17 @@ herokuapp. com/api/v1/ with headers of Accept: "application/json", "Content-Type
 ##  🔗 Links
 **Docs / Website**: https://sentim-api.herokuapp.com
 
-## 🧬 Specification:
+## 🧬 Sentim-API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Sentim-API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

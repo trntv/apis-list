@@ -6,17 +6,17 @@ Learn about logging, how to get started, and how to maximize our log collection,
 ##  🔗 Links
 **Docs / Website**: https://docs.logdna.com/docs
 
-## 🧬 Specification:
+## 🧬 Logdna Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Logdna Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Other](https://github.com/apis-list/apis-list#other)
+- [Other](https://github.com/apis-list/apis-list#other-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

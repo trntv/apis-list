@@ -8,17 +8,17 @@ Google Fit is an open ecosystem that makes it easy to store, access, and manage 
 ##  🔗 Links
 **Docs / Website**: https://developers.google.com/fit/?hl=en
 
-## 🧬 Specification:
+## 🧬 Google Fitness API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Google Fitness API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness)
+- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

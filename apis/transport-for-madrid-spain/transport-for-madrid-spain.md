@@ -6,18 +6,18 @@ Madrid BUS transport API
 ##  🔗 Links
 **Docs / Website**: http://opendata.emtmadrid.es/Servicios-web/BUS
 
-## 🧬 Specification:
+## 🧬 Transport For Madrid, Spain Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Transport For Madrid, Spain Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation)
-- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

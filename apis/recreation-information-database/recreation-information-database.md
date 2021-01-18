@@ -6,17 +6,17 @@ Recreation.gov is your source for discovering and experiencing America's federal
 ##  🔗 Links
 **Docs / Website**: https://ridb.recreation.gov/
 
-## 🧬 Specification:
+## 🧬 Recreation Information Database Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Recreation Information Database Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Other](https://github.com/apis-list/apis-list#other)
+- [Other](https://github.com/apis-list/apis-list#other-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

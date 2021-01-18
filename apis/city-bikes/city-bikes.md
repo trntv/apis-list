@@ -6,17 +6,17 @@ citybik. es/v2/networks { "networks":. CityBikes API Documentation Welcome to th
 ##  🔗 Links
 **Docs / Website**: http://api.citybik.es/v2/
 
-## 🧬 Specification:
+## 🧬 City Bikes Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 City Bikes Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness)
+- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

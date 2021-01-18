@@ -8,18 +8,18 @@ ReCAPTCHA lets you embed a CAPTCHA in your web pages in order to protect them ag
 ##  🔗 Links
 **Docs / Website**: https://developers.google.com/recaptcha/intro?hl=en
 
-## 🧬 Specification:
+## 🧬 Google reCAPTCHA Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Google reCAPTCHA Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Captcha](https://github.com/apis-list/apis-list#captcha)
-- [Security](https://github.com/apis-list/apis-list#security)
+- [Captcha](https://github.com/apis-list/apis-list#captcha-)
+- [Security](https://github.com/apis-list/apis-list#security-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

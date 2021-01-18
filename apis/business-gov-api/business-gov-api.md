@@ -6,18 +6,18 @@ Create the Uber for anything, a small business API for on-demand fulfillment.
 ##  🔗 Links
 **Docs / Website**: http://business.usa.gov/apis
 
-## 🧬 Specification:
+## 🧬 Business.Gov API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Business.Gov API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Business](https://github.com/apis-list/apis-list#business)
-- [Government](https://github.com/apis-list/apis-list#government)
+- [Business](https://github.com/apis-list/apis-list#business-)
+- [Government](https://github.com/apis-list/apis-list#government-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -6,18 +6,18 @@ Get the Make, Model, Insurer, VIN and 50 other data fields from an Australian nu
 ##  🔗 Links
 **Docs / Website**: https://www.carregistrationapi.com/
 
-## 🧬 Specification:
+## 🧬 Car Registration Api Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Car Registration Api Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation)
-- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

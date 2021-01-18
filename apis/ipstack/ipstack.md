@@ -8,20 +8,20 @@ Locate website visitors for free using ipstack - a free, real-time IP address to
 ##  🔗 Links
 **Docs / Website**: https://ipstack.com/
 
-## 🧬 Specification:
+## 🧬 ipstack Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 ipstack Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Analytics](https://github.com/apis-list/apis-list#analytics)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
-- [Security](https://github.com/apis-list/apis-list#security)
-- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
+- [Analytics](https://github.com/apis-list/apis-list#analytics-)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
+- [Security](https://github.com/apis-list/apis-list#security-)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

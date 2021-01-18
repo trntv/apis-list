@@ -8,17 +8,17 @@ Transitland is a community-edited edited open data service aggregating transit n
 ##  🔗 Links
 **Docs / Website**: https://transit.land/documentation/datastore/api-endpoints.html
 
-## 🧬 Specification:
+## 🧬 TransitLand Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 TransitLand Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,19 +8,19 @@ Sell tickets directly from your app or website. The ticketing and event manageme
 ##  🔗 Links
 **Docs / Website**: http://developer.picatic.com/?utm_medium=web&utm_source=github&utm_campaign=public-apis%20repo&utm_content=abhishekbanthia
 
-## 🧬 Specification:
+## 🧬 Picatic Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Picatic Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management)
-- [Events](https://github.com/apis-list/apis-list#events)
-- [Payments](https://github.com/apis-list/apis-list#payments)
+- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management-)
+- [Events](https://github.com/apis-list/apis-list#events-)
+- [Payments](https://github.com/apis-list/apis-list#payments-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

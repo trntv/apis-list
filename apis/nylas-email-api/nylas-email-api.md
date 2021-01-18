@@ -8,17 +8,17 @@ Email API to integrate 100% of Email Services Providers directly into your app. 
 ##  🔗 Links
 **Docs / Website**: https://www.nylas.com/sdks/
 
-## 🧬 Specification:
+## 🧬 Nylas Email Api Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Nylas Email Api Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Email & SMS](https://github.com/apis-list/apis-list#email--sms)
+- [Email & SMS](https://github.com/apis-list/apis-list#email--sms-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

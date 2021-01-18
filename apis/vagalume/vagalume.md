@@ -6,17 +6,17 @@ Vagalume » API » Documentação Documentação Conteúdo disponível na API do
 ##  🔗 Links
 **Docs / Website**: https://api.vagalume.com.br/docs/
 
-## 🧬 Specification:
+## 🧬 Vagalume Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Vagalume Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

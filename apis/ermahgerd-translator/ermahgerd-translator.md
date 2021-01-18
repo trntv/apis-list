@@ -8,19 +8,19 @@ This translates text to ERMAHGERD
 ##  🔗 Links
 **Docs / Website**: https://www.mashape.com/jmillerdesign/ermahgerd-translator
 
-## 🧬 Specification:
+## 🧬 ERMAHGERD Translator Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 ERMAHGERD Translator Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-- [Fun](https://github.com/apis-list/apis-list#fun)
-- [Translation](https://github.com/apis-list/apis-list#translation)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
+- [Fun](https://github.com/apis-list/apis-list#fun-)
+- [Translation](https://github.com/apis-list/apis-list#translation-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

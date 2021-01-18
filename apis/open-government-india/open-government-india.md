@@ -6,17 +6,17 @@ The requested URL was rejected. Please consult with your administrator. Your sup
 ##  🔗 Links
 **Docs / Website**: https://data.gov.in/
 
-## 🧬 Specification:
+## 🧬 Open Government, India Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Open Government, India Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Government](https://github.com/apis-list/apis-list#government)
+- [Government](https://github.com/apis-list/apis-list#government-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

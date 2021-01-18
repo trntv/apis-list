@@ -7,19 +7,19 @@ Convert files and content between file formats. Convert data between file format
 ##  🔗 Links
 **Docs / Website**: https://cloudmersive.com/convert-api
 
-## 🧬 Specification:
+## 🧬 Cloudmersive Document and Data Conversion Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Cloudmersive Document and Data Conversion Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
-- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity-)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

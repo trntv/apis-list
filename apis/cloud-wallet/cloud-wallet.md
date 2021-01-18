@@ -6,18 +6,18 @@ Cloud Wallet enables closed-loop payments between IoT devices and facilitates Io
 ##  🔗 Links
 **Docs / Website**: https://walletapi.cloud/index.html
 
-## 🧬 Specification:
+## 🧬 Cloud Wallet Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Cloud Wallet Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot--home-automation)
-- [Payments](https://github.com/apis-list/apis-list#payments)
+- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot--home-automation-)
+- [Payments](https://github.com/apis-list/apis-list#payments-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

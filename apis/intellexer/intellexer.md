@@ -6,22 +6,22 @@ Processing (NLP) Service including sentiment analysis, content extraction, and l
 ##  🔗 Links
 **Docs / Website**: http://esapi.intellexer.com/
 
-## 🧬 Specification:
+## 🧬 Intellexer Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Intellexer Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Development](https://github.com/apis-list/apis-list#development)
-- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
-- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
-- [Search](https://github.com/apis-list/apis-list#search)
-- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
+- [Development](https://github.com/apis-list/apis-list#development-)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity-)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining-)
+- [Search](https://github.com/apis-list/apis-list#search-)
+- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

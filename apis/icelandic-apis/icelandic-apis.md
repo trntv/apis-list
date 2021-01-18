@@ -6,17 +6,17 @@ The purpose of APIs.is is to make Iceland data readily available to anyone inter
 ##  🔗 Links
 **Docs / Website**: http://docs.apis.is/
 
-## 🧬 Specification:
+## 🧬 Icelandic APIs Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Icelandic APIs Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

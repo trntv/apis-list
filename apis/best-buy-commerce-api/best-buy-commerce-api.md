@@ -8,18 +8,18 @@ Allows companies to conduct commerce with Best Buy services within their own e-c
 ##  🔗 Links
 **Docs / Website**: https://developer.bestbuy.com
 
-## 🧬 Specification:
+## 🧬 Best Buy Commerce API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Best Buy Commerce API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management)
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
+- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management-)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

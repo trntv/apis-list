@@ -6,20 +6,20 @@ Free, legal research articles delivered instantly or automatically requested fro
 ##  🔗 Links
 **Docs / Website**: https://openaccessbutton.org/api
 
-## 🧬 Specification:
+## 🧬 Open Access Button Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Open Access Button Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
-- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
-- [Science & Math](https://github.com/apis-list/apis-list#science--math)
-- [Search](https://github.com/apis-list/apis-list#search)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries-)
+- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds-)
+- [Science & Math](https://github.com/apis-list/apis-list#science--math-)
+- [Search](https://github.com/apis-list/apis-list#search-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

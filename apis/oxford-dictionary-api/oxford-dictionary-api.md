@@ -6,17 +6,17 @@ Access to Oxford Dictionary services with several different subscription options
 ##  🔗 Links
 **Docs / Website**: https://developer.oxforddictionaries.com/
 
-## 🧬 Specification:
+## 🧬 Oxford Dictionary API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Oxford Dictionary API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

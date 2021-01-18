@@ -8,18 +8,18 @@ A simple API to request a user's real-time approval on any device or platform vi
 ##  🔗 Links
 **Docs / Website**: https://approveapi.com
 
-## 🧬 Specification:
+## 🧬 Approveapi Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Approveapi Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
-- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
+- [Development](https://github.com/apis-list/apis-list#development-)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

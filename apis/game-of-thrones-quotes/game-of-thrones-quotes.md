@@ -8,17 +8,17 @@ A free API to retrieve some quotes of Game of Thrones!
 ##  🔗 Links
 **Docs / Website**: https://gameofthronesquotes.xyz
 
-## 🧬 Specification:
+## 🧬 Game of Thrones Quotes Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Game of Thrones Quotes Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Other](https://github.com/apis-list/apis-list#other)
+- [Other](https://github.com/apis-list/apis-list#other-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

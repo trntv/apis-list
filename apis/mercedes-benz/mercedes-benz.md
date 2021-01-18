@@ -8,17 +8,17 @@ Get access to our live API products or newer initiatives in development. Easily 
 ##  🔗 Links
 **Docs / Website**: https://developer.mercedes-benz.com/apis
 
-## 🧬 Specification:
+## 🧬 Mercedes-Benz Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Mercedes-Benz Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

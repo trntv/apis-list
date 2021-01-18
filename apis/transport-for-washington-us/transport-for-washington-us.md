@@ -6,17 +6,17 @@ GTFS Changes and GTFS-RT Debut Metro has officially launched GTFS-RT! Developers
 ##  🔗 Links
 **Docs / Website**: https://developer.wmata.com/
 
-## 🧬 Specification:
+## 🧬 Transport for Washington, US Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Transport for Washington, US Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -6,17 +6,17 @@ Add intelligent search to your app, combing hundreds of billions of webpages, im
 ##  🔗 Links
 **Docs / Website**: http://datamarket.azure.com/dataset/bing/search
 
-## 🧬 Specification:
+## 🧬 Bing Search API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Bing Search API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Search](https://github.com/apis-list/apis-list#search)
+- [Search](https://github.com/apis-list/apis-list#search-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

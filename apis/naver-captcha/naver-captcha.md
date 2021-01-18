@@ -8,17 +8,17 @@ The image capturing function used by Naver Service can be used for customer serv
 ##  🔗 Links
 **Docs / Website**: https://developers.naver.com/products/captcha
 
-## 🧬 Specification:
+## 🧬 Naver Captcha Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Naver Captcha Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Captcha](https://github.com/apis-list/apis-list#captcha)
+- [Captcha](https://github.com/apis-list/apis-list#captcha-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

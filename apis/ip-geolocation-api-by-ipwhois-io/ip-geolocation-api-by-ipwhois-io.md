@@ -8,17 +8,17 @@ Filter out bot traffic, customize content based on visitor's location, display f
 ##  🔗 Links
 **Docs / Website**: https://ipwhois.io
 
-## 🧬 Specification:
+## 🧬 Ip Geolocation Api By Ipwhois.Io Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Ip Geolocation Api By Ipwhois.Io Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

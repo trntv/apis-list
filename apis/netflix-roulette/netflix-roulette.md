@@ -6,17 +6,17 @@ Wondering what to watch? Let Netflix Roulette pick a movie or TV show randomly f
 ##  🔗 Links
 **Docs / Website**: https://reelgood.com/roulette/netflix
 
-## 🧬 Specification:
+## 🧬 Netflix Roulette Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Netflix Roulette Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

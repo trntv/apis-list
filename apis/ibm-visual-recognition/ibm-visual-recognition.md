@@ -6,20 +6,20 @@ The IBM Watson Visual Recognition service uses deep learning algorithms to ident
 ##  🔗 Links
 **Docs / Website**: https://cloud.ibm.com/apidocs/visual-recognition/visual-recognition-v3
 
-## 🧬 Specification:
+## 🧬 IBM Visual Recognition Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 IBM Visual Recognition Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
-- [Recognition](https://github.com/apis-list/apis-list#recognition)
-- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Recognition](https://github.com/apis-list/apis-list#recognition-)
+- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

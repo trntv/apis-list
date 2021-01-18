@@ -8,19 +8,19 @@ Generates cool looking robot image for any text
 ##  🔗 Links
 **Docs / Website**: https://www.mashape.com/blaazetech/robohash-image-generator
 
-## 🧬 Specification:
+## 🧬 Robohash Image Generator Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Robohash Image Generator Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
-- [Random](https://github.com/apis-list/apis-list#random)
-- [Social](https://github.com/apis-list/apis-list#social)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Random](https://github.com/apis-list/apis-list#random-)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

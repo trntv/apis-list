@@ -10,16 +10,16 @@
 ##  🔗 Links
 **Docs / Website**: {{ .api.URI }}
 
-## 🧬 Specification:
+## 🧬 {{ .api.Name }} Specification:
 **Type**: {{ if  .api.SpecificationType }}{{ .api.SpecificationType }}{{ else }}N/A{{ end }}  
 **URI**: {{ if  .api.SpecificationUri }}{{ .api.SpecificationUri }}{{ else }}N/A{{ end }}
 
-## 💬 Discussion:
+## 💬 {{ .api.Name }} Discussion:
 {{ if .api.DiscussionURI -}}[Discuss {{ .api.Name }}](.api.DiscussionURI){{else}}[Create discussion](https://github.com/apis-list/apis-list/discussions/new){{ end }}
 
 ## 🗄️ Categories:
 {{ range .api.Categories | sort -}}
-- [{{ . }}](https://github.com/apis-list/apis-list#{{ . | slug }})
+- [{{ . }}](https://github.com/apis-list/apis-list#{{ . | slug }}-)
 {{ end }}
 
 {{ if .Libraries }}
@@ -32,4 +32,4 @@
 {{ end }}
 {{ end }}
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,21 +8,21 @@ Daily cat facts! 🐱
 ##  🔗 Links
 **Docs / Website**: https://alexwohlbruck.github.io/cat-facts/
 
-## 🧬 Specification:
+## 🧬 Cat Facts Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Cat Facts Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Animals](https://github.com/apis-list/apis-list#animals)
-- [Bots](https://github.com/apis-list/apis-list#bots)
-- [Education](https://github.com/apis-list/apis-list#education)
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-- [Fun](https://github.com/apis-list/apis-list#fun)
+- [Animals](https://github.com/apis-list/apis-list#animals-)
+- [Bots](https://github.com/apis-list/apis-list#bots-)
+- [Education](https://github.com/apis-list/apis-list#education-)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
+- [Fun](https://github.com/apis-list/apis-list#fun-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

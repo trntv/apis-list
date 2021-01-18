@@ -8,19 +8,19 @@ Easily integrate Okta SAML, Google OAuth, and more. Support Single Sign-On for c
 ##  🔗 Links
 **Docs / Website**: https://workos.com/docs
 
-## 🧬 Specification:
+## 🧬 WorkOS Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 WorkOS Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management)
-- [Business](https://github.com/apis-list/apis-list#business)
-- [Security](https://github.com/apis-list/apis-list#security)
+- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management-)
+- [Business](https://github.com/apis-list/apis-list#business-)
+- [Security](https://github.com/apis-list/apis-list#security-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

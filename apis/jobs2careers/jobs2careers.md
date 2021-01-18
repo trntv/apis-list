@@ -6,17 +6,17 @@
 ##  🔗 Links
 **Docs / Website**: http://api.jobs2careers.com/api/spec.pdf
 
-## 🧬 Specification:
+## 🧬 Jobs2Careers Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Jobs2Careers Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Jobs](https://github.com/apis-list/apis-list#jobs)
+- [Jobs](https://github.com/apis-list/apis-list#jobs-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

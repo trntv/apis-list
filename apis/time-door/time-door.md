@@ -8,18 +8,18 @@ A time series analysis API. Time Door is an API for statistical insights into ti
 ##  🔗 Links
 **Docs / Website**: https://timedoor.io
 
-## 🧬 Specification:
+## 🧬 Time Door Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Time Door Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Databases](https://github.com/apis-list/apis-list#databases)
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Databases](https://github.com/apis-list/apis-list#databases-)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

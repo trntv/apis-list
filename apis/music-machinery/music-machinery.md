@@ -8,17 +8,17 @@ Here’s a categorized list of all the Music APIs. Notice one that is missing or
 ##  🔗 Links
 **Docs / Website**: https://musicmachinery.com/music-apis/
 
-## 🧬 Specification:
+## 🧬 Music Machinery Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Music Machinery Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

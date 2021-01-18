@@ -6,17 +6,17 @@ trace.moe is a test-of-concept prototype search engine that helps users trace ba
 ##  🔗 Links
 **Docs / Website**: https://soruly.github.io/trace.moe/
 
-## 🧬 Specification:
+## 🧬 What Anime Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 What Anime Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Comics & Anime](https://github.com/apis-list/apis-list#comics--anime)
+- [Comics & Anime](https://github.com/apis-list/apis-list#comics--anime-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

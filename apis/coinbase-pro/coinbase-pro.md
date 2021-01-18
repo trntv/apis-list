@@ -6,17 +6,17 @@ Trading APIs require authentication and provide access to placing orders and oth
 ##  🔗 Links
 **Docs / Website**: https://docs.pro.coinbase.com/#api
 
-## 🧬 Specification:
+## 🧬 Coinbase Pro Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Coinbase Pro Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

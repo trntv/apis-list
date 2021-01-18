@@ -8,18 +8,18 @@ A randomized set of category-specific cat images.
 ##  🔗 Links
 **Docs / Website**: http://joshwcomeau.github.io/RequestKittensDocs/public/
 
-## 🧬 Specification:
+## 🧬 Request Kittens Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Request Kittens Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Animals](https://github.com/apis-list/apis-list#animals)
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
+- [Animals](https://github.com/apis-list/apis-list#animals-)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

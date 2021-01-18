@@ -6,17 +6,17 @@ Sign In Register Welcome to the Lufthansa Developer Network!. Use the data of Eu
 ##  🔗 Links
 **Docs / Website**: https://developer.lufthansa.com/
 
-## 🧬 Specification:
+## 🧬 Lufthansa Open Api Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Lufthansa Open Api Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Travel](https://github.com/apis-list/apis-list#travel)
+- [Travel](https://github.com/apis-list/apis-list#travel-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

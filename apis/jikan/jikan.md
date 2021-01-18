@@ -8,17 +8,17 @@ Jikan is an unofficial MyAnimeList REST based API. Jikan is an unofficial MyAnim
 ##  🔗 Links
 **Docs / Website**: https://jikan.moe
 
-## 🧬 Specification:
+## 🧬 Jikan Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Jikan Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

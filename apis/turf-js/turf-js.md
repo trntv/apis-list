@@ -6,17 +6,17 @@ js | Advanced geospatial analysis for browsers and Node. js. Turf
 ##  🔗 Links
 **Docs / Website**: http://turfjs.org
 
-## 🧬 Specification:
+## 🧬 Turf JS Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Turf JS Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

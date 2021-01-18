@@ -8,17 +8,17 @@ fm.  Allows anyone to build their own programs using Last. fm data, whether they
 ##  🔗 Links
 **Docs / Website**: https://www.last.fm/api
 
-## 🧬 Specification:
+## 🧬 LastFm Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 LastFm Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

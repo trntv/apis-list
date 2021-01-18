@@ -6,17 +6,17 @@ The FBI Wanted API is designed to help developers easily get information on the 
 ##  🔗 Links
 **Docs / Website**: https://www.fbi.gov/wanted/api
 
-## 🧬 Specification:
+## 🧬 FBI Wanted Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 FBI Wanted Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Government](https://github.com/apis-list/apis-list#government)
+- [Government](https://github.com/apis-list/apis-list#government-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

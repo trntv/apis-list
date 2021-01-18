@@ -8,18 +8,18 @@ Google Analytics provides APIs to collect, configure, and report on user-interac
 ##  🔗 Links
 **Docs / Website**: https://developers.google.com/analytics/?hl=en
 
-## 🧬 Specification:
+## 🧬 Google Analytics Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Google Analytics Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Analytics](https://github.com/apis-list/apis-list#analytics)
-- [Business](https://github.com/apis-list/apis-list#business)
+- [Analytics](https://github.com/apis-list/apis-list#analytics-)
+- [Business](https://github.com/apis-list/apis-list#business-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

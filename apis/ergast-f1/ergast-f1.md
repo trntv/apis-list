@@ -8,17 +8,17 @@ Please read the terms and conditions of use.  The API pro. The Ergast Developer 
 ##  🔗 Links
 **Docs / Website**: http://ergast.com/mrd/
 
-## 🧬 Specification:
+## 🧬 Ergast F1 Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Ergast F1 Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness)
+- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

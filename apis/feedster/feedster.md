@@ -8,17 +8,17 @@ Searchable and categorized collections of RSS feeds
 ##  🔗 Links
 **Docs / Website**: https://api.feedster.me/v1/docs
 
-## 🧬 Specification:
+## 🧬 Feedster Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Feedster Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
+- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

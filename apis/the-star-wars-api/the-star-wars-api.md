@@ -8,17 +8,17 @@ All the Star Wars data you've ever wanted: Planets, Spaceships, Vehicles, People
 ##  🔗 Links
 **Docs / Website**: https://swapi.co
 
-## 🧬 Specification:
+## 🧬 The Star Wars Api Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 The Star Wars Api Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

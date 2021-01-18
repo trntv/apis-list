@@ -8,17 +8,17 @@ Android vendors, don't kill my app! Contribute to urbandroid-team/dont-kill-my-a
 ##  🔗 Links
 **Docs / Website**: https://github.com/urbandroid-team/dont-kill-my-app
 
-## 🧬 Specification:
+## 🧬 Don't Kill My App Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Don't Kill My App Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Security](https://github.com/apis-list/apis-list#security)
+- [Security](https://github.com/apis-list/apis-list#security-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

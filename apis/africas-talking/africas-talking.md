@@ -6,19 +6,19 @@ A unified API platform for software developers in Africa building SMS, USSD, Voi
 ##  🔗 Links
 **Docs / Website**: https://africastalking.com/
 
-## 🧬 Specification:
+## 🧬 Africa's Talking Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Africa's Talking Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging)
-- [Email & SMS](https://github.com/apis-list/apis-list#email--sms)
-- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
+- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging-)
+- [Email & SMS](https://github.com/apis-list/apis-list#email--sms-)
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

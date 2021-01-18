@@ -8,17 +8,17 @@ Typeform's APIs allow you to create and edit Typeform surveys, and retrieve surv
 ##  🔗 Links
 **Docs / Website**: https://developer.typeform.com/
 
-## 🧬 Specification:
+## 🧬 Typeform Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Typeform Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Forms & Surveys](https://github.com/apis-list/apis-list#forms--surveys)
+- [Forms & Surveys](https://github.com/apis-list/apis-list#forms--surveys-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

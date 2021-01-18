@@ -8,17 +8,17 @@ Uses a simple HTTP endpoint.  Address Autocomplete | Use our Autocomplete API to
 ##  🔗 Links
 **Docs / Website**: https://smartystreets.com/docs/cloud/us-autocomplete-api
 
-## 🧬 Specification:
+## 🧬 US Autocomplete Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 US Autocomplete Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,20 +8,20 @@ Discover how the Uber API can easily enhance your app’s user experience and ta
 ##  🔗 Links
 **Docs / Website**: https://developer.uber.com/
 
-## 🧬 Specification:
+## 🧬 Uber Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Uber Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
-- [Travel](https://github.com/apis-list/apis-list#travel)
-- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
+- [Travel](https://github.com/apis-list/apis-list#travel-)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

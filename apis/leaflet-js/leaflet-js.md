@@ -8,17 +8,17 @@ Leaflet is a modern, lightweight open-source JavaScript library for mobile-frien
 ##  🔗 Links
 **Docs / Website**: http://leafletjs.com/
 
-## 🧬 Specification:
+## 🧬 Leaflet.js Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Leaflet.js Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

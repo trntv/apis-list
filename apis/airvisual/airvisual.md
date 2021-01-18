@@ -8,18 +8,18 @@ Enhance your projects with free trusted historical, real-time and forecast air q
 ##  🔗 Links
 **Docs / Website**: https://airvisual.com/api
 
-## 🧬 Specification:
+## 🧬 AirVisual Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 AirVisual Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Environment & Nature](https://github.com/apis-list/apis-list#environment--nature)
-- [Weather](https://github.com/apis-list/apis-list#weather)
+- [Environment & Nature](https://github.com/apis-list/apis-list#environment--nature-)
+- [Weather](https://github.com/apis-list/apis-list#weather-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

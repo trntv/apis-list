@@ -6,17 +6,17 @@ Tronald Dump Api & web archive for the dumbest things Donald Trump has ever said
 ##  🔗 Links
 **Docs / Website**: https://www.tronalddump.io/
 
-## 🧬 Specification:
+## 🧬 Tronald Dump Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Tronald Dump Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Fun](https://github.com/apis-list/apis-list#fun)
+- [Fun](https://github.com/apis-list/apis-list#fun-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

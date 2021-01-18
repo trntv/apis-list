@@ -6,17 +6,17 @@ The Developer Central API Service converts a data-set in the form of a csv file 
 ##  🔗 Links
 **Docs / Website**: https://developer.epa.gov/category/apis/
 
-## 🧬 Specification:
+## 🧬 EPA Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 EPA Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Government](https://github.com/apis-list/apis-list#government)
+- [Government](https://github.com/apis-list/apis-list#government-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

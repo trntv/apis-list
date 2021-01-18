@@ -8,17 +8,17 @@ A social networking website offering an interactive, user-submitted network of f
 ##  🔗 Links
 **Docs / Website**: http://developer.myspace.com/
 
-## 🧬 Specification:
+## 🧬 MySpace API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 MySpace API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Social](https://github.com/apis-list/apis-list#social)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

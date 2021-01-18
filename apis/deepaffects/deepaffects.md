@@ -6,20 +6,20 @@ DeepAffects enables developers to analyze conversational audio by applying power
 ##  🔗 Links
 **Docs / Website**: https://www.deepaffects.com
 
-## 🧬 Specification:
+## 🧬 Deepaffects Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Deepaffects Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
-- [Recognition](https://github.com/apis-list/apis-list#recognition)
-- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)
+- [Recognition](https://github.com/apis-list/apis-list#recognition-)
+- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -6,17 +6,17 @@ Yahoo’s Flurry provides you with a number of APIs enabling you to export your 
 ##  🔗 Links
 **Docs / Website**: https://developer.yahoo.com/flurry/docs/api/
 
-## 🧬 Specification:
+## 🧬 Flurry Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Flurry Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Analytics](https://github.com/apis-list/apis-list#analytics)
+- [Analytics](https://github.com/apis-list/apis-list#analytics-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,17 +8,17 @@ Developer tools and the support you need to leverage Verizon Media's powerful da
 ##  🔗 Links
 **Docs / Website**: https://developer.yahoo.com/gemini/
 
-## 🧬 Specification:
+## 🧬 Yahoo Gemini API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Yahoo Gemini API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo)
+- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

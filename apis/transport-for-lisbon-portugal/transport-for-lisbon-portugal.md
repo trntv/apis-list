@@ -6,17 +6,17 @@ Data access is free upon registration, in order to enhanc. Welcome to EMEL’s o
 ##  🔗 Links
 **Docs / Website**: https://emel.city-platform.com/opendata/
 
-## 🧬 Specification:
+## 🧬 Transport for Lisbon, Portugal Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Transport for Lisbon, Portugal Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

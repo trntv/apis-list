@@ -6,17 +6,17 @@ The resource you are looking for has been removed, had its name changed, or is t
 ##  🔗 Links
 **Docs / Website**: http://www.data.parliament.uk/developers/
 
-## 🧬 Specification:
+## 🧬 Data.parliament.uk Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Data.parliament.uk Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Government](https://github.com/apis-list/apis-list#government)
+- [Government](https://github.com/apis-list/apis-list#government-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

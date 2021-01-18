@@ -8,17 +8,17 @@ The most popular place to securely buy, store, and trade Bitcoin, Ethereum, and 
 ##  🔗 Links
 **Docs / Website**: https://blockchain.info/api/exchange_rates_api
 
-## 🧬 Specification:
+## 🧬 Exchange Rates API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Exchange Rates API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

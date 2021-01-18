@@ -8,17 +8,17 @@ Google’s product is quite similar to Amazon’s but it’s actually. Amazon Ma
 ##  🔗 Links
 **Docs / Website**: http://www.louisdorard.com/blog/machine-learning-apis-comparison
 
-## 🧬 Specification:
+## 🧬 Louis Dorrad Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Louis Dorrad Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

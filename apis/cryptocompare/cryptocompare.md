@@ -8,17 +8,17 @@ Cryptocurrencies Comparison. Free cryptocurrency data APIs. Get high-quality his
 ##  🔗 Links
 **Docs / Website**: https://www.cryptocompare.com/api
 
-## 🧬 Specification:
+## 🧬 CryptoCompare Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 CryptoCompare Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

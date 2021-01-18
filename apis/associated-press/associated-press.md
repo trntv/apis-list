@@ -6,18 +6,18 @@ AP Media API Get all your AP multimedia content in one place Access the content 
 ##  🔗 Links
 **Docs / Website**: https://developer.ap.org/
 
-## 🧬 Specification:
+## 🧬 Associated Press Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Associated Press Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
-- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

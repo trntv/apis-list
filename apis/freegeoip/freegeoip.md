@@ -6,17 +6,17 @@ Free IP Geolocation API with no registration required.  15000 requests per hour 
 ##  🔗 Links
 **Docs / Website**: https://freegeoip.app/
 
-## 🧬 Specification:
+## 🧬 FreeGeoIP Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 FreeGeoIP Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

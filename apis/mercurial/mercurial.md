@@ -8,17 +8,17 @@ Access to Mercurial’s API.  Note: This page is primarily intended for develope
 ##  🔗 Links
 **Docs / Website**: https://www.mercurial-scm.org/wiki/MercurialApi
 
-## 🧬 Specification:
+## 🧬 Mercurial Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Mercurial Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

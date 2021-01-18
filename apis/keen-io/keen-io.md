@@ -6,18 +6,18 @@ Keen IO is a powerful, flexible, and scalable solution that’s literally Big Da
 ##  🔗 Links
 **Docs / Website**: https://keen.io/docs/api/
 
-## 🧬 Specification:
+## 🧬 Keen IO Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Keen IO Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Analytics](https://github.com/apis-list/apis-list#analytics)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
+- [Analytics](https://github.com/apis-list/apis-list#analytics-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

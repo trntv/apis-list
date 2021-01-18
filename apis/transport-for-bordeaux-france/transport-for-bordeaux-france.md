@@ -6,17 +6,17 @@ Dialoguez L'Atelier Open Data est un espace d'échanges autour des questions, de
 ##  🔗 Links
 **Docs / Website**: https://opendata.bordeaux-metropole.fr/explore/
 
-## 🧬 Specification:
+## 🧬 Transport for Bordeaux, France Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Transport for Bordeaux, France Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

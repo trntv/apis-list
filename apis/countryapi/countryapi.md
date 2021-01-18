@@ -8,18 +8,18 @@ A Rest Api of simple country information that you need. Gets all the countries, 
 ##  🔗 Links
 **Docs / Website**: https://fabian7593.github.io/CountryAPI/
 
-## 🧬 Specification:
+## 🧬 CountryAPI Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 CountryAPI Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
-- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

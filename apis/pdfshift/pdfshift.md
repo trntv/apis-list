@@ -9,18 +9,18 @@ The service is focused to help developers set up the conversion quickly and focu
 ##  🔗 Links
 **Docs / Website**: https://pdfshift.io/
 
-## 🧬 Specification:
+## 🧬 Pdfshift  Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Pdfshift  Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
-- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity-)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

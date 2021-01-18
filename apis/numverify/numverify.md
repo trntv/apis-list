@@ -8,18 +8,18 @@ Free, powerful JSON API offering international and national phone number validat
 ##  🔗 Links
 **Docs / Website**: https://numverify.com
 
-## 🧬 Specification:
+## 🧬 numverify Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 numverify Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
-- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification-)
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

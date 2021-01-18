@@ -8,20 +8,20 @@ Banking API that allows you to extract financial data such as transaction histor
 ##  🔗 Links
 **Docs / Website**: 
 
-## 🧬 Specification:
+## 🧬 Figo Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Figo Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
-- [Payments](https://github.com/apis-list/apis-list#payments)
-- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
+- [Development](https://github.com/apis-list/apis-list#development-)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics-)
+- [Payments](https://github.com/apis-list/apis-list#payments-)
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

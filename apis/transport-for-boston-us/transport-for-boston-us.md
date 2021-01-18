@@ -8,17 +8,17 @@ Official website of the MBTA -- schedules, maps, and fare information for Greate
 ##  🔗 Links
 **Docs / Website**: https://mbta.com/developers/v3-api
 
-## 🧬 Specification:
+## 🧬 Transport for Boston, US Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Transport for Boston, US Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

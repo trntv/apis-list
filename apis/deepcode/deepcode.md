@@ -9,17 +9,17 @@ DeepCode understands the intent and semantic function of software code by transf
 ##  🔗 Links
 **Docs / Website**: https://www.deepcode.ai/docs/Overview%252FOverview
 
-## 🧬 Specification:
+## 🧬 Deepcode Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Deepcode Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

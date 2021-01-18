@@ -6,17 +6,17 @@ The following parameters are optional lang - The language of the insult you want
 ##  🔗 Links
 **Docs / Website**: https://evilinsult.com/api/
 
-## 🧬 Specification:
+## 🧬 Evil Insult Generator Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Evil Insult Generator Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Other](https://github.com/apis-list/apis-list#other)
+- [Other](https://github.com/apis-list/apis-list#other-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

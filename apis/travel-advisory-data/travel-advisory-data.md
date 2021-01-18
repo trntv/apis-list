@@ -6,17 +6,17 @@ This is a simple REST API that replies with an UTF8 encoded JSON Object. This AP
 ##  🔗 Links
 **Docs / Website**: https://www.travel-advisory.info/data-api
 
-## 🧬 Specification:
+## 🧬 Travel Advisory Data Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Travel Advisory Data Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Travel](https://github.com/apis-list/apis-list#travel)
+- [Travel](https://github.com/apis-list/apis-list#travel-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

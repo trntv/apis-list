@@ -8,19 +8,19 @@ Channel Messaging API lets your build real-time application
 ##  🔗 Links
 **Docs / Website**: https://www.getchannel.co
 
-## 🧬 Specification:
+## 🧬 Channel Messaing API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Channel Messaing API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Bots](https://github.com/apis-list/apis-list#bots)
-- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging)
-- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
+- [Bots](https://github.com/apis-list/apis-list#bots-)
+- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging-)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

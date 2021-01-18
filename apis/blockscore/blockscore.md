@@ -6,21 +6,21 @@ A real-time API for verifying an identity by name, address, date of birth, and s
 ##  🔗 Links
 **Docs / Website**: https://docs.blockscore.com/
 
-## 🧬 Specification:
+## 🧬 BlockScore Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 BlockScore Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management)
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Payments](https://github.com/apis-list/apis-list#payments)
-- [Security](https://github.com/apis-list/apis-list#security)
-- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
+- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management-)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
+- [Payments](https://github.com/apis-list/apis-list#payments-)
+- [Security](https://github.com/apis-list/apis-list#security-)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

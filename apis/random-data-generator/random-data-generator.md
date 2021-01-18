@@ -8,19 +8,19 @@ You have 1000 daily quota calls for your project. API Generator for telephones, 
 ##  🔗 Links
 **Docs / Website**: https://randommer.io/randommer-api
 
-## 🧬 Specification:
+## 🧬 Random Data Generator Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Random Data Generator Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
-- [Development](https://github.com/apis-list/apis-list#development)
-- [Random](https://github.com/apis-list/apis-list#random)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries-)
+- [Development](https://github.com/apis-list/apis-list#development-)
+- [Random](https://github.com/apis-list/apis-list#random-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

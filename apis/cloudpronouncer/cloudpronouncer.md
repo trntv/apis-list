@@ -6,19 +6,19 @@ Text To Speech API - CloudPronouncer (tts online or tts reader) is a cross brows
 ##  🔗 Links
 **Docs / Website**: https://www.de-vis-software.ro/text-to-speech-api.aspx
 
-## 🧬 Specification:
+## 🧬 Cloudpronouncer Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Cloudpronouncer Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot--home-automation)
-- [Voice](https://github.com/apis-list/apis-list#voice)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
+- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot--home-automation-)
+- [Voice](https://github.com/apis-list/apis-list#voice-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

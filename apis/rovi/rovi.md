@@ -6,17 +6,17 @@ Access to Metadata, search capabilities and recommendations.  Digital First Digi
 ##  🔗 Links
 **Docs / Website**: https://developers.rovicorp.com/
 
-## 🧬 Specification:
+## 🧬 Rovi Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Rovi Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

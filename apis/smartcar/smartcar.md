@@ -8,19 +8,19 @@ Build web and mobile apps that communicate with vehicles
 ##  🔗 Links
 **Docs / Website**: https://smartcar.com/docs/
 
-## 🧬 Specification:
+## 🧬 Smartcar Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Smartcar Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
-- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation)
+- [Development](https://github.com/apis-list/apis-list#development-)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

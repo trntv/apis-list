@@ -6,18 +6,18 @@ uebermaps are interactive maps that enable people to. Hello developer.  This is 
 ##  🔗 Links
 **Docs / Website**: https://uebermaps.com/api/v2
 
-## 🧬 Specification:
+## 🧬 Uebermaps Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Uebermaps Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
-- [Social](https://github.com/apis-list/apis-list#social)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

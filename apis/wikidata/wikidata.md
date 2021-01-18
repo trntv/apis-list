@@ -8,17 +8,17 @@ This is an auto-generated MediaWiki API documentation page. Documentation and ex
 ##  🔗 Links
 **Docs / Website**: https://www.wikidata.org/w/api.php?action=help
 
-## 🧬 Specification:
+## 🧬 Wikidata Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Wikidata Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Wiki](https://github.com/apis-list/apis-list#wiki)
+- [Wiki](https://github.com/apis-list/apis-list#wiki-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

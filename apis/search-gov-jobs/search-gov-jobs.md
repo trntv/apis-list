@@ -6,17 +6,17 @@ gov • Terms of Service • Site Policies • D. Tap into a list of current job
 ##  🔗 Links
 **Docs / Website**: https://search.gov/developer/jobs.html
 
-## 🧬 Specification:
+## 🧬 Search.Gov Jobs Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Search.Gov Jobs Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Jobs](https://github.com/apis-list/apis-list#jobs)
+- [Jobs](https://github.com/apis-list/apis-list#jobs-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

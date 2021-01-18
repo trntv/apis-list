@@ -8,18 +8,18 @@ The goal of Open Brewery DB is to maintain an open-source, community-driven data
 ##  🔗 Links
 **Docs / Website**: https://www.openbrewerydb.org
 
-## 🧬 Specification:
+## 🧬 Open Brewery DB Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Open Brewery DB Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks)
-- [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest)
+- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks-)
+- [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

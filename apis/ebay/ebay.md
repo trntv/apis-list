@@ -6,17 +6,17 @@ eBay Developers Program Celebrates 20 Years This year we’re celebrating 25 yea
 ##  🔗 Links
 **Docs / Website**: https://go.developer.ebay.com/
 
-## 🧬 Specification:
+## 🧬 eBay Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 eBay Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

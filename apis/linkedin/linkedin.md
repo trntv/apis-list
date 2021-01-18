@@ -8,19 +8,19 @@ Make it convenient for your users to sign in with their professional identity.  
 ##  🔗 Links
 **Docs / Website**: https://developer.linkedin.com/docs/signin-with-linkedin
 
-## 🧬 Specification:
+## 🧬 LinkedIn Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 LinkedIn Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management)
-- [Business](https://github.com/apis-list/apis-list#business)
-- [Social](https://github.com/apis-list/apis-list#social)
+- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management-)
+- [Business](https://github.com/apis-list/apis-list#business-)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

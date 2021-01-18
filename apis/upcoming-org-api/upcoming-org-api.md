@@ -8,18 +8,18 @@ A simple way to share and discover interesting events from your friends, followe
 ##  🔗 Links
 **Docs / Website**: 
 
-## 🧬 Specification:
+## 🧬 Upcoming.Org API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Upcoming.Org API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time)
-- [Events](https://github.com/apis-list/apis-list#events)
+- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time-)
+- [Events](https://github.com/apis-list/apis-list#events-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

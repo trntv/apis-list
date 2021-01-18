@@ -8,17 +8,17 @@ Yahoo Maps lets you easily embed rich and interactive maps using your choice of 
 ##  🔗 Links
 **Docs / Website**: https://developer.yahoo.com/maps/
 
-## 🧬 Specification:
+## 🧬 Yahoo Maps Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Yahoo Maps Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

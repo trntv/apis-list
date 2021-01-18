@@ -6,19 +6,19 @@ Flexible natural language processing APIs and complete text analytics platform s
 ##  🔗 Links
 **Docs / Website**: https://www.lexalytics.com/
 
-## 🧬 Specification:
+## 🧬 Lexalytics Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Lexalytics Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Analytics](https://github.com/apis-list/apis-list#analytics)
-- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
+- [Analytics](https://github.com/apis-list/apis-list#analytics-)
+- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

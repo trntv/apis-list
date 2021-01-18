@@ -6,17 +6,17 @@ The Creative Commons Catalog API ('cccatalog-api') is a system that allows progr
 ##  🔗 Links
 **Docs / Website**: https://api.creativecommons.engineering/
 
-## 🧬 Specification:
+## 🧬 Creative Commons Catalog Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Creative Commons Catalog Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

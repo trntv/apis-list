@@ -8,17 +8,17 @@ IO ♛ Keep all games in one profile ✔ See what friends are playing, and find 
 ##  🔗 Links
 **Docs / Website**: https://rawg.io/apidocs
 
-## 🧬 Specification:
+## 🧬 RAWG Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 RAWG Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

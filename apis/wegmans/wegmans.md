@@ -8,18 +8,18 @@ APIs for products and store information
 ##  🔗 Links
 **Docs / Website**: https://dev.wegmans.io
 
-## 🧬 Specification:
+## 🧬 Wegmans Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Wegmans Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
+- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

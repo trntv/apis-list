@@ -8,17 +8,17 @@ Bhagwat Geeta in Hindi and English. Read Bhagavad Gita online in a simple, beaut
 ##  🔗 Links
 **Docs / Website**: https://bhagavadgita.io/
 
-## 🧬 Specification:
+## 🧬 Bhagavad Gita Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Bhagavad Gita Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Books](https://github.com/apis-list/apis-list#books)
+- [Books](https://github.com/apis-list/apis-list#books-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

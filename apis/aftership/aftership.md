@@ -8,18 +8,18 @@ Provides multi-carrier shipment tracking APIs.
 ##  🔗 Links
 **Docs / Website**: https://www.aftership.com/docs/api/4/overview
 
-## 🧬 Specification:
+## 🧬 AfterShip Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 AfterShip Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
+- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

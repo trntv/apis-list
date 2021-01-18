@@ -8,18 +8,18 @@
 ##  🔗 Links
 **Docs / Website**: https://www.pubnub.com/docs
 
-## 🧬 Specification:
+## 🧬 PubNub Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 PubNub Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging)
-- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot--home-automation)
+- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging-)
+- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot--home-automation-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

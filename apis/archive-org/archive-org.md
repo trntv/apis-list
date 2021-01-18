@@ -8,17 +8,17 @@ The Internet Archive (the “Archive”) is a 501(c)(3) nonprofit organization c
 ##  🔗 Links
 **Docs / Website**: https://archive.readme.io/docs
 
-## 🧬 Specification:
+## 🧬 Archive.org Specification:
 **Type**: swagger  
 **URI**: https://raw.githubusercontent.com/NYTimes/public_api_specs/master/archive_api/archive_api.json
 
-## 💬 Discussion:
+## 💬 Archive.org Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data)
+- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

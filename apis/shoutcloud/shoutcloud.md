@@ -6,17 +6,17 @@ ALL CAPS AS A SERVICE curl -X POST \ -d '{"INPUT": "hello world"}' \ -H 'Content
 ##  🔗 Links
 **Docs / Website**: http://shoutcloud.io/
 
-## 🧬 Specification:
+## 🧬 SHOUTCLOUD Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 SHOUTCLOUD Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

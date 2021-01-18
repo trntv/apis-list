@@ -6,17 +6,17 @@ Prices are updated every 30 seconds, covering 300+ cryptocurrencies across 42 ex
 ##  🔗 Links
 **Docs / Website**: https://www.cryptonator.com/api/
 
-## 🧬 Specification:
+## 🧬 Cryptonator Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Cryptonator Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

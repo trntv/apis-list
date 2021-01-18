@@ -8,21 +8,21 @@ Generate PDF from any website. Automate web performance. Turns any link into inf
 ##  🔗 Links
 **Docs / Website**: https://microlink.io
 
-## 🧬 Specification:
+## 🧬 Microlink Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Microlink Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Art & Design](https://github.com/apis-list/apis-list#art--design)
-- [Collaboration](https://github.com/apis-list/apis-list#collaboration)
-- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
-- [Social](https://github.com/apis-list/apis-list#social)
-- [URLs](https://github.com/apis-list/apis-list#urls)
+- [Art & Design](https://github.com/apis-list/apis-list#art--design-)
+- [Collaboration](https://github.com/apis-list/apis-list#collaboration-)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining-)
+- [Social](https://github.com/apis-list/apis-list#social-)
+- [URLs](https://github.com/apis-list/apis-list#urls-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

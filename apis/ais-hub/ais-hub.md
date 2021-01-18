@@ -6,17 +6,17 @@ AISHub members have access to AISHub aggregated AIS data via our API and receive
 ##  🔗 Links
 **Docs / Website**: http://www.aishub.net/api
 
-## 🧬 Specification:
+## 🧬 AIS Hub Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 AIS Hub Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

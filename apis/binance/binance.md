@@ -8,17 +8,17 @@ Official Documentation for the Binance Spot APIs and Streams - binance/binance-s
 ##  🔗 Links
 **Docs / Website**: https://github.com/binance/binance-spot-api-docs
 
-## 🧬 Specification:
+## 🧬 Binance Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Binance Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,18 +8,18 @@ Generates Hipster Ipsum text
 ##  🔗 Links
 **Docs / Website**: http://hipsterjesus.com
 
-## 🧬 Specification:
+## 🧬 Hipster Ipsum Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Hipster Ipsum Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Random](https://github.com/apis-list/apis-list#random)
-- [Testing](https://github.com/apis-list/apis-list#testing)
+- [Random](https://github.com/apis-list/apis-list#random-)
+- [Testing](https://github.com/apis-list/apis-list#testing-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

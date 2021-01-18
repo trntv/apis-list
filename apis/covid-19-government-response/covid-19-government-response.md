@@ -6,18 +6,18 @@ Oxford COVID-19 Government Response Tracker. Governments are taking a wide range
 ##  🔗 Links
 **Docs / Website**: https://covidtracker.bsg.ox.ac.uk
 
-## 🧬 Specification:
+## 🧬 Covid-19 Government Response Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Covid-19 Government Response Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Government](https://github.com/apis-list/apis-list#government)
-- [Health](https://github.com/apis-list/apis-list#health)
+- [Government](https://github.com/apis-list/apis-list#government-)
+- [Health](https://github.com/apis-list/apis-list#health-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -9,17 +9,17 @@ Take your ML projects to production, quickly and cost-effectively.
 ##  🔗 Links
 **Docs / Website**: https://cloud.google.com/ml-engine/docs/
 
-## 🧬 Specification:
+## 🧬 Cloud Machine Learning Engine Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Cloud Machine Learning Engine Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

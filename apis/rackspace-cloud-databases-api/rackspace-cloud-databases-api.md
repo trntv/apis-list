@@ -6,17 +6,17 @@ Can be created, updated, and deleted using the OS::Trove::Instance resource. Clo
 ##  🔗 Links
 **Docs / Website**: https://docs.rackspace.com/cdb/api/v1.0/cdb-devguide/content/overview.html
 
-## 🧬 Specification:
+## 🧬 Rackspace Cloud Databases API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Rackspace Cloud Databases API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Databases](https://github.com/apis-list/apis-list#databases)
+- [Databases](https://github.com/apis-list/apis-list#databases-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

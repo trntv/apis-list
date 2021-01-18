@@ -6,18 +6,18 @@ Using the SoundCloud API, you can build applications that take sound on the web 
 ##  🔗 Links
 **Docs / Website**: https://developers.soundcloud.com
 
-## 🧬 Specification:
+## 🧬 SoundCloud Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 SoundCloud Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
-- [Social](https://github.com/apis-list/apis-list#social)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

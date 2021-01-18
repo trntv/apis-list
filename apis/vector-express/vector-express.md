@@ -6,17 +6,17 @@ We also offer a free API!.  Convert your AI, CDR, DWG, DXF, EPS, HPGL, PDF, PLT,
 ##  🔗 Links
 **Docs / Website**: http://vector.express
 
-## 🧬 Specification:
+## 🧬 Vector Express Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Vector Express Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -6,19 +6,19 @@ Shodan API, the easiest way to access the Shodan search engine on your own terms
 ##  🔗 Links
 **Docs / Website**: https://developer.shodan.io/
 
-## 🧬 Specification:
+## 🧬 Shodan Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Shodan Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot--home-automation)
-- [Search](https://github.com/apis-list/apis-list#search)
-- [Security](https://github.com/apis-list/apis-list#security)
+- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot--home-automation-)
+- [Search](https://github.com/apis-list/apis-list#search-)
+- [Security](https://github.com/apis-list/apis-list#security-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

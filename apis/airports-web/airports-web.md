@@ -6,17 +6,17 @@ Covered Airports mostly Germany. Request Airport name and website URL for airpor
 ##  🔗 Links
 **Docs / Website**: https://airport-web.appspot.com/api/docs/
 
-## 🧬 Specification:
+## 🧬 Airports Web Specification:
 **Type**: swagger  
 **URI**: https://airport-web.appspot.com/api/docs/swagger.json
 
-## 💬 Discussion:
+## 💬 Airports Web Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Other](https://github.com/apis-list/apis-list#other)
+- [Other](https://github.com/apis-list/apis-list#other-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

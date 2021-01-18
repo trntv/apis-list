@@ -6,17 +6,17 @@ Newspaper Directory to find information about American newspapers published betw
 ##  🔗 Links
 **Docs / Website**: http://chroniclingamerica.loc.gov/about/api/
 
-## 🧬 Specification:
+## 🧬 Chronicling America Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Chronicling America Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
+- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

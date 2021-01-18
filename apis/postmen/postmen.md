@@ -8,17 +8,17 @@ Download Postmen's JSON schema. Learn how to generate Postmen API key and make r
 ##  🔗 Links
 **Docs / Website**: https://docs.postmen.com/
 
-## 🧬 Specification:
+## 🧬 Postmen Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Postmen Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

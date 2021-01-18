@@ -6,17 +6,17 @@
 ##  🔗 Links
 **Docs / Website**: http://www.pm25.in/api_doc
 
-## 🧬 Specification:
+## 🧬 PM25.in Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 PM25.in Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Environment & Nature](https://github.com/apis-list/apis-list#environment--nature)
+- [Environment & Nature](https://github.com/apis-list/apis-list#environment--nature-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

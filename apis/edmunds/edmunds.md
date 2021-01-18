@@ -6,17 +6,17 @@ A dataset containing all the car makes. Edmunds has detailed specs, customer rat
 ##  🔗 Links
 **Docs / Website**: http://developer.edmunds.com/
 
-## 🧬 Specification:
+## 🧬 Edmunds Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Edmunds Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

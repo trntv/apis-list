@@ -8,18 +8,18 @@ The SMS Service,allows you to send and receive text messages, of up to 160 chara
 ##  🔗 Links
 **Docs / Website**: https://developer.orange.com/apis/sms-ml
 
-## 🧬 Specification:
+## 🧬 Orange SMS API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Orange SMS API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging)
-- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
+- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging-)
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -6,17 +6,17 @@ Gives you access to 1000s of Trivia questions. Your browser will redirect to you
 ##  🔗 Links
 **Docs / Website**: https://www.newseum.org/newsmania/
 
-## 🧬 Specification:
+## 🧬 Newseum NewsMania Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Newseum NewsMania Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Games](https://github.com/apis-list/apis-list#games)
+- [Games](https://github.com/apis-list/apis-list#games-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

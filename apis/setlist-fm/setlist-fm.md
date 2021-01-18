@@ -6,17 +6,17 @@ Home You may also enjoy the interactive interface provided for this API by Swagg
 ##  🔗 Links
 **Docs / Website**: https://api.setlist.fm/docs/1.0/index.html
 
-## 🧬 Specification:
+## 🧬 Setlist.fm Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Setlist.fm Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

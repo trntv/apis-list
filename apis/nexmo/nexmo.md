@@ -8,20 +8,20 @@ Make and receive phone calls, send and receive SMS worldwide.  Libraries in Node
 ##  🔗 Links
 **Docs / Website**: https://developer.nexmo.com
 
-## 🧬 Specification:
+## 🧬 Nexmo Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Nexmo Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging)
-- [Email & SMS](https://github.com/apis-list/apis-list#email--sms)
-- [Voice](https://github.com/apis-list/apis-list#voice)
-- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
+- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging-)
+- [Email & SMS](https://github.com/apis-list/apis-list#email--sms-)
+- [Voice](https://github.com/apis-list/apis-list#voice-)
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

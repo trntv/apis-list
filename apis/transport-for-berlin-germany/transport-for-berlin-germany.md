@@ -8,17 +8,17 @@
 ##  🔗 Links
 **Docs / Website**: https://github.com/derhuerst/vbb-rest/blob/3/docs/index.md
 
-## 🧬 Specification:
+## 🧬 Transport for Berlin, Germany Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Transport for Berlin, Germany Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

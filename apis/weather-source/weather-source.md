@@ -8,18 +8,18 @@ Powerful Weather API built for systems that demand speed, reliability and heavy 
 ##  🔗 Links
 **Docs / Website**: http://weathersource.com/weather-api
 
-## 🧬 Specification:
+## 🧬 Weather Source Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Weather Source Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Space](https://github.com/apis-list/apis-list#space)
-- [Weather](https://github.com/apis-list/apis-list#weather)
+- [Space](https://github.com/apis-list/apis-list#space-)
+- [Weather](https://github.com/apis-list/apis-list#weather-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

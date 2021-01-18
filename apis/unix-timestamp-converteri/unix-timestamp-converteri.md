@@ -6,17 +6,17 @@ Unix Timestamp Converter API Unix Timestamp converter REST API Convert Unix Time
 ##  🔗 Links
 **Docs / Website**: http://unixtime.co.za
 
-## 🧬 Specification:
+## 🧬 Unix Timestamp Converteri Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Unix Timestamp Converteri Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time)
+- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

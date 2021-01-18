@@ -20,18 +20,18 @@ With this psychology-backed data in hand, the possibilities are endless - any wa
 ##  🔗 Links
 **Docs / Website**: https://app.traitify.com/developer
 
-## 🧬 Specification:
+## 🧬 Traitify Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Traitify Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Jobs](https://github.com/apis-list/apis-list#jobs)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
+- [Jobs](https://github.com/apis-list/apis-list#jobs-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

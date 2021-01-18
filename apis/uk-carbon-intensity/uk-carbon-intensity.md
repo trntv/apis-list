@@ -6,17 +6,17 @@ Carbon Intensity API Great Britain Scroll down for code samples and responses. C
 ##  🔗 Links
 **Docs / Website**: https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0
 
-## 🧬 Specification:
+## 🧬 UK Carbon Intensity Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 UK Carbon Intensity Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Environment & Nature](https://github.com/apis-list/apis-list#environment--nature)
+- [Environment & Nature](https://github.com/apis-list/apis-list#environment--nature-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

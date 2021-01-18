@@ -8,17 +8,17 @@ Provision and manage your Classroom courses
 ##  🔗 Links
 **Docs / Website**: https://developers.google.com/classroom/?hl=en
 
-## 🧬 Specification:
+## 🧬 Google Classroom API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Google Classroom API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Education](https://github.com/apis-list/apis-list#education)
+- [Education](https://github.com/apis-list/apis-list#education-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

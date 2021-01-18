@@ -8,20 +8,20 @@ Get events and detailed match data in real time from major league tournaments, o
 ##  🔗 Links
 **Docs / Website**: https://pandascore.co
 
-## 🧬 Specification:
+## 🧬 PandaScore Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 PandaScore Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-- [Games](https://github.com/apis-list/apis-list#games)
-- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness)
-- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
+- [Games](https://github.com/apis-list/apis-list#games-)
+- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness-)
+- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

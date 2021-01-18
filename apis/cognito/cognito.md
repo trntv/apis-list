@@ -8,17 +8,17 @@ Can take a customer's cellphone number and return name, address history, full SS
 ##  🔗 Links
 **Docs / Website**: https://cognitohq.com/docs
 
-## 🧬 Specification:
+## 🧬 Cognito Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Cognito Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

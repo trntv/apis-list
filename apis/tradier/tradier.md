@@ -6,17 +6,17 @@ Tradier's technology platform - an innovative set of fully hosted APIs, modules 
 ##  🔗 Links
 **Docs / Website**: https://developer.tradier.com
 
-## 🧬 Specification:
+## 🧬 Tradier Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Tradier Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

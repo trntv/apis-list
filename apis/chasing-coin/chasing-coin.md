@@ -8,17 +8,17 @@ Cryptocurrency, coin and token resource on the web. Full and free cryptocurrency
 ##  🔗 Links
 **Docs / Website**: https://chasing-coins.com/api
 
-## 🧬 Specification:
+## 🧬 Chasing Coin Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Chasing Coin Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

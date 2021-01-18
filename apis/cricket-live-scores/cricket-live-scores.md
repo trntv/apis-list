@@ -8,17 +8,17 @@ Live cricket scores
 ##  🔗 Links
 **Docs / Website**: https://market.mashape.com/dev132/cricket-live-scores
 
-## 🧬 Specification:
+## 🧬 Cricket Live Scores Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Cricket Live Scores Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness)
+- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -6,17 +6,17 @@ By Collin M. Barrett. FilterLists is the independent, comprehensive directory of
 ##  🔗 Links
 **Docs / Website**: https://filterlists.com
 
-## 🧬 Specification:
+## 🧬 FilterLists Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 FilterLists Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Security](https://github.com/apis-list/apis-list#security)
+- [Security](https://github.com/apis-list/apis-list#security-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

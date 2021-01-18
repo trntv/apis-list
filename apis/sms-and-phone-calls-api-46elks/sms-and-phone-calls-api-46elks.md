@@ -8,19 +8,19 @@ Integrate SMS, MMS and Phone calls into your applications with just a few lines 
 ##  🔗 Links
 **Docs / Website**: https://46elks.com
 
-## 🧬 Specification:
+## 🧬 Sms And Phone Calls Api - 46elks Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Sms And Phone Calls Api - 46elks Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging)
-- [Email & SMS](https://github.com/apis-list/apis-list#email--sms)
-- [Voice](https://github.com/apis-list/apis-list#voice)
+- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging-)
+- [Email & SMS](https://github.com/apis-list/apis-list#email--sms-)
+- [Voice](https://github.com/apis-list/apis-list#voice-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

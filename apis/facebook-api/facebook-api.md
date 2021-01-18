@@ -6,18 +6,18 @@ Helps developers build, grow and monetize their business. Code to connect people
 ##  🔗 Links
 **Docs / Website**: https://developers.facebook.com/
 
-## 🧬 Specification:
+## 🧬 Facebook API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Facebook API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Social](https://github.com/apis-list/apis-list#social)
-- [Virtual & Augmented Reality](https://github.com/apis-list/apis-list#virtual--augmented-reality)
+- [Social](https://github.com/apis-list/apis-list#social-)
+- [Virtual & Augmented Reality](https://github.com/apis-list/apis-list#virtual--augmented-reality-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

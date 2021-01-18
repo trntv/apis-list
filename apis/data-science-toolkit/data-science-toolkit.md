@@ -8,17 +8,17 @@ A collection of the best open data sets and open-source tools for data science.
 ##  🔗 Links
 **Docs / Website**: https://github.com/petewarden/dstk
 
-## 🧬 Specification:
+## 🧬 Data Science Toolkit Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Data Science Toolkit Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data)
+- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

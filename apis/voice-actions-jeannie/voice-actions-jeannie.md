@@ -8,18 +8,18 @@ Jeannie (Voice Actions) is a virtual assistant with over two Million downloads, 
 ##  🔗 Links
 **Docs / Website**: https://pannous-jeannie.p.mashape.com/
 
-## 🧬 Specification:
+## 🧬 Voice Actions Jeannie Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Voice Actions Jeannie Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Voice](https://github.com/apis-list/apis-list#voice)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
+- [Voice](https://github.com/apis-list/apis-list#voice-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

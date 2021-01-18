@@ -8,17 +8,17 @@ Introduction Hello Developers Welcome to the YNAB API! (If you aren't a develope
 ##  🔗 Links
 **Docs / Website**: https://api.youneedabudget.com/
 
-## 🧬 Specification:
+## 🧬 YNAB Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 YNAB Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

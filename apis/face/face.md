@@ -8,19 +8,19 @@ Let’s you detect the information of a given photo (face location, age, race, g
 ##  🔗 Links
 **Docs / Website**: http://www.faceplusplus.com
 
-## 🧬 Specification:
+## 🧬 Face++ Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Face++ Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
-- [Recognition](https://github.com/apis-list/apis-list#recognition)
-- [Security](https://github.com/apis-list/apis-list#security)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Recognition](https://github.com/apis-list/apis-list#recognition-)
+- [Security](https://github.com/apis-list/apis-list#security-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

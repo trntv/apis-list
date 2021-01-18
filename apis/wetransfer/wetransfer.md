@@ -8,18 +8,18 @@ Put us in unexpected places, challenge the traditional creative flow, think big,
 ##  🔗 Links
 **Docs / Website**: https://developers.wetransfer.com
 
-## 🧬 Specification:
+## 🧬 Wetransfer Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Wetransfer Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
-- [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity-)
+- [Files & Storage](https://github.com/apis-list/apis-list#files--storage-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

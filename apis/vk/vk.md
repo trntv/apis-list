@@ -8,18 +8,18 @@ Additionally, you may use the VK API to control much of the functionality on the
 ##  🔗 Links
 **Docs / Website**: https://vk.com/dev
 
-## 🧬 Specification:
+## 🧬 VK Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 VK Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Social](https://github.com/apis-list/apis-list#social)
-- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
+- [Social](https://github.com/apis-list/apis-list#social-)
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -6,17 +6,17 @@ Access to Bitly’s API.  The Bitly API Bitly is the most widely trusted link ma
 ##  🔗 Links
 **Docs / Website**: http://dev.bitly.com/links.html
 
-## 🧬 Specification:
+## 🧬 Bitly Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Bitly Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [URLs](https://github.com/apis-list/apis-list#urls)
+- [URLs](https://github.com/apis-list/apis-list#urls-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

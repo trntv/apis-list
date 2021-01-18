@@ -8,17 +8,17 @@ Pulsedive is a free threat intelligence platform. Search, scan, and enrich IPs, 
 ##  🔗 Links
 **Docs / Website**: https://pulsedive.com/api/
 
-## 🧬 Specification:
+## 🧬 Pulsedive Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Pulsedive Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Security](https://github.com/apis-list/apis-list#security)
+- [Security](https://github.com/apis-list/apis-list#security-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

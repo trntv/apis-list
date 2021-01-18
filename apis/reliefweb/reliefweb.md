@@ -9,19 +9,19 @@ and much much more
 ##  🔗 Links
 **Docs / Website**: https://apidoc.rwlabs.org/
 
-## 🧬 Specification:
+## 🧬 Reliefweb Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Reliefweb Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Environment & Nature](https://github.com/apis-list/apis-list#environment--nature)
-- [Government](https://github.com/apis-list/apis-list#government)
-- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
+- [Environment & Nature](https://github.com/apis-list/apis-list#environment--nature-)
+- [Government](https://github.com/apis-list/apis-list#government-)
+- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

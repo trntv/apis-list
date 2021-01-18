@@ -6,17 +6,17 @@
 ##  🔗 Links
 **Docs / Website**: http://open.weibo.com/wiki/API%E6%96%87%E6%A1%A3/en
 
-## 🧬 Specification:
+## 🧬 Weibo Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Weibo Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Social](https://github.com/apis-list/apis-list#social)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

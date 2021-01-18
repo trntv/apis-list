@@ -6,17 +6,17 @@ The Mapbox Maps API reads and renders raster map tilesets and vector map tileset
 ##  🔗 Links
 **Docs / Website**: https://docs.mapbox.com/api/
 
-## 🧬 Specification:
+## 🧬 Mapbox Maps API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Mapbox Maps API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

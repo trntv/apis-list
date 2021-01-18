@@ -8,17 +8,17 @@ NYC Open Data helps New Yorkers use and learn about City data. NYC Open Data hel
 ##  🔗 Links
 **Docs / Website**: https://opendata.cityofnewyork.us/
 
-## 🧬 Specification:
+## 🧬 City, New York Opendata Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 City, New York Opendata Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Government](https://github.com/apis-list/apis-list#government)
+- [Government](https://github.com/apis-list/apis-list#government-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

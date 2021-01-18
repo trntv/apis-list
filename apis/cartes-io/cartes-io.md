@@ -8,17 +8,17 @@ Allows anyone to create maps and markers for anything. Initially used to report 
 ##  🔗 Links
 **Docs / Website**: https://github.com/M-Media-Group/Cartes.io/wiki/API
 
-## 🧬 Specification:
+## 🧬 Cartes.io Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Cartes.io Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

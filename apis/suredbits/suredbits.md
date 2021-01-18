@@ -6,18 +6,18 @@ This API allows you to query our NFL, NBA and Crypto Exchange data. NFL and NBA 
 ##  🔗 Links
 **Docs / Website**: https://suredbits.com/api/
 
-## 🧬 Specification:
+## 🧬 SuredBits Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 SuredBits Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
-- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness)
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies-)
+- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

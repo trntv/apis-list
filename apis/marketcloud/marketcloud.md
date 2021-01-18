@@ -6,19 +6,19 @@ It covers inventory and database, carts and checkout, payments, user authenticat
 ##  🔗 Links
 **Docs / Website**: https://www.marketcloud.it
 
-## 🧬 Specification:
+## 🧬 Marketcloud Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Marketcloud Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Development](https://github.com/apis-list/apis-list#development)
-- [Payments](https://github.com/apis-list/apis-list#payments)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
+- [Development](https://github.com/apis-list/apis-list#development-)
+- [Payments](https://github.com/apis-list/apis-list#payments-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -6,17 +6,17 @@ Scraper API is a web scraping API that handles proxy rotation, browsers, and CAP
 ##  🔗 Links
 **Docs / Website**: https://www.scraperapi.com
 
-## 🧬 Specification:
+## 🧬 Scraper API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Scraper API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

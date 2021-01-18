@@ -8,17 +8,17 @@ It can also detect multiple barcodes at once. It reads the following barcode for
 ##  🔗 Links
 **Docs / Website**: https://developers.google.com/vision/barcodes-overview?hl=en
 
-## 🧬 Specification:
+## 🧬 Google Barcode Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Google Barcode Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Bar & QR Codes](https://github.com/apis-list/apis-list#bar--qr-codes)
+- [Bar & QR Codes](https://github.com/apis-list/apis-list#bar--qr-codes-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -6,17 +6,17 @@ The Licenses API returns metadata about popular open source licenses and informa
 ##  🔗 Links
 **Docs / Website**: https://developer.github.com/v3/licenses/
 
-## 🧬 Specification:
+## 🧬 GitHub Licenses API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 GitHub Licenses API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

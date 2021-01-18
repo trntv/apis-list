@@ -8,19 +8,19 @@ Used by 10,000+ developers worldwide. . Suite of utility API's (validate emails,
 ##  🔗 Links
 **Docs / Website**: https://www.abstractapi.com
 
-## 🧬 Specification:
+## 🧬 Abstract Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Abstract Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Art & Design](https://github.com/apis-list/apis-list#art--design)
-- [Collaboration](https://github.com/apis-list/apis-list#collaboration)
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Art & Design](https://github.com/apis-list/apis-list#art--design-)
+- [Collaboration](https://github.com/apis-list/apis-list#collaboration-)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -6,18 +6,18 @@ With the Freesound API you can browse, search, and retrieve information about Fr
 ##  🔗 Links
 **Docs / Website**: https://freesound.org/docs/api/index.html
 
-## 🧬 Specification:
+## 🧬 Freesound Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Freesound Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
-- [Search](https://github.com/apis-list/apis-list#search)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)
+- [Search](https://github.com/apis-list/apis-list#search-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,19 +8,19 @@
 ##  🔗 Links
 **Docs / Website**: https://24pullrequests.com/api
 
-## 🧬 Specification:
+## 🧬 24 Pull Requests Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 24 Pull Requests Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time)
-- [Development](https://github.com/apis-list/apis-list#development)
-- [Events](https://github.com/apis-list/apis-list#events)
+- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time-)
+- [Development](https://github.com/apis-list/apis-list#development-)
+- [Events](https://github.com/apis-list/apis-list#events-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

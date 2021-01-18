@@ -8,17 +8,17 @@ FraudLabs Pro Rest API to screen the order transaction for online fraud.  FraudL
 ##  🔗 Links
 **Docs / Website**: https://www.fraudlabspro.com/developer/api/screen-order
 
-## 🧬 Specification:
+## 🧬 FraudLabs Pro Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 FraudLabs Pro Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Security](https://github.com/apis-list/apis-list#security)
+- [Security](https://github.com/apis-list/apis-list#security-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

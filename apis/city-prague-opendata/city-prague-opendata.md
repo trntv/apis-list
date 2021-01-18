@@ -6,17 +6,17 @@ Vítejte na celoměstském portálu pro otevřená data hlavního města Prahy. 
 ##  🔗 Links
 **Docs / Website**: http://opendata.praha.eu/en
 
-## 🧬 Specification:
+## 🧬 City, Prague Opendata Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 City, Prague Opendata Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Government](https://github.com/apis-list/apis-list#government)
+- [Government](https://github.com/apis-list/apis-list#government-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

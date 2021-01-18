@@ -8,17 +8,17 @@ This page describes some of the features of the Cloud Monitoring API v3. For the
 ##  🔗 Links
 **Docs / Website**: https://cloud.google.com/monitoring/api/v3/
 
-## 🧬 Specification:
+## 🧬 Google Monitoring API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Google Monitoring API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

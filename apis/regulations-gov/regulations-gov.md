@@ -6,17 +6,17 @@ More information is available here. Pleas. The Regulations. gov API is not accep
 ##  🔗 Links
 **Docs / Website**: https://regulationsgov.github.io/developers/
 
-## 🧬 Specification:
+## 🧬 Regulations.gov Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Regulations.gov Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Government](https://github.com/apis-list/apis-list#government)
+- [Government](https://github.com/apis-list/apis-list#government-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

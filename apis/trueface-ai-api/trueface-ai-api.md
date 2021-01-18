@@ -8,17 +8,17 @@ Our endpoints include face detection (detect 1 or multiple faces), face matching
 ##  🔗 Links
 **Docs / Website**: https://trueface.ai/sign-up
 
-## 🧬 Specification:
+## 🧬 TrueFace.Ai API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 TrueFace.Ai API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Recognition](https://github.com/apis-list/apis-list#recognition)
+- [Recognition](https://github.com/apis-list/apis-list#recognition-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

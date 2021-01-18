@@ -6,17 +6,17 @@ Integration developer utility APIs. By API Name [Default] By API Provider [ Synt
 ##  🔗 Links
 **Docs / Website**: https://developers.wso2apistore.com/
 
-## 🧬 Specification:
+## 🧬 Xml To Json Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Xml To Json Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

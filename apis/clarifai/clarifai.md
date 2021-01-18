@@ -8,21 +8,21 @@ Whether you have one input or billions, you are only steps away from using AI to
 ##  🔗 Links
 **Docs / Website**: https://developer.clarifai.com/docs/
 
-## 🧬 Specification:
+## 🧬 Clarifai Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Clarifai Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
-- [Recognition](https://github.com/apis-list/apis-list#recognition)
-- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
-- [Video & Media](https://github.com/apis-list/apis-list#video--media)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Recognition](https://github.com/apis-list/apis-list#recognition-)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification-)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

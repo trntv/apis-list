@@ -8,20 +8,20 @@ Build the future of business collaboration with Webex! Learn more about the Webe
 ##  🔗 Links
 **Docs / Website**: https://developer.ciscospark.com
 
-## 🧬 Specification:
+## 🧬 Cisco Spark Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Cisco Spark Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging)
-- [Collaboration](https://github.com/apis-list/apis-list#collaboration)
-- [Social](https://github.com/apis-list/apis-list#social)
-- [Video & Media](https://github.com/apis-list/apis-list#video--media)
+- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging-)
+- [Collaboration](https://github.com/apis-list/apis-list#collaboration-)
+- [Social](https://github.com/apis-list/apis-list#social-)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

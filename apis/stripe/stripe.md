@@ -6,19 +6,19 @@ Complete reference documentation for the Stripe API. Includes representative cod
 ##  🔗 Links
 **Docs / Website**: https://stripe.com/docs/api
 
-## 🧬 Specification:
+## 🧬 Stripe Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Stripe Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
-- [Payments](https://github.com/apis-list/apis-list#payments)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics-)
+- [Payments](https://github.com/apis-list/apis-list#payments-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

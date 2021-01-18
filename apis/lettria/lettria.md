@@ -8,18 +8,18 @@ LETTRIA est un outil de traitement du langage naturel (NLP) dédié à la compr�
 ##  🔗 Links
 **Docs / Website**: https://lettria.com
 
-## 🧬 Specification:
+## 🧬 Lettria Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Lettria Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

@@ -8,17 +8,17 @@ Worldwide geocoding, geoparsing and autocomplete for addresses. Geocodify is a f
 ##  🔗 Links
 **Docs / Website**: https://geocodify.com
 
-## 🧬 Specification:
+## 🧬 Geocodify Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Geocodify Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

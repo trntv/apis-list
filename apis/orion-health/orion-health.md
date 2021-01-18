@@ -6,17 +6,17 @@ Leverage the power of our Open APIs and our FHIR capabilities to enable the best
 ##  🔗 Links
 **Docs / Website**: https://developer.orionhealth.io/
 
-## 🧬 Specification:
+## 🧬 Orion Health Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Orion Health Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Health](https://github.com/apis-list/apis-list#health)
+- [Health](https://github.com/apis-list/apis-list#health-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

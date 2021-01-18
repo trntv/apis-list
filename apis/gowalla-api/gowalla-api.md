@@ -8,18 +8,18 @@ Gather and compare all kinds of interesting data, they weren't really interactiv
 ##  🔗 Links
 **Docs / Website**: https://go.gowalla.com/
 
-## 🧬 Specification:
+## 🧬 Gowalla API Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Gowalla API Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
-- [Social](https://github.com/apis-list/apis-list#social)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)

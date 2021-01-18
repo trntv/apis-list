@@ -8,17 +8,17 @@ Build Voice, SMS, Fax, Networking and Cellular IoT applications on a private, pu
 ##  🔗 Links
 **Docs / Website**: https://developers.telnyx.com/
 
-## 🧬 Specification:
+## 🧬 Telnyx Specification:
 **Type**: N/A  
 **URI**: N/A
 
-## 💬 Discussion:
+## 💬 Telnyx Discussion:
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Email & SMS](https://github.com/apis-list/apis-list#email--sms)
+- [Email & SMS](https://github.com/apis-list/apis-list#email--sms-)
 
 
 
 
-[🔙 Back to List](https://github.com/apis-list/apis-list)
+🔙 [Back to List](https://github.com/apis-list/apis-list)
