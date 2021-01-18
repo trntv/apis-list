@@ -10726,8 +10726,8 @@
   categories:
     - Jobs
     - Search
-  description: NET 4 or later) Javascript Php Python 2. 7 Python 3. 5 Ruby.  Name* Title* Website* Phone* Email*. We support multiple formats for your convenience. Consult your developers if in doubt. JSON C# (
-  is_free: false
+  description: The REST API allows developers to access and integrate Jooble's search results within your web products, or to build an entirely new web product of your own.
+  is_free: true
   type: REST
   is_active: true
   links:
@@ -10737,7 +10737,7 @@
   slug: jservice
   categories:
     - Games
-  description: Trivia Questions. Get answers, (and the correct questions) from 20+ years of Jeopardy episodes
+  description: Trivia Questions. Get answers (and the correct questions) from 20+ years of Jeopardy episodes
   is_free: false
   type: REST
   is_active: true
