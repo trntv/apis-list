@@ -1,23 +1,24 @@
 # Cloud Wallet
 
-
 Cloud Wallet enables closed-loop payments between IoT devices and facilitates IoT adoption worldwide. It allows developers to reduce cost & time-to-market while building and scaling
 
 ##  🔗 Links
 **Docs / Website**: https://walletapi.cloud/index.html
 
 ## 🧬 Cloud Wallet Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#3463)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#3463)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#3463)
 
 ## 💬 Cloud Wallet Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#3463)    
+
 
 ## 🗄️ Categories:
-- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot--home-automation-)
-- [Payments](https://github.com/apis-list/apis-list#payments-)
+- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot--home-automation-)- [Payments](https://github.com/apis-list/apis-list#payments-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

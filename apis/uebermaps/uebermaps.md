@@ -1,23 +1,24 @@
 # Uebermaps
 
-
 uebermaps are interactive maps that enable people to. Hello developer.  This is the uebermaps JSON REST API v2. uebermaps is a platform for everyone to create and share maps with your favorite spots
 
 ##  🔗 Links
 **Docs / Website**: https://uebermaps.com/api/v2
 
 ## 🧬 Uebermaps Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#21083)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#21083)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#21083)
 
 ## 💬 Uebermaps Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#21083)    
+
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
-- [Social](https://github.com/apis-list/apis-list#social-)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)- [Social](https://github.com/apis-list/apis-list#social-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

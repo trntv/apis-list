@@ -2,23 +2,25 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/advice-slip/logo_256x256.png" alt="Advice Slip Logo"/>
 </p>
-
 Parameters callback string To define your own callback function name and return the. HTTP Method GET URL https://api. adviceslip. com/advice Description Returns a random advice slip as a slip object
 
 ##  🔗 Links
 **Docs / Website**: http://api.adviceslip.com/
 
 ## 🧬 Advice Slip Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#406)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#406)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#406)
 
 ## 💬 Advice Slip Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#406)    
+
 
 ## 🗄️ Categories:
 - [Fun](https://github.com/apis-list/apis-list#fun-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

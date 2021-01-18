@@ -2,23 +2,25 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/city-new-york-opendata/logo_256x256.png" alt="City, New York Opendata Logo"/>
 </p>
-
 NYC Open Data helps New Yorkers use and learn about City data. NYC Open Data helps New Yorkers use and learn about City data
 
 ##  🔗 Links
 **Docs / Website**: https://opendata.cityofnewyork.us/
 
 ## 🧬 City, New York Opendata Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#3181)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#3181)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#3181)
 
 ## 💬 City, New York Opendata Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#3181)    
+
 
 ## 🗄️ Categories:
 - [Government](https://github.com/apis-list/apis-list#government-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

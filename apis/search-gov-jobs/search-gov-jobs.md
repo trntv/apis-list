@@ -1,22 +1,24 @@
 # Search.Gov Jobs
 
-
 gov • Terms of Service • Site Policies • D. Tap into a list of current jobs openings with the United States government. Email us or call us at 202-969-7426 An Official Website of the U. S. Government Technology Transformation Service, U.  General Services Administration USA
 
 ##  🔗 Links
 **Docs / Website**: https://search.gov/developer/jobs.html
 
 ## 🧬 Search.Gov Jobs Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#17324)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#17324)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#17324)
 
 ## 💬 Search.Gov Jobs Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#17324)    
+
 
 ## 🗄️ Categories:
 - [Jobs](https://github.com/apis-list/apis-list#jobs-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

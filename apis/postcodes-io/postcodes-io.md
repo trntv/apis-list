@@ -2,24 +2,25 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/postcodes-io/logo_256x256.png" alt="Postcodes.io Logo"/>
 </p>
-
 Search, validate and reverse geocode postcodes. An open sourced project by Ideal Postcodes. Free UK postcode lookup API and datasets. An open sourced project by Ideal Postcodes
 
 ##  🔗 Links
 **Docs / Website**: https://postcodes.io
 
 ## 🧬 Postcodes.io Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#15490)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#15490)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#15490)
 
 ## 💬 Postcodes.io Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#15490)    
+
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
-- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics-)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

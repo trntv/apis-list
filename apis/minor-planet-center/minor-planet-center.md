@@ -1,22 +1,24 @@
 # Minor Planet Center
 
-
 Minor Planet Center API Overview Asterank offers a database API for the Minor Planet Center's MPCORB. DAT data files. This API is a simple way to quickly apply constraints to a set of over 600,000 a
 
 ##  🔗 Links
 **Docs / Website**: http://www.asterank.com/mpc
 
 ## 🧬 Minor Planet Center Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#12540)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#12540)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#12540)
 
 ## 💬 Minor Planet Center Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#12540)    
+
 
 ## 🗄️ Categories:
 - [Science & Math](https://github.com/apis-list/apis-list#science--math-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

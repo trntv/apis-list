@@ -1,22 +1,24 @@
 # ToSDR terms of service API
 
-
 Terms of service are often too long to read, but it's important to understand what's in them. Your rights online depend on them. This service can help you get informed about your rights.
 
 ##  🔗 Links
 **Docs / Website**: https://tosdr.org/api.html
 
 ## 🧬 ToSDR terms of service API Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#19617)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#19617)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#19617)
 
 ## 💬 ToSDR terms of service API Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#19617)    
+
 
 ## 🗄️ Categories:
 - [Other](https://github.com/apis-list/apis-list#other-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

@@ -1,22 +1,24 @@
 # fonoApi
 
-
 Mobile Device Description Api
 
 ##  🔗 Links
 **Docs / Website**: https://fonoapi.freshpixl.com/
 
 ## 🧬 fonoApi Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#23342)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#23342)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#23342)
 
 ## 💬 fonoApi Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#23342)    
+
 
 ## 🗄️ Categories:
 - [Hardware](https://github.com/apis-list/apis-list#hardware-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

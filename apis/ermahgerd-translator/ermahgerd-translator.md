@@ -2,25 +2,25 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ermahgerd-translator/logo_256x256.png" alt="ERMAHGERD Translator Logo"/>
 </p>
-
 This translates text to ERMAHGERD
 
 ##  🔗 Links
 **Docs / Website**: https://www.mashape.com/jmillerdesign/ermahgerd-translator
 
 ## 🧬 ERMAHGERD Translator Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#5784)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#5784)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#5784)
 
 ## 💬 ERMAHGERD Translator Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#5784)    
+
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
-- [Fun](https://github.com/apis-list/apis-list#fun-)
-- [Translation](https://github.com/apis-list/apis-list#translation-)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)- [Fun](https://github.com/apis-list/apis-list#fun-)- [Translation](https://github.com/apis-list/apis-list#translation-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

@@ -2,7 +2,6 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cloud-machine-learning-engine/logo_256x256.png" alt="Cloud Machine Learning Engine Logo"/>
 </p>
-
 Take your ML projects to production, quickly and cost-effectively. 
 . Cloud-based machine learning and pattern matching tool. A development platform to build AI applications that run on GCP and on-premises
 
@@ -10,16 +9,19 @@ Take your ML projects to production, quickly and cost-effectively.
 **Docs / Website**: https://cloud.google.com/ml-engine/docs/
 
 ## 🧬 Cloud Machine Learning Engine Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#3451)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#3451)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#3451)
 
 ## 💬 Cloud Machine Learning Engine Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#3451)    
+
 
 ## 🗄️ Categories:
 - [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

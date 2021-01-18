@@ -1,23 +1,24 @@
 # PurgoMalum
 
-
 PurgoMalum is a simple, free, RESTful web service for filtering and removing content of profanity, obscenity and other unwanted text. 
 
 ##  🔗 Links
 **Docs / Website**: http://www.purgomalum.com
 
 ## 🧬 PurgoMalum Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#15978)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#15978)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#15978)
 
 ## 💬 PurgoMalum Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#15978)    
+
 
 ## 🗄️ Categories:
-- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools-)
-- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification-)
+- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools-)- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

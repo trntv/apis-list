@@ -2,23 +2,25 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/web-search-engine-api/logo_256x256.png" alt="Web Search Engine Api Logo"/>
 </p>
-
 QMeta offers a free, uncensored and unlimited web search engine API
 
 ##  🔗 Links
 **Docs / Website**: https://www.qmeta.net/api.html
 
 ## 🧬 Web Search Engine Api Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#21797)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#21797)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#21797)
 
 ## 💬 Web Search Engine Api Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#21797)    
+
 
 ## 🗄️ Categories:
 - [Search](https://github.com/apis-list/apis-list#search-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

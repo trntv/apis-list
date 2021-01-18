@@ -1,22 +1,24 @@
 # Postman
 
-
 Browser not supported Try using a different browser or the desktop app. View a list of supported browsers.  Browser not supported Try using a different browser or the desktop app
 
 ##  🔗 Links
 **Docs / Website**: https://docs.api.getpostman.com/
 
 ## 🧬 Postman Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#15516)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#15516)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#15516)
 
 ## 💬 Postman Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#15516)    
+
 
 ## 🗄️ Categories:
 - [Development](https://github.com/apis-list/apis-list#development-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

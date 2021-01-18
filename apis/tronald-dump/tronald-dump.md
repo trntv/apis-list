@@ -1,22 +1,24 @@
 # Tronald Dump
 
-
 Tronald Dump Api & web archive for the dumbest things Donald Trump has ever said
 
 ##  🔗 Links
 **Docs / Website**: https://www.tronalddump.io/
 
 ## 🧬 Tronald Dump Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#20346)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#20346)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#20346)
 
 ## 💬 Tronald Dump Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#20346)    
+
 
 ## 🗄️ Categories:
 - [Fun](https://github.com/apis-list/apis-list#fun-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

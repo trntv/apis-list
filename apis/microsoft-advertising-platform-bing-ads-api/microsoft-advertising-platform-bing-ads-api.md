@@ -2,23 +2,25 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/microsoft-advertising-platform-bing-ads-api/logo_256x256.png" alt="Microsoft Advertising Platform - Bing Ads API Logo"/>
 </p>
-
 Official developer documentation for Microsoft Advertising. Provides programmatic access to various advertising technologies
 
 ##  🔗 Links
 **Docs / Website**: https://msdn.microsoft.com/en-us/library/bing-ads-api.aspx
 
 ## 🧬 Microsoft Advertising Platform - Bing Ads API Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#12471)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#12471)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#12471)
 
 ## 💬 Microsoft Advertising Platform - Bing Ads API Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#12471)    
+
 
 ## 🗄️ Categories:
 - [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

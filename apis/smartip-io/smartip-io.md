@@ -1,6 +1,5 @@
 # Smartip.Io
 
-
 SmartIP offers the following data points: 
 - Location data
 Localize your users, apply geographical restrictions to your website and increase customer satisfaction
@@ -17,16 +16,19 @@ Assess potential risks and threats coming from certain IP addresses by detecting
 **Docs / Website**: https://smartip.io
 
 ## 🧬 Smartip.Io Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#17919)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#17919)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#17919)
 
 ## 💬 Smartip.Io Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#17919)    
+
 
 ## 🗄️ Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

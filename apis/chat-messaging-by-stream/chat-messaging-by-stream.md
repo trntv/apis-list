@@ -2,7 +2,6 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/chat-messaging-by-stream/logo_256x256.png" alt="Chat Messaging By Stream Logo"/>
 </p>
-
 Stream's API and SDKs enable developers to build messaging solutions very quickly and reliably. Drive in-app conversion, engagement, and retention while letting the Stream backend handle all the heavy lifting. 
 
 * Chat UI & SDKs - Design and build with React Native, React, iOS and our UI Kit. 
@@ -13,18 +12,19 @@ Stream's API and SDKs enable developers to build messaging solutions very quickl
 **Docs / Website**: https://getstream.io/chat/
 
 ## 🧬 Chat Messaging By Stream Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#2801)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#2801)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#2801)
 
 ## 💬 Chat Messaging By Stream Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#2801)    
+
 
 ## 🗄️ Categories:
-- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging-)
-- [Development](https://github.com/apis-list/apis-list#development-)
-- [Social](https://github.com/apis-list/apis-list#social-)
+- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging-)- [Development](https://github.com/apis-list/apis-list#development-)- [Social](https://github.com/apis-list/apis-list#social-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

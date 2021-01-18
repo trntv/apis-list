@@ -1,22 +1,24 @@
 # Chuck Norris Database
 
-
 API for online Chuck Norris jokes database
 
 ##  🔗 Links
 **Docs / Website**: http://www.icndb.com/api/
 
 ## 🧬 Chuck Norris Database Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#2865)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#2865)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#2865)
 
 ## 💬 Chuck Norris Database Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#2865)    
+
 
 ## 🗄️ Categories:
 - [Fun](https://github.com/apis-list/apis-list#fun-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

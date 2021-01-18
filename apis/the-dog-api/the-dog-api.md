@@ -2,24 +2,25 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/the-dog-api/logo_256x256.png" alt="The Dog Api Logo"/>
 </p>
-
 An API all about dogs.  A public service API all about Dogs, free to use when making your fancy new App, Website or Service
 
 ##  🔗 Links
 **Docs / Website**: https://thedogapi.com
 
 ## 🧬 The Dog Api Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#19314)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#19314)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#19314)
 
 ## 💬 The Dog Api Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#19314)    
+
 
 ## 🗄️ Categories:
-- [Animals](https://github.com/apis-list/apis-list#animals-)
-- [Fun](https://github.com/apis-list/apis-list#fun-)
+- [Animals](https://github.com/apis-list/apis-list#animals-)- [Fun](https://github.com/apis-list/apis-list#fun-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

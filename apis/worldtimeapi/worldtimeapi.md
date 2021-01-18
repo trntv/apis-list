@@ -1,6 +1,5 @@
 # WorldTimeAPI
 
-
 A JSON/plain-text which returns the (approx) current time for a provided timezone or IP.  Targetted at limited-compute IoT devices. World Time API: Simple JSON/plain-text API to obtain the current
  time in, and related data about, a timezone
 
@@ -8,17 +7,19 @@ A JSON/plain-text which returns the (approx) current time for a provided timezon
 **Docs / Website**: http://worldtimeapi.org
 
 ## 🧬 WorldTimeAPI Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#22406)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#22406)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#22406)
 
 ## 💬 WorldTimeAPI Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#22406)    
+
 
 ## 🗄️ Categories:
-- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time-)
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
+- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time-)- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

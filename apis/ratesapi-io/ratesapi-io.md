@@ -1,22 +1,24 @@
 # ratesapi.io
 
-
 Free foreign currency exchange rates and currency conversion. Best Foreign exchange rate API to convert one currency from another and returns in JSON format.  RateAPI tracks rates daily published by European central bank
 
 ##  🔗 Links
 **Docs / Website**: https://ratesapi.io/
 
 ## 🧬 ratesapi.io Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#23615)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#23615)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#23615)
 
 ## 💬 ratesapi.io Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#23615)    
+
 
 ## 🗄️ Categories:
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

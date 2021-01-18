@@ -1,22 +1,24 @@
 # An API of Ice And Fire
 
-
 The API is open source! Contribute directly to the API by writing code, documentation or posting bugs!.  The API is open source! Contribute directly to the API by writing code, documentation or posting bugs!
 
 ##  🔗 Links
 **Docs / Website**: https://anapioficeandfire.com/
 
 ## 🧬 An API of Ice And Fire Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#762)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#762)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#762)
 
 ## 💬 An API of Ice And Fire Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#762)    
+
 
 ## 🗄️ Categories:
 - [Video & Media](https://github.com/apis-list/apis-list#video--media-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

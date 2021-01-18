@@ -2,24 +2,25 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/time-door/logo_256x256.png" alt="Time Door Logo"/>
 </p>
-
 A time series analysis API. Time Door is an API for statistical insights into time series data. It is easy to integrate and handles fast and messy real-world data.
 
 ##  🔗 Links
 **Docs / Website**: https://timedoor.io
 
 ## 🧬 Time Door Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#19553)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#19553)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#19553)
 
 ## 💬 Time Door Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#19553)    
+
 
 ## 🗄️ Categories:
-- [Databases](https://github.com/apis-list/apis-list#databases-)
-- [Development](https://github.com/apis-list/apis-list#development-)
+- [Databases](https://github.com/apis-list/apis-list#databases-)- [Development](https://github.com/apis-list/apis-list#development-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

@@ -1,25 +1,26 @@
-# Us Restaurant Menus 
+# US Restaurant Menus
 <p align="center">
-    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/us-restaurant-menus/logo_256x256.png" alt="Us Restaurant Menus  Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/us-restaurant-menus/logo_256x256.png" alt="US Restaurant Menus Logo"/>
 </p>
-
 Database of over 300,000 restaurant menus and over 30,000,000 Individual Menu Items
 
 ##  🔗 Links
 **Docs / Website**: https://rapidapi.com/restaurantmenus/api/restaurant-menus
 
-## 🧬 Us Restaurant Menus  Specification:
-**Type**: N/A  
-**URI**: N/A
+## 🧬 US Restaurant Menus Specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#20798)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#20798)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#20798)
 
-## 💬 Us Restaurant Menus  Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+## 💬 US Restaurant Menus Discussion:
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#20798)    
+
 
 ## 🗄️ Categories:
-- [Business](https://github.com/apis-list/apis-list#business-)
-- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks-)
+- [Business](https://github.com/apis-list/apis-list#business-)- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks-)- [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

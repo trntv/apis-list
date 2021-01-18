@@ -1,6 +1,5 @@
 # Api Meme
 
-
 Generate memes with a simple link!.  Meme Top Text Bottom Text Link To access the API without the watermark, click here
 
 ##  🔗 Links
@@ -8,16 +7,18 @@ Generate memes with a simple link!.  Meme Top Text Bottom Text Link To access th
 
 ## 🧬 Api Meme Specification:
 **Type**: openapi  
-**URI**: https://tl-api.azurewebsites.net/swagger/default/swagger.json
+**URI**: https://tl-api.azurewebsites.net/swagger/default/swagger.json  
+**Version**: https://tl-api.azurewebsites.net/swagger/default/swagger.json
 
 ## 💬 Api Meme Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#915)    
+
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
-- [Fun](https://github.com/apis-list/apis-list#fun-)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)- [Fun](https://github.com/apis-list/apis-list#fun-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

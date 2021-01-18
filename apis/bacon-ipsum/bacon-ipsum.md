@@ -1,23 +1,24 @@
 # Bacon Ipsum
 
-
 JSON API for returning meaty lorem ipsum filler text.
 
 ##  🔗 Links
 **Docs / Website**: https://baconipsum.com/json-api/
 
 ## 🧬 Bacon Ipsum Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#1174)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#1174)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#1174)
 
 ## 💬 Bacon Ipsum Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+### PHP
+- Bacon Ipsum PHP SDK: [Documentation](https://github.com/petenelson/wp-any-ipsum/tree/master/lib)
+
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development-)
-- [Testing](https://github.com/apis-list/apis-list#testing-)
+- [Development](https://github.com/apis-list/apis-list#development-)- [Testing](https://github.com/apis-list/apis-list#testing-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

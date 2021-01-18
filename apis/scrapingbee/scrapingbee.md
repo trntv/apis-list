@@ -2,7 +2,6 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/scrapingbee/logo_256x256.png" alt="Scrapingbee Logo"/>
 </p>
-
 Scraping is hard, scraping at scale can be very challenging.  
 You have to handle: 
  - JS rendering 
@@ -15,16 +14,19 @@ ScrapingBee is a simple API that does all the above for you. It is truly the mos
 **Docs / Website**: https://www.scrapingbee.com
 
 ## 🧬 Scrapingbee Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#17202)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#17202)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#17202)
 
 ## 💬 Scrapingbee Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#17202)    
+
 
 ## 🗄️ Categories:
 - [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

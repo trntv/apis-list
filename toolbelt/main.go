@@ -42,13 +42,16 @@ func main() {
 							continue
 						}
 
-						resp, err := http.Get(v.URI)
-						if err != nil || resp.StatusCode != http.StatusOK {
-							if err == nil {
-								err = fmt.Errorf("unexpected status code = %d", resp.StatusCode)
+						for _, vv := range v.Links {
+							resp, err := http.Get(vv.Url)
+							if err != nil || resp.StatusCode != http.StatusOK {
+								if err == nil {
+									err = fmt.Errorf("unexpected status code = %d", resp.StatusCode)
+								}
+								fmt.Printf("Wrong link %s for %s (%s) - %s\r\n ", vv.Name, v.Name, vv.Url, err)
 							}
-							fmt.Printf("Wrong main link for %s (%s) - %s\r\n ", v.Name, v.URI, err)
 						}
+
 					}
 
 					return nil
@@ -68,20 +71,20 @@ func main() {
 						}
 
 						for _, vv := range v.Libraries {
-							resp, err := http.Get(vv.HomepageURI)
+							resp, err := http.Get(vv.DocumentationURL)
 							if err != nil || resp.StatusCode != http.StatusOK {
 								if err == nil {
 									err = fmt.Errorf("unexpected status code = %d", resp.StatusCode)
 								}
-								fmt.Printf("Wrong homepage link for %s - %s (%s): %s\r\n ", v.Name, vv.Name, vv.HomepageURI, err)
+								fmt.Printf("Wrong docs link for %s - %s (%s): %s\r\n ", v.Name, vv.Name, vv.DocumentationURL, err)
 							}
 
-							resp, err = http.Get(vv.SourceCodeURI)
+							resp, err = http.Get(vv.SourceCodeURL)
 							if err != nil || resp.StatusCode != http.StatusOK {
 								if err == nil {
 									err = fmt.Errorf("unexpected status code = %d", resp.StatusCode)
 								}
-								fmt.Printf("Wrong source code link for %s - %s (%s): %s\r\n ", v.Name, vv.Name, vv.SourceCodeURI, err)
+								fmt.Printf("Wrong source code link for %s - %s (%s): %s\r\n ", v.Name, vv.Name, vv.SourceCodeURL, err)
 							}
 						}
 					}

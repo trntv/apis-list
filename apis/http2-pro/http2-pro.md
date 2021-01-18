@@ -1,22 +1,24 @@
 # HTTP2.Pro
 
-
 Pro, Client HTTP/2 Support API. HTTP2. HTTP2
 
 ##  🔗 Links
 **Docs / Website**: https://http2.pro/doc/api
 
 ## 🧬 HTTP2.Pro Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#9126)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#9126)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#9126)
 
 ## 💬 HTTP2.Pro Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#9126)    
+
 
 ## 🗄️ Categories:
 - [Development](https://github.com/apis-list/apis-list#development-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

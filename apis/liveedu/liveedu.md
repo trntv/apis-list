@@ -1,25 +1,26 @@
 # Liveedu
 
-
 Live Coding Streaming.  Education Ecosystem is a project learning platform for people to learn how to build real products
 
 ##  🔗 Links
 **Docs / Website**: https://www.education-ecosystem.com/developer/applications/
 
 ## 🧬 Liveedu Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#11497)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#11497)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#11497)
 
 ## 💬 Liveedu Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+### .Net
+- LiveCoding .NET SDK: [Documentation](https://github.com/LiveCodingTVOfficial/LiveCoding.NET)
+### Python
+- LiveCoding.tv Python SDK: [Documentation](https://github.com/LiveCodingTVOfficial/python-livecodingtv)
+
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development-)
-- [Education](https://github.com/apis-list/apis-list#education-)
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
-- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
+- [Development](https://github.com/apis-list/apis-list#development-)- [Education](https://github.com/apis-list/apis-list#education-)- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

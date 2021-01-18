@@ -1,24 +1,29 @@
 # xkcd
 
-
 xkcd API
 
 ##  🔗 Links
 **Docs / Website**: https://xkcd.com/json.html
 
 ## 🧬 xkcd Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#23651)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#23651)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#23651)
 
 ## 💬 xkcd Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+### Elixir
+- xkcd Elixir SDK by Devin Clark: [Documentation](https://libraries.io/hex/xkcd), [Source code](https://github.com/notdevinclark/xkcd)
+### Go
+- xkcd Go SDK by nishanths: [Documentation](https://github.com/nishanths/go-xkcd)
+### Python
+- xkcd Python SDK by Ben Rosser: [Documentation](https://pypi.python.org/pypi/xkcd/)
+- xkcd Python SDK by JacobLandau: [Documentation](https://github.com/JacobLandau/pykcd)
+
 
 ## 🗄️ Categories:
-- [Comics & Anime](https://github.com/apis-list/apis-list#comics--anime-)
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
-- [Fun](https://github.com/apis-list/apis-list#fun-)
+- [Comics & Anime](https://github.com/apis-list/apis-list#comics--anime-)- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)- [Fun](https://github.com/apis-list/apis-list#fun-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

@@ -2,25 +2,25 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/marvel/logo_256x256.png" alt="Marvel Logo"/>
 </p>
-
 The Marvel developer portal gives Marvel fans, partners and other technologists access to an array of powerful APIs, documentation, and other tools to interact with Marvel&#039;s systems. Access over 70 years of comic data with Marvel's official developer API
 
 ##  🔗 Links
 **Docs / Website**: https://developer.marvel.com/
 
 ## 🧬 Marvel Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#12139)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#12139)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#12139)
 
 ## 💬 Marvel Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#12139)    
+
 
 ## 🗄️ Categories:
-- [Art & Design](https://github.com/apis-list/apis-list#art--design-)
-- [Comics & Anime](https://github.com/apis-list/apis-list#comics--anime-)
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
+- [Art & Design](https://github.com/apis-list/apis-list#art--design-)- [Comics & Anime](https://github.com/apis-list/apis-list#comics--anime-)- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

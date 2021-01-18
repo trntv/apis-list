@@ -1,22 +1,24 @@
 # ShrtURI
 
-
 API Documentation This is version 3 of the shrturi. com API. It follows common REST patterns. POST /api/v1/shorten Will take the passed in URL and create a new shortened link. Parameters url - The l. . URL shortening API for creating short URLs from long URLs
 
 ##  🔗 Links
 **Docs / Website**: https://shrturi.com/docs
 
 ## 🧬 ShrtURI Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#17578)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#17578)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#17578)
 
 ## 💬 ShrtURI Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#17578)    
+
 
 ## 🗄️ Categories:
 - [URLs](https://github.com/apis-list/apis-list#urls-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

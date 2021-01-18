@@ -1,25 +1,24 @@
 # UK Police
 
-
 Police API Documentation The API provides a rich data source for information, including: Neighbourhood team members Upcoming events Street-level crime and outcome data Nearest police stations The A. Police API Documentation The API provides a rich data source for information, including: Neighbourhood team members Upcoming events Street-level crime and outcome data Nearest police stations The A
 
 ##  🔗 Links
 **Docs / Website**: https://data.police.uk/docs/
 
 ## 🧬 UK Police Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#20697)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#20697)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#20697)
 
 ## 💬 UK Police Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+### Python
+- UK Police Python SDK by Rock Kitchen Harris: [Documentation](https://github.com/rkhleics/police-api-client-python/)
+
 
 ## 🗄️ Categories:
-- [Government](https://github.com/apis-list/apis-list#government-)
-- [Security](https://github.com/apis-list/apis-list#security-)
-- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data-)
-- [Worldwide](https://github.com/apis-list/apis-list#worldwide-)
+- [Government](https://github.com/apis-list/apis-list#government-)- [Security](https://github.com/apis-list/apis-list#security-)- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data-)- [Worldwide](https://github.com/apis-list/apis-list#worldwide-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

@@ -1,24 +1,24 @@
 # ReqRes
 
-
 A hosted REST-API ready to respond to AJAX requests
 
 ##  🔗 Links
 **Docs / Website**: https://reqres.in/
 
 ## 🧬 ReqRes Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#16640)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#16640)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#16640)
 
 ## 💬 ReqRes Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#16640)    
+
 
 ## 🗄️ Categories:
-- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management-)
-- [Development](https://github.com/apis-list/apis-list#development-)
-- [Testing](https://github.com/apis-list/apis-list#testing-)
+- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management-)- [Development](https://github.com/apis-list/apis-list#development-)- [Testing](https://github.com/apis-list/apis-list#testing-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

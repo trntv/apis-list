@@ -2,24 +2,27 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/giant-bomb/logo_256x256.png" alt="Giant Bomb Logo"/>
 </p>
-
 The largest video game database online
 
 ##  🔗 Links
 **Docs / Website**: https://www.giantbomb.com/api/documentation
 
 ## 🧬 Giant Bomb Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#7870)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#7870)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#7870)
 
 ## 💬 Giant Bomb Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+### Python
+- Giant Bomb Python SDK by Leandro: [Documentation](https://github.com/xupisco/GiantBomb)
+### Ruby
+- Giant Bomb Ruby SDK by Robert Coker: [Documentation](https://github.com/intelekshual/giantbomb)
+
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
-- [Games](https://github.com/apis-list/apis-list#games-)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)- [Games](https://github.com/apis-list/apis-list#games-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

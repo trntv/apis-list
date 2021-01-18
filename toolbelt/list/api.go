@@ -1,6 +1,8 @@
 package list
 
 import (
+	"fmt"
+	"github.com/apis-list/apis-list/toolbelt/utils"
 	"gopkg.in/yaml.v3"
 	"io/ioutil"
 )
@@ -13,27 +15,39 @@ type API struct {
 	Slug          string   `yaml:"slug"`
 	Categories    []string `yaml:"categories"`
 	Description   string   `yaml:"description"`
-	URI           string   `yaml:"uri"`
-	IsPaid        bool     `yaml:"is_paid"`
+	IsFree        bool     `yaml:"is_free"`
 	Logo          string   `yaml:"logo,omitempty"`
-	DiscussionURI string   `yaml:"discussion_uri,omitempty"`
+	DiscussionURL string   `yaml:"discussion_url,omitempty"`
 	Type          string   `yaml:"type,omitempty"`
 	Contact       string   `yaml:"contact,omitempty"`
 	IsActive      bool     `yaml:"is_active"`
 
-	SpecificationType string `yaml:"specification_type,omitempty"`
-	SpecificationUri  string `yaml:"specification_uri,omitempty"`
+	Specification APISpecification `yaml:"specification,omitempty"`
 
 	Libraries Libraries `yaml:"libraries,omitempty"`
+	Links     []APILink `yaml:"links,omitempty"`
+
+	Line int `yaml:"-"`
+}
+
+type APISpecification struct {
+	Type    string `yaml:"type,omitempty"`
+	Url     string `yaml:"url,omitempty"`
+	Version string `yaml:"version,omitempty"`
 }
 
 type APILibrary struct {
-	Name          string `yaml:"name"`
-	Description   string `yaml:"-"`
-	HomepageURI   string `yaml:"homepage_uri" yaml:"homepage_uri,omitempty"`
-	SourceCodeURI string `yaml:"source_code_uri" yaml:"source_code_uri,omitempty"`
-	Version       string `yaml:"version,omitempty"`
-	Platform      string `yaml:"platform,omitempty"`
+	Name             string `yaml:"name"`
+	Description      string `yaml:"-"`
+	DocumentationURL string `yaml:"homepage_uri" yaml:"homepage_uri,omitempty"`
+	SourceCodeURL    string `yaml:"source_code_uri" yaml:"source_code_uri"`
+	Version          string `yaml:"version,omitempty"`
+	Platform         string `yaml:"platform"`
+}
+
+type APILink struct {
+	Name string
+	Url  string
 }
 
 func (a APIs) ByCategory() map[string][]*API {
@@ -83,6 +97,11 @@ func ReadList(path string) ([]*API, error) {
 	err = yaml.Unmarshal(apisData, &list)
 	if err != nil {
 		return nil, err
+	}
+
+	lf := utils.NewLineNumberFinder(apisData)
+	for k, v := range list {
+		list[k].Line = lf.FindLineNumber(fmt.Sprintf("name: %s", v.Name))
 	}
 
 	return list, nil

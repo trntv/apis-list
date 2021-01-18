@@ -1,23 +1,24 @@
 # Trakt
 
-
 Trakt collect lots of information about what tv shows and movies everyone is watching.  A place where APIs are kept
 
 ##  🔗 Links
 **Docs / Website**: https://trakt.docs.apiary.io/
 
 ## 🧬 Trakt Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#19722)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#19722)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#19722)
 
 ## 💬 Trakt Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#19722)    
+
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
-- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

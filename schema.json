@@ -6,105 +6,111 @@
     "name",
     "slug",
     "categories",
-    "uri",
     "is_active"
   ],
   "properties": {
     "name": {
-      "$id": "#/properties/name",
       "type": "string"
     },
     "slug": {
-      "$id": "#/properties/slug",
       "type": "string"
     },
     "categories": {
-      "$id": "#/properties/categories",
       "type": "array",
       "additionalItems": true,
       "items": {
-        "$id": "#/properties/categories/items",
         "anyOf": [
           {
-            "$id": "#/properties/categories/items/anyOf/0",
             "type": "string"
           }
         ]
       }
     },
     "description": {
-      "$id": "#/properties/description",
       "type": "string"
     },
-    "uri": {
-      "$id": "#/properties/uri",
-      "type": "string"
-    },
-    "is_paid": {
-      "$id": "#/properties/is_paid",
-      "type": "boolean"
-    },
-    "is_opensource": {
-      "$id": "#/properties/is_opensource",
+    "is_free": {
       "type": "boolean"
     },
     "logo": {
-      "$id": "#/properties/logo",
       "type": "string"
     },
-    "discussion_uri": {
-      "$id": "#/properties/discussion_uri",
+    "discussion_url": {
       "type": "string"
     },
     "type": {
-      "$id": "#/properties/type",
       "type": "string"
     },
     "contact": {
-      "$id": "#/properties/contact",
       "type": "string"
     },
     "is_active": {
-      "$id": "#/properties/is_active",
       "type": "boolean"
     },
+    "specification": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string"
+        },
+        "version": {
+          "type": "string"
+        }
+      }
+    },
     "libraries": {
-      "$id": "#/properties/libraries",
       "type": "array",
       "additionalItems": true,
       "items": {
-        "$id": "#/properties/libraries/items",
         "anyOf": [
           {
-            "$id": "#/properties/libraries/items/anyOf/0",
             "type": "object",
             "required": [
-              "name",
-              "homepage_uri"
+              "name"
             ],
             "properties": {
               "name": {
-                "$id": "#/properties/libraries/items/anyOf/0/properties/name",
                 "type": "string"
               },
               "description": {
-                "$id": "#/properties/libraries/items/anyOf/0/properties/description",
                 "type": "string"
               },
-              "homepage_uri": {
-                "$id": "#/properties/libraries/items/anyOf/0/properties/homepage_uri",
+              "documentation_url": {
                 "type": "string"
               },
-              "source_code_uri": {
-                "$id": "#/properties/libraries/items/anyOf/0/properties/source_code_uri",
+              "source_code_url": {
                 "type": "string"
               },
               "version": {
-                "$id": "#/properties/libraries/items/anyOf/0/properties/version",
                 "type": "string"
               },
               "platform": {
-                "$id": "#/properties/libraries/items/anyOf/0/properties/platform",
+                "type": "string"
+              }
+            },
+            "additionalProperties": true
+          }
+        ]
+      }
+    },
+    "links": {
+      "type": "array",
+      "additionalItems": true,
+      "items": {
+        "anyOf": [
+          {
+            "type": "object",
+            "required": [
+              "name"
+            ],
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "url": {
                 "type": "string"
               }
             },

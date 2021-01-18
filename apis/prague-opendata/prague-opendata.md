@@ -1,24 +1,24 @@
 # Prague Opendata
 
-
 Prague City Open Data.  Vítejte na celoměstském portálu pro otevřená data hlavního města Prahy. Zde magistrát hlavního města, příspěvkové organizace, městské části a další související subjekty zveřejňují data ve strojově
 
 ##  🔗 Links
 **Docs / Website**: https://opendata.praha.eu/en
 
 ## 🧬 Prague Opendata Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#15697)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#15697)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#15697)
 
 ## 💬 Prague Opendata Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#15697)    
+
 
 ## 🗄️ Categories:
-- [Government](https://github.com/apis-list/apis-list#government-)
-- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data-)
-- [Worldwide](https://github.com/apis-list/apis-list#worldwide-)
+- [Government](https://github.com/apis-list/apis-list#government-)- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data-)- [Worldwide](https://github.com/apis-list/apis-list#worldwide-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

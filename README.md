@@ -375,7 +375,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Salesforce](https://github.com/apis-list/apis-list/blob/main/apis/salesforce/salesforce.md) - The Salesforce Platform connects the entire customer journey across Sales, Service, Marketing, Commerce, and every touchpoint.
 - [Square](https://github.com/apis-list/apis-list/blob/main/apis/square/square.md) - Square provides support and tools for you to build apps for today’s business needs
 - [Telleroo](https://github.com/apis-list/apis-list/blob/main/apis/telleroo/telleroo.md) - Instant Bulk Payments for your Finance Team
-- [Us Restaurant Menus ](https://github.com/apis-list/apis-list/blob/main/apis/us-restaurant-menus/us-restaurant-menus.md) - Database of over 300,000 restaurant menus and over 30,000,000 Individual Menu Items
+- [US Restaurant Menus](https://github.com/apis-list/apis-list/blob/main/apis/us-restaurant-menus/us-restaurant-menus.md) - Database of over 300,000 restaurant menus and over 30,000,000 Individual Menu Items
 - [Whitepages Pro](https://github.com/apis-list/apis-list/blob/main/apis/whitepages-pro/whitepages-pro.md) - Global Identity Verification API
 - [WorkOS](https://github.com/apis-list/apis-list/blob/main/apis/workos/workos.md) - Easily integrate Okta SAML, Google OAuth, and more
 - [Xyz Menus](https://github.com/apis-list/apis-list/blob/main/apis/xyz-menus/xyz-menus.md) - XYZ Menus API provides access to a Database of over 350,000 Restaurant Menus with over 30,000,000 individual menu items
@@ -543,7 +543,6 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Oxford Dictionary API](https://github.com/apis-list/apis-list/blob/main/apis/oxford-dictionary-api/oxford-dictionary-api.md) - Access to Oxford Dictionary services with several different subscription options including a free tier
 - [Pearson Dictionaries API](https://github.com/apis-list/apis-list/blob/main/apis/pearson-dictionaries-api/pearson-dictionaries-api.md) - ) Gives access to a very large database of words and phrases with thorough explanations - free usage for up to 4 million calls/month
 - [Perfect Tense API](https://github.com/apis-list/apis-list/blob/main/apis/perfect-tense-api/perfect-tense-api.md) - Automated
-- [Random Data Generator](https://github.com/apis-list/apis-list/blob/main/apis/random-data-generator/random-data-generator.md) - You have 1000 daily quota calls for your project
 - [Tamil Dictionary Api](https://github.com/apis-list/apis-list/blob/main/apis/tamil-dictionary-api/tamil-dictionary-api.md) - Lookup Tamil words and build your own Tamil dictionary APP using this API
 - [Today in History](https://github.com/apis-list/apis-list/blob/main/apis/today-in-history/today-in-history.md) - Database of historical events
 - [Utelly](https://github.com/apis-list/apis-list/blob/main/apis/utelly/utelly.md) - Check where a tv show or movie is available
@@ -638,7 +637,6 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Postmen](https://github.com/apis-list/apis-list/blob/main/apis/postmen/postmen.md) - Download Postmen's JSON schema
 - [ProxyCrawl](https://github.com/apis-list/apis-list/blob/main/apis/proxycrawl/proxycrawl.md) - Crawl and scrape websites without the need of proxies, infrastructure or browsers
 - [Pusher Beams](https://github.com/apis-list/apis-list/blob/main/apis/pusher-beams/pusher-beams.md) - Get realtime delivery and transparency to develop your iOS and Android apps
-- [Random Data Generator](https://github.com/apis-list/apis-list/blob/main/apis/random-data-generator/random-data-generator.md) - You have 1000 daily quota calls for your project
 - [ReqRes](https://github.com/apis-list/apis-list/blob/main/apis/reqres/reqres.md) - A hosted REST-API ready to respond to AJAX requests
 - [Restpack](https://github.com/apis-list/apis-list/blob/main/apis/restpack/restpack.md) - Restpack is a company focused on building great restful microservices for developers and businesses
 - [SHOUTCLOUD](https://github.com/apis-list/apis-list/blob/main/apis/shoutcloud/shoutcloud.md) - ALL CAPS AS A SERVICE curl -X POST \ -d '{"INPUT": "hello world"}' \ -H 'Content-Type: application/json' \ HTTP://API
@@ -903,8 +901,8 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [The Meal Db](https://github.com/apis-list/apis-list/blob/main/apis/the-meal-db/the-meal-db.md) - This food API is free to use and can get you recipes, food details, food names , meals by category, food images and more!
 - [The Report of the Week](https://github.com/apis-list/apis-list/blob/main/apis/the-report-of-the-week/the-report-of-the-week.md) - API of The Report Of The Week Reviews
 - [TheCocktailDB](https://github.com/apis-list/apis-list/blob/main/apis/thecocktaildb/thecocktaildb.md) - An open, crowd-sourced database of drinks and cocktails from around the world
+- [US Restaurant Menus](https://github.com/apis-list/apis-list/blob/main/apis/us-restaurant-menus/us-restaurant-menus.md) - Database of over 300,000 restaurant menus and over 30,000,000 Individual Menu Items
 - [Untappd](https://github.com/apis-list/apis-list/blob/main/apis/untappd/untappd.md) - Access the Untappd API documentation to power your app or project
-- [Us Restaurant Menus ](https://github.com/apis-list/apis-list/blob/main/apis/us-restaurant-menus/us-restaurant-menus.md) - Database of over 300,000 restaurant menus and over 30,000,000 Individual Menu Items
 - [Wegmans](https://github.com/apis-list/apis-list/blob/main/apis/wegmans/wegmans.md) - APIs for products and store information
 - [What's on the menu?](https://github.com/apis-list/apis-list/blob/main/apis/whats-on-the-menu/whats-on-the-menu.md) - This is built for programmers and power-users,
 - [Xyz Menus](https://github.com/apis-list/apis-list/blob/main/apis/xyz-menus/xyz-menus.md) - XYZ Menus API provides access to a Database of over 350,000 Restaurant Menus with over 30,000,000 individual menu items
@@ -1474,6 +1472,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Open Brewery DB](https://github.com/apis-list/apis-list/blob/main/apis/open-brewery-db/open-brewery-db.md) - The goal of Open Brewery DB is to maintain an open-source, community-driven database on breweries, cideries, brewpubs, and bottleshops
 - [REFUGE Restrooms](https://github.com/apis-list/apis-list/blob/main/apis/refuge-restrooms/refuge-restrooms.md) - Refuge Restrooms
 - [Rijksmuseum](https://github.com/apis-list/apis-list/blob/main/apis/rijksmuseum/rijksmuseum.md) - The Rijksmuseum links individuals with art and history
+- [US Restaurant Menus](https://github.com/apis-list/apis-list/blob/main/apis/us-restaurant-menus/us-restaurant-menus.md) - Database of over 300,000 restaurant menus and over 30,000,000 Individual Menu Items
 - [Xyz Menus](https://github.com/apis-list/apis-list/blob/main/apis/xyz-menus/xyz-menus.md) - XYZ Menus API provides access to a Database of over 350,000 Restaurant Menus with over 30,000,000 individual menu items
 - [Yelp](https://github.com/apis-list/apis-list/blob/main/apis/yelp/yelp.md) - Yelp's API exposes search to 3rd party developers
 - [Zomato](https://github.com/apis-list/apis-list/blob/main/apis/zomato/zomato.md) - Zomato API
@@ -1514,7 +1513,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Lottery Number Generation](https://github.com/apis-list/apis-list/blob/main/apis/lottery-number-generation/lottery-number-generation.md) - Hundereds of lottery games from various countries are supported
 - [Numbers](https://github.com/apis-list/apis-list/blob/main/apis/numbers/numbers.md) - An API for interesting facts about numbers
 - [PIPL API](https://github.com/apis-list/apis-list/blob/main/apis/pipl-api/pipl-api.md) - Free and public API that generates random and fake people's data in JSON
-- [Random Data Generator](https://github.com/apis-list/apis-list/blob/main/apis/random-data-generator/random-data-generator.md) - You have 1000 daily quota calls for your project
+- [Random Data Generator](https://github.com/apis-list/apis-list/blob/main/apis/random-data-generator/random-data-generator.md) - API Generator for telephones, text, numbers, passwords, names, social security numbers, and cards
 - [Random Facts](https://github.com/apis-list/apis-list/blob/main/apis/random-facts/random-facts.md) - Random Facts API
 - [Random Facts Api](https://github.com/apis-list/apis-list/blob/main/apis/random-facts-api/random-facts-api.md) - Get random Facts on different topics
 - [RandomFox](https://github.com/apis-list/apis-list/blob/main/apis/randomfox/randomfox.md) - Random image of a fox
@@ -1814,6 +1813,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [PIPL API](https://github.com/apis-list/apis-list/blob/main/apis/pipl-api/pipl-api.md) - Free and public API that generates random and fake people's data in JSON
 - [PhantAuth](https://github.com/apis-list/apis-list/blob/main/apis/phantauth/phantauth.md) - Random User Generator + OpenID Connect Provider
 - [PlaceKitten](https://github.com/apis-list/apis-list/blob/main/apis/placekitten/placekitten.md) - A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code
+- [Random Data Generator](https://github.com/apis-list/apis-list/blob/main/apis/random-data-generator/random-data-generator.md) - API Generator for telephones, text, numbers, passwords, names, social security numbers, and cards
 - [RandomUserGenerator](https://github.com/apis-list/apis-list/blob/main/apis/randomusergenerator/randomusergenerator.md) - Random user generator is a FREE API for generating placeholder user information
 - [ReqRes](https://github.com/apis-list/apis-list/blob/main/apis/reqres/reqres.md) - A hosted REST-API ready to respond to AJAX requests
 - [RoboHash](https://github.com/apis-list/apis-list/blob/main/apis/robohash/robohash.md) - Generate Unique images from any text Robohash is a easy web service that makes it easy to provide unique, robot/alien/monster/whatever images for any text

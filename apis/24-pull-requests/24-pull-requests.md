@@ -2,25 +2,25 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/24-pull-requests/logo_256x256.png" alt="24 Pull Requests Logo"/>
 </p>
-
 24 Pull Requests is a yearly initiative to encourage contributors around the world to send 24 pull requests between December 1st and December 24th
 
 ##  🔗 Links
 **Docs / Website**: https://24pullrequests.com/api
 
 ## 🧬 24 Pull Requests Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#33)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#33)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#33)
 
 ## 💬 24 Pull Requests Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#33)    
+
 
 ## 🗄️ Categories:
-- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time-)
-- [Development](https://github.com/apis-list/apis-list#development-)
-- [Events](https://github.com/apis-list/apis-list#events-)
+- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time-)- [Development](https://github.com/apis-list/apis-list#development-)- [Events](https://github.com/apis-list/apis-list#events-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

@@ -1,22 +1,24 @@
 # GitHub Licenses API
 
-
 The Licenses API returns metadata about popular open source licenses and information about a particular project's license file. The Licenses API returns metadata about popular open source licenses and information about a particular project's license file.  The Licenses API uses the open source Ruby Gem Licensee to attempt to
 
 ##  🔗 Links
 **Docs / Website**: https://developer.github.com/v3/licenses/
 
 ## 🧬 GitHub Licenses API Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#7989)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#7989)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#7989)
 
 ## 💬 GitHub Licenses API Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#7989)    
+
 
 ## 🗄️ Categories:
 - [Development](https://github.com/apis-list/apis-list#development-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

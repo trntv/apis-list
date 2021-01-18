@@ -1,22 +1,24 @@
 # YouTube API
 
-
 Add YouTube functionality to your sites and apps. . Allows developers to access video statistics and YouTube channels' data via two types of calls, REST and XML-RPC
 
 ##  🔗 Links
 **Docs / Website**: https://developers.google.com/youtube/
 
 ## 🧬 YouTube API Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#22959)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#22959)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#22959)
 
 ## 💬 YouTube API Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#22959)    
+
 
 ## 🗄️ Categories:
 - [Video & Media](https://github.com/apis-list/apis-list#video--media-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

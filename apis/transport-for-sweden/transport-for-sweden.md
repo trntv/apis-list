@@ -1,22 +1,24 @@
 # Transport for Sweden
 
-
 Ankomst- och avgångsprognoserom bussar, tunnelbana, pendeltåg, lokalbana och båtar i Stockholm. Ankomst- och avgångsprognoserom bussar, tunnelbana, pendeltåg, lokalbana och båtar i Stockholm
 
 ##  🔗 Links
 **Docs / Website**: https://www.trafiklab.se/api
 
 ## 🧬 Transport for Sweden Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#20046)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#20046)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#20046)
 
 ## 💬 Transport for Sweden Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#20046)    
+
 
 ## 🗄️ Categories:
 - [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

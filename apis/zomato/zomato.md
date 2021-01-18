@@ -2,26 +2,25 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/zomato/logo_256x256.png" alt="Zomato Logo"/>
 </p>
-
 Zomato API. 5 million restaurants across 10,000 cities globally.
 
 ##  🔗 Links
 **Docs / Website**: https://developers.zomato.com/api
 
 ## 🧬 Zomato Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#23142)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#23142)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#23142)
 
 ## 💬 Zomato Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+### PHP
+- Zomato PHP SDK by Ruben Arakelyan: [Documentation](https://packagist.org/packages/rubenarakelyan/zomato-api-php), [Source code](https://github.com/rubenarakelyan/zomato-api-php)
+
 
 ## 🗄️ Categories:
-- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks-)
-- [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest-)
-- [Social](https://github.com/apis-list/apis-list#social-)
-- [Worldwide](https://github.com/apis-list/apis-list#worldwide-)
+- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks-)- [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest-)- [Social](https://github.com/apis-list/apis-list#social-)- [Worldwide](https://github.com/apis-list/apis-list#worldwide-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

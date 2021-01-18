@@ -1,22 +1,24 @@
 # Scraper.AI
 
-
 Scraper. AI is a no-code data extraction tool that allows you to extract data from a website and convert it into the structured data you require
 
 ##  🔗 Links
 **Docs / Website**: https://docs.scraper.ai/#/
 
 ## 🧬 Scraper.AI Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#17178)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#17178)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#17178)
 
 ## 💬 Scraper.AI Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#17178)    
+
 
 ## 🗄️ Categories:
 - [Development](https://github.com/apis-list/apis-list#development-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)

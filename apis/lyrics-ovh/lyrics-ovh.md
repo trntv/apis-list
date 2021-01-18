@@ -1,22 +1,24 @@
 # Lyrics.ovh
 
-
 A place where APIs are kept.  A place where APIs are kept
 
 ##  🔗 Links
 **Docs / Website**: http://docs.lyricsovh.apiary.io/
 
 ## 🧬 Lyrics.ovh Specification:
-**Type**: N/A  
-**URI**: N/A
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#11736)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#11736)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#11736)
 
 ## 💬 Lyrics.ovh Discussion:
-[Create discussion](https://github.com/apis-list/apis-list/discussions/new)
+Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
+
+## 🗂️ Libraries
+
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#11736)    
+
 
 ## 🗄️ Categories:
 - [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)
 
-
-
-
-🔙 [Back to List](https://github.com/apis-list/apis-list)
+🔙  [Back to List](https://github.com/apis-list/apis-list)
