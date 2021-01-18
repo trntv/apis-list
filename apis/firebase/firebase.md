@@ -20,7 +20,6 @@ Authentication, analytics, cloud messaging, crash reporting, ads and more
 - [Databases](https://github.com/apis-list/apis-list#databases)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Mobile](https://github.com/apis-list/apis-list#mobile)
-- [Real Time](https://github.com/apis-list/apis-list#real-time)
 - [Security](https://github.com/apis-list/apis-list#security)
 
 

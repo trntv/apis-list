@@ -18,7 +18,7 @@ Developer API trash nothing! provides a REST API which allows developers to buil
 ## 🗄️ Categories:
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Community](https://github.com/apis-list/apis-list#community)
-- [Environment](https://github.com/apis-list/apis-list#environment)
+- [Environment & Nature](https://github.com/apis-list/apis-list#environment--nature)
 - [Social](https://github.com/apis-list/apis-list#social)
 
 

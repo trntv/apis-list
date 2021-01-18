@@ -19,7 +19,6 @@ Global Identity Verification API. Get a clearer picture of your customer.  Insta
 - [Business](https://github.com/apis-list/apis-list#business)
 - [CRM](https://github.com/apis-list/apis-list#crm)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
-- [Reference](https://github.com/apis-list/apis-list#reference)
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification)
 
 

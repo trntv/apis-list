@@ -15,7 +15,6 @@ Czech Holidays API
 
 ## 🗄️ Categories:
 - [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time)
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
 - [Government](https://github.com/apis-list/apis-list#government)
 - [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 

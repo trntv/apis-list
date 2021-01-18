@@ -3,7 +3,7 @@
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/indeed/logo_256x256.png" alt="Indeed Logo"/>
 </p>
 
-*.  Post your jobs on Indeed, the #1 job site worldwide. Post your jobs on Indeed, the #1 job site worldwide. * More people find jobs on Indeed than anywhere else
+Post your jobs on Indeed, the #1 job site worldwide.
 
 ##  🔗 Links
 **Docs / Website**: https://www.indeed.com/publisher

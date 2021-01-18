@@ -20,7 +20,6 @@ APIs for SMS, Voice, Video and more
 - [Communications](https://github.com/apis-list/apis-list#communications)
 - [Email & SMS](https://github.com/apis-list/apis-list#email--sms)
 - [Voice](https://github.com/apis-list/apis-list#voice)
-- [Webhooks](https://github.com/apis-list/apis-list#webhooks)
 
 
 

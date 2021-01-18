@@ -1,10 +1,10 @@
 # Sweden
 
 
-0 Here you will find information you need to get started using PostNord API, Swagger version 2. 0 Sign in to your account for quick access to useful values. API Docs 2. API Docs 2
+Information you need to get started using PostNord API. PostNord provides a range of APIs to facilitate integration with your back end systems. Integrate PostNord web services directly into your website, customs applications or e-commerce platform.
 
 ##  🔗 Links
-**Docs / Website**: https://developer.postnord.com/docs2
+**Docs / Website**: https://developer.postnord.com/api/docs/general-information
 
 ## 🧬 Specification:
 **Type**: N/A  

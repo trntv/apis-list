@@ -17,7 +17,6 @@ Free multilingual Encyclopedia.
 
 ## 🗄️ Categories:
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
-- [Reference](https://github.com/apis-list/apis-list#reference)
 - [Wiki](https://github.com/apis-list/apis-list#wiki)
 
 

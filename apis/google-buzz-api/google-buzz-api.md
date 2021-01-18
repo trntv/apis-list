@@ -17,7 +17,6 @@ A social platform that both users and developers can interact with, the company 
 
 ## 🗄️ Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
-- [Webhooks](https://github.com/apis-list/apis-list#webhooks)
 
 
 

@@ -15,7 +15,7 @@ We connect people together, making it possible to travel literally anywhere, dir
 
 ## 🗄️ Categories:
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Transportation](https://github.com/apis-list/apis-list#transportation)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation)
 
 
 

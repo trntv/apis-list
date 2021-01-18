@@ -1,7 +1,7 @@
 # Icelandic APIs
 
 
-In our context, this means we have endpoints that retur. What the. What the. ? API stands for 'Application Programming Interface', literally specifying how software components should interact with each other
+The purpose of APIs.is is to make Iceland data readily available to anyone interested. All data that is delivered through APIs.is is JSON formatted and scraped from open public websites.
 
 ##  🔗 Links
 **Docs / Website**: http://docs.apis.is/
@@ -14,7 +14,7 @@ In our context, this means we have endpoints that retur. What the. What the. ? A
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Transportation](https://github.com/apis-list/apis-list#transportation)
+- [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 
 
 

@@ -16,7 +16,7 @@ Enables professionals and businesses to research and publish content through its
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Writing](https://github.com/apis-list/apis-list#writing)
+- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo)
 
 
 

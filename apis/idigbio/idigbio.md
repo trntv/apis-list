@@ -17,7 +17,7 @@ Making data and images of millions of biological specimens available on the web
 
 ## 🗄️ Categories:
 - [Animals](https://github.com/apis-list/apis-list#animals)
-- [Environment](https://github.com/apis-list/apis-list#environment)
+- [Environment & Nature](https://github.com/apis-list/apis-list#environment--nature)
 
 
 

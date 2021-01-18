@@ -14,7 +14,7 @@ The open API for building cool stuff with transport data
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Transportation](https://github.com/apis-list/apis-list#transportation)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation)
 
 
 

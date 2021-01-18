@@ -16,7 +16,7 @@ World's largest open database of companies
 ## 🗄️ Categories:
 - [Business](https://github.com/apis-list/apis-list#business)
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
-- [Reference](https://github.com/apis-list/apis-list#reference)
+- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data)
 
 
 

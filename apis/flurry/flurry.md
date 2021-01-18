@@ -15,7 +15,6 @@ Yahoo’s Flurry provides you with a number of APIs enabling you to export your 
 
 ## 🗄️ Categories:
 - [Analytics](https://github.com/apis-list/apis-list#analytics)
-- [Big Data](https://github.com/apis-list/apis-list#big-data)
 
 
 

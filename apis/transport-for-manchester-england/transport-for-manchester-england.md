@@ -14,7 +14,7 @@ The s. Welcome to Transport for Greater Manchester’s new Real-Time Open Data P
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Transportation](https://github.com/apis-list/apis-list#transportation)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation)
 
 
 

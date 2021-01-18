@@ -1,7 +1,7 @@
 # ToSDR terms of service API
 
 
-about “Terms of Service; Didn't Read” (short: ToS;DR) is a project started in June 2012 to help fix the “biggest lie on the web”: almost no one really reads the terms of service we agree to all the
+Terms of service are often too long to read, but it's important to understand what's in them. Your rights online depend on them. This service can help you get informed about your rights.
 
 ##  🔗 Links
 **Docs / Website**: https://tosdr.org/api.html
@@ -14,7 +14,7 @@ about “Terms of Service; Didn't Read” (short: ToS;DR) is a project started i
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Open Licenses](https://github.com/apis-list/apis-list#open-licenses)
+- [Other](https://github.com/apis-list/apis-list#other)
 
 
 

@@ -14,7 +14,7 @@
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Reference](https://github.com/apis-list/apis-list#reference)
+- [Trivia](https://github.com/apis-list/apis-list#trivia)
 
 
 

@@ -17,7 +17,7 @@ Convert files and content between file formats. Convert data between file format
 ## 🗄️ Categories:
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
 - [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
-- [Office](https://github.com/apis-list/apis-list#office)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
 
 
 

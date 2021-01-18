@@ -16,8 +16,7 @@ Você pode usar a biblioteca em PHP desenvolvida para consumir a API https://git
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Transportation](https://github.com/apis-list/apis-list#transportation)
-- [Vehicle](https://github.com/apis-list/apis-list#vehicle)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation)
 
 
 

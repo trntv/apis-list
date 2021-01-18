@@ -16,11 +16,8 @@ Search worldwide news articles and headlines from all over the web in real-time 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
-- [Metadata](https://github.com/apis-list/apis-list#metadata)
 - [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
 - [Search](https://github.com/apis-list/apis-list#search)
-- [Social](https://github.com/apis-list/apis-list#social)
 
 
 

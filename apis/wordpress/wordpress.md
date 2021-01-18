@@ -1,7 +1,7 @@
 # Wordpress
 
 
-Languages: English • Русский • API 日本語 (Add your language) The WordPress API stands for the WordPress Application Programming Interface. It can be separated into multiple API sections / topics.  Eac. Access to Wordpress’ API
+WordPress is open source software you can use to create a beautiful website, blog, or app.
 
 ##  🔗 Links
 **Docs / Website**: https://codex.wordpress.org/WordPress_APIs
@@ -14,6 +14,7 @@ Languages: English • Русский • API 日本語 (Add your language) The 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Development](https://github.com/apis-list/apis-list#development)
 - [Social](https://github.com/apis-list/apis-list#social)
 
 

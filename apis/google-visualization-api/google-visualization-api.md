@@ -3,7 +3,7 @@
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-visualization-api/logo_256x256.png" alt="Google Visualization API Logo"/>
 </p>
 
-* A. Gadgets are no longer the best way to include visualizations on your web page.  This page lists the objects exposed by the Google Visualization API, and the standard methods exposed by all visualizations.  Note: The Google Visualization API namespace is google. visualization
+This page lists the objects exposed by the Google Visualization API, and the standard methods exposed by all visualizations. 
 
 ##  🔗 Links
 **Docs / Website**: https://developers.google.com/chart/interactive/docs/reference

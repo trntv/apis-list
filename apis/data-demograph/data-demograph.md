@@ -14,10 +14,7 @@ Enrich your contact lists with intelligent demographics. Add gender age, income,
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Big Data](https://github.com/apis-list/apis-list#big-data)
 - [CRM](https://github.com/apis-list/apis-list#crm)
-- [Development](https://github.com/apis-list/apis-list#development)
-- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
 - [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data)
 
 

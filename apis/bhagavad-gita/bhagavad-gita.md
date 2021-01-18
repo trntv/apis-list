@@ -17,7 +17,6 @@ Bhagwat Geeta in Hindi and English. Read Bhagavad Gita online in a simple, beaut
 
 ## 🗄️ Categories:
 - [Books](https://github.com/apis-list/apis-list#books)
-- [Religion](https://github.com/apis-list/apis-list#religion)
 
 
 

@@ -18,7 +18,6 @@ Largest source of music and video metadata on the planet. Gracenote is the leade
 ## 🗄️ Categories:
 - [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 - [Music & Audio](https://github.com/apis-list/apis-list#music--audio)
-- [Reference](https://github.com/apis-list/apis-list#reference)
 - [Video & Media](https://github.com/apis-list/apis-list#video--media)
 
 

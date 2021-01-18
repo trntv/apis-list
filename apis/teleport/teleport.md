@@ -16,7 +16,7 @@ Welcome to Teleport for Developers! Largest and most up-to-date quality of life 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Environment](https://github.com/apis-list/apis-list#environment)
+- [Environment & Nature](https://github.com/apis-list/apis-list#environment--nature)
 - [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 - [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
 - [Video & Media](https://github.com/apis-list/apis-list#video--media)

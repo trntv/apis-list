@@ -16,7 +16,7 @@ SEPTA API New - June 5 2015 - Apps for Philly Transportation Hackathon SEPTA and
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Transportation](https://github.com/apis-list/apis-list#transportation)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation)
 
 
 

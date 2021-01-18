@@ -15,7 +15,7 @@ Todo Lists
 
 ## 🗄️ Categories:
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
-- [Tasks](https://github.com/apis-list/apis-list#tasks)
+- [Project Management](https://github.com/apis-list/apis-list#project-management)
 
 
 

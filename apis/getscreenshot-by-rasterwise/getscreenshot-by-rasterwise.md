@@ -19,7 +19,7 @@ This RESTful API can be accessed by any standard/popular client with HTTP capabi
 
 ## 🗄️ Categories:
 - [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
-- [Webhooks](https://github.com/apis-list/apis-list#webhooks)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
 
 
 

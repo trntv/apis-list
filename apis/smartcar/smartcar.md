@@ -18,8 +18,7 @@ Build web and mobile apps that communicate with vehicles
 ## 🗄️ Categories:
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
-- [Transportation](https://github.com/apis-list/apis-list#transportation)
-- [Vehicle](https://github.com/apis-list/apis-list#vehicle)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation)
 
 
 

@@ -18,7 +18,7 @@ Crime, school and transportation data for US cities.
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 - [Real Estate](https://github.com/apis-list/apis-list#real-estate)
 - [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data)
-- [Transportation](https://github.com/apis-list/apis-list#transportation)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation)
 
 
 

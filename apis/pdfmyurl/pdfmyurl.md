@@ -16,9 +16,8 @@ Easily Convert URLs / Webpages or HTML to PDF in any Programming Language or on 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Conversions](https://github.com/apis-list/apis-list#conversions)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
-- [Office](https://github.com/apis-list/apis-list#office)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 - [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
 
 

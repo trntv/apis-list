@@ -1,7 +1,7 @@
 # What Anime
 
 
-
+trace.moe is a test-of-concept prototype search engine that helps users trace back the original anime by screenshot.
 
 ##  🔗 Links
 **Docs / Website**: https://soruly.github.io/trace.moe/
@@ -14,7 +14,7 @@
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
+- [Comics & Anime](https://github.com/apis-list/apis-list#comics--anime)
 
 
 

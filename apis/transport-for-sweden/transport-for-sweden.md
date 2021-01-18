@@ -14,7 +14,7 @@ Ankomst- och avgångsprognoserom bussar, tunnelbana, pendeltåg, lokalbana och b
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Transportation](https://github.com/apis-list/apis-list#transportation)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation)
 
 
 

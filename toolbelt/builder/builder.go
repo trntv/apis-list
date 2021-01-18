@@ -24,7 +24,9 @@ func Render(l list.APIs, dir string) error {
 			return strings.ToLower(s)
 		},
 		"short": func(s string) string {
-			return FirstSentence(s)
+			s = FirstSentence(s)
+			s = strings.ReplaceAll(s, "\n", ". ")
+			return strings.TrimSpace(s)
 		},
 		"sort": func(s []string) []string {
 			sort.Strings(s)

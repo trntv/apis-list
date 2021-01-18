@@ -14,8 +14,8 @@ Discover Amadeus travel APIs and connect to the flight search, flight booking, h
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Transportation](https://github.com/apis-list/apis-list#transportation)
 - [Travel](https://github.com/apis-list/apis-list#travel)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation)
 
 
 

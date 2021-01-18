@@ -17,7 +17,7 @@ and much much more
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Environment](https://github.com/apis-list/apis-list#environment)
+- [Environment & Nature](https://github.com/apis-list/apis-list#environment--nature)
 - [Government](https://github.com/apis-list/apis-list#government)
 - [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
 

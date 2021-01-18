@@ -16,7 +16,6 @@ Newspaper Directory to find information about American newspapers published betw
 ## 🗄️ Categories:
 - [History](https://github.com/apis-list/apis-list#history)
 - [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
-- [Reference](https://github.com/apis-list/apis-list#reference)
 
 
 

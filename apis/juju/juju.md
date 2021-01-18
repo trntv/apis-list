@@ -1,7 +1,7 @@
 # Juju
 
 
- partnerid Your assigned Publisher ID. partnerid Your assigned Publisher ID. This is given to you when signing up. Required ipaddress The IP Address of the end-user Required useragent The User-Agent of the end-user Required k The query
+Juju.com is a job search engine, not a job board. Juju's comprehensive search results link to millions of jobs found on thousands employer career portals, recruiter websites, job boards, and other employment sites all over the Internet, rather than to a limited set of job postings hosted directly on our own site.
 
 ##  🔗 Links
 **Docs / Website**: http://www.juju.com/publisher/spec/

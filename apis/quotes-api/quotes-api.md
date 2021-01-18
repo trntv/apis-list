@@ -14,7 +14,7 @@ They Said So. Quotes API with lot of features
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Quotes](https://github.com/apis-list/apis-list#quotes)
+- [Fun](https://github.com/apis-list/apis-list#fun)
 
 
 

@@ -3,7 +3,7 @@
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cronofy/logo_256x256.png" alt="Cronofy Logo"/>
 </p>
 
-Our Scheduler lets you share your availability with contacts no matter what application you use. Cronofy provides a single API for Apple, Exchange, Google, Office 365, and Outlook. com calendars for real-time scheduling.  Enterprise-ready scheduling tools, UI Elements and APIs
+Scheduler lets you share your availability with contacts no matter what application you use. Cronofy provides a single API for Apple, Exchange, Google, Office 365, and Outlook.com calendars for real-time scheduling. Enterprise-ready scheduling tools, UI Elements and APIs
 
 ##  🔗 Links
 **Docs / Website**: https://www.cronofy.com
@@ -18,9 +18,6 @@ Our Scheduler lets you share your availability with contacts no matter what appl
 ## 🗄️ Categories:
 - [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
-- [Events](https://github.com/apis-list/apis-list#events)
-- [Integration](https://github.com/apis-list/apis-list#integration)
-- [Webhooks](https://github.com/apis-list/apis-list#webhooks)
 
 
 

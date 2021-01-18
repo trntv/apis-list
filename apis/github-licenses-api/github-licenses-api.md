@@ -14,7 +14,7 @@ The Licenses API returns metadata about popular open source licenses and informa
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Open Licenses](https://github.com/apis-list/apis-list#open-licenses)
+- [Development](https://github.com/apis-list/apis-list#development)
 
 
 

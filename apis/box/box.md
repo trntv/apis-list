@@ -22,10 +22,7 @@ the Box Developer Console
 ## 🗄️ Categories:
 - [Business](https://github.com/apis-list/apis-list#business)
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
-- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
-- [Content Management](https://github.com/apis-list/apis-list#content-management)
 - [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
-- [Security](https://github.com/apis-list/apis-list#security)
 
 
 

@@ -1,7 +1,7 @@
 # REST Countries
 
 
-Get information about countries via a RESTful API. Get information about countries via a RESTful API
+Get information about countries via a RESTful API.
 
 ##  🔗 Links
 **Docs / Website**: https://restcountries.eu
@@ -15,7 +15,6 @@ Get information about countries via a RESTful API. Get information about countri
 
 ## 🗄️ Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
-- [Reference](https://github.com/apis-list/apis-list#reference)
 - [Worldwide](https://github.com/apis-list/apis-list#worldwide)
 
 

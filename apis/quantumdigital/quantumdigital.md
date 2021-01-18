@@ -3,7 +3,7 @@
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/quantumdigital/logo_256x256.png" alt="Quantumdigital Logo"/>
 </p>
 
- QuantumDigital’s APIs make navigating the USPS, securing national consumer and business lists, uploading your own designs or lists, and shipping small order marketing materials a breeze
+QuantumDigital’s APIs make navigating the USPS, securing national consumer and business lists, uploading your own designs or lists, and shipping small order marketing materials a breeze
 
 ##  🔗 Links
 **Docs / Website**: https://developer.quantumdigital.com

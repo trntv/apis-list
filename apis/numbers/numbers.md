@@ -14,8 +14,8 @@ An API for interesting facts about numbers. An API for interesting facts about n
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Fun](https://github.com/apis-list/apis-list#fun)
 - [Random](https://github.com/apis-list/apis-list#random)
-- [Reference](https://github.com/apis-list/apis-list#reference)
 - [Science & Math](https://github.com/apis-list/apis-list#science--math)
 
 

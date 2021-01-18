@@ -14,8 +14,8 @@ General knowledge on every topic; query it all with natural language input. Easi
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Reference](https://github.com/apis-list/apis-list#reference)
 - [Search](https://github.com/apis-list/apis-list#search)
+- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data)
 - [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
 
 

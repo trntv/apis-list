@@ -14,7 +14,7 @@ system_capacit. format Yes Type: string Default: None Options: json, xml The out
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Environment](https://github.com/apis-list/apis-list#environment)
+- [Environment & Nature](https://github.com/apis-list/apis-list#environment--nature)
 
 
 

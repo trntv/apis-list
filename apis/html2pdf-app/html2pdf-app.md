@@ -1,14 +1,12 @@
 # Html2pdf.App
 
 
-Free Html to Pdf online generator
-
-Most realistic, high quality html to pdf api service!
-
+Free Html to Pdf online generator.
+Most realistic, high quality and easy to use html to pdf api conversion service for developers!
 Free API - no payments
-No need your own server
-Maintainable and improving service
-Easy to use.  Most realistic, high quality and easy to use html to pdf api conversion service for developers
+No need your own server.
+Maintainable and improving service.
+Easy to use.
 
 ##  🔗 Links
 **Docs / Website**: https://html2pdf.app/

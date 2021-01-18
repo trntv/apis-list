@@ -17,8 +17,6 @@ Powerful cryptocurrency rates JSON API delivering real-time crypto exchange rate
 
 ## 🗄️ Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
-- [Conversions](https://github.com/apis-list/apis-list#conversions)
-- [Currency](https://github.com/apis-list/apis-list#currency)
 
 
 

@@ -3,7 +3,7 @@
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/aftership/logo_256x256.png" alt="AfterShip Logo"/>
 </p>
 
-If you don'. Provides multi-carrier shipment tracking APIs. Overview How to get your API Key? Before you started with using our REST API services, you will need to obtain your API key under your own user account.  Login to your AfterShip account
+Provides multi-carrier shipment tracking APIs.
 
 ##  🔗 Links
 **Docs / Website**: https://www.aftership.com/docs/api/4/overview
@@ -17,7 +17,7 @@ If you don'. Provides multi-carrier shipment tracking APIs. Overview How to get 
 
 ## 🗄️ Categories:
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Transportation](https://github.com/apis-list/apis-list#transportation)
+- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics)
 
 
 

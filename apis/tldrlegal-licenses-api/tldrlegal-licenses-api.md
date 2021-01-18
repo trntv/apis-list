@@ -1,7 +1,8 @@
 # TLDRLegal Licenses API
 
 
-[ { "__v": 7, "_id": "52931b330856dee25d000009", "creator": "528c0b975dc5e1e131000006", "featured": "2014-01-26T09:05:58. 899Z", "manager": { "_id": "528c0b975dc5e1e131000006", "username": "kevin",
+Software Licenses in Plain English. Lookup popular software licenses summarized at-a-glance.
+
 
 ##  🔗 Links
 **Docs / Website**: https://tldrlegal.com/api/license
@@ -14,7 +15,7 @@
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Open Licenses](https://github.com/apis-list/apis-list#open-licenses)
+- [Development](https://github.com/apis-list/apis-list#development)
 
 
 

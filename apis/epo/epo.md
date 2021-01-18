@@ -15,7 +15,7 @@
 
 ## 🗄️ Categories:
 - [Government](https://github.com/apis-list/apis-list#government)
-- [Patents](https://github.com/apis-list/apis-list#patents)
+- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data)
 
 
 

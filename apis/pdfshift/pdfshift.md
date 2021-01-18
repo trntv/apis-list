@@ -17,9 +17,8 @@ The service is focused to help developers set up the conversion quickly and focu
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Conversions](https://github.com/apis-list/apis-list#conversions)
-- [Development](https://github.com/apis-list/apis-list#development)
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
 
 
 

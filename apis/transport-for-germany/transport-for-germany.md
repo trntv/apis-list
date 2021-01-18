@@ -14,7 +14,7 @@ Diese API stellt Fahrplandaten, im ersten Schritt den SOLL-Fahrplan des Fernverk
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Transportation](https://github.com/apis-list/apis-list#transportation)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation)
 
 
 

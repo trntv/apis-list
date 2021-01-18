@@ -16,8 +16,8 @@ A data platform for customers to create, manage, share and query data.
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Big Data](https://github.com/apis-list/apis-list#big-data)
 - [Databases](https://github.com/apis-list/apis-list#databases)
+- [Development](https://github.com/apis-list/apis-list#development)
 
 
 

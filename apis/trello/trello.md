@@ -1,7 +1,7 @@
 # Trello
 
 
-You are being redirected.  You are being redirected
+Trello is a web-based, Kanban-style, list-making application
 
 ##  🔗 Links
 **Docs / Website**: https://developers.trello.com/
@@ -14,10 +14,9 @@ You are being redirected.  You are being redirected
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Business](https://github.com/apis-list/apis-list#business)
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
 - [Project Management](https://github.com/apis-list/apis-list#project-management)
-- [Tasks](https://github.com/apis-list/apis-list#tasks)
 
 
 

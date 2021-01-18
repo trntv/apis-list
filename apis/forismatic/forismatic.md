@@ -15,7 +15,7 @@ Gives you a random quote per click.
 
 ## 🗄️ Categories:
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
-- [Quotes](https://github.com/apis-list/apis-list#quotes)
+- [Fun](https://github.com/apis-list/apis-list#fun)
 - [Random](https://github.com/apis-list/apis-list#random)
 
 
