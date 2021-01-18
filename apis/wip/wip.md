@@ -16,8 +16,8 @@ Open API for the maker community. We are a community of makers who help each oth
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development)
-- [Products](https://github.com/apis-list/apis-list#products)
+- [Commerce](https://github.com/apis-list/apis-list#commerce)
+- [Social](https://github.com/apis-list/apis-list#social)
 
 
 

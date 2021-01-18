@@ -17,7 +17,7 @@ Enables easy integration of Google natural language understanding technologies i
 
 ## 🗄️ Categories:
 - [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
+- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools)
 
 
 

@@ -3,7 +3,7 @@
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/smmry/logo_256x256.png" alt="SMMRY Logo"/>
 </p>
 
-Summarize articles, text, websites, essays and documents for free with SMMRY. Summarize articles, text, websites, essays and PDF documents online for free with SMMRY
+Summarize articles, text, websites, essays and documents online for free with SMMRY.
 
 ##  🔗 Links
 **Docs / Website**: https://smmry.com/api
@@ -16,9 +16,7 @@ Summarize articles, text, websites, essays and documents for free with SMMRY. Su
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Text](https://github.com/apis-list/apis-list#text)
-- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
-- [Tools](https://github.com/apis-list/apis-list#tools)
+- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools)
 
 
 

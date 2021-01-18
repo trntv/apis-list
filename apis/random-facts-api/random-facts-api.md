@@ -16,7 +16,6 @@ Get random Facts on different topics
 ## 🗄️ Categories:
 - [Fun](https://github.com/apis-list/apis-list#fun)
 - [Random](https://github.com/apis-list/apis-list#random)
-- [Trivia](https://github.com/apis-list/apis-list#trivia)
 
 
 

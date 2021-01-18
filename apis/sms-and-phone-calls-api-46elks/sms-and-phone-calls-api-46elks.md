@@ -16,7 +16,7 @@ Integrate SMS, MMS and Phone calls into your applications with just a few lines 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Communications](https://github.com/apis-list/apis-list#communications)
+- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging)
 - [Email & SMS](https://github.com/apis-list/apis-list#email--sms)
 - [Voice](https://github.com/apis-list/apis-list#voice)
 

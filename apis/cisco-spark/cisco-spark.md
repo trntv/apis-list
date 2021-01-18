@@ -17,7 +17,7 @@ Build the future of business collaboration with Webex! Learn more about the Webe
 
 ## 🗄️ Categories:
 - [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging)
-- [Communications](https://github.com/apis-list/apis-list#communications)
+- [Collaboration](https://github.com/apis-list/apis-list#collaboration)
 - [Social](https://github.com/apis-list/apis-list#social)
 - [Video & Media](https://github.com/apis-list/apis-list#video--media)
 

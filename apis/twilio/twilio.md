@@ -3,7 +3,7 @@
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/twilio/logo_256x256.png" alt="Twilio Logo"/>
 </p>
 
-APIs for SMS, Voice, Video and more
+APIs for SMS, Voice, Video and more. With Twilio, unite communications and strengthen customer relationships across your business from marketing and sales to customer service and operations
 
 ##  🔗 Links
 **Docs / Website**: https://www.twilio.com/solutions
@@ -16,7 +16,6 @@ APIs for SMS, Voice, Video and more
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Communications](https://github.com/apis-list/apis-list#communications)
 - [Email & SMS](https://github.com/apis-list/apis-list#email--sms)
 - [Voice](https://github.com/apis-list/apis-list#voice)
 

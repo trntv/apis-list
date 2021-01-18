@@ -14,7 +14,7 @@ Easy-to-use URL shortener.  Supports custom short link ending.  API documentatio
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [URL Shortening](https://github.com/apis-list/apis-list#url-shortening)
+- [URLs](https://github.com/apis-list/apis-list#urls)
 
 
 

@@ -14,7 +14,7 @@ API Documentation tinyuid. com exposes its data via an Application Programming I
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [URL Shortening](https://github.com/apis-list/apis-list#url-shortening)
+- [URLs](https://github.com/apis-list/apis-list#urls)
 
 
 

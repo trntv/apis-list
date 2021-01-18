@@ -6,7 +6,7 @@
 Let’s you detect the information of a given photo (face location, age, race, gender etc.)
 
 ##  🔗 Links
-**Docs / Website**: 
+**Docs / Website**: http://www.faceplusplus.com
 
 ## 🧬 Specification:
 **Type**: N/A  
@@ -16,10 +16,9 @@ Let’s you detect the information of a given photo (face location, age, race, g
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 - [Recognition](https://github.com/apis-list/apis-list#recognition)
 - [Security](https://github.com/apis-list/apis-list#security)
-- [Social](https://github.com/apis-list/apis-list#social)
-- [Tools](https://github.com/apis-list/apis-list#tools)
 
 
 

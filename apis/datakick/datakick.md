@@ -1,7 +1,7 @@
 # Datakick
 
 
-The open product database.  The page you were looking for doesn't exist
+The open product database.
 
 ##  🔗 Links
 **Docs / Website**: https://www.datakick.org/api
@@ -15,7 +15,7 @@ The open product database.  The page you were looking for doesn't exist
 
 ## 🗄️ Categories:
 - [Bar & QR Codes](https://github.com/apis-list/apis-list#bar--qr-codes)
-- [Products](https://github.com/apis-list/apis-list#products)
+- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data)
 
 
 

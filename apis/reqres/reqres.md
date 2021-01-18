@@ -17,7 +17,6 @@ A hosted REST-API ready to respond to AJAX requests
 - [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management)
 - [Development](https://github.com/apis-list/apis-list#development)
 - [Testing](https://github.com/apis-list/apis-list#testing)
-- [Tools](https://github.com/apis-list/apis-list#tools)
 
 
 

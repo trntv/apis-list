@@ -19,7 +19,7 @@ Processing (NLP) Service including sentiment analysis, content extraction, and l
 - [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
 - [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
 - [Search](https://github.com/apis-list/apis-list#search)
-- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
+- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools)
 
 
 

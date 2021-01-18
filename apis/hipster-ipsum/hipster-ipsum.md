@@ -16,8 +16,8 @@ Generates Hipster Ipsum text
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Random](https://github.com/apis-list/apis-list#random)
 - [Testing](https://github.com/apis-list/apis-list#testing)
-- [Text](https://github.com/apis-list/apis-list#text)
 
 
 

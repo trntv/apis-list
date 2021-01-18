@@ -15,7 +15,7 @@ Provide text, raw HTML, or a public URL and IBM Watson Natural Language Understa
 
 ## 🗄️ Categories:
 - [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
+- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools)
 
 
 

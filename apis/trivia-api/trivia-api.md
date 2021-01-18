@@ -14,7 +14,7 @@
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Trivia](https://github.com/apis-list/apis-list#trivia)
+- [Games](https://github.com/apis-list/apis-list#games)
 
 
 

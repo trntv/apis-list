@@ -1,7 +1,7 @@
 # Elasticpath
 
 
-Provides the full commerce solution to bring your unique, revenue-driving experiences to life, fast.  It's called Composable Commerce-as-a-Service
+Provides the full commerce solution to bring your unique, revenue-driving experiences to life, fast. It's called Composable Commerce-as-a-Service
 
 ##  🔗 Links
 **Docs / Website**: https://developers.elasticpath.com/
@@ -19,7 +19,6 @@ Provides the full commerce solution to bring your unique, revenue-driving experi
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
 - [Payments](https://github.com/apis-list/apis-list#payments)
-- [Products](https://github.com/apis-list/apis-list#products)
 
 
 

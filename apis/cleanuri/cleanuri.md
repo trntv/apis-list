@@ -14,7 +14,7 @@ API Documentation cleanuri. com exposes its data via an Application Programming 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [URL Shortening](https://github.com/apis-list/apis-list#url-shortening)
+- [URLs](https://github.com/apis-list/apis-list#urls)
 
 
 

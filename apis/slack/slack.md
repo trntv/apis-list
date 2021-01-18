@@ -16,11 +16,10 @@ Slack APIs allow you to integrate complex services with Slack to go beyond the i
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
+- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging)
 - [Collaboration](https://github.com/apis-list/apis-list#collaboration)
-- [Files & Storage](https://github.com/apis-list/apis-list#files--storage)
-- [Search](https://github.com/apis-list/apis-list#search)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity)
 - [Social](https://github.com/apis-list/apis-list#social)
-- [Tools](https://github.com/apis-list/apis-list#tools)
 
 
 

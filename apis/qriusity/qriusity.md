@@ -14,10 +14,7 @@
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Education](https://github.com/apis-list/apis-list#education)
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Games](https://github.com/apis-list/apis-list#games)
-- [Trivia](https://github.com/apis-list/apis-list#trivia)
 
 
 

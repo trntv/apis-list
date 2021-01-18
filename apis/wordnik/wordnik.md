@@ -17,7 +17,7 @@ The Wordnik API Docs. Dictionary functions
 
 ## 🗄️ Categories:
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
-- [Text](https://github.com/apis-list/apis-list#text)
+- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools)
 
 
 

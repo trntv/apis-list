@@ -18,7 +18,6 @@ Database contains a mixture of barcode types from the standard UPC numbering sys
 ## 🗄️ Categories:
 - [Bar & QR Codes](https://github.com/apis-list/apis-list#bar--qr-codes)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Products](https://github.com/apis-list/apis-list#products)
 
 
 

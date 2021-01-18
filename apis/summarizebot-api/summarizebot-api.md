@@ -19,7 +19,7 @@ Multilingual summarization, keywords and sentiment analysis, language recognitio
 - [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 - [News & Feeds](https://github.com/apis-list/apis-list#news--feeds)
 - [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining)
-- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
+- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools)
 
 
 

@@ -1,7 +1,7 @@
 # Telleroo
 
 
-com" API Sandbox: "https://sandbox. com" Welcome to Telleroo API documentation! You can use this API for sending payments out through bank. Send money through Telleroo's API to any third party bank account.  Introduction API Production: "https://api. telleroo
+Instant Bulk Payments for your Finance Team. Finance teams use Telleroo’s Bulk Payments Service and APIs to make multiple bank payments to employees, suppliers, customers and partners
 
 ##  🔗 Links
 **Docs / Website**: https://docs.telleroo.com/
@@ -14,8 +14,7 @@ com" API Sandbox: "https://sandbox. com" Welcome to Telleroo API documentation! 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Automation](https://github.com/apis-list/apis-list#automation)
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
+- [Business](https://github.com/apis-list/apis-list#business)
 - [Payments](https://github.com/apis-list/apis-list#payments)
 
 

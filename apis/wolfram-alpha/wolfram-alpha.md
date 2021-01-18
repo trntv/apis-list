@@ -16,7 +16,7 @@ General knowledge on every topic; query it all with natural language input. Easi
 ## 🗄️ Categories:
 - [Search](https://github.com/apis-list/apis-list#search)
 - [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data)
-- [Text Analysis](https://github.com/apis-list/apis-list#text-analysis)
+- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools)
 
 
 

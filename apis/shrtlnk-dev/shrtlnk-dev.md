@@ -14,7 +14,7 @@ Add an application You can have as many applications as you would like, we don't
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [URL Shortening](https://github.com/apis-list/apis-list#url-shortening)
+- [URLs](https://github.com/apis-list/apis-list#urls)
 
 
 
