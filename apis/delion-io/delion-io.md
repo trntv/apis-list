@@ -17,7 +17,6 @@ A powerful API for developers and companies to explore and develop new apps base
 
 ## 🗄️ Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
-- [Development](https://github.com/apis-list/apis-list#development)
 
 
 

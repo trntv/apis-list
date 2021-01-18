@@ -1,7 +1,21 @@
 # Traitify
 
 
-Traitify API documentation and developer portal. Traitify API documentation and developer portal
+A diverse set of fun visual assessments used to uncover personality types and traits. Your users simply select "Me" or "Not Me" to a brief series of images and voila! Instant, actionable data.
+
+With this psychology-backed data in hand, the possibilities are endless - any way that personalization can help you is now within reach. Potential uses include:
+- Applicant Fit Score
+- Personalized Job Recommendations
+- Personalized Interview Questions
+- Personality Conflicts / Complements
+- Communication Styles
+- Ideal Work Environments
+- Workplace Performance Predictions
+- Career Growth Hacks
+- Leadership Styles
+- Team Building 
+- Suggestions
+
 
 ##  🔗 Links
 **Docs / Website**: https://app.traitify.com/developer
@@ -15,10 +29,7 @@ Traitify API documentation and developer portal. Traitify API documentation and 
 
 ## 🗄️ Categories:
 - [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
-- [Development](https://github.com/apis-list/apis-list#development)
-- [Health](https://github.com/apis-list/apis-list#health)
-- [Personality](https://github.com/apis-list/apis-list#personality)
-- [Testing](https://github.com/apis-list/apis-list#testing)
+- [Jobs](https://github.com/apis-list/apis-list#jobs)
 
 
 

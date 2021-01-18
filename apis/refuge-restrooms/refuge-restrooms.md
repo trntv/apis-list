@@ -14,8 +14,8 @@ Refuge Restrooms
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Community](https://github.com/apis-list/apis-list#community)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
+- [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest)
 
 
 

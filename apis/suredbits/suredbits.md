@@ -1,7 +1,7 @@
 # SuredBits
 
 
-Lightning API for real-time and historical data feeds. Lightning API for real-time and historical data feeds
+This API allows you to query our NFL, NBA and Crypto Exchange data. NFL and NBA APIs offer multiple channels including teams, players, games, scores, and statistics. Crypto Exchange API allows you to stream data on Trades, Tickers and Order Books.
 
 ##  🔗 Links
 **Docs / Website**: https://suredbits.com/api/
@@ -14,7 +14,6 @@ Lightning API for real-time and historical data feeds. Lightning API for real-ti
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Analytics](https://github.com/apis-list/apis-list#analytics)
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness)
 

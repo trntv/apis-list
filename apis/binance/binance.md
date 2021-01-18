@@ -17,7 +17,6 @@ Official Documentation for the Binance Spot APIs and Streams - binance/binance-s
 
 ## 🗄️ Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
 
 
 

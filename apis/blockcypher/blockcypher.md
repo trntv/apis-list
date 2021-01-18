@@ -15,7 +15,6 @@ Build blockchain applications easily with our web APIs and callbacks. High throu
 
 ## 🗄️ Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
 
 
 

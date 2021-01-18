@@ -19,7 +19,6 @@ Authentication, analytics, cloud messaging, crash reporting, ads and more
 - [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management)
 - [Databases](https://github.com/apis-list/apis-list#databases)
 - [Development](https://github.com/apis-list/apis-list#development)
-- [Mobile](https://github.com/apis-list/apis-list#mobile)
 - [Security](https://github.com/apis-list/apis-list#security)
 
 

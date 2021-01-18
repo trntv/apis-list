@@ -1,7 +1,7 @@
 # Marketcloud
 
 
-It covers inventory and database, carts and checkout, payments, user authentication, and more.  You just bring the frontend. eCommerce APIs for developers
+It covers inventory and database, carts and checkout, payments, user authentication, and more. You just bring the frontend. eCommerce APIs for developers
 
 ##  🔗 Links
 **Docs / Website**: https://www.marketcloud.it
@@ -14,9 +14,9 @@ It covers inventory and database, carts and checkout, payments, user authenticat
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Cloud](https://github.com/apis-list/apis-list#cloud)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
 - [Development](https://github.com/apis-list/apis-list#development)
+- [Payments](https://github.com/apis-list/apis-list#payments)
 
 
 

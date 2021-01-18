@@ -16,10 +16,7 @@ Parameters callback string To define your own callback function name and return 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment)
 - [Fun](https://github.com/apis-list/apis-list#fun)
-- [Health](https://github.com/apis-list/apis-list#health)
-- [Personality](https://github.com/apis-list/apis-list#personality)
 
 
 

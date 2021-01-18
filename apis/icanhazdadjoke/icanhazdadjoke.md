@@ -3,7 +3,7 @@
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/icanhazdadjoke/logo_256x256.png" alt="icanhazdadjoke Logo"/>
 </p>
 
-The largest collection of dad jokes on the internet. The largest collection of dad jokes on the internet
+The largest collection of dad jokes on the internet.
 
 ##  🔗 Links
 **Docs / Website**: https://icanhazdadjoke.com/api
@@ -17,8 +17,6 @@ The largest collection of dad jokes on the internet. The largest collection of d
 
 ## 🗄️ Categories:
 - [Fun](https://github.com/apis-list/apis-list#fun)
-- [Health](https://github.com/apis-list/apis-list#health)
-- [Personality](https://github.com/apis-list/apis-list#personality)
 
 
 

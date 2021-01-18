@@ -6,7 +6,7 @@
 Gather and compare all kinds of interesting data, they weren't really interactive with Gowalla itself
 
 ##  🔗 Links
-**Docs / Website**: 
+**Docs / Website**: https://go.gowalla.com/
 
 ## 🧬 Specification:
 **Type**: N/A  
@@ -17,7 +17,6 @@ Gather and compare all kinds of interesting data, they weren't really interactiv
 
 ## 🗄️ Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
-- [Mobile](https://github.com/apis-list/apis-list#mobile)
 - [Social](https://github.com/apis-list/apis-list#social)
 
 

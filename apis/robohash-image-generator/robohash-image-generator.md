@@ -17,7 +17,7 @@ Generates cool looking robot image for any text
 
 ## 🗄️ Categories:
 - [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
-- [Robots](https://github.com/apis-list/apis-list#robots)
+- [Random](https://github.com/apis-list/apis-list#random)
 - [Social](https://github.com/apis-list/apis-list#social)
 
 

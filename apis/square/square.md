@@ -3,7 +3,7 @@
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/square/logo_256x256.png" alt="Square Logo"/>
 </p>
 
-Square provides support and tools for you to build apps for today’s business needs. . Build customized solutions that accept payments (online, in-person, or in-app), manage products and customers, and handle the day-to-day operations that keep business running. Square APIs are powerful, secure, reliable, and free to use.  Use our Developer APIs to build on the platform that sellers trust
+Square provides support and tools for you to build apps for today’s business needs. Build customized solutions that accept payments (online, in-person, or in-app), manage products and customers and handle the day-to-day operations that keep business running. Square APIs are powerful, secure, reliable, and free to use.  Use Developer APIs to build on the platform that sellers trust
 
 ##  🔗 Links
 **Docs / Website**: https://developer.squareup.com/us/en
@@ -18,8 +18,6 @@ Square provides support and tools for you to build apps for today’s business n
 ## 🗄️ Categories:
 - [Business](https://github.com/apis-list/apis-list#business)
 - [Commerce](https://github.com/apis-list/apis-list#commerce)
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
-- [Mobile](https://github.com/apis-list/apis-list#mobile)
 - [Payments](https://github.com/apis-list/apis-list#payments)
 
 

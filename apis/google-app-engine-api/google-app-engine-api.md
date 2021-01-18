@@ -16,9 +16,7 @@ Build scalable web and mobile backends in any language on Google’s infrastruct
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Cloud](https://github.com/apis-list/apis-list#cloud)
 - [Development](https://github.com/apis-list/apis-list#development)
-- [Tools](https://github.com/apis-list/apis-list#tools)
 
 
 

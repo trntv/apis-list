@@ -16,7 +16,6 @@ APIs for SMS, Voice, Video and more
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Cloud](https://github.com/apis-list/apis-list#cloud)
 - [Communications](https://github.com/apis-list/apis-list#communications)
 - [Email & SMS](https://github.com/apis-list/apis-list#email--sms)
 - [Voice](https://github.com/apis-list/apis-list#voice)

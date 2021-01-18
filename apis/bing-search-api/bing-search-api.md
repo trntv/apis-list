@@ -14,7 +14,6 @@ Add intelligent search to your app, combing hundreds of billions of webpages, im
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Cloud](https://github.com/apis-list/apis-list#cloud)
 - [Search](https://github.com/apis-list/apis-list#search)
 
 

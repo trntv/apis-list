@@ -15,6 +15,7 @@ Helps developers build, grow and monetize their business. Code to connect people
 
 ## 🗄️ Categories:
 - [Social](https://github.com/apis-list/apis-list#social)
+- [Virtual & Augmented Reality](https://github.com/apis-list/apis-list#virtual--augmented-reality)
 
 
 

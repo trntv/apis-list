@@ -16,10 +16,8 @@ Gives you access to our world-class places database and the ability to interact 
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography)
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo)
-- [Mobile](https://github.com/apis-list/apis-list#mobile)
-- [Search](https://github.com/apis-list/apis-list#search)
+- [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest)
 - [Social](https://github.com/apis-list/apis-list#social)
 
 

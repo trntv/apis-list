@@ -15,7 +15,6 @@ Supports intraday, daily, weekly, and monthly quotes and technical analysis with
 
 ## 🗄️ Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies)
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics)
 
 
 

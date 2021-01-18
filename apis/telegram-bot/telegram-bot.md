@@ -18,9 +18,6 @@ To learn how to create…
 - [AI & ML](https://github.com/apis-list/apis-list#ai--ml)
 - [Bots](https://github.com/apis-list/apis-list#bots)
 - [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging)
-- [Cloud](https://github.com/apis-list/apis-list#cloud)
-- [Mobile](https://github.com/apis-list/apis-list#mobile)
-- [Social](https://github.com/apis-list/apis-list#social)
 
 
 

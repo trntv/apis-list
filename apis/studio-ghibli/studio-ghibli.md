@@ -14,9 +14,8 @@ Resources from Studio Ghibli films
 [Create discussion](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗄️ Categories:
-- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries)
+- [Comics & Anime](https://github.com/apis-list/apis-list#comics--anime)
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment)
-- [Japanese](https://github.com/apis-list/apis-list#japanese)
 
 
 
