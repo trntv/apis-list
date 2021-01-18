@@ -53,9 +53,9 @@ func Render(l list.APIs, dir string) error {
 		categoriesIndex[k] = slug(k)
 	}
 	err = templates.Lookup(readmeTmplName).Execute(readmeFile, map[string]interface{}{
-		"categoriesIndex": categoriesIndex,
-		"apis":            l.ByCategory(),
-		"graveyard":       l.Graveyard(),
+		"CategoriesIndex": categoriesIndex,
+		"APIs":            l.ByCategory(),
+		"Graveyard":       l.Graveyard(),
 	})
 	if err != nil {
 		return err
@@ -75,8 +75,9 @@ func Render(l list.APIs, dir string) error {
 		defer apiFile.Close()
 
 		err = templates.Lookup(apiTmplName).ExecuteTemplate(apiFile, apiTmplName, map[string]interface{}{
-			"api":       a,
-			"libraries": a.Libraries.ByPlatform(),
+			"API":        a,
+			"Libraries":  a.Libraries.ByPlatform(),
+			"EditorLink": fmt.Sprintf("https://github.com/apis-list/apis-list/edit/main/apis.yaml#L%d", a.Line),
 		})
 		if err != nil {
 			return err

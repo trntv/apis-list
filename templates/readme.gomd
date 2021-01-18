@@ -15,7 +15,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 
 ## Table of Context
 - Categories:
-{{- range $category, $slug := .categoriesIndex }}
+{{- range $category, $slug := .CategoriesIndex }}
     - [{{ $category }}](#{{ $slug }}-) {{ $category | category_icon -}}
 {{ end }}
 - [Graveyard](#graveyard) 🪦
@@ -23,7 +23,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Similar projects](#similar-projects)
 
 ## APIs
-{{ range $category, $apis := .apis }}
+{{ range $category, $apis := .APIs }}
 {{- $length := len $apis }} {{ if gt $length 0 -}}
 ### {{ $category }} {{ $category | category_icon }}
 {{ range $apis -}}
@@ -35,7 +35,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 {{ end }}
 
 ## Graveyard 🪦
-{{ range .graveyard -}}
+{{ range .Graveyard -}}
 - [{{ .Name }}](https://github.com/apis-list/apis-list/blob/main/apis/{{.Slug}}/{{.Slug}}.md) - {{ .Description | short }}
 {{ end }}
 

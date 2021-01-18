@@ -1,39 +1,39 @@
-# {{ .api.Name }}
-{{ if .api.Logo -}}
+# {{ .API.Name }}
+{{ if .API.Logo -}}
 <p align="center">
-    <img width="256" src="{{ .api.Logo }}" alt="{{ .api.Name }} Logo"/>
+    <img width="256" src="{{ .API.Logo }}" alt="{{ .API.Name }} Logo"/>
 </p>
 {{- end }}
-{{ .api.Description }}
+{{ .API.Description }}
 
 ##  🔗 Links
-{{ range .api.Links -}}
+{{ range .API.Links -}}
 **{{ .Name }}**: {{ .Url }}
 {{- else }}
-No links added. [Add link ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#{{ .api.Line }})  
+No links added. [Add link ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L{{ .API.Line }})  
 {{- end }}
 
-## 🧬 {{ .api.Name }} Specification:
-**Type**: {{ if  .api.Specification.Type }}{{ .api.Specification.Type }}{{ else }}N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#{{ .api.Line }}){{ end }}  
-**URI**: {{ if  .api.Specification.Url }}{{ .api.Specification.Url }}{{ else }}N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#{{ .api.Line }}){{ end }}  
-**Version**: {{ if  .api.Specification.Version }}{{ .api.Specification.Version }}{{ else }}N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#{{ .api.Line }}){{ end }}
+## 🧬 {{ .API.Name }} Specification:
+**Type**: {{ if  .API.Specification.Type }}{{ .API.Specification.Type }}{{ else }}N/A - [Add ➕]({{ .EditorLink }}){{ end }}  
+**URI**: {{ if  .API.Specification.Url }}{{ .API.Specification.Url }}{{ else }}N/A - [Add ➕]({{ .EditorLink }}){{ end }}  
+**Version**: {{ if  .API.Specification.Version }}{{ .API.Specification.Version }}{{ else }}N/A - [Add ➕]({{ .EditorLink }}){{ end }}
 
-## 💬 {{ .api.Name }} Discussion:
-{{ if .api.DiscussionURL -}}[Discuss {{ .api.Name }}](.api.DiscussionURL){{else}}Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new){{ end }}
+## 💬 {{ .API.Name }} Discussion:
+{{ if .API.DiscussionURL -}}[Discuss {{ .API.Name }}](.API.DiscussionURL){{else}}Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new){{ end }}
 
 ## 🗂️ Libraries
-{{ range $platform, $libraries := .libraries -}}
+{{ range $platform, $libraries := .Libraries -}}
 ### {{ $platform }}
 {{ range $libraries  -}}
 - {{ .Name }}: [Documentation]({{ .DocumentationURL }}){{ if .SourceCodeURL }}, [Source code]({{ .SourceCodeURL }}){{ end }}
 {{ if .Description }}  {{.Description}}{{ end -}}
 {{- end }}
 {{- else }}
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#{{ .api.Line }})    
+No libraries added. [Add library ➕]({{ .EditorLink }})    
 {{ end }}
 
 ## 🗄️ Categories:
-{{ range .api.Categories | sort -}}
+{{ range .API.Categories | sort -}}
 - [{{ . }}](https://github.com/apis-list/apis-list#{{ . | slug }}-)
 {{- end }}
 
