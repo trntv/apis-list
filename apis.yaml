@@ -124,7 +124,7 @@
   slug: ai-mastering
   categories:
     - Music & Audio
-  description: AI Mastering API provides automated audio mastering service. You can upload your audio, master it, and download the mastered audio.  AI Mastering - API Document
+  description: AI Mastering API provides automated audio mastering service. You can upload your audio, master it, and download the mastered audio.
   is_free: false
   type: REST
   is_active: true
@@ -140,7 +140,7 @@
   slug: ais-hub
   categories:
     - Vehicle & Transportation
-  description: AISHub members have access to AISHub aggregated AIS data via our API and receive real time data in XML, JSON or CSV format. AISHub members have access to AISHub aggregated AIS data via our API and receive real time data in XML, JSON or CSV format
+  description: AISHub members have access to AISHub aggregated AIS data via this API and receive real time data in XML, JSON or CSV format.
   is_free: false
   type: REST
   is_active: true
@@ -229,22 +229,6 @@
   links:
     - name: Docs / Website
       url: https://www.apixu.com/doc/request.aspx
-- name: APIs.guru
-  slug: apis-guru
-  categories:
-    - Development
-  description: Our goal is to create a machine-readable Wikipedia for WEB APIs.  If you have an API spec in any format (OpenAPI, Swagger, RAML, WADL, API Blueprint etc) for any public API, please, feel free to open an issue. Our goal is to create a machine-readable Wikipedia for WEB APIs
-  is_free: false
-  type: REST
-  contact: founders@apis.guru
-  is_active: true
-  specification:
-    type: swagger
-    url: https://api.apis.guru/v2/swagger.json
-    version: https://api.apis.guru/v2/swagger.json
-  links:
-    - name: Docs / Website
-      url: https://apis.guru/api-doc/
 - name: AYLIEN
   slug: aylien
   categories:
@@ -478,7 +462,7 @@
   categories:
     - Finance & Economics
     - Payments
-  description: Never worry about maintaining API documentation again. AFEX API is designed for businesses that want to make frequent payments.  By accessing our Payment Engine via our API, it allows customers to automate their end-to-end payment processes and rapidly deliver tailor-made solutions for our customers’ business directly. Payments are sent through AFEX’s intermediary banks, payment channels and are bound by applicable laws, regulations, clearing house rules or payment processing procedures.  The Postman Documenter generates and maintains beautiful, live documentation for your collections
+  description: Send payments to recipients all over the world 24/7 with secure and flexible online platform
   is_free: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/afex/logo_256x256.png
   is_active: true
@@ -3128,7 +3112,7 @@
   slug: city-bikes
   categories:
     - Sport & Fitness
-  description: citybik. es/v2/networks { "networks":. CityBikes API Documentation Welcome to the CityBikes API documentation page. This is a brief explanation on how to use CityBikes data. API End points http://api
+  description: Project that provides bike sharing data for apps, research and projects to use.
   is_free: false
   type: REST
   is_active: true
@@ -3597,7 +3581,7 @@
     - IoT & Home Automation
     - Voice
     - AI & ML
-  description: 'Text To Speech API - CloudPronouncer (tts online or tts reader) is a cross browsers REST API supporting now  255  Standard and Premium Voices in 42  languages including variants (the list is growing in time) and it may be used by any device that can connect to Internet and send the POST requests to our API as instructed in this website: smartphones, tablets, laptops, PC Desktops, other smart devices. It uses cloud infrastructure and artificial intelligence to solve the requests.'
+  description: 'Text To Speech API. CloudPronouncer (tts online or tts reader) is a cross browsers REST API supporting 255  Standard and Premium Voices in 42 languages including variants (the list is growing in time) and it may be used by any device that can connect to Internet and send the POST requests to our API as instructed in this website: smartphones, tablets, laptops, PC Desktops, other smart devices. It uses cloud infrastructure and artificial intelligence to solve the requests.'
   is_free: false
   is_active: true
   links:
@@ -7330,13 +7314,13 @@
 - name: Furniture Store Data Api
   slug: furniture-store-data-api
   categories:
-    - Search
-  description: "You will learn how to provide any type of data via api in seconds.  The great thing in this api is that it very simple to use and edit. The updated version of the API is also available at <a href='https://getrit. com</a>. The API is developed on C# and json. [{\"ID\":\"1\",\"TITLE\":\"Scott\",\"Publishe_Date\":\"2/2/2\",\"Modified_Date\":\"3/3/3\",\"Image_Url\":\"noimage\",\"TEXT\":\"about the topic\"}]. com'>getrit. 0 and above\nFunctionality: Can let your user get data based on keyset and its value set by specifying any TokenKey and value on which basis the API request can be validated. \nPrerequisites: Visual Studio 4. The API is designed on a demo base for a furniture store repository which provides furniture store data against a token and name of the furniture store"
+    - Business
+  description: The aim is to provide every bit of information which is felt required for a user to know about a furniture store
   is_free: false
   is_active: true
   links:
     - name: Docs / Website
-      url: https://getrit.com/API/Token
+      url: https://getrit.com
 - name: GBIF
   slug: gbif
   categories:
@@ -10727,7 +10711,7 @@
     - Jobs
     - Search
   description: The REST API allows developers to access and integrate Jooble's search results within your web products, or to build an entirely new web product of your own.
-  is_free: true
+  is_free: false
   type: REST
   is_active: true
   links:
@@ -13362,7 +13346,7 @@
   slug: newton
   categories:
     - Science & Math
-  description: ' newton A really micro micro-service for advanced math. newton A really micro micro-service for advanced math.  Send this: https://newton. now. sh/api/v2/factor/x^2-1Get this: { "operation":"factor", "expression":"x^2 - 1", "result":"(x - 1) (x + 1)" } See'
+  description: A really micro micro-service for advanced math
   is_free: false
   type: REST
   is_active: true
@@ -15480,7 +15464,7 @@
   categories:
     - Post & Logistics
     - Maps & Geo
-  description: '{"status":"ok","details":[{"street":"Stationsstraat","city":"Hilversum","municipality":"Hilversum","province":"Noord-Holland","postcode":"1211 EP","pnum":"1211","pchar":"EP","rd_x":"140707. {"status":"ok","details":[{"street":"Stationsstraat","city":"Hilversum","municipality":"Hilversum","province":"Noord-Holland","postcode":"1211 EP","pnum":"1211","pchar":"EP","rd_x":"140707. 47566666'
+  description: Netherland's post codes search
   is_free: false
   type: REST
   is_active: true
@@ -16359,7 +16343,7 @@
   slug: randomcat
   categories:
     - Animals
-  description: dream. io\/i\/048_-_x0vwSRZ. objects-us-east-1.  {"file":"https:\/\/purr. gif"}. jpg"}. png"}. io\/i\/4ZLom. io\/i\/044_-_VgyedAM. io\/i\/BFnfE. {"file":"https:\/\/purr. io\/i\/3445pimgpsh_thumbnail_win_distr
+  description: Random cat image API
   is_free: false
   type: REST
   is_active: true
@@ -16370,10 +16354,9 @@
   slug: randomdog
   categories:
     - Animals
-    - Entertainment
-    - Images & Photography
-    - Video & Media
-  description: '{"fileSizeBytes":62176,"url":"https://random. {"fileSizeBytes":130039,"url":"https://random. JPG"}. dog/315ee1d5-57b1-4899-beac-8cd96327f285. dog/6c1408d5-ec04-45a8-9556-f053ead4764e. dog/ac50a358-04a1-4c20-bf69-62caa63895d0. jpg"}. dog/25b868be-63d4-4b59-a695-2a7719a4dcb6. dog/175c551f-d957-4be4-a15b-79dc3f0323fe.  {"fileSizeBytes":52852,"url":"https://random.  {"fileSizeBytes":134468,"url":"https://random. {"fileSizeBytes":234258,"url":"https://random'
+    - Fun
+    - Random
+  description: Random dog image API
   is_free: false
   type: REST
   is_active: true
@@ -16408,7 +16391,7 @@
   slug: razorpay-ifsc
   categories:
     - Finance & Economics
-  description: '{ "BANK": "HDFC BANK", "IFSC": "HDFC0CAGSBK", "BRANCH": "THE AGS EMPLOYEES'' CO-OP BANK LTD", "ADDRESS": "PARK HOUSE ROAD, BANGALORE 560001", "CONTACT": "2265658", "CITY": "BANGALORE", "DISTRICT": "'
+  description: An API to query IFSC codes
   is_free: false
   type: REST
   is_active: true
@@ -17008,8 +16991,8 @@
 - name: SHOUTCLOUD
   slug: shoutcloud
   categories:
-    - Development
-  description: 'ALL CAPS AS A SERVICE curl -X POST \ -d ''{"INPUT": "hello world"}'' \ -H ''Content-Type: application/json'' \ HTTP://API. ALL CAPS AS A SERVICE curl -X POST \ -d ''{"INPUT": "hello world"}'' \ -H ''Content-Type: application/json'' \ HTTP://API. SHOUTCLOUD. IO/V1/SHOUT { "INPUT":"hello world", "OUTPUT":"HELLO WORLD" }'
+    - Fun
+  description: ALL CAPS AS A SERVICE
   is_free: false
   type: REST
   is_active: true
@@ -17387,7 +17370,7 @@
   slug: sentim-api
   categories:
     - AI & ML
-  description: 'herokuapp. com/api/v1/ with headers of Accept: "application/json", "Content-Type": "application/json" and body { "text": "Y. HOW TO USE Just send a POST request to /api/v1/ That is https://sentim-api'
+  description: A free API for sentiment analysis
   is_free: false
   type: REST
   is_active: true
@@ -17398,10 +17381,14 @@
   slug: setlist-fm
   categories:
     - Music & Audio
-  description: Home You may also enjoy the interactive interface provided for this API by Swagger. Try it out! path methods description  /1. 0/artist/{mbid}/setlists        /1. 0/setlist/version/{versionId}. The setlist. fm API has been designed to give you easy access to setlist data in order to build fancy websites and other applications
+  description: setlist.fm is a free wiki-like service to collect and share setlists. The setlist.fm API has been designed to give you easy access to setlist data in order to build fancy websites and other applications
   is_free: false
   type: REST
   is_active: true
+  specification:
+    type: swagger
+    url: https://api.setlist.fm/docs/1.0/ui/swagger.json
+    version: https://api.setlist.fm/docs/1.0/ui/swagger.json
   links:
     - name: Docs / Website
       url: https://api.setlist.fm/docs/1.0/index.html
@@ -21976,8 +21963,8 @@
 - name: Whisky Hunter
   slug: whisky-hunter
   categories:
-    - Other
-  description: '{"_type":"document","_meta":{"url":"https://whiskyhunter. net/api/","title":"WhiskyHunter API"},"auction_data":{"read":{"_type":"link","url":"/api/auction_data/{slug}/","action":"get","description":. Results from Past Whisky Online Auctions'
+    - Food & Drinks
+  description: Explore lots from the past online whisky auctions. Whisky Hunter have collected the results from whisky auction sites into a single up-to-date database.
   is_free: false
   is_active: true
   links:

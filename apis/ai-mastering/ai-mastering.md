@@ -1,6 +1,6 @@
 # AI Mastering
 
-AI Mastering API provides automated audio mastering service. You can upload your audio, master it, and download the mastered audio.  AI Mastering - API Document
+AI Mastering API provides automated audio mastering service. You can upload your audio, master it, and download the mastered audio.
 
 ##  🔗 Links
 **Docs / Website**: https://aimastering.com/api_docs/

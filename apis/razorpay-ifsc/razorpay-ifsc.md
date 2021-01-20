@@ -1,21 +1,21 @@
 # Razorpay IFSC
 
-{ "BANK": "HDFC BANK", "IFSC": "HDFC0CAGSBK", "BRANCH": "THE AGS EMPLOYEES' CO-OP BANK LTD", "ADDRESS": "PARK HOUSE ROAD, BANGALORE 560001", "CONTACT": "2265658", "CITY": "BANGALORE", "DISTRICT": "
+An API to query IFSC codes
 
 ##  🔗 Links
 **Docs / Website**: https://ifsc.razorpay.com/
 
 ## 🧬 Razorpay IFSC Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16407)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16407)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16407)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16390)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16390)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16390)
 
 ## 💬 Razorpay IFSC Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16407)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16390)    
 
 
 ## 🗄️ Categories:
