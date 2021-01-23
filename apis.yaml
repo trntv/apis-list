@@ -331,7 +331,7 @@
     - Development
     - Art & Design
     - Collaboration
-  description: Used by 10,000+ developers worldwide. . Suite of utility API's (validate emails, create user avatars, calculate VAT, and more). Abstract provides powerful APIs to help you enrich any user experience or automate any workflow
+  description: 'Suite of utility API''s (validate emails, create user avatars, calculate VAT, and more). Abstract provides powerful APIs to help you enrich any user experience or automate any workflow. '
   is_free: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/abstract/logo_256x256.png
   type: REST
@@ -1370,7 +1370,7 @@
   slug: big-ml
   categories:
     - AI & ML
-  description: This page helps you quickly create your first source, dataset, model, and prediction using the BigML API. BigML is user-friendly and developer-friendly Machine learning API that mainly concentrates on decision trees
+  description: BigML removes the complexities of Machine Learning so you can focus on what matters most, enhancing and automating decision making. BigML is user-friendly and developer-friendly Machine learning API that mainly concentrates on decision trees
   is_free: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/big-ml/logo_256x256.png
   type: REST
@@ -1393,7 +1393,7 @@
   slug: binance
   categories:
     - Blockchain & Cryptocurrencies
-  description: Official Documentation for the Binance Spot APIs and Streams - binance/binance-spot-api-docs. Official Documentation for the Binance Spot APIs and Streams - binance/binance-spot-api-docs
+  description: 'Binance cryptocurrency exchange official API '
   is_free: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/binance/logo_256x256.png
   type: REST
@@ -3831,6 +3831,7 @@
     - Blockchain & Cryptocurrencies
   description: Introduction Power your projects with the high quality cryptocurrency data coinranking.com provides.  They provides data about coins, exchanges, markets & more
   is_free: false
+  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/coinranking/logo.png
   type: REST
   is_active: true
   links:
@@ -9087,7 +9088,7 @@
     - Social
     - Video & Media
     - Art & Design
-  description: Overview The Gyazo API can be used in a wide array of apps to upload new images, show a Gyazo userâ€™s images, and more.  It provides a RESTful API for HTTP requests and returns a response in JSON. Overview The Gyazo API can be used in a wide array of apps to upload new images, show a Gyazo userâ€™s images, and more
+  description: 'Take screenshots, GIFS, and replays that are ready to share. The Gyazo API can be used in a wide array of apps to upload new images, show a Gyazo users images, and more.  '
   is_free: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/gyazo/logo_256x256.png
   type: REST
@@ -12636,7 +12637,7 @@
   slug: movebank
   categories:
     - Animals
-  description: Description of download interface to build calls to the Movebank database using HTTP/CSV or JSON/JavaScript requests - movebank/movebank-api-doc. Description of download interface to build calls to the Movebank database using HTTP/CSV or JSON/JavaScript requests - movebank/movebank-api-doc
+  description: ' Movebank is a free, online database and research platform for animal tracking and other on-animal sensor data'
   is_free: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/movebank/logo_256x256.png
   type: REST
@@ -17281,10 +17282,8 @@
 - name: Scribble
   slug: scribble
   categories:
-    - Bookmarks
-    - URLs
     - Maps & Geo
-  description: For large organizations we can also assist in building you a custom Scribble. The Scribble Maps API is a cross browser, mobile ready, HTML5/JavaScript, interactive map builder.  Scribble Maps for Developers Scribble Maps can help you quickly integrate geo data/functionality into your application
+  description: This service is an easy way to draw and share maps. The Scribble Maps API is a cross browser, mobile ready, HTML5/JavaScript, interactive map builder. It can help you quickly integrate geo data/functionality into your application
   is_free: false
   type: REST
   is_active: true

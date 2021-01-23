@@ -14,7 +14,7 @@ If you want to add/edit/remove/etc APIs from this list, please see the [contribu
 Discuss any topic related to the specific API you can [here](https://github.com/apis-list/apis-list/discussions/categories/apis)
 
 ## Table of Context
-- Categories:
+- [APIs](#apis):
     - [AI & ML](#ai--ml-) 🤖
     - [Adult](#adult-) 🍓
     - [Analytics](#analytics-) 📈
@@ -101,7 +101,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Amazon MI API](https://github.com/apis-list/apis-list/blob/main/apis/amazon-mi-api/amazon-mi-api.md) - Amazon Machine Learning API simplifies the process of making predictions that require lots of expertise around model building, data cleansing and statistical analysis
 - [AudD](https://github.com/apis-list/apis-list/blob/main/apis/audd/audd.md) - AudD Music Recognition API Docs: how to identify songs in audio using our API
 - [Aylien Text Analysis](https://github.com/apis-list/apis-list/blob/main/apis/aylien-text-analysis/aylien-text-analysis.md) - Explore AYLIEN’s advanced NLP APIs
-- [Big ML](https://github.com/apis-list/apis-list/blob/main/apis/big-ml/big-ml.md) - This page helps you quickly create your first source, dataset, model, and prediction using the BigML API
+- [Big ML](https://github.com/apis-list/apis-list/blob/main/apis/big-ml/big-ml.md) - BigML removes the complexities of Machine Learning so you can focus on what matters most, enhancing and automating decision making
 - [Blogcast](https://github.com/apis-list/apis-list/blob/main/apis/blogcast/blogcast.md) - Generate audio versions of your articles
 - [Clarifai](https://github.com/apis-list/apis-list/blob/main/apis/clarifai/clarifai.md) - Whether you have one input or billions, you are only steps away from using AI to power your business applications
 - [Clearbit Logo](https://github.com/apis-list/apis-list/blob/main/apis/clearbit-logo/clearbit-logo.md) - If you’re only interested in a Company’s logo, and don’t need any other data about the company, you can use our Logo API
@@ -202,7 +202,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Dogs](https://github.com/apis-list/apis-list/blob/main/apis/dogs/dogs.md) - Over 20,000 images of dogs programmaticaly accessible by over 120 breeds
 - [HTTPCat](https://github.com/apis-list/apis-list/blob/main/apis/httpcat/httpcat.md) - API for HTTP Cats
 - [IUCN](https://github.com/apis-list/apis-list/blob/main/apis/iucn/iucn.md) - The use of this API is strictly under the Terms of Use of the IUCN Red List of Threatened Species
-- [Movebank](https://github.com/apis-list/apis-list/blob/main/apis/movebank/movebank.md) - Description of download interface to build calls to the Movebank database using HTTP/CSV or JSON/JavaScript requests - movebank/movebank-api-doc
+- [Movebank](https://github.com/apis-list/apis-list/blob/main/apis/movebank/movebank.md) - Movebank is a free, online database and research platform for animal tracking and other on-animal sensor data
 - [Petfinder](https://github.com/apis-list/apis-list/blob/main/apis/petfinder/petfinder.md) - Learn how to use our API to build your own website or applications backed by the same data we use on Petfinder
 - [PlaceKitten](https://github.com/apis-list/apis-list/blob/main/apis/placekitten/placekitten.md) - A quick and simple service for getting pictures of kittens for use as placeholders in your designs or code
 - [RandomCat](https://github.com/apis-list/apis-list/blob/main/apis/randomcat/randomcat.md) - Random cat image API
@@ -217,7 +217,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 
  ### Art & Design 🎨
 - [@Font-Face Generation Api](https://github.com/apis-list/apis-list/blob/main/apis/atfont-face-generation-api/atfont-face-generation-api.md) - Generate font-face using REST API
-- [Abstract](https://github.com/apis-list/apis-list/blob/main/apis/abstract/abstract.md) - Used by 10,000+ developers worldwide
+- [Abstract](https://github.com/apis-list/apis-list/blob/main/apis/abstract/abstract.md) - Suite of utility API's (validate emails, create user avatars, calculate VAT, and more)
 - [Behance](https://github.com/apis-list/apis-list/blob/main/apis/behance/behance.md) - Behance is the world's largest creative network for showcasing and discovering creative work
 - [Cooper Hewitt](https://github.com/apis-list/apis-list/blob/main/apis/cooper-hewitt/cooper-hewitt.md) - Cooper Hewitt, Smithsonian Design Museum Collections provides a REST-ish style application programming interface (API) for developers to use in their products and services
 - [DeviantArt](https://github.com/apis-list/apis-list/blob/main/apis/deviantart/deviantart.md) - The largest social networking website for artists and art enthusiasts
@@ -227,7 +227,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Font Subsetting Api](https://github.com/apis-list/apis-list/blob/main/apis/font-subsetting-api/font-subsetting-api.md) - Font subsetting REST API
 - [Getty Images](https://github.com/apis-list/apis-list/blob/main/apis/getty-images/getty-images.md) - Page moved here
 - [Gfycat](https://github.com/apis-list/apis-list/blob/main/apis/gfycat/gfycat.md) - Gfycat’s API - collection of GIFs
-- [Gyazo](https://github.com/apis-list/apis-list/blob/main/apis/gyazo/gyazo.md) - Overview The Gyazo API can be used in a wide array of apps to upload new images, show a Gyazo userâ€™s images, and more
+- [Gyazo](https://github.com/apis-list/apis-list/blob/main/apis/gyazo/gyazo.md) - Take screenshots, GIFS, and replays that are ready to share
 - [Harvard Art Museums](https://github.com/apis-list/apis-list/blob/main/apis/harvard-art-museums/harvard-art-museums.md) - The Harvard Art Museums API is a REST-style service designed for developers who wish to explore and integrate the museums’ collections in their projects
 - [Iconfinder](https://github.com/apis-list/apis-list/blob/main/apis/iconfinder/iconfinder.md) - The Iconfinder API is a HTTP JSON API and allows you to programatically access resources on the service, such as icons, icon sets, categories, styles, authors, etc
 - [Icons8](https://github.com/apis-list/apis-list/blob/main/apis/icons8/icons8.md) - Icons8 offers simple reliable solutions to cope with all sorts of the challenges concerning icons
@@ -276,7 +276,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 
  ### Blockchain & Cryptocurrencies 📒️
 - [Alpha Vantage](https://github.com/apis-list/apis-list/blob/main/apis/alpha-vantage/alpha-vantage.md) - Supports intraday, daily, weekly, and monthly quotes and technical analysis with chart-ready time series
-- [Binance](https://github.com/apis-list/apis-list/blob/main/apis/binance/binance.md) - Official Documentation for the Binance Spot APIs and Streams - binance/binance-spot-api-docs
+- [Binance](https://github.com/apis-list/apis-list/blob/main/apis/binance/binance.md) - Binance cryptocurrency exchange official API
 - [Bitcoin](https://github.com/apis-list/apis-list/blob/main/apis/bitcoin/bitcoin.md) - Bitcoin is an innovative payment network and a new kind of money
 - [BitcoinAverage](https://github.com/apis-list/apis-list/blob/main/apis/bitcoinaverage/bitcoinaverage.md) - The world's best and longest running Cryptocurrency price API provider
 - [Bitcoincharts](https://github.com/apis-list/apis-list/blob/main/apis/bitcoincharts/bitcoincharts.md) - You can use this API to include markets data in your websites, mobile apps or desktop applets
@@ -327,7 +327,6 @@ Discuss any topic related to the specific API you can [here](https://github.com/
  ### Bookmarks 📑
 - [Openwhyd](https://github.com/apis-list/apis-list/blob/main/apis/openwhyd/openwhyd.md) - 💎 Like Pinterest, for Music
 - [Pocket](https://github.com/apis-list/apis-list/blob/main/apis/pocket/pocket.md) - When you find something you want to view later, put it in Pocket
-- [Scribble](https://github.com/apis-list/apis-list/blob/main/apis/scribble/scribble.md) - For large organizations we can also assist in building you a custom Scribble
 
  ### Books 📚
 - [Bhagavad Gita](https://github.com/apis-list/apis-list/blob/main/apis/bhagavad-gita/bhagavad-gita.md) - Bhagwat Geeta in Hindi and English
@@ -448,7 +447,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Yo Developers API](https://github.com/apis-list/apis-list/blob/main/apis/yo-developers-api/yo-developers-api.md) - Yo API Documentation
 
  ### Collaboration 👨‍👩‍👦‍👦
-- [Abstract](https://github.com/apis-list/apis-list/blob/main/apis/abstract/abstract.md) - Used by 10,000+ developers worldwide
+- [Abstract](https://github.com/apis-list/apis-list/blob/main/apis/abstract/abstract.md) - Suite of utility API's (validate emails, create user avatars, calculate VAT, and more)
 - [Apileap](https://github.com/apis-list/apis-list/blob/main/apis/apileap/apileap.md) - Make screenshots from web pages and HTML
 - [Basecamp API](https://github.com/apis-list/apis-list/blob/main/apis/basecamp-api/basecamp-api.md) - A web based system for managing collaborative projects
 - [Box](https://github.com/apis-list/apis-list/blob/main/apis/box/box.md) - Explore the Box APIs and SDKs to use for app development,
@@ -456,7 +455,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Clust](https://github.com/apis-list/apis-list/blob/main/apis/clust/clust.md) - The best way to gather anyone’s documents, directly from your app & without hassle
 - [Codeship](https://github.com/apis-list/apis-list/blob/main/apis/codeship/codeship.md) - Hosted API documentation for every OAS (Swagger) and RAML spec out there
 - [GitLab](https://github.com/apis-list/apis-list/blob/main/apis/gitlab/gitlab.md) - Access to GitLab's API
-- [Gyazo](https://github.com/apis-list/apis-list/blob/main/apis/gyazo/gyazo.md) - Overview The Gyazo API can be used in a wide array of apps to upload new images, show a Gyazo userâ€™s images, and more
+- [Gyazo](https://github.com/apis-list/apis-list/blob/main/apis/gyazo/gyazo.md) - Take screenshots, GIFS, and replays that are ready to share
 - [Let'S Validate](https://github.com/apis-list/apis-list/blob/main/apis/lets-validate/lets-validate.md) - Uncovers the technologies used on websites and URL to thumbnail
 - [Microlink](https://github.com/apis-list/apis-list/blob/main/apis/microlink/microlink.md) - Generate PDF from any website
 - [Microsoft Graph](https://github.com/apis-list/apis-list/blob/main/apis/microsoft-graph/microsoft-graph.md) - Find out how you can use the Microsoft Graph API to connect to the data that drives productivity - mail, calendar, contacts, documents, directory, devices, and more
@@ -566,7 +565,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [24 Pull Requests](https://github.com/apis-list/apis-list/blob/main/apis/24-pull-requests/24-pull-requests.md) - 24 Pull Requests is a yearly initiative to encourage contributors around the world to send 24 pull requests between December 1st and December 24th
 - [API Platform](https://github.com/apis-list/apis-list/blob/main/apis/api-platform/api-platform.md) - REST and GraphQL framework on top of Symfony and React
 - [API2Cart](https://github.com/apis-list/apis-list/blob/main/apis/api2cart/api2cart.md) - Connect your B2B eCommerce solution with 40+ shopping platforms and marketplaces at once
-- [Abstract](https://github.com/apis-list/apis-list/blob/main/apis/abstract/abstract.md) - Used by 10,000+ developers worldwide
+- [Abstract](https://github.com/apis-list/apis-list/blob/main/apis/abstract/abstract.md) - Suite of utility API's (validate emails, create user avatars, calculate VAT, and more)
 - [Agify.io](https://github.com/apis-list/apis-list/blob/main/apis/agify-io/agify-io.md) - Free API to check and predict the age of a name
 - [Apiary](https://github.com/apis-list/apis-list/blob/main/apis/apiary/apiary.md) - Apiary provides the leading API-First platform designed specifically to help companies accelerate and control the design, development, and documentation of APIs
 - [Apileap](https://github.com/apis-list/apis-list/blob/main/apis/apileap/apileap.md) - Make screenshots from web pages and HTML
@@ -1106,7 +1105,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Gracenote](https://github.com/apis-list/apis-list/blob/main/apis/gracenote/gracenote.md) - Largest source of music and video metadata on the planet
 - [Graphql360](https://github.com/apis-list/apis-list/blob/main/apis/graphql360/graphql360.md) - Create and consume 360 degree panoramic tours using a GraphQL API
 - [Gravatar](https://github.com/apis-list/apis-list/blob/main/apis/gravatar/gravatar.md) - Use the links below to find out more about constructing request URLs, different imp
-- [Gyazo](https://github.com/apis-list/apis-list/blob/main/apis/gyazo/gyazo.md) - Overview The Gyazo API can be used in a wide array of apps to upload new images, show a Gyazo userâ€™s images, and more
+- [Gyazo](https://github.com/apis-list/apis-list/blob/main/apis/gyazo/gyazo.md) - Take screenshots, GIFS, and replays that are ready to share
 - [Iconfinder](https://github.com/apis-list/apis-list/blob/main/apis/iconfinder/iconfinder.md) - The Iconfinder API is a HTTP JSON API and allows you to programatically access resources on the service, such as icons, icon sets, categories, styles, authors, etc
 - [Icons8](https://github.com/apis-list/apis-list/blob/main/apis/icons8/icons8.md) - Icons8 offers simple reliable solutions to cope with all sorts of the challenges concerning icons
 - [Imagga Api](https://github.com/apis-list/apis-list/blob/main/apis/imagga-api/imagga-api.md) - identifies the content of images and videos, classify images based on content, extracts colors, moderates NSFW content
@@ -1250,7 +1249,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Postmon](https://github.com/apis-list/apis-list/blob/main/apis/postmon/postmon.md) - API to query zip codes and orders in an easy, fast and free way
 - [REFUGE Restrooms](https://github.com/apis-list/apis-list/blob/main/apis/refuge-restrooms/refuge-restrooms.md) - Refuge Restrooms
 - [REST Countries](https://github.com/apis-list/apis-list/blob/main/apis/rest-countries/rest-countries.md) - Get information about countries via a RESTful API
-- [Scribble](https://github.com/apis-list/apis-list/blob/main/apis/scribble/scribble.md) - For large organizations we can also assist in building you a custom Scribble
+- [Scribble](https://github.com/apis-list/apis-list/blob/main/apis/scribble/scribble.md) - This service is an easy way to draw and share maps
 - [Shippo](https://github.com/apis-list/apis-list/blob/main/apis/shippo/shippo.md) - Find the best shipping rates, integrate with e-commerce platforms, print shipping labels, track package delivery, and verify addresses with either our shipping API or web app
 - [Skywatch](https://github.com/apis-list/apis-list/blob/main/apis/skywatch/skywatch.md) - Instead, EarthCache allows development teams to focus on the business application and in delivering actionable intelligence to the end-user
 - [Smartcar](https://github.com/apis-list/apis-list/blob/main/apis/smartcar/smartcar.md) - Build web and mobile apps that communicate with vehicles
@@ -1694,7 +1693,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [GoodReads](https://github.com/apis-list/apis-list/blob/main/apis/goodreads/goodreads.md) - The Goodreads API allows developers access to Goodreads data in order to help websites or applications that deal with books be more personalized, social
 - [Gravatar](https://github.com/apis-list/apis-list/blob/main/apis/gravatar/gravatar.md) - Use the links below to find out more about constructing request URLs, different imp
 - [Gumroad](https://github.com/apis-list/apis-list/blob/main/apis/gumroad/gumroad.md) - Gumroad helps creators do more of what they love by offering tools to get paid online, they have sent over $202M to artists, designers, educators, writers, influencers and more
-- [Gyazo](https://github.com/apis-list/apis-list/blob/main/apis/gyazo/gyazo.md) - Overview The Gyazo API can be used in a wide array of apps to upload new images, show a Gyazo userâ€™s images, and more
+- [Gyazo](https://github.com/apis-list/apis-list/blob/main/apis/gyazo/gyazo.md) - Take screenshots, GIFS, and replays that are ready to share
 - [Hacker News](https://github.com/apis-list/apis-list/blob/main/apis/hacker-news/hacker-news.md) - Documentation and Samples for the Official HN API
 - [Hacker News GraphQL](https://github.com/apis-list/apis-list/blob/main/apis/hacker-news-graphql/hacker-news-graphql.md) - Convenient HackerNews GraphQL wrapper API
 - [Imgur](https://github.com/apis-list/apis-list/blob/main/apis/imgur/imgur.md) - Imgur: The magic of the Internet
@@ -1876,7 +1875,6 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Microlink](https://github.com/apis-list/apis-list/blob/main/apis/microlink/microlink.md) - Generate PDF from any website
 - [Naver URL Shortener](https://github.com/apis-list/apis-list/blob/main/apis/naver-url-shortener/naver-url-shortener.md) - Access to Naver’s URL shortening API
 - [Rebrandly](https://github.com/apis-list/apis-list/blob/main/apis/rebrandly/rebrandly.md) - Copy-and-paste in your application/script to create a custom short URL:
-- [Scribble](https://github.com/apis-list/apis-list/blob/main/apis/scribble/scribble.md) - For large organizations we can also assist in building you a custom Scribble
 - [ShrtURI](https://github.com/apis-list/apis-list/blob/main/apis/shrturi/shrturi.md) - API Documentation This is version 3 of the shrturi
 - [Shrtco.De Api](https://github.com/apis-list/apis-list/blob/main/apis/shrtco-de-api/shrtco-de-api.md) - Secure and reliable Online Tools
 - [Shrtlnk.dev](https://github.com/apis-list/apis-list/blob/main/apis/shrtlnk-dev/shrtlnk-dev.md) - Add an application You can have as many applications as you would like, we don't like limits here
@@ -1996,7 +1994,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Getty Images](https://github.com/apis-list/apis-list/blob/main/apis/getty-images/getty-images.md) - Page moved here
 - [Gifs.Com Public API](https://github.com/apis-list/apis-list/blob/main/apis/gifs-com-public-api/gifs-com-public-api.md) - com API makes it dead simple to convert and transcode a vast array of media into our HTML5 optimized gifs
 - [Gracenote](https://github.com/apis-list/apis-list/blob/main/apis/gracenote/gracenote.md) - Largest source of music and video metadata on the planet
-- [Gyazo](https://github.com/apis-list/apis-list/blob/main/apis/gyazo/gyazo.md) - Overview The Gyazo API can be used in a wide array of apps to upload new images, show a Gyazo userâ€™s images, and more
+- [Gyazo](https://github.com/apis-list/apis-list/blob/main/apis/gyazo/gyazo.md) - Take screenshots, GIFS, and replays that are ready to share
 - [Harry Potter](https://github.com/apis-list/apis-list/blob/main/apis/harry-potter/harry-potter.md) - Harry Potter API Documentation Response Formats Authentication All Routes Sorting Hat Route Character Routes House Routes Spell Routes 🚧 Under Construction 🚧 Trans Lives Matter
 - [Harvard Art Museums](https://github.com/apis-list/apis-list/blob/main/apis/harvard-art-museums/harvard-art-museums.md) - The Harvard Art Museums API is a REST-style service designed for developers who wish to explore and integrate the museums’ collections in their projects
 - [Kaltura VPaaS](https://github.com/apis-list/apis-list/blob/main/apis/kaltura-vpaas/kaltura-vpaas.md) - Build video apps and add native video capabilities to your products

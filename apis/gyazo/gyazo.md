@@ -2,22 +2,22 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/gyazo/logo_256x256.png" alt="Gyazo Logo"/>
 </p>
-Overview The Gyazo API can be used in a wide array of apps to upload new images, show a Gyazo userâ€™s images, and more.  It provides a RESTful API for HTTP requests and returns a response in JSON. Overview The Gyazo API can be used in a wide array of apps to upload new images, show a Gyazo userâ€™s images, and more
+Take screenshots, GIFS, and replays that are ready to share. The Gyazo API can be used in a wide array of apps to upload new images, show a Gyazo users images, and more.  
 
 ##  🔗 Links
 **Docs / Website**: https://gyazo.com/api/docs
 
 ## 🧬 Gyazo Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9082)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9082)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9082)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9083)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9083)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9083)
 
 ## 💬 Gyazo Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9082)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9083)    
 
 
 ## 🗄️ Categories:

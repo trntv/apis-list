@@ -1,24 +1,24 @@
 # Scribble
 
-For large organizations we can also assist in building you a custom Scribble. The Scribble Maps API is a cross browser, mobile ready, HTML5/JavaScript, interactive map builder.  Scribble Maps for Developers Scribble Maps can help you quickly integrate geo data/functionality into your application
+This service is an easy way to draw and share maps. The Scribble Maps API is a cross browser, mobile ready, HTML5/JavaScript, interactive map builder. It can help you quickly integrate geo data/functionality into your application
 
 ##  🔗 Links
 **Docs / Website**: https://www.scribblemaps.com/api/
 
 ## 🧬 Scribble Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17281)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17281)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17281)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17282)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17282)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17282)
 
 ## 💬 Scribble Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17281)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17282)    
 
 
 ## 🗄️ Categories:
-- [Bookmarks](https://github.com/apis-list/apis-list#bookmarks-)- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)- [URLs](https://github.com/apis-list/apis-list#urls-)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

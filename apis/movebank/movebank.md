@@ -2,22 +2,22 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/movebank/logo_256x256.png" alt="Movebank Logo"/>
 </p>
-Description of download interface to build calls to the Movebank database using HTTP/CSV or JSON/JavaScript requests - movebank/movebank-api-doc. Description of download interface to build calls to the Movebank database using HTTP/CSV or JSON/JavaScript requests - movebank/movebank-api-doc
+ Movebank is a free, online database and research platform for animal tracking and other on-animal sensor data
 
 ##  🔗 Links
 **Docs / Website**: https://github.com/movebank/movebank-api-doc
 
 ## 🧬 Movebank Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12635)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12635)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12635)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12636)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12636)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12636)
 
 ## 💬 Movebank Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12635)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12636)    
 
 
 ## 🗄️ Categories:
