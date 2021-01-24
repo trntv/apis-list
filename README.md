@@ -1989,9 +1989,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 
  ### Video & Media 🎥
 - [Acoustid](https://github.com/apis-list/apis-list/blob/main/apis/acoustid/acoustid.md) - Web Service The AcoustID web service currently supports only two operations, searching in the fingerprint database and submitting new fingerprints into the database
-- [An API of Ice And Fire](https://github.com/apis-list/apis-list/blob/main/apis/An API of Ice And Fire.
-All the data from the universe of Ice And Fire you've ever wanted!/An API of Ice And Fire.
-All the data from the universe of Ice And Fire you've ever wanted!.md) - The API is open source
+- [An API of Ice And Fire](https://github.com/apis-list/apis-list/blob/main/apis/an-api-of-ice-and-fire/an-api-of-ice-and-fire.md) - The API is open source
 - [Braille Api](https://github.com/apis-list/apis-list/blob/main/apis/braille-api/braille-api.md) - It is traditionally written with embossed paper
 - [Breaking Bad & Better Call Saul API](https://github.com/apis-list/apis-list/blob/main/apis/breaking-bad-and-better-call-saul-api/breaking-bad-and-better-call-saul-api.md) - Get data about characters, episodes, quotes, and deaths
 - [Breaking Bad Quotes](https://github.com/apis-list/apis-list/blob/main/apis/breaking-bad-quotes/breaking-bad-quotes.md) - A free API to retrieve some quotes of Breaking Bad
