@@ -1,14 +1,14 @@
 # Yandex
 
-Maps and the necessary tools for working it on your web app or site. API for installing Yandex
+Maps and the necessary tools for working it on your web app or site
 
 ##  🔗 Links
 **Docs / Website**: https://tech.yandex.com/maps/
 
 ## 🧬 Yandex Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22640)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22640)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22640)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22530)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22530)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22530)
 
 ## 💬 Yandex Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
@@ -22,6 +22,6 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)- [Search](https://github.com/apis-list/apis-list#search-)- [Worldwide](https://github.com/apis-list/apis-list#worldwide-)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)- [Search](https://github.com/apis-list/apis-list#search-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

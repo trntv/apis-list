@@ -2,15 +2,15 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/livechat/logo_256x256.png" alt="LiveChat Logo"/>
 </p>
-Online Customer Service software with customizable chat, embeddable widgets, help desk and web analytics tools.  APIs include webhooks support, SDKs and open-source libraries to build on. Messaging APIs, chat widgets and other building blocks of remarkable customer service experience
+Online Customer Service software with customizable chat, embeddable widgets, help desk and web analytics tools. APIs include webhooks support, SDKs and open-source libraries to build on. Messaging APIs, chat widgets and other building blocks of remarkable customer service experience
 
 ##  🔗 Links
 **Docs / Website**: https://developers.livechatinc.com/
 
 ## 🧬 LiveChat Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11453)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11453)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11453)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11436)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11436)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11436)
 
 ## 💬 LiveChat Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

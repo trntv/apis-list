@@ -3,15 +3,15 @@
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ibm-watson/logo_256x256.png" alt="IBM Watson Logo"/>
 </p>
 Build and train models, and create apps, with a trusted AI-infused platform. Offers a variety of services for building cognitive apps.
-A really simple api that lets you convert text to speech. It’s 100% free for unlimited usage. 
+A really simple api that lets you convert text to speech. It’s 100% free for unlimited usage.
 
 ##  🔗 Links
 **Docs / Website**: https://developer.ibm.com/watson/
 
 ## 🧬 IBM Watson Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9611)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9611)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9611)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9608)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9608)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9608)
 
 ## 💬 IBM Watson Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

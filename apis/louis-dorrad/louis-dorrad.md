@@ -2,22 +2,22 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/louis-dorrad/logo_256x256.png" alt="Louis Dorrad Logo"/>
 </p>
-Google’s product is quite similar to Amazon’s but it’s actually. Amazon Machine Learning&nbsp;made a lot of noise when it came out&nbsp;last month.  Shortly afterwards, someone posted a link to Google Prediction API&nbsp;on HackerNews and it quickly became one of the most popular’s posts
+Google’s product is quite similar to Amazon’s but it’s actually. Amazon Machine Learning&nbsp;made a lot of noise when it came out&nbsp;last month. Shortly afterwards, someone posted a link to Google Prediction API&nbsp;on HackerNews and it quickly became one of the most popular’s posts
 
 ##  🔗 Links
 **Docs / Website**: http://www.louisdorard.com/blog/machine-learning-apis-comparison
 
 ## 🧬 Louis Dorrad Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11673)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11673)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11673)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11657)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11657)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11657)
 
 ## 💬 Louis Dorrad Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11673)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11657)    
 
 
 ## 🗄️ Categories:

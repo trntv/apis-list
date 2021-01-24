@@ -1,24 +1,24 @@
 # IUCN
 
-The use of this API is strictly under the Terms of Use of the IUCN Red List of Threatened Species. The use of this API is strictly under the Terms of Use of the IUCN Red List of Threatened Species.  It is advisable wherever possible to use the taxon name (species name) to make your API calls, rat
+List of more than 35,500 species that are threatened with extinction
 
 ##  🔗 Links
 **Docs / Website**: http://apiv3.iucnredlist.org/api/v3/docs
 
 ## 🧬 IUCN Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10003)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10003)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10003)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9999)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9999)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9999)
 
 ## 💬 IUCN Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10003)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9999)    
 
 
 ## 🗄️ Categories:
-- [Animals](https://github.com/apis-list/apis-list#animals-)
+- [Animals](https://github.com/apis-list/apis-list#animals-)- [Environment & Nature](https://github.com/apis-list/apis-list#environment--nature-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

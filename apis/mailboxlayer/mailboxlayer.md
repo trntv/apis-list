@@ -2,22 +2,22 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/mailboxlayer/logo_256x256.png" alt="mailboxlayer Logo"/>
 </p>
-Simple and powerful email verification JSON API using SMTP, typo checks, syntax validation, and free and disposable provider filtering. Simple and powerful email verification JSON API using SMTP, typo checks, syntax validation, and free and disposable provider filtering.  Free for personal use
+Simple and powerful email verification JSON API using SMTP, typo checks, syntax validation, and free and disposable provider filtering. Free for personal use.
 
 ##  🔗 Links
 **Docs / Website**: https://mailboxlayer.com
 
 ## 🧬 mailboxlayer Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23500)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23500)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23500)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23402)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23402)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23402)
 
 ## 💬 mailboxlayer Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23500)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23402)    
 
 
 ## 🗄️ Categories:

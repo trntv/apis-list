@@ -1,22 +1,22 @@
 # WorldTimeAPI
 
-A JSON/plain-text which returns the (approx) current time for a provided timezone or IP.  Targetted at limited-compute IoT devices. World Time API: Simple JSON/plain-text API to obtain the current
+A JSON/plain-text which returns the (approx) current time for a provided timezone or IP. Targetted at limited-compute IoT devices. World Time API: Simple JSON/plain-text API to obtain the current
  time in, and related data about, a timezone
 
 ##  🔗 Links
 **Docs / Website**: http://worldtimeapi.org
 
 ## 🧬 WorldTimeAPI Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22392)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22392)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22392)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22282)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22282)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22282)
 
 ## 💬 WorldTimeAPI Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22392)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22282)    
 
 
 ## 🗄️ Categories:

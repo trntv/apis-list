@@ -2,15 +2,15 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/linkedin/logo_256x256.png" alt="LinkedIn Logo"/>
 </p>
-Make it convenient for your users to sign in with their professional identity.  Learn how to leverage LinkedIn's API to Sign In with LinkedIn
+Make it convenient for your users to sign in with their professional identity. Learn how to leverage LinkedIn's API to Sign In with LinkedIn
 
 ##  🔗 Links
 **Docs / Website**: https://developer.linkedin.com/docs/signin-with-linkedin
 
 ## 🧬 LinkedIn Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11328)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11328)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11328)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11311)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11311)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11311)
 
 ## 💬 LinkedIn Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

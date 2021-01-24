@@ -1,23 +1,23 @@
-# Transport for Denver, US
+# Transportation in Denver, USA
 <p align="center">
-    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-denver-us/logo_256x256.png" alt="Transport for Denver, US Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-denver-us/logo_256x256.png" alt="Transportation in Denver, USA Logo"/>
 </p>
-All passengers are required to wear face masks on RTD services. Capacity is limited to approximately 15 passengers per bus, 20 on larger buses, and 30 riders per rail car.  If you are unable to main. All passengers are required to wear face masks on RTD services
+RTD OPEN DATA
 
 ##  🔗 Links
 **Docs / Website**: http://www.rtd-denver.com/gtfs-developer-guide.shtml
 
-## 🧬 Transport for Denver, US Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19892)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19892)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19892)
+## 🧬 Transportation in Denver, USA Specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19735)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19735)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19735)
 
-## 💬 Transport for Denver, US Discussion:
+## 💬 Transportation in Denver, USA Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19892)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19735)    
 
 
 ## 🗄️ Categories:

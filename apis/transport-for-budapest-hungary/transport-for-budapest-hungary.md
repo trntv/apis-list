@@ -1,21 +1,21 @@
-# Transport for Budapest, Hungary
+# Transportation in Budapest, Hungary
 
 A place where APIs are kept. A place where APIs are kept
 
 ##  🔗 Links
 **Docs / Website**: https://bkkfutar.docs.apiary.io
 
-## 🧬 Transport for Budapest, Hungary Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19857)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19857)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19857)
+## 🧬 Transportation in Budapest, Hungary Specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19700)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19700)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19700)
 
-## 💬 Transport for Budapest, Hungary Discussion:
+## 💬 Transportation in Budapest, Hungary Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19857)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19700)    
 
 
 ## 🗄️ Categories:

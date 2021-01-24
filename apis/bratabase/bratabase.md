@@ -1,21 +1,21 @@
 # Bratabase
 
-Bratabase API Widget. Hello Developers! Welcome to the developers corner of Bratabase.  On this site you should find information regarding the tools that the platform provides for you to build up on
+Bratabase API Widget. Hello Developers! Welcome to the developers corner of Bratabase. On this site you should find information regarding the tools that the platform provides for you to build up on
 
 ##  🔗 Links
 **Docs / Website**: https://developers.bratabase.com/
 
 ## 🧬 Bratabase Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2216)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2216)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2216)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2207)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2207)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2207)
 
 ## 💬 Bratabase Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2216)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2207)    
 
 
 ## 🗄️ Categories:

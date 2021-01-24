@@ -1,14 +1,14 @@
 # Particle
 
-API to manage Particle devices (including their own Arduino-compatible ones and the Raspberry Pi) and control them.  Free for up to 25 devices and 250k events/month. This page has been moved to /reference/device-cloud/api
+API to manage Particle devices (including their own Arduino-compatible ones and the Raspberry Pi) and control them. Free for up to 25 devices and 250k events/month. This page has been moved to /reference/device-cloud/api
 
 ##  🔗 Links
 **Docs / Website**: https://docs.particle.io/reference/api/
 
 ## 🧬 Particle Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14639)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14639)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14639)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14553)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14553)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14553)
 
 ## 💬 Particle Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

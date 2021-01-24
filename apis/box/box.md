@@ -4,17 +4,15 @@
 </p>
 Explore the Box APIs and SDKs to use for app development,
 API documentation, developer support resources, and access
-the Box Developer Console.  Explore the Box APIs and SDKs to use for app development,
-API documentation, developer support resources, and access
-the Box Developer Console
+the Box Developer Console.
 
 ##  🔗 Links
 **Docs / Website**: https://developer.box.com/
 
 ## 🧬 Box Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2041)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2041)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2041)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2034)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2034)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2034)
 
 ## 💬 Box Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

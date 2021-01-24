@@ -2,22 +2,22 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/coingecko-com/logo_256x256.png" alt="Coingecko.com Logo"/>
 </p>
-Free, comprehensive cryptocurrency API.  Access free crypto API such as real-time market price, historical trading, tickers, and exchange data for cryptocurrencies
+Free, comprehensive cryptocurrency API. Access free crypto API such as real-time market price, historical trading, tickers, and exchange data for cryptocurrencies
 
 ##  🔗 Links
 **Docs / Website**: https://www.coingecko.com/en/api
 
 ## 🧬 Coingecko.com Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3895)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3895)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3895)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3889)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3889)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3889)
 
 ## 💬 Coingecko.com Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3895)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3889)    
 
 
 ## 🗄️ Categories:

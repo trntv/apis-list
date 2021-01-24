@@ -1,14 +1,14 @@
 # Filestack
 
-API for image and file manipulation, 250 uploads and 500 uploads per month for free, free CDN, HTML widget.  Discover powerful tools that allow you to upload, transform and deliver any file in your application
+API for image and file manipulation, 250 uploads and 500 uploads per month for free, free CDN, HTML widget. Discover powerful tools that allow you to upload, transform and deliver any file in your application
 
 ##  🔗 Links
 **Docs / Website**: https://filestack.com/docs/
 
 ## 🧬 Filestack Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6414)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6414)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6414)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6410)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6410)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6410)
 
 ## 💬 Filestack Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

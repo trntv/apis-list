@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/httpcat/logo_256x256.png" alt="HTTPCat Logo"/>
 </p>
-API for HTTP Cats.  API for HTTP Cats
+API for HTTP Cats. API for HTTP Cats
 
 ##  🔗 Links
 **Docs / Website**: https://http.cat/

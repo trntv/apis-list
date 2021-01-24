@@ -1,14 +1,16 @@
 # Upwork
 
-reference The reference of the accounting transaction. reference The reference of the accounting transaction. number date The date when the transaction was created. date date_due The date when the the accounting transaction was committed. date assignme
+Upwork Developers Site offers you access to Upwork's web services
+to build your own applications and to integrate it's features and workflow
+to your dashboards, websites and management systems.
 
 ##  🔗 Links
 **Docs / Website**: https://developers.upwork.com/
 
 ## 🧬 Upwork Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21312)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21312)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21312)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21200)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21200)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21200)
 
 ## 💬 Upwork Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

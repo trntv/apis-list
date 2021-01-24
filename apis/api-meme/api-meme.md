@@ -1,6 +1,6 @@
 # Api Meme
 
-Generate memes with a simple link!.  Meme Top Text Bottom Text Link To access the API without the watermark, click here
+Generate memes with a simple link!. Meme Top Text Bottom Text Link To access the API without the watermark, click here
 
 ##  🔗 Links
 **Docs / Website**: http://apimeme.com
@@ -15,7 +15,7 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L899)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L885)    
 
 
 ## 🗄️ Categories:

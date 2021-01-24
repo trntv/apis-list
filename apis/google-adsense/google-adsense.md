@@ -2,15 +2,15 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-adsense/logo_256x256.png" alt="Google AdSense Logo"/>
 </p>
-Google AdSense provides a free, flexible way to earn money from your websites, mobile sites, and site search results with relevant and engaging ads. Free, flexible way to earn money from your websites, mobile sites, and site search results
+Google AdSense provides a free, flexible way to earn money from your websites, mobile sites, and site search results with relevant and engaging ads.
 
 ##  🔗 Links
 **Docs / Website**: https://developers.google.com/adsense/?hl=en
 
 ## 🧬 Google AdSense Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8185)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8185)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8185)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8184)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8184)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8184)
 
 ## 💬 Google AdSense Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

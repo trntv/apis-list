@@ -2,15 +2,15 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ip2location/logo_256x256.png" alt="IP2Location Logo"/>
 </p>
-IP Address Geolocation to Country, City, Region, Latitude, Longitude, ZIP Code, ISP, Domain, Time Zone, Area Code, Mobile Data, Usage Type, Elevation and so on. IP Address Geolocation to Country, City, Region, Latitude, Longitude, ZIP Code, ISP, Domain, Time Zone, Area Code, Mobile Data, Usage Type, Elevation and so on
+IP Address Geolocation to Country, City, Region, Latitude, Longitude, ZIP Code, ISP, Domain, Time Zone, Area Code, Mobile Data, Usage Type, Elevation and so on
 
 ##  🔗 Links
 **Docs / Website**: https://www.ip2location.com/web-service/ip2location
 
 ## 🧬 IP2Location Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9903)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9903)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9903)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9902)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9902)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9902)
 
 ## 💬 IP2Location Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
@@ -25,6 +25,6 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development-)- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo-)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

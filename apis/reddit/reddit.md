@@ -2,15 +2,15 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/reddit/logo_256x256.png" alt="Reddit Logo"/>
 </p>
-Contribute to reddit-archive/reddit development by creating an account on GitHub.  historical code from reddit. historical code from reddit. com
+Contribute to reddit-archive/reddit development by creating an account on GitHub. historical code from reddit. historical code from reddit. com
 
 ##  🔗 Links
 **Docs / Website**: https://github.com/reddit/reddit/wiki/API
 
 ## 🧬 Reddit Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16454)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16454)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16454)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16369)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16369)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16369)
 
 ## 💬 Reddit Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

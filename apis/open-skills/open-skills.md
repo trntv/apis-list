@@ -2,22 +2,22 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/open-skills/logo_256x256.png" alt="Open Skills Logo"/>
 </p>
-Skills API.  Contribute to workforce-data-initiative/skills-api development by creating an account on GitHub.  Skills API
+Skills API. Contribute to workforce-data-initiative/skills-api development by creating an account on GitHub. Skills API
 
 ##  🔗 Links
 **Docs / Website**: https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview
 
 ## 🧬 Open Skills Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14217)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14217)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14217)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14201)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14201)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14201)
 
 ## 💬 Open Skills Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14217)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14201)    
 
 
 ## 🗄️ Categories:

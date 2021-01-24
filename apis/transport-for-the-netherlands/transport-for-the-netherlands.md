@@ -1,23 +1,23 @@
-# Transport for The Netherlands
+# Transportation in Netherlands
 <p align="center">
-    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-the-netherlands/logo_256x256.png" alt="Transport for The Netherlands Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-the-netherlands/logo_256x256.png" alt="Transportation in Netherlands Logo"/>
 </p>
-NS beschikt over een grote hoeveelheid data met informatie over de geplande en actuele dienstregeling. NS beschikt over een grote hoeveelheid data met informatie over de geplande en actuele dienstregeling
+NS has a large amount of data with information about the planned and current timetable
 
 ##  🔗 Links
 **Docs / Website**: http://www.ns.nl/reisinformatie/ns-api
 
-## 🧬 Transport for The Netherlands Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20054)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20054)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20054)
+## 🧬 Transportation in Netherlands Specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19851)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19851)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19851)
 
-## 💬 Transport for The Netherlands Discussion:
+## 💬 Transportation in Netherlands Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20054)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19851)    
 
 
 ## 🗄️ Categories:

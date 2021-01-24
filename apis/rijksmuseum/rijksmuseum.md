@@ -2,22 +2,22 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/rijksmuseum/logo_256x256.png" alt="Rijksmuseum Logo"/>
 </p>
-The Rijksmuseum links individuals with art and history. Our data services are important building blocks for this. That is why we offer them in different ways, guided by the Rijksmuseum’s progressive Open Data policy and inspired by the FAIR data principles.  The Rijksmuseum links individuals with art and history.
+The Rijksmuseum links individuals with art and history. It's data services are important building blocks for this. That is why Rijksmuseum offers them in different ways, guided by the Rijksmuseum’s progressive Open Data policy and inspired by the FAIR data principles.
 
 ##  🔗 Links
 **Docs / Website**: https://www.rijksmuseum.nl/en/api
 
 ## 🧬 Rijksmuseum Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16759)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16759)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16759)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16675)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16675)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16675)
 
 ## 💬 Rijksmuseum Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16759)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16675)    
 
 
 ## 🗄️ Categories:

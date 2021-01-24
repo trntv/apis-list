@@ -1,21 +1,21 @@
 # City, Nantes Opendata
 
-Données publiques ouvertes (Open data) mises à disposition par la Ville de Nantes et Nantes Métropole.  Données publiques ouvertes (Open data) mises à disposition par la Ville de Nantes et Nantes Métropole
+Open public data (Open data) made available by the City of Nantes and Nantes Métropole
 
 ##  🔗 Links
 **Docs / Website**: https://data.nantesmetropole.fr/pages/home/
 
 ## 🧬 City, Nantes Opendata Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3154)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3154)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3154)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3146)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3146)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3146)
 
 ## 💬 City, Nantes Opendata Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3154)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3146)    
 
 
 ## 🗄️ Categories:

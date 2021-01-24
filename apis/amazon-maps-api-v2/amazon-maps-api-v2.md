@@ -1,21 +1,21 @@
 # Amazon Maps API v2
 
-Add interactive 3D maps, graphics, and custom overlays to your Fire Tablet and Fire phone apps.  The following steps show you how to get started with the Amazon Maps API
+Add interactive 3D maps, graphics, and custom overlays to your Fire Tablet and Fire phone apps. The following steps show you how to get started with the Amazon Maps API
 
 ##  🔗 Links
 **Docs / Website**: https://developer.amazon.com/maps
 
 ## 🧬 Amazon Maps API v2 Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L672)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L672)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L672)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L659)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L659)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L659)
 
 ## 💬 Amazon Maps API v2 Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L672)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L659)    
 
 
 ## 🗄️ Categories:

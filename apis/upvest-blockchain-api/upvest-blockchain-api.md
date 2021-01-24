@@ -2,22 +2,22 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/upvest-blockchain-api/logo_256x256.png" alt="Upvest Blockchain Api Logo"/>
 </p>
-The Upvest Blockchain API is a multi-protocol blockchain API for building blockchain-interacting applications.  Get started using the Upvest APIs.  Get familiar with an overview of quickstarts, client libraries and tutorials to start building on blockchain in no time
+The Upvest Blockchain API is a multi-protocol blockchain API for building blockchain-interacting applications. Get started using the Upvest APIs. Get familiar with an overview of quickstarts, client libraries and tutorials to start building on blockchain in no time
 
 ##  🔗 Links
 **Docs / Website**: https://doc.upvest.co/docs
 
 ## 🧬 Upvest Blockchain Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21301)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21301)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21301)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21189)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21189)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21189)
 
 ## 💬 Upvest Blockchain Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21301)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21189)    
 
 
 ## 🗄️ Categories:

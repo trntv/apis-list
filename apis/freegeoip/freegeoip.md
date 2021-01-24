@@ -1,14 +1,14 @@
 # FreeGeoIP
 
-Free IP Geolocation API with no registration required.  15000 requests per hour ✓ JSON, XML and CSV output ✓ Fast response times
+Free IP Geolocation API with no registration required. 15000 requests per hour ✓ JSON, XML and CSV output ✓ Fast response times
 
 ##  🔗 Links
 **Docs / Website**: https://freegeoip.app/
 
 ## 🧬 FreeGeoIP Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7171)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7171)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7171)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7169)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7169)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7169)
 
 ## 💬 FreeGeoIP Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

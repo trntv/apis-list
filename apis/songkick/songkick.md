@@ -2,15 +2,15 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/songkick/logo_256x256.png" alt="Songkick Logo"/>
 </p>
-Find live music near you, track your favorite artists, get instant concert alerts and buy tickets for all the best upcoming concerts.  Find live music near you, track your favorite artists, get instant concert alerts and buy tickets for all the best upcoming concerts
+Find live music near you, track your favorite artists, get instant concert alerts and buy tickets for all the best upcoming concerts
 
 ##  🔗 Links
 **Docs / Website**: https://www.songkick.com/developer/
 
 ## 🧬 Songkick Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17940)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17940)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17940)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17857)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17857)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17857)
 
 ## 💬 Songkick Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

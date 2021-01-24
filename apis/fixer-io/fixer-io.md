@@ -2,22 +2,22 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/fixer-io/logo_256x256.png" alt="Fixer.io Logo"/>
 </p>
-The API tracks rates published daily by the European Central Bank. JSON API for foreign exchange rates and currency conversion. End of day data only.  Fixer provides a free, simple, and lightweight API for current and historical foreign exchange rates and currency conversion
+The API tracks rates published daily by the European Central Bank. JSON API for foreign exchange rates and currency conversion. End of day data only. Fixer provides a free, simple, and lightweight API for current and historical foreign exchange rates and currency conversion
 
 ##  🔗 Links
 **Docs / Website**: http://fixer.io/
 
 ## 🧬 Fixer.io Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6713)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6713)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6713)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6709)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6709)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6709)
 
 ## 💬 Fixer.io Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6713)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6709)    
 
 
 ## 🗄️ Categories:

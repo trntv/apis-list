@@ -1,23 +1,23 @@
-# Transport For Minneapolis, Us
+# Transportation in Minneapolis, USA
 <p align="center">
-    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-minneapolis-us/logo_256x256.png" alt="Transport For Minneapolis, Us Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-minneapolis-us/logo_256x256.png" alt="Transportation in Minneapolis, USA Logo"/>
 </p>
 NexTrip API
 
 ##  🔗 Links
 **Docs / Website**: https://svc.metrotransit.org/
 
-## 🧬 Transport For Minneapolis, Us Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19743)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19743)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19743)
+## 🧬 Transportation in Minneapolis, USA Specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19840)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19840)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19840)
 
-## 💬 Transport For Minneapolis, Us Discussion:
+## 💬 Transportation in Minneapolis, USA Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19743)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19840)    
 
 
 ## 🗄️ Categories:

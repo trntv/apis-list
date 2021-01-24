@@ -1,14 +1,14 @@
 # Braintree
 
-Specializes in mobile and web payment systems for ecommerce companies.  Braintree resources and tools for developers to integrate Braintree's global payments platform
+Specializes in mobile and web payment systems for ecommerce companies. Braintree resources and tools for developers to integrate Braintree's global payments platform
 
 ##  🔗 Links
 **Docs / Website**: https://developers.braintreepayments.com
 
 ## 🧬 Braintree Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2158)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2158)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2158)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2149)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2149)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2149)
 
 ## 💬 Braintree Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

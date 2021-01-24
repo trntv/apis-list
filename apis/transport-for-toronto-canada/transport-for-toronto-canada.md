@@ -1,21 +1,21 @@
-# Transport for Toronto, Canada
+# Transportation in Toronto, Canada
 
-MyTTC is the best trip planner available for the TTC.  MyTTC is the best trip planner available for the TTC
+MyTTC is the best trip planner available for the TTC
 
 ##  🔗 Links
 **Docs / Website**: https://myttc.ca/developers
 
-## 🧬 Transport for Toronto, Canada Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20066)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20066)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20066)
+## 🧬 Transportation in Toronto, Canada Specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19942)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19942)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19942)
 
-## 💬 Transport for Toronto, Canada Discussion:
+## 💬 Transportation in Toronto, Canada Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20066)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19942)    
 
 
 ## 🗄️ Categories:

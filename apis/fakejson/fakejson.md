@@ -2,22 +2,22 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/fakejson/logo_256x256.png" alt="FakeJSON Logo"/>
 </p>
-Easily create custom HTTP resources complete with fake data.  fakeJSON's API scales with your development needs, helping you test and develop more efficiently.  Mock an entire backend with minimal coding. Mock an entire backend with minimal coding
+Easily create custom HTTP resources complete with fake data. fakeJSON's API scales with your development needs, helping you test and develop more efficiently. Mock an entire backend with minimal coding. Mock an entire backend with minimal coding
 
 ##  🔗 Links
 **Docs / Website**: https://fakejson.com
 
 ## 🧬 FakeJSON Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6256)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6256)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6256)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6253)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6253)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6253)
 
 ## 💬 FakeJSON Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6256)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6253)    
 
 
 ## 🗄️ Categories:

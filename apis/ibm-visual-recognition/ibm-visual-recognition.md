@@ -1,14 +1,14 @@
 # IBM Visual Recognition
 
-The IBM Watson Visual Recognition service uses deep learning algorithms to identify scenes and objects in images that you upload to the service. You can create and train a custom classifier to identify subjects that suit your needs. Existing instances are supported until 1 December 2021, but as of 7 January 2021, you can't create instances.  Any instance that is provisioned on 1 December 2021 will be deleted. IBM Watso Visual Recognition is discontinued
+The IBM Watson Visual Recognition service uses deep learning algorithms to identify scenes and objects in images that you upload to the service. You can create and train a custom classifier to identify subjects that suit your needs. Existing instances are supported until 1 December 2021, but as of 7 January 2021, you can't create instances. Any instance that is provisioned on 1 December 2021 will be deleted. IBM Watso Visual Recognition is discontinued
 
 ##  🔗 Links
 **Docs / Website**: https://cloud.ibm.com/apidocs/visual-recognition/visual-recognition-v3
 
 ## 🧬 IBM Visual Recognition Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9595)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9595)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9595)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9592)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9592)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9592)
 
 ## 💬 IBM Visual Recognition Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

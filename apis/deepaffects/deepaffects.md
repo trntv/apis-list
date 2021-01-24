@@ -1,14 +1,14 @@
 # Deepaffects
 
-DeepAffects enables developers to analyze conversational audio by applying powerful machine learning models offered as a set of easy to use REST APIs. We support apis like: Interaction Analytics, Speaker Diarization, Emotion Recognition, Speech to Text etc. Checkout [developer docs](https://developers. deepaffects. com/docs) for more details. DeepAffects speech analysis platform supports automated multi-speaker recognition, voiceprints, emotions & intents from natural conversations
+DeepAffects enables developers to analyze conversational audio by applying powerful machine learning models offered as a set of easy to use REST APIs. Supports apis like: Interaction Analytics, Speaker Diarization, Emotion Recognition, Speech to Text etc. DeepAffects speech analysis platform supports automated multi-speaker recognition, voiceprints, emotions & intents from natural conversations
 
 ##  🔗 Links
 **Docs / Website**: https://www.deepaffects.com
 
 ## 🧬 Deepaffects Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4864)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4864)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4864)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4847)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4847)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4847)
 
 ## 💬 Deepaffects Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
@@ -21,6 +21,6 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)- [Recognition](https://github.com/apis-list/apis-list#recognition-)- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools-)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)- [Recognition](https://github.com/apis-list/apis-list#recognition-)- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools-)- [Voice](https://github.com/apis-list/apis-list#voice-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

@@ -2,22 +2,22 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/dogs/logo_256x256.png" alt="Dogs Logo"/>
 </p>
-Over 20,000 images of dogs programmaticaly accessible by over 120 breeds. Image supplied by the Stanford Dogs Dataset.  Dog CEO's Dog API. Dog CEO's Dog API
+Over 20,000 images of dogs programmaticaly accessible by over 120 breeds. Image supplied by the Stanford Dogs Dataset. Dog CEO's Dog API. Dog CEO's Dog API
 
 ##  🔗 Links
 **Docs / Website**: https://dog.ceo/dog-api/
 
 ## 🧬 Dogs Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5440)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5440)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5440)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5435)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5435)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5435)
 
 ## 💬 Dogs Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5440)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5435)    
 
 
 ## 🗄️ Categories:

@@ -2,15 +2,15 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/nexmo/logo_256x256.png" alt="Nexmo Logo"/>
 </p>
-Make and receive phone calls, send and receive SMS worldwide.  Libraries in Node, Ruby, Java, PHP, .NET & Python.  Get guides and code snippets, browse reference documentation, and more to develop connected applications with Vonage APIs and SDKs
+Make and receive phone calls, send and receive SMS worldwide. Libraries in Node, Ruby, Java, PHP, .NET & Python. Get guides and code snippets, browse reference documentation, and more to develop connected applications with Vonage APIs and SDKs
 
 ##  🔗 Links
 **Docs / Website**: https://developer.nexmo.com
 
 ## 🧬 Nexmo Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13377)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13377)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13377)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13362)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13362)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13362)
 
 ## 💬 Nexmo Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
@@ -52,6 +52,6 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 
 ## 🗄️ Categories:
-- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging-)- [Email & SMS](https://github.com/apis-list/apis-list#email--sms-)- [Voice](https://github.com/apis-list/apis-list#voice-)- [Worldwide](https://github.com/apis-list/apis-list#worldwide-)
+- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging-)- [Email & SMS](https://github.com/apis-list/apis-list#email--sms-)- [Voice](https://github.com/apis-list/apis-list#voice-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

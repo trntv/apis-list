@@ -1,21 +1,21 @@
 # Church Calendar
 
-Liturgical Calendar API Browse the calendar on-line, Learn how to obtain data from it's JSON API or fork it at github and hack it. The API provides access to Roman Catholic liturgical calendar acco. .  Liturgical Calendar API Browse the calendar on-line, Learn how to obtain data from it's JSON API or fork it at github and hack it
+Liturgical Calendar API. Browse the calendar on-line. The API provides access to Roman Catholic liturgical calendar.
 
 ##  🔗 Links
 **Docs / Website**: http://calapi.inadiutorium.cz/
 
 ## 🧬 Church Calendar Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2871)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2871)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2871)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2863)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2863)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2863)
 
 ## 💬 Church Calendar Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2871)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2863)    
 
 
 ## 🗄️ Categories:

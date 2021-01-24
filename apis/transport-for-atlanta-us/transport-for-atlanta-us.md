@@ -1,21 +1,21 @@
-# Transport for Atlanta, US
+# Transportation in Atlanta, USA
 
 marta. marta
 
 ##  🔗 Links
 **Docs / Website**: http://www.itsmarta.com/app-developer-resources.aspx
 
-## 🧬 Transport for Atlanta, US Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19789)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19789)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19789)
+## 🧬 Transportation in Atlanta, USA Specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19632)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19632)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19632)
 
-## 💬 Transport for Atlanta, US Discussion:
+## 💬 Transportation in Atlanta, USA Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19789)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19632)    
 
 
 ## 🗄️ Categories:

@@ -1,14 +1,14 @@
 # Jamendo
 
-Jamendo Api Documentation.  Jamendo Api Documentation
+Jamendo Api Documentation. Jamendo Api Documentation
 
 ##  🔗 Links
 **Docs / Website**: https://developer.jamendo.com/v3.0/docs
 
 ## 🧬 Jamendo Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10625)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10625)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10625)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10622)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10622)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10622)
 
 ## 💬 Jamendo Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

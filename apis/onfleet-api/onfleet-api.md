@@ -1,21 +1,21 @@
 # Onfleet API
 
-Onfleet is the easiest way for businesses to manage and analyze their last-mile delivery operations.  Dispatch tasks to drivers, monitor their location and status in real-time, and keep customers informed from door to door.  Onfleet's API provides programmatic access to our delightful delivery management and analytics solution
+Onfleet is the easiest way for businesses to manage and analyze their last-mile delivery operations. Dispatch tasks to drivers, monitor their location and status in real-time, and keep customers informed from door to door. Onfleet's API provides programmatic access to our delightful delivery management and analytics solution
 
 ##  🔗 Links
 **Docs / Website**: https://docs.onfleet.com/
 
 ## 🧬 Onfleet API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13912)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13912)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13912)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13894)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13894)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13894)
 
 ## 💬 Onfleet API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13912)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13894)    
 
 
 ## 🗄️ Categories:

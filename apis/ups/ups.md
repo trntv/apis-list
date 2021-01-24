@@ -1,14 +1,14 @@
 # UPS
 
-Integrate our Application Programming Interfaces (APIs) with your back-end systems for increased shipping management efficiency. . Integrate our Application Programming Interfaces (APIs) with your back-end systems for increased shipping management efficiency
+UPS is an American multinational package delivery and supply chain management company
 
 ##  🔗 Links
 **Docs / Website**: https://www.ups.com/upsdeveloperkit
 
 ## 🧬 UPS Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20715)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20715)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20715)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20602)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20602)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20602)
 
 ## 💬 UPS Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -1,24 +1,24 @@
 # Hytale
 
-js and Java.  Quickly use official Hytale API in your projects. . Quickly use official Hytale API in your projects. Our SDK is available in PHP / Node
+Official Hytale API
 
 ##  🔗 Links
 **Docs / Website**: https://hytale-api.com/
 
 ## 🧬 Hytale Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9584)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9584)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9584)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9581)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9581)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9581)
 
 ## 💬 Hytale Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9584)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9581)    
 
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
+- [Games](https://github.com/apis-list/apis-list#games-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

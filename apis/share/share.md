@@ -1,21 +1,21 @@
 # SHARE
 
-SHARE¶ SHARE is a higher education initiative whose mission is to maximize research impact by making research widely accessible, discoverable, and reusable. To fulfill this mission SHARE is buildin. SHARE¶ SHARE is a higher education initiative whose mission is to maximize research impact by making research widely accessible, discoverable, and reusable
+SHARE is a higher education initiative whose mission is to maximize research impact by making research widely accessible, discoverable, and reusable
 
 ##  🔗 Links
 **Docs / Website**: http://share-research.readthedocs.io/en/latest/
 
 ## 🧬 SHARE Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16981)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16981)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16981)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16897)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16897)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16897)
 
 ## 💬 SHARE Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16981)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16897)    
 
 
 ## 🗄️ Categories:

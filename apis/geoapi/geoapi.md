@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/geoapi/logo_256x256.png" alt="GeoApi Logo"/>
 </p>
-API Découpage Administratif - (API Geo) est une des APIs du service public.  Interrogez les référentiels géographiques plus facilement. API Découpage Administratif - (API Geo) est une des APIs du service public
+Administrative Breakdown API - (Geo API) is one of the France's public service APIs.
 
 ##  🔗 Links
 **Docs / Website**: https://api.gouv.fr/api/geoapi.html

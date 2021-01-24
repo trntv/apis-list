@@ -6,24 +6,23 @@ Ola is India’s most popular cab booking app with availability of rides in more
 - RIDE BOOKING
 - RIDE TRACKING
 
-
 ##  🔗 Links
 **Docs / Website**: https://developers.olacabs.com/
 
 ## 🧬 Ola Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13785)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13785)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13785)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13769)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13769)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13769)
 
 ## 💬 Ola Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13785)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13769)    
 
 
 ## 🗄️ Categories:
-- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)- [Worldwide](https://github.com/apis-list/apis-list#worldwide-)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

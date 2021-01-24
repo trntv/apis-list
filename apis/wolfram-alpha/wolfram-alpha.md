@@ -1,14 +1,14 @@
 # Wolfram|Alpha
 
-General knowledge on every topic; query it all with natural language input. Easily add top-of-the-line computational knowledge into your applications with Wolfram|Alpha APIs.  Options from free to pre-built and custom solutions. The official Wolfram|Alpha API
+General knowledge on every topic; query it all with natural language input. Easily add top-of-the-line computational knowledge into your applications with Wolfram|Alpha APIs. Options from free to pre-built and custom solutions. The official Wolfram|Alpha API
 
 ##  🔗 Links
 **Docs / Website**: https://products.wolframalpha.com/api/
 
 ## 🧬 Wolfram|Alpha Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22171)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22171)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22171)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22059)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22059)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22059)
 
 ## 💬 Wolfram|Alpha Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

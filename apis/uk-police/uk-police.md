@@ -6,9 +6,9 @@ Police API Documentation The API provides a rich data source for information, in
 **Docs / Website**: https://data.police.uk/docs/
 
 ## 🧬 UK Police Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20683)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20683)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20683)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20572)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20572)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20572)
 
 ## 💬 UK Police Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
@@ -19,6 +19,6 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 
 ## 🗄️ Categories:
-- [Government](https://github.com/apis-list/apis-list#government-)- [Security](https://github.com/apis-list/apis-list#security-)- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data-)- [Worldwide](https://github.com/apis-list/apis-list#worldwide-)
+- [Government](https://github.com/apis-list/apis-list#government-)- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

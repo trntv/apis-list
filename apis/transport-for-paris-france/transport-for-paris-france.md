@@ -1,21 +1,21 @@
-# Transport for Paris, France
+# Transportation in Paris, France
 
 Realtime schedules for Paris metro network (RATP - metro, bus, tram, rer)
 
 ##  🔗 Links
 **Docs / Website**: http://restratpws.azurewebsites.net/swagger/
 
-## 🧬 Transport for Paris, France Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19998)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19998)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19998)
+## 🧬 Transportation in Paris, France Specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19885)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19885)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19885)
 
-## 💬 Transport for Paris, France Discussion:
+## 💬 Transportation in Paris, France Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19998)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19885)    
 
 
 ## 🗄️ Categories:

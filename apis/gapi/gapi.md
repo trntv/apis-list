@@ -1,6 +1,6 @@
 # Gapi
 
-We also provide top headlines from which you can filter by topic such as world, business, sports. Unofficial Google News API.  GNews is an API to search for articles from a variety of sources, including Google News
+Unofficial Google News API. GNews is an API to search for articles from a variety of sources, including Google News. Also provides top headlines from which you can filter by topic such as world, business, sports.
 
 ##  🔗 Links
 **Docs / Website**: https://gnews.io/

@@ -1,14 +1,14 @@
 # YouTube
 
-Add YouTube functionality to your sites and apps.  Add YouTube functionality to your sites and apps
+Add YouTube functionality to your sites and apps. Add YouTube functionality to your sites and apps
 
 ##  🔗 Links
 **Docs / Website**: https://developers.google.com/youtube/
 
 ## 🧬 YouTube Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22820)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22820)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22820)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22709)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22709)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22709)
 
 ## 💬 YouTube Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -2,22 +2,22 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/linkpreview/logo_256x256.png" alt="LinkPreview Logo"/>
 </p>
-Preview Web links with our reliable API service. Get Detailed JSON Response for any URL. RESTful API that returns JSON formatted summary with title, description and preview image for any requested URL.  Free & paid plans
+Preview Web links with our reliable API service. Get Detailed JSON Response for any URL. RESTful API that returns JSON formatted summary with title, description and preview image for any requested URL. Free & paid plans
 
 ##  🔗 Links
 **Docs / Website**: https://www.linkpreview.net
 
 ## 🧬 LinkPreview Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11304)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11304)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11304)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11287)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11287)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11287)
 
 ## 💬 LinkPreview Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11304)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11287)    
 
 
 ## 🗄️ Categories:

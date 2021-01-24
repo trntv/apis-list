@@ -10,22 +10,22 @@ Get information about the currency used by your customers and cutomize their sho
 - Timezone data
 Get your users current timezone without forcing them to fill-in any forms. 
 - Security data
-Assess potential risks and threats coming from certain IP addresses by detecting crawlers, proxies and tor users. With SmartIP you can enrich any IP address with geolocation data, ASN and hostname information, enforce GDPR compliance, assess potential risks and much more. 
+Assess potential risks and threats coming from certain IP addresses by detecting crawlers, proxies and tor users. With SmartIP you can enrich any IP address with geolocation data, ASN and hostname information, enforce GDPR compliance, assess potential risks and much more.
 
 ##  🔗 Links
 **Docs / Website**: https://smartip.io
 
 ## 🧬 Smartip.Io Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17905)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17905)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17905)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17822)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17822)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17822)
 
 ## 💬 Smartip.Io Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17905)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17822)    
 
 
 ## 🗄️ Categories:

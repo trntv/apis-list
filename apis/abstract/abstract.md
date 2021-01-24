@@ -2,15 +2,15 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/abstract/logo_256x256.png" alt="Abstract Logo"/>
 </p>
-Suite of utility API's (validate emails, create user avatars, calculate VAT, and more). Abstract provides powerful APIs to help you enrich any user experience or automate any workflow. 
+Suite of utility API's (validate emails, create user avatars, calculate VAT, and more). Abstract provides powerful APIs to help you enrich any user experience or automate any workflow.
 
 ##  🔗 Links
 **Docs / Website**: https://www.abstractapi.com
 
 ## 🧬 Abstract Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L328)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L328)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L328)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L316)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L316)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L316)
 
 ## 💬 Abstract Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

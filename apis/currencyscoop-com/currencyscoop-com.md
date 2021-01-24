@@ -2,22 +2,22 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/currencyscoop-com/logo_256x256.png" alt="CurrencyScoop.com Logo"/>
 </p>
-Real-time and historical currency rates JSON API.  CurrencyScoop is a developer-friendly REST API with real-time and historical exchange rates for 168 world currencies and 1600 cryptocurrencies
+Real-time and historical currency rates JSON API. CurrencyScoop is a developer-friendly REST API with real-time and historical exchange rates for 168 world currencies and 1600 cryptocurrencies
 
 ##  🔗 Links
 **Docs / Website**: https://currencyscoop.com/
 
 ## 🧬 CurrencyScoop.com Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4415)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4415)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4415)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4409)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4409)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4409)
 
 ## 💬 CurrencyScoop.com Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4415)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4409)    
 
 
 ## 🗄️ Categories:

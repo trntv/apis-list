@@ -1,14 +1,17 @@
 # Bandsintown
 
-Signup or login today.  Join thousands of developers who use SwaggerHub to build and design great APIs. Join thousands of developers who use SwaggerHub to build and design great APIs
+The Bandsintown API is designed for artists and enterprises representing artists.
+It offers read-only access to artist info and artist events:
+artist info: returns the link to the Bandsintown artist page, the link to the artist photo, the current number of trackers and more
+artist events: returns the list of events including their date and time, venue name and location, ticket links, lineup, description and the link to the Bandsintown event page
 
 ##  🔗 Links
 **Docs / Website**: https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0
 
 ## 🧬 Bandsintown Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1175)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1175)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1175)
+**Type**: swagger  
+**URI**: https://app.swaggerhub.com/apiproxy/registry/Bandsintown/PublicAPI/3.0.0?resolved=true&flatten=true&pretty=true  
+**Version**: https://app.swaggerhub.com/apiproxy/registry/Bandsintown/PublicAPI/3.0.0?resolved=true&flatten=true&pretty=true
 
 ## 💬 Bandsintown Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
@@ -31,6 +34,6 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce-)- [Events](https://github.com/apis-list/apis-list#events-)- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)
+- [Events](https://github.com/apis-list/apis-list#events-)- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

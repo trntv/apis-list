@@ -1,14 +1,14 @@
 # Lexalytics
 
-Flexible natural language processing APIs and complete text analytics platform solutions for data analytics companies and data analyst teams. SAAS API based on Lexalytics engine.  #Paid
+Flexible natural language processing APIs and complete text analytics platform solutions for data analytics companies and data analyst teams. SAAS API based on Lexalytics engine. #Paid
 
 ##  🔗 Links
 **Docs / Website**: https://www.lexalytics.com/
 
 ## 🧬 Lexalytics Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11220)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11220)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11220)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11203)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11203)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11203)
 
 ## 💬 Lexalytics Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

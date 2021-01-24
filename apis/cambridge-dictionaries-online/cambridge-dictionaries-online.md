@@ -2,15 +2,15 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cambridge-dictionaries-online/logo_256x256.png" alt="Cambridge Dictionaries Online Logo"/>
 </p>
-Access to Cambridge’s custom-developed API.  License our data. Use Cambridge Dictionary data for language processing, or other applications
+Access to Cambridge’s custom-developed API. License our data. Use Cambridge Dictionary data for language processing, or other applications
 
 ##  🔗 Links
 **Docs / Website**: http://dictionary.cambridge.org/license.html
 
 ## 🧬 Cambridge Dictionaries Online Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2465)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2465)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2465)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2456)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2456)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2456)
 
 ## 💬 Cambridge Dictionaries Online Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

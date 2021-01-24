@@ -2,22 +2,22 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/envoice/logo_256x256.png" alt="envoice Logo"/>
 </p>
-Invoicing for online businesses. Simplify your invoicing process and get paid online with a debit or credit card via your payment gateway. The simplest app for doing business online.  Sell online, send invoices, track invoice activities, get fast credit card payment with Paypal, Payoneer or Stripe.  IT’S FREE!
+Invoicing for online businesses. Simplify your invoicing process and get paid online with a debit or credit card via your payment gateway. The simplest app for doing business online. Sell online, send invoices, track invoice activities, get fast credit card payment with Paypal, Payoneer or Stripe. IT’S FREE!
 
 ##  🔗 Links
 **Docs / Website**: https://www.envoice.in
 
 ## 🧬 envoice Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23315)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23315)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23315)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23216)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23216)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23216)
 
 ## 💬 envoice Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23315)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23216)    
 
 
 ## 🗄️ Categories:

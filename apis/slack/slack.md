@@ -2,15 +2,15 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/slack/logo_256x256.png" alt="Slack Logo"/>
 </p>
-Slack APIs allow you to integrate complex services with Slack to go beyond the integrations we provide out of the box. . Slack APIs allow you to integrate complex services with Slack to go beyond the integrations we provide out of the box
+Slack APIs allow you to integrate complex services with Slack to go beyond the integrations they provide out of the box.
 
 ##  🔗 Links
 **Docs / Website**: https://api.slack.com/
 
 ## 🧬 Slack Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17742)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17742)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17742)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17659)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17659)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17659)
 
 ## 💬 Slack Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

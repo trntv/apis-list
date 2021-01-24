@@ -1,15 +1,14 @@
 # OpenWeatherMap
 
-Simple and fast and free weather API from OpenWeatherMap you have access to current weather data, hourly, 5- and 16-day forecasts. Simple and fast and free weather API from OpenWeatherMap you have access to current weather data, hourly, 5- and 16-day forecasts. Historical weather data for 40 years back for any coordinate. Weather maps, UV Index, air pollution
- and historical data
+Simple and fast and free weather API from OpenWeatherMap. With it you have access to current weather data, hourly, 5- and 16-day forecasts. Historical weather data for 40 years back for any coordinate. Weather maps, UV Index, air pollution and historical data
 
 ##  🔗 Links
 **Docs / Website**: https://openweathermap.org/api
 
 ## 🧬 OpenWeatherMap Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14405)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14405)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14405)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14332)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14332)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14332)
 
 ## 💬 OpenWeatherMap Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
@@ -40,6 +39,6 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)- [Weather](https://github.com/apis-list/apis-list#weather-)
+- [Environment & Nature](https://github.com/apis-list/apis-list#environment--nature-)- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)- [Weather](https://github.com/apis-list/apis-list#weather-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

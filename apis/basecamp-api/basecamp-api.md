@@ -2,22 +2,22 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/basecamp-api/logo_256x256.png" alt="Basecamp API Logo"/>
 </p>
-A web based system for managing collaborative projects.  Simple manipulations of your project are provided through the web user interface. API documentation and wrappers for Basecamp 2. Contribute to basecamp/bcx-api development by creating an account on GitHub
+A web based system for managing collaborative projects. Simple manipulations of your project are provided through the web user interface. API documentation and wrappers for Basecamp 2. Contribute to basecamp/bcx-api development by creating an account on GitHub
 
 ##  🔗 Links
 **Docs / Website**: https://github.com/basecamp/bcx-api
 
 ## 🧬 Basecamp API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1249)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1249)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1249)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1242)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1242)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1242)
 
 ## 💬 Basecamp API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1249)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1242)    
 
 
 ## 🗄️ Categories:

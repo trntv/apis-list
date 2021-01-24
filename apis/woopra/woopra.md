@@ -1,14 +1,15 @@
 # Woopra
 
-There are limitless ways in which you can customize the Woopra platform, making every instance beautifully unique. But, looking at the most successful Woopra users they all have one thing in common - an awesome setup. We offer dozens of ways to track any type of data in Woopra, from product usage to tweets! Real-time website analysis tool that targets customer engagement
+End-to-end Customer Journey Analytics
+No hours sank into aggregating and cleaning data. No complex SQL queries required. Just the answers teams need to make smarter decisions, fast. Now, that's data-driven.
 
 ##  🔗 Links
 **Docs / Website**: https://www.woopra.com/docs/developer/analytics-api/
 
 ## 🧬 Woopra Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22192)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22192)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22192)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22080)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22080)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22080)
 
 ## 💬 Woopra Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

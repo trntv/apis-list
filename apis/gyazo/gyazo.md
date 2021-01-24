@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/gyazo/logo_256x256.png" alt="Gyazo Logo"/>
 </p>
-Take screenshots, GIFS, and replays that are ready to share. The Gyazo API can be used in a wide array of apps to upload new images, show a Gyazo users images, and more.  
+Take screenshots, GIFS, and replays that are ready to share. The Gyazo API can be used in a wide array of apps to upload new images, show a Gyazo users images, and more.
 
 ##  🔗 Links
 **Docs / Website**: https://gyazo.com/api/docs

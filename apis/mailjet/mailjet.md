@@ -1,16 +1,16 @@
 # Mailjet
 
-Reliable and scalable email delivery platform with SMTP and API.  
-Real-time monitoring service for all your email traffic.  
+Reliable and scalable email delivery platform with SMTP and API. 
+Real-time monitoring service for all your email traffic. 
 Responsive email design with MJML and Passport
 
 ##  🔗 Links
 **Docs / Website**: https://dev.mailjet.com
 
 ## 🧬 Mailjet Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11854)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11854)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11854)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11838)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11838)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11838)
 
 ## 💬 Mailjet Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

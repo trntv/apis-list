@@ -2,15 +2,15 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/shippo/logo_256x256.png" alt="Shippo Logo"/>
 </p>
-Find the best shipping rates, integrate with e-commerce platforms, print shipping labels, track package delivery, and verify addresses with either our shipping API or web app. Shippo in an API and dashboard that connects you to multiple shipping providers, simplifying the process of implementing a shipping solution.  Shippo is the best multi-carrier shipping software for e-commerce businesses
+Find the best shipping rates, integrate with e-commerce platforms, print shipping labels, track package delivery, and verify addresses with either our shipping API or web app. Shippo in an API and dashboard that connects you to multiple shipping providers, simplifying the process of implementing a shipping solution. Shippo is the best multi-carrier shipping software for e-commerce businesses
 
 ##  🔗 Links
 **Docs / Website**: https://goshippo.com/
 
 ## 🧬 Shippo Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17473)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17473)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17473)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17390)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17390)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17390)
 
 ## 💬 Shippo Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

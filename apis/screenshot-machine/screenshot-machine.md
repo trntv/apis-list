@@ -1,14 +1,14 @@
 # Screenshot Machine
 
-Free screenshot api for capturing web pages.  Let our website screenshot generator and gifted robots take your webpage screenshot!
+Free screenshot api for capturing web pages. Let our website screenshot generator and gifted robots take your webpage screenshot!
 
 ##  🔗 Links
 **Docs / Website**: https://www.screenshotmachine.com
 
 ## 🧬 Screenshot Machine Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17211)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17211)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17211)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17128)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17128)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17128)
 
 ## 💬 Screenshot Machine Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

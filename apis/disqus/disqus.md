@@ -1,14 +1,14 @@
 # Disqus
 
-Disqus is a global comment system that improves discussion on websites and connects conversations across the web.  Disqus is a global comment system that improves discussion on websites and connects conversations across the web
+Disqus is a global comment system that improves discussion on websites and connects conversations across the web.
 
 ##  🔗 Links
 **Docs / Website**: https://disqus.com/api/docs/auth/
 
 ## 🧬 Disqus Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5391)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5391)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5391)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5386)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5386)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5386)
 
 ## 💬 Disqus Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/hacker-news-graphql/logo_256x256.png" alt="Hacker News GraphQL Logo"/>
 </p>
-Convenient HackerNews GraphQL wrapper API.  Filter, sort, search and relations
+Convenient HackerNews GraphQL wrapper API. Filter, sort, search and relations
 
 ##  🔗 Links
 **Docs / Website**: https://metamate.io/blog/most-advanced-hackernews-api/

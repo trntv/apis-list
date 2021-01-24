@@ -1,6 +1,6 @@
 # Hearthstone
 
-This Hearthstone API provides up to date Hearthstone data pulled directly from the game. This Hearthstone API provides up to date Hearthstone data pulled directly from the game. It has endpoints for all the card data, including images, card backs and more
+This Hearthstone API provides up to date Hearthstone data pulled directly from the game. It has endpoints for all the card data, including images, card backs and more
 
 ##  🔗 Links
 **Docs / Website**: http://hearthstoneapi.com/
@@ -19,6 +19,6 @@ No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edi
 
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)- [Games](https://github.com/apis-list/apis-list#games-)
+- [Games](https://github.com/apis-list/apis-list#games-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

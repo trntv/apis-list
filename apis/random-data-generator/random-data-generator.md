@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/random-data-generator/logo_256x256.png" alt="Random Data Generator Logo"/>
 </p>
-API Generator for telephones, text, numbers, passwords, names, social security numbers, and cards.  Use Randommer free REST API to validate phone numbers, calculate hashes, get american names, and generate placeholder text. You have 1000 daily quota calls for your project.
+API Generator for telephones, text, numbers, passwords, names, social security numbers, and cards. Use Randommer free REST API to validate phone numbers, calculate hashes, get american names, and generate placeholder text. You have 1000 daily quota calls for your project.
 
 ##  🔗 Links
 **Docs / Website**: https://randommer.io/randommer-api
@@ -17,7 +17,7 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16303)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16218)    
 
 
 ## 🗄️ Categories:

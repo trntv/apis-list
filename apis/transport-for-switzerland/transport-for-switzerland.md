@@ -1,21 +1,21 @@
-# Transport for Switzerland
+# Transportation in Switzerland
 
 Here you can view mobility data free of charge and access various services. The data. opentransportdata. swiss is the customer information platform for Swiss public transport and individual mobility
 
 ##  🔗 Links
 **Docs / Website**: https://opentransportdata.swiss/en/
 
-## 🧬 Transport for Switzerland Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20043)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20043)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20043)
+## 🧬 Transportation in Switzerland Specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19931)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19931)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19931)
 
-## 💬 Transport for Switzerland Discussion:
+## 💬 Transportation in Switzerland Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20043)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19931)    
 
 
 ## 🗄️ Categories:

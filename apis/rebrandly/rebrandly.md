@@ -1,14 +1,14 @@
 # Rebrandly
 
-Copy-and-paste in your application/script to create a custom short URL:. Copy-and-paste in your application/script to create a custom short URL:
+Rebrandly is the link management platform to brand, track and share short URLs using a custom domain name
 
 ##  🔗 Links
 **Docs / Website**: https://developers.rebrandly.com/v1/docs
 
 ## 🧬 Rebrandly Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16402)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16402)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16402)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16317)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16317)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16317)
 
 ## 💬 Rebrandly Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -8,9 +8,9 @@ Banking API that allows you to extract financial data such as transaction histor
 **Docs / Website**: 
 
 ## 🧬 Figo Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6364)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6364)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6364)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6361)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6361)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6361)
 
 ## 💬 Figo Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
@@ -31,6 +31,6 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development-)- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics-)- [Payments](https://github.com/apis-list/apis-list#payments-)- [Worldwide](https://github.com/apis-list/apis-list#worldwide-)
+- [Development](https://github.com/apis-list/apis-list#development-)- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics-)- [Payments](https://github.com/apis-list/apis-list#payments-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

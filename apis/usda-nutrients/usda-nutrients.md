@@ -1,24 +1,24 @@
 # USDA Nutrients
 
-FoodData Central is an integrated data system that provides expanded nutrient profile data and links to related agricultural and experimental research. FoodData Central is an integrated data system that provides expanded nutrient profile data and links to related agricultural and experimental research. At this time, only a basic view of search res
+FoodData Central is an integrated data system that provides expanded nutrient profile data and links to related agricultural and experimental research.
 
 ##  🔗 Links
 **Docs / Website**: https://fdc.nal.usda.gov/
 
 ## 🧬 USDA Nutrients Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20912)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20912)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20912)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20799)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20799)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20799)
 
 ## 💬 USDA Nutrients Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20912)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20799)    
 
 
 ## 🗄️ Categories:
-- [Health](https://github.com/apis-list/apis-list#health-)
+- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks-)- [Health](https://github.com/apis-list/apis-list#health-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

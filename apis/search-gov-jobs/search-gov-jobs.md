@@ -1,21 +1,21 @@
 # Search.Gov Jobs
 
-gov • Terms of Service • Site Policies • D. Tap into a list of current jobs openings with the United States government. Email us or call us at 202-969-7426 An Official Website of the U. S. Government Technology Transformation Service, U.  General Services Administration USA
+gov • Terms of Service • Site Policies • D. Tap into a list of current jobs openings with the United States government. Email us or call us at 202-969-7426 An Official Website of the U. S. Government Technology Transformation Service, U. General Services Administration USA
 
 ##  🔗 Links
 **Docs / Website**: https://search.gov/developer/jobs.html
 
 ## 🧬 Search.Gov Jobs Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17306)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17306)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17306)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17223)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17223)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17223)
 
 ## 💬 Search.Gov Jobs Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17306)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17223)    
 
 
 ## 🗄️ Categories:

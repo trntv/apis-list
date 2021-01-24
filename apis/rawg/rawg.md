@@ -2,22 +2,22 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/rawg/logo_256x256.png" alt="RAWG Logo"/>
 </p>
-IO ♛ Keep all games in one profile ✔ See what friends are playing, and find your next great game. Open video game database. Find games by platform, genre, company or find game developers, stores, publishers and many more.  RAWG
+IO ♛ Keep all games in one profile ✔ See what friends are playing, and find your next great game. Open video game database. Find games by platform, genre, company or find game developers, stores, publishers and many more. RAWG
 
 ##  🔗 Links
 **Docs / Website**: https://rawg.io/apidocs
 
 ## 🧬 RAWG Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16257)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16257)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16257)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16173)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16173)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16173)
 
 ## 💬 RAWG Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16257)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16173)    
 
 
 ## 🗄️ Categories:

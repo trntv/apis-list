@@ -2,15 +2,15 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/bitpay/logo_256x256.png" alt="bitpay Logo"/>
 </p>
-A simple, RESTful API to the most powerful bitcoin infrastructure on the planet.  Start accepting bitcoin, store and spend bitcoin securely, or get the BitPay Card
+A simple, RESTful API to the most powerful bitcoin infrastructure on the planet. Start accepting bitcoin, store and spend bitcoin securely, or get the BitPay Card
 
 ##  🔗 Links
 **Docs / Website**: https://bitpay.com/developers
 
 ## 🧬 bitpay Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23183)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23183)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23183)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23072)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23072)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23072)
 
 ## 💬 bitpay Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

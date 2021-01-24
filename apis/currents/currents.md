@@ -2,15 +2,15 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/currents/logo_256x256.png" alt="Currents Logo"/>
 </p>
-Currents - Capture the world news through simple json News API. Currents - Capture the world news through simple json News API
+Currents - Capture the world news through simple json News API.
 
 ##  🔗 Links
 **Docs / Website**: https://currentsapi.services/
 
 ## 🧬 Currents Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4455)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4455)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4455)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4449)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4449)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4449)
 
 ## 💬 Currents Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
@@ -21,6 +21,6 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 
 ## 🗄️ Categories:
-- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds-)
+- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds-)- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

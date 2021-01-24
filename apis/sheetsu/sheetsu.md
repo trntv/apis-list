@@ -2,22 +2,22 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/sheetsu/logo_256x256.png" alt="Sheetsu Logo"/>
 </p>
-Get data from Google Spreadsheet in a matter of seconds.  You can copy the HTML Snippet and paste it into your website without any code. If you are developer, you can use one of many languages or frameworks Sheetsu supports like Ruby, Node, React, JavaScript Python, PHP, JQuery, C#, Swift, or R. Turn Google Spreadsheets into an API
+Get data from Google Spreadsheet in a matter of seconds. You can copy the HTML Snippet and paste it into your website without any code. If you are developer, you can use one of many languages or frameworks Sheetsu supports like Ruby, Node, React, JavaScript Python, PHP, JQuery, C#, Swift, or R. Turn Google Spreadsheets into an API
 
 ##  🔗 Links
 **Docs / Website**: https://docs.sheetsu.com
 
 ## 🧬 Sheetsu Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17449)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17449)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17449)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17366)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17366)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17366)
 
 ## 💬 Sheetsu Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17449)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17366)    
 
 
 ## 🗄️ Categories:

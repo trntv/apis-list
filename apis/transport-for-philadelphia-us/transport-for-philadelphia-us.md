@@ -1,26 +1,26 @@
-# Transport for Philadelphia, US
+# Transportation in Philadelphia, USA
 <p align="center">
-    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-philadelphia-us/logo_256x256.png" alt="Transport for Philadelphia, US Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-philadelphia-us/logo_256x256.png" alt="Transportation in Philadelphia, USA Logo"/>
 </p>
-SEPTA API New - June 5 2015 - Apps for Philly Transportation Hackathon SEPTA and SEPTAdev is proud to be a sponsor of Apps for Philly Transit and we welcome all participants. In additiona to prizes
+Southeastern Pennsylvania Transportation Authority API
 
 ##  🔗 Links
 **Docs / Website**: http://www3.septa.org/hackathon/
 
-## 🧬 Transport for Philadelphia, US Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20009)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20009)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20009)
+## 🧬 Transportation in Philadelphia, USA Specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19896)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19896)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19896)
 
-## 💬 Transport for Philadelphia, US Discussion:
+## 💬 Transportation in Philadelphia, USA Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20009)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19896)    
 
 
 ## 🗄️ Categories:
-- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
+- [Government](https://github.com/apis-list/apis-list#government-)- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

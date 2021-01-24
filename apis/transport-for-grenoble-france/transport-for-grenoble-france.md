@@ -1,21 +1,21 @@
-# Transport for Grenoble, France
+# Transportation in Grenoble, France
 
-mobilites-m, c'est le service unique qui regroupe toutes vos informations de déplacement sur l'aire grenobloise.  mobilites-m, c'est le service unique qui regroupe toutes vos informations de déplacement sur l'aire grenobloise
+Service that brings together all your travel information in the Grenoble area
 
 ##  🔗 Links
 **Docs / Website**: https://www.metromobilite.fr/pages/opendata/OpenDataApi.html
 
-## 🧬 Transport for Grenoble, France Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19929)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19929)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19929)
+## 🧬 Transportation in Grenoble, France Specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19761)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19761)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19761)
 
-## 💬 Transport for Grenoble, France Discussion:
+## 💬 Transportation in Grenoble, France Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19929)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19761)    
 
 
 ## 🗄️ Categories:

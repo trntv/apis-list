@@ -2,15 +2,15 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/whereismytransport/logo_256x256.png" alt="WhereIsMyTransport Logo"/>
 </p>
-WhereIsMyTransport connects public transport data in one place. WhereIsMyTransport connects public transport data in one place.  Our platform helps cities understand transport systems, getting commuters where they want to go
+WhereIsMyTransport connects public transport data in one place. WhereIsMyTransport is the de facto source of mobility data for the world’s largest low- and middle-income cities.
 
 ##  🔗 Links
 **Docs / Website**: https://developer.whereismytransport.com/
 
 ## 🧬 WhereIsMyTransport Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21944)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21944)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21944)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21833)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21833)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21833)
 
 ## 💬 WhereIsMyTransport Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
@@ -21,6 +21,6 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 
 ## 🗄️ Categories:
-- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)- [Worldwide](https://github.com/apis-list/apis-list#worldwide-)
+- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

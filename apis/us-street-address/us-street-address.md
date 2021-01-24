@@ -2,15 +2,15 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/us-street-address/logo_256x256.png" alt="US Street Address Logo"/>
 </p>
-How to verify one or more addresses using the SmartyStreets US Street Address API. How to verify one or more addresses using the SmartyStreets US Street Address API
+Verify one or more addresses using the SmartyStreets US Street Address API
 
 ##  🔗 Links
 **Docs / Website**: https://smartystreets.com/docs/cloud/us-street-api
 
 ## 🧬 US Street Address Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20797)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20797)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20797)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20684)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20684)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20684)
 
 ## 💬 US Street Address Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

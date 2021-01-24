@@ -2,23 +2,23 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/rushtranslate/logo_256x256.png" alt="Rushtranslate Logo"/>
 </p>
-RushTranslate offers certified document translation services in over 60 languages provided by native speaking professionals. RushTranslate provides a REST API for human translation services allowing programmatic placement and management of orders.  Our API is perfect for high volume users who want to automate their workflow. 
-. The RushTranslate API enables human-powered translation services in applications.  The API is used to create orders, retrieve files, request revisions, and more. Responses are JSON formatted
+RushTranslate offers certified document translation services in over 60 languages provided by native speaking professionals. RushTranslate provides a REST API for human translation services allowing programmatic placement and management of orders. Our API is perfect for high volume users who want to automate their workflow. 
+. The RushTranslate API enables human-powered translation services in applications. The API is used to create orders, retrieve files, request revisions, and more. Responses are JSON formatted
 
 ##  🔗 Links
 **Docs / Website**: https://rushtranslate.com/docs
 
 ## 🧬 Rushtranslate Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16930)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16930)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16930)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16846)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16846)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16846)
 
 ## 💬 Rushtranslate Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16930)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16846)    
 
 
 ## 🗄️ Categories:

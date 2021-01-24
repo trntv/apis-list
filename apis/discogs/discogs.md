@@ -1,14 +1,14 @@
 # Discogs
 
-Access database of artists, labels, releases, marketplace and more. Here’s your place to code all things Discogs! The Discogs API lets developers build their own Discogs-powered applications for the web, desktop, and mobile devices.  We hope the API will connect and
+Access database of artists, labels, releases, marketplace and more. Here’s your place to code all things Discogs! The Discogs API lets developers build their own Discogs-powered applications for the web, desktop, and mobile devices.
 
 ##  🔗 Links
 **Docs / Website**: https://www.discogs.com/developers/
 
 ## 🧬 Discogs Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5172)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5172)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5172)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5167)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5167)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5167)
 
 ## 💬 Discogs Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

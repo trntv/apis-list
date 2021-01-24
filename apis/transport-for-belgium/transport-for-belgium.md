@@ -1,21 +1,21 @@
-# Transport for Belgium
+# Transportation in Belgium
 
-API Caveat lector: you want to use a data dump? Don’t harvest our entire API, please just use our datadump in GTFS which you can find here: We are also working on datadumps which give you the delay. API Caveat lector: you want to use a data dump? Don’t harvest our entire API, please just use our datadump in GTFS which you can find here: We are also working on datadumps which give you the delay
+Belgian Transport API
 
 ##  🔗 Links
 **Docs / Website**: https://hello.irail.be/api/
 
-## 🧬 Transport for Belgium Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19811)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19811)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19811)
+## 🧬 Transportation in Belgium Specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19654)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19654)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19654)
 
-## 💬 Transport for Belgium Discussion:
+## 💬 Transportation in Belgium Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19811)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19654)    
 
 
 ## 🗄️ Categories:

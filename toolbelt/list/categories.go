@@ -1,6 +1,6 @@
-package builder
+package list
 
-var CategoryIcons = map[string]string{
+var Categories = map[string]string{
 	"Development":                      "👨‍💻",
 	"Government":                       "🏛️",
 	"Transportation":                   "🚇",
@@ -30,7 +30,6 @@ var CategoryIcons = map[string]string{
 	"Casino & Gambling":                "🎰",
 	"Chats & Messaging":                "💬",
 	"Collaboration":                    "👨‍👩‍👦‍👦",
-	"Worldwide":                        "🗺️",
 	"Education":                        "🎓",
 	"Email & SMS":                      "📨",
 	"Fun":                              "🤪",

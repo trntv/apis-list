@@ -1,14 +1,14 @@
 # Yahoo Weather
 
-Yahoo Weather API for your apps Get up-to-date weather information for any location, including 10-day forecast, wind, atmosphere, astronomy conditions, and more.  You can lookup weather by location
+Yahoo Weather API for your apps Get up-to-date weather information for any location, including 10-day forecast, wind, atmosphere, astronomy conditions, and more. You can lookup weather by location
 
 ##  🔗 Links
 **Docs / Website**: https://developer.yahoo.com/weather/
 
 ## 🧬 Yahoo Weather Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22604)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22604)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22604)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22494)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22494)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22494)
 
 ## 💬 Yahoo Weather Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

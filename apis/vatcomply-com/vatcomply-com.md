@@ -1,21 +1,21 @@
 # VATComply.com
 
-Rate. VAT validation The VAT validation endpoint allows you to check whether a VAT number is valid.  If the VAT number is valid, it returns information about the company with the countries VAT rates
+Rate. VAT validation The VAT validation endpoint allows you to check whether a VAT number is valid. If the VAT number is valid, it returns information about the company with the countries VAT rates
 
 ##  🔗 Links
 **Docs / Website**: https://www.vatcomply.com/documentation
 
 ## 🧬 VATComply.com Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21370)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21370)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21370)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21261)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21261)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21261)
 
 ## 💬 VATComply.com Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21370)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21261)    
 
 
 ## 🗄️ Categories:

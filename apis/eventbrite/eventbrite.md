@@ -2,15 +2,15 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/eventbrite/logo_256x256.png" alt="EventBrite Logo"/>
 </p>
-Eventbrite Python SDK. Contribute to eventbrite/eventbrite-sdk-python development by creating an account on GitHub.  Eventbrite Python SDK
+Eventbrite Python SDK. Contribute to eventbrite/eventbrite-sdk-python development by creating an account on GitHub. Eventbrite Python SDK
 
 ##  🔗 Links
 **Docs / Website**: https://www.eventbrite.com/platform/
 
 ## 🧬 EventBrite Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5933)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5933)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5933)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5930)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5930)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5930)
 
 ## 💬 EventBrite Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

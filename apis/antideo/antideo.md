@@ -2,15 +2,15 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/antideo/logo_256x256.png" alt="Antideo Logo"/>
 </p>
-API for IP and Email Intelligence & Phone Number Validation. API for email validation & IP reputation check for better email list hygiene. Antideo maintains large database with spam and scam records, IP locations and infected ranges, proxy records and many more.  We are keeping our database updated regularly from various sources, as well as collecting some of the data ourselves
+API for IP and Email Intelligence & Phone Number Validation. API for email validation & IP reputation check for better email list hygiene. Antideo maintains large database with spam and scam records, IP locations and infected ranges, proxy records and many more. They are keeping their database updated regularly from various sources, as well as collecting some of the data themselves
 
 ##  🔗 Links
 **Docs / Website**: https://www.antideo.com
 
 ## 🧬 Antideo Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L878)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L878)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L878)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L864)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L864)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L864)
 
 ## 💬 Antideo Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

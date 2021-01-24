@@ -1,14 +1,14 @@
 # SoundCloud
 
-Using the SoundCloud API, you can build applications that take sound on the web to the next level. Latest Updates Twitter Build applications that allow users to upload and share sounds across the web. The SDKs will make it easier to access the SoundCloud API on your framework of choice.  Learn ho
+Using the SoundCloud API, you can build applications that take sound on the web to the next level. Latest Updates Twitter Build applications that allow users to upload and share sounds across the web. The SDKs will make it easier to access the SoundCloud API on your framework of choice. Learn ho
 
 ##  🔗 Links
 **Docs / Website**: https://developers.soundcloud.com
 
 ## 🧬 SoundCloud Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17994)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17994)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17994)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17911)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17911)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17911)
 
 ## 💬 SoundCloud Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

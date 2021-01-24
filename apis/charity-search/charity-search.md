@@ -1,24 +1,24 @@
 # Charity Search
 
-Available API analytics options include detailed traffic breakdowns and reports by account, application or servic. .  Share API performance insights across the organization with crisp, clear reporting. Share API performance insights across the organization with crisp, clear reporting
+The OrgHunter Charity API provides developers access to over 2M charities in it's database
 
 ##  🔗 Links
 **Docs / Website**: http://charityapi.orghunter.com/
 
 ## 🧬 Charity Search Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2752)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2752)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2752)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2744)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2744)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2744)
 
 ## 💬 Charity Search Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2752)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2744)    
 
 
 ## 🗄️ Categories:
-- [Business](https://github.com/apis-list/apis-list#business-)
+- [Other](https://github.com/apis-list/apis-list#other-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

@@ -6,19 +6,19 @@ Czech Holidays API
 **Docs / Website**: https://svatky.adresa.info
 
 ## 🧬 Czech Namedays Calendar Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4472)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4472)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4472)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4467)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4467)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4467)
 
 ## 💬 Czech Namedays Calendar Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4472)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4467)    
 
 
 ## 🗄️ Categories:
-- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time-)- [Government](https://github.com/apis-list/apis-list#government-)- [Worldwide](https://github.com/apis-list/apis-list#worldwide-)
+- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time-)- [Government](https://github.com/apis-list/apis-list#government-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

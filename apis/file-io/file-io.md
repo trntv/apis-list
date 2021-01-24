@@ -1,21 +1,21 @@
 # File.io
 
-io you agree to our Terms of Service and Privacy Policy.  Ephemeral file sharingConvenient, anonymous and secureUploadLearn More by using file. Ephemeral file sharingConvenient, anonymous and secureUploadLearn More by using file
+Ephemeral file sharing. Convenient, anonymous and secure.
 
 ##  🔗 Links
 **Docs / Website**: https://www.file.io
 
 ## 🧬 File.io Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6403)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6403)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6403)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6399)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6399)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6399)
 
 ## 💬 File.io Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6403)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6399)    
 
 
 ## 🗄️ Categories:

@@ -1,14 +1,14 @@
 # Tradier
 
-Tradier's technology platform - an innovative set of fully hosted APIs, modules and 'out of the box' tools built to serve developers, providers and investors.  Tradier's technology platform - an innovative set of fully hosted APIs, modules and 'out of the box' tools built to serve developers, providers and investors
+Tradier's technology platform - an innovative set of fully hosted APIs, modules and 'out of the box' tools built to serve developers, providers and investors
 
 ##  🔗 Links
 **Docs / Website**: https://developer.tradier.com
 
 ## 🧬 Tradier Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19647)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19647)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19647)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19547)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19547)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19547)
 
 ## 💬 Tradier Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

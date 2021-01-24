@@ -1,6 +1,6 @@
 # Halo
 
-With this API you’ll be able to craft your own experiences using the same APIs we use to build the game. Halo Public API
+Halo Public API. With this API you’ll be able to craft your own experiences using the same APIs Halo's team uses to build the game.
 
 ##  🔗 Links
 **Docs / Website**: https://developer.haloapi.com/

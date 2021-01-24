@@ -2,15 +2,15 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/thingspeak/logo_256x256.png" alt="ThingSpeak Logo"/>
 </p>
-“Internet of Things” application and API to store and retrieve data from things using HTTP over the Internet or via a Local Area Network. ThingSpeak is an open source “Internet of Things” application and API to store and retrieve data from things using HTTP over the Internet or via a Local Area Network. With ThingSpeak, you can creat
+Ppen source “Internet of Things” application and API to store and retrieve data from things using HTTP over the Internet or via a Local Area Network.
 
 ##  🔗 Links
 **Docs / Website**: https://github.com/iobridge/ThingSpeak
 
 ## 🧬 ThingSpeak Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19481)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19481)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19481)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19381)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19381)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19381)
 
 ## 💬 ThingSpeak Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

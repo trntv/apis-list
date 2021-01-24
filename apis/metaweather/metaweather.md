@@ -1,21 +1,21 @@
 # MetaWeather
 
-API MetaWeather provides an API that delivers JSON over HTTPS for access to our data.  Drop me an email if you're going to make more than maybe a request a minute to this. We also ask that you link
+API MetaWeather provides an API that delivers JSON over HTTPS for access to our data.
 
 ##  🔗 Links
 **Docs / Website**: https://www.metaweather.com/api/
 
 ## 🧬 MetaWeather Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12372)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12372)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12372)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12357)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12357)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12357)
 
 ## 💬 MetaWeather Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12372)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12357)    
 
 
 ## 🗄️ Categories:

@@ -1,14 +1,14 @@
 # The Audio DB
 
-TheAudioDB is a community database of Music Artwork, Metadata and Charts with a free JSON Music API. TheAudioDB is a community database of Music Artwork, Metadata and Charts with a free JSON Music API
+TheAudioDB is a community database of Music Artwork, Metadata and Charts with a free JSON Music API
 
 ##  🔗 Links
 **Docs / Website**: http://www.theaudiodb.com
 
 ## 🧬 The Audio DB Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19263)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19263)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19263)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19164)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19164)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19164)
 
 ## 💬 The Audio DB Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
@@ -23,6 +23,6 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 
 ## 🗄️ Categories:
-- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data-)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

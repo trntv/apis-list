@@ -1,14 +1,14 @@
 # Yummly
 
-Find food recipes.  The Yummly Recipe API lets you integrate recipes and faceted recipe search into your websites or mobile applications.  Since Yummly understands the recipe – ingredients, diets, allergies, nutrition, taste, techniques & more.  We can connect your users with the best recipes available for their unique food preferences
+Find food recipes. The Yummly Recipe API lets you integrate recipes and faceted recipe search into your websites or mobile applications. Since Yummly understands the recipe – ingredients, diets, allergies, nutrition, taste, techniques & more. It can connect your users with the best recipes available for their unique food preferences
 
 ##  🔗 Links
 **Docs / Website**: https://developer.yummly.com/
 
 ## 🧬 Yummly Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22967)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22967)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22967)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22856)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22856)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22856)
 
 ## 💬 Yummly Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

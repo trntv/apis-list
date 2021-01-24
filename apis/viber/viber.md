@@ -2,22 +2,22 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/viber/logo_256x256.png" alt="Viber Logo"/>
 </p>
-Millions of Viber users call, text, and send photos to each other, worldwide - for free. With Viber’s APIs, can create unique experiences for users at scale. Viber lets everyone in the world connect.  Freely
+Millions of Viber users call, text, and send photos to each other, worldwide - for free. With Viber’s APIs, can create unique experiences for users at scale. Viber lets everyone in the world connect. Freely
 
 ##  🔗 Links
 **Docs / Website**: https://developers.viber.com/docs/api/
 
 ## 🧬 Viber Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21513)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21513)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21513)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21403)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21403)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21403)
 
 ## 💬 Viber Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21513)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21403)    
 
 
 ## 🗄️ Categories:

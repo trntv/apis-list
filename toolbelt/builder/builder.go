@@ -29,7 +29,7 @@ func Render(l list.APIs, dir string) error {
 			return s
 		},
 		"category_icon": func(s string) string {
-			icon := CategoryIcons[s]
+			icon := list.Categories[s]
 			if icon == "" {
 				icon = "📃"
 			}

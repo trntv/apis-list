@@ -2,15 +2,15 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/mysocialapp/logo_256x256.png" alt="MySocialApp Logo"/>
 </p>
-Build scalable news feed for your app. MySocialApp is simple, powerful APIs are used by some of the largest and most popular apps.  Save months of development headache and focus on what makes your app unique. SDK available for Android, iOS, Java, Swift, Kotlin, Javascript, Ruby, Go, Python, PHP. . Seamless Social Networking features, API, SDK for any app
+Build scalable news feed for your app. MySocialApp is simple, powerful APIs are used by some of the largest and most popular apps. Save months of development headache and focus on what makes your app unique. SDK available for Android, iOS, Java, Swift, Kotlin, Javascript, Ruby, Go, Python, PHP. . Seamless Social Networking features, API, SDK for any app
 
 ##  🔗 Links
 **Docs / Website**: https://mysocialapp.io
 
 ## 🧬 MySocialApp Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12889)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12889)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12889)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12874)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12874)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12874)
 
 ## 💬 MySocialApp Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

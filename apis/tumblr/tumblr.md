@@ -1,14 +1,14 @@
 # Tumblr
 
-Create new ways to use Tumblr with access to content, likes, followers, and drafts. Tumblr is a place to express yourself, discover yourself, and bond over the stuff you love.  It's where your interests connect you with your people
+Create new ways to use Tumblr with access to content, likes, followers, and drafts. Tumblr is a place to express yourself, discover yourself, and bond over the stuff you love. It's where your interests connect you with your people
 
 ##  🔗 Links
 **Docs / Website**: https://www.tumblr.com/docs/en/api/v2
 
 ## 🧬 Tumblr Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20354)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20354)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20354)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20243)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20243)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20243)
 
 ## 💬 Tumblr Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -2,22 +2,22 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/loripsum/logo_256x256.png" alt="Loripsum Logo"/>
 </p>
-This Lorem Ipsum generator fits all your Lipsum needs! Come on over, make some Lipsum and copy-paste like a pro!. This Lorem Ipsum generator fits all your Lipsum needs! Come on over, make some Lipsum and copy-paste like a pro!
+This Lorem Ipsum generator fits all your Lipsum needs! Come on over, make some Lipsum and copy-paste like a pro!
 
 ##  🔗 Links
 **Docs / Website**: http://loripsum.net/
 
 ## 🧬 Loripsum Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11648)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11648)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11648)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11632)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11632)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11632)
 
 ## 💬 Loripsum Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11648)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11632)    
 
 
 ## 🗄️ Categories:

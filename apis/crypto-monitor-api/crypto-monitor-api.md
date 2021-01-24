@@ -1,21 +1,21 @@
 # Crypto Monitor Api
 
-The Crypto monitor API provides bots that show savings in cryptocurrencies.  Bad Gateway
+The Crypto monitor API provides bots that show savings in cryptocurrencies. Bad Gateway
 
 ##  🔗 Links
 **Docs / Website**: https://api.crypto-savings.com/v1/
 
 ## 🧬 Crypto Monitor Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4258)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4258)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4258)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4252)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4252)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4252)
 
 ## 💬 Crypto Monitor Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4258)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4252)    
 
 
 ## 🗄️ Categories:

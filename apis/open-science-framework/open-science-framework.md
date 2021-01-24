@@ -1,24 +1,21 @@
 # Open Science Framework
 
-Hosted on the Open Science Framework
-.  
- A place for people to comment on the public OSF API. 
- A place for people to comment on the public OSF API.  See the links below for more information, including changelogs and examples.  Commenting is accessed via the blue word balloons in the upper-right hand corner of this screen
+OSF is a free, open platform to support your research and enable collaboration.
 
 ##  🔗 Links
 **Docs / Website**: https://osf.io/y9jdt/wiki/home/
 
 ## 🧬 Open Science Framework Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14204)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14204)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14204)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14188)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14188)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14188)
 
 ## 💬 Open Science Framework Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14204)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14188)    
 
 
 ## 🗄️ Categories:

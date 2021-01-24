@@ -1,21 +1,21 @@
-# Stock News Api
+# Stock News API
 
-Get the latest stock news from the best news sources. Use our API to get relevant video and article content from companies in the stock market. Get the latest financial stock news from the best news sources. Use our API to get relevant video content from companies in the stock market
+Get the latest stock news from the best news sources. Use this API to get relevant video and article content from companies in the stock market.
 
 ##  🔗 Links
 **Docs / Website**: https://stocknewsapi.com/
 
-## 🧬 Stock News Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18353)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18353)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18353)
+## 🧬 Stock News API Specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18270)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18270)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18270)
 
-## 💬 Stock News Api Discussion:
+## 💬 Stock News API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18353)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18270)    
 
 
 ## 🗄️ Categories:

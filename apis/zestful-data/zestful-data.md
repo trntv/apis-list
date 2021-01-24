@@ -2,22 +2,22 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/zestful-data/logo_256x256.png" alt="Zestful Data Logo"/>
 </p>
-The Zestful's ingredient parser API turns plain recipe strings into beautiful, structured data. You can get 30 ingredient parses per day for free.  A machine-learning-powered ingredient parser API. Parse your recipe ingredients into clean, structured JSON. Built to power the best food apps online
+The Zestful's ingredient parser API turns plain recipe strings into beautiful, structured data. You can get 30 ingredient parses per day for free. A machine-learning-powered ingredient parser API. Parse your recipe ingredients into clean, structured JSON. Built to power the best food apps online
 
 ##  🔗 Links
 **Docs / Website**: https://zestfuldata.com/
 
 ## 🧬 Zestful Data Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23035)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23035)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23035)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22922)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22922)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22922)
 
 ## 💬 Zestful Data Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23035)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22922)    
 
 
 ## 🗄️ Categories:

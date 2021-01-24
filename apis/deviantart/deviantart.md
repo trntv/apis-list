@@ -2,15 +2,15 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/deviantart/logo_256x256.png" alt="DeviantArt Logo"/>
 </p>
-The largest social networking website for artists and art enthusiasts.  Find out how applications and websites integrate with DeviantArt and get started with oAuth 2. 0
+The largest social networking website for artists and art enthusiasts. Find out how applications and websites integrate with DeviantArt and get started with oAuth 2. 0
 
 ##  🔗 Links
 **Docs / Website**: https://www.deviantart.com/developers/
 
 ## 🧬 DeviantArt Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5075)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5075)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5075)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5070)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5070)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5070)
 
 ## 💬 DeviantArt Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

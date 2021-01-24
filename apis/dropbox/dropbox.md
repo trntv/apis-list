@@ -1,14 +1,14 @@
 # Dropbox
 
-API for accessing stored files and pictures which is easy to use and free for small amounts of data.  With the DBX Platform, you can go from idea to implementation quickly and easily. You'll save time and write fewer lines of code with SDKs, powerful core API, and thorough documentation
+API for accessing stored files and pictures which is easy to use and free for small amounts of data. With the DBX Platform, you can go from idea to implementation quickly and easily. You'll save time and write fewer lines of code with SDKs, powerful core API, and thorough documentation
 
 ##  🔗 Links
 **Docs / Website**: https://www.dropbox.com/developers
 
 ## 🧬 Dropbox Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5571)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5571)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5571)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5567)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5567)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5567)
 
 ## 💬 Dropbox Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

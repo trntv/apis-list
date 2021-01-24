@@ -1,6 +1,7 @@
 package main
 
 import (
+	"errors"
 	"fmt"
 	"github.com/apis-list/apis-list/toolbelt/builder"
 	"github.com/apis-list/apis-list/toolbelt/list"
@@ -24,6 +25,20 @@ func main() {
 					dir, err := os.Getwd()
 					if err != nil {
 						return err
+					}
+
+					var missingCategories bool
+					for _, api := range apis {
+						for _, category := range api.Categories {
+							if _, ok := list.Categories[category]; !ok {
+								missingCategories = true
+								fmt.Printf("Missing category - API: %s, Category: %s\r\n", api.Name, category)
+							}
+						}
+					}
+
+					if missingCategories {
+						return errors.New("categories lint failed")
 					}
 
 					return builder.Render(apis, dir)
@@ -58,7 +73,7 @@ func main() {
 				},
 			},
 			{
-				Name: "check-libraries-links",
+				Name: "check-links:libraries",
 				Action: func(c *cli.Context) error {
 					apis, err := list.ReadList(c.Args().First())
 					if err != nil {

@@ -1,14 +1,14 @@
 # Nutritionix
 
-Already signed up and logged in? View your API key now. Try searching the API right now! The search engine at nutri. If this is your first time here, we recommend you. signup for your API key first
+Add robust nutrition tracking capability to any health app.
 
 ##  🔗 Links
 **Docs / Website**: https://developer.nutritionix.com/
 
 ## 🧬 Nutritionix Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13666)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13666)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13666)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13650)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13650)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13650)
 
 ## 💬 Nutritionix Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

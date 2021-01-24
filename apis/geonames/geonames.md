@@ -66,6 +66,6 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics-)- [Worldwide](https://github.com/apis-list/apis-list#worldwide-)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

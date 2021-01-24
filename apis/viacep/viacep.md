@@ -1,21 +1,21 @@
 # ViaCep
 
-Webservice gratuito para pesquisa de endereço via CEP, suporta Ajax e retorno no formato JSON, XML, PIPED ou QUERY String. Webservice gratuito para pesquisa de endereço via CEP, suporta Ajax e retorno no formato JSON, XML, PIPED ou QUERY String
+Free webservice for address search via CEP
 
 ##  🔗 Links
 **Docs / Website**: https://viacep.com.br
 
 ## 🧬 ViaCep Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21502)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21502)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21502)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21392)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21392)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21392)
 
 ## 💬 ViaCep Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21502)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21392)    
 
 
 ## 🗄️ Categories:

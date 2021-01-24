@@ -1,21 +1,21 @@
 # Drupal.org
 
-This may happen as a result of the following: Javascript is disabled or blocked by an extension (ad bl. You have been blocked because we believe you are using automation tools to browse the website
+Drupal.org uses the RESTful Web Services module to expose node, comment, user, file, taxonomy_vocabulary and taxonomy_term resources
 
 ##  🔗 Links
 **Docs / Website**: https://www.drupal.org/drupalorg/docs/api
 
 ## 🧬 Drupal.org Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5664)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5664)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5664)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5660)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5660)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5660)
 
 ## 💬 Drupal.org Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5664)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5660)    
 
 
 ## 🗄️ Categories:

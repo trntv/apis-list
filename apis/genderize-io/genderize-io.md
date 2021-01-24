@@ -1,6 +1,6 @@
 # Genderize.io
 
-Free API to predict the gender of a name.  Easy integration into any platform.  Over 250
+Free API to predict the gender of a name. Easy integration into any platform. Over 250
 
 ##  🔗 Links
 **Docs / Website**: https://genderize.io

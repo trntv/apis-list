@@ -2,22 +2,22 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/coinranking/logo.png" alt="CoinRanking Logo"/>
 </p>
-Introduction Power your projects with the high quality cryptocurrency data coinranking.com provides.  They provides data about coins, exchanges, markets & more
+Introduction Power your projects with the high quality cryptocurrency data coinranking.com provides. They provides data about coins, exchanges, markets & more
 
 ##  🔗 Links
 **Docs / Website**: https://docs.coinranking.com/
 
 ## 🧬 CoinRanking Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3828)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3828)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3828)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3822)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3822)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3822)
 
 ## 💬 CoinRanking Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3828)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3822)    
 
 
 ## 🗄️ Categories:

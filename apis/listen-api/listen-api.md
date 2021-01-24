@@ -2,22 +2,22 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/listen-api/logo_256x256.png" alt="Listen Api Logo"/>
 </p>
-Simple & no-nonsense podcast search & directory API. Search the meta data of all podcasts and episodes on the Internet by people, places, or topics. Best podcast API trusted by 2,104 companies and developers.  Search 1,904,658 podcasts and 91,498,333 episodes by people or topics
+Simple & no-nonsense podcast search & directory API. Search the meta data of all podcasts and episodes on the Internet by people, places, or topics. Best podcast API trusted by 2,104 companies and developers. Search 1,904,658 podcasts and 91,498,333 episodes by people or topics
 
 ##  🔗 Links
 **Docs / Website**: https://www.listennotes.com/api/
 
 ## 🧬 Listen Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11431)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11431)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11431)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11414)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11414)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11414)
 
 ## 💬 Listen Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11431)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11414)    
 
 
 ## 🗄️ Categories:

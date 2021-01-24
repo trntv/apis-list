@@ -1,21 +1,21 @@
-# Lufthansa Open Api
+# Lufthansa Open API
 
-Sign In Register Welcome to the Lufthansa Developer Network!. Use the data of Europs biggest airline group ! Besides standard information like flightstatus or inflight admenities we are also offering a partner program were we are compensation all queries that actually lead to flight bookings!
+Lufthansa Developer Network. Use the data of Europe's biggest airline group! Fight status,inflight amenities, partner program
 
 ##  🔗 Links
 **Docs / Website**: https://developer.lufthansa.com/
 
-## 🧬 Lufthansa Open Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11685)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11685)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11685)
+## 🧬 Lufthansa Open API Specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11669)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11669)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11669)
 
-## 💬 Lufthansa Open Api Discussion:
+## 💬 Lufthansa Open API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11685)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11669)    
 
 
 ## 🗄️ Categories:

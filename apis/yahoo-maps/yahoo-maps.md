@@ -2,15 +2,15 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/yahoo-maps/logo_256x256.png" alt="Yahoo Maps Logo"/>
 </p>
-Yahoo Maps lets you easily embed rich and interactive maps using your choice of platform.  Measure, monetize, advertise and improve your apps with Yahoo tools. Join the 200,000 developers using Yahoo tools to build their app businesses
+Yahoo Maps lets you easily embed rich and interactive maps using your choice of platform. Measure, monetize, advertise and improve your apps with Yahoo tools. Join the 200,000 developers using Yahoo tools to build their app businesses
 
 ##  🔗 Links
 **Docs / Website**: https://developer.yahoo.com/maps/
 
 ## 🧬 Yahoo Maps Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22576)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22576)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22576)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22466)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22466)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22466)
 
 ## 💬 Yahoo Maps Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
