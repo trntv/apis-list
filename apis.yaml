@@ -10748,8 +10748,8 @@
 - name: Judge0 API
   slug: judge0-api
   categories:
-    - Other
-  description: Judge0 - API Documentation Judge0 is a robust, scalable, and open-source online code execution system that can be used to build a wide range of applications that need online code execution features
+    - Development
+  description: Judge0 is a robust, scalable, and open-source online code execution system that can be used to build a wide range of applications that need online code execution features
   is_free: false
   type: REST
   is_active: true
