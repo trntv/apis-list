@@ -8,9 +8,9 @@ Additionally, you may use the VK API to control much of the functionality on the
 **Docs / Website**: https://vk.com/dev
 
 ## 🧬 VK Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18882)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18882)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18882)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18880)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18880)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18880)
 
 ## 💬 VK Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

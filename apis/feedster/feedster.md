@@ -8,16 +8,16 @@ Searchable and categorized collections of RSS feeds
 **Docs / Website**: https://api.feedster.me/v1/docs
 
 ## 🧬 Feedster Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6329)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6329)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6329)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6328)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6328)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6328)
 
 ## 💬 Feedster Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6329)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6328)    
 
 
 ## 🗄️ Categories:

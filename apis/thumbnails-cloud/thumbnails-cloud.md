@@ -6,16 +6,16 @@ Cloud API generates JPG and PDF file previews for all common document formats, u
 **Docs / Website**: https://thumbnails.cloud
 
 ## 🧬 Thumbnails Cloud Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19417)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19417)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19417)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19415)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19415)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19415)
 
 ## 💬 Thumbnails Cloud Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19417)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19415)    
 
 
 ## 🗄️ Categories:

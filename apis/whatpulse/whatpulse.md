@@ -8,16 +8,16 @@ Get to know your time with your computer
 **Docs / Website**: https://whatpulse.org/pages/webapi/
 
 ## 🧬 WhatPulse Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21810)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21810)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21810)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21808)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21808)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21808)
 
 ## 💬 WhatPulse Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21810)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21808)    
 
 
 ## 🗄️ Categories:

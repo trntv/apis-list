@@ -8,16 +8,16 @@ TMDb provides powerful searches as well as powerful movie discovery. The Movie D
 **Docs / Website**: https://www.themoviedb.org/documentation/api
 
 ## 🧬 TMDb Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18631)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18631)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18631)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18629)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18629)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18629)
 
 ## 💬 TMDb Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18631)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18629)    
 
 
 ## 🗄️ Categories:

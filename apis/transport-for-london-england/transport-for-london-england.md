@@ -8,19 +8,19 @@ Transport for London open data. All public TfL data (or 'open data') is freely r
 **Docs / Website**: https://api.tfl.gov.uk
 
 ## 🧬 Transportation in London, UK Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19807)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19807)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19807)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19805)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19805)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19805)
 
 ## 💬 Transportation in London, UK Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19807)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19805)    
 
 
 ## 🗄️ Categories:
-- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
+- [Transportation](https://github.com/apis-list/apis-list#transportation-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

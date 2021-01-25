@@ -1,9 +1,7 @@
-**Before you begin**
-
-This project is under heavy development. Structure, tooling and content are being constantly reviewing and improving.
-You can join project creation if you have any ideas how to make it better or time to help.
-
 # List of Public APIs
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/apis-list/apis-list)
+![Contributions: Welcome](https://img.shields.io/badge/contributions-welcome-green)
+![APIs: 1200+](https://img.shields.io/badge/apis-1200+-violet)
 This project is an attempt to categorise and compile information about different public APIs into one place. Its goal is to build
 most complete and handy list which will help developers to find APIs most suitable for their needs.
 It includes APIs description, links to docs, specification, list of SDK and libraries, logo etc.
@@ -61,16 +59,15 @@ Discuss any topic related to the specific API you can [here](https://github.com/
     - [Music & Audio](#music--audio-) 🎸
     - [News & Feeds](#news--feeds-) 📰
     - [Open Source](#open-source-) 🔓
-    - [Other](#other-) ✨
     - [Payments](#payments-) 💳
     - [Point of Interest](#point-of-interest-) 🍺
     - [Post & Logistics](#post--logistics-) 📬
     - [Project Management](#project-management-) 🚧
     - [Random](#random-) 🎲
     - [Real Estate](#real-estate-) 🏗️
-    - [Recognition](#recognition-) 📃
+    - [Recognition](#recognition-) 🔬
     - [Science & Math](#science--math-) 🔬
-    - [Scrapers & Data Mining](#scrapers--data-mining-) 📃
+    - [Scrapers & Data Mining](#scrapers--data-mining-) 🕸️
     - [Search](#search-) 🔎
     - [Security](#security-) 🛡️
     - [Social](#social-) 📃
@@ -80,16 +77,18 @@ Discuss any topic related to the specific API you can [here](https://github.com/
     - [Testing](#testing-) 🐞
     - [Text Analysis & Tools](#text-analysis--tools-) 📖
     - [Translation](#translation-) ㊗️
+    - [Transportation](#transportation-) 🚇
     - [Travel](#travel-) ✈️
     - [URLs](#urls-) 🔗
     - [Validation & Verification](#validation--verification-) ✅
-    - [Vehicle & Transportation](#vehicle--transportation-) 🚗
+    - [Vehicles](#vehicles-) 🚗
     - [Video & Media](#video--media-) 🎥
     - [Virtual & Augmented Reality](#virtual--augmented-reality-) 📱
     - [Visualizations](#visualizations-) 📊
     - [Voice](#voice-) 🎙️
     - [Weather](#weather-) ☔
     - [Wiki](#wiki-) 📃
+    - [Other](#other-) ✨
 - [Graveyard](#graveyard) 🪦
 - [Contributors](#contributors)
 - [Similar projects](#similar-projects)
@@ -486,7 +485,6 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Amazon Product Advertising API](https://github.com/apis-list/apis-list/blob/main/apis/amazon-product-advertising-api/amazon-product-advertising-api.md) - The web address you entered is not a functioning page on our site
 - [Barzahlen](https://github.com/apis-list/apis-list/blob/main/apis/barzahlen/barzahlen.md) - viafintech API v2 allows you to create payment, partial payment, payout, and refund slips customers can use in stores like supermarkets to pay or receive money
 - [Best Buy Commerce API](https://github.com/apis-list/apis-list/blob/main/apis/best-buy-commerce-api/best-buy-commerce-api.md) - Allows companies to conduct commerce with Best Buy services within their own e-commerce application
-- [BlaBlaCar](https://github.com/apis-list/apis-list/blob/main/apis/blablacar/blablacar.md) - Connects people together, making it possible to travel literally anywhere, directly
 - [BlockScore](https://github.com/apis-list/apis-list/blob/main/apis/blockscore/blockscore.md) - A real-time API for verifying an identity by name, address, date of birth, and social security number
 - [Braintree](https://github.com/apis-list/apis-list/blob/main/apis/braintree/braintree.md) - Specializes in mobile and web payment systems for ecommerce companies
 - [Bratabase](https://github.com/apis-list/apis-list/blob/main/apis/bratabase/bratabase.md) - Bratabase API Widget
@@ -639,7 +637,6 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Satyr](https://github.com/apis-list/apis-list/blob/main/apis/satyr/satyr.md) - Free powerful API for generating dummy images with unique features like delay, aspect ratio, variable resolution, themes, flags and offline mode
 - [Scraper.AI](https://github.com/apis-list/apis-list/blob/main/apis/scraper-ai/scraper-ai.md) - Scraper
 - [Scrapestack](https://github.com/apis-list/apis-list/blob/main/apis/scrapestack/scrapestack.md) - Use this proxy and web scraping REST API to extract html data from any web page, supporting 100 geolocations, CAPTCHAs and IP rotation for millions of IPs
-- [Smartcar](https://github.com/apis-list/apis-list/blob/main/apis/smartcar/smartcar.md) - Build web and mobile apps that communicate with vehicles
 - [Swagger](https://github.com/apis-list/apis-list/blob/main/apis/swagger/swagger.md) - Find out how Swagger can help you and get started today
 - [TLDRLegal Licenses API](https://github.com/apis-list/apis-list/blob/main/apis/tldrlegal-licenses-api/tldrlegal-licenses-api.md) - Software Licenses in Plain English
 - [Team Foundation Server](https://github.com/apis-list/apis-list/blob/main/apis/team-foundation-server/team-foundation-server.md) - Overview of integrating with Azure DevOps
@@ -1102,7 +1099,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Everypixel](https://github.com/apis-list/apis-list/blob/main/apis/everypixel/everypixel.md) - Automatic image keywording and categorization API
 - [Filestack](https://github.com/apis-list/apis-list/blob/main/apis/filestack/filestack.md) - API for image and file manipulation, 250 uploads and 500 uploads per month for free, free CDN, HTML widget
 - [Flickr](https://github.com/apis-list/apis-list/blob/main/apis/flickr/flickr.md) - Search through user Flickr content, contacts, upload or replace photos
-- [Getscreenshot By Rasterwise](https://github.com/apis-list/apis-list/blob/main/apis/getscreenshot-by-rasterwise/getscreenshot-by-rasterwise.md) - A successful request to the API will return a simple JSON that includes a URL pointing to the resulting screen capture. GetScreenshot is an affordable and highly scalable screenshot API service, with integrated rendering customization and workflows like email and webhooks. GetScreenshot is a powerful programmable API that allows you to do screenshot operations at scale and for less than the existing solutions.
+- [Getscreenshot By Rasterwise](https://github.com/apis-list/apis-list/blob/main/apis/getscreenshot-by-rasterwise/getscreenshot-by-rasterwise.md) - GetScreenshot is an affordable and highly scalable screenshot API service
 - [Getty Images](https://github.com/apis-list/apis-list/blob/main/apis/getty-images/getty-images.md) - Page moved here
 - [Gfycat](https://github.com/apis-list/apis-list/blob/main/apis/gfycat/gfycat.md) - Gfycat’s API - collection of GIFs
 - [Gifs.Com Public API](https://github.com/apis-list/apis-list/blob/main/apis/gifs-com-public-api/gifs-com-public-api.md) - com API makes it dead simple to convert and transcode a vast array of media into our HTML5 optimized gifs
@@ -1257,7 +1254,6 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Scribble](https://github.com/apis-list/apis-list/blob/main/apis/scribble/scribble.md) - This service is an easy way to draw and share maps
 - [Shippo](https://github.com/apis-list/apis-list/blob/main/apis/shippo/shippo.md) - Find the best shipping rates, integrate with e-commerce platforms, print shipping labels, track package delivery, and verify addresses with either our shipping API or web app
 - [Skywatch](https://github.com/apis-list/apis-list/blob/main/apis/skywatch/skywatch.md) - Instead, EarthCache allows development teams to focus on the business application and in delivering actionable intelligence to the end-user
-- [Smartcar](https://github.com/apis-list/apis-list/blob/main/apis/smartcar/smartcar.md) - Build web and mobile apps that communicate with vehicles
 - [Smartip.Io](https://github.com/apis-list/apis-list/blob/main/apis/smartip-io/smartip-io.md) - SmartIP offers the following data points:
 - [Strava](https://github.com/apis-list/apis-list/blob/main/apis/strava/strava.md) - API for accessing and managing data about athletes, activities and segments
 - [Sweden](https://github.com/apis-list/apis-list/blob/main/apis/sweden/sweden.md) - Information you need to get started using PostNord API
@@ -1328,6 +1324,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Genius](https://github.com/apis-list/apis-list/blob/main/apis/genius/genius.md) - Allows users to find details about Genius artists and songs
 - [Genrenator](https://github.com/apis-list/apis-list/blob/main/apis/genrenator/genrenator.md) - Binary Jazz genrenator
 - [Gracenote](https://github.com/apis-list/apis-list/blob/main/apis/gracenote/gracenote.md) - Largest source of music and video metadata on the planet
+- [Izi](https://github.com/apis-list/apis-list/blob/main/apis/izi/izi.md) - izi
 - [Jamendo](https://github.com/apis-list/apis-list/blob/main/apis/jamendo/jamendo.md) - Jamendo Api Documentation
 - [KKBOX](https://github.com/apis-list/apis-list/blob/main/apis/kkbox/kkbox.md) - Get ready to unbox the joy of music
 - [LastFm](https://github.com/apis-list/apis-list/blob/main/apis/lastfm/lastfm.md) - fm
@@ -1491,6 +1488,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Onfleet API](https://github.com/apis-list/apis-list/blob/main/apis/onfleet-api/onfleet-api.md) - Onfleet is the easiest way for businesses to manage and analyze their last-mile delivery operations
 - [PostcodeData.nl](https://github.com/apis-list/apis-list/blob/main/apis/postcodedata-nl/postcodedata-nl.md) - Netherland's post codes search
 - [Postcodes.io](https://github.com/apis-list/apis-list/blob/main/apis/postcodes-io/postcodes-io.md) - Search, validate and reverse geocode postcodes
+- [Postmates](https://github.com/apis-list/apis-list/blob/main/apis/postmates/postmates.md) - Build on-demand delivery into your app or website
 - [Postmon](https://github.com/apis-list/apis-list/blob/main/apis/postmon/postmon.md) - API to query zip codes and orders in an easy, fast and free way
 - [Quantumdigital](https://github.com/apis-list/apis-list/blob/main/apis/quantumdigital/quantumdigital.md) - QuantumDigital’s APIs make navigating the USPS, securing national consumer and business lists, uploading your own designs or lists, and shipping small order marketing materials a breeze
 - [Shippo](https://github.com/apis-list/apis-list/blob/main/apis/shippo/shippo.md) - Find the best shipping rates, integrate with e-commerce platforms, print shipping labels, track package delivery, and verify addresses with either our shipping API or web app
@@ -1531,7 +1529,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Graphql360](https://github.com/apis-list/apis-list/blob/main/apis/graphql360/graphql360.md) - Create and consume 360 degree panoramic tours using a GraphQL API
 - [HouseCanary Analytics API](https://github.com/apis-list/apis-list/blob/main/apis/housecanary-analytics-api/housecanary-analytics-api.md) - Real estate investors and lenders can make decisions in seconds that used to take weeks, using the most accurate proprietary and public record data available
 
- ### Recognition 📃
+ ### Recognition 🔬
 - [Anti-Captcha](https://github.com/apis-list/apis-list/blob/main/apis/anti-captcha/anti-captcha.md) - Access to Anti-Captcha’s API
 - [AudD](https://github.com/apis-list/apis-list/blob/main/apis/audd/audd.md) - AudD Music Recognition API Docs: how to identify songs in audio using our API
 - [Clarifai](https://github.com/apis-list/apis-list/blob/main/apis/clarifai/clarifai.md) - Whether you have one input or billions, you are only steps away from using AI to power your business applications
@@ -1567,7 +1565,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [arcsecond.io](https://github.com/apis-list/apis-list/blob/main/apis/arcsecond-io/arcsecond-io.md) - Unified REST APIs for world-wide astronomy data
 - [inspirehep.net](https://github.com/apis-list/apis-list/blob/main/apis/inspirehep-net/inspirehep-net.md) - INSPIRE API Q: I want to do automated searching and receive machine readable responses
 
- ### Scrapers & Data Mining 📃
+ ### Scrapers & Data Mining 🕸️
 - [ApiFlash](https://github.com/apis-list/apis-list/blob/main/apis/apiflash/apiflash.md) - Chrome based screenshot API to convert URLs to images. ApiFlash is an easy to use screenshot API for developers. It is powerful and
 - [BetterMeta](https://github.com/apis-list/apis-list/blob/main/apis/bettermeta/bettermeta.md) - A simple API to return the meta tags of any site in a digestable JSON format
 - [Blogcast](https://github.com/apis-list/apis-list/blob/main/apis/blogcast/blogcast.md) - Generate audio versions of your articles
@@ -1576,7 +1574,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Currents](https://github.com/apis-list/apis-list/blob/main/apis/currents/currents.md) - Currents - Capture the world news through simple json News API
 - [Dashblock](https://github.com/apis-list/apis-list/blob/main/apis/dashblock/dashblock.md) - The easiest way to access websites programmatically and collect structured data
 - [Elis](https://github.com/apis-list/apis-list/blob/main/apis/elis/elis.md) - Automate data extraction from your documents with Artificial Intelligence
-- [Getscreenshot By Rasterwise](https://github.com/apis-list/apis-list/blob/main/apis/getscreenshot-by-rasterwise/getscreenshot-by-rasterwise.md) - A successful request to the API will return a simple JSON that includes a URL pointing to the resulting screen capture. GetScreenshot is an affordable and highly scalable screenshot API service, with integrated rendering customization and workflows like email and webhooks. GetScreenshot is a powerful programmable API that allows you to do screenshot operations at scale and for less than the existing solutions.
+- [Getscreenshot By Rasterwise](https://github.com/apis-list/apis-list/blob/main/apis/getscreenshot-by-rasterwise/getscreenshot-by-rasterwise.md) - GetScreenshot is an affordable and highly scalable screenshot API service
 - [Icelandic APIs](https://github.com/apis-list/apis-list/blob/main/apis/icelandic-apis/icelandic-apis.md) - The purpose of APIs
 - [Intellexer](https://github.com/apis-list/apis-list/blob/main/apis/intellexer/intellexer.md) - Processing (NLP) Service including sentiment analysis, content extraction, and language detection
 - [LinkPreview](https://github.com/apis-list/apis-list/blob/main/apis/linkpreview/linkpreview.md) - Preview Web links with our reliable API service
@@ -1868,9 +1866,62 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Shakespeare Translation Api](https://github.com/apis-list/apis-list/blob/main/apis/shakespeare-translation-api/shakespeare-translation-api.md) - Translate from English to Shakespeare English
 - [Starwars Translations Api](https://github.com/apis-list/apis-list/blob/main/apis/starwars-translations-api/starwars-translations-api.md) - Translate from imperial language ( English that is ) to one of the Starwars language
 
+ ### Transportation 🚇
+- [ADS-B Exchange](https://github.com/apis-list/apis-list/blob/main/apis/ads-b-exchange/ads-b-exchange.md) - Access real-time and historical data of any and all airborne aircraft
+- [AIS Hub](https://github.com/apis-list/apis-list/blob/main/apis/ais-hub/ais-hub.md) - AISHub members have access to AISHub aggregated AIS data via this API and receive real time data in XML, JSON or CSV format
+- [Bay Area Rapid Transit](https://github.com/apis-list/apis-list/blob/main/apis/bay-area-rapid-transit/bay-area-rapid-transit.md) - The BART API gives you access to pretty much all of the BART service and station data available on the BART website
+- [BlaBlaCar](https://github.com/apis-list/apis-list/blob/main/apis/blablacar/blablacar.md) - Connects people together, making it possible to travel literally anywhere, directly
+- [City Context](https://github.com/apis-list/apis-list/blob/main/apis/city-context/city-context.md) - Crime, school and transportation data for US cities
+- [Community Transit](https://github.com/apis-list/apis-list/blob/main/apis/community-transit/community-transit.md) - Transitland's centralized web service API for both querying and editing aggregated transit data from around the world
+- [Deutsche Bahn Open Data Portal](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-germany/transport-for-germany.md) - API provides the timetable data
+- [Deutsche Bahn Timetables](https://github.com/apis-list/apis-list/blob/main/apis/deutsche-bahn-timetables/deutsche-bahn-timetables.md) - A RESTful web service for timetable information for train stations operated by DB Station&Service AG
+- [GraphHopper](https://github.com/apis-list/apis-list/blob/main/apis/graphhopper/graphhopper.md) - A-to-B routing with turn-by-turn instructions
+- [Indian Railways](https://github.com/apis-list/apis-list/blob/main/apis/indian-railways/indian-railways.md) - Indian Railways Information
+- [Lyft](https://github.com/apis-list/apis-list/blob/main/apis/lyft/lyft.md) - Get real-time ETAs, availability, price estimates, ride status through the Lyft API
+- [Metro Lisboa](https://github.com/apis-list/apis-list/blob/main/apis/metro-lisboa/metro-lisboa.md) - Lisboa metro data
+- [Navitia](https://github.com/apis-list/apis-list/blob/main/apis/navitia/navitia.md) - The open API for building cool stuff with transport data
+- [Ola](https://github.com/apis-list/apis-list/blob/main/apis/ola/ola.md) - Ola is India’s most popular cab booking app with availability of rides in more than 100 cities across India.
+- [Schiphol Airport](https://github.com/apis-list/apis-list/blob/main/apis/schiphol-airport/schiphol-airport.md) - Schiphol Airport's API
+- [TransitLand](https://github.com/apis-list/apis-list/blob/main/apis/transitland/transitland.md) - Transitland is a community-edited open data service aggregating transit networks across metropolitan and rural around the world
+- [Transportation in Atlanta, USA](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-atlanta-us/transport-for-atlanta-us.md) - MARTA
+- [Transportation in Auckland, New Zealand](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-auckland-new-zealand/transport-for-auckland-new-zealand.md) - The Auckland Transport developer portal is a platform that exposes a diverse range of API's and transport data
+- [Transportation in Belgium](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-belgium/transport-for-belgium.md) - Belgian Transport API
+- [Transportation in Berlin, Germany](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-berlin-germany/transport-for-berlin-germany.md) - An HTTP API for Berlin & Brandenburg public transport
+- [Transportation in Bordeaux, France](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-bordeaux-france/transport-for-bordeaux-france.md) - Bordeaux Transportion Data
+- [Transportation in Boston, USA](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-boston-us/transport-for-boston-us.md) - Official website of the MBTA -- schedules, maps, and fare information for Greater Boston's public transportation system, including subway, commuter rail, bus routes, and boat lines
+- [Transportation in Budapest, Hungary](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-budapest-hungary/transport-for-budapest-hungary.md) - A place where APIs are kept
+- [Transportation in Chicago, USA](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-chicago-us/transport-for-chicago-us.md) - The CTA's Developer Center offers a variety of data feeds that allow anyone to develop Web, mobile and other applications to help transit riders throughout the Chicago area
+- [Transportation in Czech Republic](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-czech-republic/transport-for-czech-republic.md) - CHAPS spol
+- [Transportation in Denver, USA](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-denver-us/transport-for-denver-us.md) - RTD OPEN DATA
+- [Transportation in Finland](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-finland/transport-for-finland.md) - Route planning algorithms and APIs…. Digitransit Platform is an open source journey planning solution that combines several open source components into a
+- [Transportation in Grenoble, France](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-grenoble-france/transport-for-grenoble-france.md) - Service that brings together all your travel information in the Grenoble area
+- [Transportation in Honolulu, USA](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-honolulu-us/transport-for-honolulu-us.md) - « Return to TheBusHEA Web Services API The Web API (Application Programming Interface) allows a developer to access our real-time AVL data
+- [Transportation in India](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-india/transport-for-india.md) - Your support ID is: 15960026853378924585 [Go Back]
+- [Transportation in Lisbon, Portugal](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-lisbon-portugal/transport-for-lisbon-portugal.md) - Data access is free upon registration, in order to enhanc
+- [Transportation in London, UK](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-london-england/transport-for-london-england.md) - Transport for London open data
+- [Transportation in Madrid, Spain](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-madrid-spain/transport-for-madrid-spain.md) - Madrid BUS transport API
+- [Transportation in Manchester, England](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-manchester-england/transport-for-manchester-england.md) - The s
+- [Transportation in Minneapolis, USA](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-minneapolis-us/transport-for-minneapolis-us.md) - NexTrip API
+- [Transportation in Netherlands](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-the-netherlands/transport-for-the-netherlands.md) - NS has a large amount of data with information about the planned and current timetable
+- [Transportation in New York City, USA](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-new-york-city-us/transport-for-new-york-city-us.md) - MTA
+- [Transportation in Ottawa, Canada](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-ottawa-canada/transport-for-ottawa-canada.md) - OC Transpo next bus arrival API
+- [Transportation in Philadelphia, USA](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-philadelphia-us/transport-for-philadelphia-us.md) - Southeastern Pennsylvania Transportation Authority API
+- [Transportation in Sao Paulo, Brazil](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-sao-paulo-brazil/transport-for-sao-paulo-brazil.md) - Bus lines in the city of São Paulo
+- [Transportation in Sweden](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-sweden/transport-for-sweden.md) - Arrival and departure forecasts for buses, metro, commuter trains, local railways and boats in Stockholm
+- [Transportation in Switzerland](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-switzerland/transport-for-switzerland.md) - Here you can view mobility data free of charge and access various services
+- [Transportation in Toronto, Canada](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-toronto-canada/transport-for-toronto-canada.md) - MyTTC is the best trip planner available for the TTC
+- [Transportation in United States](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-united-states/transport-for-united-states.md) - NextBus API
+- [Transportation in Vancouver, Canada](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-vancouver-canada/transport-for-vancouver-canada.md) - The TransLink Open API provides access to data associated with the regional bus network, bus service operations, and major road network
+- [Transportation in Victoria, Australia](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-victoria-au/transport-for-victoria-au.md) - This page is not yet available on the PTV Beta website. <br />
+- [Transportation in Washington, USA](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-washington-us/transport-for-washington-us.md) - GTFS Changes and GTFS-RT Debut Metro has officially launched GTFS-RT! Developers now have access to the new Metrorail and Metrobus feeds through the Developer Portal
+- [Uber](https://github.com/apis-list/apis-list/blob/main/apis/uber/uber.md) - Discover how the Uber API can easily enhance your app’s user experience and take your innovation further with a wide range of new capabilities
+- [Uber API](https://github.com/apis-list/apis-list/blob/main/apis/uber-api/uber-api.md) - API to request Uber rides
+- [WhereIsMyTransport](https://github.com/apis-list/apis-list/blob/main/apis/whereismytransport/whereismytransport.md) - WhereIsMyTransport connects public transport data in one place
+
  ### Travel ✈️
 - [Amadeus Travel Innovation Sandbox](https://github.com/apis-list/apis-list/blob/main/apis/amadeus-travel-innovation-sandbox/amadeus-travel-innovation-sandbox.md) - Discover Amadeus travel APIs and connect to the flight search, flight booking, hotel and destination content APIs that power the biggest names in travel
 - [GraphHopper](https://github.com/apis-list/apis-list/blob/main/apis/graphhopper/graphhopper.md) - A-to-B routing with turn-by-turn instructions
+- [Izi](https://github.com/apis-list/apis-list/blob/main/apis/izi/izi.md) - izi
 - [Lufthansa Open API](https://github.com/apis-list/apis-list/blob/main/apis/lufthansa-open-api/lufthansa-open-api.md) - Lufthansa Developer Network
 - [Travel Advisory Data](https://github.com/apis-list/apis-list/blob/main/apis/travel-advisory-data/travel-advisory-data.md) - This is a simple REST API that replies with an UTF8 encoded JSON Object
 - [Uber](https://github.com/apis-list/apis-list/blob/main/apis/uber/uber.md) - Discover how the Uber API can easily enhance your app’s user experience and take your innovation further with a wide range of new capabilities
@@ -1923,69 +1974,17 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [numverify](https://github.com/apis-list/apis-list/blob/main/apis/numverify/numverify.md) - Free, powerful JSON API offering international and national phone number validation and carrier, location and line type lookup for developers and businesses
 - [vatlayer](https://github.com/apis-list/apis-list/blob/main/apis/vatlayer/vatlayer.md) - Free and HTTPS secured JSON API offering instant VAT number validation, reliable EU VAT rates and VAT compliant price calculations for developers & businesses
 
- ### Vehicle & Transportation 🚗
-- [ADS-B Exchange](https://github.com/apis-list/apis-list/blob/main/apis/ads-b-exchange/ads-b-exchange.md) - Access real-time and historical data of any and all airborne aircraft
-- [AIS Hub](https://github.com/apis-list/apis-list/blob/main/apis/ais-hub/ais-hub.md) - AISHub members have access to AISHub aggregated AIS data via this API and receive real time data in XML, JSON or CSV format
-- [Amadeus Travel Innovation Sandbox](https://github.com/apis-list/apis-list/blob/main/apis/amadeus-travel-innovation-sandbox/amadeus-travel-innovation-sandbox.md) - Discover Amadeus travel APIs and connect to the flight search, flight booking, hotel and destination content APIs that power the biggest names in travel
-- [Bay Area Rapid Transit](https://github.com/apis-list/apis-list/blob/main/apis/bay-area-rapid-transit/bay-area-rapid-transit.md) - BART API The BART API gives you access to pretty much all of the BART service and station data available on the BART website
+ ### Vehicles 🚗
 - [BlaBlaCar](https://github.com/apis-list/apis-list/blob/main/apis/blablacar/blablacar.md) - Connects people together, making it possible to travel literally anywhere, directly
-- [Brazilian Vehicles and Prices](https://github.com/apis-list/apis-list/blob/main/apis/brazilian-vehicles-and-prices/brazilian-vehicles-and-prices.md) - Você pode usar a biblioteca em PHP desenvolvida para consumir a API https://github
+- [Brazilian Vehicles and Prices](https://github.com/apis-list/apis-list/blob/main/apis/brazilian-vehicles-and-prices/brazilian-vehicles-and-prices.md) - Table FIPE Consultation API provides average vehicle prices in the brazilian market through a RESTful HTTP Json service
 - [Car Registration Api](https://github.com/apis-list/apis-list/blob/main/apis/car-registration-api/car-registration-api.md) - Get the Make, Model, Insurer, VIN and 50 other data fields from an Australian number plate (rego)
 - [CarsXE API](https://github.com/apis-list/apis-list/blob/main/apis/carsxe-api/carsxe-api.md) - Get access to millions of vehicle records, specs, ownership costs and market values
-- [City Context](https://github.com/apis-list/apis-list/blob/main/apis/city-context/city-context.md) - Crime, school and transportation data for US cities
-- [Community Transit](https://github.com/apis-list/apis-list/blob/main/apis/community-transit/community-transit.md) - Transitland's centralized web service API for both querying and editing aggregated transit data from around the world
-- [Deutsche Bahn Open Data Portal](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-germany/transport-for-germany.md) - API provides the timetable data
-- [Deutsche Bahn Timetables](https://github.com/apis-list/apis-list/blob/main/apis/deutsche-bahn-timetables/deutsche-bahn-timetables.md) - A RESTful web service for timetable information for train stations operated by DB Station&Service AG
-- [GraphHopper](https://github.com/apis-list/apis-list/blob/main/apis/graphhopper/graphhopper.md) - A-to-B routing with turn-by-turn instructions
 - [HyperTrack](https://github.com/apis-list/apis-list/blob/main/apis/hypertrack/hypertrack.md) - Build applications that track the movement of your business
-- [Indian Railways](https://github.com/apis-list/apis-list/blob/main/apis/indian-railways/indian-railways.md) - Indian Railways Information
-- [Izi](https://github.com/apis-list/apis-list/blob/main/apis/izi/izi.md) - The response format for all reques
 - [Kelley Blue Book](https://github.com/apis-list/apis-list/blob/main/apis/kelley-blue-book/kelley-blue-book.md) - KBB
-- [Lyft](https://github.com/apis-list/apis-list/blob/main/apis/lyft/lyft.md) - Get real-time ETAs, availability, price estimates, ride status through the Lyft API
 - [Mercedes-Benz](https://github.com/apis-list/apis-list/blob/main/apis/mercedes-benz/mercedes-benz.md) - Mercedes-Benz's live API products
-- [Metro Lisboa](https://github.com/apis-list/apis-list/blob/main/apis/metro-lisboa/metro-lisboa.md) - Lisboa metro data
 - [NHTSA](https://github.com/apis-list/apis-list/blob/main/apis/nhtsa/nhtsa.md) - Catalog Vehicle Listing (vPIC) Application Programming Interface (API) provides different ways to gather information on Vehicles and their specifications
-- [Navitia](https://github.com/apis-list/apis-list/blob/main/apis/navitia/navitia.md) - The open API for building cool stuff with transport data
-- [Ola](https://github.com/apis-list/apis-list/blob/main/apis/ola/ola.md) - Ola is India’s most popular cab booking app with availability of rides in more than 100 cities across India.
 - [Open Charge Map](https://github.com/apis-list/apis-list/blob/main/apis/open-charge-map/open-charge-map.md) - Open Charge Map is a non-commercial, non-profit, electric vehicle data service hosted and supported by a community of businesses, charities, developers and interested parties around the world
-- [Postmates](https://github.com/apis-list/apis-list/blob/main/apis/postmates/postmates.md) - Build on-demand delivery into your app or website
-- [Schiphol Airport](https://github.com/apis-list/apis-list/blob/main/apis/schiphol-airport/schiphol-airport.md) - Schiphol Airport's API
 - [Smartcar](https://github.com/apis-list/apis-list/blob/main/apis/smartcar/smartcar.md) - Build web and mobile apps that communicate with vehicles
-- [TransitLand](https://github.com/apis-list/apis-list/blob/main/apis/transitland/transitland.md) - Transitland is a community-edited open data service aggregating transit networks across metropolitan and rural around the world
-- [Transportation in Atlanta, USA](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-atlanta-us/transport-for-atlanta-us.md) - marta
-- [Transportation in Auckland, New Zealand](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-auckland-new-zealand/transport-for-auckland-new-zealand.md) - Welcome to the Auckland Transport Developer Portal
-- [Transportation in Belgium](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-belgium/transport-for-belgium.md) - Belgian Transport API
-- [Transportation in Berlin, Germany](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-berlin-germany/transport-for-berlin-germany.md) - An HTTP API for Berlin & Brandenburg public transport
-- [Transportation in Bordeaux, France](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-bordeaux-france/transport-for-bordeaux-france.md) - Dialoguez L'Atelier Open Data est un espace d'échanges autour des questions, des bonnes pratiques et idées alors n'hésitez pas à consulter notre forum ou à nous contacter
-- [Transportation in Boston, USA](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-boston-us/transport-for-boston-us.md) - Official website of the MBTA -- schedules, maps, and fare information for Greater Boston's public transportation system, including subway, commuter rail, bus routes, and boat lines
-- [Transportation in Budapest, Hungary](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-budapest-hungary/transport-for-budapest-hungary.md) - A place where APIs are kept
-- [Transportation in Chicago, USA](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-chicago-us/transport-for-chicago-us.md) - The CTA's Developer Center offers a variety of data feeds that allow anyone to develop Web, mobile and other applications to help transit riders throughout the Chicago area
-- [Transportation in Czech Republic](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-czech-republic/transport-for-czech-republic.md) - CHAPS spol
-- [Transportation in Denver, USA](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-denver-us/transport-for-denver-us.md) - RTD OPEN DATA
-- [Transportation in Finland](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-finland/transport-for-finland.md) - Route planning algorithms and APIs…. Digitransit Platform is an open source journey planning solution that combines several open source components into a
-- [Transportation in Grenoble, France](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-grenoble-france/transport-for-grenoble-france.md) - Service that brings together all your travel information in the Grenoble area
-- [Transportation in Honolulu, USA](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-honolulu-us/transport-for-honolulu-us.md) - « Return to TheBusHEA Web Services API The Web API (Application Programming Interface) allows a developer to access our real-time AVL data
-- [Transportation in India](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-india/transport-for-india.md) - Your support ID is: 15960026853378924585 [Go Back]
-- [Transportation in Lisbon, Portugal](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-lisbon-portugal/transport-for-lisbon-portugal.md) - Data access is free upon registration, in order to enhanc
-- [Transportation in London, UK](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-london-england/transport-for-london-england.md) - Transport for London open data
-- [Transportation in Madrid, Spain](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-madrid-spain/transport-for-madrid-spain.md) - Madrid BUS transport API
-- [Transportation in Manchester, England](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-manchester-england/transport-for-manchester-england.md) - The s
-- [Transportation in Minneapolis, USA](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-minneapolis-us/transport-for-minneapolis-us.md) - NexTrip API
-- [Transportation in Netherlands](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-the-netherlands/transport-for-the-netherlands.md) - NS has a large amount of data with information about the planned and current timetable
-- [Transportation in New York City, USA](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-new-york-city-us/transport-for-new-york-city-us.md) - MTA
-- [Transportation in Ottawa, Canada](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-ottawa-canada/transport-for-ottawa-canada.md) - OC Transpo next bus arrival API
-- [Transportation in Philadelphia, USA](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-philadelphia-us/transport-for-philadelphia-us.md) - Southeastern Pennsylvania Transportation Authority API
-- [Transportation in Sao Paulo, Brazil](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-sao-paulo-brazil/transport-for-sao-paulo-brazil.md) - Bus lines in the city of São Paulo
-- [Transportation in Sweden](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-sweden/transport-for-sweden.md) - Arrival and departure forecasts for buses, metro, commuter trains, local railways and boats in Stockholm
-- [Transportation in Switzerland](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-switzerland/transport-for-switzerland.md) - Here you can view mobility data free of charge and access various services
-- [Transportation in Toronto, Canada](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-toronto-canada/transport-for-toronto-canada.md) - MyTTC is the best trip planner available for the TTC
-- [Transportation in United States](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-united-states/transport-for-united-states.md) - NextBus API
-- [Transportation in Vancouver, Canada](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-vancouver-canada/transport-for-vancouver-canada.md) - The TransLink Open API provides access to data associated with the regional bus network, bus service operations, and major road network
-- [Transportation in Victoria, Australia](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-victoria-au/transport-for-victoria-au.md) - This page is not yet available on the PTV Beta website. <br />
-- [Transportation in Washington, USA](https://github.com/apis-list/apis-list/blob/main/apis/transport-for-washington-us/transport-for-washington-us.md) - GTFS Changes and GTFS-RT Debut Metro has officially launched GTFS-RT! Developers now have access to the new Metrorail and Metrobus feeds through the Developer Portal
-- [Uber](https://github.com/apis-list/apis-list/blob/main/apis/uber/uber.md) - Discover how the Uber API can easily enhance your app’s user experience and take your innovation further with a wide range of new capabilities
-- [Uber API](https://github.com/apis-list/apis-list/blob/main/apis/uber-api/uber-api.md) - API to request Uber rides
-- [WhereIsMyTransport](https://github.com/apis-list/apis-list/blob/main/apis/whereismytransport/whereismytransport.md) - WhereIsMyTransport connects public transport data in one place
 
  ### Video & Media 🎥
 - [Acoustid](https://github.com/apis-list/apis-list/blob/main/apis/acoustid/acoustid.md) - Web Service The AcoustID web service currently supports only two operations, searching in the fingerprint database and submitting new fingerprints into the database

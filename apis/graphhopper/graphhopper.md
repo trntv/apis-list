@@ -6,9 +6,9 @@ A-to-B routing with turn-by-turn instructions
 **Docs / Website**: https://graphhopper.com/api/1/docs/
 
 ## 🧬 GraphHopper Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8852)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8852)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8852)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8851)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8851)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8851)
 
 ## 💬 GraphHopper Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
@@ -44,6 +44,6 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics-)- [Travel](https://github.com/apis-list/apis-list#travel-)- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics-)- [Transportation](https://github.com/apis-list/apis-list#transportation-)- [Travel](https://github.com/apis-list/apis-list#travel-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

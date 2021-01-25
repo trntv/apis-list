@@ -21,6 +21,6 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 
 ## 🗄️ Categories:
-- [Travel](https://github.com/apis-list/apis-list#travel-)- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
+- [Travel](https://github.com/apis-list/apis-list#travel-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

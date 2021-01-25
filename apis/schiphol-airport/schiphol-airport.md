@@ -19,6 +19,6 @@ No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edi
 
 
 ## 🗄️ Categories:
-- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
+- [Transportation](https://github.com/apis-list/apis-list#transportation-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

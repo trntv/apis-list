@@ -111,7 +111,7 @@
 - name: ADS-B Exchange
   slug: ads-b-exchange
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: Access real-time and historical data of any and all airborne aircraft. Filtered ADS-B data costs a significant amount of money to buy from the other ADS-B aggregators, and that data will not include military, FAA blocklist, LADD et all, and all block requested aircraft. ADSBexchange. com data is reasonably priced, unfiltered, unblocked, and available on demand. As noted in the legal terms and conditions, commercial (for profit Read More
   is_free: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ads-b-exchange/logo_256x256.png
@@ -139,7 +139,7 @@
 - name: AIS Hub
   slug: ais-hub
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: AISHub members have access to AISHub aggregated AIS data via this API and receive real time data in XML, JSON or CSV format.
   is_free: false
   type: REST
@@ -584,7 +584,7 @@
 - name: Ais Web
   slug: ais-web
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: Aeronautical information in digital media produced by the Department of Airspace Control (DECEA)
   is_free: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ais-web/logo_256x256.png
@@ -628,7 +628,6 @@
   slug: amadeus-travel-innovation-sandbox
   categories:
     - Travel
-    - Vehicle & Transportation
   description: Discover Amadeus travel APIs and connect to the flight search, flight booking, hotel and destination content APIs that power the biggest names in travel.
   is_free: false
   type: REST
@@ -1288,8 +1287,8 @@
 - name: Bay Area Rapid Transit
   slug: bay-area-rapid-transit
   categories:
-    - Vehicle & Transportation
-  description: BART API The BART API gives you access to pretty much all of the BART service and station data available on the BART website. Check out an overview or read our simple License Agreement then jump ri
+    - Transportation
+  description: The BART API gives you access to pretty much all of the BART service and station data available on the BART website.
   is_free: false
   type: REST
   is_active: true
@@ -1896,8 +1895,8 @@
 - name: BlaBlaCar
   slug: blablacar
   categories:
-    - Vehicle & Transportation
-    - Commerce
+    - Transportation
+    - Vehicles
   description: Connects people together, making it possible to travel literally anywhere, directly. BlaBlaCar is the leading carpooling app in the world.
   is_free: false
   type: REST
@@ -2219,8 +2218,8 @@
 - name: Brazilian Vehicles and Prices
   slug: brazilian-vehicles-and-prices
   categories:
-    - Vehicle & Transportation
-  description: "Você pode usar a biblioteca em PHP desenvolvida para consumir a API https://github. com/deividfortuna/fipe. A API está online desde 2015 e totalmente gratuíta. O que acha de me pagar um cerveja? \U0001F37A A"
+    - Vehicles
+  description: Table FIPE Consultation API provides average vehicle prices in the brazilian market through a RESTful HTTP Json service. Updated monthly with data extracted from the FIPE table
   is_free: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/brazilian-vehicles-and-prices/logo_256x256.png
   type: REST
@@ -2498,7 +2497,7 @@
 - name: Car Registration Api
   slug: car-registration-api
   categories:
-    - Vehicle & Transportation
+    - Vehicles
   description: Get the Make, Model, Insurer, VIN and 50 other data fields from an Australian number plate (rego)
   is_free: false
   contact: info@infiniteloop.ie
@@ -2547,7 +2546,7 @@
 - name: CarsXE API
   slug: carsxe-api
   categories:
-    - Vehicle & Transportation
+    - Vehicles
   description: Get access to millions of vehicle records, specs, ownership costs and market values. CarsXE Vehicle Data API
   is_free: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/carsxe-api/logo_256x256.png
@@ -3115,7 +3114,7 @@
 - name: City Context
   slug: city-context
   categories:
-    - Vehicle & Transportation
+    - Transportation
     - Education
     - Real Estate
     - Maps & Geo
@@ -4039,7 +4038,7 @@
 - name: Community Transit
   slug: community-transit
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: Transitland's centralized web service API for both querying and editing aggregated transit data from around the world
   is_free: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/community-transit/logo_256x256.png
@@ -5048,7 +5047,7 @@
 - name: Deutsche Bahn Open Data Portal
   slug: transport-for-germany
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: API provides the timetable data
   is_free: false
   logo: https://data.deutschebahn.com/images/logo.png
@@ -5060,7 +5059,7 @@
 - name: Deutsche Bahn Timetables
   slug: deutsche-bahn-timetables
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: A RESTful web service for timetable information for train stations operated by DB Station&Service AG.
   is_free: false
   contact: Joachim.Schirrmacher@deutschebahn.com
@@ -5803,7 +5802,7 @@
 - name: Edmunds
   slug: edmunds
   categories:
-    - Vehicle & Transportation
+    - Vehicles
   description: A dataset containing all the car makes. Edmunds has detailed specs, customer ratings, photos & videos, pricing, etc
   is_free: false
   type: REST
@@ -7674,7 +7673,7 @@
   categories:
     - Images & Photography
     - Scrapers & Data Mining
-  description: "A successful request to the API will return a simple JSON that includes a URL pointing to the resulting screen capture. GetScreenshot is an affordable and highly scalable screenshot API service, with integrated rendering customization and workflows like email and webhooks. GetScreenshot is a powerful programmable API that allows you to do screenshot operations at scale and for less than the existing solutions. \n\nThis RESTful API can be accessed by any standard/popular client with HTTP capabilities. This means that almost any language with an HTTP request library or built-in module can make calls to GetScreenshot"
+  description: GetScreenshot is an affordable and highly scalable screenshot API service. With integrated rendering customization and workflows like email and webhooks. GetScreenshot is a powerful programmable API that allows you to do screenshot operations at scale and for less than the existing solutions.
   is_free: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/getscreenshot-by-rasterwise/logo_256x256.png
   is_active: true
@@ -8153,7 +8152,7 @@
 - name: Goibibo
   slug: goibibo
   categories:
-    - Vehicle & Transportation
+    - Travel
   description: API for travel search
   is_free: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/goibibo/logo_256x256.png
@@ -8855,7 +8854,7 @@
     - Maps & Geo
     - Post & Logistics
     - Travel
-    - Vehicle & Transportation
+    - Transportation
   description: A-to-B routing with turn-by-turn instructions
   is_free: false
   type: REST
@@ -9536,7 +9535,7 @@
 - name: HyperTrack
   slug: hypertrack
   categories:
-    - Vehicle & Transportation
+    - Vehicles
     - Maps & Geo
     - Post & Logistics
   description: Build applications that track the movement of your business. HyperTrack is the API for anything that moves with commercial value. From startups to enterprises worldwide, product development teams build live location use cases with HyperTrack to power business efficiency and product experience.
@@ -10282,7 +10281,7 @@
 - name: Indian Railways
   slug: indian-railways
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: Indian Railways Information. Rail Road Air USA Megabus Amtrak CANADA Transport Germany Transport India Transport Australia Transport Argentina Transport Brazil Transport France Transport China Transport
   is_free: false
   is_active: true
@@ -10553,8 +10552,9 @@
 - name: Izi
   slug: izi
   categories:
-    - Vehicle & Transportation
-  description: 'The response format for all reques. Overview This is the API reference document for accessing the izi. TRAVEL Directory (MTG Content Directory): All API requests are made over HTTPS to API endpoints'
+    - Travel
+    - Music & Audio
+  description: izi.TRAVEL is ready to spread all local stories globally. Every day numerous content providers publish their audio guides on izi.TRAVEL platform. More than 1750 museums and 1750 cities all of the world are covered with interesting stories in different languages. New stories appear every moment.
   is_free: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/izi/logo_256x256.png
   type: REST
@@ -10862,7 +10862,7 @@
 - name: Kelley Blue Book
   slug: kelley-blue-book
   categories:
-    - Vehicle & Transportation
+    - Vehicles
   description: KBB.com gives you everything you need to research a new, certified (CPO) or used car, compare cars, find cars for sale and make a well-informed decision
   is_free: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/kelley-blue-book/logo_256x256.png
@@ -11680,7 +11680,7 @@
 - name: Lyft
   slug: lyft
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: Get real-time ETAs, availability, price estimates, ride status through the Lyft API. Learn more about how you can create delightful experiences that transport people —leveraging the power of Lyft's API.
   is_free: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/lyft/logo_256x256.png
@@ -12298,7 +12298,7 @@
 - name: Mercedes-Benz
   slug: mercedes-benz
   categories:
-    - Vehicle & Transportation
+    - Vehicles
   description: Mercedes-Benz's live API products
   is_free: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/mercedes-benz/logo_256x256.png
@@ -12403,7 +12403,7 @@
 - name: Metro Lisboa
   slug: metro-lisboa
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: Lisboa metro data
   is_free: false
   type: REST
@@ -13001,9 +13001,9 @@
   slug: nhtsa
   categories:
     - Security
-    - Vehicle & Transportation
+    - Vehicles
     - Government
-  description: ' Catalog Vehicle Listing (vPIC) Application Programming Interface (API) provides different ways to gather information on Vehicles and their specifications.'
+  description: Catalog Vehicle Listing (vPIC) Application Programming Interface (API) provides different ways to gather information on Vehicles and their specifications.
   is_free: false
   type: REST
   is_active: true
@@ -13173,7 +13173,7 @@
 - name: Navitia
   slug: navitia
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: The open API for building cool stuff with transport data
   is_free: false
   type: REST
@@ -13770,7 +13770,7 @@
 - name: Ola
   slug: ola
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: "Ola is India’s most popular cab booking app with availability of rides in more than 100 cities across India. \n- RIDE AVAILABILITY\n- RIDE ESTIMATE\n- RIDE BOOKING\n- RIDE TRACKING"
   is_free: false
   type: REST
@@ -13950,7 +13950,7 @@
   slug: open-charge-map
   categories:
     - Environment & Nature
-    - Vehicle & Transportation
+    - Vehicles
     - Maps & Geo
   description: Open Charge Map is a non-commercial, non-profit, electric vehicle data service hosted and supported by a community of businesses, charities, developers and interested parties around the world.
   is_free: false
@@ -15543,7 +15543,7 @@
 - name: Postmates
   slug: postmates
   categories:
-    - Vehicle & Transportation
+    - Post & Logistics
     - Commerce
   description: Build on-demand delivery into your app or website.
   is_free: false
@@ -17022,7 +17022,7 @@
 - name: Schiphol Airport
   slug: schiphol-airport
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: Schiphol Airport's API. Through these APIs, it disclose an enormous amount of airport data – for you to use and build fantastic, innovative solutions.
   is_free: false
   type: REST
@@ -17760,9 +17760,7 @@
 - name: Smartcar
   slug: smartcar
   categories:
-    - Vehicle & Transportation
-    - Development
-    - Maps & Geo
+    - Vehicles
   description: Build web and mobile apps that communicate with vehicles
   is_free: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/smartcar/logo_256x256.png
@@ -19621,7 +19619,7 @@
 - name: TransitLand
   slug: transitland
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: Transitland is a community-edited open data service aggregating transit networks across metropolitan and rural around the world. Transitland collects over a thousand GTFS and GTFS Realtime feeds from over 50 countries. It provides an API and other ways to explore and use transit data
   is_free: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transitland/logo_256x256.png
@@ -19633,8 +19631,8 @@
 - name: Transportation in Atlanta, USA
   slug: transport-for-atlanta-us
   categories:
-    - Vehicle & Transportation
-  description: marta. marta
+    - Transportation
+  description: MARTA. Atlanta transporation services
   is_free: false
   type: REST
   is_active: true
@@ -19644,8 +19642,8 @@
 - name: Transportation in Auckland, New Zealand
   slug: transport-for-auckland-new-zealand
   categories:
-    - Vehicle & Transportation
-  description: Welcome to the Auckland Transport Developer Portal! The Auckland Transport developer portal is a platform that exposes a diverse range of API's and transport data from both within Auckland Transpor
+    - Transportation
+  description: The Auckland Transport developer portal is a platform that exposes a diverse range of API's and transport data
   is_free: false
   type: REST
   is_active: true
@@ -19655,7 +19653,7 @@
 - name: Transportation in Belgium
   slug: transport-for-belgium
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: Belgian Transport API
   is_free: false
   type: REST
@@ -19666,7 +19664,7 @@
 - name: Transportation in Berlin, Germany
   slug: transport-for-berlin-germany
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: An HTTP API for Berlin & Brandenburg public transport
   is_free: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-berlin-germany/logo_256x256.png
@@ -19678,8 +19676,8 @@
 - name: Transportation in Bordeaux, France
   slug: transport-for-bordeaux-france
   categories:
-    - Vehicle & Transportation
-  description: Dialoguez L'Atelier Open Data est un espace d'échanges autour des questions, des bonnes pratiques et idées alors n'hésitez pas à consulter notre forum ou à nous contacter ! Le forumContactez nous
+    - Transportation
+  description: Bordeaux Transportion Data
   is_free: false
   type: REST
   is_active: true
@@ -19689,7 +19687,7 @@
 - name: Transportation in Boston, USA
   slug: transport-for-boston-us
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: Official website of the MBTA -- schedules, maps, and fare information for Greater Boston's public transportation system, including subway, commuter rail, bus routes, and boat lines
   is_free: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-boston-us/logo_256x256.png
@@ -19701,7 +19699,7 @@
 - name: Transportation in Budapest, Hungary
   slug: transport-for-budapest-hungary
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: A place where APIs are kept. A place where APIs are kept
   is_free: false
   type: REST
@@ -19712,7 +19710,7 @@
 - name: Transportation in Chicago, USA
   slug: transport-for-chicago-us
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: The CTA's Developer Center offers a variety of data feeds that allow anyone to develop Web, mobile and other applications to help transit riders throughout the Chicago area
   is_free: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-chicago-us/logo_256x256.png
@@ -19724,7 +19722,7 @@
 - name: Transportation in Czech Republic
   slug: transport-for-czech-republic
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: CHAPS spol. s r. o. je společnost zabývající se vývojem IT aplikací a systémů, jejich údržbou a provozem. Zaměřujeme se na komplexní softwarová řešení zejména pro oblast osobní dopravy a to jak na železnici, tak na silnici
   is_free: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-czech-republic/logo_256x256.png
@@ -19736,7 +19734,7 @@
 - name: Transportation in Denver, USA
   slug: transport-for-denver-us
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: RTD OPEN DATA
   is_free: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-denver-us/logo_256x256.png
@@ -19748,7 +19746,7 @@
 - name: Transportation in Finland
   slug: transport-for-finland
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: |-
     Route planning algorithms and APIs…. Digitransit Platform is an open source journey planning solution that combines several open source components into a
     modern, highly available route planning service
@@ -19762,7 +19760,7 @@
 - name: Transportation in Grenoble, France
   slug: transport-for-grenoble-france
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: Service that brings together all your travel information in the Grenoble area
   is_free: false
   type: REST
@@ -19773,7 +19771,7 @@
 - name: Transportation in Honolulu, USA
   slug: transport-for-honolulu-us
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: « Return to TheBusHEA Web Services API The Web API (Application Programming Interface) allows a developer to access our real-time AVL data. To utilize OTS's web services, an application id (AppID)
   is_free: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-honolulu-us/logo_256x256.png
@@ -19785,7 +19783,7 @@
 - name: Transportation in India
   slug: transport-for-india
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: 'Your support ID is: 15960026853378924585 [Go Back]. Please consult with your administrator. Your support ID is: 15960026853378861129 [Go Back]. The requested URL was rejected'
   is_free: false
   type: REST
@@ -19796,7 +19794,7 @@
 - name: Transportation in Lisbon, Portugal
   slug: transport-for-lisbon-portugal
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: Data access is free upon registration, in order to enhanc. Welcome to EMEL’s open data portal. This website provides datasets concerning the company, and by other partner entities related with EMEL
   is_free: false
   type: REST
@@ -19807,7 +19805,7 @@
 - name: Transportation in London, UK
   slug: transport-for-london-england
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: Transport for London open data. All public TfL data (or 'open data') is freely released here for developers to use in their own software and services. We encourage software developers to use these feeds to present customer travel information in innovative ways
   is_free: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-london-england/logo_256x256.png
@@ -19820,7 +19818,7 @@
 - name: Transportation in Madrid, Spain
   slug: transport-for-madrid-spain
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: Madrid BUS transport API
   is_free: false
   is_active: true
@@ -19830,7 +19828,7 @@
 - name: Transportation in Manchester, England
   slug: transport-for-manchester-england
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: The s. Welcome to Transport for Greater Manchester’s new Real-Time Open Data Portal The system has been designed to provide Developers with access to data from across the region’s transport network
   is_free: false
   type: REST
@@ -19841,7 +19839,7 @@
 - name: Transportation in Minneapolis, USA
   slug: transport-for-minneapolis-us
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: NexTrip API
   is_free: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-minneapolis-us/logo_256x256.png
@@ -19852,7 +19850,7 @@
 - name: Transportation in Netherlands
   slug: transport-for-the-netherlands
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: NS has a large amount of data with information about the planned and current timetable
   is_free: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-the-netherlands/logo_256x256.png
@@ -19864,7 +19862,7 @@
 - name: Transportation in New York City, USA
   slug: transport-for-new-york-city-us
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: MTA
   is_free: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-new-york-city-us/logo_256x256.png
@@ -19875,7 +19873,7 @@
 - name: Transportation in Ottawa, Canada
   slug: transport-for-ottawa-canada
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: OC Transpo next bus arrival API
   is_free: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-ottawa-canada/logo_256x256.png
@@ -19886,7 +19884,7 @@
 - name: Transportation in Paris, France
   slug: transport-for-paris-france
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: Realtime schedules for Paris metro network (RATP - metro, bus, tram, rer)
   is_free: false
   type: REST
@@ -19897,7 +19895,7 @@
 - name: Transportation in Philadelphia, USA
   slug: transport-for-philadelphia-us
   categories:
-    - Vehicle & Transportation
+    - Transportation
     - Government
   description: Southeastern Pennsylvania Transportation Authority API
   is_free: false
@@ -19910,7 +19908,7 @@
 - name: Transportation in Sao Paulo, Brazil
   slug: transport-for-sao-paulo-brazil
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: Bus lines in the city of São Paulo
   is_free: false
   type: REST
@@ -19921,7 +19919,7 @@
 - name: Transportation in Sweden
   slug: transport-for-sweden
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: Arrival and departure forecasts for buses, metro, commuter trains, local railways and boats in Stockholm
   is_free: false
   type: REST
@@ -19932,7 +19930,7 @@
 - name: Transportation in Switzerland
   slug: transport-for-switzerland
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: Here you can view mobility data free of charge and access various services. The data. opentransportdata. swiss is the customer information platform for Swiss public transport and individual mobility
   is_free: false
   type: REST
@@ -19943,7 +19941,7 @@
 - name: Transportation in Toronto, Canada
   slug: transport-for-toronto-canada
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: MyTTC is the best trip planner available for the TTC
   is_free: false
   type: REST
@@ -19954,7 +19952,7 @@
 - name: Transportation in United States
   slug: transport-for-united-states
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: NextBus API
   is_free: false
   type: REST
@@ -19965,7 +19963,7 @@
 - name: Transportation in Vancouver, Canada
   slug: transport-for-vancouver-canada
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: The TransLink Open API provides access to data associated with the regional bus network, bus service operations, and major road network
   is_free: false
   type: REST
@@ -19976,7 +19974,7 @@
 - name: Transportation in Victoria, Australia
   slug: transport-for-victoria-au
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: |-
     This page is not yet available on the PTV Beta website. <br />
     <br />
@@ -19989,7 +19987,7 @@
 - name: Transportation in Washington, USA
   slug: transport-for-washington-us
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: GTFS Changes and GTFS-RT Debut Metro has officially launched GTFS-RT! Developers now have access to the new Metrorail and Metrobus feeds through the Developer Portal. With the implementation of GTF
   is_free: false
   type: REST
@@ -20849,7 +20847,7 @@
   categories:
     - Commerce
     - Travel
-    - Vehicle & Transportation
+    - Transportation
     - Maps & Geo
   description: Discover how the Uber API can easily enhance your app’s user experience and take your innovation further with a wide range of new capabilities. Uber provides API for customizing trip experiences, requesting rides, powering logistics, creating bots and so much more
   is_free: false
@@ -20947,7 +20945,7 @@
 - name: Uber API
   slug: uber-api
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: API to request Uber rides. Discover how the Uber API can easily enhance your app’s user experience and take your innovation further with a wide range of new capabilities
   is_free: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/uber-api/logo_256x256.png
@@ -21834,7 +21832,7 @@
 - name: WhereIsMyTransport
   slug: whereismytransport
   categories:
-    - Vehicle & Transportation
+    - Transportation
   description: WhereIsMyTransport connects public transport data in one place. WhereIsMyTransport is the de facto source of mobility data for the world’s largest low- and middle-income cities.
   is_free: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/whereismytransport/logo_256x256.png

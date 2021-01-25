@@ -33,7 +33,7 @@ No libraries added. [Add library ➕]({{ .EditorLink }})
 {{ end }}
 
 ## 🗄️ Categories:
-{{ range .API.Categories | sort -}}
+{{ range .API.Categories | sort_categories -}}
 - [{{ . }}](https://github.com/apis-list/apis-list#{{ . | slug }}-)
 {{- end }}
 

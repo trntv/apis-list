@@ -37,6 +37,6 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development-)- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
+- [Vehicles](https://github.com/apis-list/apis-list#vehicles-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

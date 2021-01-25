@@ -1,9 +1,7 @@
-**Before you begin**
-
-This project is under heavy development. Structure, tooling and content are being constantly reviewing and improving.
-You can join project creation if you have any ideas how to make it better or time to help.
-
 # List of Public APIs
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/apis-list/apis-list)
+![Contributions: Welcome](https://img.shields.io/badge/contributions-welcome-green)
+![APIs: 1200+](https://img.shields.io/badge/apis-1200+-violet)
 This project is an attempt to categorise and compile information about different public APIs into one place. Its goal is to build
 most complete and handy list which will help developers to find APIs most suitable for their needs.
 It includes APIs description, links to docs, specification, list of SDK and libraries, logo etc.
@@ -15,8 +13,8 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 
 ## Table of Context
 - [APIs](#apis):
-{{- range $category, $slug := .CategoriesIndex }}
-    - [{{ $category }}](#{{ $slug }}-) {{ $category | category_icon -}}
+{{- range .CategoriesNames }}
+    - [{{ . }}](#{{. | slug}}-) {{ . | category_icon -}}
 {{ end }}
 - [Graveyard](#graveyard) 🪦
 - [Contributors](#contributors)

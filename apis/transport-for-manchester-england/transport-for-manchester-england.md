@@ -6,19 +6,19 @@ The s. Welcome to Transport for Greater Manchester’s new Real-Time Open Data P
 **Docs / Website**: https://developer.tfgm.com/
 
 ## 🧬 Transportation in Manchester, England Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19830)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19830)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19830)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19828)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19828)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19828)
 
 ## 💬 Transportation in Manchester, England Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19830)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19828)    
 
 
 ## 🗄️ Categories:
-- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
+- [Transportation](https://github.com/apis-list/apis-list#transportation-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

@@ -8,19 +8,19 @@
 **Docs / Website**: http://hea.thebus.org/api_info.asp
 
 ## 🧬 Transportation in Honolulu, USA Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19773)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19773)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19773)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19771)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19771)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19771)
 
 ## 💬 Transportation in Honolulu, USA Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19773)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19771)    
 
 
 ## 🗄️ Categories:
-- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
+- [Transportation](https://github.com/apis-list/apis-list#transportation-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

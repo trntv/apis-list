@@ -24,8 +24,8 @@ func Render(l list.APIs, dir string) error {
 			return strings.TrimSpace(s)
 		},
 		"slug": slug,
-		"sort": func(s []string) []string {
-			sort.Strings(s)
+		"sort_categories": func(s []string) []string {
+			sort.Sort(byCategoryName(s))
 			return s
 		},
 		"category_icon": func(s string) string {
@@ -48,12 +48,14 @@ func Render(l list.APIs, dir string) error {
 	}
 	defer readmeFile.Close()
 
-	categoriesIndex := make(map[string]string)
+	categoriesNames := make([]string, 0)
 	for k := range l.ByCategory() {
-		categoriesIndex[k] = slug(k)
+		categoriesNames = append(categoriesNames, k)
 	}
+	sort.Sort(byCategoryName(categoriesNames))
+
 	err = templates.Lookup(readmeTmplName).Execute(readmeFile, map[string]interface{}{
-		"CategoriesIndex": categoriesIndex,
+		"CategoriesNames": categoriesNames,
 		"APIs":            l.ByCategory(),
 		"Graveyard":       l.Graveyard(),
 	})
@@ -103,4 +105,20 @@ func slug(s string) string {
 	s = slugRegexp.ReplaceAllString(s, "")
 	s = strings.ReplaceAll(s, " ", "-")
 	return strings.ToLower(s)
+}
+
+type byCategoryName []string
+
+func (a byCategoryName) Len() int      { return len(a) }
+func (a byCategoryName) Swap(i, j int) { a[i], a[j] = a[j], a[i] }
+func (a byCategoryName) Less(i, j int) bool {
+	if a[i] == "Other" {
+		return false
+	}
+
+	if a[j] == "Other" {
+		return true
+	}
+
+	return a[i] < a[j]
 }

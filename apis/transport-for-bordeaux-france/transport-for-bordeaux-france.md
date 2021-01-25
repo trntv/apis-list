@@ -1,24 +1,24 @@
 # Transportation in Bordeaux, France
 
-Dialoguez L'Atelier Open Data est un espace d'échanges autour des questions, des bonnes pratiques et idées alors n'hésitez pas à consulter notre forum ou à nous contacter ! Le forumContactez nous
+Bordeaux Transportion Data
 
 ##  🔗 Links
 **Docs / Website**: https://opendata.bordeaux-metropole.fr/explore/
 
 ## 🧬 Transportation in Bordeaux, France Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19678)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19678)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19678)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19676)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19676)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19676)
 
 ## 💬 Transportation in Bordeaux, France Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19678)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19676)    
 
 
 ## 🗄️ Categories:
-- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
+- [Transportation](https://github.com/apis-list/apis-list#transportation-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

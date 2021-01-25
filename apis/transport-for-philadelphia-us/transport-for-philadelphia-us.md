@@ -8,19 +8,19 @@ Southeastern Pennsylvania Transportation Authority API
 **Docs / Website**: http://www3.septa.org/hackathon/
 
 ## 🧬 Transportation in Philadelphia, USA Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19897)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19897)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19897)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19895)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19895)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19895)
 
 ## 💬 Transportation in Philadelphia, USA Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19897)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19895)    
 
 
 ## 🗄️ Categories:
-- [Government](https://github.com/apis-list/apis-list#government-)- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
+- [Government](https://github.com/apis-list/apis-list#government-)- [Transportation](https://github.com/apis-list/apis-list#transportation-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

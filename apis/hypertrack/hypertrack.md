@@ -6,9 +6,9 @@ Build applications that track the movement of your business. HyperTrack is the A
 **Docs / Website**: https://docs.hypertrack.com
 
 ## 🧬 HyperTrack Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9536)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9536)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9536)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9535)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9535)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9535)
 
 ## 💬 HyperTrack Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
@@ -25,6 +25,6 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics-)- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics-)- [Vehicles](https://github.com/apis-list/apis-list#vehicles-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

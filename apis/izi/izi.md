@@ -2,25 +2,25 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/izi/logo_256x256.png" alt="Izi Logo"/>
 </p>
-The response format for all reques. Overview This is the API reference document for accessing the izi. TRAVEL Directory (MTG Content Directory): All API requests are made over HTTPS to API endpoints
+izi.TRAVEL is ready to spread all local stories globally. Every day numerous content providers publish their audio guides on izi.TRAVEL platform. More than 1750 museums and 1750 cities all of the world are covered with interesting stories in different languages. New stories appear every moment.
 
 ##  🔗 Links
 **Docs / Website**: http://api-docs.izi.travel/
 
 ## 🧬 Izi Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10553)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10553)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10553)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10552)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10552)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10552)
 
 ## 💬 Izi Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10553)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10552)    
 
 
 ## 🗄️ Categories:
-- [Vehicle & Transportation](https://github.com/apis-list/apis-list#vehicle--transportation-)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)- [Travel](https://github.com/apis-list/apis-list#travel-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)
