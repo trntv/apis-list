@@ -1,7 +1,8 @@
 # List of Public APIs
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/apis-list/apis-list)
-![Contributions: Welcome](https://img.shields.io/badge/contributions-welcome-green)
 ![APIs: 1200+](https://img.shields.io/badge/apis-1200+-violet)
+![Contributions: Welcome](https://img.shields.io/badge/contributions-welcome-green)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/apis-list/apis-list)
+
 This project is an attempt to categorise and compile information about different public APIs into one place. Its goal is to build
 most complete and handy list which will help developers to find APIs most suitable for their needs.
 It includes APIs description, links to docs, specification, list of SDK and libraries, logo etc.
