@@ -8,16 +8,16 @@ Access Clan Search, Global and Local Leaderboards, Clan and Player Profiles and 
 **Docs / Website**: https://developer.clashofclans.com
 
 ## 🧬 Clash of Clans Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3314)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3314)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3314)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/clash-of-clans/clash-of-clans.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/clash-of-clans/clash-of-clans.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/clash-of-clans/clash-of-clans.yaml)
 
 ## 💬 Clash of Clans Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3314)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/clash-of-clans/clash-of-clans.yaml)    
 
 
 ## 🗄️ Categories:

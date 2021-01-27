@@ -1,0 +1,33 @@
+name: Postmen
+slug: postmen
+categories:
+    - Development
+description: Download Postmen's JSON schema. Learn how to generate Postmen API key and make requests. Get information about Postmen Meta key and Data key. Add shipping capability of FedEx, UPS, DHL, USPS and over 40 carriers worldwide
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/postmen/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: 'Postmen Ruby SDK '
+      homepage_uri: https://www.rubydoc.info/github/postmen/postmen-sdk-ruby
+      source_code_uri: https://github.com/postmen/postmen-sdk-ruby
+      platform: Ruby
+    - name: Postmen NodeJS SDK
+      homepage_uri: https://www.postmen.com/
+      source_code_uri: https://github.com/postmen/postmen-sdk-js
+      platform: Node.js
+    - name: 'Postmen PHP SDK '
+      homepage_uri: https://www.postmen.com
+      source_code_uri: https://github.com/postmen/postmen-sdk-php
+      platform: PHP
+    - name: Postmen Python SDK
+      homepage_uri: https://github.com/postmen/sdk-python
+      source_code_uri: ""
+      platform: Python
+    - name: Postmen .NET SDK
+      homepage_uri: https://github.com/postmen/sdk-net
+      source_code_uri: ""
+      platform: .Net
+links:
+    - name: Docs / Website
+      url: https://docs.postmen.com/

@@ -1,0 +1,17 @@
+name: SecurityTrails
+slug: securitytrails
+categories:
+    - Security
+    - Finance & Economics
+description: SecurityTrails currently offers three different products that can help you enrich your data, search for information, and find relevant security information for organizations in no time
+is_free: false
+type: REST
+is_active: true
+libraries:
+    - name: SecurityTrails Python SDK By secops4thewin
+      homepage_uri: https://github.com/secops4thewin/securitytrails-python/blob/master/README.md
+      source_code_uri: https://github.com/secops4thewin/securitytrails-python
+      platform: Python
+links:
+    - name: Docs / Website
+      url: https://securitytrails.com/corp/apidocs

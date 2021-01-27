@@ -1,0 +1,11 @@
+name: Wal-Mart
+slug: wal-mart
+categories:
+    - Commerce
+description: Product Lookup API gives access to item price and availability in real-time. Item id needs to be specified for doing a lookup. Response type returned is full response.
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://developer.walmartlabs.com/docs

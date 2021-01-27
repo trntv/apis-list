@@ -1,0 +1,45 @@
+name: Medium
+slug: medium
+categories:
+    - Social
+description: Documentation for Medium's OAuth2 API. Documentation for Medium's OAuth2 API. Contribute to Medium/medium-api-docs development by creating an account on GitHub
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/medium/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: Medium Haskell SDK by Timmy Tofu
+      homepage_uri: https://hackage.haskell.org/package/medium-sdk-haskell
+      source_code_uri: ""
+      platform: Haskell
+    - name: Medium Ruby SDK by Kevin Kirsche
+      homepage_uri: https://rubygems.org/gems/medium-sdk-ruby/versions/1.0.1
+      source_code_uri: ""
+      platform: Ruby
+    - name: Medium PHP SDK by Jonathan Torres
+      homepage_uri: https://github.com/jonathantorres/medium-sdk-php
+      source_code_uri: ""
+      platform: PHP
+    - name: Medium Go SDK by Parham Doustdar
+      homepage_uri: https://github.com/parhamdoustdar/godium
+      source_code_uri: ""
+      platform: Go
+    - name: Medium Ruby SDK by John Wang
+      homepage_uri: https://github.com/grokify/medium-sdk-ruby
+      source_code_uri: ""
+      platform: Ruby
+    - name: Medium Node.js SDK by Medium
+      homepage_uri: https://github.com/Medium/medium-sdk-nodejs
+      source_code_uri: ""
+      platform: Node.js
+    - name: Medium Go SDK by Medium
+      homepage_uri: https://github.com/Medium/medium-sdk-go
+      source_code_uri: ""
+      platform: Go
+    - name: Medium Python SDK by Medium
+      homepage_uri: https://github.com/Medium/medium-sdk-python
+      source_code_uri: ""
+      platform: Python
+links:
+    - name: Docs / Website
+      url: https://github.com/Medium/medium-api-docs

@@ -1,0 +1,42 @@
+name: Wikipedia
+slug: wikipedia
+categories:
+    - Content & Dictionaries
+    - Wiki
+description: Free multilingual Encyclopedia.
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wikipedia/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: Wikipedia Python SDK by Martin Majlis
+      homepage_uri: https://pypi.python.org/pypi/Wikipedia-API/0.3.5
+      source_code_uri: https://github.com/martin-majlis/Wikipedia-API/
+      platform: Python
+    - name: 'Wikipedia Javascript SDK by Open Knowledge International '
+      homepage_uri: http://okfnlabs.org/wikipediajs/
+      source_code_uri: https://github.com/okfn/wikipediajs
+      platform: JavaScript
+    - name: Python Wikitools
+      homepage_uri: https://github.com/alexz-enwp/wikitools
+      source_code_uri: ""
+      platform: Python
+    - name: Wikipedia Java Library java-mwapi
+      homepage_uri: https://github.com/wikimedia/java-mwapi
+      source_code_uri: https://github.com/wikimedia/java-mwapi
+      platform: Java
+    - name: Wikipedia Go Library go-mwclient
+      homepage_uri: https://github.com/cgt/go-mwclient
+      source_code_uri: https://github.com/cgt/go-mwclient
+      platform: Go
+    - name: Wikipedia Haskell Library mediawiki package
+      homepage_uri: http://hackage.haskell.org/package/mediawiki
+      source_code_uri: http://hackage.haskell.org/package/mediawiki
+      platform: Haskell
+    - name: Wikipedia by Goldsmith
+      homepage_uri: https://pypi.python.org/pypi/wikipedia
+      source_code_uri: https://github.com/goldsmith/Wikipedia
+      platform: Python
+links:
+    - name: Docs / Website
+      url: https://en.wikipedia.org/w/api.php

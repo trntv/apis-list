@@ -1,0 +1,14 @@
+name: vatlayer
+slug: vatlayer
+categories:
+    - Finance & Economics
+    - Validation & Verification
+    - Commerce
+description: Free and HTTPS secured JSON API offering instant VAT number validation, reliable EU VAT rates and VAT compliant price calculations for developers & businesses
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/vatlayer/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://vatlayer.com

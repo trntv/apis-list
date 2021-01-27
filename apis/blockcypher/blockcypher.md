@@ -6,9 +6,9 @@ Build blockchain applications easily with our web APIs and callbacks. High throu
 **Docs / Website**: https://www.blockcypher.com/
 
 ## 🧬 BlockCypher Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1919)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1919)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1919)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/blockcypher/blockcypher.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/blockcypher/blockcypher.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/blockcypher/blockcypher.yaml)
 
 ## 💬 BlockCypher Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

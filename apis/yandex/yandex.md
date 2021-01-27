@@ -6,9 +6,9 @@ Maps and the necessary tools for working it on your web app or site
 **Docs / Website**: https://tech.yandex.com/maps/
 
 ## 🧬 Yandex Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22529)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22529)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22529)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yandex/yandex.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yandex/yandex.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yandex/yandex.yaml)
 
 ## 💬 Yandex Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

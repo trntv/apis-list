@@ -8,16 +8,16 @@ Yo API Documentation. Programmatically send Yos (contextual messages) through AP
 **Docs / Website**: https://docs.justyo.co/
 
 ## 🧬 Yo Developers API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22685)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22685)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22685)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yo-developers-api/yo-developers-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yo-developers-api/yo-developers-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yo-developers-api/yo-developers-api.yaml)
 
 ## 💬 Yo Developers API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22685)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/yo-developers-api/yo-developers-api.yaml)    
 
 
 ## 🗄️ Categories:

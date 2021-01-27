@@ -8,16 +8,16 @@ KBB.com gives you everything you need to research a new, certified (CPO) or used
 **Docs / Website**: http://developer.kbb.com/#!/data/1-Default
 
 ## 🧬 Kelley Blue Book Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10862)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10862)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10862)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/kelley-blue-book/kelley-blue-book.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/kelley-blue-book/kelley-blue-book.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/kelley-blue-book/kelley-blue-book.yaml)
 
 ## 💬 Kelley Blue Book Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10862)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/kelley-blue-book/kelley-blue-book.yaml)    
 
 
 ## 🗄️ Categories:

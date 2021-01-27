@@ -8,9 +8,9 @@ This is a full RESTful API linked to an extensive database detailing everything 
 **Docs / Website**: https://pokeapi.co/
 
 ## 🧬 Pokéapi Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15163)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15163)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15163)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pokeapi/pokeapi.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pokeapi/pokeapi.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pokeapi/pokeapi.yaml)
 
 ## 💬 Pokéapi Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

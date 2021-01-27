@@ -6,16 +6,16 @@ The s. Welcome to Transport for Greater Manchester’s new Real-Time Open Data P
 **Docs / Website**: https://developer.tfgm.com/
 
 ## 🧬 Transportation in Manchester, England Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19828)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19828)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19828)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-manchester-england/transport-for-manchester-england.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-manchester-england/transport-for-manchester-england.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-manchester-england/transport-for-manchester-england.yaml)
 
 ## 💬 Transportation in Manchester, England Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19828)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-manchester-england/transport-for-manchester-england.yaml)    
 
 
 ## 🗄️ Categories:

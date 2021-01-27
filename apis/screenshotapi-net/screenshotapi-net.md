@@ -6,16 +6,16 @@ Use one simple API call to generate screenshots of any website. Use this screens
 **Docs / Website**: https://screenshotapi.net
 
 ## 🧬 ScreenshotAPI.net Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17148)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17148)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17148)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/screenshotapi-net/screenshotapi-net.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/screenshotapi-net/screenshotapi-net.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/screenshotapi-net/screenshotapi-net.yaml)
 
 ## 💬 ScreenshotAPI.net Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17148)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/screenshotapi-net/screenshotapi-net.yaml)    
 
 
 ## 🗄️ Categories:

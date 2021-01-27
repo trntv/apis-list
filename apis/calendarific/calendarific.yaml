@@ -1,0 +1,11 @@
+name: Calendarific
+slug: calendarific
+categories:
+    - Calendar & Time
+description: With Calendarific API you can display the dates of public holidays, bank holidays, local holidays and religious holidays for over 200 countries worldwide. The Calendarific Holiday API documentation allows you to integrate our easy-to-use JSON API into your applications
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/calendarific/logo_256x256.png
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://calendarific.com/api-documentation

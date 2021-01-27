@@ -6,16 +6,16 @@ Access to Metadata, search capabilities and recommendations. Digital First Digit
 **Docs / Website**: https://developers.rovicorp.com/
 
 ## 🧬 Rovi Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16826)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16826)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16826)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/rovi/rovi.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/rovi/rovi.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/rovi/rovi.yaml)
 
 ## 💬 Rovi Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16826)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/rovi/rovi.yaml)    
 
 
 ## 🗄️ Categories:

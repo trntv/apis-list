@@ -1,0 +1,13 @@
+name: AmiiboAPI
+slug: amiiboapi
+categories:
+    - Games
+    - Entertainment
+description: The Amiibo RESTful API
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/amiiboapi/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://amiiboapi.com/

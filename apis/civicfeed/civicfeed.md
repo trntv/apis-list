@@ -8,16 +8,16 @@ Get online news, blogs, social and TV/radio through a JSON API - easy integratio
 **Docs / Website**: https://developers.civicfeed.com/
 
 ## 🧬 CivicFeed Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3215)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3215)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3215)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/civicfeed/civicfeed.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/civicfeed/civicfeed.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/civicfeed/civicfeed.yaml)
 
 ## 💬 CivicFeed Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3215)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/civicfeed/civicfeed.yaml)    
 
 
 ## 🗄️ Categories:

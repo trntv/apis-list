@@ -1,0 +1,12 @@
+name: Quotes on Design
+slug: quotes-on-design
+categories:
+    - Fun
+    - Art & Design
+description: Quotes on Design
+is_free: false
+type: REST
+is_active: false
+links:
+    - name: Docs / Website
+      url: https://quotesondesign.com/api/

@@ -1,0 +1,11 @@
+name: SVN
+slug: svn
+categories:
+    - Development
+description: It is intended mainly for programmers, both those working on Subversion itself, as well as developers of 3rd-party ap. Collection of modular libraries written in the C programming language. This documentation covers the public APIs provided by the Subversion libraries
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://subversion.apache.org/docs/api/1.8/

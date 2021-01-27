@@ -8,16 +8,16 @@ Take screenshots, GIFS, and replays that are ready to share. The Gyazo API can b
 **Docs / Website**: https://gyazo.com/api/docs
 
 ## 🧬 Gyazo Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9083)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9083)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9083)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gyazo/gyazo.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gyazo/gyazo.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gyazo/gyazo.yaml)
 
 ## 💬 Gyazo Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9083)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/gyazo/gyazo.yaml)    
 
 
 ## 🗄️ Categories:

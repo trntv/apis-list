@@ -1,0 +1,10 @@
+name: NanoSDK
+slug: nanosdk
+categories:
+    - Other
+description: ""
+is_free: false
+is_active: false
+links:
+    - name: Docs / Website
+      url: https://nanosdk.com

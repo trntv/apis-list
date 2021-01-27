@@ -1,0 +1,11 @@
+name: CleanURI
+slug: cleanuri
+categories:
+    - URLs
+description: API Documentation cleanuri. com exposes its data via an Application Programming Interface (API), so developers can interact in a programmatic way with application. This document is the official refe
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://cleanuri.com/docs

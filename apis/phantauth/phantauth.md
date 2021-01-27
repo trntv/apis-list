@@ -8,16 +8,16 @@ Random User Generator + OpenID Connect Provider. Like Lorem Ipsum, but for user 
 **Docs / Website**: https://www.phantauth.net/
 
 ## 🧬 PhantAuth Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14802)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14802)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14802)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/phantauth/phantauth.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/phantauth/phantauth.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/phantauth/phantauth.yaml)
 
 ## 💬 PhantAuth Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14802)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/phantauth/phantauth.yaml)    
 
 
 ## 🗄️ Categories:

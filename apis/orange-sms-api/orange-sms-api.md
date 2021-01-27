@@ -8,16 +8,16 @@ The SMS Service,allows you to send and receive text messages, of up to 160 chara
 **Docs / Website**: https://developer.orange.com/apis/sms-ml
 
 ## 🧬 Orange SMS API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14412)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14412)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14412)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/orange-sms-api/orange-sms-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/orange-sms-api/orange-sms-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/orange-sms-api/orange-sms-api.yaml)
 
 ## 💬 Orange SMS API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14412)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/orange-sms-api/orange-sms-api.yaml)    
 
 
 ## 🗄️ Categories:

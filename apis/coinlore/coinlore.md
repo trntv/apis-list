@@ -8,16 +8,16 @@ Coinlore presents public free crypto tick data api
 **Docs / Website**: https://www.coinlore.com/cryptocurrency-data-api
 
 ## 🧬 Coinlore Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3924)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3924)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3924)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/coinlore/coinlore.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/coinlore/coinlore.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/coinlore/coinlore.yaml)
 
 ## 💬 Coinlore Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3924)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/coinlore/coinlore.yaml)    
 
 
 ## 🗄️ Categories:

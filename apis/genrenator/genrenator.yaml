@@ -1,0 +1,12 @@
+name: Genrenator
+slug: genrenator
+categories:
+    - Music & Audio
+description: Binary Jazz genrenator
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/genrenator/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://binaryjazz.us/genrenator-api/

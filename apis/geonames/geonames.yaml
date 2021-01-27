@@ -1,0 +1,138 @@
+name: GeoNames
+slug: geonames
+categories:
+    - Maps & Geo
+    - Post & Logistics
+description: The GeoNames geographical database covers all countries and contains over eleven million placenames that are available for download free of charge.
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/geonames/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: Escape JavaScript SDK by Jason Zheng
+      homepage_uri: https://github.com/JasonZheng20/Escape
+      source_code_uri: ""
+      platform: JavaScript
+    - name: NGeo .NET SDK by Dan Ludwig
+      homepage_uri: https://github.com/danludwig/NGeo
+      source_code_uri: ""
+      platform: .Net, C#
+    - name: GeoNames Node.js SDK by Stephan Georg
+      homepage_uri: https://github.com/StephanGeorg/geocoder-geonames
+      source_code_uri: ""
+      platform: Node.js
+    - name: GeoNames jQuery SDK by Thomas Haukland
+      homepage_uri: http://tompi.github.io/jeoquery/
+      source_code_uri: https://github.com/tompi/jeoquery
+      platform: jQuery
+    - name: GeoNames .NET SDK by Benjamin Schroeter
+      homepage_uri: http://geonamesdotorgdotnet.codeplex.com/
+      source_code_uri: ""
+      platform: .Net
+    - name: GeoNames .NET SDK by baretta2
+      homepage_uri: https://www.codeproject.com/Articles/30627/GeoNames-NET-WCF-Client
+      source_code_uri: ""
+      platform: .Net, C#
+    - name: GeoNames R SDK by Edzer Pebesma and Barry Rowlingson
+      homepage_uri: http://geonames.r-forge.r-project.org/
+      source_code_uri: ""
+      platform: R
+    - name: GeoNames Laravel PHP SDK by Michael Drennen
+      homepage_uri: https://packagist.org/packages/michaeldrennen/geonames
+      source_code_uri: https://github.com/michaeldrennen/geonames
+      platform: PHP
+    - name: GeoNames Yii PHP SDK by Antonio Ramirez
+      homepage_uri: http://www.yiiframework.com/extension/egeonameservice/
+      source_code_uri: ""
+      platform: PHP
+    - name: GeoNames Leaflet JavaScript SDK by Conservation Biology Institute
+      homepage_uri: https://github.com/consbio/Leaflet.Geonames
+      source_code_uri: ""
+      platform: JavaScript
+    - name: GeoNames PHP SDK by David Jean Louis
+      homepage_uri: http://pear.php.net/package/Services_GeoNames
+      source_code_uri: ""
+      platform: PHP
+    - name: GeoNames Elixir SDK by pareeohnos
+      homepage_uri: https://github.com/pareeohnos/geonames-elixir
+      source_code_uri: ""
+      platform: Elixir
+    - name: GeoNames Common Lisp SDK by Google
+      homepage_uri: https://code.google.com/archive/p/cl-geonames/
+      source_code_uri: ""
+      platform: Lisp
+    - name: GeoNames Perl SDK by Per Henrik Johansen
+      homepage_uri: http://search.cpan.org/~nicomen/Geo-GeoNames/lib/Geo/GeoNames.pm
+      source_code_uri: ""
+      platform: PERL
+    - name: GeoNames Python SDK by Denis Carriere
+      homepage_uri: http://geocoder.readthedocs.io/providers/GeoNames.html
+      source_code_uri: https://github.com/DenisCarriere/geocoder
+      platform: Python
+    - name: GeoNames Drupal SDK by lyricnz
+      homepage_uri: https://www.drupal.org/project/geonames
+      source_code_uri: ""
+      platform: Unspecified
+    - name: GeoNames Ruby SDK by Nicolas Marchildon
+      homepage_uri: https://github.com/elecnix/ruby-geonames
+      source_code_uri: ""
+      platform: Ruby
+    - name: GeoNames Logstash SDK by Luis Pallares
+      homepage_uri: https://github.com/panchicore/es-geonames/tree/master/logstash
+      source_code_uri: ""
+      platform: Unspecified
+    - name: GeoNames Ubuntu C SDK by Ubuntu Desktop Team
+      homepage_uri: https://packages.ubuntu.com/bionic/geoclue-geonames
+      source_code_uri: ""
+      platform: C
+    - name: GeoNames Java SDK
+      homepage_uri: http://www.geonames.org/source-code/
+      source_code_uri: ""
+      platform: Java
+    - name: GeoNames Python Library by Ramiro Gómez
+      homepage_uri: https://github.com/yaph/geonamescache
+      source_code_uri: ""
+      platform: Python
+    - name: GeoNames Python Library by Dennis Carriere
+      homepage_uri: https://pypi.python.org/pypi/geonames
+      source_code_uri: https://pypi.python.org/pypi/geonames/0.1.2
+      platform: Python
+    - name: GeoNames .Net Library NGeoNames
+      homepage_uri: https://github.com/RobThree/NGeoNames
+      source_code_uri: https://www.nuget.org/packages/NGeoNames/
+      platform: .Net
+    - name: GeoNames Node.js Library node-geonames-client
+      homepage_uri: https://www.npmjs.com/package/node-geonames-client
+      source_code_uri: ""
+      platform: Node.js
+    - name: GeoNames Node.js Library geonames-stream
+      homepage_uri: https://github.com/geopipes/geonames-stream
+      source_code_uri: https://www.npmjs.com/package/geonames-stream
+      platform: Node.js
+    - name: GeoNames .NET WCF Client
+      homepage_uri: http://www.codeproject.com/Articles/30627/GeoNames-NET-WCF-Client
+      source_code_uri: ""
+      platform: .Net, C#
+    - name: GeoNames PERL Client Geo::GeoNames
+      homepage_uri: http://search.cpan.org/~perhenrik/Geo-GeoNames/lib/Geo/GeoNames.pm
+      source_code_uri: ""
+      platform: PERL
+    - name: Python Library Geopy
+      homepage_uri: https://github.com/geopy/geopy
+      source_code_uri: ""
+      platform: Python
+    - name: GeoNames Ruby Client geonames_api
+      homepage_uri: https://github.com/buytruckload/geonames_api
+      source_code_uri: ""
+      platform: Ruby
+    - name: GeoNames Objective-C Library by Infinite Loop
+      homepage_uri: http://www.infinite-loop.dk/developer/ilgeonames/
+      source_code_uri: ""
+      platform: Objective-C
+    - name: Ruby Library for Geonames
+      homepage_uri: http://www.tbcn.ca/ruby_geonames
+      source_code_uri: ""
+      platform: Ruby
+links:
+    - name: Docs / Website
+      url: http://www.geonames.org/export/web-services.html

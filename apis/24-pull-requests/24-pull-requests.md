@@ -8,16 +8,16 @@
 **Docs / Website**: https://24pullrequests.com/api
 
 ## 🧬 24 Pull Requests Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L33)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L33)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L33)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/24-pull-requests/24-pull-requests.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/24-pull-requests/24-pull-requests.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/24-pull-requests/24-pull-requests.yaml)
 
 ## 💬 24 Pull Requests Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L33)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/24-pull-requests/24-pull-requests.yaml)    
 
 
 ## 🗄️ Categories:

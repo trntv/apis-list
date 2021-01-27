@@ -1,0 +1,11 @@
+name: Axfr Database
+slug: axfr-database
+categories:
+    - Security
+description: AXFR public database
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/axfr-database/logo_256x256.png
+is_active: false
+links:
+    - name: Docs / Website
+      url: http://api.axfrcheck.com

@@ -8,9 +8,9 @@ Discover how the Uber API can easily enhance your app’s user experience and ta
 **Docs / Website**: https://developer.uber.com/
 
 ## 🧬 Uber Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20845)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20845)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20845)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/uber/uber.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/uber/uber.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/uber/uber.yaml)
 
 ## 💬 Uber Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

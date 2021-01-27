@@ -1,0 +1,11 @@
+name: Ip Address Api
+slug: ip-address-api
+categories:
+    - Other
+description: IP Address API free service provides country name, 2 symbol code and 3 symbol code for free. Examples in CURL, JSON and php format with https support
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ip-address-api/logo_256x256.png
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://any.ge/api/

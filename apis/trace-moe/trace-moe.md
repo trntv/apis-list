@@ -6,16 +6,16 @@ Scan anime image to get specific detail
 **Docs / Website**: https://soruly.github.io/trace.moe/#/
 
 ## 🧬 Trace.Moe Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19536)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19536)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19536)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/trace-moe/trace-moe.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/trace-moe/trace-moe.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/trace-moe/trace-moe.yaml)
 
 ## 💬 Trace.Moe Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19536)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/trace-moe/trace-moe.yaml)    
 
 
 ## 🗄️ Categories:

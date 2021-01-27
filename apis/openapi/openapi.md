@@ -8,16 +8,16 @@ The OpenAPI Specification: a broadly adopted industry standard for describing mo
 **Docs / Website**: https://www.openapis.org
 
 ## 🧬 OpenAPI Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14262)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14262)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14262)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/openapi/openapi.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/openapi/openapi.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/openapi/openapi.yaml)
 
 ## 💬 OpenAPI Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14262)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/openapi/openapi.yaml)    
 
 
 ## 🗄️ Categories:

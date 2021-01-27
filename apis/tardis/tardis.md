@@ -8,16 +8,16 @@ Raw historical market data is available both in exchange native and normalized f
 **Docs / Website**: https://tardis.dev
 
 ## 🧬 Tardis Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18792)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18792)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18792)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/tardis/tardis.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/tardis/tardis.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/tardis/tardis.yaml)
 
 ## 💬 Tardis Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18792)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/tardis/tardis.yaml)    
 
 
 ## 🗄️ Categories:

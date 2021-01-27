@@ -6,16 +6,16 @@ v1. 1 Update, adding TrackId and TrackChecksum for future AddLyric function, Add
 **Docs / Website**: http://www.chartlyrics.com/api.aspx
 
 ## 🧬 ChartLyrics Lyrics API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2755)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2755)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2755)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/chartlyrics-lyrics-api/chartlyrics-lyrics-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/chartlyrics-lyrics-api/chartlyrics-lyrics-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/chartlyrics-lyrics-api/chartlyrics-lyrics-api.yaml)
 
 ## 💬 ChartLyrics Lyrics API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2755)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/chartlyrics-lyrics-api/chartlyrics-lyrics-api.yaml)    
 
 
 ## 🗄️ Categories:

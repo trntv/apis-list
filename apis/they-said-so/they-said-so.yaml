@@ -1,0 +1,16 @@
+name: They Said So
+slug: they-said-so
+categories:
+    - Fun
+description: They Said So Quotes API offers a complete feature rich REST API access to its quotes platform.
+is_free: false
+type: REST
+is_active: true
+libraries:
+    - name: They Said So Node.js SDK by Adam Barker
+      homepage_uri: https://github.com/q-state/node-theysaidso
+      source_code_uri: ""
+      platform: Node.js
+links:
+    - name: Docs / Website
+      url: http://quotes.rest/

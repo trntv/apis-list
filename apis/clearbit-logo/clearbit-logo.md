@@ -8,9 +8,9 @@ If you’re only interested in a Company’s logo, and don’t need any other da
 **Docs / Website**: https://clearbit.com/docs#logo-api
 
 ## 🧬 Clearbit Logo Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3338)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3338)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3338)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/clearbit-logo/clearbit-logo.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/clearbit-logo/clearbit-logo.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/clearbit-logo/clearbit-logo.yaml)
 
 ## 💬 Clearbit Logo Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

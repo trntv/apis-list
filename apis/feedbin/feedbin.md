@@ -8,16 +8,16 @@ Feedbin API Documentation. Contribute to feedbin/feedbin-api development by crea
 **Docs / Website**: https://github.com/feedbin/feedbin-api
 
 ## 🧬 Feedbin Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6316)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6316)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6316)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/feedbin/feedbin.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/feedbin/feedbin.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/feedbin/feedbin.yaml)
 
 ## 💬 Feedbin Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6316)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/feedbin/feedbin.yaml)    
 
 
 ## 🗄️ Categories:

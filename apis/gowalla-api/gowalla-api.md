@@ -8,16 +8,16 @@ Gather and compare all kinds of interesting data, they weren't really interactiv
 **Docs / Website**: https://go.gowalla.com/
 
 ## 🧬 Gowalla API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8788)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8788)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8788)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gowalla-api/gowalla-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gowalla-api/gowalla-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gowalla-api/gowalla-api.yaml)
 
 ## 💬 Gowalla API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8788)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/gowalla-api/gowalla-api.yaml)    
 
 
 ## 🗄️ Categories:

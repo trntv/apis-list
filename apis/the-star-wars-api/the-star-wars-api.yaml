@@ -1,0 +1,11 @@
+name: The Star Wars Api
+slug: the-star-wars-api
+categories:
+    - Entertainment
+description: 'All the Star Wars data you''ve ever wanted: Planets, Spaceships, Vehicles, People, Films and Species'
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/the-star-wars-api/logo_256x256.png
+is_active: false
+links:
+    - name: Docs / Website
+      url: https://swapi.co

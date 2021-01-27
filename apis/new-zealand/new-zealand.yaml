@@ -1,0 +1,11 @@
+name: Central bank of New Zealand
+slug: new-zealand
+categories:
+    - Government
+description: Central bank of New Zealand
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://www.rbnz.govt.nz/statistics

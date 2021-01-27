@@ -1,0 +1,30 @@
+name: Square
+slug: square
+categories:
+    - Commerce
+    - Payments
+    - Business
+description: Square provides support and tools for you to build apps for today’s business needs. Build customized solutions that accept payments (online, in-person, or in-app), manage products and customers and handle the day-to-day operations that keep business running. Square APIs are powerful, secure, reliable, and free to use. Use Developer APIs to build on the platform that sellers trust
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/square/logo_256x256.png
+is_active: true
+libraries:
+    - name: Square Connect NodeJS SDK
+      homepage_uri: https://developer.squareup.com/docs/sdks
+      source_code_uri: https://github.com/square/connect-nodejs-sdk
+      platform: Node.js
+    - name: ' Square Register In Person Payment Android SDK by Square'
+      homepage_uri: https://github.com/square/register-android-sdk
+      source_code_uri: ""
+      platform: Java
+    - name: Square Register In Person Payment iOS SDK by Square
+      homepage_uri: https://github.com/square/SquareRegisterSDK-iOS
+      source_code_uri: ""
+      platform: Objective-C
+    - name: Picasso Java SDK by Square
+      homepage_uri: http://square.github.io/picasso/
+      source_code_uri: https://github.com/square/picasso
+      platform: Java
+links:
+    - name: Docs / Website
+      url: https://developer.squareup.com/us/en

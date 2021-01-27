@@ -1,0 +1,11 @@
+name: Wit.ai
+slug: wit-ai
+categories:
+    - AI & ML
+description: Natural Language Processing
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://wit.ai/

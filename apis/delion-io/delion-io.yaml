@@ -1,0 +1,11 @@
+name: Delion.Io
+slug: delion-io
+categories:
+    - Blockchain & Cryptocurrencies
+description: A powerful API for developers and companies to explore and develop new apps based on IOTA distributed ledger technology
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/delion-io/logo_256x256.png
+is_active: false
+links:
+    - name: Docs / Website
+      url: https://delion.io

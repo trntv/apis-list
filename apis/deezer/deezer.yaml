@@ -1,0 +1,115 @@
+name: Deezer
+slug: deezer
+categories:
+    - Search
+    - Video & Media
+    - Music & Audio
+description: Deezer API provides a nice set of services to build up web applications allowing the discovery of Deezer's music catalogue. You have to login to accept the terms and conditions of the simple API. Login Back to top Follow @deezer Terms of use Contact & Support
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/deezer/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: lizz C++ SDK by bx5a
+      homepage_uri: https://github.com/bx5a/lizz
+      source_code_uri: ""
+      platform: C++
+    - name: Deezer Python SDK by Steinthor Palsson
+      homepage_uri: https://github.com/steinitzu/pydeezer
+      source_code_uri: ""
+      platform: Python
+    - name: Deezer VueJS SDK by Kevin Badinca
+      homepage_uri: https://github.com/kainister/deezweb
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Deezer Swift SDK by George Bonnici-Carter
+      homepage_uri: https://github.com/GeorgeB123/Song_Search
+      source_code_uri: ""
+      platform: Swift
+    - name: Deezer Kotlin SDK by Biacode
+      homepage_uri: https://github.com/Biacode/jdeezer
+      source_code_uri: ""
+      platform: Kotlin
+    - name: Deezer Rust SDK by diogox
+      homepage_uri: https://github.com/diogox/deezer_metadata
+      source_code_uri: ""
+      platform: Unspecified
+    - name: Deezer VueJS SDK by figura01
+      homepage_uri: https://github.com/figura01/api-deezer-vujes
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Deezer VueJS SDK by maheshkumawat24
+      homepage_uri: https://github.com/maheshkumawat24/deezer-vue
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Deezer AngularJS SDK by Jérémy DE LA CASA
+      homepage_uri: https://github.com/jeremydelacasa/angular-deezer-api
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Deezer JavaScript SDK by Justin Levine
+      homepage_uri: https://github.com/jclevine/real-deezer-api
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Deezer Python SDK by Kaefertal
+      homepage_uri: https://github.com/Kaefertal/Deezer-API-data-exporter
+      source_code_uri: ""
+      platform: Python
+    - name: Deezer PHP SDK by CharloMez
+      homepage_uri: https://github.com/CharloMez/charlo-deezer-api
+      source_code_uri: ""
+      platform: PHP
+    - name: Deezer Java SDK by George
+      homepage_uri: https://github.com/GeorgeII/deezer-api-wrapper
+      source_code_uri: ""
+      platform: Java
+    - name: Deezer PHP SDK by RollandVivienPro
+      homepage_uri: https://github.com/RollandVivienPro/deezer-notif-api
+      source_code_uri: ""
+      platform: PHP
+    - name: Deezer NodeJS SDK by Allan Douglas
+      homepage_uri: https://github.com/AllanDouglas/api-deezer-node-example
+      source_code_uri: ""
+      platform: Node.js
+    - name: Deezer Symfony PHP SDK by Thibaud Anthoine
+      homepage_uri: https://github.com/thibaudanthoine/deezer-api-console
+      source_code_uri: ""
+      platform: PHP
+    - name: Deezer Java SDK by Fenrurr
+      homepage_uri: https://github.com/Fenrurr/SimpleDeezerApi
+      source_code_uri: ""
+      platform: Java
+    - name: Deezer Objective-C SDK by Rémi Lavedrine
+      homepage_uri: https://github.com/Shosta/deezer-search-artist
+      source_code_uri: ""
+      platform: Objective-C
+    - name: Deezer JavaScript SDK by d-fi
+      homepage_uri: https://github.com/d-fi/deezer-request2
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Deezer Java SDK by alex-massa
+      homepage_uri: https://github.com/alex-massa/deezer-api
+      source_code_uri: ""
+      platform: Java
+    - name: Deezer PHP SDK by Paul
+      homepage_uri: https://github.com/PouleR/deezer-api
+      source_code_uri: https://packagist.org/packages/pouler/deezer-api
+      platform: PHP
+    - name: Deezer JavaScript SDK by wowucco
+      homepage_uri: https://github.com/wowucco/deezer-api
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Deezer C# SDK by NwotYknuf
+      homepage_uri: https://github.com/NwotYknuf/deezerReaper
+      source_code_uri: ""
+      platform: C#
+    - name: Deezer Python SDK by NcVillalobos
+      homepage_uri: https://github.com/NcVillalobos/DeezerPy
+      source_code_uri: ""
+      platform: Python
+    - name: Deezer Java SDK by Ernest Chechelski
+      homepage_uri: https://github.com/ernichechelski/DeezerMusicTour
+      source_code_uri: ""
+      platform: Java
+links:
+    - name: Docs / Website
+      url: http://developers.deezer.com/api

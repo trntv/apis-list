@@ -7,16 +7,16 @@ With IPinfo, you can pinpoint your users’ locations, customize their experienc
 **Docs / Website**: https://ipinfo.io/developers
 
 ## 🧬 IPinfo Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9974)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9974)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9974)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ipinfo/ipinfo.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ipinfo/ipinfo.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ipinfo/ipinfo.yaml)
 
 ## 💬 IPinfo Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9974)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/ipinfo/ipinfo.yaml)    
 
 
 ## 🗄️ Categories:

@@ -8,9 +8,9 @@ Global Identity Verification API. Get a clearer picture of your customer. Instan
 **Docs / Website**: https://pro.whitepages.com/
 
 ## 🧬 Whitepages Pro Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21859)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21859)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21859)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/whitepages-pro/whitepages-pro.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/whitepages-pro/whitepages-pro.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/whitepages-pro/whitepages-pro.yaml)
 
 ## 💬 Whitepages Pro Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

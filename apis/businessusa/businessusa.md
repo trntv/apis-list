@@ -8,9 +8,9 @@ Software developers and researchers can use these APIs and data feeds to help pe
 **Docs / Website**: https://business.usa.gov/developer
 
 ## 🧬 BusinessUSA Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2368)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2368)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2368)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/businessusa/businessusa.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/businessusa/businessusa.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/businessusa/businessusa.yaml)
 
 ## 💬 BusinessUSA Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

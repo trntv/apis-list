@@ -6,16 +6,16 @@ GNews is an API to search for articles from a variety of sources, including Goog
 **Docs / Website**: https://gnews.io/
 
 ## 🧬 Unofficial Google News Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21012)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21012)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21012)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/unofficial-google-news-api/unofficial-google-news-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/unofficial-google-news-api/unofficial-google-news-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/unofficial-google-news-api/unofficial-google-news-api.yaml)
 
 ## 💬 Unofficial Google News Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21012)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/unofficial-google-news-api/unofficial-google-news-api.yaml)    
 
 
 ## 🗄️ Categories:

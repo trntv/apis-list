@@ -8,16 +8,16 @@ Generates cool looking robot image for any text
 **Docs / Website**: https://www.mashape.com/blaazetech/robohash-image-generator
 
 ## 🧬 Robohash Image Generator Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16776)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16776)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16776)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/robohash-image-generator/robohash-image-generator.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/robohash-image-generator/robohash-image-generator.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/robohash-image-generator/robohash-image-generator.yaml)
 
 ## 💬 Robohash Image Generator Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16776)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/robohash-image-generator/robohash-image-generator.yaml)    
 
 
 ## 🗄️ Categories:

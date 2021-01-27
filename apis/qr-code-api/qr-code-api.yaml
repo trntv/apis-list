@@ -1,0 +1,11 @@
+name: QR Code API
+slug: qr-code-api
+categories:
+    - Bar & QR Codes
+description: QR Code REST API. Can create QR code images or read existing images and return the contents
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://fungenerators.com/api/qrcode/

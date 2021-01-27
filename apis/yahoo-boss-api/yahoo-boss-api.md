@@ -8,16 +8,16 @@ Join the 200,000 developers using Yahoo tools to build their app businesses. Off
 **Docs / Website**: https://developer.yahoo.com/boss/search/
 
 ## 🧬 Yahoo BOSS API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22406)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22406)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22406)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yahoo-boss-api/yahoo-boss-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yahoo-boss-api/yahoo-boss-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yahoo-boss-api/yahoo-boss-api.yaml)
 
 ## 💬 Yahoo BOSS API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22406)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/yahoo-boss-api/yahoo-boss-api.yaml)    
 
 
 ## 🗄️ Categories:

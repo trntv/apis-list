@@ -1,0 +1,12 @@
+name: Intelligence X
+slug: intelligence-x
+categories:
+    - Security
+description: Public SDK for Intelligence X. Contribute to IntelligenceX/SDK development by creating an account on GitHub
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/intelligence-x/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://github.com/IntelligenceX/SDK/blob/master/Intelligence%20X%20API.pdf

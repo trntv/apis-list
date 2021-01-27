@@ -1,0 +1,75 @@
+name: Dark Sky
+slug: dark-sky
+categories:
+    - Weather
+description: Weather API
+is_free: false
+is_active: true
+libraries:
+    - name: Dark Sky WordPress PHP SDK by Joshua Nelson
+      homepage_uri: https://github.com/joshuadavidnelson/wp-darksky
+      source_code_uri: ""
+      platform: PHP
+    - name: Dark Sky Swift SDK by Peter Willsey
+      homepage_uri: https://github.com/pwillsey/ForecastIOClient
+      source_code_uri: ""
+      platform: Swift
+    - name: Dark Sky Swift SDK by Satyam Khodasara
+      homepage_uri: https://darksky.net/dev/docs/libraries
+      source_code_uri: https://github.com/sxg/ForecastIO
+      platform: Swift
+    - name: Dark Sky Swift SDK by Caramba Labs
+      homepage_uri: https://github.com/carambalabs/DarkSkyKit
+      source_code_uri: ""
+      platform: Swift
+    - name: Dark Sky Scala SDK by Garrett T
+      homepage_uri: https://github.com/film42/forecast-io-scala
+      source_code_uri: ""
+      platform: Scala
+    - name: Dark Sky Rust SDK by Jesse Grillo
+      homepage_uri: https://github.com/jgrillo/forecast-rs
+      source_code_uri: ""
+      platform: Unspecified
+    - name: Dark Sky Ruby SDK by Vicente Gozalbes
+      homepage_uri: https://github.com/vigosan/forecast_io
+      source_code_uri: ""
+      platform: Ruby
+    - name: Dark Sky R SDK by Bob Rudis
+      homepage_uri: https://github.com/hrbrmstr/darksky
+      source_code_uri: ""
+      platform: R
+    - name: Dark Sky Python SDK by Angel Hernandez III
+      homepage_uri: https://github.com/bitpixdigital/forecastiopy3
+      source_code_uri: ""
+      platform: Python
+    - name: Dark Sky Python SDK by David Ervideira
+      homepage_uri: https://github.com/dvdme/forecastiopy
+      source_code_uri: ""
+      platform: Python
+    - name: Dark Sky Python SDK by Ze’ev Gilovitz
+      homepage_uri: https://github.com/ZeevG/python-forecast.io
+      source_code_uri: ""
+      platform: Python
+    - name: Dark Sky PERL SDK by Martin-Louis Bright
+      homepage_uri: http://search.cpan.org/~martyloo/Forecast-IO-0.21/lib/Forecast/IO.pm
+      source_code_uri: https://github.com/mlbright/Forecast-IO
+      platform: PERL
+    - name: Dark Sky ColdFusion SDK by Danny Cork
+      homepage_uri: https://github.com/DannyCork/ForecastCFML
+      source_code_uri: ""
+      platform: ColdFusion
+    - name: Dark Sky Reckon NodeJS SDK by Chris Jones
+      homepage_uri: https://github.com/jonezy/reckon/
+      source_code_uri: ""
+      platform: Node.js
+    - name: Dark Sky NodeJS SDK by Matt Walters
+      homepage_uri: https://github.com/mateodelnorte/forecast.io
+      source_code_uri: ""
+      platform: Node.js
+    - name: Dark Sky NodeJS SDK by Ian Tearle
+      homepage_uri: https://github.com/iantearle/forecast.io-javascript-api
+      source_code_uri: ""
+      platform: Node.js
+links:
+    - name: Docs / Website
+      url: https://darksky.net/dev

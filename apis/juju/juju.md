@@ -6,16 +6,16 @@ Juju.com is a job search engine, not a job board. Juju's comprehensive search re
 **Docs / Website**: http://www.juju.com/publisher/spec/
 
 ## 🧬 Juju Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10759)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10759)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10759)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/juju/juju.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/juju/juju.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/juju/juju.yaml)
 
 ## 💬 Juju Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10759)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/juju/juju.yaml)    
 
 
 ## 🗄️ Categories:

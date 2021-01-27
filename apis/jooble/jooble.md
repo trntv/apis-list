@@ -6,16 +6,16 @@ The REST API allows developers to access and integrate Jooble's search results w
 **Docs / Website**: https://us.jooble.org/api/about
 
 ## 🧬 Jooble Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10706)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10706)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10706)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/jooble/jooble.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/jooble/jooble.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/jooble/jooble.yaml)
 
 ## 💬 Jooble Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10706)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/jooble/jooble.yaml)    
 
 
 ## 🗄️ Categories:

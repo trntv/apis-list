@@ -8,16 +8,16 @@ izi.TRAVEL is ready to spread all local stories globally. Every day numerous con
 **Docs / Website**: http://api-docs.izi.travel/
 
 ## 🧬 Izi Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10552)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10552)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10552)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/izi/izi.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/izi/izi.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/izi/izi.yaml)
 
 ## 💬 Izi Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10552)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/izi/izi.yaml)    
 
 
 ## 🗄️ Categories:

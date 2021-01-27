@@ -8,9 +8,9 @@ Build the future of business collaboration with Webex!
 **Docs / Website**: https://developer.ciscospark.com
 
 ## 🧬 Cisco Spark Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2987)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2987)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2987)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cisco-spark/cisco-spark.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cisco-spark/cisco-spark.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cisco-spark/cisco-spark.yaml)
 
 ## 💬 Cisco Spark Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -1,0 +1,12 @@
+name: CoinLayer
+slug: coinlayer
+categories:
+    - Blockchain & Cryptocurrencies
+description: Powerful cryptocurrency rates JSON API delivering real-time crypto exchange rate and conversion data for more than 25 exchanges and 385 coins worldwide
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/coinlayer/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://coinlayer.com

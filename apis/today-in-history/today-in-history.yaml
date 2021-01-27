@@ -1,0 +1,11 @@
+name: Today in History
+slug: today-in-history
+categories:
+    - Content & Dictionaries
+description: Database of historical events
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://history.muffinlabs.com/

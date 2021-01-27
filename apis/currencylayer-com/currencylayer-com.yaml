@@ -1,0 +1,12 @@
+name: CurrencyLayer.com
+slug: currencylayer-com
+categories:
+    - Finance & Economics
+description: Documentation, code and integration guides for the currencylayer JSON API - reliable and accurate JSON exchange rates for 168 world currencies and metals. Exchange rates and currency conversion API
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/currencylayer-com/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://currencylayer.com/documentation

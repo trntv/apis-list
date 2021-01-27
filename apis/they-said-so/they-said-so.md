@@ -6,9 +6,9 @@ They Said So Quotes API offers a complete feature rich REST API access to its qu
 **Docs / Website**: http://quotes.rest/
 
 ## 🧬 They Said So Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19364)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19364)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19364)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/they-said-so/they-said-so.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/they-said-so/they-said-so.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/they-said-so/they-said-so.yaml)
 
 ## 💬 They Said So Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

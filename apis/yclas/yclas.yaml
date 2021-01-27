@@ -1,0 +1,11 @@
+name: Yclas
+slug: yclas
+categories:
+    - Commerce
+description: Be creative and create any type of marketplace. Whether you are looking for a website for your Real Estate firm, a buy-and-sell preloved goods website with Yclas API you have a full backend to create adversitements, categories, locations, geolocations and much more in a simple and easy to use API
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/yclas/logo_256x256.png
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://yclas.com/

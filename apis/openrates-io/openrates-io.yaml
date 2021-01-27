@@ -1,0 +1,11 @@
+name: OpenRates.io
+slug: openrates-io
+categories:
+    - Finance & Economics
+description: Free live exchange rates and currency conversion API for developers. ECB rates JSON API. Live exchange rates and currency conversion API
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: http://www.openrates.io/

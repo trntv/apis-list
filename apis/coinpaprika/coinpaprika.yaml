@@ -1,0 +1,16 @@
+name: coinpaprika
+slug: coinpaprika
+categories:
+    - Blockchain & Cryptocurrencies
+description: Cryptocurrencies prices, market capitalization, volume and more.
+is_free: false
+type: REST
+is_active: true
+libraries:
+    - name: Coinpaprika C# SDK by Marco Siccardi
+      homepage_uri: https://api.coinpaprika.com/#section/Clients
+      source_code_uri: https://github.com/MSiccDev/CoinpaprikaAPI
+      platform: .Net, C#
+links:
+    - name: Docs / Website
+      url: https://api.coinpaprika.com

@@ -1,0 +1,22 @@
+name: ThingSpeak
+slug: thingspeak
+categories:
+    - IoT & Home Automation
+    - Open Source
+description: Ppen source “Internet of Things” application and API to store and retrieve data from things using HTTP over the Internet or via a Local Area Network.
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/thingspeak/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: ThingSpeak Python SDK by Chris Lee
+      homepage_uri: https://github.com/sirleech/thingspeak
+      source_code_uri: ""
+      platform: Python
+    - name: ThingSpeak Ruby SDK by ThingSpeak
+      homepage_uri: https://github.com/iobridge/thingspeak
+      source_code_uri: ""
+      platform: Ruby
+links:
+    - name: Docs / Website
+      url: https://github.com/iobridge/ThingSpeak

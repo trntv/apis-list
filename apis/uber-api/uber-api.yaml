@@ -1,0 +1,11 @@
+name: Uber API
+slug: uber-api
+categories:
+    - Transportation
+description: API to request Uber rides. Discover how the Uber API can easily enhance your app’s user experience and take your innovation further with a wide range of new capabilities
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/uber-api/logo_256x256.png
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://developer.uber.com

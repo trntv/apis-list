@@ -1,0 +1,12 @@
+name: Temboo SDK
+slug: temboo-sdk
+categories:
+    - IoT & Home Automation
+description: This platform acts as a layer on top of third-party APIs, using code snippets to trigger complex processes that run through their cloud platform. Get the Temboo SDK in the programming language of your choice
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/temboo-sdk/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://temboo.com/download

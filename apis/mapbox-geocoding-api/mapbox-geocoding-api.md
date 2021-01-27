@@ -6,16 +6,16 @@ The Mapbox Geocoding API does forward geocoding (search place names and return c
 **Docs / Website**: https://docs.mapbox.com/api/
 
 ## 🧬 Mapbox Geocoding API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12028)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12028)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12028)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mapbox-geocoding-api/mapbox-geocoding-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mapbox-geocoding-api/mapbox-geocoding-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mapbox-geocoding-api/mapbox-geocoding-api.yaml)
 
 ## 💬 Mapbox Geocoding API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12028)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/mapbox-geocoding-api/mapbox-geocoding-api.yaml)    
 
 
 ## 🗄️ Categories:

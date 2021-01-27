@@ -10,9 +10,9 @@ the Box Developer Console.
 **Docs / Website**: https://developer.box.com/
 
 ## 🧬 Box Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2034)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2034)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2034)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/box/box.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/box/box.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/box/box.yaml)
 
 ## 💬 Box Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

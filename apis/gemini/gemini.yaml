@@ -1,0 +1,11 @@
+name: Gemini
+slug: gemini
+categories:
+    - Blockchain & Cryptocurrencies
+description: 'Public REST APIs provide market data such as: current order book recent trading activity trade history'
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://docs.gemini.com/rest-api/

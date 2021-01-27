@@ -1,0 +1,10 @@
+name: YouTube API
+slug: youtube-api
+categories:
+    - Video & Media
+description: Add YouTube functionality to your sites and apps. . Allows developers to access video statistics and YouTube channels' data via two types of calls, REST and XML-RPC
+is_free: false
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://developers.google.com/youtube/

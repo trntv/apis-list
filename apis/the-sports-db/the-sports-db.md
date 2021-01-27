@@ -6,16 +6,16 @@ With the Sports DB API you can query teams, players in teams, player details, pl
 **Docs / Website**: https://www.thesportsdb.com/api.php
 
 ## 🧬 The Sports Db Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19314)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19314)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19314)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-sports-db/the-sports-db.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-sports-db/the-sports-db.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-sports-db/the-sports-db.yaml)
 
 ## 💬 The Sports Db Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19314)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-sports-db/the-sports-db.yaml)    
 
 
 ## 🗄️ Categories:

@@ -1,0 +1,122 @@
+name: Telegram Bot
+slug: telegram-bot
+categories:
+    - Bots
+    - AI & ML
+    - Chats & Messaging
+description: The Bot API is an HTTP-based interface created for developers keen on building bots for Telegram.
+is_free: false
+type: REST
+is_active: true
+libraries:
+    - name: Telegram Bot PHP SDK by Danilo Spinella
+      homepage_uri: https://github.com/DanySpin97/PhpBotFramework
+      source_code_uri: https://packagist.org/packages/danyspin97/php-bot-framework
+      platform: PHP
+    - name: Telegram Bot .NET SDK by Mohammadreza
+      homepage_uri: https://github.com/mrtaikandi/Telebot
+      source_code_uri: https://www.nuget.org/packages/Telebot/
+      platform: .Net, C#
+    - name: Telegram Bot Go SDK by Oleg Lebedev
+      homepage_uri: https://github.com/olebedev/go-tgbot
+      source_code_uri: ""
+      platform: Go
+    - name: Telegram Bot Ruby SDK by Sergey Potapov
+      homepage_uri: https://github.com/greyblake/telebot
+      source_code_uri: ""
+      platform: Ruby
+    - name: Telegram Bot Nim SDK by Huy Doan
+      homepage_uri: https://github.com/ba0f3/telebot.nim
+      source_code_uri: ""
+      platform: Unspecified
+    - name: Telegram Bot JavaScript SDK by Pavel Tereschenko
+      homepage_uri: https://github.com/bigslycat/tgapi
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Telegram Bot Java SDK by rainu
+      homepage_uri: https://github.com/rainu/telegram-bot-api
+      source_code_uri: ""
+      platform: Java
+    - name: Telegram Bot C++ SDK by slowriot
+      homepage_uri: https://github.com/slowriot/libtelegram
+      source_code_uri: ""
+      platform: C++
+    - name: Telegram Bot Scala SDK by Hüseyin ZENGİN
+      homepage_uri: https://github.com/hzengin/telegrambot
+      source_code_uri: ""
+      platform: Scala
+    - name: Telegram Bot Go SDK by Sungjin Han
+      homepage_uri: https://github.com/meinside/telegram-bot-go
+      source_code_uri: ""
+      platform: Go
+    - name: Telegram Bot .NET SDK by Mehrdad Youssefi
+      homepage_uri: https://github.com/themehrdad/NetTelebot
+      source_code_uri: https://www.nuget.org/packages/nettelebot
+      platform: .Net, C#
+    - name: Telegram Bot Rust SDK by Wesley A. Gahr
+      homepage_uri: https://github.com/voider1/teleborg
+      source_code_uri: ""
+      platform: Unspecified
+    - name: Telegram Bot Yii PHP SDK by Mirocow
+      homepage_uri: https://github.com/Mirocow/yii2-telegram-api
+      source_code_uri: ""
+      platform: PHP
+    - name: Telegram Bot Java SDK by Fouad Almalki
+      homepage_uri: https://github.com/Eng-Fouad/JTelegramBot
+      source_code_uri: ""
+      platform: Java
+    - name: Telegram Bot Yii PHP SDK by SonkoDmitry
+      homepage_uri: https://github.com/SonkoDmitry/yii2-telegram-bot-api
+      source_code_uri: https://packagist.org/packages/sonko-dmitry/yii2-telegram-bot-api
+      platform: PHP
+    - name: Telegram Bot NodeJS SDK by bounty0x
+      homepage_uri: https://github.com/bounty0x/TelegramBots
+      source_code_uri: ""
+      platform: JavaScript, Node.js
+    - name: Telegram Bot NodeJS SDK by Frederik Ring
+      homepage_uri: https://github.com/m90/telegram-bot-client
+      source_code_uri: ""
+      platform: JavaScript, Node.js
+    - name: Telegram Bot Python SDK by banteg
+      homepage_uri: https://github.com/banteg/telegram
+      source_code_uri: ""
+      platform: Python
+    - name: Telegram Bot Go SDK by Rock Neurotiko
+      homepage_uri: https://github.com/rockneurotiko/go-tgbot
+      source_code_uri: ""
+      platform: Go
+    - name: Telegram Bot Python SDK by aiogram projects group
+      homepage_uri: https://github.com/aiogram/aiogram
+      source_code_uri: ""
+      platform: Python
+    - name: Telegram Bot PHP SDK by Saeed Moqadam
+      homepage_uri: https://github.com/smoqadam/php-telegram-bot
+      source_code_uri: ""
+      platform: PHP
+    - name: Telegram Bot Symfony PHP SDK by Borsaco Software Group
+      homepage_uri: https://github.com/borsaco/TelegramBotApiBundle
+      source_code_uri: ""
+      platform: PHP
+    - name: Telegram Bot Go SDK by Paul Larsen
+      homepage_uri: https://github.com/PaulSonOfLars/gotgbot
+      source_code_uri: ""
+      platform: Go
+    - name: Telegram Bot TypeScript SDK by Sergey Sova
+      homepage_uri: https://github.com/sergeysova/telegram-typings/tree/master/javascript
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Telegram Bot Rust SDK by Sergey Sova
+      homepage_uri: https://github.com/sergeysova/telegram-typings/tree/master/rust
+      source_code_uri: https://crates.io/crates/telegram-typings
+      platform: Unspecified
+    - name: Telegram Bot Ruby SDK by SuHun Han
+      homepage_uri: https://github.com/ssut/telegram-rb/blob/master/README.md
+      source_code_uri: https://github.com/ssut/telegram-rb
+      platform: Ruby
+    - name: Telegram Bot Node.js Library by Yago
+      homepage_uri: https://github.com/yagop/node-telegram-bot-api
+      source_code_uri: ""
+      platform: Node.js
+links:
+    - name: Docs / Website
+      url: https://core.telegram.org/bots/api

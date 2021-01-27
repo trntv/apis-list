@@ -6,16 +6,16 @@ Open Patent Services (OPS) is a web service which provides access to the EPO's r
 **Docs / Website**: https://developers.epo.org/
 
 ## 🧬 EPO Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5754)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5754)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5754)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/epo/epo.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/epo/epo.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/epo/epo.yaml)
 
 ## 💬 EPO Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5754)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/epo/epo.yaml)    
 
 
 ## 🗄️ Categories:

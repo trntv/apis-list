@@ -1,0 +1,23 @@
+name: Wikitude
+slug: wikitude
+categories:
+    - Virtual & Augmented Reality
+    - Maps & Geo
+    - AI & ML
+description: Powerful augmented reality apps. Create immersive Augmented Reality experiences that transform the world around you
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wikitude/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: Wikitude iOS SDK
+      homepage_uri: http://www.wikitude.com/products/wikitude-augmented-reality-sdk-mobile/wikitude-sdk-ios/
+      source_code_uri: ""
+      platform: JavaScript, Objective-C
+    - name: Wikitude Android SDK
+      homepage_uri: http://www.wikitude.com/products/wikitude-augmented-reality-sdk-mobile/wikitude-sdk-android/
+      source_code_uri: ""
+      platform: JavaScript
+links:
+    - name: Docs / Website
+      url: https://www.wikitude.com/developer-overview/

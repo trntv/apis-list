@@ -1,0 +1,14 @@
+name: PhantAuth
+slug: phantauth
+categories:
+    - Testing
+    - Authentication & User Management
+description: Random User Generator + OpenID Connect Provider. Like Lorem Ipsum, but for user accounts and authentication
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/phantauth/logo_256x256.png
+type: REST
+contact: support@receptive.io
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://www.phantauth.net/

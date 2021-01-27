@@ -1,0 +1,13 @@
+name: FakeJSON
+slug: fakejson
+categories:
+    - Testing
+    - Development
+description: Easily create custom HTTP resources complete with fake data. fakeJSON's API scales with your development needs, helping you test and develop more efficiently. Mock an entire backend with minimal coding. Mock an entire backend with minimal coding
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/fakejson/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://fakejson.com

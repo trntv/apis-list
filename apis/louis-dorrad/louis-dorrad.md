@@ -8,16 +8,16 @@ Google’s product is quite similar to Amazon’s but it’s actually. Amazon Ma
 **Docs / Website**: http://www.louisdorard.com/blog/machine-learning-apis-comparison
 
 ## 🧬 Louis Dorrad Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11658)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11658)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11658)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/louis-dorrad/louis-dorrad.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/louis-dorrad/louis-dorrad.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/louis-dorrad/louis-dorrad.yaml)
 
 ## 💬 Louis Dorrad Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11658)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/louis-dorrad/louis-dorrad.yaml)    
 
 
 ## 🗄️ Categories:

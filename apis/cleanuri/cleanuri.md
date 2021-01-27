@@ -6,16 +6,16 @@ API Documentation cleanuri. com exposes its data via an Application Programming 
 **Docs / Website**: https://cleanuri.com/docs
 
 ## 🧬 CleanURI Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3327)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3327)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3327)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cleanuri/cleanuri.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cleanuri/cleanuri.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cleanuri/cleanuri.yaml)
 
 ## 💬 CleanURI Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3327)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/cleanuri/cleanuri.yaml)    
 
 
 ## 🗄️ Categories:

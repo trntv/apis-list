@@ -8,16 +8,16 @@ Search our EAN database with over 230 million products by EAN, UPC, ISBN or prod
 **Docs / Website**: https://www.ean-search.org/ean-database-api.html
 
 ## 🧬 EAN-Search Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5718)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5718)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5718)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ean-search/ean-search.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ean-search/ean-search.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ean-search/ean-search.yaml)
 
 ## 💬 EAN-Search Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5718)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/ean-search/ean-search.yaml)    
 
 
 ## 🗄️ Categories:

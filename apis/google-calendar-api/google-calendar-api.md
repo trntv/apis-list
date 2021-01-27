@@ -8,16 +8,16 @@ Create and manage events and calendars for Google Calendar.
 **Docs / Website**: https://developers.google.com/google-apps/calendar/?hl=en
 
 ## 🧬 Google Calendar Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8429)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8429)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8429)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-calendar-api/google-calendar-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-calendar-api/google-calendar-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-calendar-api/google-calendar-api.yaml)
 
 ## 💬 Google Calendar Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8429)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-calendar-api/google-calendar-api.yaml)    
 
 
 ## 🗄️ Categories:

@@ -12,16 +12,16 @@ Stream's API and SDKs enable developers to build messaging solutions very quickl
 **Docs / Website**: https://getstream.io/chat/
 
 ## 🧬 Chat Messaging By Stream Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2777)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2777)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2777)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/chat-messaging-by-stream/chat-messaging-by-stream.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/chat-messaging-by-stream/chat-messaging-by-stream.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/chat-messaging-by-stream/chat-messaging-by-stream.yaml)
 
 ## 💬 Chat Messaging By Stream Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2777)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/chat-messaging-by-stream/chat-messaging-by-stream.yaml)    
 
 
 ## 🗄️ Categories:

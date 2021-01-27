@@ -8,16 +8,16 @@ Allows users to find details about Genius artists and songs. Use our API and hel
 **Docs / Website**: https://docs.genius.com/#/getting-started-h1
 
 ## 🧬 Genius Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7403)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7403)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7403)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/genius/genius.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/genius/genius.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/genius/genius.yaml)
 
 ## 💬 Genius Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7403)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/genius/genius.yaml)    
 
 
 ## 🗄️ Categories:

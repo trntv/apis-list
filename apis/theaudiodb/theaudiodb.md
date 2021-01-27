@@ -6,9 +6,9 @@ TheAudioDB is a community database of Music Artwork, Metadata and Charts with a 
 **Docs / Website**: http://www.theaudiodb.com
 
 ## 🧬 The Audio DB Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19163)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19163)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19163)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/theaudiodb/theaudiodb.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/theaudiodb/theaudiodb.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/theaudiodb/theaudiodb.yaml)
 
 ## 💬 The Audio DB Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

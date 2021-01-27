@@ -1,0 +1,10 @@
+name: Ufc Data
+slug: ufc-data
+categories:
+    - Sport & Fitness
+description: Ultimate Fighting Championship information for events and fighters
+is_free: false
+is_active: true
+links:
+    - name: Docs / Website
+      url: http://ufc-data-api.ufc.com/

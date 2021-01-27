@@ -8,16 +8,16 @@ Android vendors, don't kill my app! dontkillmyapp.com official API
 **Docs / Website**: https://github.com/urbandroid-team/dont-kill-my-app
 
 ## 🧬 Don't Kill My App Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5459)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5459)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5459)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dont-kill-my-app/dont-kill-my-app.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dont-kill-my-app/dont-kill-my-app.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dont-kill-my-app/dont-kill-my-app.yaml)
 
 ## 💬 Don't Kill My App Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5459)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/dont-kill-my-app/dont-kill-my-app.yaml)    
 
 
 ## 🗄️ Categories:

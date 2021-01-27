@@ -1,0 +1,11 @@
+name: Formstack
+slug: formstack
+categories:
+    - Forms & Surveys
+    - Business
+description: The Formstack API allows users and 3rd-party applications to access Formstack resources programmatically. This API conforms to REST principles. Webhooks allow you. Form creator for online forms. Welcome to Formstack Developer Central. Here you'll find all the resources you need to create services that rely on the Formstack platform
+is_free: false
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://developers.formstack.com/docs

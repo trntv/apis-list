@@ -6,16 +6,16 @@ Gives you access to 1000s of Trivia questions. Your browser will redirect to you
 **Docs / Website**: https://www.newseum.org/newsmania/
 
 ## 🧬 Newseum NewsMania Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13322)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13322)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13322)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/newseum-newsmania/newseum-newsmania.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/newseum-newsmania/newseum-newsmania.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/newseum-newsmania/newseum-newsmania.yaml)
 
 ## 💬 Newseum NewsMania Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13322)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/newseum-newsmania/newseum-newsmania.yaml)    
 
 
 ## 🗄️ Categories:

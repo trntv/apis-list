@@ -1,0 +1,15 @@
+name: ClickMeter
+slug: clickmeter
+categories:
+    - Analytics
+    - Marketing & SEO
+    - URLs
+    - Email & SMS
+description: ClickMeter API RESTful services. ClickMeter API RESTful services. Interact programmatically with our infrastructure. Integrate your application(s) with a powerful.
+is_free: false
+type: REST
+contact: api@clickmeter.com
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://support.clickmeter.com/hc/en-us/categories/201474986

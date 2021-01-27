@@ -8,9 +8,9 @@ Weather API Documentation. Use our Weather API to access weather forecasts, and 
 **Docs / Website**: https://www.weatherbit.io/api
 
 ## 🧬 Weatherbit Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21631)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21631)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21631)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/weatherbit/weatherbit.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/weatherbit/weatherbit.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/weatherbit/weatherbit.yaml)
 
 ## 💬 Weatherbit Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

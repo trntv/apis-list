@@ -8,9 +8,9 @@ to your dashboards, websites and management systems.
 **Docs / Website**: https://developers.upwork.com/
 
 ## 🧬 Upwork Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21199)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21199)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21199)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/upwork/upwork.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/upwork/upwork.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/upwork/upwork.yaml)
 
 ## 💬 Upwork Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

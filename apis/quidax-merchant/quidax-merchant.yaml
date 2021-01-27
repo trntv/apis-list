@@ -1,0 +1,10 @@
+name: Quidax Merchant
+slug: quidax-merchant
+categories:
+    - Blockchain & Cryptocurrencies
+description: Buy, sell and store Bitcoin, Ethereum, Ripple (XRP), Litecoin & other cryptocurrencies with Naira. Quidax is simple, secure and safe. . Our API makes it easy to integrate fiat currencies and cryptocurrencies such as; Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), XRP and several others into new and existing applications
+is_free: false
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://www.quidax.com/developers/api_v2

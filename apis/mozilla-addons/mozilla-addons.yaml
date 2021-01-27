@@ -1,0 +1,11 @@
+name: Mozilla Addons
+slug: mozilla-addons
+categories:
+    - Development
+description: Firefox Addons API
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://addons-server.readthedocs.io/en/latest/topics/api/index.html

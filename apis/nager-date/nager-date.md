@@ -6,16 +6,16 @@ Worldwide public holidays API
 **Docs / Website**: https://date.nager.at
 
 ## 🧬 Nager.Date Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13061)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13061)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13061)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nager-date/nager-date.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nager-date/nager-date.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nager-date/nager-date.yaml)
 
 ## 💬 Nager.Date Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13061)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/nager-date/nager-date.yaml)    
 
 
 ## 🗄️ Categories:

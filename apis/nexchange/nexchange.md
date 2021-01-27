@@ -6,9 +6,9 @@ API for crypto currency exchange.
 **Docs / Website**: https://nexchange2.docs.apiary.io/
 
 ## 🧬 Nexchange Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13343)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13343)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13343)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nexchange/nexchange.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nexchange/nexchange.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nexchange/nexchange.yaml)
 
 ## 💬 Nexchange Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

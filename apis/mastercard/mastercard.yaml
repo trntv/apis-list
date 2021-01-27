@@ -1,0 +1,11 @@
+name: Mastercard
+slug: mastercard
+categories:
+    - Payments
+description: Mastercard official API
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/mastercard/logo_256x256.png
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://developer.mastercard.com/apis

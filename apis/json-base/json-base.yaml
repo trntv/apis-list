@@ -1,0 +1,10 @@
+name: Json Base
+slug: json-base
+categories:
+    - Databases
+description: API Based JSON Storage. The free plan allows you to store 100,000 write ops per month and 1 million read operations per month.
+is_free: false
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://jsonbase.com/#docs

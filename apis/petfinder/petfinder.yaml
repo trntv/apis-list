@@ -1,0 +1,73 @@
+name: Petfinder
+slug: petfinder
+categories:
+    - Search
+    - Animals
+description: The Petfinder API (Application Programming Interface) allows you to access the Petfinder database of hundreds of thousands of pets ready for adoption and over ten thousand animal welfare organizations. You can use the API to build your own dynamic websites or applications backed by the same data used on Petfinder.com.
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/petfinder/logo_256x256.png
+is_active: true
+libraries:
+    - name: Petfinder Go SDK
+      homepage_uri: https://github.com/petfinder-com/petfinder-go-sdk
+      source_code_uri: ""
+      platform: Go
+    - name: Petfinder PHP SDK
+      homepage_uri: https://github.com/petfinder-com/petfinder-php-sdk
+      source_code_uri: ""
+      platform: PHP
+    - name: Petfinder JavaScript SDK
+      homepage_uri: https://github.com/petfinder-com/petfinder-js-sdk
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Petfinder Python SDK by Aaron Schlegel
+      homepage_uri: https://github.com/aschleg/petpy
+      source_code_uri: ""
+      platform: Python
+    - name: Petfinder PHP SDK by Luke Bainbridge
+      homepage_uri: https://github.com/midnightLuke/petfinder-api-php
+      source_code_uri: ""
+      platform: PHP
+    - name: Petfinder .NET SDK by John Price
+      homepage_uri: https://github.com/pricejc/petfinder-dotnet
+      source_code_uri: ""
+      platform: .Net
+    - name: Petfinder Node.js SDK by Angel S. Moreno
+      homepage_uri: https://github.com/angelxmoreno/petfinder-promise
+      source_code_uri: ""
+      platform: Node.js
+    - name: Petfinder Ruby SDK by Pedro De Ona
+      homepage_uri: https://github.com/pdeona/petfinder_wrap
+      source_code_uri: ""
+      platform: Ruby
+    - name: Petfinder R SDK by Aaron Schlegel
+      homepage_uri: https://github.com/aschleg/PetfindeR
+      source_code_uri: ""
+      platform: R
+    - name: Petfinder PHP SDK by Salerno Labs
+      homepage_uri: https://github.com/salernolabs/petfinder
+      source_code_uri: ""
+      platform: PHP
+    - name: Petfinder AngularJS SDK by Luke Schlangen
+      homepage_uri: https://github.com/LukeSchlangen/angular-petfinder-api
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Petfinder JavaScript SDK by Chris Ferdinandi
+      homepage_uri: https://github.com/cferdinandi/petfinderAPI4everybody
+      source_code_uri: ""
+      platform: JavaScript, Node.js
+    - name: Petfinder PHP SDK by Brian Haveri
+      homepage_uri: https://github.com/brianhaveri/Petfinder
+      source_code_uri: ""
+      platform: PHP
+    - name: Petfinder Python SDK by Greg Taylor
+      homepage_uri: https://github.com/gtaylor/petfinder-api
+      source_code_uri: ""
+      platform: Python
+    - name: Petfinder Ruby SDK by Eric Hutzelman
+      homepage_uri: https://github.com/ehutzelman/petfinder
+      source_code_uri: ""
+      platform: Ruby
+links:
+    - name: Docs / Website
+      url: https://www.petfinder.com/developers/v2/docs/

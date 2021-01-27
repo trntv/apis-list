@@ -8,16 +8,16 @@ Worldwide geocoding, geoparsing and autocomplete for addresses. Geocodify is a f
 **Docs / Website**: https://geocodify.com
 
 ## 🧬 Geocodify Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7636)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7636)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7636)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/geocodify/geocodify.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/geocodify/geocodify.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/geocodify/geocodify.yaml)
 
 ## 💬 Geocodify Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7636)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/geocodify/geocodify.yaml)    
 
 
 ## 🗄️ Categories:

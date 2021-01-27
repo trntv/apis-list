@@ -6,16 +6,16 @@ Video Game database on demand! Images, info video and other data you can retriev
 **Docs / Website**: https://api.igdb.com/
 
 ## 🧬 IGDB.com Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9834)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9834)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9834)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/igdb-com/igdb-com.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/igdb-com/igdb-com.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/igdb-com/igdb-com.yaml)
 
 ## 💬 IGDB.com Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9834)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/igdb-com/igdb-com.yaml)    
 
 
 ## 🗄️ Categories:

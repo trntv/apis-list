@@ -1,0 +1,12 @@
+name: Exchange Rates API
+slug: exchange-rates-api
+categories:
+    - Blockchain & Cryptocurrencies
+description: The most popular place to securely buy, store, and trade Bitcoin, Ethereum, and other top cryptocurrencies. Market Prices and exchanges rates api.
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/exchange-rates-api/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://blockchain.info/api/exchange_rates_api

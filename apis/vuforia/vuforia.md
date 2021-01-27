@@ -6,16 +6,16 @@ Developers can easily add advanced computer vision functionality to Android, iOS
 **Docs / Website**: https://library.vuforia.com/
 
 ## 🧬 Vuforia Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21538)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21538)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21538)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/vuforia/vuforia.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/vuforia/vuforia.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/vuforia/vuforia.yaml)
 
 ## 💬 Vuforia Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21538)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/vuforia/vuforia.yaml)    
 
 
 ## 🗄️ Categories:

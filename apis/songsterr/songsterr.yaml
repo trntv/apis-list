@@ -1,0 +1,12 @@
+name: Songsterr
+slug: songsterr
+categories:
+    - Music & Audio
+description: One accurate tab per song. Huge selection of 500,000 tabs. Guitar, bass and drum tabs & chords with free online tab player.
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/songsterr/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://www.songsterr.com/a/wa/api/

@@ -1,0 +1,11 @@
+name: LCBO
+slug: lcbo
+categories:
+    - Food & Drinks
+description: 'LCBO API is open source now, find it on GitHub: heycarsten/lcbo-api'
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://lcboapi.com/

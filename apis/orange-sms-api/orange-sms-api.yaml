@@ -1,0 +1,11 @@
+name: Orange SMS API
+slug: orange-sms-api
+categories:
+    - Chats & Messaging
+description: The SMS Service,allows you to send and receive text messages, of up to 160 characters, to and from a mobile phone
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/orange-sms-api/logo_256x256.png
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://developer.orange.com/apis/sms-ml

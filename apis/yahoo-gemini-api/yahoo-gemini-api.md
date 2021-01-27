@@ -8,16 +8,16 @@ Developer tools and the support you need to leverage Verizon Media's powerful da
 **Docs / Website**: https://developer.yahoo.com/gemini/
 
 ## 🧬 Yahoo Gemini API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22417)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22417)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22417)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yahoo-gemini-api/yahoo-gemini-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yahoo-gemini-api/yahoo-gemini-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yahoo-gemini-api/yahoo-gemini-api.yaml)
 
 ## 💬 Yahoo Gemini API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22417)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/yahoo-gemini-api/yahoo-gemini-api.yaml)    
 
 
 ## 🗄️ Categories:

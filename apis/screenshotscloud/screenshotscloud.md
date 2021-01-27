@@ -8,9 +8,9 @@ With this screenshot API you can automate high quality real browser screenshots 
 **Docs / Website**: https://screenshots.cloud/
 
 ## 🧬 Screenshotscloud Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17159)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17159)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17159)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/screenshotscloud/screenshotscloud.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/screenshotscloud/screenshotscloud.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/screenshotscloud/screenshotscloud.yaml)
 
 ## 💬 Screenshotscloud Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

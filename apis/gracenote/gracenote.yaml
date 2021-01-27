@@ -1,0 +1,51 @@
+name: Gracenote
+slug: gracenote
+categories:
+    - Images & Photography
+    - Music & Audio
+    - Video & Media
+description: Largest source of music and video metadata on the planet. Gracenote is the leader in entertainment metadata, helping people connect to the music, TV shows, movies and sports they love across the world’s most popular entertainment platforms and devices, from Apple to Amazon to Comcast and Ford
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/gracenote/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: MusicApiCollection C# SDK by BigGranu
+      homepage_uri: https://github.com/BigGranu/MusicApiCollection
+      source_code_uri: ""
+      platform: C#
+    - name: Gracenote Android Mobile Client SDK by Gracenote
+      homepage_uri: https://developer.gracenote.com/mobile-client
+      source_code_uri: https://developer.gracenote.com/mobile-client-barebones-android-intro
+      platform: Java
+    - name: Gracenote Python SDK by Leaf Music
+      homepage_uri: https://developer.gracenote.com/web-api#wrappers
+      source_code_uri: https://github.com/leaffm/pygn-appengine
+      platform: Python
+    - name: Gracenote PHP SDK by Rich Adams
+      homepage_uri: https://github.com/richadams/php-gracenote
+      source_code_uri: ""
+      platform: PHP
+    - name: Gracenote Java SDK by Rich Adams
+      homepage_uri: https://github.com/richadams/java-gracenote
+      source_code_uri: ""
+      platform: Java
+    - name: Gracenote Ruby SDK by Vignesh
+      homepage_uri: https://github.com/nobelium/gracenote
+      source_code_uri: ""
+      platform: Ruby
+    - name: Gracenote ColdFusion SDK by Matthew Abbott
+      homepage_uri: https://github.com/abbottmw/GracenoteAPI
+      source_code_uri: ""
+      platform: ColdFusion
+    - name: ' Gracenote Node.js SDK by Dominik Danninger'
+      homepage_uri: https://github.com/ddanninger/node-gracenote
+      source_code_uri: ""
+      platform: Node.js
+    - name: ' Gracenote C# SDK by Jon Veesam'
+      homepage_uri: https://www.nuget.org/packages/ParkSquare.Gracenote/
+      source_code_uri: ""
+      platform: C#
+links:
+    - name: Docs / Website
+      url: https://developer.gracenote.com/

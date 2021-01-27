@@ -1,0 +1,10 @@
+name: Gender API
+slug: gender-api
+categories:
+    - Forms & Surveys
+description: Keep your registration forms simple. Optimize your conversions and let us determine the gender of your customers.
+is_free: false
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://gender-api.com/en/api-docs

@@ -8,9 +8,9 @@ LETTRIA is a natural language processing tool (NLP) dedicated to understanding F
 **Docs / Website**: https://lettria.com
 
 ## 🧬 Lettria Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11188)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11188)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11188)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lettria/lettria.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lettria/lettria.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lettria/lettria.yaml)
 
 ## 💬 Lettria Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

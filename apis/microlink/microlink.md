@@ -8,16 +8,16 @@ Generate PDF from any website. Automate web performance. Turns any link into inf
 **Docs / Website**: https://microlink.io
 
 ## 🧬 Microlink Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12426)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12426)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12426)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/microlink/microlink.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/microlink/microlink.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/microlink/microlink.yaml)
 
 ## 💬 Microlink Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12426)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/microlink/microlink.yaml)    
 
 
 ## 🗄️ Categories:

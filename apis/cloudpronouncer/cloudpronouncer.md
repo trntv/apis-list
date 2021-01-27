@@ -6,16 +6,16 @@ Text To Speech API. CloudPronouncer (tts online or tts reader) is a cross browse
 **Docs / Website**: https://www.de-vis-software.ro/text-to-speech-api.aspx
 
 ## 🧬 Cloudpronouncer Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3571)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3571)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3571)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cloudpronouncer/cloudpronouncer.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cloudpronouncer/cloudpronouncer.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cloudpronouncer/cloudpronouncer.yaml)
 
 ## 💬 Cloudpronouncer Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3571)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/cloudpronouncer/cloudpronouncer.yaml)    
 
 
 ## 🗄️ Categories:

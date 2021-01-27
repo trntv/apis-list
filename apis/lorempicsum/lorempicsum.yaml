@@ -1,0 +1,10 @@
+name: Lorempicsum
+slug: lorempicsum
+categories:
+    - Testing
+description: Generate placeholder pictures. The web host lorempicsum. com does not exist
+is_free: false
+is_active: true
+links:
+    - name: Docs / Website
+      url: http://lorempicsum.com

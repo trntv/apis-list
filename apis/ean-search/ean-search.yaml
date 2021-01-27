@@ -1,0 +1,14 @@
+name: EAN-Search
+slug: ean-search
+categories:
+    - Statistics & Data
+    - Bar & QR Codes
+    - Commerce
+description: Search our EAN database with over 230 million products by EAN, UPC, ISBN or product name. The EAN-Search API allows you to lookup products by EAN, UPC or GTIN barcode
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ean-search/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://www.ean-search.org/ean-database-api.html

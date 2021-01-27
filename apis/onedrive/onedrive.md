@@ -6,9 +6,9 @@ File storage & sharing
 **Docs / Website**: https://dev.onedrive.com/
 
 ## 🧬 OneDrive Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13804)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13804)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13804)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/onedrive/onedrive.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/onedrive/onedrive.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/onedrive/onedrive.yaml)
 
 ## 💬 OneDrive Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

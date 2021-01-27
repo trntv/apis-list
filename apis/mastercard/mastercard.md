@@ -8,16 +8,16 @@ Mastercard official API
 **Docs / Website**: https://developer.mastercard.com/apis
 
 ## 🧬 Mastercard Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12123)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12123)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12123)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mastercard/mastercard.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mastercard/mastercard.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mastercard/mastercard.yaml)
 
 ## 💬 Mastercard Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12123)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/mastercard/mastercard.yaml)    
 
 
 ## 🗄️ Categories:

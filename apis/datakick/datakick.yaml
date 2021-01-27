@@ -1,0 +1,32 @@
+name: Datakick
+slug: datakick
+categories:
+    - Statistics & Data
+    - Bar & QR Codes
+description: The open product database.
+is_free: false
+is_active: false
+libraries:
+    - name: Datakick Ruby SDK
+      homepage_uri: https://github.com/ankane/datakick-rb
+      source_code_uri: ""
+      platform: Ruby
+    - name: Datakick Python SDK
+      homepage_uri: https://github.com/carlos-a-rodriguez/datakick
+      source_code_uri: ""
+      platform: Python
+    - name: Datakick Node.js SDK
+      homepage_uri: https://github.com/ENT8R/datakick
+      source_code_uri: ""
+      platform: Node.js
+    - name: Datakick Objective-C SDK
+      homepage_uri: https://github.com/imryan/datakick-ios
+      source_code_uri: ""
+      platform: Objective-C
+    - name: Datakick Android SDK
+      homepage_uri: https://github.com/kyleconroy/datakick-android
+      source_code_uri: ""
+      platform: Java
+links:
+    - name: Docs / Website
+      url: https://www.datakick.org/api

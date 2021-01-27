@@ -8,16 +8,16 @@ Automatic background removal real-time service powered by AI. Automatic backgrou
 **Docs / Website**: https://objectcut.com
 
 ## 🧬 ObjectCut Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13746)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13746)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13746)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/objectcut/objectcut.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/objectcut/objectcut.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/objectcut/objectcut.yaml)
 
 ## 💬 ObjectCut Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13746)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/objectcut/objectcut.yaml)    
 
 
 ## 🗄️ Categories:

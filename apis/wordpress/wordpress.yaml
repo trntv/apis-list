@@ -1,0 +1,12 @@
+name: Wordpress
+slug: wordpress
+categories:
+    - Social
+    - Development
+description: WordPress is open source software you can use to create a beautiful website, blog, or app.
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://codex.wordpress.org/WordPress_APIs

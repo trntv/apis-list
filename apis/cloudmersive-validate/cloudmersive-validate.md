@@ -6,16 +6,16 @@ Data Validation APIs. Validate key business data thoroughly - Email Address Vali
 **Docs / Website**: https://cloudmersive.com/validate-api
 
 ## 🧬 Cloudmersive Validate Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3559)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3559)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3559)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cloudmersive-validate/cloudmersive-validate.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cloudmersive-validate/cloudmersive-validate.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cloudmersive-validate/cloudmersive-validate.yaml)
 
 ## 💬 Cloudmersive Validate Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3559)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/cloudmersive-validate/cloudmersive-validate.yaml)    
 
 
 ## 🗄️ Categories:

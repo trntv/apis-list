@@ -1,0 +1,67 @@
+name: US Street Address
+slug: us-street-address
+categories:
+    - Validation & Verification
+    - Maps & Geo
+    - Post & Logistics
+description: Verify one or more addresses using the SmartyStreets US Street Address API
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/us-street-address/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: SmartyStreets-Validator-Geocoder JavaScript SDK by Josh Pierro
+      homepage_uri: https://github.com/jlberglund/pco-postal
+      source_code_uri: ""
+      platform: JavaScript
+    - name: SmartyStreets US Street Address Go SDK by Eric Whitebloom
+      homepage_uri: https://github.com/ewhitebloom/CMS-Importer
+      source_code_uri: ""
+      platform: Go
+    - name: SmartyStreets US Street Address JavaScript SDK by Nir Alfasi
+      homepage_uri: https://github.com/alfasin/smarty-streets-as-promised
+      source_code_uri: ""
+      platform: JavaScript
+    - name: SmartyStreets US Street Address Python SDK by Don Morehouse
+      homepage_uri: https://github.com/dm-wyncode/smartystreets-client
+      source_code_uri: ""
+      platform: Python
+    - name: SmartyStreets Drupal PHP SDK by Liam Schneider
+      homepage_uri: https://github.com/labwebdev/SmartyStreetsAPI
+      source_code_uri: ""
+      platform: PHP
+    - name: SmartyStreets US Street Address ColdFusion SDK by Construction Monitor
+      homepage_uri: https://github.com/Construction-Monitor/coldfusion-smartystreets
+      source_code_uri: ""
+      platform: ColdFusion
+    - name: SmartyStreets PHP SDK by Austin Burns
+      homepage_uri: https://github.com/AustinBurns/Smarty-Streets-API-Request
+      source_code_uri: ""
+      platform: PHP
+    - name: SmartyStreets Clojure SDK by Democracy Works
+      homepage_uri: https://github.com/democracyworks/clj-smartystreets
+      source_code_uri: ""
+      platform: Clojure
+    - name: SmartyStreets iOS SDK
+      homepage_uri: https://smartystreets.com/docs/sdk/ios
+      source_code_uri: https://github.com/smartystreets/smartystreets-ios-sdk
+      platform: Objective-C, Swift
+    - name: SmartyStreets Ruby SDK by Florian Lorrain
+      homepage_uri: https://github.com/florrain/smartystreets_api
+      source_code_uri: ""
+      platform: Ruby
+    - name: SmartyStreets Java SDK by Peter Edge
+      homepage_uri: https://github.com/peter-edge/smartystreets-java
+      source_code_uri: ""
+      platform: Java
+    - name: SmartyStreets Ruby SDK
+      homepage_uri: https://smartystreets.com/docs/sdk/ruby
+      source_code_uri: https://github.com/smartystreets/smartystreets-ruby-sdk
+      platform: Ruby
+    - name: SmartyStreets Ruby SDK by Peter Edge
+      homepage_uri: https://github.com/peter-edge/smartystreets_ruby
+      source_code_uri: ""
+      platform: Ruby
+links:
+    - name: Docs / Website
+      url: https://smartystreets.com/docs/cloud/us-street-api

@@ -6,9 +6,9 @@ Social media like and share data for any URL.
 **Docs / Website**: http://docs.sharedcount.com/
 
 ## 🧬 Sharedcount Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17335)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17335)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17335)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/sharedcount/sharedcount.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/sharedcount/sharedcount.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/sharedcount/sharedcount.yaml)
 
 ## 💬 Sharedcount Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

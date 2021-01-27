@@ -1,0 +1,16 @@
+name: AI Mastering
+slug: ai-mastering
+categories:
+    - Music & Audio
+description: AI Mastering API provides automated audio mastering service. You can upload your audio, master it, and download the mastered audio.
+is_free: false
+type: REST
+is_active: true
+libraries:
+    - name: AI Mastering Javascript SDK
+      homepage_uri: https://aimastering.com/api_docs/
+      source_code_uri: https://github.com/ai-mastering/aimastering-js
+      platform: JavaScript
+links:
+    - name: Docs / Website
+      url: https://aimastering.com/api_docs/

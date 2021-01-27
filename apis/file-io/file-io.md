@@ -6,16 +6,16 @@ Ephemeral file sharing. Convenient, anonymous and secure.
 **Docs / Website**: https://www.file.io
 
 ## 🧬 File.io Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6399)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6399)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6399)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/file-io/file-io.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/file-io/file-io.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/file-io/file-io.yaml)
 
 ## 💬 File.io Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6399)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/file-io/file-io.yaml)    
 
 
 ## 🗄️ Categories:

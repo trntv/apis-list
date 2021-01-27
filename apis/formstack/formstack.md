@@ -6,16 +6,16 @@ The Formstack API allows users and 3rd-party applications to access Formstack re
 **Docs / Website**: https://developers.formstack.com/docs
 
 ## 🧬 Formstack Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7087)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7087)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7087)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/formstack/formstack.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/formstack/formstack.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/formstack/formstack.yaml)
 
 ## 💬 Formstack Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7087)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/formstack/formstack.yaml)    
 
 
 ## 🗄️ Categories:

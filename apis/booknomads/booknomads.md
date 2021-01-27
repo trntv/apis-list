@@ -8,16 +8,16 @@
 **Docs / Website**: https://www.booknomads.com
 
 ## 🧬 Booknomads Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2012)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2012)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2012)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/booknomads/booknomads.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/booknomads/booknomads.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/booknomads/booknomads.yaml)
 
 ## 💬 Booknomads Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2012)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/booknomads/booknomads.yaml)    
 
 
 ## 🗄️ Categories:

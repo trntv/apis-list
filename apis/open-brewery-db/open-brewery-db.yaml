@@ -1,0 +1,13 @@
+name: Open Brewery DB
+slug: open-brewery-db
+categories:
+    - Point of Interest
+    - Food & Drinks
+description: The goal of Open Brewery DB is to maintain an open-source, community-driven database on breweries, cideries, brewpubs, and bottleshops
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/open-brewery-db/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://www.openbrewerydb.org

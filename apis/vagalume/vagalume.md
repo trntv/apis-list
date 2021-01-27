@@ -6,16 +6,16 @@ Vagalume » API » Documentação Documentação Conteúdo disponível na API do
 **Docs / Website**: https://api.vagalume.com.br/docs/
 
 ## 🧬 Vagalume Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21304)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21304)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21304)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/vagalume/vagalume.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/vagalume/vagalume.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/vagalume/vagalume.yaml)
 
 ## 💬 Vagalume Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21304)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/vagalume/vagalume.yaml)    
 
 
 ## 🗄️ Categories:

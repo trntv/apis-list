@@ -1,0 +1,12 @@
+name: SuredBits
+slug: suredbits
+categories:
+    - Sport & Fitness
+    - Blockchain & Cryptocurrencies
+description: This API allows you to query our NFL, NBA and Crypto Exchange data. NFL and NBA APIs offer multiple channels including teams, players, games, scores, and statistics. Crypto Exchange API allows you to stream data on Trades, Tickers and Order Books.
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://suredbits.com/api/

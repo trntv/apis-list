@@ -6,16 +6,16 @@ Software Licenses in Plain English. Lookup popular software licenses summarized 
 **Docs / Website**: https://tldrlegal.com/api/license
 
 ## 🧬 TLDRLegal Licenses API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18618)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18618)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18618)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/tldrlegal-licenses-api/tldrlegal-licenses-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/tldrlegal-licenses-api/tldrlegal-licenses-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/tldrlegal-licenses-api/tldrlegal-licenses-api.yaml)
 
 ## 💬 TLDRLegal Licenses API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18618)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/tldrlegal-licenses-api/tldrlegal-licenses-api.yaml)    
 
 
 ## 🗄️ Categories:

@@ -1,0 +1,11 @@
+name: Amazon Product Advertising API
+slug: amazon-product-advertising-api
+categories:
+    - Commerce
+description: 'The web address you entered is not a functioning page on our site. Try one of the following links to find the information you''re looking for: Amazon Web Services. Get access to the data used by Amazon including items for sale, customer reviews, seller reviews, item search, product promotions, and more. Looking for Something? We''re sorry'
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://webservices.amazon.com/paapi5/documentation/

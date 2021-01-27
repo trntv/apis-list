@@ -6,16 +6,16 @@ National Bank of Ukraine
 **Docs / Website**: https://bank.gov.ua/control/en/publish/article?art_id=25365630
 
 ## 🧬 National Bank of Ukraine Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13093)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13093)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13093)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/national-bank-of-ukraine/national-bank-of-ukraine.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/national-bank-of-ukraine/national-bank-of-ukraine.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/national-bank-of-ukraine/national-bank-of-ukraine.yaml)
 
 ## 💬 National Bank of Ukraine Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13093)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/national-bank-of-ukraine/national-bank-of-ukraine.yaml)    
 
 
 ## 🗄️ Categories:

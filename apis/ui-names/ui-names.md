@@ -8,16 +8,16 @@ A simple tool to generate names for use in designs and mockups
 **Docs / Website**: https://github.com/thm/uinames
 
 ## 🧬 UI Names Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20547)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20547)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20547)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ui-names/ui-names.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ui-names/ui-names.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ui-names/ui-names.yaml)
 
 ## 💬 UI Names Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20547)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/ui-names/ui-names.yaml)    
 
 
 ## 🗄️ Categories:

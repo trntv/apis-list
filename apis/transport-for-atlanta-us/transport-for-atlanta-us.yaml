@@ -1,0 +1,11 @@
+name: Transportation in Atlanta, USA
+slug: transport-for-atlanta-us
+categories:
+    - Transportation
+description: MARTA. Atlanta transporation services
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: http://www.itsmarta.com/app-developer-resources.aspx

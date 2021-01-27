@@ -1,0 +1,69 @@
+name: Guild Wars 2
+slug: guild-wars-2
+categories:
+    - Games
+    - Entertainment
+description: The current version of the API. The Guild Wars 2 API (application programming interface) is an interface that enables third-party applications to access data directly from the Guild Wars 2 servers
+is_free: false
+type: REST
+is_active: true
+libraries:
+    - name: Guild Wars 2 .Net
+      homepage_uri: https://gw2dotnet.codeplex.com/
+      source_code_uri: ""
+      platform: .Net
+    - name: Guild Wars 2 PHP SDK
+      homepage_uri: https://forum-en.guildwars2.com/forum/community/api/PHP-SDK
+      source_code_uri: https://github.com/defunctl/Gw2-SDK
+      platform: PHP
+    - name: gw2 Ruby Gem
+      homepage_uri: https://rubygems.org/gems/gw2
+      source_code_uri: https://github.com/parix/gw2
+      platform: Ruby
+    - name: rgw2 Ruby Guild Wars 2
+      homepage_uri: https://github.com/koshrf/rgw2
+      source_code_uri: ""
+      platform: Ruby
+    - name: GuildWars2API Python
+      homepage_uri: https://github.com/ngenator/guildwars2api/
+      source_code_uri: ""
+      platform: Python
+    - name: python-guildwars2
+      homepage_uri: https://github.com/jstraw/python-guildwars2
+      source_code_uri: ""
+      platform: Python
+    - name: GW2api Python
+      homepage_uri: https://github.com/mocnik/gw2api/tree/v0.1
+      source_code_uri: ""
+      platform: Python
+    - name: Php-Gw2-Api
+      homepage_uri: https://github.com/jamesmcfadden/Php-Gw2-Api
+      source_code_uri: ""
+      platform: PHP
+    - name: jQuery GuildWars2 tooltip
+      homepage_uri: https://github.com/Aziz-JH/jquery-GuildWars2-tooltip
+      source_code_uri: ""
+      platform: JavaScript
+    - name: gw2-js-api-wrapper
+      homepage_uri: https://github.com/JasonKaz/gw2-js-api-wrapper
+      source_code_uri: ""
+      platform: JavaScript
+    - name: GW2NodeLib
+      homepage_uri: https://github.com/TimeBomb/GW2NodeLib
+      source_code_uri: ""
+      platform: JavaScript
+    - name: gw2api
+      homepage_uri: https://code.google.com/p/gw2api/
+      source_code_uri: ""
+      platform: Java
+    - name: GwSharp
+      homepage_uri: https://github.com/Rohansi/GwSharp
+      source_code_uri: ""
+      platform: C#
+    - name: Guild Wars 2 API C/C++ Library Project
+      homepage_uri: https://gw2apicpp.codeplex.com/
+      source_code_uri: ""
+      platform: C, C++
+links:
+    - name: Docs / Website
+      url: https://wiki.guildwars2.com/wiki/API:Main

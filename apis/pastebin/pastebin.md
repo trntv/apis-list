@@ -6,16 +6,16 @@ Pastebin is a website where you can store text online for a set period of time. 
 **Docs / Website**: https://pastebin.com/doc_scraping_api
 
 ## 🧬 Pastebin Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14590)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14590)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14590)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pastebin/pastebin.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pastebin/pastebin.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pastebin/pastebin.yaml)
 
 ## 💬 Pastebin Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14590)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/pastebin/pastebin.yaml)    
 
 
 ## 🗄️ Categories:

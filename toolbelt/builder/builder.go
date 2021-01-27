@@ -3,6 +3,7 @@ package builder
 import (
 	"fmt"
 	"github.com/apis-list/apis-list/toolbelt/list"
+	"gopkg.in/yaml.v3"
 	"os"
 	"path"
 	"regexp"
@@ -63,7 +64,8 @@ func Render(l list.APIs, dir string) error {
 		return err
 	}
 
-	for _, a := range l {
+	var links = make([]string, len(l))
+	for k, a := range l {
 		trgt := path.Join(dir, "apis", a.Slug, fmt.Sprintf("%s.md", a.Slug))
 		err := os.MkdirAll(path.Dir(trgt), os.ModePerm)
 		if err != nil {
@@ -74,17 +76,35 @@ func Render(l list.APIs, dir string) error {
 		if err != nil {
 			return err
 		}
-		defer apiFile.Close()
-
 		err = templates.Lookup(apiTmplName).ExecuteTemplate(apiFile, apiTmplName, map[string]interface{}{
 			"API":        a,
 			"Libraries":  a.Libraries.ByPlatform(),
-			"EditorLink": fmt.Sprintf("https://github.com/apis-list/apis-list/edit/main/apis.yaml#L%d", a.Line),
+			"EditorLink": fmt.Sprintf("https://github.com/apis-list/apis-list/edit/main/apis/%s/%s.yaml", a.Slug, a.Slug),
 		})
+
+		apiFile.Close()
+
 		if err != nil {
 			return err
 		}
 
+		links[k] = fmt.Sprintf("https://raw.githubusercontent.com/apis-list/apis-list/main/apis/%s/%s.yaml", a.Slug, a.Slug)
+	}
+
+	index, err := yaml.Marshal(links)
+	if err != nil {
+		return err
+	}
+
+	f, err := os.OpenFile(path.Join(dir, "index.yaml"), os.O_CREATE|os.O_RDWR|os.O_TRUNC, os.ModePerm)
+	if err != nil {
+		return err
+	}
+	defer f.Close()
+
+	_, err = f.Write(index)
+	if err != nil {
+		return err
 	}
 
 	return nil

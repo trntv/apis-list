@@ -1,0 +1,11 @@
+name: Car Registration Api
+slug: car-registration-api
+categories:
+    - Vehicles
+description: Get the Make, Model, Insurer, VIN and 50 other data fields from an Australian number plate (rego)
+is_free: false
+contact: info@infiniteloop.ie
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://www.carregistrationapi.com/

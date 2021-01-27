@@ -6,16 +6,16 @@ INSPIRE API Q: I want to do automated searching and receive machine readable res
 **Docs / Website**: https://inspirehep.net/info/hep/api?ln=en
 
 ## 🧬 inspirehep.net Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23336)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23336)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23336)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/inspirehep-net/inspirehep-net.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/inspirehep-net/inspirehep-net.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/inspirehep-net/inspirehep-net.yaml)
 
 ## 💬 inspirehep.net Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23336)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/inspirehep-net/inspirehep-net.yaml)    
 
 
 ## 🗄️ Categories:

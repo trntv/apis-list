@@ -6,16 +6,16 @@ Free IP Geolocation API - lookup any IP address. Free IP Geolocation API - looku
 **Docs / Website**: http://ip-api.com/
 
 ## 🧬 IP Location Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9868)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9868)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9868)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ip-location/ip-location.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ip-location/ip-location.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ip-location/ip-location.yaml)
 
 ## 💬 IP Location Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9868)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/ip-location/ip-location.yaml)    
 
 
 ## 🗄️ Categories:

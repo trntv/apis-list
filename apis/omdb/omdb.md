@@ -15,7 +15,7 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13717)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/omdb/omdb.yaml)    
 
 
 ## 🗄️ Categories:

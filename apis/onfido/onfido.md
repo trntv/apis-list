@@ -8,9 +8,9 @@ Our document verification and facial biometrics technology lets your users verif
 **Docs / Website**: https://documentation.onfido.com
 
 ## 🧬 Onfido Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13836)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13836)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13836)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/onfido/onfido.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/onfido/onfido.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/onfido/onfido.yaml)
 
 ## 💬 Onfido Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

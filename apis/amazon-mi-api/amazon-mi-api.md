@@ -6,16 +6,16 @@ Amazon Machine Learning API simplifies the process of making predictions that re
 **Docs / Website**: http://docs.aws.amazon.com/machine-learning/latest/APIReference/Welcome.html
 
 ## 🧬 Amazon MI API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L647)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L647)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L647)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/amazon-mi-api/amazon-mi-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/amazon-mi-api/amazon-mi-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/amazon-mi-api/amazon-mi-api.yaml)
 
 ## 💬 Amazon MI API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L647)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/amazon-mi-api/amazon-mi-api.yaml)    
 
 
 ## 🗄️ Categories:

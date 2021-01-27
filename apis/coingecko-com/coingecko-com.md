@@ -8,16 +8,16 @@ Free, comprehensive cryptocurrency API. Access free crypto API such as real-time
 **Docs / Website**: https://www.coingecko.com/en/api
 
 ## 🧬 Coingecko.com Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3889)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3889)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3889)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/coingecko-com/coingecko-com.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/coingecko-com/coingecko-com.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/coingecko-com/coingecko-com.yaml)
 
 ## 💬 Coingecko.com Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3889)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/coingecko-com/coingecko-com.yaml)    
 
 
 ## 🗄️ Categories:

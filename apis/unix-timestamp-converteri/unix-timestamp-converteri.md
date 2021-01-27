@@ -6,16 +6,16 @@ Unix Timestamp Converter API Unix Timestamp converter REST API Convert Unix Time
 **Docs / Website**: http://unixtime.co.za
 
 ## 🧬 Unix Timestamp Converteri Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21002)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21002)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21002)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/unix-timestamp-converteri/unix-timestamp-converteri.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/unix-timestamp-converteri/unix-timestamp-converteri.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/unix-timestamp-converteri/unix-timestamp-converteri.yaml)
 
 ## 💬 Unix Timestamp Converteri Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21002)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/unix-timestamp-converteri/unix-timestamp-converteri.yaml)    
 
 
 ## 🗄️ Categories:

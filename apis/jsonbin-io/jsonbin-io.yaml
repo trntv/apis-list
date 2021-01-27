@@ -1,0 +1,11 @@
+name: JSONbin.io
+slug: jsonbin-io
+categories:
+    - Other
+description: Free JSON data storage service, ideal for small scale web apps, website, mobile apps. JSONbin. io is a free JSON storage and JSON hosting service. Create, Read or Update and store your JSON records for free on the cloud using the API
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://jsonbin.io/api-reference

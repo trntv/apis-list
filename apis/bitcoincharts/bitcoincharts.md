@@ -6,16 +6,16 @@ You can use this API to include markets data in your websites, mobile apps or de
 **Docs / Website**: https://bitcoincharts.com/about/markets-api/
 
 ## 🧬 Bitcoincharts Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1619)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1619)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1619)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bitcoincharts/bitcoincharts.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bitcoincharts/bitcoincharts.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bitcoincharts/bitcoincharts.yaml)
 
 ## 💬 Bitcoincharts Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1619)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/bitcoincharts/bitcoincharts.yaml)    
 
 
 ## 🗄️ Categories:

@@ -1,0 +1,11 @@
+name: ChuckNorris.io
+slug: chucknorris-io
+categories:
+    - Fun
+description: Read more Chuck Norris facts are satirical factoids about martial artist and actor Chuck Norris that have become an Internet p. chucknorris. io is a free JSON API for hand curated Chuck Norris facts
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://api.chucknorris.io

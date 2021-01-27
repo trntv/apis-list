@@ -6,16 +6,16 @@ The GitHub Jobs API allows you to search, and view jobs with JSON over HTTP. To 
 **Docs / Website**: https://jobs.github.com/api
 
 ## 🧬 Github Jobs Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8065)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8065)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8065)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/github-jobs/github-jobs.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/github-jobs/github-jobs.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/github-jobs/github-jobs.yaml)
 
 ## 💬 Github Jobs Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8065)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/github-jobs/github-jobs.yaml)    
 
 
 ## 🗄️ Categories:

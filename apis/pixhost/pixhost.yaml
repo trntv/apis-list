@@ -1,0 +1,11 @@
+name: Pixhost
+slug: pixhost
+categories:
+    - Images & Photography
+description: Upload images, photos, galleries
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pixhost/logo_256x256.png
+is_active: false
+links:
+    - name: Docs / Website
+      url: https://pixhost.org/api/index.html

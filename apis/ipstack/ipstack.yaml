@@ -1,0 +1,15 @@
+name: ipstack
+slug: ipstack
+categories:
+    - Analytics
+    - Maps & Geo
+    - Security
+    - Validation & Verification
+description: Locate website visitors for free using ipstack - a free, real-time IP address to location JSON API and database service supporting IPv4 and IPv6 lookup.
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ipstack/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://ipstack.com/

@@ -8,16 +8,16 @@ Yammer Developer Site was created using ReadMe. Discuss ideas, share updates, an
 **Docs / Website**: https://developer.yammer.com/documentation/
 
 ## 🧬 Yammer API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22517)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22517)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22517)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yammer-api/yammer-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yammer-api/yammer-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yammer-api/yammer-api.yaml)
 
 ## 💬 Yammer API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22517)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/yammer-api/yammer-api.yaml)    
 
 
 ## 🗄️ Categories:

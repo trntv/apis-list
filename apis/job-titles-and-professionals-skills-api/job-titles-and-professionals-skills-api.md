@@ -8,16 +8,16 @@ Like job and skill match etc. The API is growing every day thanks to the mycru.i
 **Docs / Website**: https://mycru.io/
 
 ## 🧬 Job Titles And Professionals Skills Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10661)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10661)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10661)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/job-titles-and-professionals-skills-api/job-titles-and-professionals-skills-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/job-titles-and-professionals-skills-api/job-titles-and-professionals-skills-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/job-titles-and-professionals-skills-api/job-titles-and-professionals-skills-api.yaml)
 
 ## 💬 Job Titles And Professionals Skills Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10661)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/job-titles-and-professionals-skills-api/job-titles-and-professionals-skills-api.yaml)    
 
 
 ## 🗄️ Categories:

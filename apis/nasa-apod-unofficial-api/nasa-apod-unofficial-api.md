@@ -6,16 +6,16 @@ What's this API for? This API is for fetching data from NASA's APOD website - a 
 **Docs / Website**: https://apodapi.herokuapp.com/
 
 ## 🧬 NASA APOD (unofficial API) Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12965)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12965)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12965)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nasa-apod-unofficial-api/nasa-apod-unofficial-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nasa-apod-unofficial-api/nasa-apod-unofficial-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nasa-apod-unofficial-api/nasa-apod-unofficial-api.yaml)
 
 ## 💬 NASA APOD (unofficial API) Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12965)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/nasa-apod-unofficial-api/nasa-apod-unofficial-api.yaml)    
 
 
 ## 🗄️ Categories:

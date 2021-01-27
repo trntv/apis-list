@@ -8,16 +8,16 @@ One accurate tab per song. Huge selection of 500,000 tabs. Guitar, bass and drum
 **Docs / Website**: https://www.songsterr.com/a/wa/api/
 
 ## 🧬 Songsterr Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17898)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17898)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17898)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/songsterr/songsterr.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/songsterr/songsterr.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/songsterr/songsterr.yaml)
 
 ## 💬 Songsterr Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17898)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/songsterr/songsterr.yaml)    
 
 
 ## 🗄️ Categories:

@@ -6,16 +6,16 @@ Get data about the books, the movie trilogy, many characters and quotes
 **Docs / Website**: https://the-one-api.herokuapp.com/
 
 ## 🧬 Lord of the Rings API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11587)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11587)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11587)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lord-of-the-rings-api/lord-of-the-rings-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lord-of-the-rings-api/lord-of-the-rings-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lord-of-the-rings-api/lord-of-the-rings-api.yaml)
 
 ## 💬 Lord of the Rings API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11587)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/lord-of-the-rings-api/lord-of-the-rings-api.yaml)    
 
 
 ## 🗄️ Categories:

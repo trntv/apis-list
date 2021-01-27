@@ -1,0 +1,10 @@
+name: Authentic Jobs
+slug: authentic-jobs
+categories:
+    - Jobs
+description: Since 2005. Job board for designers, hackers and creative pros. The leading job board for designers, developers, and creative pros. © 2021 Authentic Jobs, Inc
+is_free: false
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://authenticjobs.com/api/docs

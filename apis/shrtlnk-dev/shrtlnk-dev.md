@@ -6,16 +6,16 @@ URL shortener API
 **Docs / Website**: https://shrtlnk.dev/developer
 
 ## 🧬 Shrtlnk.dev Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17504)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17504)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17504)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shrtlnk-dev/shrtlnk-dev.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shrtlnk-dev/shrtlnk-dev.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shrtlnk-dev/shrtlnk-dev.yaml)
 
 ## 💬 Shrtlnk.dev Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17504)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/shrtlnk-dev/shrtlnk-dev.yaml)    
 
 
 ## 🗄️ Categories:

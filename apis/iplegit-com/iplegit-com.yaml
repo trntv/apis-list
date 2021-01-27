@@ -1,0 +1,10 @@
+name: Iplegit.Com
+slug: iplegit-com
+categories:
+    - Other
+description: Easily detect possible bad users and act upon them. Simple and free to use IP lookup service. Get basic and detailed data on IP addresses. Two free endpoints available. IPLegit provides access to known bad IPs
+is_free: false
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://iplegit.com

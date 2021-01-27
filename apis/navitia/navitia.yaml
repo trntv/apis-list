@@ -1,0 +1,11 @@
+name: Navitia
+slug: navitia
+categories:
+    - Transportation
+description: The open API for building cool stuff with transport data
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://api.navitia.io/

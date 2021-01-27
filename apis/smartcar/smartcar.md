@@ -8,9 +8,9 @@ Build web and mobile apps that communicate with vehicles
 **Docs / Website**: https://smartcar.com/docs/
 
 ## 🧬 Smartcar Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17760)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17760)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17760)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/smartcar/smartcar.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/smartcar/smartcar.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/smartcar/smartcar.yaml)
 
 ## 💬 Smartcar Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

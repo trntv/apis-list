@@ -1,0 +1,16 @@
+name: Jamendo
+slug: jamendo
+categories:
+    - Music & Audio
+description: Jamendo Api Documentation. Jamendo Api Documentation
+is_free: false
+type: REST
+is_active: true
+libraries:
+    - name: Jamendo Ratings Python SDK by Jamendo
+      homepage_uri: https://github.com/jamendo/jamendo-ratings-sdk
+      source_code_uri: ""
+      platform: Python
+links:
+    - name: Docs / Website
+      url: https://developer.jamendo.com/v3.0/docs

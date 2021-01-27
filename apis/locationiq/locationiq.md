@@ -8,16 +8,16 @@ Generous free tier, offering Enterprise-grade APIs for everyone!. Affordable Geo
 **Docs / Website**: https://locationiq.org/docs/
 
 ## 🧬 LocationIQ Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11531)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11531)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11531)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/locationiq/locationiq.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/locationiq/locationiq.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/locationiq/locationiq.yaml)
 
 ## 💬 LocationIQ Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11531)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/locationiq/locationiq.yaml)    
 
 
 ## 🗄️ Categories:

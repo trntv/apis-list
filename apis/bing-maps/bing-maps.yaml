@@ -1,0 +1,56 @@
+name: Bing Maps
+slug: bing-maps
+categories:
+    - Maps & Geo
+description: Bing Maps platform provides multiple API options for your application. Explore Bing Maps API features and view an API features comparison chart to help you choose the Maps API that best meets your needs
+is_free: false
+type: REST
+is_active: true
+libraries:
+    - name: Geocoder Ruby SDK by Alex Reisner
+      homepage_uri: https://github.com/alexreisner/geocoder
+      source_code_uri: https://rubygems.org/gems/geocoder
+      platform: Ruby
+    - name: geocode Python SDK by Deloitte
+      homepage_uri: https://github.com/DeloitteGeospatial/geocode
+      source_code_uri: ""
+      platform: Python
+    - name: Generic Geocoding C# SDK by Chad Lee
+      homepage_uri: https://github.com/chadly/Geocoding.net
+      source_code_uri: ""
+      platform: C#
+    - name: Mapstraction JavaScript SDK
+      homepage_uri: http://mapstraction.com/
+      source_code_uri: https://github.com/mapstraction/mxn
+      platform: JavaScript
+    - name: Bing Maps SDK for Windows 8
+      homepage_uri: https://visualstudiogallery.msdn.microsoft.com/ebc98390-5320-4088-a2b5-8f276e4530f9
+      source_code_uri: http://msdn.microsoft.com/en-us/library/vstudio
+      platform: C#, C++, JavaScript, Visual Basic
+    - name: Bing Maps iOS SDK
+      homepage_uri: http://blogs.bing.com/maps/2011/05/05/new-bing-maps-ios-sdk/
+      source_code_uri: http://www.microsoft.com/en-us/download/details.aspx?id=1112
+      platform: Objective-C
+    - name: Bing Maps PHP SDK
+      homepage_uri: https://github.com/mindtree/BingMapsPHPSDK
+      source_code_uri: ""
+      platform: PHP
+    - name: Bing Maps Java SDK
+      homepage_uri: https://code.google.com/p/bing-maps-java-sdk/
+      source_code_uri: ""
+      platform: Java
+    - name: Drupal Library for Bing Maps API
+      homepage_uri: https://www.drupal.org/project/bing_maps_api
+      source_code_uri: https://www.drupal.org/node/2399745
+      platform: PHP
+    - name: Bing REST Client
+      homepage_uri: https://github.com/advancedrei/Bing.RestClient
+      source_code_uri: ""
+      platform: .Net
+    - name: A Java wrapper for Bing Maps Web Services
+      homepage_uri: http://code.google.com/p/bing-maps-java-sdk/
+      source_code_uri: ""
+      platform: Java
+links:
+    - name: Docs / Website
+      url: https://www.microsoft.com/maps/choose-your-bing-maps-API.aspx

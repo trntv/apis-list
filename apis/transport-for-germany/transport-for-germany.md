@@ -8,16 +8,16 @@ API provides the timetable data
 **Docs / Website**: http://data.deutschebahn.com/dataset/api-fahrplan
 
 ## 🧬 Deutsche Bahn Open Data Portal Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5047)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5047)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5047)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-germany/transport-for-germany.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-germany/transport-for-germany.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-germany/transport-for-germany.yaml)
 
 ## 💬 Deutsche Bahn Open Data Portal Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5047)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-germany/transport-for-germany.yaml)    
 
 
 ## 🗄️ Categories:

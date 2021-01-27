@@ -1,0 +1,12 @@
+name: British National Bibliography
+slug: british-national-bibliography
+categories:
+    - Books
+description: Welcome to bnb. data. bl. uk TheBritish National Bibliography(BNB) records the publishing activity of the United Kingdom and the Republic of Ireland and has been doing so since the 1950s. This has t
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/british-national-bibliography/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: http://bnb.data.bl.uk/

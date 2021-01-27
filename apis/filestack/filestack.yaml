@@ -1,0 +1,58 @@
+name: Filestack
+slug: filestack
+categories:
+    - Video & Media
+    - Files & Storage
+    - Images & Photography
+description: API for image and file manipulation, 250 uploads and 500 uploads per month for free, free CDN, HTML widget. Discover powerful tools that allow you to upload, transform and deliver any file in your application
+is_free: false
+type: REST
+is_active: true
+libraries:
+    - name: Filestack File Picker Android SDK
+      homepage_uri: https://github.com/filestack/filestack-android/
+      source_code_uri: ""
+      platform: Java
+    - name: Filestack File Picker iOS SDK
+      homepage_uri: https://www.filestack.com/docs/api/sdk/ios/
+      source_code_uri: ""
+      platform: Objective-C
+    - name: Filestack File Picker Web SDK
+      homepage_uri: https://www.filestack.com/docs/concepts/pickers/web/
+      source_code_uri: ""
+      platform: JavaScript
+    - name: 'Filestack Rails Ruby SDK '
+      homepage_uri: https://www.filestack.com/docs/api/sdks
+      source_code_uri: https://github.com/filestack/filestack-rails
+      platform: Ruby
+    - name: 'Filestack Swift SDK '
+      homepage_uri: https://www.filestack.com/docs/api/sdk/swift
+      source_code_uri: https://github.com/filestack/filestack-swift
+      platform: Swift
+    - name: Filestack PHP SDK
+      homepage_uri: https://github.com/filestack/filestack-php
+      source_code_uri: ""
+      platform: PHP
+    - name: Filestack Ruby SDK
+      homepage_uri: https://github.com/filestack/filestack-ruby
+      source_code_uri: ""
+      platform: Ruby
+    - name: Filestack React JS SDK
+      homepage_uri: https://github.com/filestack/filestack-react
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Filestack Android SDK
+      homepage_uri: https://github.com/filestack/filepicker-android
+      source_code_uri: ""
+      platform: Java
+    - name: Filestack iOS SDK
+      homepage_uri: https://github.com/filestack/filestack-ios
+      source_code_uri: ""
+      platform: Objective-C
+    - name: Filestack Python SDK
+      homepage_uri: https://github.com/filestack/filestack-python
+      source_code_uri: ""
+      platform: Python
+links:
+    - name: Docs / Website
+      url: https://filestack.com/docs/

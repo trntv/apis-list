@@ -8,16 +8,16 @@ Over 20,000 images of dogs programmaticaly accessible by over 120 breeds. Image 
 **Docs / Website**: https://dog.ceo/dog-api/
 
 ## 🧬 Dogs Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5435)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5435)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5435)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dogs/dogs.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dogs/dogs.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dogs/dogs.yaml)
 
 ## 💬 Dogs Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5435)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/dogs/dogs.yaml)    
 
 
 ## 🗄️ Categories:

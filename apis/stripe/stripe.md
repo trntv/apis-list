@@ -6,9 +6,9 @@ Complete reference documentation for the Stripe API. Includes representative cod
 **Docs / Website**: https://stripe.com/docs/api
 
 ## 🧬 Stripe Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18405)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18405)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18405)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/stripe/stripe.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/stripe/stripe.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/stripe/stripe.yaml)
 
 ## 💬 Stripe Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -1,0 +1,12 @@
+name: musicApi
+slug: musicapi
+categories:
+    - Music & Audio
+description: Centralized package to get data from qq, xiami, netease music - LIU9293/musicAPI. Centralized Node. JS API SDK for Xiami, Netease, and QQ music - The Top 3 music providers in China
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/musicapi/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://github.com/LIU9293/musicAPI

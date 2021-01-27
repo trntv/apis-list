@@ -1,0 +1,124 @@
+name: Bittrex
+slug: bittrex
+categories:
+    - Blockchain & Cryptocurrencies
+description: Bittrex provides a simple and powerful API consisting of REST endpoints for transactional operations and a complementary Websocket service providing streaming market and user data updates
+is_free: false
+type: REST
+is_active: true
+libraries:
+    - name: haxchange Haskell SDK by Sean McGroarty
+      homepage_uri: https://github.com/mcgizzle/haxchange
+      source_code_uri: ""
+      platform: Haskell
+    - name: Cryptocurrency exchanges connector PHP SDK by WALL
+      homepage_uri: https://github.com/wall-one/exchange-connector
+      source_code_uri: ""
+      platform: PHP
+    - name: ExchangeSharp .NET/C# by Jeff Johnson
+      homepage_uri: https://github.com/jjxtra/ExchangeSharp
+      source_code_uri: ""
+      platform: .Net, C#
+    - name: Bittrex Go SDK by frcr
+      homepage_uri: https://github.com/frcr/gotrex
+      source_code_uri: ""
+      platform: Go
+    - name: Bittrex C# SDK by raghupallavi
+      homepage_uri: https://github.com/raghupallavi/Bittrex-CSharp-Api
+      source_code_uri: ""
+      platform: C#
+    - name: Bittrex PowerShell SDK by byterogues
+      homepage_uri: https://github.com/byterogues/powershell-bittrex-api
+      source_code_uri: ""
+      platform: .Net
+    - name: Bittrex PHP SDK by Brian Faust
+      homepage_uri: https://github.com/faustbrian/Bittrex-PHP-Client
+      source_code_uri: ""
+      platform: PHP
+    - name: Bittrex Python SDK by Luc
+      homepage_uri: https://github.com/dude24760/bittrex-public-unofficial-api
+      source_code_uri: ""
+      platform: Python
+    - name: Bittrex Ruby SDK by Vizakenjack
+      homepage_uri: https://github.com/Vizakenjack/ruby-bittrex-api
+      source_code_uri: ""
+      platform: Ruby
+    - name: Bittrex Java SDK by NinjaNed
+      homepage_uri: https://github.com/NinjaNed/BittrexJavaWrapper
+      source_code_uri: ""
+      platform: Java
+    - name: Bittrex .NET SDK by swtrse
+      homepage_uri: https://github.com/swtrse/BittrexClient.net
+      source_code_uri: ""
+      platform: .Net
+    - name: Bittrex PHP SDK by fransyozef
+      homepage_uri: https://github.com/fransyozef/php-bittrex
+      source_code_uri: ""
+      platform: PHP
+    - name: Bittrex Laravel PHP SDK by Pepijn Olivier
+      homepage_uri: https://github.com/pepijnolivier/laravel-bittrex
+      source_code_uri: ""
+      platform: PHP
+    - name: Bittrex PHP SDK by Roman
+      homepage_uri: https://github.com/KielD-01/Bittrex-Reader
+      source_code_uri: ""
+      platform: PHP
+    - name: Bittrex Node.js SDK by Coinsop
+      homepage_uri: https://github.com/coinsop/bittrex-wrapper
+      source_code_uri: ""
+      platform: Node.js
+    - name: Bittrex Python SDK by Nate George
+      homepage_uri: https://github.com/nateGeorge/bittrex_tools
+      source_code_uri: ""
+      platform: Python
+    - name: Bittrex Node.js SDK by jpstratmanuno
+      homepage_uri: https://github.com/jpstratmanuno/bittrex-orderbook
+      source_code_uri: ""
+      platform: Node.js
+    - name: Bittrex Elixir SDK by Andrey Parubets
+      homepage_uri: https://github.com/parubets/bittrex_elixir
+      source_code_uri: ""
+      platform: Elixir
+    - name: Bittrex Ruby SDK by Aaron Binford
+      homepage_uri: https://github.com/MisterToolbox/bittrex-api
+      source_code_uri: ""
+      platform: Ruby
+    - name: Bittrex Elixir SDK by cyberpunk-ventures
+      homepage_uri: https://github.com/cyberpunk-ventures/bittrex_ex
+      source_code_uri: ""
+      platform: Elixir
+    - name: Bittrex Node.js SDK by Tommy Bergeron
+      homepage_uri: https://github.com/tbergeron/bittrex-notifier
+      source_code_uri: ""
+      platform: Node.js
+    - name: Bittrex Go SDK by Justin
+      homepage_uri: https://github.com/Just1B/Bittrex_ticker
+      source_code_uri: ""
+      platform: Go
+    - name: Bittrex v2 Java SDK by Giorgio Momigliano
+      homepage_uri: https://github.com/platelminto/java-bittrex-2
+      source_code_uri: ""
+      platform: Java
+    - name: Bittrex PHP SDK by guxal
+      homepage_uri: https://github.com/guxal/BittrexAPIClient
+      source_code_uri: ""
+      platform: PHP
+    - name: Bittrex Python SDK by ppm0
+      homepage_uri: https://github.com/ppm0/bittrex3
+      source_code_uri: ""
+      platform: Python
+    - name: Python-Bittrex
+      homepage_uri: https://github.com/ericsomdahl/python-bittrex
+      source_code_uri: ""
+      platform: Python
+    - name: Ruby Gem for Bittrex
+      homepage_uri: https://github.com/mwerner/bittrex
+      source_code_uri: https://github.com/mwerner/bittrex
+      platform: Ruby
+    - name: Node Bittrex API
+      homepage_uri: https://www.npmjs.org/package/node.bittrex.api
+      source_code_uri: https://github.com/n0mad01/node.bittrex.api
+      platform: Node.js
+links:
+    - name: Docs / Website
+      url: https://bittrex.github.io/api/v3

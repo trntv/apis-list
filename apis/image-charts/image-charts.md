@@ -8,16 +8,16 @@ A drop-in-replacement for the deprecated Google Image Charts. Easiest way to emb
 **Docs / Website**: https://www.image-charts.com
 
 ## 🧬 Image-Charts Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10059)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10059)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10059)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/image-charts/image-charts.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/image-charts/image-charts.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/image-charts/image-charts.yaml)
 
 ## 💬 Image-Charts Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10059)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/image-charts/image-charts.yaml)    
 
 
 ## 🗄️ Categories:

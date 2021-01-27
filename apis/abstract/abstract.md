@@ -8,9 +8,9 @@ Suite of utility API's (validate emails, create user avatars, calculate VAT, and
 **Docs / Website**: https://www.abstractapi.com
 
 ## 🧬 Abstract Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L316)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L316)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L316)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/abstract/abstract.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/abstract/abstract.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/abstract/abstract.yaml)
 
 ## 💬 Abstract Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

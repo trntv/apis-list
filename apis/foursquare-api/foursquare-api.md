@@ -8,16 +8,16 @@ Gives you access to our world-class places database and the ability to interact 
 **Docs / Website**: https://developer.foursquare.com/developer/
 
 ## 🧬 Foursquare API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7109)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7109)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7109)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/foursquare-api/foursquare-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/foursquare-api/foursquare-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/foursquare-api/foursquare-api.yaml)
 
 ## 💬 Foursquare API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7109)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/foursquare-api/foursquare-api.yaml)    
 
 
 ## 🗄️ Categories:

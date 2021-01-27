@@ -1,0 +1,12 @@
+name: AlienVault Open Threat Exchange (OTX)
+slug: alienvault-open-threat-exchange-otx
+categories:
+    - Security
+description: Share and collaborate in developing threat intelligence. Protect yourself and the community against today's latest threats. Learn about the latest online threats
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/alienvault-open-threat-exchange-otx/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://otx.alienvault.com/api

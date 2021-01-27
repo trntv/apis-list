@@ -1,0 +1,12 @@
+name: Quotable Quotes
+slug: quotable-quotes
+categories:
+    - Health
+description: Contribute to lukePeavey/quotable development by creating an account on GitHub. Random Quotes API
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/quotable-quotes/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://github.com/lukePeavey/quotable

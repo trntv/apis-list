@@ -1,0 +1,12 @@
+name: HelloSalut
+slug: hellosalut
+categories:
+    - Maps & Geo
+description: Say hello to your website visitors in their native language
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/hellosalut/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://www.fourtonfish.com/hellosalut/hello/

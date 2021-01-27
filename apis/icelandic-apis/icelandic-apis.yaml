@@ -1,0 +1,12 @@
+name: Icelandic APIs
+slug: icelandic-apis
+categories:
+    - Scrapers & Data Mining
+    - Government
+description: The purpose of APIs.is is to make Iceland data readily available to anyone interested. All data that is delivered through APIs.is is JSON formatted and scraped from open public websites.
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: http://docs.apis.is/

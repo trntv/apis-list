@@ -8,9 +8,9 @@ Streamline user experience with the stock image, video, and music API trusted by
 **Docs / Website**: https://www.shutterstock.com/developers/
 
 ## 🧬 Shutterstock Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17515)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17515)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17515)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shutterstock/shutterstock.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shutterstock/shutterstock.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shutterstock/shutterstock.yaml)
 
 ## 💬 Shutterstock Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

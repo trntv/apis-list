@@ -6,16 +6,16 @@ Quotes on Design
 **Docs / Website**: https://quotesondesign.com/api/
 
 ## 🧬 Quotes on Design Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16162)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16162)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16162)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/quotes-on-design/quotes-on-design.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/quotes-on-design/quotes-on-design.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/quotes-on-design/quotes-on-design.yaml)
 
 ## 💬 Quotes on Design Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16162)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/quotes-on-design/quotes-on-design.yaml)    
 
 
 ## 🗄️ Categories:

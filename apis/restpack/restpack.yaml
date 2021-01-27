@@ -1,0 +1,14 @@
+name: Restpack
+slug: restpack
+categories:
+    - Documents & Productivity
+    - Development
+    - Scrapers & Data Mining
+description: Screenshot API, HTML to PDF API, Content Extraction API
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/restpack/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://restpack.io/

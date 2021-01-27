@@ -1,0 +1,11 @@
+name: Redtube Api
+slug: redtube-api
+categories:
+    - Adult
+    - Entertainment
+description: The Redtube API. RedTube API Documentation Welcome to the RedTube API developer documentation! Here you can find detailed information needed to get data and integrate RedTube videos on your website or application
+is_free: false
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://api.redtube.com/docs

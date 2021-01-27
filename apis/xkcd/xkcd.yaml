@@ -1,0 +1,31 @@
+name: xkcd
+slug: xkcd
+categories:
+    - Comics & Anime
+    - Fun
+    - Entertainment
+description: xkcd API
+is_free: false
+type: REST
+contact: contact@wordassociations.net
+is_active: true
+libraries:
+    - name: xkcd Elixir SDK by Devin Clark
+      homepage_uri: https://libraries.io/hex/xkcd
+      source_code_uri: https://github.com/notdevinclark/xkcd
+      platform: Elixir
+    - name: xkcd Python SDK by Ben Rosser
+      homepage_uri: https://pypi.python.org/pypi/xkcd/
+      source_code_uri: ""
+      platform: Python
+    - name: xkcd Python SDK by JacobLandau
+      homepage_uri: https://github.com/JacobLandau/pykcd
+      source_code_uri: ""
+      platform: Python
+    - name: xkcd Go SDK by nishanths
+      homepage_uri: https://github.com/nishanths/go-xkcd
+      source_code_uri: ""
+      platform: Go
+links:
+    - name: Docs / Website
+      url: https://xkcd.com/json.html

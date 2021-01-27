@@ -1,0 +1,51 @@
+name: Plaid
+slug: plaid
+categories:
+    - Finance & Economics
+    - Analytics
+    - Payments
+description: Plaid helps companies build fintech solutions by making it easy, safe and reliable for people to connect their financial data to apps and services. You&apos;ve reached this page unjustly"
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/plaid/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: Plaid Link React JavaScript SDK
+      homepage_uri: https://plaid.com/docs/libraries/#link-client-libraries
+      source_code_uri: https://github.com/plaid/react-plaid-link
+      platform: JavaScript
+    - name: Plaid Link iOS SDK
+      homepage_uri: https://plaid.com/docs/#ios-bindings
+      source_code_uri: https://github.com/plaid/plaid-link-ios
+      platform: Objective-C, Swift
+    - name: Plaid Android SDK by Michael Barany
+      homepage_uri: https://github.com/mbarany/Plaid-Android
+      source_code_uri: ""
+      platform: Java
+    - name: Plaid Link AngularJS SDK by Chris Barnes
+      homepage_uri: https://plaid.com/docs/libraries
+      source_code_uri: https://github.com/csbarnes/angular-plaid-link
+      platform: JavaScript
+    - name: Plaid Legacy Java SDK by Plaid
+      homepage_uri: https://github.com/plaid/plaid-java-legacy
+      source_code_uri: ""
+      platform: Java
+    - name: Plaid Rust SDK by Michael Barany
+      homepage_uri: https://github.com/mbarany/Plaid-Backend
+      source_code_uri: ""
+      platform: PHP
+    - name: Plaid Rust SDK by Nathan Kot
+      homepage_uri: https://github.com/nathankot/plaid-rust
+      source_code_uri: ""
+      platform: Unspecified
+    - name: Plaid Ruby SDK by Plaid
+      homepage_uri: https://github.com/plaid/plaid-ruby
+      source_code_uri: ""
+      platform: Ruby
+    - name: Plaid Java SDK by Plaid
+      homepage_uri: https://plaid.com/docs/
+      source_code_uri: https://github.com/plaid/plaid-java
+      platform: Java
+links:
+    - name: Docs / Website
+      url: https://plaid.com/

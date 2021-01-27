@@ -8,16 +8,16 @@ Get abbreviations and meanings
 **Docs / Website**: https://market.mashape.com/daxeel/abbreviations
 
 ## 🧬 Abbreviation Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L243)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L243)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L243)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/abbreviation/abbreviation.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/abbreviation/abbreviation.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/abbreviation/abbreviation.yaml)
 
 ## 💬 Abbreviation Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L243)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/abbreviation/abbreviation.yaml)    
 
 
 ## 🗄️ Categories:

@@ -8,9 +8,9 @@ Documentation for Medium's OAuth2 API. Documentation for Medium's OAuth2 API. Co
 **Docs / Website**: https://github.com/Medium/medium-api-docs
 
 ## 🧬 Medium Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12229)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12229)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12229)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/medium/medium.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/medium/medium.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/medium/medium.yaml)
 
 ## 💬 Medium Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -6,16 +6,16 @@
 **Docs / Website**: https://www.mercadobitcoin.net/api-doc/
 
 ## 🧬 MercadoBitcoin Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12287)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12287)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12287)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mercadobitcoin/mercadobitcoin.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mercadobitcoin/mercadobitcoin.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mercadobitcoin/mercadobitcoin.yaml)
 
 ## 💬 MercadoBitcoin Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12287)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/mercadobitcoin/mercadobitcoin.yaml)    
 
 
 ## 🗄️ Categories:

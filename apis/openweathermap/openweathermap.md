@@ -6,9 +6,9 @@ Simple and fast and free weather API from OpenWeatherMap. With it you have acces
 **Docs / Website**: https://openweathermap.org/api
 
 ## 🧬 OpenWeatherMap Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14333)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14333)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14333)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/openweathermap/openweathermap.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/openweathermap/openweathermap.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/openweathermap/openweathermap.yaml)
 
 ## 💬 OpenWeatherMap Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

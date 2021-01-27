@@ -8,16 +8,16 @@ Daily cat facts! 🐱
 **Docs / Website**: https://alexwohlbruck.github.io/cat-facts/
 
 ## 🧬 Cat Facts Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2621)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2621)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2621)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cat-facts/cat-facts.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cat-facts/cat-facts.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cat-facts/cat-facts.yaml)
 
 ## 💬 Cat Facts Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2621)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/cat-facts/cat-facts.yaml)    
 
 
 ## 🗄️ Categories:

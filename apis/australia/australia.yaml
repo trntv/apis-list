@@ -1,0 +1,12 @@
+name: Australia
+slug: australia
+categories:
+    - Government
+description: Central bank of Australia
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/australia/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://www.rba.gov.au/statistics/tables/

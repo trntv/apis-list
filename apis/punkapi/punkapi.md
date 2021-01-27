@@ -8,16 +8,16 @@ Brewdog's DIY Dog as a searchable, filterable API. Brewdog's DIY Dog as a search
 **Docs / Website**: https://punkapi.com/
 
 ## 🧬 PunkAPI Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15868)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15868)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15868)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/punkapi/punkapi.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/punkapi/punkapi.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/punkapi/punkapi.yaml)
 
 ## 💬 PunkAPI Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15868)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/punkapi/punkapi.yaml)    
 
 
 ## 🗄️ Categories:

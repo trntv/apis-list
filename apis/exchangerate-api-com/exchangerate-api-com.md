@@ -6,16 +6,16 @@ Accurate & reliable Exchange Rates API trusted by tens of thousands of developer
 **Docs / Website**: https://www.exchangerate-api.com/docs/overview
 
 ## 🧬 ExchangeRate-API.com Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6051)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6051)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6051)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/exchangerate-api-com/exchangerate-api-com.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/exchangerate-api-com/exchangerate-api-com.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/exchangerate-api-com/exchangerate-api-com.yaml)
 
 ## 💬 ExchangeRate-API.com Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6051)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/exchangerate-api-com/exchangerate-api-com.yaml)    
 
 
 ## 🗄️ Categories:

@@ -1,0 +1,10 @@
+name: Web Crawl Data
+slug: web-crawl-data
+categories:
+    - Other
+description: An open repository of web crawl data that can be accessed and analyzed by anyone.
+is_free: false
+is_active: true
+links:
+    - name: Docs / Website
+      url: http://commoncrawl.org/

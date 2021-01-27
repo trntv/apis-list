@@ -8,16 +8,16 @@ Music
 **Docs / Website**: https://www.mixcloud.com/developers/
 
 ## 🧬 Mixcloud Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12578)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12578)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12578)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mixcloud/mixcloud.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mixcloud/mixcloud.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mixcloud/mixcloud.yaml)
 
 ## 💬 Mixcloud Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12578)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/mixcloud/mixcloud.yaml)    
 
 
 ## 🗄️ Categories:

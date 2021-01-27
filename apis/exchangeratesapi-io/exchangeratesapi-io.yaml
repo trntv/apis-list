@@ -1,0 +1,11 @@
+name: ExchangeRatesAPI.io
+slug: exchangeratesapi-io
+categories:
+    - Finance & Economics
+description: Exchange rates API is a free service for current and historical foreign exchange rates published by the European Central Bank.
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://exchangeratesapi.io/

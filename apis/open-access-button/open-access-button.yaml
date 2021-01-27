@@ -1,0 +1,14 @@
+name: Open Access Button
+slug: open-access-button
+categories:
+    - Content & Dictionaries
+    - Science & Math
+    - Search
+    - News & Feeds
+description: Free, legal research articles delivered instantly or automatically requested from authors.
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://openaccessbutton.org/api

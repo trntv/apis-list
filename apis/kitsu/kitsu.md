@@ -6,9 +6,9 @@ Kitsu is a modern anime discovery platform that helps you track the anime you're
 **Docs / Website**: https://kitsu.docs.apiary.io/
 
 ## 🧬 Kitsu Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10899)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10899)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10899)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/kitsu/kitsu.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/kitsu/kitsu.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/kitsu/kitsu.yaml)
 
 ## 💬 Kitsu Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

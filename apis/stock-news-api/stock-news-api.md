@@ -6,16 +6,16 @@ Get the latest stock news from the best news sources. Use this API to get releva
 **Docs / Website**: https://stocknewsapi.com/
 
 ## 🧬 Stock News API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18269)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18269)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18269)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/stock-news-api/stock-news-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/stock-news-api/stock-news-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/stock-news-api/stock-news-api.yaml)
 
 ## 💬 Stock News API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18269)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/stock-news-api/stock-news-api.yaml)    
 
 
 ## 🗄️ Categories:

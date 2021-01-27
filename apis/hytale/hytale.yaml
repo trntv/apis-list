@@ -1,0 +1,11 @@
+name: Hytale
+slug: hytale
+categories:
+    - Games
+description: Official Hytale API
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://hytale-api.com/

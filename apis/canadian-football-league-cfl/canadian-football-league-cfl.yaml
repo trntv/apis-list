@@ -1,0 +1,11 @@
+name: Canadian Football League (CFL)
+slug: canadian-football-league-cfl
+categories:
+    - Sport & Fitness
+description: CFL API Need assistance? E-mail us or browse the API documentation
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: http://api.cfl.ca/

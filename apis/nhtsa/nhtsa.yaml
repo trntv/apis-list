@@ -1,0 +1,13 @@
+name: NHTSA
+slug: nhtsa
+categories:
+    - Security
+    - Vehicles
+    - Government
+description: Catalog Vehicle Listing (vPIC) Application Programming Interface (API) provides different ways to gather information on Vehicles and their specifications.
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://vpic.nhtsa.dot.gov/api/

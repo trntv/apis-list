@@ -6,16 +6,16 @@ UK's parliament Open Data
 **Docs / Website**: http://www.data.parliament.uk/developers/
 
 ## 🧬 data.parliament.uk Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23151)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23151)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23151)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/data-parliament-uk/data-parliament-uk.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/data-parliament-uk/data-parliament-uk.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/data-parliament-uk/data-parliament-uk.yaml)
 
 ## 💬 data.parliament.uk Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23151)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/data-parliament-uk/data-parliament-uk.yaml)    
 
 
 ## 🗄️ Categories:

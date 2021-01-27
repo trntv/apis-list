@@ -1,0 +1,13 @@
+name: Iconfinder
+slug: iconfinder
+categories:
+    - Search
+    - Images & Photography
+    - Art & Design
+description: The Iconfinder API is a HTTP JSON API and allows you to programatically access resources on the service, such as icons, icon sets, categories, styles, authors, etc
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://developer.iconfinder.com

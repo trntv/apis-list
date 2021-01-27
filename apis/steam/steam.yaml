@@ -1,0 +1,12 @@
+name: Steam Web API
+slug: steam
+categories:
+    - Entertainment
+    - Games
+description: Steam WEB API created to provide programmatic access to Steam data and services
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://developer.valvesoftware.com/wiki/Steam_Web_API

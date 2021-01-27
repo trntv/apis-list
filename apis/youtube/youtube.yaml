@@ -1,0 +1,125 @@
+name: YouTube
+slug: youtube
+categories:
+    - Video & Media
+    - Social
+description: Add YouTube functionality to your sites and apps. Add YouTube functionality to your sites and apps
+is_free: false
+type: REST
+is_active: true
+libraries:
+    - name: Media Now JavaScript SDK by internet4000
+      homepage_uri: https://github.com/internet4000/media-now
+      source_code_uri: ""
+      platform: JavaScript, Node.js
+    - name: Social API JS JavaScript SDK by Joris Daniel
+      homepage_uri: https://github.com/yoriiis/social-api.js
+      source_code_uri: ""
+      platform: JavaScript
+    - name: 'Google Go SDK '
+      homepage_uri: https://github.com/google/google-api-go-client/blob/master/GettingStarted.md
+      source_code_uri: https://github.com/google/google-api-go-client
+      platform: Go
+    - name: 'Google Objective-C SDK '
+      homepage_uri: https://github.com/google/google-api-objectivec-client-for-rest/wiki
+      source_code_uri: https://github.com/google/google-api-objectivec-client-for-rest
+      platform: Objective-C
+    - name: Google Java SDK
+      homepage_uri: https://developers.google.com/api-client-library/java/
+      source_code_uri: https://developers.google.com/api-client-library/java/google-api-java-client/dev-guide
+      platform: Java
+    - name: 'YouTube Python SDK by Chirag Rathod '
+      homepage_uri: https://github.com/srcecde/python-youtube-api
+      source_code_uri: ""
+      platform: Python
+    - name: YouTube PHP SDK by Jason Leung
+      homepage_uri: https://github.com/madcoda/php-youtube-api
+      source_code_uri: https://github.com/madcoda/php-youtube-api
+      platform: PHP
+    - name: YouTube Node.js SDK by node.js Nicaragua
+      homepage_uri: https://github.com/nodenica/youtube-node
+      source_code_uri: ""
+      platform: Node.js
+    - name: YouTube PHP SDK by Jan Galek
+      homepage_uri: https://packagist.org/packages/galek/youtube-api
+      source_code_uri: https://github.com/JanGalek/YoutubeAPI
+      platform: PHP
+    - name: YouTube Laravel PHP SDK by Joe Dawson
+      homepage_uri: https://packagist.org/packages/dawson/youtube
+      source_code_uri: https://github.com/JoeDawson/youtube
+      platform: PHP
+    - name: YouTube Video Sync JavaScript SDK 3.7.2 by Pubnub
+      homepage_uri: http://pubnub.github.io/video-sync/
+      source_code_uri: http://www.pubnub.com/docs/javascript/javascript-sdk.html
+      platform: JavaScript
+    - name: ASP.NET Video Starter Kit - Youtube DATA SDK
+      homepage_uri: http://www.mediasoftpro.com/video-starter-kit/youtube-sdk.html
+      source_code_uri: ""
+      platform: .Net
+    - name: YouTube Node.js Library by Ionică Bizău
+      homepage_uri: https://github.com/IonicaBizau/youtube-api
+      source_code_uri: ""
+      platform: Node.js
+    - name: 'Youtube .Net Library .Net-youtube '
+      homepage_uri: https://developers.google.com/api-client-library/dotnet/apis/youtube/v3
+      source_code_uri: http://www.nuget.org/packages/Google.Apis.Tasks.v1/
+      platform: .Net
+    - name: Youtube Java LIbrary java-youtube
+      homepage_uri: https://github.com/google/google-api-java-client
+      source_code_uri: ""
+      platform: Java
+    - name: CodeIgniter YouTube API Library
+      homepage_uri: https://developers.google.com/youtube/articles/codeigniter_library?csw=1
+      source_code_uri: https://github.com/jimdoescode/CodeIgniter-YouTube-API-Library
+      platform: PHP
+    - name: Google APIs Client Library for Python
+      homepage_uri: https://developers.google.com/api-client-library/python/
+      source_code_uri: https://code.google.com/p/google-api-python-client/downloads/list
+      platform: Python
+    - name: Google APIs Client Library for Objective-C
+      homepage_uri: https://code.google.com/p/google-api-objectivec-client/
+      source_code_uri: ""
+      platform: Objective-C
+    - name: Google APIs Client Library for JavaScript
+      homepage_uri: https://developers.google.com/api-client-library/javascript/
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Google APIs Client Library for Java
+      homepage_uri: https://code.google.com/p/google-api-java-client/
+      source_code_uri: ""
+      platform: Java
+    - name: Google APIs Client Library for .NET
+      homepage_uri: https://developers.google.com/api-client-library/dotnet/
+      source_code_uri: ""
+      platform: .Net
+    - name: Google APIs Client Library for PHP
+      homepage_uri: https://developers.google.com/api-client-library/php/
+      source_code_uri: https://github.com/google/google-api-php-client
+      platform: PHP
+    - name: AS3 Library for YouTube API
+      homepage_uri: http://code.google.com/p/as3youtubelib/
+      source_code_uri: ""
+      platform: ""
+    - name: ActionScript YouTube Library
+      homepage_uri: http://code.google.com/p/as3-youtube-data-api/
+      source_code_uri: ""
+      platform: ""
+    - name: Official YouTube Objective-C Library
+      homepage_uri: http://code.google.com/p/gdata-objectivec-client/
+      source_code_uri: ""
+      platform: ""
+    - name: Official YouTube Python Library
+      homepage_uri: http://code.google.com/apis/youtube/developers_guide_python.html
+      source_code_uri: ""
+      platform: Python
+    - name: 'Official Java Source for YouTube '
+      homepage_uri: http://code.google.com/apis/youtube/developers_guide_java.html
+      source_code_uri: ""
+      platform: Java
+    - name: Perl Library for YouTube API
+      homepage_uri: http://search.cpan.org/~yoshida/WebService-YouTube/
+      source_code_uri: ""
+      platform: ""
+links:
+    - name: Docs / Website
+      url: https://developers.google.com/youtube/

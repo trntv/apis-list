@@ -1,0 +1,11 @@
+name: FIFA women's world cup 2019
+slug: fifa-womens-world-cup-2019
+categories:
+    - Sport & Fitness
+description: FIFA women's world cup 2019 matches and group stage results
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://worldcup.sfg.io/

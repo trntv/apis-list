@@ -8,16 +8,16 @@ Trawlingweb structures, stores and indexes millions of web pages per day in vert
 **Docs / Website**: https://trawlingweb.com/
 
 ## 🧬 Trawlingweb Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20061)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20061)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20061)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/trawlingweb/trawlingweb.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/trawlingweb/trawlingweb.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/trawlingweb/trawlingweb.yaml)
 
 ## 💬 Trawlingweb Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20061)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/trawlingweb/trawlingweb.yaml)    
 
 
 ## 🗄️ Categories:

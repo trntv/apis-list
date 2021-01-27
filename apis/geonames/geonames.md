@@ -8,9 +8,9 @@ The GeoNames geographical database covers all countries and contains over eleven
 **Docs / Website**: http://www.geonames.org/export/web-services.html
 
 ## 🧬 GeoNames Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7475)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7475)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7475)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/geonames/geonames.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/geonames/geonames.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/geonames/geonames.yaml)
 
 ## 💬 GeoNames Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

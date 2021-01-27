@@ -1,0 +1,14 @@
+name: Datamuse API
+slug: datamuse-api
+categories:
+    - Content & Dictionaries
+    - Search
+    - Text Analysis & Tools
+    - AI & ML
+description: Word-finding query engine that finds words that match a given set of constraints and that are likely in a given context.
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://www.datamuse.com/api/

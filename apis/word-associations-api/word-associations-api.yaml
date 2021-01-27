@@ -1,0 +1,13 @@
+name: Word Associations API
+slug: word-associations-api
+categories:
+    - AI & ML
+description: Provides service to get associations for a word or phrase. Words are grouped by semantics, meaning, and psychological perception. Word Association API - Word Associations Network
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/word-associations-api/logo_256x256.png
+type: REST
+contact: contact@wordassociations.net
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://wordassociations.net/en/api

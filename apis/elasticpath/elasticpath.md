@@ -6,9 +6,9 @@ Provides the full commerce solution to bring your unique, revenue-driving experi
 **Docs / Website**: https://developers.elasticpath.com/
 
 ## 🧬 Elasticpath Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5813)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5813)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5813)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/elasticpath/elasticpath.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/elasticpath/elasticpath.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/elasticpath/elasticpath.yaml)
 
 ## 💬 Elasticpath Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

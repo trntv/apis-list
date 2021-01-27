@@ -1,0 +1,12 @@
+name: Advice Slip
+slug: advice-slip
+categories:
+    - Fun
+description: Parameters callback string To define your own callback function name and return the. HTTP Method GET URL https://api. adviceslip. com/advice Description Returns a random advice slip as a slip object
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/advice-slip/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: http://api.adviceslip.com/

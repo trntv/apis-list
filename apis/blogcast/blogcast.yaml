@@ -1,0 +1,12 @@
+name: Blogcast
+slug: blogcast
+categories:
+    - AI & ML
+    - Scrapers & Data Mining
+    - Voice
+description: Generate audio versions of your articles. Create realistic voice overs for blogs, videos, podcasts and more from your content using AI text-to-speech software
+is_free: false
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://blogcast.host

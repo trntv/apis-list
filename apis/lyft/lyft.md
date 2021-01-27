@@ -8,9 +8,9 @@ Get real-time ETAs, availability, price estimates, ride status through the Lyft 
 **Docs / Website**: https://www.lyft.com/developers
 
 ## 🧬 Lyft Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11680)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11680)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11680)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lyft/lyft.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lyft/lyft.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lyft/lyft.yaml)
 
 ## 💬 Lyft Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

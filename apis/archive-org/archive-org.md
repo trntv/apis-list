@@ -17,7 +17,7 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L965)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/archive-org/archive-org.yaml)    
 
 
 ## 🗄️ Categories:

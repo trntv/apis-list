@@ -6,16 +6,16 @@
 **Docs / Website**: http://api.jobs2careers.com/api/spec.pdf
 
 ## 🧬 Jobs2Careers Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10672)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10672)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10672)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/jobs2careers/jobs2careers.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/jobs2careers/jobs2careers.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/jobs2careers/jobs2careers.yaml)
 
 ## 💬 Jobs2Careers Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10672)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/jobs2careers/jobs2careers.yaml)    
 
 
 ## 🗄️ Categories:

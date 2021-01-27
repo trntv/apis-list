@@ -1,0 +1,113 @@
+name: Binance
+slug: binance
+categories:
+    - Blockchain & Cryptocurrencies
+description: Binance cryptocurrency exchange official API
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/binance/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: haxchange Haskell SDK by Sean McGroarty
+      homepage_uri: https://github.com/mcgizzle/haxchange
+      source_code_uri: ""
+      platform: Haskell
+    - name: Cryptocurrency exchanges connector PHP SDK by WALL
+      homepage_uri: https://github.com/wall-one/exchange-connector
+      source_code_uri: ""
+      platform: PHP
+    - name: binancer R SDK by Gergely Daróczi
+      homepage_uri: https://github.com/daroczig/binancer
+      source_code_uri: ""
+      platform: R
+    - name: Binance REST .NET SDK by CodeTao
+      homepage_uri: https://github.com/CodeTao/Binance.Api
+      source_code_uri: ""
+      platform: .Net, C#
+    - name: Binance REST Haskell SDK by Kelecorix
+      homepage_uri: https://github.com/kelecorix/api-binance
+      source_code_uri: ""
+      platform: Haskell
+    - name: Binance NodeJS SDK by Marcius Capital
+      homepage_uri: https://github.com/marcius-capital/binance-api
+      source_code_uri: ""
+      platform: JavaScript, Node.js
+    - name: Binance NodeJS SDK by Sonia John
+      homepage_uri: https://github.com/realChainLife/Binance-API
+      source_code_uri: ""
+      platform: JavaScript, Node.js
+    - name: Binance REST Python SDK by Dave Standish
+      homepage_uri: https://github.com/machine-uprising/api-Binance
+      source_code_uri: ""
+      platform: Python
+    - name: Binance .NET SDK by Robert Massa
+      homepage_uri: https://github.com/Grepsy/BinanceService
+      source_code_uri: https://www.nuget.org/packages/BinanceService
+      platform: .Net, C#
+    - name: Binance REST Dart SDK by Ravi Teja Gudapati
+      homepage_uri: https://github.com/tejainece/binance_api.dart
+      source_code_uri: ""
+      platform: Dart
+    - name: Binance REST Python SDK by Huy Tran
+      homepage_uri: https://github.com/mrhuytran/bnb-api-wrapper
+      source_code_uri: ""
+      platform: Python
+    - name: Binance REST Google Apps Script SDK by AubakirovArman
+      homepage_uri: https://github.com/AubakirovArman/Binance_api_gas
+      source_code_uri: ""
+      platform: Unspecified
+    - name: Binance REST Java SDK by Leo Ertuna
+      homepage_uri: https://github.com/JPLeoRX/binance4j
+      source_code_uri: ""
+      platform: Java
+    - name: Binance REST Python SDK by ape364
+      homepage_uri: https://github.com/ape364/aiobinance
+      source_code_uri: https://pypi.org/project/aiobinance/
+      platform: Python
+    - name: Binance REST Java SDK by Marco
+      homepage_uri: https://github.com/VaultDeveloper/binance-java-client
+      source_code_uri: ""
+      platform: Java
+    - name: Binance REST Python SDK by Zac Shaiken
+      homepage_uri: https://github.com/shaikezr/binance-bot
+      source_code_uri: ""
+      platform: Python
+    - name: Binance REST .NET SDK by WarFollowsMe
+      homepage_uri: https://github.com/WarFollowsMe/NetBinance
+      source_code_uri: ""
+      platform: .Net, C#
+    - name: Binance REST Python SDK by Hive Solutions
+      homepage_uri: https://github.com/hivesolutions/binance_api
+      source_code_uri: https://pypi.org/project/binance_api/
+      platform: Python
+    - name: Binance REST Swift SDK by Ali Ravanchi
+      homepage_uri: https://github.com/ravanchi/BinanceSwift
+      source_code_uri: ""
+      platform: Swift
+    - name: Binance REST Kotlin SDK by Fabian Loewe
+      homepage_uri: https://github.com/hyronx/binance-api-kotlin
+      source_code_uri: ""
+      platform: Kotlin
+    - name: Binance REST Objective-C SDK by pclion
+      homepage_uri: https://github.com/pclion/BinanceAPIForOC
+      source_code_uri: ""
+      platform: Objective-C
+    - name: Binance NodeJS SDK by tdeineka
+      homepage_uri: https://github.com/tdeineka/node-binance-us-api
+      source_code_uri: https://www.npmjs.com/package/node-binance-api
+      platform: JavaScript, Node.js
+    - name: Binance REST Java SDK by Richard He
+      homepage_uri: https://github.com/richardyc/Binance-API-Challenge
+      source_code_uri: ""
+      platform: Java
+    - name: Binance REST C# SDK by JasperDrost4
+      homepage_uri: https://github.com/JasperDrost4/BinanceApiDataRetriever
+      source_code_uri: ""
+      platform: C#
+    - name: Binance REST C# SDK by Shamim Keshani
+      homepage_uri: https://github.com/jeot/BinanceApi_CSharp
+      source_code_uri: ""
+      platform: C#
+links:
+    - name: Docs / Website
+      url: https://github.com/binance/binance-spot-api-docs

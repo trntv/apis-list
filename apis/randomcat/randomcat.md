@@ -6,16 +6,16 @@ Random cat image API
 **Docs / Website**: https://aws.random.cat/meow
 
 ## 🧬 RandomCat Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16259)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16259)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16259)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/randomcat/randomcat.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/randomcat/randomcat.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/randomcat/randomcat.yaml)
 
 ## 💬 RandomCat Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16259)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/randomcat/randomcat.yaml)    
 
 
 ## 🗄️ Categories:

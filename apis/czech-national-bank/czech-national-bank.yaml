@@ -1,0 +1,11 @@
+name: Czech National Bank
+slug: czech-national-bank
+categories:
+    - Finance & Economics
+description: A collection of exchange rates
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml

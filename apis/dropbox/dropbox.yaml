@@ -1,0 +1,93 @@
+name: Dropbox
+slug: dropbox
+categories:
+    - Files & Storage
+    - Social
+description: API for accessing stored files and pictures which is easy to use and free for small amounts of data. With the DBX Platform, you can go from idea to implementation quickly and easily. You'll save time and write fewer lines of code with SDKs, powerful core API, and thorough documentation
+is_free: false
+type: REST
+is_active: true
+libraries:
+    - name: Dropbox Ruby SDK by Jesús Burgos Maciá
+      homepage_uri: https://github.com/Jesus/dropbox_api
+      source_code_uri: ""
+      platform: Ruby
+    - name: Dropbox Objective-C SDK by Dropbox
+      homepage_uri: https://github.com/dropbox/dropbox-sdk-obj-c
+      source_code_uri: ""
+      platform: Objective-C
+    - name: Dropbox Java SDK by Gini
+      homepage_uri: https://github.com/gini/dropbox-java-sdk
+      source_code_uri: ""
+      platform: Java
+    - name: Dropbox Python SDK for Flask applications by Igor Davydenko
+      homepage_uri: https://github.com/playpauseandstop/Flask-Dropbox
+      source_code_uri: ""
+      platform: Python
+    - name: Dropbox Node.js SDK by Brock Whitten
+      homepage_uri: https://github.com/sintaxi/dbox
+      source_code_uri: ""
+      platform: Node.js
+    - name: Dropbox iOS SDK Mirror by Dropbox SDK Mirror
+      homepage_uri: https://github.com/dropbox-sdk-mirror/dropbox-sdk-ios
+      source_code_uri: ""
+      platform: Objective-C
+    - name: Dropbox PHP SDK by Ben Tadiar
+      homepage_uri: https://github.com/BenExile/Dropbox
+      source_code_uri: ""
+      platform: PHP
+    - name: Dropbox iOS X SDK by Dropbox
+      homepage_uri: https://www.dropbox.com/developers/core/sdks/osx
+      source_code_uri: ""
+      platform: Objective-C
+    - name: Dropbox iOS SDK by Dropbox
+      homepage_uri: https://www.dropbox.com/developers/core/sdks/ios
+      source_code_uri: ""
+      platform: Objective-C
+    - name: Dropbox Android SDK by Dropbox
+      homepage_uri: https://www.dropbox.com/developers/core/sdks/android
+      source_code_uri: ""
+      platform: Java
+    - name: Dropbox Java SDK by Dropbox
+      homepage_uri: https://www.dropbox.com/developers/documentation/java
+      source_code_uri: https://github.com/dropbox/dropbox-sdk-java
+      platform: Java
+    - name: Dropbox PHP SDK by Dropbox
+      homepage_uri: https://www.dropbox.com/developers/core/sdks/php
+      source_code_uri: ""
+      platform: PHP
+    - name: Dropbox Ruby SDK by Dropbox
+      homepage_uri: https://www.dropbox.com/developers/core/sdks/ruby
+      source_code_uri: ""
+      platform: Ruby
+    - name: Dropbox Python SDK by Dropbox
+      homepage_uri: https://www.dropbox.com/developers/core/sdks/python
+      source_code_uri: https://github.com/dropbox/dropbox-sdk-python
+      platform: Python
+    - name: Instagram JavaScript SDK by Shayne Sweeney
+      homepage_uri: https://github.com/facebookarchive/instagram-javascript-sdk
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Dropbox C++ Library by Daniel Eder
+      homepage_uri: http://lycis.github.io/QtDropbox/
+      source_code_uri: ""
+      platform: C++
+    - name: Dropbox C Library by Adrien Python
+      homepage_uri: https://github.com/Dwii/Dropbox-C
+      source_code_uri: ""
+      platform: C
+    - name: Dropbox ActionScript Library by zeshuo
+      homepage_uri: https://code.google.com/p/dropbox-as3/
+      source_code_uri: ""
+      platform: ActionScript
+    - name: ' Dropbox Java Library by Kannan Goudan'
+      homepage_uri: https://github.com/dropbox/dropbox-sdk-java
+      source_code_uri: ""
+      platform: Java
+    - name: Dropbox PHP Library by Kannan Goudan
+      homepage_uri: https://github.com/dropbox/dropbox-sdk-php
+      source_code_uri: ""
+      platform: PHP
+links:
+    - name: Docs / Website
+      url: https://www.dropbox.com/developers

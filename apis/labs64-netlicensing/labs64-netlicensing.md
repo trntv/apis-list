@@ -6,16 +6,16 @@ Innovative License Management Solution. NetLicensing RESTful APIis for developer
 **Docs / Website**: https://netlicensing.io/wiki/restful-api
 
 ## 🧬 Labs64 NetLicensing Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10954)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10954)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10954)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/labs64-netlicensing/labs64-netlicensing.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/labs64-netlicensing/labs64-netlicensing.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/labs64-netlicensing/labs64-netlicensing.yaml)
 
 ## 💬 Labs64 NetLicensing Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10954)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/labs64-netlicensing/labs64-netlicensing.yaml)    
 
 
 ## 🗄️ Categories:

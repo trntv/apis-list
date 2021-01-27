@@ -1,0 +1,11 @@
+name: Colorado Data Engine
+slug: colorado-data-engine
+categories:
+    - Government
+description: Formatted and geolocated Colorado public data
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: http://codataengine.org/

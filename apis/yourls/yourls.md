@@ -8,16 +8,16 @@ Generate or get existing short URLs, with sequential or custom keyword. ➤ Abou
 **Docs / Website**: https://yourls.org/#API
 
 ## 🧬 Yourls Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22843)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22843)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22843)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yourls/yourls.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yourls/yourls.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yourls/yourls.yaml)
 
 ## 💬 Yourls Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22843)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/yourls/yourls.yaml)    
 
 
 ## 🗄️ Categories:

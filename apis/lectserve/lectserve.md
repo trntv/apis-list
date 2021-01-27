@@ -8,16 +8,16 @@ Your daily lectionary readings…. Your daily lectionary readings…
 **Docs / Website**: http://www.lectserve.com
 
 ## 🧬 LectServe Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11162)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11162)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11162)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lectserve/lectserve.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lectserve/lectserve.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lectserve/lectserve.yaml)
 
 ## 💬 LectServe Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11162)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/lectserve/lectserve.yaml)    
 
 
 ## 🗄️ Categories:

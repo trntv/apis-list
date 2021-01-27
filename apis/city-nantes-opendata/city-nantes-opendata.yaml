@@ -1,0 +1,11 @@
+name: City, Nantes Opendata
+slug: city-nantes-opendata
+categories:
+    - Government
+description: Open public data (Open data) made available by the City of Nantes and Nantes Métropole
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://data.nantesmetropole.fr/pages/home/

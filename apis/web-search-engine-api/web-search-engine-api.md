@@ -8,16 +8,16 @@ QMeta offers a free, uncensored and unlimited web search engine API
 **Docs / Website**: https://www.qmeta.net/api.html
 
 ## 🧬 Web Search Engine Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21670)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21670)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21670)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/web-search-engine-api/web-search-engine-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/web-search-engine-api/web-search-engine-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/web-search-engine-api/web-search-engine-api.yaml)
 
 ## 💬 Web Search Engine Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21670)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/web-search-engine-api/web-search-engine-api.yaml)    
 
 
 ## 🗄️ Categories:

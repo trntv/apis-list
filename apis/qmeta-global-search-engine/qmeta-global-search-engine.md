@@ -8,16 +8,16 @@ RadSportRadar ist eine Übersichtskarte über alle gemeldeten Straßenschäden u
 **Docs / Website**: https://www.radsportradar.de/#qmeta
 
 ## 🧬 Qmeta Global Search Engine Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15925)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15925)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15925)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/qmeta-global-search-engine/qmeta-global-search-engine.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/qmeta-global-search-engine/qmeta-global-search-engine.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/qmeta-global-search-engine/qmeta-global-search-engine.yaml)
 
 ## 💬 Qmeta Global Search Engine Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15925)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/qmeta-global-search-engine/qmeta-global-search-engine.yaml)    
 
 
 ## 🗄️ Categories:

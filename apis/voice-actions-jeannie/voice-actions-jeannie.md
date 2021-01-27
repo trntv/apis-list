@@ -8,16 +8,16 @@ Jeannie (Voice Actions) is a virtual assistant with over two Million downloads, 
 **Docs / Website**: https://pannous-jeannie.p.mashape.com/
 
 ## 🧬 Voice Actions Jeannie Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21515)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21515)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21515)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/voice-actions-jeannie/voice-actions-jeannie.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/voice-actions-jeannie/voice-actions-jeannie.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/voice-actions-jeannie/voice-actions-jeannie.yaml)
 
 ## 💬 Voice Actions Jeannie Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21515)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/voice-actions-jeannie/voice-actions-jeannie.yaml)    
 
 
 ## 🗄️ Categories:

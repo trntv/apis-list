@@ -1,0 +1,10 @@
+name: Traveltime Api
+slug: traveltime-api
+categories:
+    - Maps & Geo
+description: Testing the TravelTime API is free. Transform location site search. Search and sort by journey time, not distance. An alternative to a distance matrix API. Create polygons to show how far you can travel within a time limit. Calculate times from an origin to thousands of destinations in a single API call
+is_free: false
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://traveltime.com/docs/api/overview/introduction

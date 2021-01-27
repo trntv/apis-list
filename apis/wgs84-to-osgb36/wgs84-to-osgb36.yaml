@@ -1,0 +1,12 @@
+name: Wgs84 To Osgb36
+slug: wgs84-to-osgb36
+categories:
+    - Maps & Geo
+    - Post & Logistics
+description: Convert a WGS84 latitude and longitude to OSGB36 easting and northing (British National Grid)
+is_free: false
+contact: info@quicksold.co.uk
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://quicksold.co.uk/swagger

@@ -8,16 +8,16 @@ Simple and powerful email verification JSON API using SMTP, typo checks, syntax 
 **Docs / Website**: https://mailboxlayer.com
 
 ## 🧬 mailboxlayer Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23401)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23401)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23401)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mailboxlayer/mailboxlayer.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mailboxlayer/mailboxlayer.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mailboxlayer/mailboxlayer.yaml)
 
 ## 💬 mailboxlayer Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23401)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/mailboxlayer/mailboxlayer.yaml)    
 
 
 ## 🗄️ Categories:

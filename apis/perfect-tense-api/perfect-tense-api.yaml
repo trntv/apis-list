@@ -1,0 +1,12 @@
+name: Perfect Tense API
+slug: perfect-tense-api
+categories:
+    - Content & Dictionaries
+    - AI & ML
+description: Automated. Perfect Tense gives you error-free content in seconds. The Perfect Tense API is the only spelling and grammar checking API that uses artificial intelligence to automatically correct all of your text in one call.
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://www.perfecttense.com/developers

@@ -8,16 +8,16 @@ Best podcast API trusted by 2,104 companies and developers. Search 1,904,658 pod
 **Docs / Website**: https://www.listennotes.com/api/
 
 ## 🧬 Listen Notes Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11426)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11426)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11426)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/listen-notes/listen-notes.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/listen-notes/listen-notes.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/listen-notes/listen-notes.yaml)
 
 ## 💬 Listen Notes Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11426)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/listen-notes/listen-notes.yaml)    
 
 
 ## 🗄️ Categories:

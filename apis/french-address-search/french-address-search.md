@@ -6,16 +6,16 @@ Find addresses and localities in France
 **Docs / Website**: https://geo.api.gouv.fr/adresse
 
 ## 🧬 French Address Search Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7255)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7255)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7255)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/french-address-search/french-address-search.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/french-address-search/french-address-search.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/french-address-search/french-address-search.yaml)
 
 ## 💬 French Address Search Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7255)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/french-address-search/french-address-search.yaml)    
 
 
 ## 🗄️ Categories:

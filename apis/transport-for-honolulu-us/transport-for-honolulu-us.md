@@ -8,16 +8,16 @@
 **Docs / Website**: http://hea.thebus.org/api_info.asp
 
 ## 🧬 Transportation in Honolulu, USA Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19771)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19771)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19771)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-honolulu-us/transport-for-honolulu-us.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-honolulu-us/transport-for-honolulu-us.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-honolulu-us/transport-for-honolulu-us.yaml)
 
 ## 💬 Transportation in Honolulu, USA Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19771)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-honolulu-us/transport-for-honolulu-us.yaml)    
 
 
 ## 🗄️ Categories:

@@ -8,16 +8,16 @@ A restful API for football data. A restful API for football data
 **Docs / Website**: http://api.football-data.org/index
 
 ## 🧬 Football-Data.org Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7027)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7027)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7027)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/football-data-org/football-data-org.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/football-data-org/football-data-org.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/football-data-org/football-data-org.yaml)
 
 ## 💬 Football-Data.org Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7027)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/football-data-org/football-data-org.yaml)    
 
 
 ## 🗄️ Categories:

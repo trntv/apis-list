@@ -1,0 +1,22 @@
+name: Google Earth Engine
+slug: google-earth-engine
+categories:
+    - Images & Photography
+    - Maps & Geo
+description: Perform geospatial processing powered by Google's cloud infrastructure.
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-earth-engine/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: Google Earth Engine Javascript SDK
+      homepage_uri: https://developers.google.com/earth-engine/tutorial_api_01
+      source_code_uri: https://github.com/google/earthengine-api
+      platform: JavaScript
+    - name: Google Earth Engine Python SDK by Google
+      homepage_uri: https://developers.google.com/earth-engine/python_install
+      source_code_uri: https://github.com/google/earthengine-api
+      platform: Python
+links:
+    - name: Docs / Website
+      url: https://developers.google.com/earth-engine/

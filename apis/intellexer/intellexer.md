@@ -6,9 +6,9 @@ Processing (NLP) Service including sentiment analysis, content extraction, and l
 **Docs / Website**: http://esapi.intellexer.com/
 
 ## 🧬 Intellexer Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10446)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10446)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10446)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/intellexer/intellexer.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/intellexer/intellexer.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/intellexer/intellexer.yaml)
 
 ## 💬 Intellexer Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

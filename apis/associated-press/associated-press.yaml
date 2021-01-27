@@ -1,0 +1,17 @@
+name: Associated Press
+slug: associated-press
+categories:
+    - News & Feeds
+    - Images & Photography
+description: AP Media API Get all your AP multimedia content in one place Access the content programmatically via the API or use the AP Media Agent to download content automatically. Currently using AP WebFeeds
+is_free: false
+type: REST
+is_active: true
+libraries:
+    - name: Associated Press Ruby Library by Jay Boice
+      homepage_uri: https://github.com/huffpostdata/ap-election-loader
+      source_code_uri: ""
+      platform: Ruby
+links:
+    - name: Docs / Website
+      url: https://developer.ap.org/

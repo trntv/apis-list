@@ -1,0 +1,63 @@
+name: Google Analytics
+slug: google-analytics
+categories:
+    - Business
+    - Analytics
+description: Google Analytics provides APIs to collect, configure, and report on user-interactions with your online content. Collect, configure, and analyze your data to reach the right audience
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-analytics/logo_256x256.png
+type: REST
+contact: support@goog.io
+is_active: true
+libraries:
+    - name: Google Analytics Web Tracking iOS SDK
+      homepage_uri: https://developers.google.com/analytics/devguides/collection/firebase/ios/
+      source_code_uri: ""
+      platform: Objective-C
+    - name: Google Analytics Web Tracking Android SDK
+      homepage_uri: https://developers.google.com/analytics/devguides/collection/firebase/android/
+      source_code_uri: ""
+      platform: Java
+    - name: Google Analytics Node SDK by jsguy
+      homepage_uri: https://www.npmjs.com/package/ga-api
+      source_code_uri: https://github.com/jsguy/ga-api
+      platform: Node.js
+    - name: Google Analytics Java SDK by Google
+      homepage_uri: https://developers.google.com/analytics/devguides/collection/android/v4/
+      source_code_uri: ""
+      platform: Java
+    - name: 'Google Analytics Management Python Library by Google '
+      homepage_uri: https://developers.google.com/api-client-library/python/
+      source_code_uri: ""
+      platform: Python
+    - name: Google Analytics Management PHP Library by Google
+      homepage_uri: https://developers.google.com/api-client-library/php/
+      source_code_uri: ""
+      platform: PHP
+    - name: Google Analytics Management Objective-C Library by Google
+      homepage_uri: https://code.google.com/p/google-api-objectivec-client/
+      source_code_uri: ""
+      platform: Objective-C
+    - name: Google Analytics Management JavaScript Library by Google
+      homepage_uri: https://developers.google.com/api-client-library/javascript/start/start-js
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Google Analytics Management .NET Library by Google
+      homepage_uri: https://developers.google.com/api-client-library/dotnet/get_started
+      source_code_uri: ""
+      platform: .Net
+    - name: Google Analytics Core Reporting Java Library by Google
+      homepage_uri: https://developers.google.com/analytics/devguides/reporting/core/v2/gdataJava
+      source_code_uri: ""
+      platform: Java
+    - name: Google Universal Analytics Web Tracking Java Library by Google
+      homepage_uri: https://developers.google.com/analytics/devguides/collection/analyticsjs/
+      source_code_uri: https://developers.google.com/analytics/devguides/collection/analyticsjs/
+      platform: Java
+    - name: Google Analytics Java Library
+      homepage_uri: https://developers.google.com/api-client-library/java/apis/analytics/v3
+      source_code_uri: ""
+      platform: Java
+links:
+    - name: Docs / Website
+      url: https://developers.google.com/analytics/?hl=en

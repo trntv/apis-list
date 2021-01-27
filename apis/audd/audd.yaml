@@ -1,0 +1,16 @@
+name: AudD
+slug: audd
+categories:
+    - Recognition
+    - Music & Audio
+    - Development
+    - Entertainment
+    - AI & ML
+description: 'AudD Music Recognition API Docs: how to identify songs in audio using our API'
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/audd/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://docs.audd.io/

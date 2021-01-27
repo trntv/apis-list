@@ -6,9 +6,9 @@ Specializes in mobile and web payment systems for ecommerce companies. Braintree
 **Docs / Website**: https://developers.braintreepayments.com
 
 ## 🧬 Braintree Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2149)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2149)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2149)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/braintree/braintree.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/braintree/braintree.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/braintree/braintree.yaml)
 
 ## 💬 Braintree Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

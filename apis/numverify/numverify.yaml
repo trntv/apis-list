@@ -1,0 +1,12 @@
+name: numverify
+slug: numverify
+categories:
+    - Validation & Verification
+description: Free, powerful JSON API offering international and national phone number validation and carrier, location and line type lookup for developers and businesses.
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/numverify/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://numverify.com

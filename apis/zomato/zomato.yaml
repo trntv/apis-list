@@ -1,0 +1,19 @@
+name: Zomato
+slug: zomato
+categories:
+    - Point of Interest
+    - Social
+    - Food & Drinks
+description: Zomato API. 5 million restaurants across 10,000 cities globally.
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/zomato/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: Zomato PHP SDK by Ruben Arakelyan
+      homepage_uri: https://packagist.org/packages/rubenarakelyan/zomato-api-php
+      source_code_uri: https://github.com/rubenarakelyan/zomato-api-php
+      platform: PHP
+links:
+    - name: Docs / Website
+      url: https://developers.zomato.com/api

@@ -1,0 +1,113 @@
+name: Quandl
+slug: quandl
+categories:
+    - Finance & Economics
+description: The source for financial, economic, and alternative datasets, serving investment professionals.
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/quandl/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: QuandlAPIClient Swift SDK by suzhoupanda
+      homepage_uri: https://github.com/suzhoupanda/QuandlAPIClient
+      source_code_uri: ""
+      platform: Swift
+    - name: Quandl Python SDK by Samvaran Sharma
+      homepage_uri: https://github.com/samvaran/historical_stock_data
+      source_code_uri: ""
+      platform: Python
+    - name: Quandl .NET SDK by Marissa
+      homepage_uri: https://github.com/paranoidTwitch/DotNetConnect.Quandl
+      source_code_uri: ""
+      platform: .Net
+    - name: Quandl Python SDK by Jyoti_Shambho
+      homepage_uri: https://github.com/JSidh/legendary-ttf
+      source_code_uri: ""
+      platform: Python
+    - name: Quandl Python SDK by Beiwen Liu
+      homepage_uri: https://github.com/BeiwenLiu/StockUp
+      source_code_uri: ""
+      platform: Python
+    - name: Quandl Java SDK by Thomas Schlabra
+      homepage_uri: https://github.com/TexanBackpacker/securities-data-calculator
+      source_code_uri: ""
+      platform: Java
+    - name: Quandl JavaScript SDK by dlimx
+      homepage_uri: https://github.com/dlimx/stock-vis
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Quandl Annual Company Data Python SDK by adubashi
+      homepage_uri: https://github.com/adubashi/annualCompanyData
+      source_code_uri: ""
+      platform: Python
+    - name: Quandl Python SDK by Spencer Delcore
+      homepage_uri: https://github.com/sdelcore/quandl-retriever
+      source_code_uri: ""
+      platform: Python
+    - name: Quandl Go SDK by tchitchikov
+      homepage_uri: https://github.com/tchitchikov/instant_cocoa
+      source_code_uri: ""
+      platform: Go
+    - name: Quandl Scala SDK by Kaiwalya Kher
+      homepage_uri: https://github.com/kaiwalya/scandl
+      source_code_uri: ""
+      platform: Scala
+    - name: Quandl JavaScript SDK by Ian Halverson
+      homepage_uri: https://github.com/IDHalverson/quandl-eod-helper
+      source_code_uri: https://www.npmjs.com/package/quandl-eod-helper
+      platform: JavaScript
+    - name: Quandl JavaScript SDK by Jerry Hamlet
+      homepage_uri: https://github.com/jhamlet/quandler
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Quandl React Native SDK by azaleas
+      homepage_uri: https://github.com/azaleas/react-native-stockticker
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Quandl Python SDK by TommyRedblue
+      homepage_uri: https://github.com/TommyRedblue/quandl_viewer
+      source_code_uri: ""
+      platform: Python
+    - name: Quandl PHP SDK by wells5609
+      homepage_uri: https://github.com/wells5609/Quandl-PHP
+      source_code_uri: ""
+      platform: PHP
+    - name: Quandl Go SDK by Cédric
+      homepage_uri: https://github.com/cedricmar/go-quandl
+      source_code_uri: ""
+      platform: Go
+    - name: Quandl Haskell SDK by Rogério Chaves
+      homepage_uri: https://github.com/rogeriochaves/quandl-downloader
+      source_code_uri: ""
+      platform: Haskell
+    - name: Quandl Go SDK by twold
+      homepage_uri: https://github.com/twold/go-quandl
+      source_code_uri: ""
+      platform: Go
+    - name: Quandl Python SDK by Steven Gao
+      homepage_uri: https://github.com/stevenlusonggao/Quandl-Python-API-Wrapper
+      source_code_uri: ""
+      platform: Python
+    - name: Quandl JavaScript SDK by Yash Paliwal
+      homepage_uri: https://github.com/ypaliwal/quandlVisualizer
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Quandl Ruby SDK by erikwjonsson
+      homepage_uri: https://github.com/erikwjonsson/quandl_api_client
+      source_code_uri: ""
+      platform: Ruby
+    - name: Quandl Clojure SDK by keorn
+      homepage_uri: https://github.com/keorn/clj-quandl-api
+      source_code_uri: ""
+      platform: Clojure
+    - name: Quandl Python SDK by Carlos Christian Salazar
+      homepage_uri: https://github.com/ccsalazar/quandl-api
+      source_code_uri: ""
+      platform: Python
+    - name: Quandl C++ SDK by Daniel Cardenas
+      homepage_uri: https://github.com/danielcardeenas/quandl-cpp
+      source_code_uri: ""
+      platform: C++
+links:
+    - name: Docs / Website
+      url: https://www.quandl.com/

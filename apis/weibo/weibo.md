@@ -6,16 +6,16 @@
 **Docs / Website**: http://open.weibo.com/wiki/API%E6%96%87%E6%A1%A3/en
 
 ## 🧬 Weibo Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21730)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21730)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21730)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/weibo/weibo.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/weibo/weibo.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/weibo/weibo.yaml)
 
 ## 💬 Weibo Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21730)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/weibo/weibo.yaml)    
 
 
 ## 🗄️ Categories:

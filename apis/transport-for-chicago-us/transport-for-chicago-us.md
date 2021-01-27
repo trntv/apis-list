@@ -8,16 +8,16 @@ The CTA's Developer Center offers a variety of data feeds that allow anyone to d
 **Docs / Website**: http://www.transitchicago.com/developers/
 
 ## 🧬 Transportation in Chicago, USA Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19710)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19710)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19710)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-chicago-us/transport-for-chicago-us.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-chicago-us/transport-for-chicago-us.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-chicago-us/transport-for-chicago-us.yaml)
 
 ## 💬 Transportation in Chicago, USA Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19710)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-chicago-us/transport-for-chicago-us.yaml)    
 
 
 ## 🗄️ Categories:

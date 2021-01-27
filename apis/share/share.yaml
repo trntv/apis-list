@@ -1,0 +1,11 @@
+name: SHARE
+slug: share
+categories:
+    - Science & Math
+description: SHARE is a higher education initiative whose mission is to maximize research impact by making research widely accessible, discoverable, and reusable
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: http://share-research.readthedocs.io/en/latest/

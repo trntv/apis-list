@@ -1,0 +1,81 @@
+name: GitLab
+slug: gitlab
+categories:
+    - Open Source
+    - Project Management
+    - Development
+    - Collaboration
+description: Access to GitLab's API. Documentation for GitLab Community Edition, GitLab Enterprise Edition, Omnibus GitLab, and GitLab Runner
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/gitlab/logo_256x256.png
+type: REST
+contact: support@graphhopper.com
+is_active: true
+libraries:
+    - name: Gitlab Node.js SDK by jdalrymple
+      homepage_uri: https://github.com/jdalrymple/node-gitlab-api
+      source_code_uri: ""
+      platform: Node.js
+    - name: GitLab PHP SDK by neilime
+      homepage_uri: https://github.com/neilime/php-gitlab-api
+      source_code_uri: ""
+      platform: PHP
+    - name: GitLab PHP SDK by benmag
+      homepage_uri: https://packagist.org/packages/benmag/php-gitlab-api
+      source_code_uri: https://github.com/benmag/php-gitlab-api
+      platform: PHP
+    - name: GitLab Java SDK by Tim Olshansky
+      homepage_uri: https://github.com/timols/java-gitlab-api
+      source_code_uri: ""
+      platform: Java
+    - name: GitLab Swift SDK by Orih
+      homepage_uri: https://github.com/orih/GitLabKit
+      source_code_uri: ""
+      platform: Swift
+    - name: GitLab .Net SDK by Szymon Kulec
+      homepage_uri: https://github.com/Scooletz/NGitLab
+      source_code_uri: ""
+      platform: .Net
+    - name: GitLab PHP SDK by Adam Engebretson
+      homepage_uri: https://github.com/adamgoose/gitlab
+      source_code_uri: ""
+      platform: PHP
+    - name: GitLab JavaScript SDK by sahilsk
+      homepage_uri: https://github.com/sahilsk/Gitlab-YAAC
+      source_code_uri: ""
+      platform: JavaScript
+    - name: GitLab Go SDK by Bugagazavr
+      homepage_uri: https://github.com/Bugagazavr/go-gitlab-client
+      source_code_uri: ""
+      platform: Go
+    - name: GitLab PHP SDK by Matt Humphrey
+      homepage_uri: https://github.com/m4tthumphrey/php-gitlab-api
+      source_code_uri: ""
+      platform: PHP
+    - name: GitLab Backbone.js SDK by O'Reilly Media
+      homepage_uri: https://github.com/oreillymedia/backbone-gitlab/
+      source_code_uri: ""
+      platform: Backbone.js
+    - name: GitLab Node.js SDK by GitLab
+      homepage_uri: https://www.npmjs.com/package/gitlab
+      source_code_uri: https://github.com/node-gitlab/node-gitlab
+      platform: Node.js
+    - name: GitLab Perl SDK by Aran Deltac
+      homepage_uri: https://github.com/bluefeet/GitLab-API-v3
+      source_code_uri: ""
+      platform: PERL
+    - name: GitLab Ruby SDK by Nihad Abbasov
+      homepage_uri: https://github.com/NARKOZ/gitlab
+      source_code_uri: ""
+      platform: Ruby
+    - name: GitLab Python SDK by Itxaka
+      homepage_uri: https://github.com/Itxaka/pyapi-gitlab
+      source_code_uri: ""
+      platform: Python
+    - name: GitLab Python SDK by Gauvain Pocentek
+      homepage_uri: https://github.com/gpocentek/python-gitlab
+      source_code_uri: ""
+      platform: Python
+links:
+    - name: Docs / Website
+      url: https://docs.gitlab.com/ce/api/README.html

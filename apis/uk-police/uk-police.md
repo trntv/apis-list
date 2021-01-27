@@ -6,9 +6,9 @@ Police API Documentation The API provides a rich data source for information, in
 **Docs / Website**: https://data.police.uk/docs/
 
 ## 🧬 UK Police Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20571)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20571)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20571)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/uk-police/uk-police.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/uk-police/uk-police.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/uk-police/uk-police.yaml)
 
 ## 💬 UK Police Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

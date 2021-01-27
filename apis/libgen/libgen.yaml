@@ -1,0 +1,11 @@
+name: LibGen
+slug: libgen
+categories:
+    - Books
+description: An English-language guide to using the LibGen API. An English-language guide to using the LibGen API
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://garbage.world/posts/libgen/

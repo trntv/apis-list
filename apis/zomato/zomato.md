@@ -8,9 +8,9 @@ Zomato API. 5 million restaurants across 10,000 cities globally.
 **Docs / Website**: https://developers.zomato.com/api
 
 ## 🧬 Zomato Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23015)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23015)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23015)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/zomato/zomato.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/zomato/zomato.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/zomato/zomato.yaml)
 
 ## 💬 Zomato Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

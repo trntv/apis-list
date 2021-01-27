@@ -1,0 +1,12 @@
+name: Whatsapp Document Interaction
+slug: whatsapp-document-interaction
+categories:
+    - Social
+description: Universal links are the preferred method of linking to a WhatsApp account.
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/whatsapp-document-interaction/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://faq.whatsapp.com/en/iphone/23559013

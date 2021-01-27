@@ -8,16 +8,16 @@ Taiwan's open data and public service APIs
 **Docs / Website**: https://data.gov.tw/
 
 ## 🧬 Open Government, Taiwan Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14116)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14116)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14116)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-government-taiwan/open-government-taiwan.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-government-taiwan/open-government-taiwan.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-government-taiwan/open-government-taiwan.yaml)
 
 ## 💬 Open Government, Taiwan Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14116)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-government-taiwan/open-government-taiwan.yaml)    
 
 
 ## 🗄️ Categories:

@@ -8,16 +8,16 @@ Access to Mercurial’s API. Note: This page is primarily intended for developer
 **Docs / Website**: https://www.mercurial-scm.org/wiki/MercurialApi
 
 ## 🧬 Mercurial Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12310)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12310)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12310)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mercurial/mercurial.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mercurial/mercurial.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mercurial/mercurial.yaml)
 
 ## 💬 Mercurial Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12310)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/mercurial/mercurial.yaml)    
 
 
 ## 🗄️ Categories:

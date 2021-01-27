@@ -8,16 +8,16 @@ Integrate the Ryft ONE’s data analysis capabilities into existing big data env
 **Docs / Website**: http://www.ryft.com/api
 
 ## 🧬 Ryft Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16885)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16885)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16885)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ryft/ryft.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ryft/ryft.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ryft/ryft.yaml)
 
 ## 💬 Ryft Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16885)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/ryft/ryft.yaml)    
 
 
 ## 🗄️ Categories:

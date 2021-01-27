@@ -6,16 +6,16 @@ These data are currently used to distribute around $400 B in Federal, State and 
 **Docs / Website**: https://www.census.gov/data/developers/data-sets.html
 
 ## 🧬 USA Census API'S Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20763)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20763)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20763)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/usa-census-apis/usa-census-apis.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/usa-census-apis/usa-census-apis.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/usa-census-apis/usa-census-apis.yaml)
 
 ## 💬 USA Census API'S Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20763)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/usa-census-apis/usa-census-apis.yaml)    
 
 
 ## 🗄️ Categories:

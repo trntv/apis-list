@@ -6,16 +6,16 @@ Detect the hosting provider powering any web site. API
 **Docs / Website**: https://www.who-hosts-this.com/API
 
 ## 🧬 Who Hosts This Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21883)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21883)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21883)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/who-hosts-this/who-hosts-this.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/who-hosts-this/who-hosts-this.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/who-hosts-this/who-hosts-this.yaml)
 
 ## 💬 Who Hosts This Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21883)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/who-hosts-this/who-hosts-this.yaml)    
 
 
 ## 🗄️ Categories:

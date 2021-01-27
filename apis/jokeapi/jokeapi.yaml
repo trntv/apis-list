@@ -1,0 +1,11 @@
+name: JokeAPI
+slug: jokeapi
+categories:
+    - Fun
+description: JokeAPI is a RESTful API that serves jokes from many categories while also offering a lot of filtering methods
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://sv443.net/jokeapi/v2/

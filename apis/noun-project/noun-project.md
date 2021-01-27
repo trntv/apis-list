@@ -6,9 +6,9 @@ Grab a hold of the World’s Visual Language! Use it in your service or applicat
 **Docs / Website**: http://api.thenounproject.com/index.html
 
 ## 🧬 Noun Project Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13582)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13582)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13582)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/noun-project/noun-project.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/noun-project/noun-project.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/noun-project/noun-project.yaml)
 
 ## 💬 Noun Project Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

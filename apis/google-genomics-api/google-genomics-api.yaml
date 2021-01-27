@@ -1,0 +1,12 @@
+name: Google Genomics API
+slug: google-genomics-api
+categories:
+    - Health
+description: Beta This product or feature is covered by the Pre-GA Offerings Terms of the Google Cloud Platform Terms of Service. Pre-GA products and features may have limited support, and changes to pre-GA pro
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-genomics-api/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://cloud.google.com/genomics/reference/rest/

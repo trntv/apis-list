@@ -6,9 +6,9 @@ Yahoo Weather API for your apps Get up-to-date weather information for any locat
 **Docs / Website**: https://developer.yahoo.com/weather/
 
 ## 🧬 Yahoo Weather Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22493)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22493)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22493)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yahoo-weather/yahoo-weather.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yahoo-weather/yahoo-weather.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yahoo-weather/yahoo-weather.yaml)
 
 ## 💬 Yahoo Weather Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

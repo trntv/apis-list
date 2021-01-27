@@ -6,16 +6,16 @@ Provide text, raw HTML, or a public URL and IBM Watson Natural Language Understa
 **Docs / Website**: https://cloud.ibm.com/apidocs/natural-language-understanding/natural-language-understanding
 
 ## 🧬 Watson Natural Language Understanding Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21606)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21606)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21606)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/watson-natural-language-understanding/watson-natural-language-understanding.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/watson-natural-language-understanding/watson-natural-language-understanding.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/watson-natural-language-understanding/watson-natural-language-understanding.yaml)
 
 ## 💬 Watson Natural Language Understanding Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21606)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/watson-natural-language-understanding/watson-natural-language-understanding.yaml)    
 
 
 ## 🗄️ Categories:

@@ -1,0 +1,11 @@
+name: NASA APOD (unofficial API)
+slug: nasa-apod-unofficial-api
+categories:
+    - Science & Math
+description: What's this API for? This API is for fetching data from NASA's APOD website - a popular service showing the most beautiful astronomical photographs in the world. The data is returned in JSON format
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://apodapi.herokuapp.com/

@@ -1,0 +1,71 @@
+name: Cloudinary
+slug: cloudinary
+categories:
+    - Video & Media
+    - Images & Photography
+    - Files & Storage
+description: API for image and video storage and manipulation - free for up to 75,000 images and 7,500 manipulations per month, good documentation, it can also manipulate GIFs and PDFs. Search for Developer and DAM how-to info, find out What's New, learn about our Framework SDKs, Add-ons, and Integrations, watch video tutorials, and more
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cloudinary/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: Cloudinary Scala SDK by Cloudinary
+      homepage_uri: https://github.com/cloudinary/cloudinary_scala/blob/master/README.md
+      source_code_uri: https://github.com/cloudinary/cloudinary_scala
+      platform: Scala
+    - name: Cloudinary AngularJS SDK by Cloudinary
+      homepage_uri: https://github.com/cloudinary/cloudinary_angular/wiki
+      source_code_uri: https://github.com/cloudinary/cloudinary_angular
+      platform: Node.js
+    - name: Cloudinary iOS SDK by Cloudinary
+      homepage_uri: https://github.com/cloudinary/cloudinary_ios/blob/master/README.md
+      source_code_uri: https://github.com/cloudinary/cloudinary_ios
+      platform: Swift
+    - name: Cloudinary Android SDK by Cloudinary
+      homepage_uri: https://github.com/cloudinary/cloudinary_java/blob/master/cloudinary-android/README.md
+      source_code_uri: https://github.com/cloudinary/cloudinary_java/tree/master/cloudinary-android
+      platform: Java
+    - name: Cloudinary NodeJS SDK by Cloudinary
+      homepage_uri: http://cloudinary.com/documentation/node_integration
+      source_code_uri: https://github.com/cloudinary/cloudinary_npm
+      platform: Node.js
+    - name: Cloudinary .NET SDK by Cloudinary
+      homepage_uri: http://cloudinary.com/documentation/dotnet_image_upload#server_side_upload
+      source_code_uri: ""
+      platform: .Net
+    - name: Cloudinary Java SDK by Cloudinary
+      homepage_uri: http://cloudinary.com/documentation/java_image_upload#server_side_upload
+      source_code_uri: ""
+      platform: Java
+    - name: Cloudinary Node.js SDK by Cloudinary
+      homepage_uri: http://cloudinary.com/documentation/node_image_upload#server_side_upload
+      source_code_uri: ""
+      platform: Node.js
+    - name: Cloudinary PHP SDK by Cloudinary
+      homepage_uri: http://cloudinary.com/documentation/php_image_upload#server_side_upload
+      source_code_uri: ""
+      platform: PHP
+    - name: Cloudinary Ruby SDK by Cloudinary
+      homepage_uri: http://cloudinary.com/documentation/rails_image_upload#server_side_upload
+      source_code_uri: ""
+      platform: Ruby
+    - name: Cloudinary Ruby Library for Ruby on Rails Framework
+      homepage_uri: https://cloudinary.com/documentation/rails_integration
+      source_code_uri: ""
+      platform: Ruby
+    - name: Cloudinary Python Library for Django Framework
+      homepage_uri: https://cloudinary.com/documentation/django_integration
+      source_code_uri: ""
+      platform: Python
+    - name: Cloudinary React JavaScript Library for React Framework
+      homepage_uri: https://github.com/cloudinary/cloudinary-react
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Cloudinary JavaScript Library for jQuery Framework
+      homepage_uri: https://cloudinary.com/documentation/jquery_integration
+      source_code_uri: ""
+      platform: JavaScript
+links:
+    - name: Docs / Website
+      url: http://cloudinary.com/documentation

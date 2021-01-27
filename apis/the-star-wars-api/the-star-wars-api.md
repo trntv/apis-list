@@ -8,16 +8,16 @@ All the Star Wars data you've ever wanted: Planets, Spaceships, Vehicles, People
 **Docs / Website**: https://swapi.co
 
 ## 🧬 The Star Wars Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19325)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19325)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19325)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-star-wars-api/the-star-wars-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-star-wars-api/the-star-wars-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-star-wars-api/the-star-wars-api.yaml)
 
 ## 💬 The Star Wars Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19325)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-star-wars-api/the-star-wars-api.yaml)    
 
 
 ## 🗄️ Categories:

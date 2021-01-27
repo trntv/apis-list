@@ -1,0 +1,12 @@
+name: Web Of Trust (WOT)
+slug: web-of-trust-wot
+categories:
+    - Security
+description: The WOT reputation system computes website reputations using ratings received from users and information from third-party sources.
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/web-of-trust-wot/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://support.mywot.com/hc/en-us/articles/360024398673-3-Using-the-API

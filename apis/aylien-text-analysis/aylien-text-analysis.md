@@ -6,9 +6,9 @@ Explore AYLIEN’s advanced NLP APIs. Explore AYLIEN’s advanced NLP APIs
 **Docs / Website**: http://docs.aylien.com/
 
 ## 🧬 Aylien Text Analysis Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1095)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1095)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1095)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/aylien-text-analysis/aylien-text-analysis.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/aylien-text-analysis/aylien-text-analysis.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/aylien-text-analysis/aylien-text-analysis.yaml)
 
 ## 💬 Aylien Text Analysis Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

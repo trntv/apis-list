@@ -6,16 +6,16 @@ Welcome to the city-wide port. Here the municipality of the capital, contributor
 **Docs / Website**: http://opendata.praha.eu/en
 
 ## 🧬 City, Prague Opendata Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3169)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3169)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3169)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/city-prague-opendata/city-prague-opendata.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/city-prague-opendata/city-prague-opendata.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/city-prague-opendata/city-prague-opendata.yaml)
 
 ## 💬 City, Prague Opendata Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3169)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/city-prague-opendata/city-prague-opendata.yaml)    
 
 
 ## 🗄️ Categories:

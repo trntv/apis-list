@@ -1,0 +1,12 @@
+name: Transportation in Boston, USA
+slug: transport-for-boston-us
+categories:
+    - Transportation
+description: Official website of the MBTA -- schedules, maps, and fare information for Greater Boston's public transportation system, including subway, commuter rail, bus routes, and boat lines
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-boston-us/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://mbta.com/developers/v3-api

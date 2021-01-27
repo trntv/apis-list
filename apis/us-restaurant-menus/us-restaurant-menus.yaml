@@ -1,0 +1,13 @@
+name: US Restaurant Menus
+slug: us-restaurant-menus
+categories:
+    - Food & Drinks
+    - Business
+    - Point of Interest
+description: Database of over 300,000 restaurant menus and over 30,000,000 Individual Menu Items
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/us-restaurant-menus/logo_256x256.png
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://rapidapi.com/restaurantmenus/api/restaurant-menus

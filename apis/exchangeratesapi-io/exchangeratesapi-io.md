@@ -6,16 +6,16 @@ Exchange rates API is a free service for current and historical foreign exchange
 **Docs / Website**: https://exchangeratesapi.io/
 
 ## 🧬 ExchangeRatesAPI.io Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6063)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6063)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6063)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/exchangeratesapi-io/exchangeratesapi-io.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/exchangeratesapi-io/exchangeratesapi-io.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/exchangeratesapi-io/exchangeratesapi-io.yaml)
 
 ## 💬 ExchangeRatesAPI.io Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6063)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/exchangeratesapi-io/exchangeratesapi-io.yaml)    
 
 
 ## 🗄️ Categories:

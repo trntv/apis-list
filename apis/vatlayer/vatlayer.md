@@ -8,16 +8,16 @@ Free and HTTPS secured JSON API offering instant VAT number validation, reliable
 **Docs / Website**: https://vatlayer.com
 
 ## 🧬 vatlayer Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23523)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23523)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23523)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/vatlayer/vatlayer.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/vatlayer/vatlayer.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/vatlayer/vatlayer.yaml)
 
 ## 💬 vatlayer Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23523)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/vatlayer/vatlayer.yaml)    
 
 
 ## 🗄️ Categories:

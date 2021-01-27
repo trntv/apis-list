@@ -1,0 +1,12 @@
+name: SpeechText.AI API
+slug: speechtext-ai-api
+categories:
+    - AI & ML
+description: Cloud Speech Recognition API. Transform speech to text with high accuracy in multiple languages. Generate summaries with important highlights from audio and video files. Start for free
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/speechtext-ai-api/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://speechtext.ai/speech-recognition-api

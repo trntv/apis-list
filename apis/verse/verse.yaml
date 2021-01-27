@@ -1,0 +1,10 @@
+name: Verse
+slug: verse
+categories:
+    - Development
+description: Check what's the latest version of your favorite open-source project. 無効なURLです。 プログラム設定の反映待ちである可能性があります。 しばらく時間をおいて再度アクセスをお試しください。
+is_free: false
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://verse.pawelad.xyz/

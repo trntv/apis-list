@@ -8,9 +8,9 @@ No bulk. That means your app's email isn't stuck waiting behind 500,000 copies o
 **Docs / Website**: https://postmarkapp.com/developer
 
 ## 🧬 Postmark Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15430)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15430)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15430)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/postmark/postmark.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/postmark/postmark.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/postmark/postmark.yaml)
 
 ## 💬 Postmark Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

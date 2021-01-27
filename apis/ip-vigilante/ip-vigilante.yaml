@@ -1,0 +1,12 @@
+name: IP Vigilante
+slug: ip-vigilante
+categories:
+    - Post & Logistics
+    - Maps & Geo
+description: 'IP Vigilante provides a free geographical IP locator API, so the developers can obtain geographical information of an IP in various formats: JSON and CSV'
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://www.ipvigilante.com/

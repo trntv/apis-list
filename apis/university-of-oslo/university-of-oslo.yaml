@@ -1,0 +1,11 @@
+name: University of Oslo
+slug: university-of-oslo
+categories:
+    - Education
+description: University of Oslo
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://data.uio.no/

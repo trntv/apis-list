@@ -8,16 +8,16 @@ Get data from Google Spreadsheet in a matter of seconds. You can copy the HTML S
 **Docs / Website**: https://docs.sheetsu.com
 
 ## 🧬 Sheetsu Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17367)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17367)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17367)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/sheetsu/sheetsu.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/sheetsu/sheetsu.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/sheetsu/sheetsu.yaml)
 
 ## 💬 Sheetsu Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17367)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/sheetsu/sheetsu.yaml)    
 
 
 ## 🗄️ Categories:

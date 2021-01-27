@@ -1,0 +1,13 @@
+name: Colorado Information Marketplace
+slug: colorado-information-marketplace
+categories:
+    - Government
+    - Statistics & Data
+description: Dive into Colorado’s water, including wells, surface water conditions, and water rights. Analyze Colorado’s business entities, DBAs, tax, and UCC filing information
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/colorado-information-marketplace/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://data.colorado.gov/

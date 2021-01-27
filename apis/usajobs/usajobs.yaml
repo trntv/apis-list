@@ -1,0 +1,13 @@
+name: USAJOBS
+slug: usajobs
+categories:
+    - Jobs
+    - Government
+description: USAJOBS API. USAJOBS is a United States Office of Personnel Management website
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/usajobs/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://developer.usajobs.gov/

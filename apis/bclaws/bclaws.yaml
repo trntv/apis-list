@@ -1,0 +1,11 @@
+name: BCLaws
+slug: bclaws
+categories:
+    - Government
+description: CiviX Server is an electronic library providing free public access to law and bylaw content of British Columbia. CiviX Server contains a comprehensive collection of BC Provincial legislation, civic bylaw content and related policy and legislative materials.
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: http://www.bclaws.ca/civix/template/complete/api/index.html

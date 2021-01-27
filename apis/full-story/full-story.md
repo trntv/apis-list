@@ -6,16 +6,16 @@ Capture every user event across your application with Full Story, it is an advan
 **Docs / Website**: https://developer.fullstory.com/introduction
 
 ## 🧬 Full Story Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7289)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7289)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7289)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/full-story/full-story.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/full-story/full-story.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/full-story/full-story.yaml)
 
 ## 💬 Full Story Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7289)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/full-story/full-story.yaml)    
 
 
 ## 🗄️ Categories:

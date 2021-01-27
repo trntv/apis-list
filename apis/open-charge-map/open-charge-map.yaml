@@ -1,0 +1,14 @@
+name: Open Charge Map
+slug: open-charge-map
+categories:
+    - Environment & Nature
+    - Vehicles
+    - Maps & Geo
+description: Open Charge Map is a non-commercial, non-profit, electric vehicle data service hosted and supported by a community of businesses, charities, developers and interested parties around the world.
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/open-charge-map/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://openchargemap.org/site/develop/api

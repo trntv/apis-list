@@ -1,0 +1,16 @@
+name: Makeup
+slug: makeup
+categories:
+    - Other
+description: Search makeup products
+is_free: false
+type: REST
+is_active: true
+libraries:
+    - name: Makeup Go SDK by Ryan Christiani
+      homepage_uri: https://github.com/Rchristiani/gomakeup
+      source_code_uri: ""
+      platform: Go
+links:
+    - name: Docs / Website
+      url: http://makeup-api.herokuapp.com/

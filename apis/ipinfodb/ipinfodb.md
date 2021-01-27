@@ -8,16 +8,16 @@ Free Geolocation tools and APIs for country, region, city and time zone lookup b
 **Docs / Website**: https://ipinfodb.com/api
 
 ## 🧬 IPInfoDB Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9950)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9950)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9950)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ipinfodb/ipinfodb.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ipinfodb/ipinfodb.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ipinfodb/ipinfodb.yaml)
 
 ## 💬 IPInfoDB Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9950)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/ipinfodb/ipinfodb.yaml)    
 
 
 ## 🗄️ Categories:

@@ -6,16 +6,16 @@ The Mapbox Maps API reads and renders raster map tilesets and vector map tileset
 **Docs / Website**: https://docs.mapbox.com/api/
 
 ## 🧬 Mapbox Maps API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12039)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12039)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12039)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mapbox-maps-api/mapbox-maps-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mapbox-maps-api/mapbox-maps-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mapbox-maps-api/mapbox-maps-api.yaml)
 
 ## 💬 Mapbox Maps API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12039)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/mapbox-maps-api/mapbox-maps-api.yaml)    
 
 
 ## 🗄️ Categories:

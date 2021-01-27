@@ -1,0 +1,11 @@
+name: Shrtlnk.dev
+slug: shrtlnk-dev
+categories:
+    - URLs
+description: URL shortener API
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://shrtlnk.dev/developer

@@ -1,0 +1,28 @@
+name: Travis CI
+slug: travis-ci
+categories:
+    - Development
+description: If you’re new to the Travis CI API, you should be using API V3. The API V2 described on this page will be deprecated so. Overview API V3 Our most recent API is V3, which is has its own API Explorer
+is_free: false
+type: REST
+is_active: true
+libraries:
+    - name: Travis CI Elixir SDK by Hugo Duksis
+      homepage_uri: https://github.com/duksis/travis_ex
+      source_code_uri: ""
+      platform: Elixir
+    - name: Travis CI Python SDK by Fabio Menegazzo
+      homepage_uri: https://github.com/menegazzo/travispy
+      source_code_uri: ""
+      platform: Python
+    - name: Travis CI Ruby SDK
+      homepage_uri: https://github.com/travis-ci/travis.rb
+      source_code_uri: ""
+      platform: Ruby
+    - name: Travis CI Ember Web JavaScript SDK
+      homepage_uri: https://github.com/travis-ci/travis-web
+      source_code_uri: ""
+      platform: JavaScript
+links:
+    - name: Docs / Website
+      url: https://docs.travis-ci.com/api/

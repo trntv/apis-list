@@ -6,16 +6,16 @@ LCBO API is open source now, find it on GitHub: heycarsten/lcbo-api
 **Docs / Website**: https://lcboapi.com/
 
 ## 🧬 LCBO Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10932)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10932)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10932)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lcbo/lcbo.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lcbo/lcbo.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lcbo/lcbo.yaml)
 
 ## 💬 LCBO Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10932)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/lcbo/lcbo.yaml)    
 
 
 ## 🗄️ Categories:

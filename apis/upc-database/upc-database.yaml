@@ -1,0 +1,13 @@
+name: UPC database
+slug: upc-database
+categories:
+    - Commerce
+    - Bar & QR Codes
+description: Database contains a mixture of barcode types from the standard UPC numbering system, the worldwide EAN numbering system, and the Bookland numbering system. This database provides information such as the product name, price, quantity, and manufacturer. UPCDatabase also takes this one step further by providing an image of the item, a rating system, and a product alias for shopping list applications.
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/upc-database/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://upcdatabase.org/api

@@ -6,16 +6,16 @@ United States Environmental Protection Agency API
 **Docs / Website**: https://developer.epa.gov/category/apis/
 
 ## 🧬 EPA Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5742)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5742)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5742)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/epa/epa.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/epa/epa.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/epa/epa.yaml)
 
 ## 💬 EPA Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5742)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/epa/epa.yaml)    
 
 
 ## 🗄️ Categories:

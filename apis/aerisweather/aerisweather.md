@@ -6,9 +6,9 @@ AerisWeather provides a powerful weather API, mapping platform, and developer to
 **Docs / Website**: https://www.aerisweather.com
 
 ## 🧬 AerisWeather Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L404)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L404)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L404)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/aerisweather/aerisweather.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/aerisweather/aerisweather.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/aerisweather/aerisweather.yaml)
 
 ## 💬 AerisWeather Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

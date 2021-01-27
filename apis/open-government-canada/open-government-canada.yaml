@@ -1,0 +1,12 @@
+name: Open Government, Canada
+slug: open-government-canada
+categories:
+    - Government
+    - Statistics & Data
+description: Collaborative open source project led by the Government of Canada
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: http://open.canada.ca/en

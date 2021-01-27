@@ -1,0 +1,13 @@
+name: Lob.com
+slug: lob-com
+categories:
+    - Validation & Verification
+    - Email & SMS
+description: Lob provides direct mail and address verification APIs that allow businesses to send timely, personalized, automated offline communications to their customers
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/lob-com/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://lob.com/

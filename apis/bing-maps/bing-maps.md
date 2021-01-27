@@ -6,9 +6,9 @@ Bing Maps platform provides multiple API options for your application. Explore B
 **Docs / Website**: https://www.microsoft.com/maps/choose-your-bing-maps-API.aspx
 
 ## 🧬 Bing Maps Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1498)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1498)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1498)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bing-maps/bing-maps.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bing-maps/bing-maps.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bing-maps/bing-maps.yaml)
 
 ## 💬 Bing Maps Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

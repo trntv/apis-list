@@ -8,16 +8,16 @@ Wikidata is a free and open knowledge base that can be read and edited by both h
 **Docs / Website**: https://www.wikidata.org/w/api.php?action=help
 
 ## 🧬 Wikidata Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21894)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21894)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21894)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wikidata/wikidata.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wikidata/wikidata.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wikidata/wikidata.yaml)
 
 ## 💬 Wikidata Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21894)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/wikidata/wikidata.yaml)    
 
 
 ## 🗄️ Categories:

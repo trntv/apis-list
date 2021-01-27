@@ -8,16 +8,16 @@ The best way to gather anyone’s documents, directly from your app & without ha
 **Docs / Website**: https://clustdoc.com/developers
 
 ## 🧬 Clust Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3583)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3583)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3583)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/clust/clust.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/clust/clust.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/clust/clust.yaml)
 
 ## 💬 Clust Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3583)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/clust/clust.yaml)    
 
 
 ## 🗄️ Categories:

@@ -1,0 +1,12 @@
+name: Glosbe API
+slug: glosbe-api
+categories:
+    - Content & Dictionaries
+description: Dictionary API and Translation Memory API description. Application Programming Interface of Glosbe gives you free access to several mono- and bilingual Dictionaries and Translation Memories
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/glosbe-api/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://glosbe.com/a-api

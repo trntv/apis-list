@@ -1,0 +1,11 @@
+name: API Test Center
+slug: api-test-center
+categories:
+    - Other
+description: Innovative License Management Solution
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://netlicensing.io/NetLicensing-API/

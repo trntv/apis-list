@@ -6,16 +6,16 @@ Drupal.org uses the RESTful Web Services module to expose node, comment, user, f
 **Docs / Website**: https://www.drupal.org/drupalorg/docs/api
 
 ## 🧬 Drupal.org Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5660)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5660)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5660)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/drupal-org/drupal-org.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/drupal-org/drupal-org.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/drupal-org/drupal-org.yaml)
 
 ## 💬 Drupal.org Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5660)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/drupal-org/drupal-org.yaml)    
 
 
 ## 🗄️ Categories:

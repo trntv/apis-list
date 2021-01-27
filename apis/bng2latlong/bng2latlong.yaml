@@ -1,0 +1,14 @@
+name: bng2latlong
+slug: bng2latlong
+categories:
+    - Post & Logistics
+    - Maps & Geo
+description: Simple API to convert an OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude.
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/bng2latlong/logo_256x256.png
+type: REST
+contact: info@getthedata.com
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://www.getthedata.com/bng2latlong

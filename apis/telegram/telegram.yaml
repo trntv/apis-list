@@ -1,0 +1,88 @@
+name: Telegram
+slug: telegram
+categories:
+    - Images & Photography
+    - Video & Media
+    - Social
+    - Chats & Messaging
+    - Bots
+description: The Bot API allows you to easily create programs that use Telegram. The Telegram API allows you to build your own customized Telegram clients
+is_free: false
+type: REST
+is_active: true
+libraries:
+    - name: Telegram JavaScript SDK by Maxim Sadofyev
+      homepage_uri: https://github.com/sunriselink/TelegramApi
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Telegram Java SDK by Aykut Alparslan
+      homepage_uri: https://github.com/aykutalparslan/Telegram-Server
+      source_code_uri: ""
+      platform: Java
+    - name: Telegram NodeJS SDK by Enrico Stara
+      homepage_uri: https://github.com/enricostara/telegram.link
+      source_code_uri: https://www.npmjs.com/package/telegram.link
+      platform: JavaScript, Node.js
+    - name: Telegram Java SDK by Ruben Bermudez
+      homepage_uri: https://github.com/rubenlagus/TelegramApi
+      source_code_uri: ""
+      platform: Java
+    - name: Telegram Passport JavaScript SDK
+      homepage_uri: https://core.telegram.org/passport/sdk-javascript
+      source_code_uri: https://github.com/TelegramMessenger/TGPassportJsSDK
+      platform: JavaScript
+    - name: Telegram Passport Android SDK
+      homepage_uri: https://core.telegram.org/passport/sdk-android
+      source_code_uri: https://github.com/TelegramMessenger/TGPassportAndroidSDK
+      platform: Java
+    - name: Telegram Passport iOS SDK
+      homepage_uri: https://core.telegram.org/passport/sdk-ios-mac
+      source_code_uri: https://github.com/TelegramMessenger/TGPassportKit
+      platform: Objective-C
+    - name: VKontakte JavaScript SDK by ejnshtein
+      homepage_uri: https://github.com/ejnshtein/vk-to-telegram
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Telegram C# SDK by TaggersoftDeprecated
+      homepage_uri: ""
+      source_code_uri: ""
+      platform: C#
+    - name: Telegram Android SDK
+      homepage_uri: https://telegram.org/source
+      source_code_uri: https://github.com/DrKLO/Telegram
+      platform: Java
+    - name: Telegram Java SDK by Steve Korshakov
+      homepage_uri: https://github.com/ex3ndr/telegram-api
+      source_code_uri: ""
+      platform: Java
+    - name: Telegram Python Library by Anton Grigoryev
+      homepage_uri: https://github.com/griganton/telepy/blob/master/README.md
+      source_code_uri: https://github.com/griganton/telepy
+      platform: Python
+    - name: Telegram Ruby Library by Platphorm
+      homepage_uri: https://github.com/platphorm/telegram_rb/blob/master/README.md
+      source_code_uri: https://github.com/platphorm/telegram_rb
+      platform: Ruby
+    - name: Telegram JavaScript Library by Enrico Stara
+      homepage_uri: https://www.npmjs.com/package/telegram.link
+      source_code_uri: https://github.com/enricostara/telegram.link
+      platform: JavaScript, Node.js
+    - name: Telegram Java MTProto Library by Stepan Korshakov
+      homepage_uri: https://github.com/ex3ndr/telegram-mt/blob/master/README.md
+      source_code_uri: https://github.com/ex3ndr/telegram-mt
+      platform: Java
+    - name: Telegram Java TL-Builder Library by Stepan Korshakov
+      homepage_uri: https://github.com/ex3ndr/telegram-tl/blob/master/README.md
+      source_code_uri: https://github.com/ex3ndr/telegram-tl
+      platform: Java
+    - name: Telegram Java TypeLanguage Library by Stepan Korshakov
+      homepage_uri: https://github.com/ex3ndr/telegram-tl-core/blob/master/README.md
+      source_code_uri: https://github.com/ex3ndr/telegram-tl-core
+      platform: Java
+    - name: Telegram C# SDK by TaggersoftDeprecated
+      homepage_uri: ""
+      source_code_uri: ""
+      platform: C#
+links:
+    - name: Docs / Website
+      url: https://core.telegram.org/

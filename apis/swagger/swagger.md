@@ -6,16 +6,16 @@ Find out how Swagger can help you and get started today. Simplify API developmen
 **Docs / Website**: http://swagger.io/
 
 ## 🧬 Swagger Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18584)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18584)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18584)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/swagger/swagger.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/swagger/swagger.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/swagger/swagger.yaml)
 
 ## 💬 Swagger Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18584)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/swagger/swagger.yaml)    
 
 
 ## 🗄️ Categories:

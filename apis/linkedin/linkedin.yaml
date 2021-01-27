@@ -1,0 +1,103 @@
+name: LinkedIn
+slug: linkedin
+categories:
+    - Authentication & User Management
+    - Social
+    - Business
+description: Make it convenient for your users to sign in with their professional identity. Learn how to leverage LinkedIn's API to Sign In with LinkedIn
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/linkedin/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: SocialSharesCount Go SDK by Sumesh Suvarna
+      homepage_uri: https://github.com/gssumesh/socialsharescount
+      source_code_uri: ""
+      platform: Go
+    - name: LinkedIn JavaScript SDK by LinkedIn
+      homepage_uri: https://developer.linkedin.com/docs/getting-started-js-sdk
+      source_code_uri: ""
+      platform: JavaScript
+    - name: LinkedIn PHP SDK by Ashwin Surajbali
+      homepage_uri: https://github.com/ashwinks/PHP-LinkedIn-SDK
+      source_code_uri: ""
+      platform: PHP
+    - name: Linkedin Android SDK
+      homepage_uri: https://developer.linkedin.com/
+      source_code_uri: https://developer.linkedin.com/docs/android-sdk
+      platform: Java
+    - name: LinkedIn JavaScript SDK
+      homepage_uri: https://developer.linkedin.com/documents/libraries-and-tools
+      source_code_uri: ""
+      platform: JavaScript
+    - name: LinkedIn PHP Library by Tobias Nyholm
+      homepage_uri: https://github.com/Happyr/LinkedIn-API-client
+      source_code_uri: ""
+      platform: PHP
+    - name: LinkedIn Java Library by 3Pillar Global Labs
+      homepage_uri: https://github.com/3pillarlabs/socialauth
+      source_code_uri: ""
+      platform: Java
+    - name: LinkedIn iOS Library by Hisham Raslan
+      homepage_uri: https://github.com/HishamRaslan/IOS-LinkedIn-Authentication-Library-
+      source_code_uri: ""
+      platform: Objective-C
+    - name: LinkedIn iOS Library by Jacob von Eyben
+      homepage_uri: https://github.com/jeyben/IOSLinkedInAPI
+      source_code_uri: ""
+      platform: Objective-C
+    - name: LinkedIn Node.js Library by Julien Valéry
+      homepage_uri: https://github.com/darul75/node-linked-in
+      source_code_uri: ""
+      platform: Node.js
+    - name: ' LinkedIn Java Library by Pablo Fernandez'
+      homepage_uri: https://developer-programs.linkedin.com/documents/libraries-and-tools
+      source_code_uri: https://github.com/fernandezpablo85/scribe-java/blob/master/src/test/java/org/scribe/examples/LinkedInExample.java
+      platform: Java
+    - name: LinkedIn .Net Library by oldlamer
+      homepage_uri: https://www.nuget.org/packages/LinkedIn.NET/
+      source_code_uri: http://sourceforge.net/projects/linkedinnet/
+      platform: .Net
+    - name: LinkedIn .Net Library by Tanveer Yousuf
+      homepage_uri: https://www.nuget.org/packages/LinkedIn/
+      source_code_uri: https://github.com/tanveery/linkedin-net
+      platform: .Net
+    - name: LinkedIn Ruby Library by Matt Kirk
+      homepage_uri: https://rubygems.org/gems/linkedin/versions/1.0.0
+      source_code_uri: https://github.com/hexgnu/linkedin
+      platform: Ruby
+    - name: LinkedIn Objective-C Library by Jacob von Eyben
+      homepage_uri: https://github.com/jeyben/IOSLinkedInAPI/blob/master/README.md
+      source_code_uri: https://github.com/jeyben/IOSLinkedInAPI
+      platform: Objective-C
+    - name: LinkedIn Ruby Wrapper LinkedIn Gem
+      homepage_uri: https://github.com/hexgnu/linkedin
+      source_code_uri: ""
+      platform: Ruby
+    - name: LinkedIn-API-JSON-Client
+      homepage_uri: https://github.com/mattsnider/LinkedIn-API-JSON-Client
+      source_code_uri: ""
+      platform: Python
+    - name: Happyr Developer LinkedIn PHP Client
+      homepage_uri: http://developer.happyr.com/libraries/linkedin-php-client
+      source_code_uri: ""
+      platform: PHP
+    - name: Python LinkedIn
+      homepage_uri: https://github.com/ozgur/python-linkedin
+      source_code_uri: ""
+      platform: Python
+    - name: Simple LinkedIn PHP
+      homepage_uri: https://code.google.com/p/simple-linkedinphp/
+      source_code_uri: ""
+      platform: PHP
+    - name: Scribe Java
+      homepage_uri: https://github.com/fernandezpablo85/scribe-java
+      source_code_uri: ""
+      platform: Java
+    - name: A Java wrapper for LinkedIn APIs
+      homepage_uri: http://code.google.com/p/linkedin-j/
+      source_code_uri: ""
+      platform: Java
+links:
+    - name: Docs / Website
+      url: https://developer.linkedin.com/docs/signin-with-linkedin

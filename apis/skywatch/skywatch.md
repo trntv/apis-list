@@ -8,16 +8,16 @@ Instead, EarthCache allows development teams to focus on the business applicatio
 **Docs / Website**: https://www.skywatch.com/
 
 ## 🧬 Skywatch Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17647)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17647)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17647)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/skywatch/skywatch.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/skywatch/skywatch.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/skywatch/skywatch.yaml)
 
 ## 💬 Skywatch Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17647)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/skywatch/skywatch.yaml)    
 
 
 ## 🗄️ Categories:

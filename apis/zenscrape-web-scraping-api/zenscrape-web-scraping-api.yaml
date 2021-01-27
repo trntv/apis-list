@@ -1,0 +1,11 @@
+name: Zenscrape
+slug: zenscrape-web-scraping-api
+categories:
+    - Scrapers & Data Mining
+description: This web scraping API handles all problems that are related to web scraping. Extracting HTML from websites has never been so easy!
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/zenscrape-web-scraping-api/logo_256x256.png
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://zenscrape.com/web-scraping-api/

@@ -8,16 +8,16 @@ data. gouv. fr accueil. data
 **Docs / Website**: https://www.data.gouv.fr/
 
 ## 🧬 Open Government, France Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14059)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14059)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14059)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-government-france/open-government-france.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-government-france/open-government-france.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-government-france/open-government-france.yaml)
 
 ## 💬 Open Government, France Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14059)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-government-france/open-government-france.yaml)    
 
 
 ## 🗄️ Categories:

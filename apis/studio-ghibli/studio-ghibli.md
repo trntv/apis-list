@@ -6,9 +6,9 @@ Resources from Studio Ghibli films
 **Docs / Website**: https://ghibliapi.herokuapp.com/
 
 ## 🧬 Studio Ghibli Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18507)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18507)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18507)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/studio-ghibli/studio-ghibli.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/studio-ghibli/studio-ghibli.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/studio-ghibli/studio-ghibli.yaml)
 
 ## 💬 Studio Ghibli Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

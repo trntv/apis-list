@@ -1,0 +1,12 @@
+name: Bitcoin
+slug: bitcoin
+categories:
+    - Blockchain & Cryptocurrencies
+description: Bitcoin is an innovative payment network and a new kind of money. Find all you need to know and get started with Bitcoin on bitcoin. org. Find useful resources, guides and reference material for developers
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/bitcoin/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://bitcoin.org/en/developer-documentation

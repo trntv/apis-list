@@ -6,16 +6,16 @@ Ziptastic API is a super easy to use API that returns the Country, State, City o
 **Docs / Website**: https://ziptasticapi.com/
 
 ## 🧬 Zipstatic Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22978)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22978)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22978)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/zipstatic/zipstatic.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/zipstatic/zipstatic.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/zipstatic/zipstatic.yaml)
 
 ## 💬 Zipstatic Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22978)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/zipstatic/zipstatic.yaml)    
 
 
 ## 🗄️ Categories:

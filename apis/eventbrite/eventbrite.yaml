@@ -1,0 +1,60 @@
+name: EventBrite
+slug: eventbrite
+categories:
+    - Authentication & User Management
+    - Social
+    - Events
+    - Marketing & SEO
+description: Eventbrite Python SDK. Contribute to eventbrite/eventbrite-sdk-python development by creating an account on GitHub. Eventbrite Python SDK
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/eventbrite/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: Eventbrite Python SDK
+      homepage_uri: https://github.com/eventbrite/eventbrite-sdk-python
+      source_code_uri: ""
+      platform: Python
+    - name: Eventbrite PHP SDK by Jamie Hollern
+      homepage_uri: https://github.com/jamiehollern/eventbrite
+      source_code_uri: ""
+      platform: PHP
+    - name: Eventbrite PHP SDK by ryan jarvinen
+      homepage_uri: https://github.com/ryanjarvinen/eventbrite.php
+      source_code_uri: ""
+      platform: PHP
+    - name: Eventbrite Node.js SDK by DataHero
+      homepage_uri: https://github.com/Datahero/node-eventbrite
+      source_code_uri: ""
+      platform: Node.js
+    - name: Eventbrite .NET Client Library
+      homepage_uri: https://github.com/penguinboy/Eventbrite.NET
+      source_code_uri: ""
+      platform: .Net
+    - name: Eventbrite C# Client Library
+      homepage_uri: https://github.com/ghurlman/EventBrite.WinStore
+      source_code_uri: ""
+      platform: C#
+    - name: Eventbrite JavaScript Client Library
+      homepage_uri: https://github.com/eventbrite/Eventbrite.jquery.js
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Eventbrite Node.js Client Library
+      homepage_uri: https://github.com/eventbrite/eventbrite.npm
+      source_code_uri: ""
+      platform: Node.js
+    - name: Eventbrite Ruby Client Library
+      homepage_uri: https://github.com/eventbrite/eventbrite-client.rb
+      source_code_uri: ""
+      platform: Ruby
+    - name: Eventbrite Python Client Library
+      homepage_uri: https://github.com/eventbrite/eventbrite-client-py
+      source_code_uri: ""
+      platform: Python
+    - name: Eventbrite PHP Client Library
+      homepage_uri: https://github.com/eventbrite/eventbrite.php
+      source_code_uri: ""
+      platform: PHP
+links:
+    - name: Docs / Website
+      url: https://www.eventbrite.com/platform/

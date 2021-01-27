@@ -6,9 +6,9 @@ UPS is an American multinational package delivery and supply chain management co
 **Docs / Website**: https://www.ups.com/upsdeveloperkit
 
 ## 🧬 UPS Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20601)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20601)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20601)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ups/ups.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ups/ups.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ups/ups.yaml)
 
 ## 💬 UPS Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

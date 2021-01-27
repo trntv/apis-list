@@ -1,0 +1,11 @@
+name: OpenAQ
+slug: openaq
+categories:
+    - Environment & Nature
+description: Loading
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://docs.openaq.org/

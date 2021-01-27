@@ -1,0 +1,100 @@
+name: Uber
+slug: uber
+categories:
+    - Commerce
+    - Travel
+    - Transportation
+    - Maps & Geo
+description: Discover how the Uber API can easily enhance your app’s user experience and take your innovation further with a wide range of new capabilities. Uber provides API for customizing trip experiences, requesting rides, powering logistics, creating bots and so much more
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/uber/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: Uber Ride Request Android SDK by Uber
+      homepage_uri: https://github.com/uber/rides-android-sdk
+      source_code_uri: ""
+      platform: Java
+    - name: Uber Ride Request iOS SDK by Uber
+      homepage_uri: https://github.com/uber/rides-ios-sdk
+      source_code_uri: ""
+      platform: Objective-C
+    - name: Uber Ride Requests Java SDK by Uber
+      homepage_uri: https://github.com/uber/rides-java-sdk/tree/master/sdk
+      source_code_uri: ""
+      platform: Java
+    - name: Uber Ride Requests Python SDK by Uber
+      homepage_uri: https://github.com/uber/rides-python-sdk/tree/master/example
+      source_code_uri: ""
+      platform: Python
+    - name: Uber PHP SDK by APIMATIC
+      homepage_uri: https://github.com/apimatic/uber-php
+      source_code_uri: ""
+      platform: PHP
+    - name: Uber Ruby SDK by Abhijeet Kalyan
+      homepage_uri: https://rubygems.org/gems/uber_api/versions/0.1.2
+      source_code_uri: ""
+      platform: Ruby
+    - name: Uber Node.js SDK by Jackson Geller
+      homepage_uri: https://www.npmjs.com/package/uberjs
+      source_code_uri: ""
+      platform: Node.js
+    - name: Uber Ruby SDK by Dingding Ye
+      homepage_uri: https://github.com/sishen/uber-ruby
+      source_code_uri: ""
+      platform: Ruby
+    - name: Uber PHP SDK by Bas van Dorst
+      homepage_uri: https://github.com/basvandorst/UberPHP
+      source_code_uri: ""
+      platform: PHP
+    - name: Uber Android SDK by Uber
+      homepage_uri: https://developer.uber.com/docs/riders/ride-requests/tutorials/api/android
+      source_code_uri: ""
+      platform: Java
+    - name: Uber iOS SDK by Uber
+      homepage_uri: https://developer.uber.com/docs/riders/ride-requests/tutorials/api/ios
+      source_code_uri: https://github.com/uber/rides-ios-sdk
+      platform: Swift
+    - name: Uber Java SDK by Uber
+      homepage_uri: https://developer.uber.com/docs/riders/ride-requests/tutorials/api/java
+      source_code_uri: https://github.com/uber/rides-java-sdk
+      platform: Java
+    - name: Uber Python SDK by Uber
+      homepage_uri: https://developer.uber.com/docs/riders/ride-requests/tutorials/api/python
+      source_code_uri: https://github.com/uber/rides-python-sdk
+      platform: Python
+    - name: Uber PHP SDK by Steven Maguire
+      homepage_uri: https://github.com/stevenmaguire/uber-php
+      source_code_uri: ""
+      platform: PHP
+    - name: 'Uber R SDK by Andrew Collier '
+      homepage_uri: https://github.com/DataWookie/ubeR
+      source_code_uri: ""
+      platform: R
+    - name: Uber Ruby SDK by Christopher EnyTC
+      homepage_uri: https://github.com/chrisenytc/uber-sdk
+      source_code_uri: ""
+      platform: Ruby
+    - name: Uber Node.js SDK by Shern Shiou Tan
+      homepage_uri: https://github.com/shernshiou/node-uber
+      source_code_uri: ""
+      platform: Node.js
+    - name: Uber SDK for .NET
+      homepage_uri: https://github.com/wadewegner/uber-sdk-for-net
+      source_code_uri: ""
+      platform: .Net, C#
+    - name: UberKit
+      homepage_uri: https://github.com/sachinkesiraju/UberKit
+      source_code_uri: ""
+      platform: Objective-C
+    - name: uber (Ruby Gem)
+      homepage_uri: https://github.com/pageandrew/uber
+      source_code_uri: ""
+      platform: Ruby
+    - name: Uber API for NodeJS
+      homepage_uri: https://www.npmjs.org/package/uber-api
+      source_code_uri: https://github.com/nathanpdaniel/uber-api
+      platform: Node.js
+links:
+    - name: Docs / Website
+      url: https://developer.uber.com/

@@ -6,16 +6,16 @@ The Secured Signing REST-based, JSON API allows you to add PKI based digital sig
 **Docs / Website**: https://securedsigning.com/developer/api-documentation
 
 ## 🧬 Secured Signing Digital Signature Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17247)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17247)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17247)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/secured-signing-digital-signature-api/secured-signing-digital-signature-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/secured-signing-digital-signature-api/secured-signing-digital-signature-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/secured-signing-digital-signature-api/secured-signing-digital-signature-api.yaml)
 
 ## 💬 Secured Signing Digital Signature Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17247)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/secured-signing-digital-signature-api/secured-signing-digital-signature-api.yaml)    
 
 
 ## 🗄️ Categories:

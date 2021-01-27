@@ -1,0 +1,113 @@
+name: CircleCI
+slug: circleci
+categories:
+    - Testing
+    - Development
+description: CircleCI API is a full-featured RESTful API that allows you to access all information and trigger all actions in CircleCI.
+is_free: false
+type: REST
+is_active: true
+libraries:
+    - name: CircleCI Go SDK by Alec Holmes
+      homepage_uri: https://github.com/alecholmez/GoDash
+      source_code_uri: ""
+      platform: Go
+    - name: CircleCI JavaScript SDK by Divya
+      homepage_uri: https://github.com/shortdiv/circle-cli
+      source_code_uri: ""
+      platform: JavaScript
+    - name: CircleCI Ruby SDK by Alex Kalinin
+      homepage_uri: https://github.com/AlexKalinin/circle-ci-rspec-downloader
+      source_code_uri: ""
+      platform: Ruby
+    - name: CircleCI Flask Python SDK by Matthew F Johnson
+      homepage_uri: https://github.com/trips2821/flask-api
+      source_code_uri: ""
+      platform: Python
+    - name: CircleCI Go SDK by Josh Komoroske
+      homepage_uri: https://github.com/joshdk/circleci-go
+      source_code_uri: ""
+      platform: Go
+    - name: CircleCI Go SDK by Ryan Lower
+      homepage_uri: https://github.com/ryanlower/go-circleci
+      source_code_uri: ""
+      platform: Go
+    - name: CircleCI Ruby SDK by Hiroyuki Takamura
+      homepage_uri: https://github.com/yukimura1227/circleci_trimmer
+      source_code_uri: ""
+      platform: Ruby
+    - name: CircleCI Elixir SDK by Yann VERY
+      homepage_uri: https://hexdocs.pm/circler/api-reference.html
+      source_code_uri: https://github.com/yannvery/circler
+      platform: Elixir
+    - name: CircleCI Go SDK by Phil Morgan
+      homepage_uri: https://github.com/psmorgan/go-circleci-api
+      source_code_uri: ""
+      platform: Go
+    - name: CircleCI Go SDK by Chavez
+      homepage_uri: https://github.com/mtchavez/circlecigo
+      source_code_uri: ""
+      platform: Go
+    - name: CircleCI TypeScript SDK by Jordon de Hoog
+      homepage_uri: https://github.com/jordond/circleci-api
+      source_code_uri: https://www.npmjs.com/package/circleci-api
+      platform: Unspecified
+    - name: CircleCI Ruby SDK by Les Aker
+      homepage_uri: https://github.com/akerl/circular
+      source_code_uri: https://rubygems.org/gems/circular
+      platform: Ruby
+    - name: CircleCI Clojure SDK by Daniel Gregoire
+      homepage_uri: https://github.com/semperos/cci
+      source_code_uri: ""
+      platform: Clojure
+    - name: CircleCI Clojure SDK by Reid D McKenzie
+      homepage_uri: https://github.com/arrdem/circleci.api
+      source_code_uri: ""
+      platform: Clojure
+    - name: CircleCI Tapioca Python SDK by George Kussumoto
+      homepage_uri: https://github.com/georgeyk/tapioca-circleci
+      source_code_uri: ""
+      platform: Python
+    - name: CircleCI JavaScript SDK by Rafael Schettino
+      homepage_uri: https://github.com/rcschettino/circleci-rest-sdk
+      source_code_uri: ""
+      platform: JavaScript
+    - name: CircleCI Elixir SDK by Justin Schneck
+      homepage_uri: https://github.com/mobileoverlord/circleci
+      source_code_uri: https://hex.pm/packages/circle_ci
+      platform: Elixir
+    - name: CircleCI Go SDK by Betacraft
+      homepage_uri: https://github.com/betacraft/circleci
+      source_code_uri: ""
+      platform: Go
+    - name: CircleCI Kotlin SDK by Yuji Ueki
+      homepage_uri: https://github.com/unhappychoice/CircleCI
+      source_code_uri: https://jitpack.io/#unhappychoice/circleci
+      platform: Kotlin
+    - name: CircleCI Python SDK by Harper Reed
+      homepage_uri: https://github.com/harperreed/simple-circleci
+      source_code_uri: ""
+      platform: Python
+    - name: CircleCI Haskell SDK by Denis Shevchenko
+      homepage_uri: https://github.com/denisshevchenko/circlehs
+      source_code_uri: http://hackage.haskell.org/package/circlehs
+      platform: Haskell
+    - name: CircleCI Python SDK by Lev Lazinskiy
+      homepage_uri: https://github.com/levlaz/circleci.py
+      source_code_uri: https://pypi.org/project/circleci/1.1.1/
+      platform: Python
+    - name: CircleCI Go SDK by Jesse Szwedko
+      homepage_uri: https://github.com/jszwedko/circleci-cli
+      source_code_uri: ""
+      platform: Go
+    - name: CircleCI NodeJS SDK by Lei Pan
+      homepage_uri: https://github.com/superpan/node-circleci
+      source_code_uri: ""
+      platform: Node.js
+    - name: CircleCI JavaScript SDK by Koujirou Ishii
+      homepage_uri: https://github.com/kjirou/torus
+      source_code_uri: ""
+      platform: JavaScript
+links:
+    - name: Docs / Website
+      url: https://circleci.com/docs/api/v1-reference/

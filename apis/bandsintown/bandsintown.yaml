@@ -1,0 +1,49 @@
+name: Bandsintown
+slug: bandsintown
+categories:
+    - Events
+    - Music & Audio
+description: |-
+    The Bandsintown API is designed for artists and enterprises representing artists.
+    It offers read-only access to artist info and artist events:
+    artist info: returns the link to the Bandsintown artist page, the link to the artist photo, the current number of trackers and more
+    artist events: returns the list of events including their date and time, venue name and location, ticket links, lineup, description and the link to the Bandsintown event page
+is_free: false
+type: REST
+is_active: true
+specification:
+    type: swagger
+    url: https://app.swaggerhub.com/apiproxy/registry/Bandsintown/PublicAPI/3.0.0?resolved=true&flatten=true&pretty=true
+    version: https://app.swaggerhub.com/apiproxy/registry/Bandsintown/PublicAPI/3.0.0?resolved=true&flatten=true&pretty=true
+libraries:
+    - name: Festival Search Engine JavaScript SDK by Steven Liatti
+      homepage_uri: https://github.com/steenput/FestivalSearchEngine
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Bandsintown Java 8 SDK by Julian Wrastil
+      homepage_uri: https://github.com/JayJayBinks/Bandsintown-API
+      source_code_uri: ""
+      platform: Java
+    - name: Bandsintown Go SDK by Nathan Cooper
+      homepage_uri: https://github.com/NathanLBCooper/bandsintown-api
+      source_code_uri: ""
+      platform: Go
+    - name: Bandsintown .NET SDK by Damian Karzon
+      homepage_uri: https://github.com/dkarzon/BitSharp
+      source_code_uri: ""
+      platform: .Net
+    - name: Bandsintown PHP SDK by dhavhid
+      homepage_uri: https://github.com/dhavhid/php-bandsintown
+      source_code_uri: ""
+      platform: PHP
+    - name: Bandsintown Python SDK by Anthony Roscoe
+      homepage_uri: https://github.com/WizKid/Bandsintown-API
+      source_code_uri: ""
+      platform: Python
+    - name: Bandsintown Ruby SDK by Mike Constanza
+      homepage_uri: https://github.com/bandsintown/api-gem
+      source_code_uri: ""
+      platform: Ruby
+links:
+    - name: Docs / Website
+      url: https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0

@@ -1,0 +1,12 @@
+name: Open Street Map
+slug: open-street-map
+categories:
+    - Maps & Geo
+description: Purge Help API - Other languages Afrikaans asturianu azərbaycanca Bahasa Indonesia Bahasa Melayu bosanski brezhoneg català čeština dansk Deutsch eesti English español Esperanto euskara français Fry. API access to OSM
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/open-street-map/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: http://wiki.openstreetmap.org/wiki/API

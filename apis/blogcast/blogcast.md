@@ -6,16 +6,16 @@ Generate audio versions of your articles. Create realistic voice overs for blogs
 **Docs / Website**: https://blogcast.host
 
 ## 🧬 Blogcast Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2000)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2000)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2000)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/blogcast/blogcast.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/blogcast/blogcast.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/blogcast/blogcast.yaml)
 
 ## 💬 Blogcast Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2000)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/blogcast/blogcast.yaml)    
 
 
 ## 🗄️ Categories:

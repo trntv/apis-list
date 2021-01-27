@@ -6,16 +6,16 @@ Keen IO is a powerful, flexible, and scalable solution that’s literally Big Da
 **Docs / Website**: https://keen.io/docs/api/
 
 ## 🧬 Keen IO Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10850)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10850)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10850)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/keen-io/keen-io.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/keen-io/keen-io.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/keen-io/keen-io.yaml)
 
 ## 💬 Keen IO Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10850)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/keen-io/keen-io.yaml)    
 
 
 ## 🗄️ Categories:

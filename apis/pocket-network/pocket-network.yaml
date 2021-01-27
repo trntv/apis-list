@@ -1,0 +1,32 @@
+name: Pocket Network
+slug: pocket-network
+categories:
+    - Blockchain & Cryptocurrencies
+description: 'Pocket proportionally rewards the participating nodes with native cryptographic tokens POKT. Reliability: Pocket allows a developer to constantly keep their DApp running with confidence and wit. . Pocket provides a trustless API Layer, allowing easy access to any blockchain. Pocket is a distributed network that relays data requests and responses to and from any blockchain system'
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pocket-network/logo_256x256.png
+is_active: true
+libraries:
+    - name: Pocket Network NodeJS SDK
+      homepage_uri: https://github.com/pokt-network/pocket-node
+      source_code_uri: ""
+      platform: Node.js
+    - name: Pocket Network Core Go SDK
+      homepage_uri: https://github.com/pokt-network/pocket-core
+      source_code_uri: ""
+      platform: Go
+    - name: Pocket Network Swift SDK
+      homepage_uri: https://github.com/pokt-network/pocket-swift
+      source_code_uri: ""
+      platform: Swift
+    - name: Pocket Network JavaScript SDK
+      homepage_uri: https://github.com/pokt-network/pocket-js
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Pocket Network Android SDK
+      homepage_uri: https://github.com/pokt-network/pocket-android
+      source_code_uri: ""
+      platform: Java
+links:
+    - name: Docs / Website
+      url: https://docs.pokt.network/docs

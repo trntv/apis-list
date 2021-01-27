@@ -8,16 +8,16 @@ Can take a customer's cellphone number and return name, address history, full SS
 **Docs / Website**: https://cognitohq.com/docs
 
 ## 🧬 Cognito Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3647)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3647)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3647)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cognito/cognito.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cognito/cognito.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cognito/cognito.yaml)
 
 ## 💬 Cognito Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3647)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/cognito/cognito.yaml)    
 
 
 ## 🗄️ Categories:

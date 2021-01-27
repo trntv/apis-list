@@ -1,0 +1,12 @@
+name: Scoop.it
+slug: scoop-it
+categories:
+    - Marketing & SEO
+description: Enables professionals and businesses to research and publish content through its content curation tool
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/scoop-it/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: http://www.scoop.it/dev

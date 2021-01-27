@@ -8,16 +8,16 @@ Don't let sourcing and maintaining holiday information get in the way of buildin
 **Docs / Website**: https://holidayapi.com/
 
 ## 🧬 Holidays Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9440)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9440)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9440)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/holidays/holidays.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/holidays/holidays.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/holidays/holidays.yaml)
 
 ## 💬 Holidays Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9440)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/holidays/holidays.yaml)    
 
 
 ## 🗄️ Categories:

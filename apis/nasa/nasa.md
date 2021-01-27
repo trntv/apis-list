@@ -6,9 +6,9 @@ Get NASA data, including imagery, list of asteroids based on their closest appro
 **Docs / Website**: https://api.nasa.gov/index.html
 
 ## 🧬 NASA Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12936)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12936)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12936)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nasa/nasa.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nasa/nasa.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nasa/nasa.yaml)
 
 ## 💬 NASA Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

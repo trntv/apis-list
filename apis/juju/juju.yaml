@@ -1,0 +1,11 @@
+name: Juju
+slug: juju
+categories:
+    - Jobs
+description: Juju.com is a job search engine, not a job board. Juju's comprehensive search results link to millions of jobs found on thousands employer career portals, recruiter websites, job boards, and other employment sites all over the Internet, rather than to a limited set of job postings hosted directly on our own site.
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: http://www.juju.com/publisher/spec/

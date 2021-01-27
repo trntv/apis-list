@@ -1,0 +1,12 @@
+name: Yahoo Gemini API
+slug: yahoo-gemini-api
+categories:
+    - Marketing & SEO
+description: Developer tools and the support you need to leverage Verizon Media's powerful data and advertising solutions. Allows advertisers to manage complex Gemini accounts and campaigns more efficiently
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/yahoo-gemini-api/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://developer.yahoo.com/gemini/

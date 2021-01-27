@@ -8,16 +8,16 @@ Similar to other blogging platforms. Posting could be done by logging into the w
 **Docs / Website**: http://www.posterous.com/api
 
 ## 🧬 Posterous API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15406)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15406)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15406)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/posterous-api/posterous-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/posterous-api/posterous-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/posterous-api/posterous-api.yaml)
 
 ## 💬 Posterous API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15406)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/posterous-api/posterous-api.yaml)    
 
 
 ## 🗄️ Categories:

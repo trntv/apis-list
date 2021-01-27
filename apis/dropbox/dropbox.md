@@ -6,9 +6,9 @@ API for accessing stored files and pictures which is easy to use and free for sm
 **Docs / Website**: https://www.dropbox.com/developers
 
 ## 🧬 Dropbox Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5567)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5567)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5567)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dropbox/dropbox.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dropbox/dropbox.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dropbox/dropbox.yaml)
 
 ## 💬 Dropbox Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

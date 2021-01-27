@@ -8,9 +8,9 @@ MyAnimeList.net official API
 **Docs / Website**: https://myanimelist.net/clubs.php?cid=13727
 
 ## 🧬 MyAnimeList Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12762)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12762)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12762)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/myanimelist/myanimelist.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/myanimelist/myanimelist.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/myanimelist/myanimelist.yaml)
 
 ## 💬 MyAnimeList Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

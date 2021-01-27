@@ -8,16 +8,16 @@ API for investment portfolio optimization. The science of portfolio optimization
 **Docs / Website**: https://portfoliooptimizer.io/
 
 ## 🧬 Portfolio Optimizer Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15367)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15367)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15367)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/portfolio-optimizer/portfolio-optimizer.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/portfolio-optimizer/portfolio-optimizer.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/portfolio-optimizer/portfolio-optimizer.yaml)
 
 ## 💬 Portfolio Optimizer Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15367)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/portfolio-optimizer/portfolio-optimizer.yaml)    
 
 
 ## 🗄️ Categories:

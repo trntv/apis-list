@@ -17,7 +17,12 @@ func main() {
 			{
 				Name: "build",
 				Action: func(c *cli.Context) error {
-					apis, err := list.ReadList(c.Args().First())
+					wd, err := os.Getwd()
+					if err != nil {
+						return err
+					}
+
+					apis, err := list.ReadList(wd)
 					if err != nil {
 						return err
 					}
@@ -41,7 +46,14 @@ func main() {
 						return errors.New("categories lint failed")
 					}
 
-					return builder.Render(apis, dir)
+					err = builder.Render(apis, dir)
+					if err != nil {
+						return err
+					}
+
+					fmt.Printf("%d apis were written!\r\n", len(apis))
+
+					return nil
 				},
 			},
 			{

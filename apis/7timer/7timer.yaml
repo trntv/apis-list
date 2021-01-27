@@ -1,0 +1,11 @@
+name: 7Timer!
+slug: 7timer
+categories:
+    - Weather
+description: 'Last Update: November 1, 2012 7Timer! is a series of web-based meteorological forecast products, mainly derived from the NOAA/NCEP-based numeric weather model, the Global Forecast System (GFS). 7Ti'
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: http://www.7timer.info/doc.php?lang=en

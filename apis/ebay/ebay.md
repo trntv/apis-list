@@ -6,9 +6,9 @@ eBay's APIs
 **Docs / Website**: https://go.developer.ebay.com/
 
 ## 🧬 eBay Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23163)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23163)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23163)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ebay/ebay.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ebay/ebay.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ebay/ebay.yaml)
 
 ## 💬 eBay Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

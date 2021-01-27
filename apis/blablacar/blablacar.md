@@ -6,16 +6,16 @@ Connects people together, making it possible to travel literally anywhere, direc
 **Docs / Website**: https://dev.blablacar.com
 
 ## 🧬 BlaBlaCar Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1895)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1895)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1895)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/blablacar/blablacar.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/blablacar/blablacar.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/blablacar/blablacar.yaml)
 
 ## 💬 BlaBlaCar Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1895)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/blablacar/blablacar.yaml)    
 
 
 ## 🗄️ Categories:

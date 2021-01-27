@@ -6,16 +6,16 @@ Catalog Vehicle Listing (vPIC) Application Programming Interface (API) provides 
 **Docs / Website**: https://vpic.nhtsa.dot.gov/api/
 
 ## 🧬 NHTSA Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13000)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13000)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13000)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nhtsa/nhtsa.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nhtsa/nhtsa.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nhtsa/nhtsa.yaml)
 
 ## 💬 NHTSA Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13000)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/nhtsa/nhtsa.yaml)    
 
 
 ## 🗄️ Categories:

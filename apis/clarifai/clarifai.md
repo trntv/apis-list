@@ -8,9 +8,9 @@ Whether you have one input or billions, you are only steps away from using AI to
 **Docs / Website**: https://developer.clarifai.com/docs/
 
 ## 🧬 Clarifai Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3228)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3228)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3228)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/clarifai/clarifai.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/clarifai/clarifai.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/clarifai/clarifai.yaml)
 
 ## 💬 Clarifai Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

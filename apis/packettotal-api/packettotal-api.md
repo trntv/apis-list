@@ -6,16 +6,16 @@ Search, correlate, and download PCAP files, based on their behaviors and content
 **Docs / Website**: https://packettotal.com/api.html
 
 ## 🧬 Packettotal Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14506)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14506)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14506)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/packettotal-api/packettotal-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/packettotal-api/packettotal-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/packettotal-api/packettotal-api.yaml)
 
 ## 💬 Packettotal Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14506)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/packettotal-api/packettotal-api.yaml)    
 
 
 ## 🗄️ Categories:

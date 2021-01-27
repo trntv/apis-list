@@ -1,0 +1,11 @@
+name: Cricket Live Scores
+slug: cricket-live-scores
+categories:
+    - Sport & Fitness
+description: Live cricket scores
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cricket-live-scores/logo_256x256.png
+is_active: false
+links:
+    - name: Docs / Website
+      url: https://market.mashape.com/dev132/cricket-live-scores

@@ -8,16 +8,16 @@ A Rest Api of simple country information that you need. Gets all the countries, 
 **Docs / Website**: https://fabian7593.github.io/CountryAPI/
 
 ## 🧬 CountryAPI Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4165)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4165)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4165)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/countryapi/countryapi.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/countryapi/countryapi.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/countryapi/countryapi.yaml)
 
 ## 💬 CountryAPI Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4165)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/countryapi/countryapi.yaml)    
 
 
 ## 🗄️ Categories:

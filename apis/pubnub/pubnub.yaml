@@ -1,0 +1,114 @@
+name: PubNub
+slug: pubnub
+categories:
+    - Chats & Messaging
+    - IoT & Home Automation
+description: <div class="homepage-wrap">
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pubnub/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: PubNub Silverlight C# SDK
+      homepage_uri: https://www.pubnub.com/docs/silverlight-c-sharp/pubnub-c-sharp-sdk
+      source_code_uri: https://github.com/pubnub/c-sharp/tree/master_3x/csharp.net
+      platform: C#
+    - name: PubNub Scala SDK
+      homepage_uri: https://www.pubnub.com/docs/scala-java/pubnub-java-sdk
+      source_code_uri: https://github.com/pubnub/java/tree/master_3x/scala
+      platform: Scala
+    - name: PubNub Perl SDK
+      homepage_uri: https://github.com/pubnub/pubnub-api/tree/master/perl5
+      source_code_uri: ""
+      platform: PERL
+    - name: PubNub Objective-C SDK
+      homepage_uri: https://www.pubnub.com/docs/ios-objective-c/pubnub-objective-c-sdk
+      source_code_uri: https://github.com/pubnub/objective-c
+      platform: Objective-C
+    - name: PubNub Haskell SDK
+      homepage_uri: https://github.com/pubnub/haskell/blob/master/README.md
+      source_code_uri: https://github.com/pubnub/haskell
+      platform: Haskell
+    - name: PubNub Lua SDK
+      homepage_uri: https://www.pubnub.com/docs/lua/pubnub-lua-sdk
+      source_code_uri: https://github.com/pubnub/lua/tree/master/pure
+      platform: Lua
+    - name: PubNub C++ SDK
+      homepage_uri: https://www.pubnub.com/docs/windows-cpp/pubnub-cpp-sdk
+      source_code_uri: https://github.com/pubnub/c-core
+      platform: C++
+    - name: PubNub Go SDK
+      homepage_uri: https://www.pubnub.com/docs/go/pubnub-go-sdk
+      source_code_uri: https://github.com/pubnub/go
+      platform: Go
+    - name: PubNub MQTT Python SDK
+      homepage_uri: https://www.pubnub.com/blog/new-improved-pubnub-mqtt-support-and-iot-capabilities
+      source_code_uri: https://www.pubnub.com/docs/mqtt-pubnub-bridge/getting-started#introduction
+      platform: Python
+    - name: PubNub Asyncio Python SDK
+      homepage_uri: https://www.pubnub.com/docs/python-aiohttp/pubnub-python-sdk
+      source_code_uri: https://github.com/pubnub/python
+      platform: Python
+    - name: PubNub Tornado Python SDK
+      homepage_uri: https://www.pubnub.com/docs/python-tornado/pubnub-python-sdk
+      source_code_uri: https://github.com/pubnub/python
+      platform: Python
+    - name: PubNub Unity C# SDK by PubNub
+      homepage_uri: https://www.pubnub.com/docs/unity3d-c-sharp/pubnub-c-sharp-sdk
+      source_code_uri: ""
+      platform: C#
+    - name: PubNub Moai Lua SDK by PubNub
+      homepage_uri: https://github.com/pubnub/lua/tree/master/moai
+      source_code_uri: ""
+      platform: Lua
+    - name: PubNub Impact JavaScript SDK by PubNub
+      homepage_uri: https://www.pubnub.com/docs/impactjs-javascript/pubnub-javascript-sdk
+      source_code_uri: ""
+      platform: JavaScript
+    - name: PubNub Corona Lua SDK by PubNub
+      homepage_uri: https://github.com/pubnub/lua
+      source_code_uri: ""
+      platform: Lua
+    - name: PubNub ColdFusion SDK by PubNub
+      homepage_uri: https://github.com/pubnub/pubnub-api/tree/master/coldfusion
+      source_code_uri: ""
+      platform: ColdFusion
+    - name: 'PubNub AngularJS SDK by PubNub '
+      homepage_uri: https://www.pubnub.com/docs/angularjs-javascript/pubnub-javascript-sdk
+      source_code_uri: ""
+      platform: JavaScript
+    - name: PubNub Xamarin iOS C# SDK by PubNub
+      homepage_uri: https://github.com/pubnub/c-sharp
+      source_code_uri: ""
+      platform: Objective-C
+    - name: PubNub Xamarin Android C# SDK by PubNub
+      homepage_uri: https://www.pubnub.com/docs/c-sharp-net-c-sharp/pubnub-c-sharp-sdk
+      source_code_uri: ""
+      platform: C#
+    - name: PubNub Pocket PC C# SDK by PubNub
+      homepage_uri: https://www.pubnub.com/docs/pocket-pc-c-sharp/pubnub-c-sharp-sdk
+      source_code_uri: ""
+      platform: C#
+    - name: PubNub Java ME SDK by PubNub
+      homepage_uri: https://www.pubnub.com/docs/j2me-java/pubnub-java-sdk
+      source_code_uri: ""
+      platform: Java
+    - name: PubNub Accelerator Titanium JavaScript SDK by PubNub
+      homepage_uri: https://www.pubnub.com/docs/titanium-javascript/pubnub-javascript-sdk-v3
+      source_code_uri: ""
+      platform: JavaScript
+    - name: PubNub CodeNameOne Java SDK by PubNub
+      homepage_uri: https://www.pubnub.com/docs/codename-one-java/pubnub-java-sdk
+      source_code_uri: ""
+      platform: Java
+    - name: PubNub Blackberry Java SDK by PubNub
+      homepage_uri: https://www.pubnub.com/docs/blackberry-java/pubnub-java-sdk
+      source_code_uri: ""
+      platform: Java
+    - name: PubNub C Library
+      homepage_uri: https://github.com/pubnub/c
+      source_code_uri: ""
+      platform: C, C++
+links:
+    - name: Docs / Website
+      url: https://www.pubnub.com/docs

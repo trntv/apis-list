@@ -1,0 +1,12 @@
+name: Google Drive API
+slug: google-drive-api
+categories:
+    - Maps & Geo
+description: com/upload/drive/v2/files and PO. URIs relative to https://www. googleapis. com/drive/v2, unless otherwise noted get GET /files/fileId Gets a file's metadata by ID. insert POST https://www
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-drive-api/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://developers.google.com/drive/v2/reference/

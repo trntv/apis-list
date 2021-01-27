@@ -1,0 +1,12 @@
+name: TransitLand
+slug: transitland
+categories:
+    - Transportation
+description: Transitland is a community-edited open data service aggregating transit networks across metropolitan and rural around the world. Transitland collects over a thousand GTFS and GTFS Realtime feeds from over 50 countries. It provides an API and other ways to explore and use transit data
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transitland/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://transit.land/documentation/datastore/api-endpoints.html

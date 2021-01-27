@@ -1,0 +1,13 @@
+name: Open Movie Database
+slug: open-movie-database
+categories:
+    - Search
+    - Entertainment
+    - Video & Media
+description: Attention Users 04/08/19 - Added support for eight digit IMDb IDs. 01/20/19 - Supressed adult content from search results. 01/20/19 - Added Swagger files (YAML, JSON) to expose current API abilitie
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: http://www.omdbapi.com/

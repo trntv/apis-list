@@ -8,16 +8,16 @@ With this API you can easily create a full Texas Holdem game, just create the gr
 **Docs / Website**: https://www.mashape.com/neurone/Texas-Holdem
 
 ## 🧬 Texas Holdem Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19115)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19115)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19115)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/texas-holdem/texas-holdem.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/texas-holdem/texas-holdem.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/texas-holdem/texas-holdem.yaml)
 
 ## 💬 Texas Holdem Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19115)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/texas-holdem/texas-holdem.yaml)    
 
 
 ## 🗄️ Categories:

@@ -8,16 +8,16 @@ The most versatile and secure wallet for all your coins
 **Docs / Website**: https://block.io/
 
 ## 🧬 Block Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1907)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1907)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1907)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/block/block.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/block/block.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/block/block.yaml)
 
 ## 💬 Block Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1907)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/block/block.yaml)    
 
 
 ## 🗄️ Categories:

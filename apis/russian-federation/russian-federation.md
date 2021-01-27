@@ -8,16 +8,16 @@ Central bank of Russian Federation
 **Docs / Website**: https://www.cbr.ru/development/
 
 ## 🧬 Russian Central Bank Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16872)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16872)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16872)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/russian-federation/russian-federation.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/russian-federation/russian-federation.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/russian-federation/russian-federation.yaml)
 
 ## 💬 Russian Central Bank Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16872)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/russian-federation/russian-federation.yaml)    
 
 
 ## 🗄️ Categories:

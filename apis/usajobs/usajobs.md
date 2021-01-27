@@ -8,16 +8,16 @@ USAJOBS API. USAJOBS is a United States Office of Personnel Management website
 **Docs / Website**: https://developer.usajobs.gov/
 
 ## 🧬 USAJOBS Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20774)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20774)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20774)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/usajobs/usajobs.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/usajobs/usajobs.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/usajobs/usajobs.yaml)
 
 ## 💬 USAJOBS Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20774)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/usajobs/usajobs.yaml)    
 
 
 ## 🗄️ Categories:

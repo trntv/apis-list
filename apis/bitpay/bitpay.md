@@ -8,9 +8,9 @@ A simple, RESTful API to the most powerful bitcoin infrastructure on the planet.
 **Docs / Website**: https://bitpay.com/developers
 
 ## 🧬 bitpay Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23071)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23071)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23071)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bitpay/bitpay.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bitpay/bitpay.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bitpay/bitpay.yaml)
 
 ## 💬 bitpay Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -1,0 +1,49 @@
+name: Bitmex
+slug: bitmex
+categories:
+    - Blockchain & Cryptocurrencies
+description: BitMEX is the world's most advanced P2P crypto-products trading platform and API. Trade with up to 100x leverage with only Bitcoin as collateral
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/bitmex/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: Store-json-in-Database Python SDK by Umar Mohamed
+      homepage_uri: https://github.com/moroclash/Store-json-in-Database
+      source_code_uri: ""
+      platform: Python
+    - name: ExchangeSharp .NET/C# by Jeff Johnson
+      homepage_uri: https://github.com/jjxtra/ExchangeSharp
+      source_code_uri: ""
+      platform: .Net, C#
+    - name: Reactive Crypto Kotlin/Java SDK by namjug-kim
+      homepage_uri: https://github.com/namjug-kim/reactive-crypto
+      source_code_uri: ""
+      platform: Java, Kotlin
+    - name: GoEx Go SDK by nntaoli.com
+      homepage_uri: https://github.com/nntaoli-project/GoEx
+      source_code_uri: ""
+      platform: Go
+    - name: BitMEX Swagger Java SDK
+      homepage_uri: https://github.com/BitMEX/api-connectors/tree/master/auto-generated/java
+      source_code_uri: ""
+      platform: Java
+    - name: BitMEX Swagger Go SDK
+      homepage_uri: https://github.com/BitMEX/api-connectors/tree/master/auto-generated/go
+      source_code_uri: ""
+      platform: Go
+    - name: BitMEX Swagger C# SDK
+      homepage_uri: https://github.com/BitMEX/api-connectors/tree/master/auto-generated/csharp
+      source_code_uri: ""
+      platform: C#
+    - name: BitMEX Swagger Clojure SDK
+      homepage_uri: https://github.com/BitMEX/api-connectors/tree/master/auto-generated/clojure
+      source_code_uri: ""
+      platform: Clojure
+    - name: BitMEX Swagger Android SDK
+      homepage_uri: https://github.com/BitMEX/api-connectors/tree/master/auto-generated/android
+      source_code_uri: ""
+      platform: Java
+links:
+    - name: Docs / Website
+      url: https://www.bitmex.com/app/apiOverview

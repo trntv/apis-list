@@ -1,0 +1,12 @@
+name: Metacert
+slug: metacert
+categories:
+    - Security
+description: MetaCert reduces the risk of identity theft, data breaches, phishing, malware and ransomware attacks, by more than 98%
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/metacert/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://metacert.com/

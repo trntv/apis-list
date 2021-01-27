@@ -8,16 +8,16 @@ AudD Music Recognition API Docs: how to identify songs in audio using our API
 **Docs / Website**: https://docs.audd.io/
 
 ## 🧬 AudD Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1011)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1011)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1011)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/audd/audd.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/audd/audd.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/audd/audd.yaml)
 
 ## 💬 AudD Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1011)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/audd/audd.yaml)    
 
 
 ## 🗄️ Categories:

@@ -8,16 +8,16 @@ Mercedes-Benz's live API products
 **Docs / Website**: https://developer.mercedes-benz.com/apis
 
 ## 🧬 Mercedes-Benz Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12298)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12298)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12298)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mercedes-benz/mercedes-benz.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mercedes-benz/mercedes-benz.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mercedes-benz/mercedes-benz.yaml)
 
 ## 💬 Mercedes-Benz Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12298)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/mercedes-benz/mercedes-benz.yaml)    
 
 
 ## 🗄️ Categories:

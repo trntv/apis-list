@@ -1,0 +1,12 @@
+name: PurgoMalum
+slug: purgomalum
+categories:
+    - Validation & Verification
+    - Text Analysis & Tools
+description: PurgoMalum is a simple, free, RESTful web service for filtering and removing content of profanity, obscenity and other unwanted text.
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: http://www.purgomalum.com

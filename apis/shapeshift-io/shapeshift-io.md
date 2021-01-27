@@ -8,16 +8,16 @@ Exchange between cryptocurrencies without an account. Well documented API for ea
 **Docs / Website**: https://shapeshift.io/
 
 ## 🧬 ShapeShift.io Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17323)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17323)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17323)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shapeshift-io/shapeshift-io.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shapeshift-io/shapeshift-io.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shapeshift-io/shapeshift-io.yaml)
 
 ## 💬 ShapeShift.io Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17323)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/shapeshift-io/shapeshift-io.yaml)    
 
 
 ## 🗄️ Categories:

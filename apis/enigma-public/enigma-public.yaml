@@ -1,0 +1,12 @@
+name: Enigma Public
+slug: enigma-public
+categories:
+    - Business
+description: Enigma Businesses provides the most accurate and reliable information on small and medium businesses in real-time.
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/enigma-public/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: http://docs.enigma.com/public/public_v20_api_about

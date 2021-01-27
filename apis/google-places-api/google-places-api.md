@@ -8,16 +8,16 @@ Providing a places search that can be searched by latitude/longitude, keyword ma
 **Docs / Website**: https://developers.google.com/places/documentation/?csw=1
 
 ## 🧬 Google Places API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8687)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8687)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8687)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-places-api/google-places-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-places-api/google-places-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-places-api/google-places-api.yaml)
 
 ## 💬 Google Places API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8687)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-places-api/google-places-api.yaml)    
 
 
 ## 🗄️ Categories:

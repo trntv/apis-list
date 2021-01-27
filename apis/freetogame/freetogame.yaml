@@ -1,0 +1,11 @@
+name: FreeToGame
+slug: freetogame
+categories:
+    - Entertainment
+description: Free-to-play games database API. Free-To-Play Games Database API Create using the FreeToGame API Overview Access programmatically the best free-to-play games and free MMO games! The Free-To-Play Games Database API (Aka FreeToGame
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://www.freetogame.com/api-doc

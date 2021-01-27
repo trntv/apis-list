@@ -8,16 +8,16 @@ Gumroad helps creators do more of what they love by offering tools to get paid o
 **Docs / Website**: https://gumroad.com/api
 
 ## 🧬 Gumroad Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9070)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9070)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9070)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gumroad/gumroad.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gumroad/gumroad.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gumroad/gumroad.yaml)
 
 ## 💬 Gumroad Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L9070)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/gumroad/gumroad.yaml)    
 
 
 ## 🗄️ Categories:

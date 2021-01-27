@@ -1,0 +1,11 @@
+name: Lang API
+slug: lang-api
+categories:
+    - Translation
+description: LangAPI exists to help developers rapidly translate and localize their apps for users worldwide. It automates translation between a huge number of languages, including Spanish, French etc.
+is_free: false
+logo: https://raw.githubusercontent.com/PeterLZhou/slate/master/source/images/ios_base_internationalization.png
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://docs.langapi.co/#introduction/

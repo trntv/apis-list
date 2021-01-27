@@ -8,16 +8,16 @@ Aeronautical information in digital media produced by the Department of Airspace
 **Docs / Website**: 
 
 ## 🧬 Ais Web Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L584)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L584)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L584)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ais-web/ais-web.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ais-web/ais-web.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ais-web/ais-web.yaml)
 
 ## 💬 Ais Web Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L584)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/ais-web/ais-web.yaml)    
 
 
 ## 🗄️ Categories:

@@ -8,9 +8,9 @@ Imgur: The magic of the Internet. Imgur's API exposes the entire Imgur infrastru
 **Docs / Website**: https://api.imgur.com/
 
 ## 🧬 Imgur Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10097)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10097)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10097)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/imgur/imgur.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/imgur/imgur.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/imgur/imgur.yaml)
 
 ## 💬 Imgur Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

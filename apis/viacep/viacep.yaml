@@ -1,0 +1,11 @@
+name: ViaCep
+slug: viacep
+categories:
+    - Maps & Geo
+description: Free webservice for address search via CEP
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://viacep.com.br

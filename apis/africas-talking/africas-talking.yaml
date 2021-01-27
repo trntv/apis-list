@@ -1,0 +1,12 @@
+name: Africa's Talking
+slug: africas-talking
+categories:
+    - Chats & Messaging
+    - Email & SMS
+description: A unified API platform for software developers in Africa building SMS, USSD, Voice, Payments and Airtime applications. Access African telco services through a HTTP API
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://africastalking.com/

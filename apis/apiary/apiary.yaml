@@ -1,0 +1,12 @@
+name: Apiary
+slug: apiary
+categories:
+    - Development
+description: Apiary provides the leading API-First platform designed specifically to help companies accelerate and control the design, development, and documentation of APIs. Collaborative tool to design APIs.
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/apiary/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://apiary.io/

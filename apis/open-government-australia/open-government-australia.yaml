@@ -1,0 +1,11 @@
+name: Open Government, Australia
+slug: open-government-australia
+categories:
+    - Government
+description: Australian Government Open Data
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://www.data.gov.au/

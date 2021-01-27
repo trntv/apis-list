@@ -1,0 +1,25 @@
+name: TextRazor
+slug: textrazor
+categories:
+    - Text Analysis & Tools
+    - AI & ML
+description: TextRazor is the world's fastest and most accurate Natural Language Processing API. Helps you extract and understand the Who, What, Why, and How from your research with unprecedented accuracy and speed.
+is_free: false
+type: REST
+is_active: true
+libraries:
+    - name: TextRazor Java SDK by TextRazor
+      homepage_uri: https://www.textrazor.com/docs/java
+      source_code_uri: https://github.com/TextRazor/textrazor-java
+      platform: Java
+    - name: TextRazor PHP SDK by TextRazor
+      homepage_uri: https://www.textrazor.com/docs/php
+      source_code_uri: https://github.com/TextRazor/textrazor-php
+      platform: PHP
+    - name: TextRazor Python SDK by TextRazor
+      homepage_uri: https://www.textrazor.com/docs/python
+      source_code_uri: https://github.com/TextRazor/textrazor-python
+      platform: Python
+links:
+    - name: Docs / Website
+      url: https://www.textrazor.com/documentation

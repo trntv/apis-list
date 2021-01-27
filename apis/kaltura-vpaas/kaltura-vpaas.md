@@ -8,16 +8,16 @@ Build video apps and add native video capabilities to your products. Kaltura VPa
 **Docs / Website**: https://corp.kaltura.com/video-paas/
 
 ## 🧬 Kaltura VPaaS Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10837)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10837)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10837)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/kaltura-vpaas/kaltura-vpaas.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/kaltura-vpaas/kaltura-vpaas.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/kaltura-vpaas/kaltura-vpaas.yaml)
 
 ## 💬 Kaltura VPaaS Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10837)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/kaltura-vpaas/kaltura-vpaas.yaml)    
 
 
 ## 🗄️ Categories:

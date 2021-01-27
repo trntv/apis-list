@@ -6,16 +6,16 @@
 **Docs / Website**: http://data.gov.ro/
 
 ## 🧬 Open Government, Romania Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14105)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14105)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14105)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-government-romania/open-government-romania.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-government-romania/open-government-romania.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-government-romania/open-government-romania.yaml)
 
 ## 💬 Open Government, Romania Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14105)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-government-romania/open-government-romania.yaml)    
 
 
 ## 🗄️ Categories:

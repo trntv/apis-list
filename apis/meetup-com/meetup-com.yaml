@@ -1,0 +1,13 @@
+name: Meetup.com
+slug: meetup-com
+categories:
+    - Social
+    - Events
+description: Find groups that host online or in person events and meet people in your local community who share your interests
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/meetup-com/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://www.meetup.com/meetup_api/

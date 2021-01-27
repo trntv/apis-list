@@ -1,0 +1,11 @@
+name: Lololyrics API
+slug: lololyrics-api
+categories:
+    - Music & Audio
+description: Specializes more in electronic dance music genres such as hardstyle. You see this page because there is no Web site at this address. Given an artist and track name, obtains its lyrics and metadata such as the year released and album art
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: http://api.lololyrics.com/

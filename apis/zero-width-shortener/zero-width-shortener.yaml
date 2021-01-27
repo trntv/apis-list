@@ -1,0 +1,12 @@
+name: Zero Width Shortener
+slug: zero-width-shortener
+categories:
+    - URLs
+description: Shorten URLs with invisible spaces. URL shortener that shortens URLs using spaces that have zero width, making them invisible to humans
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/zero-width-shortener/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://docs.zws.im

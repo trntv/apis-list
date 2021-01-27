@@ -1,0 +1,50 @@
+name: Pinterest
+slug: pinterest
+categories:
+    - Images & Photography
+    - Social
+description: Enables apps to view the most clicked-through or repinned Pins, view related posts, and user profiles. Discover recipes, home ideas, style inspiration and other ideas to try
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pinterest/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: Social API JS JavaScript SDK by Joris Daniel
+      homepage_uri: https://github.com/yoriiis/social-api.js
+      source_code_uri: ""
+      platform: JavaScript
+    - name: SocialSharesCount Go SDK by Sumesh Suvarna
+      homepage_uri: https://github.com/gssumesh/socialsharescount
+      source_code_uri: ""
+      platform: Go
+    - name: Pinterest PHP SDK by Hans Ott
+      homepage_uri: https://github.com/hansott/pinterest-php
+      source_code_uri: ""
+      platform: PHP
+    - name: Pinterest PHP SDK by Dirk Groenen
+      homepage_uri: https://github.com/dirkgroenen/Pinterest-API-PHP
+      source_code_uri: ""
+      platform: PHP
+    - name: Pinterest Go SDK by Carrot Creative
+      homepage_uri: https://github.com/carrot/go-pinterest
+      source_code_uri: ""
+      platform: Go
+    - name: Pinterest JavaScript SDK by Pinterest
+      homepage_uri: https://developers.pinterest.com/docs/sdks/js/
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Pinterest Android SDK by Pinterest
+      homepage_uri: https://developers.pinterest.com/docs/sdks/android/
+      source_code_uri: ""
+      platform: Java
+    - name: Pinterest iOS SDK by Pinterest
+      homepage_uri: https://developers.pinterest.com/docs/sdks/ios/
+      source_code_uri: ""
+      platform: Objective-C
+    - name: Pinterest Layout Android Library by Rahul Jiresal
+      homepage_uri: http://www.rahuljiresal.com/2014/03/pinterest-style-layout-on-android/
+      source_code_uri: https://github.com/rahuljiresal/Pinterest-Layout-Android-Demo
+      platform: Java
+links:
+    - name: Docs / Website
+      url: https://www.pinterest.com/login/?next=http%3A%2F%2Fdevelopers.pinterest.com%2Fapi_docs%2F

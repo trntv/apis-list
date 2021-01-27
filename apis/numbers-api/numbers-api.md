@@ -8,16 +8,16 @@ Numbers. Number of the day, random number generation , number facts and anything
 **Docs / Website**: https://math.tools/api/numbers/
 
 ## 🧬 Numbers Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13638)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13638)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13638)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/numbers-api/numbers-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/numbers-api/numbers-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/numbers-api/numbers-api.yaml)
 
 ## 💬 Numbers Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13638)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/numbers-api/numbers-api.yaml)    
 
 
 ## 🗄️ Categories:

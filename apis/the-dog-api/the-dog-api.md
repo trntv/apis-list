@@ -8,16 +8,16 @@ An API all about dogs. A public service API all about Dogs, free to use when mak
 **Docs / Website**: https://thedogapi.com
 
 ## 🧬 The Dog Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19199)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19199)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19199)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-dog-api/the-dog-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-dog-api/the-dog-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-dog-api/the-dog-api.yaml)
 
 ## 💬 The Dog Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19199)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-dog-api/the-dog-api.yaml)    
 
 
 ## 🗄️ Categories:

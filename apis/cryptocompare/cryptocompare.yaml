@@ -1,0 +1,113 @@
+name: CryptoCompare
+slug: cryptocompare
+categories:
+    - Blockchain & Cryptocurrencies
+description: Cryptocurrencies Comparison. Free cryptocurrency data APIs. Get high-quality historical & real-time trade, order book and volume data through market-leading REST & WebSocket APIs
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cryptocompare/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: Cryptocurrencies API Laravel Manager PHP SDK by Mattia Clementi
+      homepage_uri: https://github.com/ilCleme/cryptocurrencies-laravel
+      source_code_uri: https://packagist.org/packages/ilcleme/cryptocurrencies-laravel
+      platform: PHP
+    - name: CryptoCompare C SDK by Elijah T Davis
+      homepage_uri: https://github.com/Eliiijaaaaah/CryptoArbitrage
+      source_code_uri: ""
+      platform: C
+    - name: CryptoCompare Go SDK by canonical-ledgers
+      homepage_uri: https://github.com/canonical-ledgers/cryptoprice
+      source_code_uri: ""
+      platform: Go
+    - name: CryptoCompare Python SDK by Dalton
+      homepage_uri: https://github.com/daltonherriman76/Current-Crypto-Pricing
+      source_code_uri: ""
+      platform: Python
+    - name: CryptoCompare C# SDK by Rui Costa
+      homepage_uri: https://github.com/ruidacosta/CryptoDataMarket
+      source_code_uri: ""
+      platform: C#
+    - name: CryptoCompare NodeJS SDK by nlawcryptocompare
+      homepage_uri: https://github.com/nlawcryptocompare/ccc-write-trades
+      source_code_uri: ""
+      platform: Node.js
+    - name: CryptoCompare Ruby SDK by Filipe Custódio
+      homepage_uri: https://github.com/fcustodio90/crypto_compare_api
+      source_code_uri: ""
+      platform: Ruby
+    - name: CryptoCompare Python CLI SDK by Gavin Goodship
+      homepage_uri: https://github.com/goodship1/CoinCommand
+      source_code_uri: ""
+      platform: Python
+    - name: CryptoCompare Swift SDK by andyhutch345
+      homepage_uri: https://github.com/andyhutch345/coinDataRetrieval
+      source_code_uri: ""
+      platform: Swift
+    - name: CryptoCompare Python SDK by Ilyas Ibragimov
+      homepage_uri: https://github.com/IlyasI/CryptoDataToCSV
+      source_code_uri: ""
+      platform: Python
+    - name: CryptoCompare Python SDK by MaverickLLC
+      homepage_uri: https://github.com/MaverickLLC/cryptocompareapi_python_MavericLLC
+      source_code_uri: ""
+      platform: Python
+    - name: CryptoCompare Python SDK by Ivan Bogush
+      homepage_uri: https://github.com/OkThought/cryptocmp
+      source_code_uri: https://pypi.org/project/cryptocmp/
+      platform: Python
+    - name: CryptoCompare Python SDK by mondeja
+      homepage_uri: https://github.com/mondeja/pycryptocompare
+      source_code_uri: ""
+      platform: Python
+    - name: CryptoCompare Java SDK by Kehinde Azeez
+      homepage_uri: https://github.com/africaken/Crypto-Currency-Project
+      source_code_uri: ""
+      platform: Java
+    - name: CryptoCompare Go SDK by cstuntz
+      homepage_uri: https://github.com/cstuntz/cryptocompare-scrape
+      source_code_uri: ""
+      platform: Go
+    - name: CryptoCompare Python SDK by Ryan
+      homepage_uri: https://github.com/Ryan3435/CryptoCompare-Python
+      source_code_uri: ""
+      platform: Python
+    - name: CryptoCompare Python SDK by Ronald Rounsifer
+      homepage_uri: https://github.com/iJEEBUS/CryptoComparePython
+      source_code_uri: ""
+      platform: Python
+    - name: CryptoCompare PHP SDK by imanseau
+      homepage_uri: https://github.com/imanseau/CryptoCompare-PHP
+      source_code_uri: ""
+      platform: PHP
+    - name: CryptoCompare PHP SDK by cointokenhub
+      homepage_uri: https://github.com/cointokenhub/cryptocompare-php-api
+      source_code_uri: ""
+      platform: PHP
+    - name: CryptoCompare C# SDK by Alex Gorevski
+      homepage_uri: https://github.com/agorevski/CryptoPrices
+      source_code_uri: ""
+      platform: C#
+    - name: CryptoCompare R SDK by adrian
+      homepage_uri: https://github.com/ilyein/crypto-prices-api
+      source_code_uri: ""
+      platform: R
+    - name: CryptoCompare Elixir SDK by Metachaos Systems
+      homepage_uri: https://github.com/metachaos-systems/cryptocomparex
+      source_code_uri: https://hexdocs.pm/cryptocomparex/api-reference.html
+      platform: Elixir
+    - name: CryptoCompare Java SDK by CryptoDashboard201
+      homepage_uri: https://github.com/CryptoDashboard201/DataFromAPI
+      source_code_uri: ""
+      platform: Java
+    - name: CryptoCompare Java SDK by Matt McFadden
+      homepage_uri: https://github.com/mcfadd/Cryptos4J
+      source_code_uri: ""
+      platform: Java
+    - name: CryptoCompare Java SDK by mistyhippo
+      homepage_uri: https://github.com/mistyhippo/cryptocompare_api
+      source_code_uri: ""
+      platform: Java
+links:
+    - name: Docs / Website
+      url: https://www.cryptocompare.com/api

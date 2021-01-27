@@ -8,16 +8,16 @@ Movebank is a free, online database and research platform for animal tracking an
 **Docs / Website**: https://github.com/movebank/movebank-api-doc
 
 ## 🧬 Movebank Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12622)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12622)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12622)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/movebank/movebank.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/movebank/movebank.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/movebank/movebank.yaml)
 
 ## 💬 Movebank Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12622)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/movebank/movebank.yaml)    
 
 
 ## 🗄️ Categories:

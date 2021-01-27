@@ -8,16 +8,16 @@ Contribute to AlbertSuarez/searchly development by creating an account on GitHub
 **Docs / Website**: https://github.com/AlbertSuarez/searchly
 
 ## 🧬 SearchLy Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17234)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17234)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17234)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/searchly/searchly.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/searchly/searchly.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/searchly/searchly.yaml)
 
 ## 💬 SearchLy Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17234)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/searchly/searchly.yaml)    
 
 
 ## 🗄️ Categories:

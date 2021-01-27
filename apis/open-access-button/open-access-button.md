@@ -6,16 +6,16 @@ Free, legal research articles delivered instantly or automatically requested fro
 **Docs / Website**: https://openaccessbutton.org/api
 
 ## 🧬 Open Access Button Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13922)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13922)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13922)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-access-button/open-access-button.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-access-button/open-access-button.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-access-button/open-access-button.yaml)
 
 ## 💬 Open Access Button Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13922)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-access-button/open-access-button.yaml)    
 
 
 ## 🗄️ Categories:

@@ -1,0 +1,13 @@
+name: Satyr
+slug: satyr
+categories:
+    - Development
+    - Testing
+description: Free powerful API for generating dummy images with unique features like delay, aspect ratio, variable resolution, themes, flags and offline mode.
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/satyr/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: http://satyr.io/

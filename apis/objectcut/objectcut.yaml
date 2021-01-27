@@ -1,0 +1,13 @@
+name: ObjectCut
+slug: objectcut
+categories:
+    - AI & ML
+    - Art & Design
+description: Automatic background removal real-time service powered by AI. Automatic background removal service powered by AI. From an input image given its public-accessible URL or being the image itself, ObjectCut returns the same image but without background
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/objectcut/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://objectcut.com

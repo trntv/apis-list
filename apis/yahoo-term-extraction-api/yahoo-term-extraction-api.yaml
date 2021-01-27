@@ -1,0 +1,11 @@
+name: Yahoo Term Extraction API
+slug: yahoo-term-extraction-api
+categories:
+    - Search
+description: Join the 200,000 developers using Yahoo tools to build their app businesses. Content Analysis detects, ranks, and resolves entities in unstructured content and classifies a document against our taxonomy. Measure, monetize, advertise and improve your apps with Yahoo tools
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/yahoo-term-extraction-api/logo_256x256.png
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://developer.yahoo.com/contentanalysis/

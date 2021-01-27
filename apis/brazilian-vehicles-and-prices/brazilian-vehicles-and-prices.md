@@ -8,16 +8,16 @@ Table FIPE Consultation API provides average vehicle prices in the brazilian mar
 **Docs / Website**: https://deividfortuna.github.io/fipe/
 
 ## 🧬 Brazilian Vehicles and Prices Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2218)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2218)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2218)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/brazilian-vehicles-and-prices/brazilian-vehicles-and-prices.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/brazilian-vehicles-and-prices/brazilian-vehicles-and-prices.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/brazilian-vehicles-and-prices/brazilian-vehicles-and-prices.yaml)
 
 ## 💬 Brazilian Vehicles and Prices Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2218)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/brazilian-vehicles-and-prices/brazilian-vehicles-and-prices.yaml)    
 
 
 ## 🗄️ Categories:

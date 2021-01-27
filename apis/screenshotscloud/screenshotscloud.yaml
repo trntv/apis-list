@@ -1,0 +1,41 @@
+name: Screenshotscloud
+slug: screenshotscloud
+categories:
+    - Scrapers & Data Mining
+    - Images & Photography
+description: With this screenshot API you can automate high quality real browser screenshots in seconds using reliable CDN backed queueless API service. JPEG, PNG or PDF output available
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/screenshotscloud/logo_256x256.png
+is_active: true
+libraries:
+    - name: ScreenshotsCloud Shell Script SDK
+      homepage_uri: https://github.com/ScreenshotsCloud/screenshotscloud-sh
+      source_code_uri: ""
+      platform: JavaScript
+    - name: ScreenshotsCloud Java SDK
+      homepage_uri: https://github.com/ScreenshotsCloud/screenshotscloud-java
+      source_code_uri: ""
+      platform: Java
+    - name: ScreenshotsCloud C# SDK
+      homepage_uri: https://github.com/ScreenshotsCloud/screenshotscloud-cs
+      source_code_uri: ""
+      platform: C#
+    - name: ScreenshotsCloud NodeJS SDK
+      homepage_uri: https://github.com/ScreenshotsCloud/screenshotscloud-node
+      source_code_uri: ""
+      platform: Node.js
+    - name: ScreenshotsCloud Python SDK
+      homepage_uri: https://github.com/ScreenshotsCloud/screenshotscloud-python
+      source_code_uri: ""
+      platform: Python
+    - name: ScreenshotsCloud Ruby SDK
+      homepage_uri: https://github.com/ScreenshotsCloud/screenshotscloud-ruby
+      source_code_uri: ""
+      platform: Ruby
+    - name: ScreenshotsCloud PHP SDK
+      homepage_uri: https://github.com/ScreenshotsCloud/screenshotscloud-php
+      source_code_uri: ""
+      platform: PHP
+links:
+    - name: Docs / Website
+      url: https://screenshots.cloud/

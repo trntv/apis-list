@@ -8,16 +8,16 @@ Please refer to the PTV website until further notice. PTV API
 **Docs / Website**: https://www.ptv.vic.gov.au/footer/ptv-data-and-reports/digital-products/ptv-timetable-api
 
 ## 🧬 Transportation in Victoria, Australia Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19974)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19974)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19974)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-victoria-au/transport-for-victoria-au.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-victoria-au/transport-for-victoria-au.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-victoria-au/transport-for-victoria-au.yaml)
 
 ## 💬 Transportation in Victoria, Australia Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19974)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-victoria-au/transport-for-victoria-au.yaml)    
 
 
 ## 🗄️ Categories:

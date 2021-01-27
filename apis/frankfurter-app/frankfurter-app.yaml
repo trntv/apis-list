@@ -1,0 +1,11 @@
+name: Frankfurter.app
+slug: frankfurter-app
+categories:
+    - Finance & Economics
+description: Frankfurter currency data API
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://www.frankfurter.app/docs/

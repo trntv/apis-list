@@ -1,0 +1,50 @@
+name: bitpay
+slug: bitpay
+categories:
+    - Payments
+    - Blockchain & Cryptocurrencies
+description: A simple, RESTful API to the most powerful bitcoin infrastructure on the planet. Start accepting bitcoin, store and spend bitcoin securely, or get the BitPay Card
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/bitpay/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: BitPay Cordova SDK
+      homepage_uri: https://github.com/bitpay/cordova-sdk
+      source_code_uri: ""
+      platform: JavaScript
+    - name: BitPay Android SDK
+      homepage_uri: https://github.com/bitpay/android-sdk
+      source_code_uri: ""
+      platform: Java
+    - name: BitPay Ruby Client Library
+      homepage_uri: https://github.com/bitpay/ruby-client
+      source_code_uri: ""
+      platform: Ruby
+    - name: BitPay C# Client Library
+      homepage_uri: https://github.com/bitpay/csharp-bitpay-client
+      source_code_uri: ""
+      platform: C#
+    - name: BitPay Perl Client Library
+      homepage_uri: https://github.com/bitpay/perl-client
+      source_code_uri: ""
+      platform: PERL
+    - name: BitPay Java Client Library
+      homepage_uri: https://github.com/bitpay/java-bitpay-client
+      source_code_uri: ""
+      platform: Java
+    - name: BitPay PHP Client Library
+      homepage_uri: https://github.com/bitpay/php-bitpay-client
+      source_code_uri: ""
+      platform: PHP
+    - name: BitPay Python Client Library
+      homepage_uri: https://github.com/bitpay/python-client
+      source_code_uri: ""
+      platform: Python
+    - name: BitPay Node.js Client Library
+      homepage_uri: https://github.com/bitpay/node-bitpay-client
+      source_code_uri: ""
+      platform: Node.js
+links:
+    - name: Docs / Website
+      url: https://bitpay.com/developers

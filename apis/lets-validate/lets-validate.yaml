@@ -1,0 +1,14 @@
+name: Let'S Validate
+slug: lets-validate
+categories:
+    - Development
+    - Collaboration
+    - Images & Photography
+    - Validation & Verification
+description: Uncovers the technologies used on websites and URL to thumbnail. API that uncovers the technologies used on websites and generates thumbnail from screenshot of website - letsvalidate/api
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/lets-validate/logo_256x256.png
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://github.com/letsvalidate/api

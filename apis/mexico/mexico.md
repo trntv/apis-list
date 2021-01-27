@@ -8,16 +8,16 @@ Contribute to IcaliaLabs/sepomex development by creating an account on GitHub. A
 **Docs / Website**: https://github.com/IcaliaLabs/sepomex
 
 ## 🧬 Mexico Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12414)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12414)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12414)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mexico/mexico.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mexico/mexico.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mexico/mexico.yaml)
 
 ## 💬 Mexico Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12414)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/mexico/mexico.yaml)    
 
 
 ## 🗄️ Categories:

@@ -1,10 +1,10 @@
 package list
 
 import (
-	"fmt"
-	"github.com/apis-list/apis-list/toolbelt/utils"
 	"gopkg.in/yaml.v3"
 	"io/ioutil"
+	"path"
+	"path/filepath"
 )
 
 type APIs []*API
@@ -26,8 +26,6 @@ type API struct {
 
 	Libraries Libraries `yaml:"libraries,omitempty"`
 	Links     []APILink `yaml:"links,omitempty"`
-
-	Line int `yaml:"-"`
 }
 
 type APISpecification struct {
@@ -87,21 +85,26 @@ func (a Libraries) ByPlatform() map[string][]*APILibrary {
 	return cm
 }
 
-func ReadList(path string) ([]*API, error) {
-	apisData, err := ioutil.ReadFile(path)
-	if err != nil {
-		return nil, err
-	}
-
+func ReadList(repositoryPath string) ([]*API, error) {
 	var list []*API
-	err = yaml.Unmarshal(apisData, &list)
-	if err != nil {
-		return nil, err
-	}
 
-	lf := utils.NewLineNumberFinder(apisData)
-	for k, v := range list {
-		list[k].Line = lf.FindLineNumber(fmt.Sprintf("name: %s", v.Name))
+	matches, _ := filepath.Glob(path.Join(repositoryPath, "apis", "*/*.yaml"))
+	for _, match := range matches {
+		var api API
+
+		data, err := ioutil.ReadFile(match)
+		if err != nil {
+			return nil, err
+		}
+
+		err = yaml.Unmarshal(data, &api)
+		if err != nil {
+			return nil, err
+		}
+
+		api.Slug = path.Base(path.Dir(match))
+
+		list = append(list, &api)
 	}
 
 	return list, nil

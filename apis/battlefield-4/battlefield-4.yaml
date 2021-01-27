@@ -1,0 +1,11 @@
+name: Battlefield 4
+slug: battlefield-4
+categories:
+    - Games
+description: Battlefield 4 Information. P-Stats Player Stats Network As of October 27, 2019 the P-Stats Network has shutdown. In 2005 the first website started and in 2011 the P-Stats Network was formed to provide the most detailed playe
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/battlefield-4/logo_256x256.png
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://endof.p-stats.com/

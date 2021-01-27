@@ -1,0 +1,41 @@
+name: Wunderlist
+slug: wunderlist
+categories:
+    - Project Management
+    - Documents & Productivity
+description: Todo Lists
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wunderlist/logo_256x256.png
+is_active: false
+libraries:
+    - name: Wunderlist .NET SDK by Miguel Hasse de Oliveira
+      homepage_uri: https://www.nuget.org/packages/Hasseware.Wunderlist/
+      source_code_uri: https://github.com/miguelhasse/Net.Wunderlist
+      platform: .Net, C#
+    - name: Wunderlist Node.js SDK by Felipe Sousa
+      homepage_uri: https://www.npmjs.com/package/wunderlist-api
+      source_code_uri: https://github.com/felipesousa/wunderlist-api
+      platform: Node.js
+    - name: Wunderlist Go SDK by Dimitar Kostov
+      homepage_uri: https://github.com/mytrile/wunderlist
+      source_code_uri: ""
+      platform: Go
+    - name: Wunderlist Ruby SDK by Sebastian Gräßl
+      homepage_uri: https://github.com/bastilian/wunderlist-cli
+      source_code_uri: ""
+      platform: Ruby
+    - name: Wunderlist PHP SDK by Joshua de Gier
+      homepage_uri: https://github.com/PENDOnl/Wunderlist2-PHP-Wrapper
+      source_code_uri: ""
+      platform: PHP
+    - name: Wunderlist JavaScript SDK by Wunderlist
+      homepage_uri: https://developer.wunderlist.com/documentation/tools/wunderlist.js
+      source_code_uri: https://github.com/wunderlist/wunderlist.js
+      platform: JavaScript
+    - name: Wunderlist Perl Library by Al Newkirk
+      homepage_uri: https://metacpan.org/release/API-Wunderlist
+      source_code_uri: https://github.com/alnewkirk/API-Wunderlist
+      platform: PERL
+links:
+    - name: Docs / Website
+      url: https://developer.wunderlist.com/documentation

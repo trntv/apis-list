@@ -6,16 +6,16 @@ MLScrape is an API that allows you to scrape data from any online shop without h
 **Docs / Website**: https://www.mlscrape.com
 
 ## 🧬 MLScrape Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11736)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11736)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11736)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mlscrape/mlscrape.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mlscrape/mlscrape.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mlscrape/mlscrape.yaml)
 
 ## 💬 MLScrape Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11736)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/mlscrape/mlscrape.yaml)    
 
 
 ## 🗄️ Categories:

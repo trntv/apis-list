@@ -1,0 +1,26 @@
+name: Lyft
+slug: lyft
+categories:
+    - Transportation
+description: Get real-time ETAs, availability, price estimates, ride status through the Lyft API. Learn more about how you can create delightful experiences that transport people —leveraging the power of Lyft's API.
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/lyft/logo_256x256.png
+type: REST
+contact: api-support@lyft.com
+is_active: true
+libraries:
+    - name: Lyft Go SDK by Lyft
+      homepage_uri: https://github.com/lyft/lyft-go-sdk
+      source_code_uri: ""
+      platform: Go
+    - name: Lyft NodeJS SDK by Lyft
+      homepage_uri: https://www.npmjs.com/package/lyft-api
+      source_code_uri: https://www.npmjs.com/package/lyft-api
+      platform: Node.js
+    - name: Lyft Android SDK by Lyft
+      homepage_uri: https://github.com/lyft/lyft-android-sdk
+      source_code_uri: ""
+      platform: Java
+links:
+    - name: Docs / Website
+      url: https://www.lyft.com/developers

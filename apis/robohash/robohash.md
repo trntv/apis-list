@@ -8,16 +8,16 @@ Generate Unique images from any text. Robohash is a easy web service that makes 
 **Docs / Website**: https://robohash.org/
 
 ## 🧬 RoboHash Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16763)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16763)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16763)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/robohash/robohash.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/robohash/robohash.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/robohash/robohash.yaml)
 
 ## 💬 RoboHash Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16763)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/robohash/robohash.yaml)    
 
 
 ## 🗄️ Categories:

@@ -1,0 +1,14 @@
+name: Everypixel
+slug: everypixel
+categories:
+    - AI & ML
+    - Images & Photography
+    - Text Analysis & Tools
+    - Recognition
+description: Automatic image keywording and categorization API. The Everypixel Image Recognition sees images like a human, but costs several times cheaper. This model is designed to evaluate user photos taken both by a professional camera and by a camera of a smartphone
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/everypixel/logo_256x256.png
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://labs.everypixel.com/api

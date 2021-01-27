@@ -6,9 +6,9 @@ Flexible natural language processing APIs and complete text analytics platform s
 **Docs / Website**: https://www.lexalytics.com/
 
 ## 🧬 Lexalytics Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11204)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11204)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11204)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/semantria/semantria.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/semantria/semantria.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/semantria/semantria.yaml)
 
 ## 💬 Lexalytics Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

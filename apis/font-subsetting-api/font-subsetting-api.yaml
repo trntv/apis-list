@@ -1,0 +1,10 @@
+name: Font Subsetting Api
+slug: font-subsetting-api
+categories:
+    - Art & Design
+description: Font subsetting REST API. Fonts API - Subscription
+is_free: false
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://everythingfonts.com/api/subset

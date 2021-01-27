@@ -6,16 +6,16 @@ Trakt collect lots of information about what tv shows and movies everyone is wat
 **Docs / Website**: https://trakt.docs.apiary.io/
 
 ## 🧬 Trakt Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19607)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19607)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19607)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/trakt/trakt.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/trakt/trakt.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/trakt/trakt.yaml)
 
 ## 💬 Trakt Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19607)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/trakt/trakt.yaml)    
 
 
 ## 🗄️ Categories:

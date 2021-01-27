@@ -6,16 +6,16 @@ PlaceGOAT placeholder service.
 **Docs / Website**: https://placegoat.com/
 
 ## 🧬 PlaceGoat Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14952)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14952)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14952)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/placegoat/placegoat.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/placegoat/placegoat.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/placegoat/placegoat.yaml)
 
 ## 💬 PlaceGoat Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14952)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/placegoat/placegoat.yaml)    
 
 
 ## 🗄️ Categories:

@@ -8,16 +8,16 @@ Share and collaborate in developing threat intelligence. Protect yourself and th
 **Docs / Website**: https://otx.alienvault.com/api
 
 ## 🧬 AlienVault Open Threat Exchange (OTX) Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L595)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L595)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L595)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/alienvault-open-threat-exchange-otx/alienvault-open-threat-exchange-otx.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/alienvault-open-threat-exchange-otx/alienvault-open-threat-exchange-otx.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/alienvault-open-threat-exchange-otx/alienvault-open-threat-exchange-otx.yaml)
 
 ## 💬 AlienVault Open Threat Exchange (OTX) Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L595)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/alienvault-open-threat-exchange-otx/alienvault-open-threat-exchange-otx.yaml)    
 
 
 ## 🗄️ Categories:

@@ -8,16 +8,16 @@ High-quality fonts to use on your web site
 **Docs / Website**: https://developers.google.com/fonts/?hl=en
 
 ## 🧬 The Google Fonts Developer API. Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19211)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19211)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19211)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-google-fonts-developer-api/the-google-fonts-developer-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-google-fonts-developer-api/the-google-fonts-developer-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-google-fonts-developer-api/the-google-fonts-developer-api.yaml)
 
 ## 💬 The Google Fonts Developer API. Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19211)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-google-fonts-developer-api/the-google-fonts-developer-api.yaml)    
 
 
 ## 🗄️ Categories:

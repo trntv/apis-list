@@ -1,0 +1,33 @@
+name: Rhapsody
+slug: rhapsody
+categories:
+    - Music & Audio
+description: Access metadata, user’s entire library of music and do much more. The Napster API enables legal on-demand playback of millions of songs. Start building something awesome with the original streaming service
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/rhapsody/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: PushSpring Android SDK by Rhapsody
+      homepage_uri: https://github.com/Rhapsody/PushSpringSDK-Android
+      source_code_uri: https://github.com/Rhapsody/PushSpringSDK-Android/tree/master/PushSpringSDK/src/com/pushspring/sdk
+      platform: Java
+    - name: Rhapsody Java SDK by Kai Winter
+      homepage_uri: https://github.com/kaiwinter/rhapsody-java-sdk
+      source_code_uri: ""
+      platform: Java
+    - name: Rhapsody JavaScript SDK by Rhapsody
+      homepage_uri: https://github.com/Rhapsody/rhapsody.js
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Rhapsody iOS SDK by Rhapsody
+      homepage_uri: https://developers.coinbase.com/api/v2
+      source_code_uri: https://github.com/Rhapsody/rhapsody-ios-sdk
+      platform: Objective-C
+    - name: Rhapsody Android SDK by Rhapsody
+      homepage_uri: https://developer.rhapsody.com/sdks
+      source_code_uri: https://github.com/Rhapsody/rhapsody-android-sdk
+      platform: Java
+links:
+    - name: Docs / Website
+      url: https://developer.rhapsody.com/

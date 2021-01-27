@@ -1,0 +1,14 @@
+name: CORE
+slug: core
+categories:
+    - Science & Math
+    - Education
+    - News & Feeds
+description: CORE harvests, maintains, enriches and makes available metadata and full text content - typically a PDF - from many Open Access journals and repositories.
+is_free: false
+type: REST
+contact: support@configcat.com
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://core.ac.uk/services#api

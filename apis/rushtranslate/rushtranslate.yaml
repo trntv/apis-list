@@ -1,0 +1,13 @@
+name: Rushtranslate
+slug: rushtranslate
+categories:
+    - Business
+    - Documents & Productivity
+    - Translation
+description: "RushTranslate offers certified document translation services in over 60 languages provided by native speaking professionals. RushTranslate provides a REST API for human translation services allowing programmatic placement and management of orders. Our API is perfect for high volume users who want to automate their workflow. \n. The RushTranslate API enables human-powered translation services in applications. The API is used to create orders, retrieve files, request revisions, and more. Responses are JSON formatted"
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/rushtranslate/logo_256x256.png
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://rushtranslate.com/docs

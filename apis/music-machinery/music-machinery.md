@@ -8,16 +8,16 @@ Here’s a categorized list of all the Music APIs. Notice one that is missing or
 **Docs / Website**: https://musicmachinery.com/music-apis/
 
 ## 🧬 Music Machinery Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12645)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12645)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12645)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/music-machinery/music-machinery.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/music-machinery/music-machinery.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/music-machinery/music-machinery.yaml)
 
 ## 💬 Music Machinery Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12645)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/music-machinery/music-machinery.yaml)    
 
 
 ## 🗄️ Categories:

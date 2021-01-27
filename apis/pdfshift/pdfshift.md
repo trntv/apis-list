@@ -9,16 +9,16 @@ The service is focused to help developers set up the conversion quickly and focu
 **Docs / Website**: https://pdfshift.io/
 
 ## 🧬 Pdfshift  Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L0)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L0)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L0)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pdfshift/pdfshift.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pdfshift/pdfshift.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pdfshift/pdfshift.yaml)
 
 ## 💬 Pdfshift  Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L0)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/pdfshift/pdfshift.yaml)    
 
 
 ## 🗄️ Categories:

@@ -8,16 +8,16 @@ This page describes some of the features of the Cloud Monitoring API v3. For the
 **Docs / Website**: https://cloud.google.com/monitoring/api/v3/
 
 ## 🧬 Google Monitoring API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8605)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8605)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8605)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-monitoring-api/google-monitoring-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-monitoring-api/google-monitoring-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-monitoring-api/google-monitoring-api.yaml)
 
 ## 💬 Google Monitoring API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8605)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-monitoring-api/google-monitoring-api.yaml)    
 
 
 ## 🗄️ Categories:

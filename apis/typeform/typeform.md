@@ -8,9 +8,9 @@ Typeform's APIs allow you to create and edit Typeform surveys, and retrieve surv
 **Docs / Website**: https://developer.typeform.com/
 
 ## 🧬 Typeform Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20522)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20522)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20522)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/typeform/typeform.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/typeform/typeform.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/typeform/typeform.yaml)
 
 ## 💬 Typeform Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

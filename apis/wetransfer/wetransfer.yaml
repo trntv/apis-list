@@ -1,0 +1,21 @@
+name: Wetransfer
+slug: wetransfer
+categories:
+    - Documents & Productivity
+    - Files & Storage
+description: Put us in unexpected places, challenge the traditional creative flow, think big, go wild. File Sharing. Integrate WeTransfer into your product, your platform, your life
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wetransfer/logo_256x256.png
+is_active: true
+libraries:
+    - name: WeTransfer WeScan Swift SDK
+      homepage_uri: https://github.com/WeTransfer/WeScan
+      source_code_uri: ""
+      platform: Swift
+    - name: WeTransfer JavaScript SDK
+      homepage_uri: https://wetransfer.github.io/wt-api-docs/index.html#sdks
+      source_code_uri: https://github.com/WeTransfer/wt-js-sdk
+      platform: JavaScript
+links:
+    - name: Docs / Website
+      url: https://developers.wetransfer.com

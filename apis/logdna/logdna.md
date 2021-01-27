@@ -6,16 +6,16 @@ Learn about logging, how to get started, and how to maximize our log collection,
 **Docs / Website**: https://docs.logdna.com/docs
 
 ## 🧬 Logdna Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11543)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11543)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11543)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/logdna/logdna.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/logdna/logdna.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/logdna/logdna.yaml)
 
 ## 💬 Logdna Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11543)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/logdna/logdna.yaml)    
 
 
 ## 🗄️ Categories:

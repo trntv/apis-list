@@ -1,0 +1,10 @@
+name: Geo Info
+slug: geo-info
+categories:
+    - Other
+description: A simple free reverse geocoding API for turning coordinates into human readable locations. geo-info is a simple reverse geocoding api. Turn coordinates into human readable locations, and locations in coordinates.
+is_free: false
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://geo-info.co

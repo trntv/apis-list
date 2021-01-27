@@ -1,0 +1,11 @@
+name: Treopim Api
+slug: treopim-api
+categories:
+    - Commerce
+description: AtroPIM is a free, modern, open source, GPLv3 licensed, web-based, feature-rich and configurable PIM solution of the new generation. Managing, editing, and delivering product information is time-consuming. It must be informative, accurate and revenue generating in terms of quality and for all existing channels. This task is handled by a Product Information Management System (PIM). PIM helps you to centralize, optimize and publish on all appropriate channels all product-related, technical and / or marketing-relevant information about all your products
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/treopim-api/logo_256x256.png
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://atropim.com/

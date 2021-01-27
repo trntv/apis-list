@@ -6,16 +6,16 @@ The PWRTelegram MTProto API. Boosted version of the Telegram bot API
 **Docs / Website**: https://pwrtelegram.xyz
 
 ## 🧬 Pwrtelegram Bot Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15904)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15904)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15904)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pwrtelegram-bot/pwrtelegram-bot.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pwrtelegram-bot/pwrtelegram-bot.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pwrtelegram-bot/pwrtelegram-bot.yaml)
 
 ## 💬 Pwrtelegram Bot Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15904)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/pwrtelegram-bot/pwrtelegram-bot.yaml)    
 
 
 ## 🗄️ Categories:

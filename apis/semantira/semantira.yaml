@@ -1,0 +1,12 @@
+name: Semantira
+slug: semantira
+categories:
+    - Text Analysis & Tools
+    - AI & ML
+description: To get started check out Install the SDK. For detailed explana. In this documentation you will find comprehensive guides and documentation to help you start working with the Semantria API. The Semantria API is a paid Saas text analytics service from Lexalytics. Contact sales to discuss your use case
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://semantria.readme.io/docs

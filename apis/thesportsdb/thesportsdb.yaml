@@ -1,0 +1,15 @@
+name: TheSportsDB
+slug: thesportsdb
+categories:
+    - Images & Photography
+    - Sport & Fitness
+    - Art & Design
+    - Statistics & Data
+description: Various sports events, results, players, teams and high quality artwork. TheSportsDB is an open, crowd sourced database of Sports metadata with Events, TV listings, Artwork, Scores and a free JSON Sports API
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/thesportsdb/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: http://www.thesportsdb.com/

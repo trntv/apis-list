@@ -8,9 +8,9 @@ Access to Cambridge’s custom-developed API. License our data. Use Cambridge Di
 **Docs / Website**: http://dictionary.cambridge.org/license.html
 
 ## 🧬 Cambridge Dictionaries Online Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2456)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2456)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2456)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cambridge-dictionaries-online/cambridge-dictionaries-online.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cambridge-dictionaries-online/cambridge-dictionaries-online.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cambridge-dictionaries-online/cambridge-dictionaries-online.yaml)
 
 ## 💬 Cambridge Dictionaries Online Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

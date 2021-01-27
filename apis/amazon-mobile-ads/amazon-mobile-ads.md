@@ -6,16 +6,16 @@ Monetize across platforms with multiple ad formats. Mobile Ads Monetize your glo
 **Docs / Website**: https://developer.amazon.com/mobile-ads
 
 ## 🧬 Amazon Mobile Ads Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L669)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L669)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L669)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/amazon-mobile-ads/amazon-mobile-ads.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/amazon-mobile-ads/amazon-mobile-ads.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/amazon-mobile-ads/amazon-mobile-ads.yaml)
 
 ## 💬 Amazon Mobile Ads Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L669)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/amazon-mobile-ads/amazon-mobile-ads.yaml)    
 
 
 ## 🗄️ Categories:

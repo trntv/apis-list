@@ -1,0 +1,143 @@
+name: Twilio
+slug: twilio
+categories:
+    - Email & SMS
+    - Voice
+description: APIs for SMS, Voice, Video and more. With Twilio, unite communications and strengthen customer relationships across your business from marketing and sales to customer service and operations
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/twilio/logo_256x256.png
+type: REST
+contact: support@transitfeeds.com
+is_active: true
+libraries:
+    - name: Twilio .NET SDK
+      homepage_uri: https://github.com/twilio/twilio-csharp
+      source_code_uri: https://www.nuget.org/packages/Twilio
+      platform: .Net, C#
+    - name: Twilio Java SDK
+      homepage_uri: https://github.com/twilio/twilio-java
+      source_code_uri: https://mvnrepository.com/artifact/com.twilio.sdk/twilio
+      platform: Java
+    - name: CWilio-SMS PHP SDK by Joey Undis
+      homepage_uri: https://github.com/jundis/CWilio-SMS
+      source_code_uri: ""
+      platform: PHP
+    - name: Twilio Python SDK by Lyft
+      homepage_uri: https://github.com/lyft/twilio-python
+      source_code_uri: ""
+      platform: Python
+    - name: Twilio Perl SDK by Scott Wiersdorf
+      homepage_uri: http://search.cpan.org/~scottw/WWW-Twilio-API-0.20/
+      source_code_uri: ""
+      platform: PERL
+    - name: Twilio JavaScript SDK
+      homepage_uri: https://www.twilio.com/docs/voice/client/javascript
+      source_code_uri: https://www.npmjs.com/package/twilio-client
+      platform: JavaScript
+    - name: Twilio C++ SDK by Laurent Luce
+      homepage_uri: https://github.com/laurentluce/twilio-cplusplus
+      source_code_uri: ""
+      platform: C++
+    - name: Twilio Erlang Library by Ryan Huffman
+      homepage_uri: https://github.com/huffman/twilio_erlang/blob/master/README.md
+      source_code_uri: https://github.com/huffman/twilio_erlang
+      platform: Unspecified
+    - name: Twilio sms-rb Ruby Library by Pat Nakajima
+      homepage_uri: https://github.com/nakajima/sms-rb/blob/master/README.md
+      source_code_uri: https://github.com/nakajima/sms-rb
+      platform: Ruby
+    - name: Twilio-Rails Ruby Library by Hemant Bhanoo
+      homepage_uri: https://github.com/hbhanoo/Twilio-Rails/blob/master/README.txt
+      source_code_uri: https://github.com/hbhanoo/Twilio-Rails
+      platform: Ruby
+    - name: Twilio Ruby Wrapper by Webficient
+      homepage_uri: http://www.webficient.com/
+      source_code_uri: https://github.com/webficient/twilio
+      platform: Ruby
+    - name: Fuel-Twilio PHP Library by Matthew McConnell
+      homepage_uri: https://github.com/maca134/fuel-twilio/blob/master/README.md
+      source_code_uri: https://github.com/maca134/fuel-twilio
+      platform: PHP
+    - name: Twilio Ruby Library by Philip Misiowiec
+      homepage_uri: https://github.com/webficient/twilio
+      source_code_uri: ""
+      platform: Ruby
+    - name: Drupal Twilio PHP Library by Arvin Singla
+      homepage_uri: https://www.drupal.org/project/twilio
+      source_code_uri: https://www.drupal.org/node/895232/
+      platform: PHP
+    - name: Twilio C# Library by Twilio
+      homepage_uri: https://www.twilio.com/docs/csharp/install
+      source_code_uri: https://github.com/twilio/twilio-csharp/tree/4.7.2
+      platform: C#
+    - name: Twilio Scala Library by Dag Liodden
+      homepage_uri: https://github.com/daggerrz/Scwilio/blob/master/README.markdown
+      source_code_uri: https://github.com/daggerrz/Scwilio
+      platform: Scala
+    - name: Twilio C++ Library by Laurent Luce
+      homepage_uri: https://github.com/laurentluce/twilio-cplusplus/blob/master/README
+      source_code_uri: https://github.com/laurentluce/twilio-cplusplus
+      platform: C++
+    - name: Twilio Google Apps Script Library by Samy Vacheresse
+      homepage_uri: https://github.com/illiatdesdindes/twilio-gas/blob/master/README.md
+      source_code_uri: https://github.com/illiatdesdindes/twilio-gas
+      platform: JavaScript
+    - name: Twilio JavaScript Library by Alexandre Morgaut
+      homepage_uri: https://github.com/AMorgaut/wakanda-twilio/blob/master/readme.md
+      source_code_uri: https://github.com/AMorgaut/wakanda-twilio
+      platform: JavaScript
+    - name: Twilio Java GWT Library by Alessio Harri
+      homepage_uri: https://code.google.com/p/gwt-twilio/
+      source_code_uri: https://code.google.com/p/gwt-twilio/downloads/detail?name=gwt-twilio-1.1.jar
+      platform: Java
+    - name: Twilio C# Library by Billy Coover
+      homepage_uri: https://github.com/azcoov/twilio.sugar/blob/master/README.md
+      source_code_uri: https://github.com/azcoov/twilio.sugar
+      platform: C#
+    - name: Twilio Go Library by ckvist
+      homepage_uri: https://bitbucket.org/ckvist/twilio
+      source_code_uri: https://bitbucket.org/ckvist/twilio/downloads
+      platform: Go
+    - name: Twilio Go Library by Carlos Diaz-Padron
+      homepage_uri: https://github.com/carlosdp/twiliogo/blob/master/README.md
+      source_code_uri: https://github.com/carlosdp/twiliogo
+      platform: Go
+    - name: Twilio Salesforce Apex Helper Library
+      homepage_uri: https://www.twilio.com/docs/salesforce/install
+      source_code_uri: https://github.com/twilio/twilio-salesforce
+      platform: Unspecified
+    - name: Twilio C-Sharp Helper Library
+      homepage_uri: http://www.twilio.com/docs/csharp/install
+      source_code_uri: https://github.com/twilio/twilio-csharp
+      platform: C#
+    - name: Twilio Ruby Gem
+      homepage_uri: https://github.com/webficient/twilio/tree/master
+      source_code_uri: ""
+      platform: Ruby
+    - name: Twilio JavaScript Library
+      homepage_uri: https://www.twilio.com/webrtc
+      source_code_uri: https://www.twilio.com/docs/client/twilio-js
+      platform: JavaScript
+    - name: WWW-Twilio-TwiML
+      homepage_uri: http://search.cpan.org/~scottw/WWW-Twilio-TwiML-1.05/lib/WWW/Twilio/TwiML.pm
+      source_code_uri: ""
+      platform: PERL
+    - name: WWW-Twilio-API
+      homepage_uri: http://search.cpan.org/~scottw/WWW-Twilio-API-0.16/lib/WWW/Twilio/API.pm
+      source_code_uri: ""
+      platform: PERL
+    - name: TwilioFluent
+      homepage_uri: https://bitbucket.org/kogir/twiliofluent/wiki/Home
+      source_code_uri: ""
+      platform: .Net
+    - name: TwilioSharp
+      homepage_uri: https://github.com/jgable/TwilioSharp
+      source_code_uri: ""
+      platform: .Net, C#
+    - name: Django-Twilio
+      homepage_uri: http://django-twilio.readthedocs.org/en/latest/
+      source_code_uri: https://github.com/rdegges/django-twilio
+      platform: Python
+links:
+    - name: Docs / Website
+      url: https://www.twilio.com/solutions

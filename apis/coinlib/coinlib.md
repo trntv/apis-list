@@ -8,16 +8,16 @@ Coinlib - Crypto Prices, Charts, Lists & Crypto Market News
 **Docs / Website**: https://coinlib.io/apidocs
 
 ## 🧬 Coinlib Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3912)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3912)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3912)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/coinlib/coinlib.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/coinlib/coinlib.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/coinlib/coinlib.yaml)
 
 ## 💬 Coinlib Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3912)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/coinlib/coinlib.yaml)    
 
 
 ## 🗄️ Categories:

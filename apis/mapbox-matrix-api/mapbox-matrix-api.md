@@ -6,16 +6,16 @@ The Mapbox Matrix API returns travel times between many points
 **Docs / Website**: https://docs.mapbox.com/api/
 
 ## 🧬 Mapbox Matrix API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12049)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12049)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12049)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mapbox-matrix-api/mapbox-matrix-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mapbox-matrix-api/mapbox-matrix-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mapbox-matrix-api/mapbox-matrix-api.yaml)
 
 ## 💬 Mapbox Matrix API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12049)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/mapbox-matrix-api/mapbox-matrix-api.yaml)    
 
 
 ## 🗄️ Categories:

@@ -8,16 +8,16 @@ Les données des acteurs du territoire de la Métropole de Lyon
 **Docs / Website**: https://data.beta.grandlyon.com/fr/accueil
 
 ## 🧬 City, Lyon Opendata Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3134)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3134)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3134)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/city-lyon-opendata/city-lyon-opendata.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/city-lyon-opendata/city-lyon-opendata.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/city-lyon-opendata/city-lyon-opendata.yaml)
 
 ## 💬 City, Lyon Opendata Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3134)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/city-lyon-opendata/city-lyon-opendata.yaml)    
 
 
 ## 🗄️ Categories:

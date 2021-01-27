@@ -6,16 +6,16 @@ Multilingual summarization, keywords and sentiment analysis, language recognitio
 **Docs / Website**: https://www.summarizebot.com/summarization_business.html
 
 ## 🧬 SummarizeBot API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18524)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18524)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18524)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/summarizebot-api/summarizebot-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/summarizebot-api/summarizebot-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/summarizebot-api/summarizebot-api.yaml)
 
 ## 💬 SummarizeBot API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18524)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/summarizebot-api/summarizebot-api.yaml)    
 
 
 ## 🗄️ Categories:

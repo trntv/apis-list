@@ -1,0 +1,12 @@
+name: Domainsdb.info
+slug: domainsdb-info
+categories:
+    - Development
+description: Registered domain names search checks the lists of registered domains for names containing particular words/phrases/numbers or symbols
+is_free: false
+type: REST
+contact: dhieber@umail.ucsb.edu
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://domainsdb.info

@@ -1,0 +1,109 @@
+name: Yelp
+slug: yelp
+categories:
+    - Business
+    - Commerce
+    - Point of Interest
+    - Search
+    - Maps & Geo
+    - AI & ML
+description: Yelp's API exposes search to 3rd party developers. You can search location using longitude and latitude, neighborhood, address or city and filter listings by “where”, using a list of support categories
+is_free: false
+type: REST
+is_active: true
+libraries:
+    - name: Yelp Fusion Swift SDK by Christopher de Haan
+      homepage_uri: https://yelp.github.io
+      source_code_uri: https://github.com/chrisdhaan/CDYelpFusionKit
+      platform: Swift
+    - name: Yelp React Native SDK by dobiedad
+      homepage_uri: https://www.npmjs.com/package/v3-yelp-api
+      source_code_uri: https://github.com/dobiedad/v3-yelp-api
+      platform: JavaScript
+    - name: Yelp Fusion PHP SDK by radoneman
+      homepage_uri: https://github.com/radoneman/yelp-fusion-v3-php-client
+      source_code_uri: ""
+      platform: PHP
+    - name: Yelp Fusion Node.js SDK by Vinnie Giarrusso
+      homepage_uri: https://github.com/vingiarrusso/BasicYelpClient
+      source_code_uri: ""
+      platform: Node.js
+    - name: Yelp Fusion Java SDK by RedRoma
+      homepage_uri: https://github.com/RedRoma/YelpJavaClient
+      source_code_uri: ""
+      platform: Java
+    - name: Yelp Fusion JavaScript SDK by Joshua Anderson Slate
+      homepage_uri: https://github.com/joshuaslate/node-yelp-api
+      source_code_uri: ""
+      platform: JavaScript, Node.js
+    - name: Yelp Fusion C# SDK by Joe Brock
+      homepage_uri: https://github.com/jdbrock/yelp-sharp
+      source_code_uri: ""
+      platform: C#
+    - name: Yelp Fusion Python SDK by Garry Polley
+      homepage_uri: https://github.com/garrypolley/yelp-client
+      source_code_uri: ""
+      platform: Python
+    - name: Yelp Fusion Python SDK by Randy Daw-Ran Liou
+      homepage_uri: https://github.com/dawran6/yelpy
+      source_code_uri: ""
+      platform: Python
+    - name: Yelp Fusion Elixir SDK by Gaslight
+      homepage_uri: https://github.com/gaslight/exyelp
+      source_code_uri: ""
+      platform: Elixir
+    - name: Yelp Fusion Python SDK by Johnie Lee
+      homepage_uri: https://github.com/JohnieLee/YelpClient
+      source_code_uri: ""
+      platform: Python
+    - name: Yelp Fusion Node.js SDK by tonybadguy
+      homepage_uri: https://github.com/tonybadguy/yelp-fusion
+      source_code_uri: ""
+      platform: Node.js
+    - name: Yelp Fusion Android SDK by ugomarinelli
+      homepage_uri: https://github.com/ugomarinelli/Yelp
+      source_code_uri: ""
+      platform: Java
+    - name: Yelp Fusion Objective-C SDK by Dhanu Agnihotri
+      homepage_uri: https://github.com/dhanuagnihotri/Yelp
+      source_code_uri: ""
+      platform: Objective-C
+    - name: Yelp Fusion Python SDK by Adam Ever-Hadani
+      homepage_uri: https://github.com/adamhadani/python-yelp
+      source_code_uri: ""
+      platform: Python
+    - name: Yelp Fusion Swift SDK by Jerry Su
+      homepage_uri: https://github.com/jerrysu/CodePath-Yelp
+      source_code_uri: ""
+      platform: Swift
+    - name: Yelp Fusion PHP SDK by Steven Maguire
+      homepage_uri: https://github.com/stevenmaguire/yelp-php
+      source_code_uri: ""
+      platform: PHP
+    - name: Yelp Fusion Node.js SDK by Oli Lalonde
+      homepage_uri: https://github.com/olalonde/node-yelp
+      source_code_uri: ""
+      platform: Node.js
+    - name: Yelp Fusion Android SDK by Yelp
+      homepage_uri: https://github.com/Yelp/yelp-android
+      source_code_uri: ""
+      platform: Java
+    - name: Yelp Fusion iOS SDK by Yelp
+      homepage_uri: https://github.com/Yelp/yelp-ios
+      source_code_uri: ""
+      platform: Objective-C
+    - name: Yelp Fusion Ruby SDK by Yelp
+      homepage_uri: https://github.com/Yelp/yelp-ruby
+      source_code_uri: ""
+      platform: Ruby
+    - name: Yelp Fusion Python SDK by Yelp
+      homepage_uri: https://github.com/Yelp/yelp-python
+      source_code_uri: ""
+      platform: Python
+    - name: 'Yelp C# Library by Justin Beckwith '
+      homepage_uri: https://github.com/JustinBeckwith/YelpSharp
+      source_code_uri: ""
+      platform: C#
+links:
+    - name: Docs / Website
+      url: https://www.yelp.com/developers/documentation/v3/

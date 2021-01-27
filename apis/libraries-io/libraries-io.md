@@ -6,16 +6,16 @@ Discover open source libraries, modules and frameworks you can use in your code.
 **Docs / Website**: https://libraries.io/api
 
 ## 🧬 Libraries.Io Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11254)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11254)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11254)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/libraries-io/libraries-io.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/libraries-io/libraries-io.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/libraries-io/libraries-io.yaml)
 
 ## 💬 Libraries.Io Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11254)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/libraries-io/libraries-io.yaml)    
 
 
 ## 🗄️ Categories:

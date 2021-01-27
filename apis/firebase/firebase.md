@@ -8,9 +8,9 @@ Authentication, analytics, cloud messaging, crash reporting, ads and more
 **Docs / Website**: https://firebase.google.com/docs/reference/
 
 ## 🧬 Firebase Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6515)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6515)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6515)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/firebase/firebase.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/firebase/firebase.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/firebase/firebase.yaml)
 
 ## 💬 Firebase Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

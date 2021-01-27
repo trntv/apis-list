@@ -6,16 +6,16 @@ The TransLink Open API provides access to data associated with the regional bus 
 **Docs / Website**: https://developer.translink.ca/
 
 ## 🧬 Transportation in Vancouver, Canada Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19963)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19963)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19963)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-vancouver-canada/transport-for-vancouver-canada.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-vancouver-canada/transport-for-vancouver-canada.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-vancouver-canada/transport-for-vancouver-canada.yaml)
 
 ## 💬 Transportation in Vancouver, Canada Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19963)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-vancouver-canada/transport-for-vancouver-canada.yaml)    
 
 
 ## 🗄️ Categories:

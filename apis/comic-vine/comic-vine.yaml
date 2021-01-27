@@ -1,0 +1,66 @@
+name: Comic Vine
+slug: comic-vine
+categories:
+    - Entertainment
+    - Comics & Anime
+description: An extremely mature, well organized and continuely updated resource of comic information. The largest comic database online, Comic Vine features Comic Reviews, News, Videos, and Forums for the latest in and more!
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/comic-vine/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: Comic Vine C# SDK by sorrentmutie
+      homepage_uri: https://github.com/sorrentmutie/SharpComicVine
+      source_code_uri: ""
+      platform: C#
+    - name: Comic Vine Elixir SDK by comics-apps
+      homepage_uri: https://github.com/comics-apps/ex_comic_vine_api
+      source_code_uri: ""
+      platform: Elixir
+    - name: Comic Vine Ruby SDK by comics-apps
+      homepage_uri: https://github.com/comics-apps/comic_vine-api
+      source_code_uri: ""
+      platform: Ruby
+    - name: Comic Vine PHP SDK by Outlaw Designs
+      homepage_uri: https://github.com/outlawdesigns-io/ComicVine
+      source_code_uri: ""
+      platform: PHP
+    - name: Comic Vine .NET SDK by Matthew Leibowitz
+      homepage_uri: https://github.com/mattleibow/ComicVineApi
+      source_code_uri: ""
+      platform: .Net, C#
+    - name: Comic Vine Python SDK by swc
+      homepage_uri: https://github.com/swc/comicvine_api
+      source_code_uri: ""
+      platform: Python
+    - name: Comic Vine Ruby SDK by Patrick Sharp
+      homepage_uri: https://github.com/Jakanapes/ComicVine
+      source_code_uri: ""
+      platform: Ruby
+    - name: Comic Vine Objective-C SDK by Bryan ClarkDeprecated
+      homepage_uri: ""
+      source_code_uri: ""
+      platform: Objective-C
+    - name: Comic Vine .NET SDK by Olivier Beaudoin
+      homepage_uri: https://github.com/Thoorium/comicvine-api-net
+      source_code_uri: ""
+      platform: .Net, C#
+    - name: Comic Vine JavaScript SDK by foysal
+      homepage_uri: https://github.com/foysalit/mean-comics
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Comic Vine Java SDK by Kyle Harrison
+      homepage_uri: https://github.com/apoclyps/Comicvine-GrapeJuice
+      source_code_uri: ""
+      platform: Java
+    - name: Comic Vine Python SDK by Martine Lenders
+      homepage_uri: https://github.com/miri64/pycomicvine
+      source_code_uri: ""
+      platform: Python
+    - name: Comic Vine Objective-C SDK by Bryan ClarkDeprecated
+      homepage_uri: ""
+      source_code_uri: ""
+      platform: Objective-C
+links:
+    - name: Docs / Website
+      url: http://comicvine.gamespot.com/api/

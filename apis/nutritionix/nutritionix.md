@@ -6,9 +6,9 @@ Add robust nutrition tracking capability to any health app.
 **Docs / Website**: https://developer.nutritionix.com/
 
 ## 🧬 Nutritionix Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13651)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13651)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13651)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nutritionix/nutritionix.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nutritionix/nutritionix.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nutritionix/nutritionix.yaml)
 
 ## 💬 Nutritionix Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -1,0 +1,11 @@
+name: Count.Io
+slug: count-io
+categories:
+    - Development
+description: Persistent counting and A/B testing
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/count-io/logo_256x256.png
+is_active: false
+links:
+    - name: Docs / Website
+      url: ""

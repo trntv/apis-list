@@ -8,9 +8,9 @@ Enables apps to view the most clicked-through or repinned Pins, view related pos
 **Docs / Website**: https://www.pinterest.com/login/?next=http%3A%2F%2Fdevelopers.pinterest.com%2Fapi_docs%2F
 
 ## 🧬 Pinterest Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14879)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14879)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14879)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pinterest/pinterest.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pinterest/pinterest.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pinterest/pinterest.yaml)
 
 ## 💬 Pinterest Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

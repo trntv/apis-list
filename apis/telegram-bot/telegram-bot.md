@@ -6,9 +6,9 @@ The Bot API is an HTTP-based interface created for developers keen on building b
 **Docs / Website**: https://core.telegram.org/bots/api
 
 ## 🧬 Telegram Bot Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18927)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18927)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18927)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/telegram-bot/telegram-bot.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/telegram-bot/telegram-bot.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/telegram-bot/telegram-bot.yaml)
 
 ## 💬 Telegram Bot Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

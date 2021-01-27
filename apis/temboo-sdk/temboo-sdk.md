@@ -8,16 +8,16 @@ This platform acts as a layer on top of third-party APIs, using code snippets to
 **Docs / Website**: https://temboo.com/download
 
 ## 🧬 Temboo SDK Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19092)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19092)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19092)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/temboo-sdk/temboo-sdk.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/temboo-sdk/temboo-sdk.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/temboo-sdk/temboo-sdk.yaml)
 
 ## 💬 Temboo SDK Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19092)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/temboo-sdk/temboo-sdk.yaml)    
 
 
 ## 🗄️ Categories:

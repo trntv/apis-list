@@ -6,16 +6,16 @@ University of Oslo
 **Docs / Website**: https://data.uio.no/
 
 ## 🧬 University of Oslo Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20991)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20991)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20991)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/university-of-oslo/university-of-oslo.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/university-of-oslo/university-of-oslo.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/university-of-oslo/university-of-oslo.yaml)
 
 ## 💬 University of Oslo Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20991)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/university-of-oslo/university-of-oslo.yaml)    
 
 
 ## 🗄️ Categories:

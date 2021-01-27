@@ -8,16 +8,16 @@ The Spaceflight News API lets you add space related news to your apps
 **Docs / Website**: https://spaceflightnewsapi.net
 
 ## 🧬 Spaceflight News Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17975)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17975)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17975)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/spaceflight-news/spaceflight-news.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/spaceflight-news/spaceflight-news.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/spaceflight-news/spaceflight-news.yaml)
 
 ## 💬 Spaceflight News Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17975)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/spaceflight-news/spaceflight-news.yaml)    
 
 
 ## 🗄️ Categories:

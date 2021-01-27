@@ -8,16 +8,16 @@ A simple way to share and discover interesting events from your friends, followe
 **Docs / Website**: 
 
 ## 🧬 Upcoming.Org API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21176)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21176)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21176)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/upcoming-org-api/upcoming-org-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/upcoming-org-api/upcoming-org-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/upcoming-org-api/upcoming-org-api.yaml)
 
 ## 💬 Upcoming.Org API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21176)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/upcoming-org-api/upcoming-org-api.yaml)    
 
 
 ## 🗄️ Categories:

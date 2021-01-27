@@ -6,16 +6,16 @@ Aadhaar is a 12-digit unique identification number issued by the Indian governme
 **Docs / Website**: https://www.aadhaarbridge.com/
 
 ## 🧬 Aadhaar Bridge Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L232)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L232)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L232)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/aadhaar-bridge/aadhaar-bridge.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/aadhaar-bridge/aadhaar-bridge.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/aadhaar-bridge/aadhaar-bridge.yaml)
 
 ## 💬 Aadhaar Bridge Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L232)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/aadhaar-bridge/aadhaar-bridge.yaml)    
 
 
 ## 🗄️ Categories:

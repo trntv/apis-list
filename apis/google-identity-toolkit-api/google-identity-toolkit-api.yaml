@@ -1,0 +1,13 @@
+name: Google Identity Toolkit API.
+slug: google-identity-toolkit-api
+categories:
+    - Authentication & User Management
+description: Enable users to sign into apps and authorize apps to use Google services
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-identity-toolkit-api/logo_256x256.png
+type: REST
+contact: support@goog.io
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://developers.google.com/identity/

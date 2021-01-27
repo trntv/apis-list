@@ -8,9 +8,9 @@ Philips Hue, smart home lighting
 **Docs / Website**: https://developers.meethue.com/documentation/getting-started
 
 ## 🧬 Philips Hue Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14816)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14816)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14816)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/philips-hue/philips-hue.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/philips-hue/philips-hue.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/philips-hue/philips-hue.yaml)
 
 ## 💬 Philips Hue Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

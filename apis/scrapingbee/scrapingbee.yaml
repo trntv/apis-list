@@ -1,0 +1,11 @@
+name: Scrapingbee
+slug: scrapingbee
+categories:
+    - Scrapers & Data Mining
+description: "Scraping is hard, scraping at scale can be very challenging. \nYou have to handle: \n - JS rendering \n - Chrome headless\n - Captcha \n - Proxy \nScrapingBee is a simple API that does all the above for you. It is truly the most simple web scraping API ever. ScrapingBee is a Web Scraping API that handles proxies and Headless browser for you, so you can focus on extracting the data you want, and nothing else"
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/scrapingbee/logo_256x256.png
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://www.scrapingbee.com

@@ -1,0 +1,10 @@
+name: Rss News Api
+slug: rss-news-api
+categories:
+    - News & Feeds
+description: ""
+is_free: false
+is_active: false
+links:
+    - name: Docs / Website
+      url: https://newsapi.xyz

@@ -6,16 +6,16 @@
 **Docs / Website**: http://developer.pearson.com/apis/dictionaries
 
 ## 🧬 Pearson Dictionaries API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14668)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14668)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14668)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pearson-dictionaries-api/pearson-dictionaries-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pearson-dictionaries-api/pearson-dictionaries-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pearson-dictionaries-api/pearson-dictionaries-api.yaml)
 
 ## 💬 Pearson Dictionaries API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14668)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/pearson-dictionaries-api/pearson-dictionaries-api.yaml)    
 
 
 ## 🗄️ Categories:

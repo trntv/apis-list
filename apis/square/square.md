@@ -8,9 +8,9 @@ Square provides support and tools for you to build apps for today’s business n
 **Docs / Website**: https://developer.squareup.com/us/en
 
 ## 🧬 Square Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18179)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18179)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18179)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/square/square.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/square/square.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/square/square.yaml)
 
 ## 💬 Square Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

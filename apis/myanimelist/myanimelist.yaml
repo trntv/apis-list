@@ -1,0 +1,113 @@
+name: MyAnimeList
+slug: myanimelist
+categories:
+    - Comics & Anime
+description: MyAnimeList.net official API
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/myanimelist/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: Minoshiro Python SDK by Minoshiro
+      homepage_uri: https://github.com/Mino-shiro/Minoshiro
+      source_code_uri: ""
+      platform: Python
+    - name: Hakuchou iOS SDK by MAL Updater OS X
+      homepage_uri: https://github.com/Atelier-Shiori/Hakuchou
+      source_code_uri: ""
+      platform: Objective-C
+    - name: MyAnimeList Java SDK by Chris Allen
+      homepage_uri: https://github.com/thegreatchrispy/mal4j
+      source_code_uri: ""
+      platform: Java
+    - name: MyAnimeList Java SDK by Ben Doerr
+      homepage_uri: https://github.com/bendoerr/mal-java-client
+      source_code_uri: ""
+      platform: Java
+    - name: MyAnimeList Node.js SDK by Josselin BUILS
+      homepage_uri: https://github.com/josselinbuils/MALVApi
+      source_code_uri: ""
+      platform: Node.js
+    - name: MyAnimeList Node.js SDK by Vaughan Hilts
+      homepage_uri: https://github.com/hilts-vaughan/otaku-scraper
+      source_code_uri: ""
+      platform: Node.js
+    - name: MyAnimeList Python SDK by lofdat
+      homepage_uri: https://github.com/lofdat/YetAnotherMALAPI
+      source_code_uri: ""
+      platform: Python
+    - name: MyAnimeList Node.js SDK by Pratik Chaudhary
+      homepage_uri: https://github.com/abs-zero/node-mal
+      source_code_uri: ""
+      platform: Node.js
+    - name: MyAnimeList Java SDK by bunuble
+      homepage_uri: https://github.com/bunuble/MAL-Java-Wrapper
+      source_code_uri: ""
+      platform: Java
+    - name: MyAnimeList Node.js SDK by Julien
+      homepage_uri: https://github.com/jballanger/chinmei
+      source_code_uri: ""
+      platform: Node.js
+    - name: MyAnimeList Java SDK by Barracuda72
+      homepage_uri: https://github.com/Barracuda72/MALApi
+      source_code_uri: ""
+      platform: Java
+    - name: MyAnimeList Swift SDK by nktn
+      homepage_uri: https://github.com/nktn/MalKit
+      source_code_uri: ""
+      platform: Swift
+    - name: MyAnimeList Node.js SDK by Chris Alderson
+      homepage_uri: https://github.com/ChrisAlderson/mal-api
+      source_code_uri: ""
+      platform: Node.js
+    - name: MyAnimeList C# SDK by William Santana
+      homepage_uri: https://github.com/wmer/MyAnimeListApiConsumer
+      source_code_uri: ""
+      platform: C#
+    - name: MyAnimeList PHP SDK by animelist
+      homepage_uri: https://github.com/animelist/mal-api
+      source_code_uri: ""
+      platform: PHP
+    - name: MyAnimeList Go SDK by Anime Notifier
+      homepage_uri: https://github.com/animenotifier/mal
+      source_code_uri: ""
+      platform: Go
+    - name: MyAnimeList Ruby SDK by Oli4242
+      homepage_uri: https://github.com/Oli4242/myanimelist_client
+      source_code_uri: ""
+      platform: Ruby
+    - name: MyAnimeList Java SDK by Joel Rousseau
+      homepage_uri: https://github.com/v4lproik/myanimelist-api
+      source_code_uri: ""
+      platform: Java
+    - name: MyAnimeList .NET SDK by Sung Kim
+      homepage_uri: https://github.com/dance2die/MyAnimeListSharp
+      source_code_uri: ""
+      platform: .Net
+    - name: MyAnimeList Python SDK by Byron Vanstien
+      homepage_uri: https://github.com/GetRektByMe/Pyanimelist
+      source_code_uri: ""
+      platform: Python
+    - name: MyAnimeList Ruby SDK by Corey Roberts
+      homepage_uri: https://github.com/croberts22/railgun
+      source_code_uri: ""
+      platform: Ruby
+    - name: MyAnimeList Node.js SDK by João Ferreira
+      homepage_uri: https://github.com/lubien/popura
+      source_code_uri: ""
+      platform: Node.js
+    - name: MyAnimeList Go SDK by Stratos Neiros
+      homepage_uri: https://github.com/nstratos/go-myanimelist
+      source_code_uri: ""
+      platform: Go
+    - name: MyAnimeList Ruby SDK by Harvey Ico
+      homepage_uri: https://github.com/harveyico/myanimelist
+      source_code_uri: ""
+      platform: Ruby
+    - name: MyAnimeList Python SDK by May
+      homepage_uri: https://pypi.python.org/pypi/spice-api/1.0.3
+      source_code_uri: https://github.com/Utagai/spice
+      platform: Python
+links:
+    - name: Docs / Website
+      url: https://myanimelist.net/clubs.php?cid=13727

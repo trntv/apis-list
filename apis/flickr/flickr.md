@@ -8,9 +8,9 @@ Search through user Flickr content, contacts, upload or replace photos. Flickr i
 **Docs / Website**: https://www.flickr.com/services/api/
 
 ## 🧬 Flickr Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6721)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6721)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6721)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/flickr/flickr.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/flickr/flickr.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/flickr/flickr.yaml)
 
 ## 💬 Flickr Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

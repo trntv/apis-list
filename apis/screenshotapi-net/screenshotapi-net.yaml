@@ -1,0 +1,11 @@
+name: ScreenshotAPI.net
+slug: screenshotapi-net
+categories:
+    - Video & Media
+description: Use one simple API call to generate screenshots of any website. Use this screenshot API to capture screenshots. Uses real Chrome browsers to capture pixel-perfect screenshots. Blazingly fast, ready to scale and hosted on Google Cloud
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://screenshotapi.net

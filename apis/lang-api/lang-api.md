@@ -8,16 +8,16 @@ LangAPI exists to help developers rapidly translate and localize their apps for 
 **Docs / Website**: https://docs.langapi.co/#introduction/
 
 ## 🧬 Lang API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10965)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10965)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10965)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lang-api/lang-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lang-api/lang-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lang-api/lang-api.yaml)
 
 ## 💬 Lang API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10965)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/lang-api/lang-api.yaml)    
 
 
 ## 🗄️ Categories:

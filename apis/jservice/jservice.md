@@ -6,9 +6,9 @@ Trivia Questions. Get answers (and the correct questions) from 20+ years of Jeop
 **Docs / Website**: http://jservice.io
 
 ## 🧬 Jservice Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10718)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10718)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10718)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/jservice/jservice.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/jservice/jservice.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/jservice/jservice.yaml)
 
 ## 💬 Jservice Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

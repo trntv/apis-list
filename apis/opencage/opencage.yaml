@@ -1,0 +1,12 @@
+name: OpenCage
+slug: opencage
+categories:
+    - Maps & Geo
+description: An easy-to-use forward and reverse geocoding API. Worldwide coverage. Affordable, predictable pricing. Open data. An easy-to-use forward and reverse geocoding API
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/opencage/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://opencagedata.com

@@ -1,0 +1,45 @@
+name: Traitify
+slug: traitify
+categories:
+    - Jobs
+    - AI & ML
+description: "A diverse set of fun visual assessments used to uncover personality types and traits. Your users simply select \"Me\" or \"Not Me\" to a brief series of images and voila! Instant, actionable data.\n\nWith this psychology-backed data in hand, the possibilities are endless - any way that personalization can help you is now within reach. Potential uses include:\n- Applicant Fit Score\n- Personalized Job Recommendations\n- Personalized Interview Questions\n- Personality Conflicts / Complements\n- Communication Styles\n- Ideal Work Environments\n- Workplace Performance Predictions\n- Career Growth Hacks\n- Leadership Styles\n- Team Building \n- Suggestions"
+is_free: false
+type: REST
+is_active: true
+libraries:
+    - name: Traitify JavaScript SDK
+      homepage_uri: https://github.com/traitify/traitify-js-client
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Traitify PHP SDK
+      homepage_uri: https://github.com/traitify/traitify-php
+      source_code_uri: ""
+      platform: PHP
+    - name: Traitify Python SDK
+      homepage_uri: https://github.com/traitify/traitify-python2.x
+      source_code_uri: ""
+      platform: Python
+    - name: Traitify Java SDK
+      homepage_uri: https://github.com/traitify/traitify-java
+      source_code_uri: ""
+      platform: Java
+    - name: Traitify .NET SDK
+      homepage_uri: https://github.com/traitify/traitify.net
+      source_code_uri: ""
+      platform: .Net
+    - name: Traitify Node.js SDK
+      homepage_uri: https://github.com/traitify/traitify-node
+      source_code_uri: ""
+      platform: Node.js
+    - name: Traitify Ruby SDK
+      homepage_uri: https://github.com/traitify/traitify-ruby
+      source_code_uri: ""
+      platform: Ruby
+    - name: Traitify API Java Library
+      homepage_uri: https://developer.traitify.com/documentation
+      source_code_uri: https://github.com/traitify/traitify-java
+      platform: Java
+links:
+    - name: Docs / Website
+      url: https://app.traitify.com/developer

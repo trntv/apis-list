@@ -1,0 +1,12 @@
+name: Google Cloud IoT solutions
+slug: google-cloud-iot-solutions
+categories:
+    - IoT & Home Automation
+    - Development
+description: Unlock insights from your global device network with an intelligent IoT platform whose scalable, fully managed integration lets you connect, store, and analyze data at the edge and in the cloud.
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://cloud.google.com/solutions/iot

@@ -1,0 +1,41 @@
+name: Mastodon
+slug: mastodon
+categories:
+    - Social
+description: Welcome to the Mastodon documentation!. Welcome to the Mastodon documentation!
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/mastodon/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: ' Mastodon Swift SDK by Mitchell Schwitzer'
+      homepage_uri: https://github.com/schwitzerm/scaladon
+      source_code_uri: ""
+      platform: Swift
+    - name: ' Mastodon Python SDK by Lorenz Diener'
+      homepage_uri: https://github.com/halcy/Mastodon.py
+      source_code_uri: ""
+      platform: Python
+    - name: Mastodon Android SDK by Toshihiro Yashi
+      homepage_uri: https://github.com/sys1yagi/mastodon4j
+      source_code_uri: ""
+      platform: Java
+    - name: ' Mastodon Go SDK by Mikael Berthe'
+      homepage_uri: https://github.com/McKael/madon
+      source_code_uri: ""
+      platform: Go
+    - name: Mastodon Elixir SDK by Milton Mazzarri
+      homepage_uri: https://github.com/milmazz/hunter
+      source_code_uri: ""
+      platform: Elixir
+    - name: Mastodon CPlus SDK by TastyTea
+      homepage_uri: https://github.com/tastytea/mastodon-cpp
+      source_code_uri: ""
+      platform: C++
+    - name: Mastodon C# SDK by Yusuke Yamada
+      homepage_uri: https://github.com/yamachu/Mastodot
+      source_code_uri: ""
+      platform: C#
+links:
+    - name: Docs / Website
+      url: https://docs.joinmastodon.org/

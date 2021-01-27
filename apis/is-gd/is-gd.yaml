@@ -1,0 +1,11 @@
+name: Is.gd
+slug: is-gd
+categories:
+    - URLs
+description: Simple URL shortener. Supports custom short link ending. Our main portal for developer documentation
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://is.gd/developers.php

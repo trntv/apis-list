@@ -1,0 +1,17 @@
+name: Weatherbit
+slug: weatherbit
+categories:
+    - Weather
+description: Weather API Documentation. Use our Weather API to access weather forecasts, and historical weather data to power your applications!. Access forecasts, current weather, and historical weather data for any point on the Earth!
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/weatherbit/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: Weatherbit Python SDK
+      homepage_uri: https://github.com/weatherbit/weatherbit-python
+      source_code_uri: ""
+      platform: Python
+links:
+    - name: Docs / Website
+      url: https://www.weatherbit.io/api

@@ -8,16 +8,16 @@ Purge Help API - Other languages Afrikaans asturianu azərbaycanca Bahasa Indone
 **Docs / Website**: http://wiki.openstreetmap.org/wiki/API
 
 ## 🧬 Open Street Map Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14214)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14214)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14214)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-street-map/open-street-map.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-street-map/open-street-map.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-street-map/open-street-map.yaml)
 
 ## 💬 Open Street Map Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14214)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-street-map/open-street-map.yaml)    
 
 
 ## 🗄️ Categories:

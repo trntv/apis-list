@@ -1,0 +1,116 @@
+name: Discogs
+slug: discogs
+categories:
+    - Music & Audio
+description: Access database of artists, labels, releases, marketplace and more. Here’s your place to code all things Discogs! The Discogs API lets developers build their own Discogs-powered applications for the web, desktop, and mobile devices.
+is_free: false
+type: REST
+is_active: true
+libraries:
+    - name: MetaMusic .NET SDK by David Pires
+      homepage_uri: https://github.com/Davidblkx/MetaMusic
+      source_code_uri: ""
+      platform: .Net
+    - name: Discogs Loves Spotify PHP SDK by Lukas Juhas
+      homepage_uri: https://github.com/lukasjuhas/discogs-loves-spotify
+      source_code_uri: ""
+      platform: PHP
+    - name: MusicApiCollection C# SDK by BigGranu
+      homepage_uri: https://github.com/BigGranu/MusicApiCollection
+      source_code_uri: ""
+      platform: C#
+    - name: Media Now JavaScript SDK by internet4000
+      homepage_uri: https://github.com/internet4000/media-now
+      source_code_uri: ""
+      platform: JavaScript, Node.js
+    - name: Discogs Python SDK by Joshua Sones
+      homepage_uri: https://github.com/jhsones/Discogs-Search
+      source_code_uri: ""
+      platform: Python
+    - name: Discogs Elixir SDK by Andrew Mager
+      homepage_uri: https://github.com/mager/discogs_ex
+      source_code_uri: ""
+      platform: Elixir
+    - name: Discogs EmberJS SDK by Isaac Ezer
+      homepage_uri: https://github.com/iezer/ember-discogs
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Discogs PHP SDK by Josh Friesen
+      homepage_uri: https://github.com/josh-friesen/php-discogs-api
+      source_code_uri: ""
+      platform: PHP
+    - name: Discogs Rust SDK by Simon Persson
+      homepage_uri: https://github.com/SimonPersson/discogs-rs
+      source_code_uri: ""
+      platform: Unspecified
+    - name: Discogs Python SDK by Jay H
+      homepage_uri: https://github.com/mobeets/cover-art
+      source_code_uri: ""
+      platform: Python
+    - name: Discogs Swift SDK by Jason R Tibbetts
+      homepage_uri: https://github.com/jrtibbetts/SwiftDiscogs
+      source_code_uri: ""
+      platform: Swift
+    - name: Discogs PHP SDK by chillerlan
+      homepage_uri: https://github.com/chillerlan/php-oauth-discogs
+      source_code_uri: https://packagist.org/packages/chillerlan/php-oauth-discogs
+      platform: PHP
+    - name: Discogs C# SDK by Bart Wijnants
+      homepage_uri: https://github.com/bartw/DiscogsRT
+      source_code_uri: ""
+      platform: C#
+    - name: Discogs Ruby SDK by Yuri Veremeyenko
+      homepage_uri: https://github.com/yurivm/discogs2
+      source_code_uri: ""
+      platform: Ruby
+    - name: Discogs PHP SDK by cecekpawon
+      homepage_uri: https://github.com/cecekpawon/Discogs-PHP-API-interface
+      source_code_uri: ""
+      platform: PHP
+    - name: Discogs Ruby SDK by Dejan Acimovic
+      homepage_uri: https://github.com/DejanAcim/discogs-json-api
+      source_code_uri: ""
+      platform: Ruby
+    - name: Discogs Python SDK by Boostfield
+      homepage_uri: https://github.com/boostfield/discogs-fetcher
+      source_code_uri: ""
+      platform: Python
+    - name: Discogs Java SDK by Andrey Parkhomenko
+      homepage_uri: https://github.com/team3/java-discogs-api-client
+      source_code_uri: ""
+      platform: Java
+    - name: Discogs PHP SDK by Bruno Teixeira
+      homepage_uri: https://github.com/BrunoTeixeira1996/API-PHP-Project
+      source_code_uri: ""
+      platform: PHP
+    - name: Discogs NodeJS SDK by Emanuel Schmitt
+      homepage_uri: https://github.com/emanuelschmitt/discogs-data-fetcher
+      source_code_uri: ""
+      platform: Node.js
+    - name: Discogs C++ SDK by matttyson
+      homepage_uri: https://github.com/matttyson/discogsapp
+      source_code_uri: ""
+      platform: C++
+    - name: Discogs Android SDK by Carl Taylor
+      homepage_uri: https://github.com/carltaylor43/discogs-collector-android
+      source_code_uri: ""
+      platform: Kotlin
+    - name: Discogs PHP SDK by Chris Chrisostomou
+      homepage_uri: https://github.com/chrismou/php-discogs-wrapper
+      source_code_uri: ""
+      platform: PHP
+    - name: Discogs Java SDK by Markus Fischböck
+      homepage_uri: https://github.com/mfischbo/java-discogs-client
+      source_code_uri: ""
+      platform: Java
+    - name: Discogs PHP SDK by martin mauchauffée
+      homepage_uri: https://github.com/moechofe/Discogs-client
+      source_code_uri: ""
+      platform: PHP
+    - name: Discogs PHP Library by Richard van den Brand
+      homepage_uri: https://github.com/ricbra/php-discogs-api
+      source_code_uri: ""
+      platform: PHP
+links:
+    - name: Docs / Website
+      url: https://www.discogs.com/developers/

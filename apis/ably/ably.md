@@ -8,9 +8,9 @@ API for making cross-protocol realtime communication between devices easy. Ably 
 **Docs / Website**: https://www.ably.com/documentation
 
 ## 🧬 Ably Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L254)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L254)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L254)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ably/ably.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ably/ably.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ably/ably.yaml)
 
 ## 💬 Ably Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

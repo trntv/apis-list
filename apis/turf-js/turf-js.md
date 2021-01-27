@@ -6,16 +6,16 @@ js | Advanced geospatial analysis for browsers and Node. js. Turf
 **Docs / Website**: http://turfjs.org
 
 ## 🧬 Turf JS Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20309)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20309)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20309)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/turf-js/turf-js.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/turf-js/turf-js.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/turf-js/turf-js.yaml)
 
 ## 💬 Turf JS Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20309)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/turf-js/turf-js.yaml)    
 
 
 ## 🗄️ Categories:

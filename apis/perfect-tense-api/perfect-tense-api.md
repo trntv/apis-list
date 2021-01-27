@@ -6,16 +6,16 @@ Automated. Perfect Tense gives you error-free content in seconds. The Perfect Te
 **Docs / Website**: https://www.perfecttense.com/developers
 
 ## 🧬 Perfect Tense API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14690)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14690)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14690)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/perfect-tense-api/perfect-tense-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/perfect-tense-api/perfect-tense-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/perfect-tense-api/perfect-tense-api.yaml)
 
 ## 💬 Perfect Tense API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14690)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/perfect-tense-api/perfect-tense-api.yaml)    
 
 
 ## 🗄️ Categories:

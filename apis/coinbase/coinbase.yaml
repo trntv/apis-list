@@ -1,0 +1,33 @@
+name: Coinbase
+slug: coinbase
+categories:
+    - Payments
+    - Blockchain & Cryptocurrencies
+description: "Coinbase’s API makes it easy to integrate bitcoin, bitcoin cash, litecoin and ethereum into both new and existing applications. \nCoinbase’s APIs enable a variety of capabilities; from simply gathering read-only data, to building something that’s never been done before"
+is_free: false
+type: REST
+is_active: true
+libraries:
+    - name: ccex-api TypeScript SDK by Dang Thanh Tung
+      homepage_uri: https://github.com/dang1412/ccex-api
+      source_code_uri: ""
+      platform: JavaScript, Node.js
+    - name: ExchangeSharp .NET/C# by Jeff Johnson
+      homepage_uri: https://github.com/jjxtra/ExchangeSharp
+      source_code_uri: ""
+      platform: .Net, C#
+    - name: Coinbase .Net SDK by Youssef Boukenken
+      homepage_uri: https://github.com/sefbkn/Coinbase.NET/blob/master/README.md
+      source_code_uri: https://github.com/sefbkn/Coinbase.NET
+      platform: .Net, C#
+    - name: Coinbase .Net SDK by Brian Chavez
+      homepage_uri: https://developers.coinbase.com/docs/wallet/client-libraries
+      source_code_uri: https://github.com/bchavez/Coinbase
+      platform: .Net, C#
+    - name: Coinbase Python SDK by Coinbase
+      homepage_uri: https://developers.coinbase.com/api/v2#official-client-libraries
+      source_code_uri: https://github.com/coinbase/coinbase-python
+      platform: Python
+links:
+    - name: Docs / Website
+      url: https://developers.coinbase.com/

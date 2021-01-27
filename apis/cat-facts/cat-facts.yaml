@@ -1,0 +1,16 @@
+name: Cat Facts
+slug: cat-facts
+categories:
+    - Bots
+    - Education
+    - Fun
+    - Animals
+    - Entertainment
+description: "Daily cat facts! \U0001F431"
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cat-facts/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://alexwohlbruck.github.io/cat-facts/

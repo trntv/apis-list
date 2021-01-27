@@ -8,16 +8,16 @@ Be creative and create any type of marketplace. Whether you are looking for a we
 **Docs / Website**: https://yclas.com/
 
 ## 🧬 Yclas Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22554)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22554)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22554)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yclas/yclas.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yclas/yclas.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yclas/yclas.yaml)
 
 ## 💬 Yclas Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22554)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/yclas/yclas.yaml)    
 
 
 ## 🗄️ Categories:

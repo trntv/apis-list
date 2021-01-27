@@ -8,16 +8,16 @@ OC Transpo next bus arrival API
 **Docs / Website**: https://www.octranspo.com/developers
 
 ## 🧬 Transportation in Ottawa, Canada Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19873)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19873)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19873)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-ottawa-canada/transport-for-ottawa-canada.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-ottawa-canada/transport-for-ottawa-canada.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-ottawa-canada/transport-for-ottawa-canada.yaml)
 
 ## 💬 Transportation in Ottawa, Canada Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19873)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-ottawa-canada/transport-for-ottawa-canada.yaml)    
 
 
 ## 🗄️ Categories:

@@ -1,0 +1,85 @@
+name: Mapbox
+slug: mapbox
+categories:
+    - Visualizations
+    - Maps & Geo
+description: Access to MapBox’s API
+is_free: false
+type: REST
+is_active: true
+libraries:
+    - name: Mapbox AR Scenekit Swift SDK
+      homepage_uri: https://github.com/mapbox/mapbox-scenekit
+      source_code_uri: ""
+      platform: Swift
+    - name: Mapbox AR React Native SDK
+      homepage_uri: https://github.com/mapbox/react-native-mapbox-ar
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Mapbox Tilelive Filter Layers Javascript SDK by TrailBehind
+      homepage_uri: https://github.com/mapbox/tilelive
+      source_code_uri: https://github.com/trailbehind/tilelive-filter-layers
+      platform: JavaScript
+    - name: Mapbox Tilelive OSciM Javascript SDK by Konstantin Käfer
+      homepage_uri: https://github.com/kkaefer/tilelive-oscim/blob/master/README.md
+      source_code_uri: https://github.com/kkaefer/tilelive-oscim
+      platform: JavaScript
+    - name: Mapbox Redis Tilelive Decorator Javascript SDK by Mapbox
+      homepage_uri: https://www.mapbox.com/vector-tiles/
+      source_code_uri: https://github.com/mapbox/tilelive-decorator
+      platform: JavaScript
+    - name: Mapbox Tilelive Vector Javascript SDK by Mapbox
+      homepage_uri: https://github.com/mapbox/tilelive/blob/master/API.md
+      source_code_uri: https://github.com/mapbox/tilelive-vector
+      platform: JavaScript
+    - name: Mapbox Directions Leaflet Javascript SDK by Mapbox
+      homepage_uri: https://github.com/mapbox/mapbox-directions.js/blob/mb-pages/API.md
+      source_code_uri: https://github.com/mapbox/mapbox-directions.js
+      platform: JavaScript
+    - name: Mapbox Mobile GL Styles Javascript SDK by Mapbox
+      homepage_uri: https://www.mapbox.com/mapbox-gl-js/api/
+      source_code_uri: https://github.com/mapbox/mapbox-gl-styles
+      platform: JavaScript
+    - name: Mapbox Events Browser Javascript SDK by Mapbox
+      homepage_uri: https://www.mapbox.com/mapbox-gl-js/api/#events
+      source_code_uri: https://github.com/mapbox/mapbox-events
+      platform: JavaScript
+    - name: Mapbox Ruby SDK by Mapbox
+      homepage_uri: https://github.com/mapbox/mapbox-sdk-rb/blob/master/README.md
+      source_code_uri: https://github.com/mapbox/mapbox-sdk-rb
+      platform: Ruby
+    - name: Mapbox CLI Data NodeJS SDK by Mapbox
+      homepage_uri: https://www.mapbox.com/data-platform/
+      source_code_uri: https://github.com/mapbox/mapbox-data-cli
+      platform: Node.js
+    - name: Mapbox Navigation Monitoring Javascript SDK by Mapbox
+      homepage_uri: https://www.mapbox.com/directions/
+      source_code_uri: https://github.com/mapbox/navigation.js
+      platform: JavaScript
+    - name: Mapbox GL Layer Group Management Javascript SDK by Mapbox
+      homepage_uri: https://www.mapbox.com/mapbox-gl-js/plugins/
+      source_code_uri: https://github.com/mapbox/mapbox-gl-layer-groups
+      platform: JavaScript
+    - name: Mapbox Studio Vintage Map Style Javascript SDK by Mapbox
+      homepage_uri: https://www.mapbox.com/mapbox-studio/
+      source_code_uri: https://github.com/mapbox/mapbox-gl-vintage-style
+      platform: JavaScript
+    - name: Mapbox React Geocoder Javascript SDK by Mapbox
+      homepage_uri: https://www.mapbox.com/geocoding/#for-developers
+      source_code_uri: https://github.com/mapbox/react-geocoder
+      platform: JavaScript
+    - name: Mapbox Tilelive Javascript SDK by Mapbox
+      homepage_uri: https://www.mapbox.com/about/open/
+      source_code_uri: https://github.com/mapbox/tilelive
+      platform: JavaScript
+    - name: Mapbox GL Geocoder Javascript SDK by Mapbox
+      homepage_uri: https://www.mapbox.com/api-documentation/#geocoding
+      source_code_uri: https://github.com/mapbox/mapbox-gl-geocoder
+      platform: JavaScript
+    - name: MapBox JavaScript Library
+      homepage_uri: https://www.mapbox.com/mapbox.js/api/v2.1.2/
+      source_code_uri: https://github.com/mapbox/mapbox.js/
+      platform: JavaScript
+links:
+    - name: Docs / Website
+      url: https://www.mapbox.com/developers/api/maps/

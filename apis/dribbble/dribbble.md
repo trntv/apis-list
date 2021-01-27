@@ -8,9 +8,9 @@ Build and integrate tools and applications to help members publish their design 
 **Docs / Website**: http://developer.dribbble.com/
 
 ## 🧬 Dribbble Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5494)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5494)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5494)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dribbble/dribbble.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dribbble/dribbble.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dribbble/dribbble.yaml)
 
 ## 💬 Dribbble Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -8,16 +8,16 @@
 **Docs / Website**: https://apility.io/apidocs/
 
 ## 🧬 Apility.io Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L940)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L940)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L940)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/apility-io/apility-io.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/apility-io/apility-io.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/apility-io/apility-io.yaml)
 
 ## 💬 Apility.io Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L940)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/apility-io/apility-io.yaml)    
 
 
 ## 🗄️ Categories:

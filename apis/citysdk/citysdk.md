@@ -6,16 +6,16 @@ CitySDK is a “service development kit” for cities and developers that aims a
 **Docs / Website**: http://www.citysdk.eu/citysdk-toolkit/
 
 ## 🧬 CitySDK Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3204)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3204)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3204)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/citysdk/citysdk.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/citysdk/citysdk.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/citysdk/citysdk.yaml)
 
 ## 💬 CitySDK Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3204)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/citysdk/citysdk.yaml)    
 
 
 ## 🗄️ Categories:

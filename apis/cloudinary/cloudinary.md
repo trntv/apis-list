@@ -8,9 +8,9 @@ API for image and video storage and manipulation - free for up to 75,000 images 
 **Docs / Website**: http://cloudinary.com/documentation
 
 ## 🧬 Cloudinary Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3451)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3451)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3451)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cloudinary/cloudinary.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cloudinary/cloudinary.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cloudinary/cloudinary.yaml)
 
 ## 💬 Cloudinary Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

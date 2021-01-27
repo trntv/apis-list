@@ -1,0 +1,11 @@
+name: OOPSpam
+slug: oopspam
+categories:
+    - Security
+description: Stop bots and manual spam from reaching you or your customer. All with high accuracy and privacy
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://oopspam.com/

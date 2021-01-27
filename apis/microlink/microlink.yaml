@@ -1,0 +1,16 @@
+name: Microlink
+slug: microlink
+categories:
+    - Art & Design
+    - Collaboration
+    - URLs
+    - Social
+    - Scrapers & Data Mining
+description: 'Generate PDF from any website. Automate web performance. Turns any link into information. Take screenshots, extract predominant palette colors. Turns websites into data: Enter a URL, receive information. Make any URL embeddable. Capture any website as a snapshot'
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/microlink/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://microlink.io

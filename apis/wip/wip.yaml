@@ -1,0 +1,12 @@
+name: Wip
+slug: wip
+categories:
+    - Social
+    - Commerce
+description: Open API for the maker community. WIP is a community of makers who help each other ship products
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wip/logo_256x256.png
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://wip.co/api

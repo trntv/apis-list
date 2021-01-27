@@ -6,16 +6,16 @@ Oxford COVID-19 Government Response Tracker. Governments are taking a wide range
 **Docs / Website**: https://covidtracker.bsg.ox.ac.uk
 
 ## 🧬 Covid-19 Government Response Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4177)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4177)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4177)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/covid-19-government-response/covid-19-government-response.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/covid-19-government-response/covid-19-government-response.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/covid-19-government-response/covid-19-government-response.yaml)
 
 ## 💬 Covid-19 Government Response Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4177)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/covid-19-government-response/covid-19-government-response.yaml)    
 
 
 ## 🗄️ Categories:

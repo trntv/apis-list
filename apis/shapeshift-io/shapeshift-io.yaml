@@ -1,0 +1,12 @@
+name: ShapeShift.io
+slug: shapeshift-io
+categories:
+    - Blockchain & Cryptocurrencies
+description: 'Exchange between cryptocurrencies without an account. Well documented API for easy use. The all-new ShapeShift is your complete crypto management platform: send, receive, trade, track, and hodl bitcoin and other major cryptos'
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/shapeshift-io/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://shapeshift.io/

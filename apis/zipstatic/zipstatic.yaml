@@ -1,0 +1,11 @@
+name: Zipstatic
+slug: zipstatic
+categories:
+    - Maps & Geo
+    - Post & Logistics
+description: Ziptastic API is a super easy to use API that returns the Country, State, City of the zip code you supply.
+is_free: false
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://ziptasticapi.com/

@@ -8,9 +8,9 @@ Free multilingual Encyclopedia.
 **Docs / Website**: https://en.wikipedia.org/w/api.php
 
 ## 🧬 Wikipedia Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21906)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21906)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21906)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wikipedia/wikipedia.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wikipedia/wikipedia.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wikipedia/wikipedia.yaml)
 
 ## 💬 Wikipedia Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

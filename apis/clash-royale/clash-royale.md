@@ -8,16 +8,16 @@ API that provides informations about Clash Royale game
 **Docs / Website**: https://github.com/martincarrera/clash-royale-api
 
 ## 🧬 Clash Royale Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3301)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3301)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3301)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/clash-royale/clash-royale.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/clash-royale/clash-royale.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/clash-royale/clash-royale.yaml)
 
 ## 💬 Clash Royale Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3301)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/clash-royale/clash-royale.yaml)    
 
 
 ## 🗄️ Categories:

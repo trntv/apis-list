@@ -8,16 +8,16 @@ Kakao 지도 API를 이용해보세요. 다양한 샘플과 상세한 매뉴얼�
 **Docs / Website**: http://apis.map.daum.net/
 
 ## 🧬 Daum Maps API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4822)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4822)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4822)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/daum-maps-api/daum-maps-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/daum-maps-api/daum-maps-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/daum-maps-api/daum-maps-api.yaml)
 
 ## 💬 Daum Maps API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4822)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/daum-maps-api/daum-maps-api.yaml)    
 
 
 ## 🗄️ Categories:

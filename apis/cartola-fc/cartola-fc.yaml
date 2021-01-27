@@ -1,0 +1,11 @@
+name: Cartola Fc
+slug: cartola-fc
+categories:
+    - Sport & Fitness
+description: "The Cartola FC API serves to check the partial points of your team. \U0001F3A9 CartrolandoFC é um site para consultar os pontos parciais do seu time no Cartola FC. - wgenial/cartrolandofc"
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cartola-fc/logo_256x256.png
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://github.com/wgenial/cartrolandofc

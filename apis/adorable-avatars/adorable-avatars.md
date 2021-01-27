@@ -8,16 +8,16 @@ Generate random cartoon avatars
 **Docs / Website**: http://avatars.adorable.io
 
 ## 🧬 Adorable Avatars Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L367)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L367)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L367)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/adorable-avatars/adorable-avatars.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/adorable-avatars/adorable-avatars.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/adorable-avatars/adorable-avatars.yaml)
 
 ## 💬 Adorable Avatars Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L367)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/adorable-avatars/adorable-avatars.yaml)    
 
 
 ## 🗄️ Categories:

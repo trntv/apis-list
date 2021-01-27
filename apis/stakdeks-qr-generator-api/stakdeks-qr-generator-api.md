@@ -8,16 +8,16 @@ The QR-Code generator gets your data and generates a QR-Code
 **Docs / Website**: https://api.stakdek.de/blog?id=1006
 
 ## 🧬 Stakdek's QR generator API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18221)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18221)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18221)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/stakdeks-qr-generator-api/stakdeks-qr-generator-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/stakdeks-qr-generator-api/stakdeks-qr-generator-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/stakdeks-qr-generator-api/stakdeks-qr-generator-api.yaml)
 
 ## 💬 Stakdek's QR generator API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18221)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/stakdeks-qr-generator-api/stakdeks-qr-generator-api.yaml)    
 
 
 ## 🗄️ Categories:

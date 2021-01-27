@@ -1,0 +1,16 @@
+name: SummarizeBot API
+slug: summarizebot-api
+categories:
+    - Text Analysis & Tools
+    - Images & Photography
+    - Scrapers & Data Mining
+    - Documents & Productivity
+    - AI & ML
+    - News & Feeds
+description: Multilingual summarization, keywords and sentiment analysis, language recognition, article extraction, comments identification, multimedia analysis, image and face recognition solutions. Integrate our premium text and image analysis APIs into applications that may require artificial intelligence features.
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://www.summarizebot.com/summarization_business.html

@@ -1,0 +1,11 @@
+name: Bay Area Rapid Transit
+slug: bay-area-rapid-transit
+categories:
+    - Transportation
+description: The BART API gives you access to pretty much all of the BART service and station data available on the BART website.
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: http://api.bart.gov

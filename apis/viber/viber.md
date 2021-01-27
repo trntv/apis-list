@@ -8,16 +8,16 @@ Millions of Viber users call, text, and send photos to each other, worldwide - f
 **Docs / Website**: https://developers.viber.com/docs/api/
 
 ## 🧬 Viber Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21402)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21402)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21402)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/viber/viber.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/viber/viber.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/viber/viber.yaml)
 
 ## 💬 Viber Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21402)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/viber/viber.yaml)    
 
 
 ## 🗄️ Categories:

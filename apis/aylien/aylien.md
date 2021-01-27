@@ -6,16 +6,16 @@ AYLIEN Text Analysis API is a package of Natural Language Processing, Informatio
 **Docs / Website**: http://aylien.com/
 
 ## 🧬 AYLIEN Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L221)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L221)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L221)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/aylien/aylien.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/aylien/aylien.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/aylien/aylien.yaml)
 
 ## 💬 AYLIEN Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L221)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/aylien/aylien.yaml)    
 
 
 ## 🗄️ Categories:

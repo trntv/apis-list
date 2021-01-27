@@ -6,16 +6,16 @@ Get random Facts on different topics
 **Docs / Website**: https://fungenerators.com/api/facts/
 
 ## 🧬 Random Facts Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16248)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16248)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16248)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/random-facts-api/random-facts-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/random-facts-api/random-facts-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/random-facts-api/random-facts-api.yaml)
 
 ## 💬 Random Facts Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16248)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/random-facts-api/random-facts-api.yaml)    
 
 
 ## 🗄️ Categories:

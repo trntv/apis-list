@@ -1,0 +1,44 @@
+name: AerisWeather
+slug: aerisweather
+categories:
+    - Weather
+description: AerisWeather provides a powerful weather API, mapping platform, and developer toolkits that allow weather-sensitive businesses worldwide to operate more efficiently, safely, and profitably. Global weather data and imagery APIs, with a free developer subscription tier, boasting detailed documentation for simple to advanced queries, free SDKs and a Map Builder to get you up and running faster
+is_free: false
+type: REST
+is_active: true
+libraries:
+    - name: 'Aeris Weather Python SDK '
+      homepage_uri: https://www.aerisweather.com/support/docs/toolkits/aeris-python-sdk/
+      source_code_uri: ""
+      platform: Python
+    - name: AerisWeather iOS SDK
+      homepage_uri: https://www.aerisweather.com/support/docs/toolkits/aeris-ios-sdk/
+      source_code_uri: https://github.com/aerisweather/Aeris-iOS-Library
+      platform: Objective-C, Swift
+    - name: AerisWeather Interactive Maps JavaScript SDK by AerisWeather
+      homepage_uri: http://www.aerisweather.com/support/docs/toolkits/aeris-interactive-maps/
+      source_code_uri: ""
+      platform: JavaScript, xml
+    - name: AerisWeather Android SDK by AerisWeather
+      homepage_uri: https://github.com/aerisweather/AerisAndroidSDK
+      source_code_uri: ""
+      platform: Java
+    - name: AerisWeather iOS SDK by AerisWeather
+      homepage_uri: https://github.com/aerisweather/Aeris-iOS-Library
+      source_code_uri: ""
+      platform: Objective-C
+    - name: AerisWeather JavaScript SDK by AerisWeather
+      homepage_uri: http://www.aerisweather.com/support/docs/toolkits/aeris-js-sdk/
+      source_code_uri: https://github.com/aerisweather/aerisjs
+      platform: JavaScript
+    - name: AerisWeather Objective-C SDK by AerisWeather
+      homepage_uri: http://www.aerisweather.com/support/docs/toolkits/
+      source_code_uri: https://github.com/aerisweather/Aeris-iOS-Library
+      platform: Objective-C
+    - name: AerisWeather Java SDK by AerisWeather
+      homepage_uri: http://www.aerisweather.com/support/docs/toolkits/aeris-android-sdk/
+      source_code_uri: https://github.com/aerisweather/AerisAndroidLibrary
+      platform: Java
+links:
+    - name: Docs / Website
+      url: https://www.aerisweather.com

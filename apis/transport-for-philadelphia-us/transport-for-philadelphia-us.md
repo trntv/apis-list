@@ -8,16 +8,16 @@ Southeastern Pennsylvania Transportation Authority API
 **Docs / Website**: http://www3.septa.org/hackathon/
 
 ## 🧬 Transportation in Philadelphia, USA Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19895)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19895)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19895)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-philadelphia-us/transport-for-philadelphia-us.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-philadelphia-us/transport-for-philadelphia-us.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-philadelphia-us/transport-for-philadelphia-us.yaml)
 
 ## 💬 Transportation in Philadelphia, USA Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19895)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-philadelphia-us/transport-for-philadelphia-us.yaml)    
 
 
 ## 🗄️ Categories:

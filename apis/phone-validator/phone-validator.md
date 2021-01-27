@@ -6,16 +6,16 @@ Free phone number validation provided by PhoneValidator. Check phone numbers to 
 **Docs / Website**: https://www.phonevalidator.com
 
 ## 🧬 Phone Validator Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14855)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14855)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14855)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/phone-validator/phone-validator.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/phone-validator/phone-validator.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/phone-validator/phone-validator.yaml)
 
 ## 💬 Phone Validator Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14855)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/phone-validator/phone-validator.yaml)    
 
 
 ## 🗄️ Categories:

@@ -6,16 +6,16 @@ Get the very latest ads and data with Adzuna's API. Get job ads to display on yo
 **Docs / Website**: https://developer.adzuna.com/overview
 
 ## 🧬 Adzuna Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L390)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L390)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L390)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/adzuna/adzuna.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/adzuna/adzuna.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/adzuna/adzuna.yaml)
 
 ## 💬 Adzuna Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L390)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/adzuna/adzuna.yaml)    
 
 
 ## 🗄️ Categories:

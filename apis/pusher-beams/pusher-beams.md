@@ -8,16 +8,16 @@ Get realtime delivery and transparency to develop your iOS and Android apps. Pus
 **Docs / Website**: https://pusher.com/beams
 
 ## 🧬 Pusher Beams Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15892)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15892)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15892)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pusher-beams/pusher-beams.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pusher-beams/pusher-beams.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pusher-beams/pusher-beams.yaml)
 
 ## 💬 Pusher Beams Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15892)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/pusher-beams/pusher-beams.yaml)    
 
 
 ## 🗄️ Categories:

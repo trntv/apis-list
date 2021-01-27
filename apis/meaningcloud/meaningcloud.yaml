@@ -1,0 +1,12 @@
+name: MeaningCloud
+slug: meaningcloud
+categories:
+    - AI & ML
+description: Text analysis APIs for topic extraction, sentiment analysis, automatic classification, morphosyntactic analysis, language detection and more. Several languages are supported. TEXT ANALYTICS. MeaningCloud market-leading solutions for text mining and voice of the customer. Register now on our website to discover our text API
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/meaningcloud/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://www.meaningcloud.com

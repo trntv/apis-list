@@ -1,0 +1,13 @@
+name: Rick and Morty
+slug: rick-and-morty
+categories:
+    - Entertainment
+    - Comics & Anime
+description: The Rick and Morty API is a REST and GraphQL API based on the television show Rick and Morty
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/rick-and-morty/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://rickandmortyapi.com/

@@ -1,0 +1,16 @@
+name: API2Cart
+slug: api2cart
+categories:
+    - Development
+    - Commerce
+description: Connect your B2B eCommerce solution with 40+ shopping platforms and marketplaces at once. Strengthen your business with shopping cart API integration. API2Cart provides a unified shopping cart API for interaction between the eCommerce software and 30+ shopping carts including Magento, Shopify, WooCommerce, BigCommerce, OpenCart, PrestaShop and others
+is_free: false
+is_active: true
+libraries:
+    - name: API2Cart Swift SDK
+      homepage_uri: http://docs.api2cart.com/sdk
+      source_code_uri: https://app.api2cart.com/sdk/swift.tgz
+      platform: Swift
+links:
+    - name: Docs / Website
+      url: https://api2cart.com/

@@ -8,9 +8,9 @@ Find the best shipping rates, integrate with e-commerce platforms, print shippin
 **Docs / Website**: https://goshippo.com/
 
 ## 🧬 Shippo Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17391)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17391)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17391)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shippo/shippo.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shippo/shippo.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shippo/shippo.yaml)
 
 ## 💬 Shippo Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

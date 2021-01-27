@@ -6,16 +6,16 @@ SHARE is a higher education initiative whose mission is to maximize research imp
 **Docs / Website**: http://share-research.readthedocs.io/en/latest/
 
 ## 🧬 SHARE Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16898)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16898)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16898)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/share/share.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/share/share.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/share/share.yaml)
 
 ## 💬 SHARE Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16898)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/share/share.yaml)    
 
 
 ## 🗄️ Categories:

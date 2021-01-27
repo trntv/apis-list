@@ -1,0 +1,103 @@
+name: Discord
+slug: discord
+categories:
+    - Chats & Messaging
+    - Voice
+    - Games
+    - Social
+description: Integrate your service with Discord — whether it's a bot or a game or whatever your wildest imagination can come up with
+is_free: false
+type: REST
+is_active: true
+libraries:
+    - name: Crypto2discord Python SDK by Azerpas
+      homepage_uri: https://github.com/azerpas/Crypto2discord
+      source_code_uri: ""
+      platform: Python
+    - name: Discord Java SDK by ashley null
+      homepage_uri: https://github.com/nerd/Discord4J
+      source_code_uri: ""
+      platform: Java
+    - name: Discord Dart SDK by Hackzzila
+      homepage_uri: https://github.com/hackzzila/Discord-Dart
+      source_code_uri: ""
+      platform: Dart
+    - name: Discord Python SDK by Danny
+      homepage_uri: https://github.com/Rapptz/discord.py
+      source_code_uri: ""
+      platform: Python
+    - name: Discord C# SDK by Ryan de Jonge
+      homepage_uri: https://github.com/NaamloosDT/DSharpPlus
+      source_code_uri: ""
+      platform: C#
+    - name: Discord Rust SDK by SpaceManiac
+      homepage_uri: https://github.com/SpaceManiac/discord-rs
+      source_code_uri: ""
+      platform: Unspecified
+    - name: Discord Java SDK by Bastian Oppermann
+      homepage_uri: https://github.com/BtoBastian/Javacord
+      source_code_uri: ""
+      platform: Java
+    - name: Discord Java SDK by Austin Keener
+      homepage_uri: https://github.com/DV8FromTheWorld/JDA/
+      source_code_uri: ""
+      platform: Java
+    - name: Discord Java SDK by austinv11
+      homepage_uri: https://github.com/austinv11/Discord4J
+      source_code_uri: ""
+      platform: Java
+    - name: Discord .Net SDK by RogueException
+      homepage_uri: https://github.com/RogueException/Discord.Net
+      source_code_uri: ""
+      platform: .Net
+    - name: Discord Ruby SDK by meew0
+      homepage_uri: https://github.com/meew0/discordrb
+      source_code_uri: ""
+      platform: Ruby
+    - name: Discord Node.js SDK by Amish Shah
+      homepage_uri: https://github.com/hydrabolt/discord.js
+      source_code_uri: ""
+      platform: Node.js
+    - name: Discord Lua SDK by Adam James
+      homepage_uri: https://github.com/satom99/litcord
+      source_code_uri: ""
+      platform: Lua
+    - name: Discord Go SDK by Bruce
+      homepage_uri: https://github.com/bwmarrin/discordgo
+      source_code_uri: ""
+      platform: Go
+    - name: Discord Unity SDK by DiscordUnity
+      homepage_uri: https://github.com/DiscordUnity/DiscordUnity
+      source_code_uri: ""
+      platform: C#, Unity
+    - name: Discord PHP SDK by Reflex
+      homepage_uri: https://github.com/teamreflex/DiscordPHP
+      source_code_uri: ""
+      platform: PHP
+    - name: Discord JavaScript SDK by qeled
+      homepage_uri: https://github.com/qeled/discordie
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Discord Lua SDK by SinisterRectus
+      homepage_uri: https://github.com/SinisterRectus/Discordia
+      source_code_uri: ""
+      platform: Lua
+    - name: Discord Node.js SDK by abal
+      homepage_uri: https://github.com/abalabahaha/eris
+      source_code_uri: ""
+      platform: Node.js
+    - name: Discord Node.js SDK by izy521
+      homepage_uri: https://github.com/izy521/discord.io
+      source_code_uri: ""
+      platform: Node.js
+    - name: Discord Crystal SDK by meew0
+      homepage_uri: https://github.com/meew0/discordcr
+      source_code_uri: ""
+      platform: Unspecified
+    - name: Discord Swift SDK by Erik Little
+      homepage_uri: https://github.com/nuclearace/SwiftDiscord
+      source_code_uri: ""
+      platform: Swift
+links:
+    - name: Docs / Website
+      url: https://discordapp.com/developers/docs/intro

@@ -8,16 +8,16 @@ Makes it easy to search for things on eBay
 **Docs / Website**: https://publishers.ebaycommercenetwork.com/home.action
 
 ## 🧬 Shopping.Com API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17471)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17471)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17471)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shopping-com-api/shopping-com-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shopping-com-api/shopping-com-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shopping-com-api/shopping-com-api.yaml)
 
 ## 💬 Shopping.Com API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17471)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/shopping-com-api/shopping-com-api.yaml)    
 
 
 ## 🗄️ Categories:

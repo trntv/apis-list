@@ -6,16 +6,16 @@ Zippopotamus. Zippopotamus
 **Docs / Website**: http://www.zippopotam.us
 
 ## 🧬 Zippopotam Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22967)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22967)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22967)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/zippopotam/zippopotam.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/zippopotam/zippopotam.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/zippopotam/zippopotam.yaml)
 
 ## 💬 Zippopotam Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22967)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/zippopotam/zippopotam.yaml)    
 
 
 ## 🗄️ Categories:

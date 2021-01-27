@@ -8,9 +8,9 @@ Search worldwide news articles and headlines from all over the web in real-time 
 **Docs / Website**: https://newsapi.org/
 
 ## 🧬 NewsAPI Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13280)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13280)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13280)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/newsapi/newsapi.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/newsapi/newsapi.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/newsapi/newsapi.yaml)
 
 ## 💬 NewsAPI Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

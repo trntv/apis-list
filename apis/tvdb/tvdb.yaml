@@ -1,0 +1,11 @@
+name: TVDB
+slug: tvdb
+categories:
+    - Video & Media
+description: Token Added. Token Added
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://api.thetvdb.com/swagger

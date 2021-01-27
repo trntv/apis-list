@@ -6,9 +6,9 @@ Marketing automation
 **Docs / Website**: https://api.ontraport.com/doc/
 
 ## 🧬 Ontraport Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13905)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13905)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13905)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ontraport/ontraport.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ontraport/ontraport.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ontraport/ontraport.yaml)
 
 ## 💬 Ontraport Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -1,0 +1,11 @@
+name: IP 2 Country
+slug: ip-2-country
+categories:
+    - Maps & Geo
+description: JSON API returns the country of an IP address. Simple, fast, free. For open source projects only. JSON API returns the country of an IP address
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://ip2country.info

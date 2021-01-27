@@ -1,0 +1,11 @@
+name: Open Government, Belgium
+slug: open-government-belgium
+categories:
+    - Government
+description: The Belgian Open Data Initiative. The Belgian Open Data Initiative
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://data.gov.be/

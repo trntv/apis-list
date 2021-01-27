@@ -1,0 +1,11 @@
+name: Scribble
+slug: scribble
+categories:
+    - Maps & Geo
+description: This service is an easy way to draw and share maps. The Scribble Maps API is a cross browser, mobile ready, HTML5/JavaScript, interactive map builder. It can help you quickly integrate geo data/functionality into your application
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://www.scribblemaps.com/api/

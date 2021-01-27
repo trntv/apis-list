@@ -8,16 +8,16 @@ Screenshot API, HTML to PDF API, Content Extraction API
 **Docs / Website**: https://restpack.io/
 
 ## 🧬 Restpack Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16582)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16582)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16582)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/restpack/restpack.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/restpack/restpack.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/restpack/restpack.yaml)
 
 ## 💬 Restpack Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16582)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/restpack/restpack.yaml)    
 
 
 ## 🗄️ Categories:

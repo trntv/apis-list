@@ -1,0 +1,11 @@
+name: Order Pizza Api
+slug: order-pizza-api
+categories:
+    - Food & Drinks
+description: A RESTful API as pizza restaurant ordering system. swagger Explore
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/order-pizza-api/logo_256x256.png
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://order-pizza-api.herokuapp.com/api/ui/

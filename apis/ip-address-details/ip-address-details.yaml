@@ -1,0 +1,11 @@
+name: IP Address Details
+slug: ip-address-details
+categories:
+    - Maps & Geo
+description: Trusted source for IP address information, handling 20 billion IP geolocation API requests per month for over 1,000 businesses and 100,000+ developers
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://ipinfo.io/

@@ -8,16 +8,16 @@ Messari provides an institutional grade Bitcoin and blockchain data API, ranging
 **Docs / Website**: https://messari.io/api
 
 ## 🧬 Messari Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12347)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12347)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12347)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/messari/messari.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/messari/messari.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/messari/messari.yaml)
 
 ## 💬 Messari Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12347)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/messari/messari.yaml)    
 
 
 ## 🗄️ Categories:

@@ -8,16 +8,16 @@ Build Voice, SMS, Fax, Networking and Cellular IoT applications on a private, pu
 **Docs / Website**: https://developers.telnyx.com/
 
 ## 🧬 Telnyx Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19080)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19080)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19080)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/telnyx/telnyx.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/telnyx/telnyx.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/telnyx/telnyx.yaml)
 
 ## 💬 Telnyx Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19080)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/telnyx/telnyx.yaml)    
 
 
 ## 🗄️ Categories:

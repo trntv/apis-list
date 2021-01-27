@@ -8,16 +8,16 @@ GetScreenshot is an affordable and highly scalable screenshot API service. With 
 **Docs / Website**: https://getscreenshot.rasterwise.com/
 
 ## 🧬 Getscreenshot By Rasterwise Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7671)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7671)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7671)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/getscreenshot-by-rasterwise/getscreenshot-by-rasterwise.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/getscreenshot-by-rasterwise/getscreenshot-by-rasterwise.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/getscreenshot-by-rasterwise/getscreenshot-by-rasterwise.yaml)
 
 ## 💬 Getscreenshot By Rasterwise Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7671)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/getscreenshot-by-rasterwise/getscreenshot-by-rasterwise.yaml)    
 
 
 ## 🗄️ Categories:

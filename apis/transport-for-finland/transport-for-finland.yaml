@@ -1,0 +1,14 @@
+name: Transportation in Finland
+slug: transport-for-finland
+categories:
+    - Transportation
+description: |-
+    Route planning algorithms and APIs…. Digitransit Platform is an open source journey planning solution that combines several open source components into a
+    modern, highly available route planning service
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-finland/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://digitransit.fi/en/developers/

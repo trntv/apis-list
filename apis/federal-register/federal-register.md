@@ -8,16 +8,16 @@ SFederal Register 2.0 is the unofficial daily publication for rules, proposed ru
 **Docs / Website**: https://www.federalregister.gov/reader-aids/developer-resources
 
 ## 🧬 Federal Register Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6304)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6304)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6304)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/federal-register/federal-register.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/federal-register/federal-register.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/federal-register/federal-register.yaml)
 
 ## 💬 Federal Register Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6304)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/federal-register/federal-register.yaml)    
 
 
 ## 🗄️ Categories:

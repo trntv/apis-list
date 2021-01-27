@@ -6,9 +6,9 @@ Countly is the best analytics platform to understand and enhance customer journe
 **Docs / Website**: https://api.count.ly/reference
 
 ## 🧬 Countly Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4117)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4117)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4117)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/countly/countly.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/countly/countly.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/countly/countly.yaml)
 
 ## 💬 Countly Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -1,0 +1,59 @@
+name: Onfido
+slug: onfido
+categories:
+    - Security
+    - Validation & Verification
+    - Authentication & User Management
+    - AI & ML
+description: 'Our document verification and facial biometrics technology lets your users verify themselves anywhere, anytime. Document report: Object Results The result field indicates the overall report result. Possible values for Document reports are clear and consider: Report resultclearIf all underlying verifications. Identity verification at the speed of life. It’s as simple as an ID and a selfie'
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/onfido/logo_256x256.png
+is_active: true
+libraries:
+    - name: Onfido Background Checks Android SDK
+      homepage_uri: https://github.com/onfido/onfido-android-sdk
+      source_code_uri: ""
+      platform: Java
+    - name: Onfido Background Checks .Net SDK
+      homepage_uri: https://github.com/onfido/onfido.net
+      source_code_uri: https://www.nuget.org/packages/Onfido.NET
+      platform: .Net
+    - name: Onfido Background Checks Java SDK
+      homepage_uri: https://github.com/onfido/api-java-client
+      source_code_uri: ""
+      platform: Java
+    - name: Onfido Background Checks JavaScript SDK
+      homepage_uri: https://github.com/onfido/api-javascript-client
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Onfido Background Checks C# SDK
+      homepage_uri: https://github.com/onfido/api-csharp-client
+      source_code_uri: ""
+      platform: C#
+    - name: Onfido Background Checks iOS SDK
+      homepage_uri: https://github.com/onfido/onfido-ios-sdk
+      source_code_uri: ""
+      platform: Swift
+    - name: ' Onfido Background Checks Go SDK by Outdoorsy'
+      homepage_uri: https://onfido.com/documentation#client-libraries
+      source_code_uri: https://github.com/outdoorsy/onfido
+      platform: Go
+    - name: Onfido Background Checks Go SDK
+      homepage_uri: https://onfido.com/documentation#go
+      source_code_uri: https://github.com/outdoorsy/onfido
+      platform: Go
+    - name: Onfido Background Checks PHP SDK
+      homepage_uri: https://onfido.com/documentation#php
+      source_code_uri: https://github.com/onfido/php-onfido
+      platform: PHP
+    - name: ' Onfido Background Checks Python SDK'
+      homepage_uri: https://onfido.com/documentation#python
+      source_code_uri: https://github.com/onfido/pyonfido
+      platform: Python
+    - name: Onfido Background Checks Ruby SDK by Hassle
+      homepage_uri: https://onfido.com/documentation#ruby
+      source_code_uri: https://github.com/hvssle/onfido
+      platform: Ruby
+links:
+    - name: Docs / Website
+      url: https://documentation.onfido.com

@@ -8,16 +8,16 @@ CHAPS spol. s r. o. je společnost zabývající se vývojem IT aplikací a syst
 **Docs / Website**: https://www.chaps.cz/eng/products/idos-internet
 
 ## 🧬 Transportation in Czech Republic Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19722)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19722)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19722)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-czech-republic/transport-for-czech-republic.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-czech-republic/transport-for-czech-republic.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-czech-republic/transport-for-czech-republic.yaml)
 
 ## 💬 Transportation in Czech Republic Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19722)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-czech-republic/transport-for-czech-republic.yaml)    
 
 
 ## 🗄️ Categories:

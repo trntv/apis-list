@@ -6,16 +6,16 @@ Generate font-face using REST API. Fonts API - Subscription
 **Docs / Website**: https://everythingfonts.com/api/ffgen
 
 ## 🧬 @Font-Face Generation Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L0)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L0)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L0)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/atfont-face-generation-api/atfont-face-generation-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/atfont-face-generation-api/atfont-face-generation-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/atfont-face-generation-api/atfont-face-generation-api.yaml)
 
 ## 💬 @Font-Face Generation Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L0)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/atfont-face-generation-api/atfont-face-generation-api.yaml)    
 
 
 ## 🗄️ Categories:

@@ -1,0 +1,11 @@
+name: Chronicling America
+slug: chronicling-america
+categories:
+    - News & Feeds
+description: Newspaper Directory to find information about American newspapers published between 1690-present. Search America's historic newspaper pages from 1777-1963 or use the U. S
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: http://chroniclingamerica.loc.gov/about/api/

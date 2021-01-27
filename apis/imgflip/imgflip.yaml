@@ -1,0 +1,11 @@
+name: Imgflip
+slug: imgflip
+categories:
+    - Fun
+description: Get 100 of memes with Imgflip API, or add text/caption to memes directly from this awesome API. RESTful JSON API for making memes with Imgflip's meme generator
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/imgflip/logo_256x256.png
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://imgflip.com/api

@@ -6,9 +6,9 @@ API for accessing and managing data about athletes, activities and segments. Str
 **Docs / Website**: https://strava.github.io/api/
 
 ## 🧬 Strava Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18291)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18291)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18291)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/strava/strava.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/strava/strava.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/strava/strava.yaml)
 
 ## 💬 Strava Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -8,16 +8,16 @@ Build forms easily, autocomplete and validate data. using gender api and zip cod
 **Docs / Website**: https://form-api.com
 
 ## 🧬 Form-Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7074)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7074)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7074)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/form-api/form-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/form-api/form-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/form-api/form-api.yaml)
 
 ## 💬 Form-Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7074)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/form-api/form-api.yaml)    
 
 
 ## 🗄️ Categories:

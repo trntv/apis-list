@@ -1,0 +1,13 @@
+name: Rocketium Video API
+slug: rocketium-video-api
+categories:
+    - Video & Media
+    - Marketing & SEO
+description: Create multiple videos with your logo, captions, and background music in different aspect ratios. Check it out!. Rocketium Video API allows you to create Buzzfeed-like videos programmatically. Make video and image assets automatically using Rocketiumâ€™s video API
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/rocketium-video-api/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://rocketium.com/api/?utm_source=github&utm_medium=repository&utm_campaign=abhishekbanthia&utm_content=api_solution

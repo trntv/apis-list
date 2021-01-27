@@ -1,0 +1,12 @@
+name: Dataflow Kit
+slug: dataflow-kit
+categories:
+    - Other
+description: Web Scraper API to extract information from web sites, scrape SERPs, convert web pages to PDF, and capture screenshots. Dataflow kit - API documentation
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/dataflow-kit/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://dataflowkit.com/doc-api

@@ -1,0 +1,12 @@
+name: Cloud Machine Learning Engine
+slug: cloud-machine-learning-engine
+categories:
+    - AI & ML
+description: "Take your ML projects to production, quickly and cost-effectively. \n. Cloud-based machine learning and pattern matching tool. A development platform to build AI applications that run on GCP and on-premises"
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cloud-machine-learning-engine/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://cloud.google.com/ml-engine/docs/

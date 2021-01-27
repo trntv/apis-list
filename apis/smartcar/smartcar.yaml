@@ -1,0 +1,61 @@
+name: Smartcar
+slug: smartcar
+categories:
+    - Vehicles
+description: Build web and mobile apps that communicate with vehicles
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/smartcar/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: Smartcar Connect Android SDK
+      homepage_uri: https://github.com/smartcar/android-sdk
+      source_code_uri: https://smartcar.github.io/android-sdk/
+      platform: Java
+    - name: ' Smartcar Connect iOS SDK'
+      homepage_uri: https://github.com/smartcar/ios-sdk
+      source_code_uri: ""
+      platform: Objective-C
+    - name: Smartcar Connect JavaScript SDK
+      homepage_uri: https://github.com/smartcar/javascript-sdk
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Smartcar JavaScript SDK
+      homepage_uri: https://smartcar.com/docs/
+      source_code_uri: https://github.com/smartcar/javascript-sdk
+      platform: JavaScript
+    - name: 'Smartcar React SDK '
+      homepage_uri: https://smartcar.com/docs/integration-guides/react/introduction
+      source_code_uri: https://github.com/smartcar/getting-started-javascript-sdk-react
+      platform: JavaScript
+    - name: 'Smartcar ExpressJS SDK '
+      homepage_uri: https://smartcar.com/docs/integration-guides/express/introduction
+      source_code_uri: https://github.com/smartcar/getting-started-express
+      platform: Node.js
+    - name: 'Smartcar Java SDK '
+      homepage_uri: https://smartcar.github.io/java-sdk
+      source_code_uri: https://github.com/smartcar/java-sdk
+      platform: Java
+    - name: 'Smartcar Python SDK '
+      homepage_uri: https://github.com/smartcar/python-sdk
+      source_code_uri: ""
+      platform: Python
+    - name: 'Smartcar NodeJS SDK '
+      homepage_uri: https://github.com/smartcar/node-sdk#readme
+      source_code_uri: https://github.com/smartcar/node-sdk
+      platform: Node.js
+    - name: 'Smartcar Android SDK '
+      homepage_uri: https://smartcar.com/docs/integration-guides/android/introduction
+      source_code_uri: https://github.com/smartcar/android-sdk
+      platform: Java
+    - name: 'Smartcar iOS SDK '
+      homepage_uri: https://smartcar.com/docs/integration-guides/ios/introduction
+      source_code_uri: https://github.com/smartcar/ios-sdk
+      platform: Swift
+    - name: 'Smartcar JavaScript Client OAuth SDK '
+      homepage_uri: https://github.com/smartcar/javascript-sdk/blob/master/README.md
+      source_code_uri: https://github.com/smartcar/javascript-sdk
+      platform: JavaScript
+links:
+    - name: Docs / Website
+      url: https://smartcar.com/docs/

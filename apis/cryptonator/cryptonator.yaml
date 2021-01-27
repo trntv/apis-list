@@ -1,0 +1,11 @@
+name: Cryptonator
+slug: cryptonator
+categories:
+    - Blockchain & Cryptocurrencies
+description: Prices are updated every 30 seconds, covering 300+ cryptocurrencies across 42 exchanges. Cryptonator provides unique volume of cryptocurrency exchange rates data, which is delivered in easy-to-integrate JSON format via simple HTTPS requests
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://www.cryptonator.com/api/

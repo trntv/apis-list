@@ -1,0 +1,10 @@
+name: Neobi
+slug: neobi
+categories:
+    - Other
+description: A comprehensive Cannabis database includes products, prices, stock and inventory status, images, Producer and Brand information and other metadata. Get relevant, accurate and fresh Cannabis data from Neobi, that can integrate with any application. Consolidate your data with our cutting-edge technology
+is_free: false
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://neobi.io/

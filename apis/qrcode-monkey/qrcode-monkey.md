@@ -8,16 +8,16 @@ Create thousands of QR codes with design and logo automatically. Integrate custo
 **Docs / Website**: https://www.qrcode-monkey.com/qr-code-api-with-logo
 
 ## 🧬 Qrcode Monkey Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15937)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15937)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15937)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/qrcode-monkey/qrcode-monkey.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/qrcode-monkey/qrcode-monkey.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/qrcode-monkey/qrcode-monkey.yaml)
 
 ## 💬 Qrcode Monkey Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15937)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/qrcode-monkey/qrcode-monkey.yaml)    
 
 
 ## 🗄️ Categories:

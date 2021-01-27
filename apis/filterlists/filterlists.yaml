@@ -1,0 +1,11 @@
+name: FilterLists
+slug: filterlists
+categories:
+    - Security
+description: By Collin M. Barrett. FilterLists is the independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://filterlists.com

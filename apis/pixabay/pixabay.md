@@ -6,16 +6,16 @@ Restful API for searching and retrieving free images and videos
 **Docs / Website**: https://pixabay.com/api/docs/
 
 ## 🧬 Pixabay Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14929)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14929)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14929)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pixabay/pixabay.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pixabay/pixabay.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pixabay/pixabay.yaml)
 
 ## 💬 Pixabay Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14929)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/pixabay/pixabay.yaml)    
 
 
 ## 🗄️ Categories:

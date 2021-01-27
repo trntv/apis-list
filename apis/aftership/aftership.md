@@ -8,9 +8,9 @@ Provides multi-carrier shipment tracking APIs.
 **Docs / Website**: https://www.aftership.com/docs/api/4/overview
 
 ## 🧬 AfterShip Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L472)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L472)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L472)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/aftership/aftership.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/aftership/aftership.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/aftership/aftership.yaml)
 
 ## 💬 AfterShip Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

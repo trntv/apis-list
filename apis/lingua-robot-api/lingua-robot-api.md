@@ -8,16 +8,16 @@ English dictionary API providing an access to the data of over 800 000 English l
 **Docs / Website**: https://www.linguarobot.io/
 
 ## 🧬 Lingua Robot API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11276)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11276)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11276)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lingua-robot-api/lingua-robot-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lingua-robot-api/lingua-robot-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lingua-robot-api/lingua-robot-api.yaml)
 
 ## 💬 Lingua Robot API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11276)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/lingua-robot-api/lingua-robot-api.yaml)    
 
 
 ## 🗄️ Categories:

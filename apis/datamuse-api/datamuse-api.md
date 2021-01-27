@@ -6,16 +6,16 @@ Word-finding query engine that finds words that match a given set of constraints
 **Docs / Website**: https://www.datamuse.com/api/
 
 ## 🧬 Datamuse API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4796)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4796)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4796)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/datamuse-api/datamuse-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/datamuse-api/datamuse-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/datamuse-api/datamuse-api.yaml)
 
 ## 💬 Datamuse API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4796)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/datamuse-api/datamuse-api.yaml)    
 
 
 ## 🗄️ Categories:

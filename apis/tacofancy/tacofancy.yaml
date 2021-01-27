@@ -1,0 +1,13 @@
+name: TacoFancy
+slug: tacofancy
+categories:
+    - Food & Drinks
+    - Fun
+description: Making an API for https://github. Making an API for https://github. com/sinker/tacofancy - evz/tacofancy-api
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/tacofancy/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://github.com/evz/tacofancy-api

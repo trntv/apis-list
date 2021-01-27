@@ -1,0 +1,11 @@
+name: Barchart OnDemand
+slug: barchart-ondemand
+categories:
+    - Finance & Economics
+description: Free Market Data APIs for Stock, futures and forex quotes, and historical data.
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://www.barchartondemand.com/free

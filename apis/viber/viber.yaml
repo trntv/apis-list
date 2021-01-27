@@ -1,0 +1,15 @@
+name: Viber
+slug: viber
+categories:
+    - Voice
+    - Social
+    - Chats & Messaging
+    - Video & Media
+description: Millions of Viber users call, text, and send photos to each other, worldwide - for free. With Viber’s APIs, can create unique experiences for users at scale. Viber lets everyone in the world connect. Freely
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/viber/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://developers.viber.com/docs/api/

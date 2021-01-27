@@ -6,16 +6,16 @@ Free and public API that generates random and fake people's data in JSON.
 **Docs / Website**: https://pipl.ir
 
 ## 🧬 PIPL API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14482)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14482)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14482)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pipl-api/pipl-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pipl-api/pipl-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pipl-api/pipl-api.yaml)
 
 ## 💬 PIPL API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14482)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/pipl-api/pipl-api.yaml)    
 
 
 ## 🗄️ Categories:

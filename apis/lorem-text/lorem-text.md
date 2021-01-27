@@ -8,16 +8,16 @@ Generates Lorem Ipsum text
 **Docs / Website**: https://market.mashape.com/montanaflynn/lorem-text-generator
 
 ## 🧬 Lorem Text Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11612)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11612)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11612)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lorem-text/lorem-text.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lorem-text/lorem-text.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lorem-text/lorem-text.yaml)
 
 ## 💬 Lorem Text Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11612)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/lorem-text/lorem-text.yaml)    
 
 
 ## 🗄️ Categories:

@@ -6,16 +6,16 @@ uebermaps are interactive maps that enable people to. Hello developer. This is t
 **Docs / Website**: https://uebermaps.com/api/v2
 
 ## 🧬 Uebermaps Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20956)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20956)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20956)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/uebermaps/uebermaps.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/uebermaps/uebermaps.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/uebermaps/uebermaps.yaml)
 
 ## 💬 Uebermaps Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20956)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/uebermaps/uebermaps.yaml)    
 
 
 ## 🗄️ Categories:

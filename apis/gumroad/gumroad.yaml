@@ -1,0 +1,13 @@
+name: Gumroad
+slug: gumroad
+categories:
+    - Social
+    - Commerce
+    - Payments
+description: Gumroad helps creators do more of what they love by offering tools to get paid online, they have sent over $202M to artists, designers, educators, writers, influencers and more.
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/gumroad/logo_256x256.png
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://gumroad.com/api

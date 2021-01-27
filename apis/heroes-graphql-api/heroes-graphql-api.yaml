@@ -1,0 +1,10 @@
+name: Heroes GraphQL API
+slug: heroes-graphql-api
+categories:
+    - Other
+description: ""
+is_free: false
+is_active: false
+links:
+    - name: Docs / Website
+      url: https://www.graph.cool/

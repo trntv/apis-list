@@ -1,0 +1,13 @@
+name: RandomFox
+slug: randomfox
+categories:
+    - Animals
+    - Images & Photography
+    - Random
+description: Random image of a fox
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://randomfox.ca/

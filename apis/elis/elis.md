@@ -8,16 +8,16 @@ Automate data extraction from your documents with Artificial Intelligence
 **Docs / Website**: https://rossum.ai/developers/
 
 ## 🧬 Elis Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5857)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5857)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5857)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/elis/elis.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/elis/elis.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/elis/elis.yaml)
 
 ## 💬 Elis Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5857)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/elis/elis.yaml)    
 
 
 ## 🗄️ Categories:

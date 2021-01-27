@@ -1,0 +1,12 @@
+name: FOAAS
+slug: foaas
+categories:
+    - Fun
+    - Adult
+description: FOAAS (Fuck Off As A Service) provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: http://www.foaas.com/

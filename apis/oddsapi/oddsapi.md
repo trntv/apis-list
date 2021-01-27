@@ -6,16 +6,16 @@ Sports data API provides live and historical sports data from all around the wor
 **Docs / Website**: https://sportdataapi.com
 
 ## 🧬 Oddsapi Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13759)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13759)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13759)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/oddsapi/oddsapi.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/oddsapi/oddsapi.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/oddsapi/oddsapi.yaml)
 
 ## 💬 Oddsapi Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13759)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/oddsapi/oddsapi.yaml)    
 
 
 ## 🗄️ Categories:

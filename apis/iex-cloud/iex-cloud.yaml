@@ -1,0 +1,61 @@
+name: IEX Cloud
+slug: iex-cloud
+categories:
+    - Finance & Economics
+description: IEX Cloud is a financial data infrastructure platform that connects developers and financial data creators
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/iex-cloud/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: IEX Cloud Node.js SDK by Bruce Curtis Schardt
+      homepage_uri: https://github.com/schardtbc/iexcloud_api_wrapper
+      source_code_uri: ""
+      platform: Node.js
+    - name: IEX Cloud Go SDK by Matthew Rankin
+      homepage_uri: https://github.com/goinvest/iexcloud
+      source_code_uri: ""
+      platform: Go
+    - name: ' IEX Cloud .NET SDK by Cody Rocheleau'
+      homepage_uri: https://www.nuget.org/packages/IEXCloudDotNet/
+      source_code_uri: ""
+      platform: .Net
+    - name: IEX R SDK by Imanuel Costigan
+      homepage_uri: https://github.com/imanuelcostigan/iex
+      source_code_uri: ""
+      platform: R
+    - name: IEX PHP SDK by Michael Drennen
+      homepage_uri: https://packagist.org/packages/dprmc/iex-trading
+      source_code_uri: ""
+      platform: PHP
+    - name: IEX Node.js SDK by David Lau and Bilal Quadri
+      homepage_uri: https://github.com/bilalq/iex-api
+      source_code_uri: ""
+      platform: Node.js
+    - name: IEX .NET SDK by Simone Giuliani and Antonio Papa
+      homepage_uri: https://www.nuget.org/packages/IEXTradingApi
+      source_code_uri: ""
+      platform: .Net
+    - name: 'IEX Finance Python SDK by Addison Lynch '
+      homepage_uri: https://pypi.org/project/iexfinance/
+      source_code_uri: ""
+      platform: Python
+    - name: 'IEX Finance Quote Perl SDK by Jeffrey T. Palmer '
+      homepage_uri: https://github.com/jtpalmer/Finance-Quote-IEX
+      source_code_uri: ""
+      platform: PERL
+    - name: 'IEX Trading Java SDK by Wojciech Zankowski '
+      homepage_uri: https://github.com/WojciechZankowski/iextrading4j
+      source_code_uri: ""
+      platform: Java
+    - name: IEX Stocks Haskell SDK by David Bouchare and Kristian Sällberg
+      homepage_uri: https://hackage.haskell.org/package/stocks
+      source_code_uri: ""
+      platform: Haskell
+    - name: IEX Go SDK by Timothy Palpant
+      homepage_uri: https://github.com/timpalpant/go-iex
+      source_code_uri: ""
+      platform: Go
+links:
+    - name: Docs / Website
+      url: https://iexcloud.io/

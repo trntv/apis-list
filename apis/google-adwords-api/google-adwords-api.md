@@ -8,9 +8,9 @@ A SOAP API that provides access to Google Ads accounts, campaigns, and reports. 
 **Docs / Website**: https://developers.google.com/adwords/api/docs/guides/start
 
 ## 🧬 Google AdWords API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8249)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8249)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8249)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-adwords-api/google-adwords-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-adwords-api/google-adwords-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-adwords-api/google-adwords-api.yaml)
 
 ## 💬 Google AdWords API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

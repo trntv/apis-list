@@ -1,0 +1,25 @@
+name: Yummly
+slug: yummly
+categories:
+    - Food & Drinks
+    - Search
+    - Text Analysis & Tools
+description: Find food recipes. The Yummly Recipe API lets you integrate recipes and faceted recipe search into your websites or mobile applications. Since Yummly understands the recipe – ingredients, diets, allergies, nutrition, taste, techniques & more. It can connect your users with the best recipes available for their unique food preferences
+is_free: false
+is_active: true
+libraries:
+    - name: Yummly Ruby SDK by Theo Mills
+      homepage_uri: https://github.com/twmills/yummly
+      source_code_uri: ""
+      platform: Ruby
+    - name: Yummly Node.js SDK by Yummly
+      homepage_uri: https://github.com/yummly/node-yummly
+      source_code_uri: ""
+      platform: Node.js
+    - name: Yummly Python SDK by Derrick Gilland
+      homepage_uri: https://github.com/dgilland/yummly.py
+      source_code_uri: ""
+      platform: Python
+links:
+    - name: Docs / Website
+      url: https://developer.yummly.com/

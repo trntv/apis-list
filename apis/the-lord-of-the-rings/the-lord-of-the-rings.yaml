@@ -1,0 +1,11 @@
+name: The Lord of the Rings
+slug: the-lord-of-the-rings
+categories:
+    - Video & Media
+description: The Lord of the Rings API - The one API
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://the-one-api.dev/

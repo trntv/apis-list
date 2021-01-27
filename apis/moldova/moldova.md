@@ -6,16 +6,16 @@ Central bank of Moldova
 **Docs / Website**: https://bnm.md/en/content/official-exchange-rates
 
 ## 🧬 Moldova Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12601)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12601)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12601)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/moldova/moldova.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/moldova/moldova.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/moldova/moldova.yaml)
 
 ## 💬 Moldova Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12601)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/moldova/moldova.yaml)    
 
 
 ## 🗄️ Categories:

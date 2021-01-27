@@ -6,16 +6,16 @@ A comprehensive Cannabis database includes products, prices, stock and inventory
 **Docs / Website**: https://neobi.io/
 
 ## 🧬 Neobi Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13184)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13184)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13184)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/neobi/neobi.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/neobi/neobi.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/neobi/neobi.yaml)
 
 ## 💬 Neobi Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13184)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/neobi/neobi.yaml)    
 
 
 ## 🗄️ Categories:

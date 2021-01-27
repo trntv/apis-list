@@ -6,16 +6,16 @@ A Remake of the original api, using the MERN stack. A Remake of the original api
 **Docs / Website**: https://www.swapi.tech
 
 ## 🧬 SWAPI Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16953)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16953)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16953)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/swapi/swapi.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/swapi/swapi.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/swapi/swapi.yaml)
 
 ## 💬 SWAPI Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16953)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/swapi/swapi.yaml)    
 
 
 ## 🗄️ Categories:

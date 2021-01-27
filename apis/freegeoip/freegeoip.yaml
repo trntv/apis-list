@@ -1,0 +1,16 @@
+name: FreeGeoIP
+slug: freegeoip
+categories:
+    - Maps & Geo
+description: Free IP Geolocation API with no registration required. 15000 requests per hour ✓ JSON, XML and CSV output ✓ Fast response times
+is_free: false
+type: REST
+is_active: true
+libraries:
+    - name: ' Geocoder Node.js Library by Nicolas Chaulet'
+      homepage_uri: https://github.com/nchaulet/node-geocoder
+      source_code_uri: ""
+      platform: Node.js
+links:
+    - name: Docs / Website
+      url: https://freegeoip.app/

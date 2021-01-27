@@ -6,16 +6,16 @@ The web address you entered is not a functioning page on our site. Try one of th
 **Docs / Website**: https://webservices.amazon.com/paapi5/documentation/
 
 ## 🧬 Amazon Product Advertising API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L697)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L697)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L697)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/amazon-product-advertising-api/amazon-product-advertising-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/amazon-product-advertising-api/amazon-product-advertising-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/amazon-product-advertising-api/amazon-product-advertising-api.yaml)
 
 ## 💬 Amazon Product Advertising API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L697)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/amazon-product-advertising-api/amazon-product-advertising-api.yaml)    
 
 
 ## 🗄️ Categories:

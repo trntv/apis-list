@@ -1,0 +1,12 @@
+name: IFTTT
+slug: ifttt
+categories:
+    - Development
+description: Learn how to build an API to show and update connections, run actions, perform queries, and listen for triggers
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ifttt/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://platform.ifttt.com/docs/connect_api

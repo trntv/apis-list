@@ -8,16 +8,16 @@ Single interface to retrieve transactions across crypto exchanges and wallets
 **Docs / Website**: https://path.tech
 
 ## 🧬 Path Tech Crypto API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14602)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14602)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14602)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/path-tech-crypto-api/path-tech-crypto-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/path-tech-crypto-api/path-tech-crypto-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/path-tech-crypto-api/path-tech-crypto-api.yaml)
 
 ## 💬 Path Tech Crypto API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14602)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/path-tech-crypto-api/path-tech-crypto-api.yaml)    
 
 
 ## 🗄️ Categories:

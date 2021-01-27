@@ -1,0 +1,12 @@
+name: Wger
+slug: wger
+categories:
+    - Sport & Fitness
+description: 'de/api/v2/ Authentication Public endpoints, such as the list of exercises or the ingredients can be accessed with. wger Workout Manager provides a full REST API to all database objects: https://wger'
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/wger/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://wger.de/en/software/api

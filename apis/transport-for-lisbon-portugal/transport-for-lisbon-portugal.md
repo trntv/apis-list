@@ -6,16 +6,16 @@ Data access is free upon registration, in order to enhanc. Welcome to EMEL’s o
 **Docs / Website**: https://emel.city-platform.com/opendata/
 
 ## 🧬 Transportation in Lisbon, Portugal Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19794)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19794)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19794)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-lisbon-portugal/transport-for-lisbon-portugal.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-lisbon-portugal/transport-for-lisbon-portugal.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-lisbon-portugal/transport-for-lisbon-portugal.yaml)
 
 ## 💬 Transportation in Lisbon, Portugal Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19794)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-lisbon-portugal/transport-for-lisbon-portugal.yaml)    
 
 
 ## 🗄️ Categories:

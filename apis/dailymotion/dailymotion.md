@@ -8,9 +8,9 @@ Build applications centered around DailyMotion. Explore Dailymotion API document
 **Docs / Website**: https://developer.dailymotion.com/
 
 ## 🧬 Dailymotion Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4514)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4514)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4514)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dailymotion/dailymotion.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dailymotion/dailymotion.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dailymotion/dailymotion.yaml)
 
 ## 💬 Dailymotion Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

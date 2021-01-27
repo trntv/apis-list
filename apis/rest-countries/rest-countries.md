@@ -6,16 +6,16 @@ Get information about countries via a RESTful API.
 **Docs / Website**: https://restcountries.eu
 
 ## 🧬 REST Countries Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16198)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16198)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16198)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/rest-countries/rest-countries.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/rest-countries/rest-countries.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/rest-countries/rest-countries.yaml)
 
 ## 💬 REST Countries Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16198)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/rest-countries/rest-countries.yaml)    
 
 
 ## 🗄️ Categories:

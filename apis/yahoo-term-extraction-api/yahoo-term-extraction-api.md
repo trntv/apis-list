@@ -8,16 +8,16 @@ Join the 200,000 developers using Yahoo tools to build their app businesses. Con
 **Docs / Website**: https://developer.yahoo.com/contentanalysis/
 
 ## 🧬 Yahoo Term Extraction API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22482)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22482)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22482)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yahoo-term-extraction-api/yahoo-term-extraction-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yahoo-term-extraction-api/yahoo-term-extraction-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yahoo-term-extraction-api/yahoo-term-extraction-api.yaml)
 
 ## 💬 Yahoo Term Extraction API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22482)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/yahoo-term-extraction-api/yahoo-term-extraction-api.yaml)    
 
 
 ## 🗄️ Categories:

@@ -1,0 +1,12 @@
+name: Lexigram
+slug: lexigram
+categories:
+    - AI & ML
+    - Health
+description: io. Document, mock, test, and more, with the StopLight API Designer. Hosted API documentation for every OAS (Swagger) and RAML spec out there. Powered by Stoplight
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://docs.lexigram.io/v1/welcome

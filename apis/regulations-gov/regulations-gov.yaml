@@ -1,0 +1,11 @@
+name: Regulations.gov
+slug: regulations-gov
+categories:
+    - Government
+description: More information is available here. Pleas. The Regulations. gov API is not accepting applications for new API keys at this time to prepare for the upcoming transition to a modernized Regulations. gov
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://regulationsgov.github.io/developers/

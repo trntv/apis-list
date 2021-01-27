@@ -1,0 +1,77 @@
+name: Mailjet
+slug: mailjet
+categories:
+    - Email & SMS
+    - Marketing & SEO
+    - Analytics
+description: "Reliable and scalable email delivery platform with SMTP and API. \nReal-time monitoring service for all your email traffic. \nResponsive email design with MJML and Passport"
+is_free: false
+is_active: true
+libraries:
+    - name: Mailjet Symfony PHP SDK by Marc Galoyer
+      homepage_uri: https://github.com/uneak/MailjetBundle
+      source_code_uri: ""
+      platform: PHP
+    - name: Mailjet Node.js SDK by Clément Delafargue
+      homepage_uri: https://github.com/divarvel/node-mailjet-v3
+      source_code_uri: ""
+      platform: Node.js
+    - name: Mailjet Node.js SDK by psolbach
+      homepage_uri: https://github.com/psolbach/node-mailjet
+      source_code_uri: ""
+      platform: Node.js
+    - name: Mailjet Symfony PHP SDK by Mehdi ZOGHLAMI
+      homepage_uri: https://github.com/Vooodoo/MailJetBundle
+      source_code_uri: ""
+      platform: PHP
+    - name: Mailjet Node.js SDK by panosru
+      homepage_uri: https://github.com/panosru/node-mailjet
+      source_code_uri: ""
+      platform: Node.js
+    - name: Mailjet Symfony PHP SDK by KNP Labs
+      homepage_uri: https://github.com/KnpLabs/KnpMailjetBundle
+      source_code_uri: ""
+      platform: PHP
+    - name: Mailjet Python SDK by Rick van Hattem
+      homepage_uri: https://github.com/WoLpH/mailjet
+      source_code_uri: ""
+      platform: Python
+    - name: Mailjet PHP SDK by Arnaud Ligny
+      homepage_uri: https://github.com/Narno/Mailjet-API
+      source_code_uri: ""
+      platform: PHP
+    - name: Mailjet Node.js SDK by Ryan Flanagan
+      homepage_uri: https://github.com/Ranagan/node-mailjet-api
+      source_code_uri: ""
+      platform: Node.js
+    - name: Mailjet Elixir SDK by PiggyPot
+      homepage_uri: https://github.com/PiggyPot/mailjex
+      source_code_uri: ""
+      platform: Elixir
+    - name: Mailjet Go SDK by Mailjet
+      homepage_uri: https://github.com/mailjet/mailjet-apiv3-go
+      source_code_uri: ""
+      platform: Go
+    - name: Mailjet Python SDK by Mailjet
+      homepage_uri: https://github.com/mailjet/mailjet-apiv3-python
+      source_code_uri: ""
+      platform: Python
+    - name: Mailjet Node.js SDK by Mailjet
+      homepage_uri: https://github.com/mailjet/mailjet-apiv3-nodejs
+      source_code_uri: https://github.com/mailjet/mailjet-apiv3-nodejs
+      platform: Node.js
+    - name: Mailjet Ruby SDK by Mailjet
+      homepage_uri: https://github.com/mailjet/mailjet-gem
+      source_code_uri: ""
+      platform: Ruby
+    - name: Mailjet Java SDK by Mailjet
+      homepage_uri: https://github.com/mailjet/mailjet-apiv3-java
+      source_code_uri: ""
+      platform: Java
+    - name: Mailjet PHP SDK by Mailjet
+      homepage_uri: https://github.com/mailjet/mailjet-apiv3-php-simple
+      source_code_uri: ""
+      platform: PHP
+links:
+    - name: Docs / Website
+      url: https://dev.mailjet.com

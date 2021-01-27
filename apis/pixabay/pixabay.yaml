@@ -1,0 +1,12 @@
+name: Pixabay
+slug: pixabay
+categories:
+    - Development
+    - Images & Photography
+description: Restful API for searching and retrieving free images and videos
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://pixabay.com/api/docs/

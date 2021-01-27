@@ -6,9 +6,9 @@ Shodan API, the easiest way to access the Shodan search engine on your own terms
 **Docs / Website**: https://developer.shodan.io/
 
 ## 🧬 Shodan Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17441)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17441)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L17441)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shodan/shodan.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shodan/shodan.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shodan/shodan.yaml)
 
 ## 💬 Shodan Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

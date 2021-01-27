@@ -6,16 +6,16 @@ This food API is free to use and can get you recipes, food details, food names ,
 **Docs / Website**: https://www.themealdb.com/api.php
 
 ## 🧬 The Meal Db Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19245)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19245)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19245)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-meal-db/the-meal-db.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-meal-db/the-meal-db.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-meal-db/the-meal-db.yaml)
 
 ## 💬 The Meal Db Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19245)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-meal-db/the-meal-db.yaml)    
 
 
 ## 🗄️ Categories:

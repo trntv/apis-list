@@ -1,0 +1,11 @@
+name: Scraper.AI
+slug: scraper-ai
+categories:
+    - Development
+description: Scraper. AI is a no-code data extraction tool that allows you to extract data from a website and convert it into the structured data you require
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://docs.scraper.ai/#/

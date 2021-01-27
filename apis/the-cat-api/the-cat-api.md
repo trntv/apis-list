@@ -8,16 +8,16 @@ A public service API all about cat pictures. A public service API all about Cats
 **Docs / Website**: https://TheCatAPI.com
 
 ## 🧬 The Cat Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19187)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19187)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19187)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-cat-api/the-cat-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-cat-api/the-cat-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-cat-api/the-cat-api.yaml)
 
 ## 💬 The Cat Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L19187)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-cat-api/the-cat-api.yaml)    
 
 
 ## 🗄️ Categories:

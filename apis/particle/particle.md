@@ -6,9 +6,9 @@ API to manage Particle devices (including their own Arduino-compatible ones and 
 **Docs / Website**: https://docs.particle.io/reference/api/
 
 ## 🧬 Particle Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14554)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14554)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14554)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/particle/particle.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/particle/particle.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/particle/particle.yaml)
 
 ## 💬 Particle Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

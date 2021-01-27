@@ -1,0 +1,20 @@
+name: Nexchange
+slug: nexchange
+categories:
+    - Blockchain & Cryptocurrencies
+description: API for crypto currency exchange.
+is_free: false
+type: REST
+is_active: true
+libraries:
+    - name: Nexchange Python SDK by onitsoft
+      homepage_uri: https://github.com/onitsoft/nexchange-sdk-python/blob/master/README.md
+      source_code_uri: https://github.com/onitsoft/nexchange-sdk-python
+      platform: Python
+    - name: Nexchange Go SDK by onitsoft
+      homepage_uri: https://github.com/onitsoft/nexchange-sdk-go/blob/master/README.md
+      source_code_uri: https://github.com/onitsoft/nexchange-sdk-go
+      platform: Go
+links:
+    - name: Docs / Website
+      url: https://nexchange2.docs.apiary.io/

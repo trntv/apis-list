@@ -1,0 +1,12 @@
+name: Microsoft Azure Machine Learning API
+slug: microsoft-azure-machine-learning-api
+categories:
+    - AI & ML
+description: Azure Cognitive Services brings AI within reach of every developer through a family of APIs that don’t require machine-learning expertise. Helps data scientists publish in minutes which once used to take days after they had developed a feasible model
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/microsoft-azure-machine-learning-api/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://azure.microsoft.com/en-us/services/cognitive-services/

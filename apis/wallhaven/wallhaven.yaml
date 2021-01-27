@@ -1,0 +1,11 @@
+name: Wallhaven
+slug: wallhaven
+categories:
+    - Other
+description: wallhaven. cc help docs!. A huge wallpaper library
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://wallhaven.cc/help/api

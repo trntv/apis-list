@@ -1,0 +1,12 @@
+name: Block
+slug: block
+categories:
+    - Blockchain & Cryptocurrencies
+description: The most versatile and secure wallet for all your coins
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/block/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://block.io/

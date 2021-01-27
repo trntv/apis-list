@@ -8,9 +8,9 @@ Real-time exchange rates for 154 world currencies provided in JSON format and wo
 **Docs / Website**: https://currencystack.io
 
 ## 🧬 Currencystack Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4421)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4421)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4421)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/currencystack/currencystack.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/currencystack/currencystack.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/currencystack/currencystack.yaml)
 
 ## 💬 Currencystack Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

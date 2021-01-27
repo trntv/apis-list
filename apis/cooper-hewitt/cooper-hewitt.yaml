@@ -1,0 +1,11 @@
+name: Cooper Hewitt
+slug: cooper-hewitt
+categories:
+    - Art & Design
+description: Cooper Hewitt, Smithsonian Design Museum Collections provides a REST-ish style application programming interface (API) for developers to use in their products and services. API requests are made by
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://collection.cooperhewitt.org/api

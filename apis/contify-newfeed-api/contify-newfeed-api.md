@@ -8,16 +8,16 @@ Contify's News Feed APIs provides a clean, company-based market and competitive 
 **Docs / Website**: https://www.contify.com/news-feed-api/
 
 ## 🧬 Contify Newfeed Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4072)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4072)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4072)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/contify-newfeed-api/contify-newfeed-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/contify-newfeed-api/contify-newfeed-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/contify-newfeed-api/contify-newfeed-api.yaml)
 
 ## 💬 Contify Newfeed Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4072)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/contify-newfeed-api/contify-newfeed-api.yaml)    
 
 
 ## 🗄️ Categories:

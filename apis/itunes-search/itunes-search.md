@@ -6,16 +6,16 @@ Describes the iTunes Search API used to place search fields in a website. The Se
 **Docs / Website**: https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/Searching.html#//apple_ref/doc/uid/TP40017632-CH5-SW1
 
 ## 🧬 iTunes Search Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23300)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23300)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23300)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/itunes-search/itunes-search.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/itunes-search/itunes-search.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/itunes-search/itunes-search.yaml)
 
 ## 💬 iTunes Search Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23300)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/itunes-search/itunes-search.yaml)    
 
 
 ## 🗄️ Categories:

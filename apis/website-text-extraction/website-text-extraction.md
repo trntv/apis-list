@@ -6,16 +6,16 @@ Scrape websites and get their content as plaintext
 **Docs / Website**: https://websitetextextraction.apifex.com/
 
 ## 🧬 Website Text Extraction Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21706)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21706)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21706)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/website-text-extraction/website-text-extraction.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/website-text-extraction/website-text-extraction.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/website-text-extraction/website-text-extraction.yaml)
 
 ## 💬 Website Text Extraction Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21706)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/website-text-extraction/website-text-extraction.yaml)    
 
 
 ## 🗄️ Categories:

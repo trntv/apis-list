@@ -6,9 +6,9 @@ xkcd API
 **Docs / Website**: https://xkcd.com/json.html
 
 ## 🧬 xkcd Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23537)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23537)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23537)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/xkcd/xkcd.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/xkcd/xkcd.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/xkcd/xkcd.yaml)
 
 ## 💬 xkcd Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

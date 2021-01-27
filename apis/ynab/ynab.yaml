@@ -1,0 +1,26 @@
+name: YNAB
+slug: ynab
+categories:
+    - Finance & Economics
+description: Introduction Hello Developers Welcome to the YNAB API! (If you aren't a developer or you have no idea what an "API" is and you just want to sign in to your YNAB account, you can do that here. ) The
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ynab/logo_256x256.png
+type: REST
+contact: contact@wordassociations.net
+is_active: true
+libraries:
+    - name: YNAB PowerShell SDK by Connor Griffin
+      homepage_uri: https://api.youneedabudget.com/#clients-community
+      source_code_uri: https://github.com/ConnorGriffin/Posh-YNAB
+      platform: .Net
+    - name: YNAB JavaScript SDK
+      homepage_uri: https://api.youneedabudget.com/#client-javascript
+      source_code_uri: https://github.com/ynab/ynab-sdk-js
+      platform: JavaScript
+    - name: YNAB Ruby SDK
+      homepage_uri: https://api.youneedabudget.com/#client-ruby
+      source_code_uri: https://github.com/ynab/ynab-sdk-ruby
+      platform: Ruby
+links:
+    - name: Docs / Website
+      url: https://api.youneedabudget.com/

@@ -1,0 +1,11 @@
+name: An API of Ice And Fire
+slug: an-api-of-ice-and-fire
+categories:
+    - Video & Media
+description: 'The API is open source! '
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://anapioficeandfire.com/

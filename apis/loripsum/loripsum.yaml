@@ -1,0 +1,13 @@
+name: Loripsum
+slug: loripsum
+categories:
+    - Testing
+    - Development
+description: This Lorem Ipsum generator fits all your Lipsum needs! Come on over, make some Lipsum and copy-paste like a pro!
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/loripsum/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: http://loripsum.net/

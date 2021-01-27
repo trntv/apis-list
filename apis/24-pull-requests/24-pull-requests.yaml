@@ -1,0 +1,14 @@
+name: 24 Pull Requests
+slug: 24-pull-requests
+categories:
+    - Events
+    - Calendar & Time
+    - Development
+description: 24 Pull Requests is a yearly initiative to encourage contributors around the world to send 24 pull requests between December 1st and December 24th
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/24-pull-requests/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://24pullrequests.com/api

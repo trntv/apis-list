@@ -1,0 +1,18 @@
+name: Zenserp
+slug: zenserp
+categories:
+    - Marketing & SEO
+    - Scrapers & Data Mining
+    - Search
+description: Our fast & reliable SERP API enables you to scrape search results in realtime and without interruption. Fast response times and fair pricing. Scraping SERPs from search engines is a difficult task, as it involves proxy management, captcha-solving and constant parser adaptation. SERP API makes this process easy, fast & scalable
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/zenserp/logo_256x256.png
+is_active: true
+libraries:
+    - name: Zenserp Python SDK
+      homepage_uri: https://github.com/zenserp/zenserp-python
+      source_code_uri: ""
+      platform: Python
+links:
+    - name: Docs / Website
+      url: https://zenserp.com

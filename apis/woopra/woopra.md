@@ -7,9 +7,9 @@ No hours sank into aggregating and cleaning data. No complex SQL queries require
 **Docs / Website**: https://www.woopra.com/docs/developer/analytics-api/
 
 ## 🧬 Woopra Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22079)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22079)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22079)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/woopra/woopra.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/woopra/woopra.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/woopra/woopra.yaml)
 
 ## 💬 Woopra Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

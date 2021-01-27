@@ -1,0 +1,50 @@
+name: AfterShip
+slug: aftership
+categories:
+    - Post & Logistics
+    - Commerce
+description: Provides multi-carrier shipment tracking APIs.
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/aftership/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: AfterShip PHP SDK by Abishek R Srikaanth
+      homepage_uri: https://www.aftership.com/
+      source_code_uri: https://github.com/abishekrsrikaanth/aftership-php-sdk
+      platform: PHP
+    - name: AfterShip PHP SDK
+      homepage_uri: https://github.com/AfterShip/aftership-php
+      source_code_uri: ""
+      platform: PHP
+    - name: AfterShip Ruby SDK
+      homepage_uri: https://github.com/AfterShip/aftership-ruby
+      source_code_uri: ""
+      platform: Ruby
+    - name: AfterShip Python SDK
+      homepage_uri: https://github.com/AfterShip/aftership-python
+      source_code_uri: ""
+      platform: Python
+    - name: AfterShip .NET SDK
+      homepage_uri: https://github.com/AfterShip/aftership-net
+      source_code_uri: ""
+      platform: .Net
+    - name: AfterShip NodeJS SDK
+      homepage_uri: https://github.com/AfterShip/aftership-nodejs
+      source_code_uri: ""
+      platform: Node.js
+    - name: AfterShip Java SDK
+      homepage_uri: https://github.com/AfterShip/aftership-java
+      source_code_uri: ""
+      platform: Java
+    - name: AfterShip iOS SDK
+      homepage_uri: https://github.com/AfterShip/aftership-ios
+      source_code_uri: ""
+      platform: Objective-C
+    - name: AfterShip Android SDK
+      homepage_uri: https://github.com/AfterShip/aftership-android
+      source_code_uri: ""
+      platform: Java
+links:
+    - name: Docs / Website
+      url: https://www.aftership.com/docs/api/4/overview

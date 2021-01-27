@@ -8,16 +8,16 @@ Build scalable web and mobile backends in any language on Google’s infrastruct
 **Docs / Website**: https://cloud.google.com/appengine/docs
 
 ## 🧬 Google App Engine API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8370)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8370)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8370)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-app-engine-api/google-app-engine-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-app-engine-api/google-app-engine-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-app-engine-api/google-app-engine-api.yaml)
 
 ## 💬 Google App Engine API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8370)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-app-engine-api/google-app-engine-api.yaml)    
 
 
 ## 🗄️ Categories:

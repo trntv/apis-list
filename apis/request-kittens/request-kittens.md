@@ -8,16 +8,16 @@ A randomized set of category-specific cat images.
 **Docs / Website**: http://joshwcomeau.github.io/RequestKittensDocs/public/
 
 ## 🧬 Request Kittens Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16553)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16553)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16553)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/request-kittens/request-kittens.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/request-kittens/request-kittens.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/request-kittens/request-kittens.yaml)
 
 ## 💬 Request Kittens Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16553)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/request-kittens/request-kittens.yaml)    
 
 
 ## 🗄️ Categories:

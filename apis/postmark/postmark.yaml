@@ -1,0 +1,113 @@
+name: Postmark
+slug: postmark
+categories:
+    - Email & SMS
+    - Business
+description: No bulk. That means your app's email isn't stuck waiting behind 500,000 copies of a marketing campaign. Postmark API and developer documentation home with home about integration, API, webhooks and a user guide. Postmark delivers email triggered by an action in your app
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/postmark/logo_256x256.png
+is_active: true
+libraries:
+    - name: Kanboard PHP SDK by polom
+      homepage_uri: https://github.com/polom/kanboard-tasksbymail
+      source_code_uri: ""
+      platform: PHP
+    - name: Postmark Java SDK by Imaginatio
+      homepage_uri: https://github.com/Imaginatio/postmark-java
+      source_code_uri: ""
+      platform: Java
+    - name: Postmark Go SDK by Mahmud Ridwan
+      homepage_uri: https://github.com/hjr265/postmark.go
+      source_code_uri: ""
+      platform: Go
+    - name: Postmark Haskell SDK by markhibberd
+      homepage_uri: https://github.com/markhibberd/postmark
+      source_code_uri: ""
+      platform: Haskell
+    - name: Postmark Go SDK by Kyle Truscott
+      homepage_uri: https://github.com/keighl/postmark
+      source_code_uri: ""
+      platform: Go
+    - name: Postmark PHP SDK by Joffrey JAFFEUX
+      homepage_uri: https://github.com/jjaffeux/postmark-inbound-php
+      source_code_uri: ""
+      platform: PHP
+    - name: Postmark Ruby SDK by Randy Schmidt
+      homepage_uri: https://github.com/r38y/postmark-mitt
+      source_code_uri: ""
+      platform: Ruby
+    - name: Postmark Java SDK by Jared Holdcroft
+      homepage_uri: https://github.com/jaredholdcroft/postmark-java
+      source_code_uri: ""
+      platform: Java
+    - name: Postmark Ruby on Rails SDK by Wildbit
+      homepage_uri: https://github.com/wildbit/postmark-rails
+      source_code_uri: ""
+      platform: Ruby
+    - name: Postmark FeathersJS SDK by feathers-plus
+      homepage_uri: https://github.com/feathers-plus/feathers-postmark
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Postmark Laravel PHP SDK by Durham Hale
+      homepage_uri: https://github.com/durhamhale/laravel-postmark
+      source_code_uri: ""
+      platform: PHP
+    - name: Postmark Elixir SDK by Marcel Oomens
+      homepage_uri: https://github.com/marceloomens/ExPosta
+      source_code_uri: ""
+      platform: Elixir
+    - name: Postmark Perl SDK by Ido Perlmuter
+      homepage_uri: https://github.com/ido50/WWW-Postmark
+      source_code_uri: ""
+      platform: PERL
+    - name: Postmark NodeJS SDK by Andrew Sliwinski
+      homepage_uri: https://github.com/thisandagain/trebuchet
+      source_code_uri: ""
+      platform: Node.js
+    - name: Postmark Scala SDK by Seb Richards
+      homepage_uri: https://github.com/sebrichards/postmark-scala
+      source_code_uri: ""
+      platform: Scala
+    - name: Postmark Java SDK by Wildbit
+      homepage_uri: https://github.com/wildbit/postmark-java
+      source_code_uri: http://search.maven.org/#artifactdetails%7Ccom.wildbit.java%7Cpostmark%7C1.1.6%7C
+      platform: Java
+    - name: Postmark Python SDK by Dmitry Dygalo
+      homepage_uri: https://github.com/Stranger6667/postmarker
+      source_code_uri: https://pypi.org/project/postmarker/
+      platform: Python
+    - name: Postmark Go SDK by ChannelMeter
+      homepage_uri: https://github.com/ChannelMeter/postmark
+      source_code_uri: ""
+      platform: Go
+    - name: Postmark ColdFusion SDK by Ember Feather
+      homepage_uri: https://github.com/emberfeather/postmark4cf
+      source_code_uri: ""
+      platform: ColdFusion
+    - name: Postmark Go SDK by Matt Evans
+      homepage_uri: https://github.com/mattevans/postmark-go
+      source_code_uri: ""
+      platform: Go
+    - name: Postmark Go SDK by Diffeo
+      homepage_uri: https://github.com/diffeo/postmark
+      source_code_uri: ""
+      platform: Go
+    - name: Postmark ColdFusion SDK by Matt Gifford
+      homepage_uri: https://github.com/coldfumonkeh/postmark
+      source_code_uri: ""
+      platform: ColdFusion
+    - name: Postmark Laravel PHP SDK by Terry Matula
+      homepage_uri: https://github.com/matula/laravel-postmark
+      source_code_uri: ""
+      platform: PHP
+    - name: Postmark PHP SDK by Mark van den Broek
+      homepage_uri: https://github.com/mvdnbrk/postmark-inbound
+      source_code_uri: https://packagist.org/packages/mvdnbrk/postmark-inbound
+      platform: PHP
+    - name: Postmark Go SDK by Vic Demuzere
+      homepage_uri: https://github.com/sorcix/go-postmark
+      source_code_uri: ""
+      platform: Go
+links:
+    - name: Docs / Website
+      url: https://postmarkapp.com/developer

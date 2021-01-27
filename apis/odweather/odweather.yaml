@@ -1,0 +1,16 @@
+name: ODWeather
+slug: odweather
+categories:
+    - Weather
+description: Weather for boating
+is_free: false
+type: REST
+contact: matiasbonet@oceandrivers.com
+is_active: true
+specification:
+    type: swagger
+    url: https://api.oceandrivers.com/static/resources.json
+    version: https://api.oceandrivers.com/static/resources.json
+links:
+    - name: Docs / Website
+      url: http://api.oceandrivers.com/static/docs.html

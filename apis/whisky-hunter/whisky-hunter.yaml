@@ -1,0 +1,10 @@
+name: Whisky Hunter
+slug: whisky-hunter
+categories:
+    - Food & Drinks
+description: Explore lots from the past online whisky auctions. Whisky Hunter have collected the results from whisky auction sites into a single up-to-date database.
+is_free: false
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://whiskyhunter.net/api/

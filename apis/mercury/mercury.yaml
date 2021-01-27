@@ -1,0 +1,14 @@
+name: Mercury
+slug: mercury
+categories:
+    - Finance & Economics
+    - Documents & Productivity
+    - Business
+description: Mercury Web Parser turns web articles into structured content reliably and easily. Make semantic sense out of any web article
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/mercury/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://mercury.postlight.com/web-parser/

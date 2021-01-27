@@ -1,0 +1,11 @@
+name: taylor.rest
+slug: taylor-rest
+categories:
+    - Health
+description: A Taylor Swift REST API, written in Deno
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://taylor.rest

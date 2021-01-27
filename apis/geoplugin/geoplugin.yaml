@@ -1,0 +1,36 @@
+name: geoPlugin
+slug: geoplugin
+categories:
+    - Maps & Geo
+description: geoPlugin is a free, fast and reliable Geolocation Webservice API to locate your visitors based on their IP address
+is_free: false
+type: REST
+is_active: true
+libraries:
+    - name: geoPlugin IP Geolocation CSV SDK
+      homepage_uri: https://www.geoplugin.com/webservices/csv
+      source_code_uri: ""
+      platform: Go
+    - name: geoPlugin IP Geolocation ASP SDK
+      homepage_uri: https://www.geoplugin.com/webservices/asp
+      source_code_uri: ""
+      platform: .Net
+    - name: geoPlugin IP Geolocation XML SDK
+      homepage_uri: https://www.geoplugin.com/webservices/xml
+      source_code_uri: ""
+      platform: xml
+    - name: geoPlugin IP Geolocation JSON SDK
+      homepage_uri: https://www.geoplugin.com/webservices/json
+      source_code_uri: ""
+      platform: JavaScript
+    - name: geoPlugin IP Geolocation PHP SDK
+      homepage_uri: https://www.geoplugin.com/webservices/php
+      source_code_uri: ""
+      platform: PHP
+    - name: geoPlugin IP Geolocation Javascript SDK
+      homepage_uri: https://www.geoplugin.com/webservices/javascript
+      source_code_uri: http://www.geoplugin.net/javascript.gp
+      platform: JavaScript
+links:
+    - name: Docs / Website
+      url: https://www.geoplugin.com

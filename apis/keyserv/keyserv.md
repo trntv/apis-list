@@ -8,16 +8,16 @@ SmartQ is an technology company founded in 2017 with the intention of providing 
 **Docs / Website**: https://keyserv.solutions
 
 ## 🧬 Keyserv Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10885)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10885)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10885)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/keyserv/keyserv.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/keyserv/keyserv.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/keyserv/keyserv.yaml)
 
 ## 💬 Keyserv Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10885)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/keyserv/keyserv.yaml)    
 
 
 ## 🗄️ Categories:

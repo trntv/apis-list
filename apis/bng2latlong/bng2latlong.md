@@ -8,16 +8,16 @@ Simple API to convert an OSGB36 easting and northing (British National Grid) to 
 **Docs / Website**: https://www.getthedata.com/bng2latlong
 
 ## 🧬 bng2latlong Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23121)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23121)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23121)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bng2latlong/bng2latlong.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bng2latlong/bng2latlong.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bng2latlong/bng2latlong.yaml)
 
 ## 💬 bng2latlong Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23121)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/bng2latlong/bng2latlong.yaml)    
 
 
 ## 🗄️ Categories:

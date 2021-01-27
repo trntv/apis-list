@@ -8,16 +8,16 @@ National Plan & Provider Enumeration System, info on healthcare providers regist
 **Docs / Website**: https://npiregistry.cms.hhs.gov/registry/help-api
 
 ## 🧬 NPPES Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13025)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13025)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13025)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nppes/nppes.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nppes/nppes.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nppes/nppes.yaml)
 
 ## 💬 NPPES Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13025)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/nppes/nppes.yaml)    
 
 
 ## 🗄️ Categories:

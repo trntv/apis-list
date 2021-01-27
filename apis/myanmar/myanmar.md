@@ -6,16 +6,16 @@ Central bank of New Myanmar
 **Docs / Website**: http://forex.cbm.gov.mm/api/
 
 ## 🧬 Myanmar Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12913)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12913)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12913)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/myanmar/myanmar.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/myanmar/myanmar.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/myanmar/myanmar.yaml)
 
 ## 💬 Myanmar Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12913)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/myanmar/myanmar.yaml)    
 
 
 ## 🗄️ Categories:

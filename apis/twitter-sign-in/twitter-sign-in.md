@@ -8,16 +8,16 @@ Works on websites, iOS, mobile and desktop applications. The browser log in flow
 **Docs / Website**: https://dev.twitter.com/web/sign-in
 
 ## 🧬 Twitter Sign-in Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20509)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20509)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20509)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/twitter-sign-in/twitter-sign-in.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/twitter-sign-in/twitter-sign-in.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/twitter-sign-in/twitter-sign-in.yaml)
 
 ## 💬 Twitter Sign-in Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20509)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/twitter-sign-in/twitter-sign-in.yaml)    
 
 
 ## 🗄️ Categories:

@@ -1,0 +1,36 @@
+name: Musixmatch
+slug: musixmatch
+categories:
+    - Music & Audio
+description: Power your music project by licensing access to the world’s most authoritative lyrics DB.
+is_free: false
+type: REST
+is_active: true
+libraries:
+    - name: Musixmatch Perl SDK by Stefano Rodighiero
+      homepage_uri: https://developer.musixmatch.com/documentation
+      source_code_uri: https://github.com/larsen/Net-MusixMatch
+      platform: PERL
+    - name: Musixmatch Python SDK by Musixmatch
+      homepage_uri: https://github.com/musixmatch/musixmatch-sdk
+      source_code_uri: https://github.com/musixmatch/musixmatch-sdk/tree/master/client/python
+      platform: Python
+    - name: Musixmatch Java SDK by Musixmatch
+      homepage_uri: https://github.com/musixmatch/android-lyrics-plugin-sdk
+      source_code_uri: ""
+      platform: Java
+    - name: Musixmatch JavaScript SDK by Ayhan
+      homepage_uri: https://github.com/c0b41/musixmatch
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Musixmatch Python SDK by Luca De Vitis
+      homepage_uri: https://github.com/monkeython/musixmatch
+      source_code_uri: ""
+      platform: Python
+    - name: Musixmatch iOS SDK by Musixmatch
+      homepage_uri: https://developer.musixmatch.com/documentation/ios-lyrics-extension
+      source_code_uri: ""
+      platform: Objective-C
+links:
+    - name: Docs / Website
+      url: https://developer.musixmatch.com/

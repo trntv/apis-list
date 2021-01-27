@@ -6,16 +6,16 @@ ParallelDots AI APIs are the most comprehensive set of document classification a
 **Docs / Website**: https://www.paralleldots.com/text-analysis-apis
 
 ## 🧬 ParallelDots Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14543)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14543)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14543)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/paralleldots/paralleldots.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/paralleldots/paralleldots.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/paralleldots/paralleldots.yaml)
 
 ## 💬 ParallelDots Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14543)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/paralleldots/paralleldots.yaml)    
 
 
 ## 🗄️ Categories:

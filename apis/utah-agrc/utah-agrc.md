@@ -8,16 +8,16 @@ Geocoding API Methods API methods for finding a geolocation (x,y) for addresses.
 **Docs / Website**: https://api.mapserv.utah.gov
 
 ## 🧬 Utah AGRC Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21224)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21224)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21224)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/utah-agrc/utah-agrc.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/utah-agrc/utah-agrc.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/utah-agrc/utah-agrc.yaml)
 
 ## 💬 Utah AGRC Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21224)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/utah-agrc/utah-agrc.yaml)    
 
 
 ## 🗄️ Categories:

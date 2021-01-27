@@ -1,0 +1,12 @@
+name: Open Web Analytics
+slug: open-web-analytics
+categories:
+    - Analytics
+description: Web Analytics, open sourced. Open Web Analytics is an open source alternative to commercial tools such as Google Analytics. Stay in control of the data you collect about the use of your website or application. Provides a way to request and work with your data outside of the OWA reporting interface
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/open-web-analytics/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://github.com/padams/Open-Web-Analytics/wiki/Data-Access-API

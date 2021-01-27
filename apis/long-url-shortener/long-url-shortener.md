@@ -6,16 +6,16 @@ Given a long URL, returns a short link
 **Docs / Website**: https://cleanuri.com/
 
 ## 🧬 Long Url Shortener Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11577)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11577)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11577)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/long-url-shortener/long-url-shortener.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/long-url-shortener/long-url-shortener.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/long-url-shortener/long-url-shortener.yaml)
 
 ## 💬 Long Url Shortener Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11577)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/long-url-shortener/long-url-shortener.yaml)    
 
 
 ## 🗄️ Categories:

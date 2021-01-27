@@ -1,0 +1,10 @@
+name: Logdna
+slug: logdna
+categories:
+    - Other
+description: Learn about logging, how to get started, and how to maximize our log collection, monitoring, retention, alerting, and analysis features. LogDNA is a centralized log management software. It helps you with Real-time log aggregation, monitoring, and analysis from any platform, at any volume. LogDNA is the easiest centralized log management software
+is_free: false
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://docs.logdna.com/docs

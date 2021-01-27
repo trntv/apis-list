@@ -8,16 +8,16 @@ Learn more about it here: https://medium. GraphQL API The future of the Open Col
 **Docs / Website**: https://docs.opencollective.com/help/developers/api
 
 ## 🧬 Open Collective Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13963)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13963)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13963)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-collective/open-collective.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-collective/open-collective.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-collective/open-collective.yaml)
 
 ## 💬 Open Collective Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13963)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-collective/open-collective.yaml)    
 
 
 ## 🗄️ Categories:

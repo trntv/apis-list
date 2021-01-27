@@ -1,0 +1,11 @@
+name: National Bank of Ukraine
+slug: national-bank-of-ukraine
+categories:
+    - Government
+description: National Bank of Ukraine
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://bank.gov.ua/control/en/publish/article?art_id=25365630

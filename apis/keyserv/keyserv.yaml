@@ -1,0 +1,14 @@
+name: Keyserv
+slug: keyserv
+categories:
+    - IoT & Home Automation
+    - Hardware
+    - Payments
+description: SmartQ is an technology company founded in 2017 with the intention of providing innovative tools for the modern world. KeyServ is such an instrument that takes the hassle out of subscriptions and warranty tracking systems for the IoT generation. The subscription management service for rapid product development. Serial / Tracking keys made easy. Callback support, Robust Scheduler, Clear separation between customer-facing and management
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/keyserv/logo_256x256.png
+contact: support@jirafe.com
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://keyserv.solutions

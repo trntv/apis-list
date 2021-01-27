@@ -8,16 +8,16 @@ APIs for products and store information
 **Docs / Website**: https://dev.wegmans.io
 
 ## 🧬 Wegmans Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21717)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21717)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21717)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wegmans/wegmans.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wegmans/wegmans.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wegmans/wegmans.yaml)
 
 ## 💬 Wegmans Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21717)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/wegmans/wegmans.yaml)    
 
 
 ## 🗄️ Categories:

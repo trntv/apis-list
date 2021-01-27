@@ -6,16 +6,16 @@ An API to query IFSC codes
 **Docs / Website**: https://ifsc.razorpay.com/
 
 ## 🧬 Razorpay IFSC Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16307)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16307)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16307)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/razorpay-ifsc/razorpay-ifsc.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/razorpay-ifsc/razorpay-ifsc.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/razorpay-ifsc/razorpay-ifsc.yaml)
 
 ## 💬 Razorpay IFSC Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16307)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/razorpay-ifsc/razorpay-ifsc.yaml)    
 
 
 ## 🗄️ Categories:

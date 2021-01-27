@@ -8,16 +8,16 @@ Stock market data (real-time & historical). Explore real time stock market data,
 **Docs / Website**: https://twelvedata.com/docs/
 
 ## 🧬 Twelve Data Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20330)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20330)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20330)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/twelve-data/twelve-data.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/twelve-data/twelve-data.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/twelve-data/twelve-data.yaml)
 
 ## 💬 Twelve Data Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20330)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/twelve-data/twelve-data.yaml)    
 
 
 ## 🗄️ Categories:

@@ -8,16 +8,16 @@ Mercury Web Parser turns web articles into structured content reliably and easil
 **Docs / Website**: https://mercury.postlight.com/web-parser/
 
 ## 🧬 Mercury Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12322)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12322)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12322)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mercury/mercury.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mercury/mercury.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mercury/mercury.yaml)
 
 ## 💬 Mercury Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12322)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/mercury/mercury.yaml)    
 
 
 ## 🗄️ Categories:

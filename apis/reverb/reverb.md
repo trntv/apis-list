@@ -6,16 +6,16 @@ Sell and buy music related merchandise. Join the millions of music lovers who us
 **Docs / Website**: https://www.reverb-api.com/
 
 ## 🧬 Reverb Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16606)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16606)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16606)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/reverb/reverb.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/reverb/reverb.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/reverb/reverb.yaml)
 
 ## 💬 Reverb Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16606)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/reverb/reverb.yaml)    
 
 
 ## 🗄️ Categories:

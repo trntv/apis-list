@@ -1,0 +1,20 @@
+name: SmartThings
+slug: smartthings
+categories:
+    - IoT & Home Automation
+description: An open, programmatic interface for controlling smart devices The SmartThings platform has the largest coverage of competitive IoT devices on the market, including Samsung devices and appliances. I. . API for Samsung SmartThings Smart Home Hub products (ZigBee, Z-Wave, IP)
+is_free: false
+type: REST
+is_active: true
+libraries:
+    - name: Samsung SmartThings SmartApp NodeJS SDK
+      homepage_uri: https://github.com/SmartThingsCommunity/smartapp-sdk-nodejs
+      source_code_uri: ""
+      platform: Node.js
+    - name: Samsung SmartThings SmartApp Java SDK
+      homepage_uri: https://github.com/SmartThingsCommunity/smartapp-sdk-java
+      source_code_uri: https://search.maven.org/search?q=g%3A%22com.smartthings.sdk%22
+      platform: Java
+links:
+    - name: Docs / Website
+      url: http://developer.smartthings.com/

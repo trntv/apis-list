@@ -1,0 +1,11 @@
+name: Hebrew Calendar
+slug: hebrew-calendar
+categories:
+    - Calendar & Time
+description: You can embed Hebcal. com content directly onto your synagogue website with our. Our mission at Hebcal. com is to increase awareness of Jewish holidays and to help Jews to be observant of the mitzvot
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://www.hebcal.com/home/developer-apis

@@ -8,9 +8,9 @@ Currents - Capture the world news through simple json News API.
 **Docs / Website**: https://currentsapi.services/
 
 ## 🧬 Currents Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4449)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4449)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4449)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/currents/currents.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/currents/currents.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/currents/currents.yaml)
 
 ## 💬 Currents Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

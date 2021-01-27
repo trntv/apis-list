@@ -1,0 +1,13 @@
+name: Lolwallpapers Api
+slug: lolwallpapers-api
+categories:
+    - Games
+    - Search
+    - Images & Photography
+description: League of Legends Wallpapers website official API. This is a lightweight public API which provides an easy way to fetch informations about any wallpapers on LoLWallpapers
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/lolwallpapers-api/logo_256x256.png
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://api.lolwallpapers.net

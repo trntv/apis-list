@@ -1,0 +1,12 @@
+name: Sheetsu
+slug: sheetsu
+categories:
+    - Documents & Productivity
+    - Databases
+description: Get data from Google Spreadsheet in a matter of seconds. You can copy the HTML Snippet and paste it into your website without any code. If you are developer, you can use one of many languages or frameworks Sheetsu supports like Ruby, Node, React, JavaScript Python, PHP, JQuery, C#, Swift, or R. Turn Google Spreadsheets into an API
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/sheetsu/logo_256x256.png
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://docs.sheetsu.com

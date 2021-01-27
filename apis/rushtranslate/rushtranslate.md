@@ -9,16 +9,16 @@ RushTranslate offers certified document translation services in over 60 language
 **Docs / Website**: https://rushtranslate.com/docs
 
 ## 🧬 Rushtranslate Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16847)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16847)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16847)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/rushtranslate/rushtranslate.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/rushtranslate/rushtranslate.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/rushtranslate/rushtranslate.yaml)
 
 ## 💬 Rushtranslate Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16847)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/rushtranslate/rushtranslate.yaml)    
 
 
 ## 🗄️ Categories:

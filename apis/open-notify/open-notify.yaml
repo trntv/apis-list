@@ -1,0 +1,24 @@
+name: Open Notify
+slug: open-notify
+categories:
+    - Space
+description: 'API Examples Current ISS Location The International Space Station is moving at close to 28,000 km/h so its location changes really fast! Where is it right now? Documentation: ISS Location Now Examp'
+is_free: false
+type: REST
+is_active: true
+libraries:
+    - name: Open Notify Python SDK by James Gill
+      homepage_uri: https://github.com/thinkhuman?tab=repositories
+      source_code_uri: https://github.com/thinkhuman/iss-open-api
+      platform: Python
+    - name: Open Notify Javascript SDK by Cat Haines
+      homepage_uri: https://github.com/cat-haines/ISS-Pebble-Example/blob/master/README.md
+      source_code_uri: https://github.com/cat-haines/ISS-Pebble-Example
+      platform: C
+    - name: Open Notify Python SDK by brayovsky
+      homepage_uri: https://github.com/brayovsky/ISSInfo/blob/master/README.md
+      source_code_uri: https://github.com/brayovsky/ISSInfo
+      platform: Python
+links:
+    - name: Docs / Website
+      url: http://open-notify.org/Open-Notify-API/

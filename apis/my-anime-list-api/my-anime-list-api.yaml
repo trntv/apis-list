@@ -1,0 +1,12 @@
+name: My Anime List API
+slug: my-anime-list-api
+categories:
+    - Entertainment
+description: Jikan is an unofficial MyAnimeList REST based API
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/my-anime-list-api/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://jikan.moe/

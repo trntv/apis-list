@@ -8,16 +8,16 @@ pizza is made to prevent users to register to websites with a disposable email a
 **Docs / Website**: https://www.validator.pizza
 
 ## 🧬 Validator.Pizza Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21326)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21326)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21326)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/validator-pizza/validator-pizza.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/validator-pizza/validator-pizza.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/validator-pizza/validator-pizza.yaml)
 
 ## 💬 Validator.Pizza Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21326)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/validator-pizza/validator-pizza.yaml)    
 
 
 ## 🗄️ Categories:

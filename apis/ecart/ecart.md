@@ -6,16 +6,16 @@ Data is offered in JSON format. The following marketplaces are available: eBay, 
 **Docs / Website**: https://ecartapi.com/
 
 ## 🧬 Ecart Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5779)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5779)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5779)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ecart/ecart.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ecart/ecart.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ecart/ecart.yaml)
 
 ## 💬 Ecart Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L5779)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/ecart/ecart.yaml)    
 
 
 ## 🗄️ Categories:

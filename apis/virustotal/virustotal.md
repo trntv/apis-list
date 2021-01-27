@@ -6,9 +6,9 @@ The VirusTotal API lets you upload and scan files or URLs, access finished scan 
 **Docs / Website**: https://www.virustotal.com/en/documentation/public-api/
 
 ## 🧬 VirusTotal Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21476)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21476)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21476)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/virustotal/virustotal.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/virustotal/virustotal.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/virustotal/virustotal.yaml)
 
 ## 💬 VirusTotal Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

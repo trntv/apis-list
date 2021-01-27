@@ -8,16 +8,16 @@ Jikan is an unofficial MyAnimeList REST based API. Jikan is an unofficial MyAnim
 **Docs / Website**: https://jikan.moe
 
 ## 🧬 Jikan Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10649)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10649)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10649)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/jikan/jikan.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/jikan/jikan.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/jikan/jikan.yaml)
 
 ## 💬 Jikan Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L10649)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/jikan/jikan.yaml)    
 
 
 ## 🗄️ Categories:

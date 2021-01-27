@@ -1,0 +1,17 @@
+name: Archive.org
+slug: archive-org
+categories:
+    - Statistics & Data
+description: The Internet Archive (the “Archive”) is a 501(c)(3) nonprofit organization committed to Universal Access of Knowledge. The Archive runs several services including the Archive.org search engine, OpenLibrary, and the Wayback Machine. In alignment with its mission, the Archive encourages developers to add media to archive.org, as well as to consume and re-purpose media and its metadata, for the great good of our community and beyond.
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/archive-org/logo_256x256.png
+type: REST
+contact: support@aoncadis.org
+is_active: true
+specification:
+    type: swagger
+    url: https://raw.githubusercontent.com/NYTimes/public_api_specs/master/archive_api/archive_api.json
+    version: https://raw.githubusercontent.com/NYTimes/public_api_specs/master/archive_api/archive_api.json
+links:
+    - name: Docs / Website
+      url: https://archive.readme.io/docs

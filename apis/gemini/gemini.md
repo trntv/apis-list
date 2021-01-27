@@ -6,16 +6,16 @@ Public REST APIs provide market data such as: current order book recent trading 
 **Docs / Website**: https://docs.gemini.com/rest-api/
 
 ## 🧬 Gemini Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7371)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7371)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7371)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gemini/gemini.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gemini/gemini.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gemini/gemini.yaml)
 
 ## 💬 Gemini Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7371)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/gemini/gemini.yaml)    
 
 
 ## 🗄️ Categories:

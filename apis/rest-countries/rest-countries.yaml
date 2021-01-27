@@ -1,0 +1,11 @@
+name: REST Countries
+slug: rest-countries
+categories:
+    - Maps & Geo
+description: Get information about countries via a RESTful API.
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://restcountries.eu

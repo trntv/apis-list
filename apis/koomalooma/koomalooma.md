@@ -8,16 +8,16 @@ koomalooma takes care of all the rest, from signing up users, keeping track of p
 **Docs / Website**: http://business.koomalooma.com
 
 ## 🧬 koomalooma Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23377)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23377)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23377)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/koomalooma/koomalooma.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/koomalooma/koomalooma.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/koomalooma/koomalooma.yaml)
 
 ## 💬 koomalooma Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23377)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/koomalooma/koomalooma.yaml)    
 
 
 ## 🗄️ Categories:

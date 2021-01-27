@@ -1,0 +1,30 @@
+name: PrexView
+slug: prexview
+categories:
+    - Documents & Productivity
+    - Images & Photography
+description: Transform your data from XML or JSON to high quality, beautiful and readable documents in PDF, HTML, PNG or JPG.
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/prexview/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: PrexView Python SDK by PrexView
+      homepage_uri: https://github.com/prexview/prexview-python/blob/master/README.md
+      source_code_uri: https://github.com/prexview/prexview-python
+      platform: Python
+    - name: PrexView Ruby SDK by PrexView
+      homepage_uri: http://www.rubydoc.info/gems/PrexView/1.0.0
+      source_code_uri: https://github.com/prexview/prexview-ruby
+      platform: Ruby
+    - name: PrexView PHP SDK by PrexView
+      homepage_uri: https://github.com/prexview/prexview-php/blob/master/README.md
+      source_code_uri: https://github.com/prexview/prexview-php
+      platform: PHP
+    - name: PrexView NodeJS SDK by PrexView
+      homepage_uri: https://github.com/prexview/prexview-js/blob/master/Readme.md
+      source_code_uri: https://github.com/prexview/prexview-js
+      platform: Node.js
+links:
+    - name: Docs / Website
+      url: https://prexview.com

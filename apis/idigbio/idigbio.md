@@ -8,16 +8,16 @@ Making data and images of millions of biological specimens available on the web
 **Docs / Website**: https://github.com/idigbio/idigbio-search-api/wiki
 
 ## 🧬 iDigBio Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23275)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23275)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23275)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/idigbio/idigbio.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/idigbio/idigbio.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/idigbio/idigbio.yaml)
 
 ## 💬 iDigBio Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23275)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/idigbio/idigbio.yaml)    
 
 
 ## 🗄️ Categories:

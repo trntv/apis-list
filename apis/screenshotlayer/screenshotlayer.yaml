@@ -1,0 +1,14 @@
+name: ScreenShotLayer
+slug: screenshotlayer
+categories:
+    - Images & Photography
+    - Collaboration
+    - Art & Design
+description: Free for personal use. Free URL to Screenshot API - capture crisp and clean snapshots of any website, with any device, any setting and lightning fast
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/screenshotlayer/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://screenshotlayer.com

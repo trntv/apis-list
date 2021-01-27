@@ -1,0 +1,11 @@
+name: LinkedData.Center
+slug: linkeddata-center
+categories:
+    - Analytics
+description: a RDF graph database as a service with W3C SPARQL query and SPARQL update apis
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: http://linkeddata.center/home/gdaas

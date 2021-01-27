@@ -6,16 +6,16 @@ Marketing API Marketing APIs are a collection of Graph API endpoints that can be
 **Docs / Website**: https://developers.facebook.com/docs/marketing-apis
 
 ## 🧬 Facebook Marketing API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6214)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6214)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6214)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/facebook-marketing-api/facebook-marketing-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/facebook-marketing-api/facebook-marketing-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/facebook-marketing-api/facebook-marketing-api.yaml)
 
 ## 💬 Facebook Marketing API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L6214)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/facebook-marketing-api/facebook-marketing-api.yaml)    
 
 
 ## 🗄️ Categories:

@@ -8,9 +8,9 @@ Make and receive phone calls, send and receive SMS worldwide. Libraries in Node,
 **Docs / Website**: https://developer.nexmo.com
 
 ## 🧬 Nexmo Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13363)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13363)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13363)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nexmo/nexmo.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nexmo/nexmo.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nexmo/nexmo.yaml)
 
 ## 💬 Nexmo Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

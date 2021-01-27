@@ -1,0 +1,89 @@
+name: IBM Watson
+slug: ibm-watson
+categories:
+    - AI & ML
+    - Voice
+    - Text Analysis & Tools
+description: |-
+    Build and train models, and create apps, with a trusted AI-infused platform. Offers a variety of services for building cognitive apps.
+    A really simple api that lets you convert text to speech. It’s 100% free for unlimited usage.
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ibm-watson/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: IBM Watson Go SDK
+      homepage_uri: https://github.com/watson-developer-cloud/go-sdk
+      source_code_uri: ""
+      platform: Go
+    - name: IBM Watson C# SDK by Denny Headrick
+      homepage_uri: https://github.com/dennyboy/WatsonCSharp
+      source_code_uri: ""
+      platform: .Net, C#
+    - name: IBM Watson Go SDK by Livio Soares
+      homepage_uri: https://github.com/liviosoares/go-watson-sdk
+      source_code_uri: ""
+      platform: Go
+    - name: IBM Watson .Net SDK by Watson Developer Cloud
+      homepage_uri: https://github.com/watson-developer-cloud/dotnet-standard-sdk
+      source_code_uri: ""
+      platform: .Net
+    - name: IBM Watson Android SDK by Watson Developer Cloud
+      homepage_uri: https://github.com/watson-developer-cloud/android-sdk
+      source_code_uri: ""
+      platform: Java
+    - name: IBM Watson Ruby SDK by suchowan
+      homepage_uri: https://github.com/suchowan/watson-api-client
+      source_code_uri: ""
+      platform: Ruby
+    - name: IBM Watson R SDK by ColumbusCollaboratory
+      homepage_uri: https://github.com/ColumbusCollaboratory/cognizer
+      source_code_uri: ""
+      platform: R
+    - name: IBM Watson Unity SDK by Watson Developer Cloud
+      homepage_uri: https://github.com/watson-developer-cloud/unity-sdk
+      source_code_uri: ""
+      platform: C#
+    - name: IBM Watson Swift SDK by Watson Developer Cloud
+      homepage_uri: https://github.com/watson-developer-cloud/swift-sdk
+      source_code_uri: ""
+      platform: Swift
+    - name: IBM Watson PHP SDK by FindBrok
+      homepage_uri: https://github.com/findbrok/php-watson-api-bridge
+      source_code_uri: ""
+      platform: PHP
+    - name: IBM Watson Objective-C SDK by Watson Developer Cloud
+      homepage_uri: https://github.com/watson-developer-cloud/ios-sdk
+      source_code_uri: ""
+      platform: Objective-C
+    - name: IBM Watson Developer Cloud Python SDK by Watson Developer Cloud
+      homepage_uri: https://pypi.python.org/pypi/watson-developer-cloud
+      source_code_uri: https://github.com/watson-developer-cloud/python-sdk
+      platform: Python
+    - name: IBM Watson Java SDK by Watson Developer Cloud
+      homepage_uri: http://mvnrepository.com/artifact/com.ibm.watson.developer_cloud/java-sdk
+      source_code_uri: https://github.com/watson-developer-cloud/java-sdk
+      platform: Java
+    - name: IBM Watson NodeJS SDK by Watson Developer Cloud
+      homepage_uri: https://www.npmjs.com/package/watson-developer-cloud
+      source_code_uri: https://github.com/watson-developer-cloud/node-sdk
+      platform: Node.js
+    - name: IBM Bluemix Globalization Pipeline Node.js SDK by IBM Bluemix
+      homepage_uri: https://developer.ibm.com/open/ibm-bluemix-globalization-pipeline-service/node-js-sdk/
+      source_code_uri: ""
+      platform: Node.js
+    - name: ' IBM Bluemix Globalization Pipeline Java SDK by IBM Bluemix'
+      homepage_uri: https://developer.ibm.com/open/ibm-bluemix-globalization-pipeline-service/java-sdk/
+      source_code_uri: ""
+      platform: Java
+    - name: IBM Bluemix Globalization Pipeline Ruby SDK by IBM Bluemix
+      homepage_uri: https://developer.ibm.com/open/ibm-bluemix-globalization-pipeline-service/ruby-sdk/
+      source_code_uri: ""
+      platform: Ruby
+    - name: PersonifyJS
+      homepage_uri: http://personifyjs.github.io/
+      source_code_uri: https://github.com/PersonifyJS/personify.js
+      platform: JavaScript
+links:
+    - name: Docs / Website
+      url: https://developer.ibm.com/watson/

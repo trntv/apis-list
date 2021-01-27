@@ -8,16 +8,16 @@ OwlBot is an english dictionary API
 **Docs / Website**: https://owlbot.info/
 
 ## 🧬 OwlBot Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14445)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14445)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14445)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/owlbot/owlbot.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/owlbot/owlbot.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/owlbot/owlbot.yaml)
 
 ## 💬 OwlBot Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14445)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/owlbot/owlbot.yaml)    
 
 
 ## 🗄️ Categories:

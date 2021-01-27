@@ -1,0 +1,16 @@
+name: Factual
+slug: factual
+categories:
+    - Maps & Geo
+description: Provids a places search that can be searched by latitude/longitude, and “where” using full text search query string
+is_free: false
+type: REST
+is_active: true
+libraries:
+    - name: Factual Engine iOS SDK
+      homepage_uri: http://developer.factual.com/engine/
+      source_code_uri: http://developer.factual.com/engine/ios/
+      platform: Objective-C
+links:
+    - name: Docs / Website
+      url: https://developer.factual.com/docs/getting-started

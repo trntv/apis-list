@@ -1,0 +1,24 @@
+name: The Audio DB
+slug: theaudiodb
+categories:
+    - Music & Audio
+description: TheAudioDB is a community database of Music Artwork, Metadata and Charts with a free JSON Music API
+is_free: false
+type: REST
+is_active: true
+libraries:
+    - name: TheAudioDB Java SDK by Guillaume Serre
+      homepage_uri: https://github.com/mozvip/theaudiodb-client
+      source_code_uri: ""
+      platform: Java
+    - name: TheAudioDB .NET SDK by BigGranu
+      homepage_uri: https://github.com/BigGranu/TheAudioDB
+      source_code_uri: ""
+      platform: .Net
+    - name: MusicApiCollection C# SDK by BigGranu
+      homepage_uri: https://github.com/BigGranu/MusicApiCollection
+      source_code_uri: ""
+      platform: C#
+links:
+    - name: Docs / Website
+      url: http://www.theaudiodb.com

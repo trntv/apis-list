@@ -1,0 +1,12 @@
+name: Myjson
+slug: myjson
+categories:
+    - Files & Storage
+    - Development
+description: A simple JSON store for your web or mobile app
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/myjson/logo_256x256.png
+is_active: false
+links:
+    - name: Docs / Website
+      url: ""

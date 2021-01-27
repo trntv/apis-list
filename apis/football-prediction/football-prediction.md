@@ -8,16 +8,16 @@ he API supports competitions in over 90 countries and over 140 national leagues.
 **Docs / Website**: https://boggio-analytics.com/fp-api/
 
 ## 🧬 Football Prediction Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7014)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7014)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7014)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/football-prediction/football-prediction.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/football-prediction/football-prediction.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/football-prediction/football-prediction.yaml)
 
 ## 💬 Football Prediction Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7014)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/football-prediction/football-prediction.yaml)    
 
 
 ## 🗄️ Categories:

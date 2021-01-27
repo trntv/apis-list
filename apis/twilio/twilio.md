@@ -8,9 +8,9 @@ APIs for SMS, Voice, Video and more. With Twilio, unite communications and stren
 **Docs / Website**: https://www.twilio.com/solutions
 
 ## 🧬 Twilio Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20342)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20342)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20342)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/twilio/twilio.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/twilio/twilio.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/twilio/twilio.yaml)
 
 ## 💬 Twilio Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

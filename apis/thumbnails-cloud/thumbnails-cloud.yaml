@@ -1,0 +1,11 @@
+name: Thumbnails Cloud
+slug: thumbnails-cloud
+categories:
+    - Documents & Productivity
+    - Images & Photography
+description: Cloud API generates JPG and PDF file previews for all common document formats, using a super simple API. The simplest API for generating file thumbnails that you've ever seen.
+is_free: false
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://thumbnails.cloud

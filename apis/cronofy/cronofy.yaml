@@ -1,0 +1,41 @@
+name: Cronofy
+slug: cronofy
+categories:
+    - Calendar & Time
+    - Documents & Productivity
+description: Scheduler lets you share your availability with contacts no matter what application you use. Cronofy provides a single API for Apple, Exchange, Google, Office 365, and Outlook.com calendars for real-time scheduling. Enterprise-ready scheduling tools, UI Elements and APIs
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cronofy/logo_256x256.png
+is_active: true
+libraries:
+    - name: Cronofy NodeJS SDK
+      homepage_uri: https://www.cronofy.com/blog/introducing-the-node-js-sdk-for-the-cronofy-api/
+      source_code_uri: https://github.com/cronofy/cronofy-node
+      platform: Node.js
+    - name: Cronofy PHP SDK
+      homepage_uri: https://www.cronofy.com/blog/introducing-the-php-sdk-for-the-cronofy-calendar-api/
+      source_code_uri: https://github.com/cronofy/cronofy-php
+      platform: PHP
+    - name: Cronofy Python SDK
+      homepage_uri: https://www.cronofy.com/blog/python-sdk/
+      source_code_uri: https://github.com/cronofy/pycronofy
+      platform: Python
+    - name: Cronofy Python SDK by nikola
+      homepage_uri: https://github.com/Saberr/cronofy-python
+      source_code_uri: ""
+      platform: Python
+    - name: ' Cronofy PHP SDK by Stephen Binns'
+      homepage_uri: https://github.com/cronofy/cronofy-php
+      source_code_uri: ""
+      platform: PHP
+    - name: Cronofy JavaScript SDK by Brett Warner
+      homepage_uri: https://github.com/warbrett/node-cronofy
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Cronofy Ruby SDK by Cronofy
+      homepage_uri: https://www.cronofy.com/developers/api-libraries/
+      source_code_uri: https://github.com/cronofy/cronofy-ruby
+      platform: Ruby
+links:
+    - name: Docs / Website
+      url: https://www.cronofy.com

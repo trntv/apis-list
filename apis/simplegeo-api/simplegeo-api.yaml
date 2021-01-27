@@ -1,0 +1,11 @@
+name: SimpleGeo API
+slug: simplegeo-api
+categories:
+    - Maps & Geo
+description: Offers an API that allows developers to build location-aware applications for mobile devices
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/simplegeo-api/logo_256x256.png
+is_active: false
+links:
+    - name: Docs / Website
+      url: https://simplegeo.com

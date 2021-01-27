@@ -1,0 +1,11 @@
+name: Zestful Data
+slug: zestful-data
+categories:
+    - Food & Drinks
+description: The Zestful's ingredient parser API turns plain recipe strings into beautiful, structured data. You can get 30 ingredient parses per day for free. A machine-learning-powered ingredient parser API. Parse your recipe ingredients into clean, structured JSON. Built to power the best food apps online
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/zestful-data/logo_256x256.png
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://zestfuldata.com/

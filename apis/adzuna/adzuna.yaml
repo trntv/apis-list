@@ -1,0 +1,14 @@
+name: Adzuna
+slug: adzuna
+categories:
+    - Business
+    - Jobs
+    - News & Feeds
+    - Marketing & SEO
+description: Get the very latest ads and data with Adzuna's API. Get job ads to display on your own website. Use Adzuna's up-to-the-minute employment data to power your own website, reporting and data visualisations.
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://developer.adzuna.com/overview

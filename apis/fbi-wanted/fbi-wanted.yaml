@@ -1,0 +1,11 @@
+name: FBI Wanted
+slug: fbi-wanted
+categories:
+    - Government
+description: The FBI Wanted API is designed to help developers easily get information on the FBI wanted program
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://www.fbi.gov/wanted/api

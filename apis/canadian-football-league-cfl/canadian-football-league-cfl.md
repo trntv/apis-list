@@ -6,16 +6,16 @@ CFL API Need assistance? E-mail us or browse the API documentation
 **Docs / Website**: http://api.cfl.ca/
 
 ## 🧬 Canadian Football League (CFL) Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2486)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2486)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2486)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/canadian-football-league-cfl/canadian-football-league-cfl.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/canadian-football-league-cfl/canadian-football-league-cfl.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/canadian-football-league-cfl/canadian-football-league-cfl.yaml)
 
 ## 💬 Canadian Football League (CFL) Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L2486)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/canadian-football-league-cfl/canadian-football-league-cfl.yaml)    
 
 
 ## 🗄️ Categories:

@@ -1,0 +1,113 @@
+name: LastFm
+slug: lastfm
+categories:
+    - Music & Audio
+description: fm. Allows anyone to build their own programs using Last. fm data, whether they're on the web, the desktop or mobile devices. The world's largest online music service. Listen online, find out more about your favourite artists, and get music recommendations, only at Last
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/lastfm/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: MetaMusic .NET SDK by David Pires
+      homepage_uri: https://github.com/Davidblkx/MetaMusic
+      source_code_uri: ""
+      platform: .Net
+    - name: Last.fm PHP SDK by Matt Oakes
+      homepage_uri: https://packagist.org/packages/matto1990/lastfm-api
+      source_code_uri: https://github.com/matto1990/PHP-Last.fm-API
+      platform: PHP
+    - name: Last.fm PHP SDK by Pierre Quillery
+      homepage_uri: https://packagist.org/packages/dandelionmood/lastfm
+      source_code_uri: https://github.com/dandelionmood/php-lastfm
+      platform: PHP
+    - name: Last.fm Symfony SDK by Karol Sójko
+      homepage_uri: https://packagist.org/packages/binarythinking/lastfm-bundle
+      source_code_uri: https://github.com/karolsojko/BinaryThinkingLastfmBundle
+      platform: PHP
+    - name: Last.fm Node.js SDK by Max Kueng
+      homepage_uri: https://github.com/maxkueng/node-lastfmapi
+      source_code_uri: ""
+      platform: Node.js
+    - name: Last.fm PHP SDK by Witold Wasiczko
+      homepage_uri: https://github.com/snapshotpl/LastFmClient
+      source_code_uri: ""
+      platform: PHP
+    - name: Last.fm Java SDK by Johann Kovacs
+      homepage_uri: https://github.com/jkovacs/lastfm-java
+      source_code_uri: ""
+      platform: Java
+    - name: Last.fm JavaScript SDK by Felix Bruns
+      homepage_uri: https://github.com/fxb/javascript-last.fm-api
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Last.fm .Net SDK by Inflatable Friends
+      homepage_uri: https://github.com/inflatablefriends/lastfm
+      source_code_uri: ""
+      platform: .Net
+    - name: Last.fm iOS and Mac OS X SDK by Kevin Renskers
+      homepage_uri: https://github.com/gangverk/LastFm
+      source_code_uri: ""
+      platform: Objective-C
+    - name: Last.fm C++ Library by Last.fm
+      homepage_uri: https://github.com/lastfm/libmoost
+      source_code_uri: ""
+      platform: C++
+    - name: Last.fm Python Library by Adrian Sampson
+      homepage_uri: https://github.com/sampsyo/pylastfp
+      source_code_uri: ""
+      platform: Backbone.js, Python
+    - name: Last.fm C# Library by Vyacheslav Lisnevskyi
+      homepage_uri: https://github.com/VLisnevskiy/Last.fm.API/blob/master/README.md
+      source_code_uri: https://github.com/VLisnevskiy/Last.fm.API
+      platform: C#
+    - name: Last.fm PHP Library by Felix Bruns
+      homepage_uri: http://lastfm.felixbruns.de/php-last.fm-api/
+      source_code_uri: https://github.com/fxb/php-last.fm-api
+      platform: PHP
+    - name: Last.fm C++ Library by Javier Santacruz López-Cepero
+      homepage_uri: https://www.openhub.net/p/liblfm
+      source_code_uri: http://sourceforge.net/projects/liblfm/
+      platform: C++
+    - name: Last.fm Java Library lastfm-java
+      homepage_uri: https://code.google.com/p/lastfm-java/
+      source_code_uri: ""
+      platform: Java
+    - name: Last.fm ActionScript Library lastfm-as3
+      homepage_uri: https://code.google.com/p/lastfm-as3/
+      source_code_uri: ""
+      platform: ActionScript
+    - name: JavaScript last.fm API
+      homepage_uri: http://lastfm.felixbruns.de/javascript-last.fm-api/
+      source_code_uri: https://github.com/fxb/javascript-last.fm-api
+      platform: JavaScript
+    - name: scrobbler2
+      homepage_uri: https://github.com/gingerhendrix/scrobbler2/tree/master
+      source_code_uri: ""
+      platform: Ruby
+    - name: Last.fm Lib .Net
+      homepage_uri: http://lastfmlibnet.sourceforge.net/
+      source_code_uri: ""
+      platform: .Net
+    - name: PHP last.fm API
+      homepage_uri: https://github.com/fxb/php-last.fm-api
+      source_code_uri: ""
+      platform: PHP
+    - name: LPFM Last.fm Scrobbler
+      homepage_uri: http://lpfm.codeplex.com/
+      source_code_uri: ""
+      platform: .Net
+    - name: pyLast
+      homepage_uri: https://code.google.com/p/pylast/
+      source_code_uri: ""
+      platform: Python
+    - name: Perl Library for Last.fm
+      homepage_uri: http://search.cpan.org/~nilsonsfj/WebService-Audioscrobbler-0.07/lib/WebService/Audioscrobbler.pm
+      source_code_uri: ""
+      platform: ""
+    - name: 'LastFmLib.Net: Last.fm API .NET Library '
+      homepage_uri: http://lastfmlibnet.de.vu/
+      source_code_uri: ""
+      platform: ""
+links:
+    - name: Docs / Website
+      url: https://www.last.fm/api

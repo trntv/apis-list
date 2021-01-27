@@ -1,0 +1,12 @@
+name: Louis Dorrad
+slug: louis-dorrad
+categories:
+    - Finance & Economics
+description: Google’s product is quite similar to Amazon’s but it’s actually. Amazon Machine Learning&nbsp;made a lot of noise when it came out&nbsp;last month. Shortly afterwards, someone posted a link to Google Prediction API&nbsp;on HackerNews and it quickly became one of the most popular’s posts
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/louis-dorrad/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: http://www.louisdorard.com/blog/machine-learning-apis-comparison

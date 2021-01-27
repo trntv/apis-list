@@ -6,16 +6,16 @@ Prague City Open Data. Vítejte na celoměstském portálu pro otevřená data h
 **Docs / Website**: https://opendata.praha.eu/en
 
 ## 🧬 Prague Opendata Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15600)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15600)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15600)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/prague-opendata/prague-opendata.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/prague-opendata/prague-opendata.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/prague-opendata/prague-opendata.yaml)
 
 ## 💬 Prague Opendata Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L15600)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/prague-opendata/prague-opendata.yaml)    
 
 
 ## 🗄️ Categories:

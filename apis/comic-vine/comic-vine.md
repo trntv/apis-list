@@ -8,9 +8,9 @@ An extremely mature, well organized and continuely updated resource of comic inf
 **Docs / Website**: http://comicvine.gamespot.com/api/
 
 ## 🧬 Comic Vine Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3960)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3960)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L3960)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/comic-vine/comic-vine.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/comic-vine/comic-vine.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/comic-vine/comic-vine.yaml)
 
 ## 💬 Comic Vine Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

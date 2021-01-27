@@ -8,16 +8,16 @@ A RESTful API as pizza restaurant ordering system. swagger Explore
 **Docs / Website**: https://order-pizza-api.herokuapp.com/api/ui/
 
 ## 🧬 Order Pizza Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14423)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14423)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14423)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/order-pizza-api/order-pizza-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/order-pizza-api/order-pizza-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/order-pizza-api/order-pizza-api.yaml)
 
 ## 💬 Order Pizza Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14423)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/order-pizza-api/order-pizza-api.yaml)    
 
 
 ## 🗄️ Categories:

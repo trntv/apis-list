@@ -1,0 +1,10 @@
+name: Ip Geolocation Api
+slug: ip-geolocation-api
+categories:
+    - Maps & Geo
+description: Free IP Geolocation API and Accurate IP Database provides country, city, zip code, ISP data in REST JSON and XML format from any IPv4 and IPv6 Address. This IP Address Database contains more than 25 million IP blocks and it is updated on daily basis. Blazing fast API has very little to no impact on website performace. IP API Stack is served globally with latency based routing.
+is_free: false
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://ipgeolocation.io

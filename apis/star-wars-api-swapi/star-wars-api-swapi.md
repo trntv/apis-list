@@ -6,16 +6,16 @@ A Remake of the original api, using the MERN stack
 **Docs / Website**: https://www.swapi.tech/
 
 ## 🧬 Star Wars API (SWAPI) Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18233)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18233)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18233)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/star-wars-api-swapi/star-wars-api-swapi.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/star-wars-api-swapi/star-wars-api-swapi.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/star-wars-api-swapi/star-wars-api-swapi.yaml)
 
 ## 💬 Star Wars API (SWAPI) Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L18233)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/star-wars-api-swapi/star-wars-api-swapi.yaml)    
 
 
 ## 🗄️ Categories:

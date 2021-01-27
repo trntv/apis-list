@@ -1,0 +1,20 @@
+name: City Context
+slug: city-context
+categories:
+    - Transportation
+    - Education
+    - Real Estate
+    - Maps & Geo
+    - Statistics & Data
+description: Crime, school and transportation data for US cities.
+is_free: false
+contact: developer-support@citrixonline.com
+is_active: true
+libraries:
+    - name: City Context JavaScript Library by City Context
+      homepage_uri: https://github.com/citycontext/citycontext-ui
+      source_code_uri: https://github.com/citycontext/citycontext-ui
+      platform: JavaScript
+links:
+    - name: Docs / Website
+      url: https://www.citycontext.com/api-reference#/

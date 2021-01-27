@@ -8,9 +8,9 @@ Powerful augmented reality apps. Create immersive Augmented Reality experiences 
 **Docs / Website**: https://www.wikitude.com/developer-overview/
 
 ## 🧬 Wikitude Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21959)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21959)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L21959)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wikitude/wikitude.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wikitude/wikitude.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wikitude/wikitude.yaml)
 
 ## 💬 Wikitude Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

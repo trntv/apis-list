@@ -1,0 +1,31 @@
+name: Clearbit Logo
+slug: clearbit-logo
+categories:
+    - AI & ML
+    - Business
+    - Images & Photography
+description: If you’re only interested in a Company’s logo, and don’t need any other data about the company, you can use our Logo API
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/clearbit-logo/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: Clearbit Ruby SDK by Alex MacCaw
+      homepage_uri: https://rubygems.org/gems/clearbit/versions/0.2.2
+      source_code_uri: ""
+      platform: Ruby
+    - name: Clearbit Go SDK by thoughtbot
+      homepage_uri: https://github.com/thoughtbot/clearbit
+      source_code_uri: ""
+      platform: Go
+    - name: Clearbit Go SDK by Clearbit
+      homepage_uri: https://github.com/clearbit/clearbit-go
+      source_code_uri: ""
+      platform: Go
+    - name: Clearbit Ruby SDK by Clearbit
+      homepage_uri: https://github.com/clearbit/clearbit-ruby
+      source_code_uri: ""
+      platform: Ruby
+links:
+    - name: Docs / Website
+      url: https://clearbit.com/docs#logo-api

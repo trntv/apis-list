@@ -6,9 +6,9 @@ Get current weather information, historical data and forecasts using weatherstac
 **Docs / Website**: https://www.apixu.com/doc/request.aspx
 
 ## 🧬 APIXU Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L177)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L177)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L177)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/apixu/apixu.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/apixu/apixu.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/apixu/apixu.yaml)
 
 ## 💬 APIXU Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

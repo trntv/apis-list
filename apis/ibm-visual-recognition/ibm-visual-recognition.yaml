@@ -1,0 +1,55 @@
+name: IBM Visual Recognition
+slug: ibm-visual-recognition
+categories:
+    - Text Analysis & Tools
+    - Recognition
+    - Images & Photography
+    - AI & ML
+description: The IBM Watson Visual Recognition service uses deep learning algorithms to identify scenes and objects in images that you upload to the service. You can create and train a custom classifier to identify subjects that suit your needs. Existing instances are supported until 1 December 2021, but as of 7 January 2021, you can't create instances. Any instance that is provisioned on 1 December 2021 will be deleted. IBM Watso Visual Recognition is discontinued
+is_free: false
+type: REST
+is_active: false
+libraries:
+    - name: ' IBM Watson Visual Recognition .NET SDK'
+      homepage_uri: https://github.com/watson-developer-cloud/dotnet-standard-sdk
+      source_code_uri: ""
+      platform: .Net
+    - name: IBM Watson Visual Recognition Python SDK
+      homepage_uri: https://github.com/watson-developer-cloud/python-sdk
+      source_code_uri: ""
+      platform: Python
+    - name: IBM Watson Visual Recognition Swift SDK
+      homepage_uri: https://github.com/watson-developer-cloud/swift-sdk
+      source_code_uri: ""
+      platform: Swift
+    - name: IBM Watson C# SDK by Denny Headrick
+      homepage_uri: https://github.com/dennyboy/WatsonCSharp
+      source_code_uri: ""
+      platform: .Net, C#
+    - name: IBM Watson Visual Recognition PHP SDK by Paul Aan
+      homepage_uri: https://github.com/weburnit/ibm-watson-visual-regconition
+      source_code_uri: ""
+      platform: PHP
+    - name: IBM Watson Go SDK by Livio Soares
+      homepage_uri: https://github.com/liviosoares/go-watson-sdk
+      source_code_uri: ""
+      platform: Go
+    - name: IBM Watson Android SDK by Watson Developer Cloud
+      homepage_uri: https://github.com/watson-developer-cloud/android-sdk
+      source_code_uri: ""
+      platform: Java
+    - name: IBM Watson Ruby SDK by suchowan
+      homepage_uri: https://github.com/suchowan/watson-api-client
+      source_code_uri: ""
+      platform: Ruby
+    - name: IBM Watson Visual Recognition PHP SDK by Tom Robertshaw
+      homepage_uri: https://github.com/bobbyshaw/ibm-watson-visual-recognition-php
+      source_code_uri: ""
+      platform: PHP
+    - name: IBM Watson Unity SDK by Watson Developer Cloud
+      homepage_uri: https://github.com/watson-developer-cloud/unity-sdk
+      source_code_uri: ""
+      platform: C#
+links:
+    - name: Docs / Website
+      url: https://cloud.ibm.com/apidocs/visual-recognition/visual-recognition-v3

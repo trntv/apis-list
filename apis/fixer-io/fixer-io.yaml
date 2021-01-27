@@ -1,0 +1,12 @@
+name: Fixer.io
+slug: fixer-io
+categories:
+    - Finance & Economics
+description: The API tracks rates published daily by the European Central Bank. JSON API for foreign exchange rates and currency conversion. End of day data only. Fixer provides a free, simple, and lightweight API for current and historical foreign exchange rates and currency conversion
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/fixer-io/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: http://fixer.io/

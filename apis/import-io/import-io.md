@@ -6,16 +6,16 @@ Import.io enables any organization to gain intelligence, efficiencies, and compe
 **Docs / Website**: http://api.docs.import.io/
 
 ## 🧬 import.io Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23323)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23323)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23323)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/import-io/import-io.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/import-io/import-io.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/import-io/import-io.yaml)
 
 ## 💬 import.io Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L23323)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/import-io/import-io.yaml)    
 
 
 ## 🗄️ Categories:

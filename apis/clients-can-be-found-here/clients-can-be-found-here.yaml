@@ -1,0 +1,12 @@
+name: Clients can be found here.
+slug: clients-can-be-found-here
+categories:
+    - Maps & Geo
+description: Google Maps has 35 repositories available. Follow their code on GitHub
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/clients-can-be-found-here/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://github.com/googlemaps/

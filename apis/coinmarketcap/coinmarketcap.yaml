@@ -1,0 +1,113 @@
+name: CoinMarketCap
+slug: coinmarketcap
+categories:
+    - Blockchain & Cryptocurrencies
+description: Cryptocurrencies Prices. Use CoinMarketCap's free crypto API to get the best, most accurate real-time, historical cryptocurrency and exchange trade data for Bitcoin, Ethereum and more
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/coinmarketcap/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: Cryptocurrencies API Laravel Manager PHP SDK by Mattia Clementi
+      homepage_uri: https://github.com/ilCleme/cryptocurrencies-laravel
+      source_code_uri: https://packagist.org/packages/ilcleme/cryptocurrencies-laravel
+      platform: PHP
+    - name: CoinMarketCap Python SDK by Miguel Mota
+      homepage_uri: https://github.com/CoinCircle/go-coinmarketcap
+      source_code_uri: ""
+      platform: Python
+    - name: CoinMarketCap JavaScript SDK by Abhinav Kasamsetty
+      homepage_uri: https://github.com/tiaanduplessis/coinmarketcap-api
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Crypto2discord Python SDK by Azerpas
+      homepage_uri: https://github.com/azerpas/Crypto2discord
+      source_code_uri: ""
+      platform: Python
+    - name: R-Cryptocurrencies R SDK by GinzaLion
+      homepage_uri: https://github.com/GinzaLion/R-Cryptocurrencies
+      source_code_uri: ""
+      platform: R
+    - name: Cryptex iOS SDK by Sathya Rajaraman
+      homepage_uri: https://github.com/trsathya/Cryptex
+      source_code_uri: ""
+      platform: Swift
+    - name: BitcoinAverage Python PIP SDK
+      homepage_uri: https://github.com/bitcoinaverage/api-integration-examples/
+      source_code_uri: ""
+      platform: Python
+    - name: Crypto-Grabber Python SDK by Brandon Jew
+      homepage_uri: https://github.com/brandonjew/crypto-grabber
+      source_code_uri: ""
+      platform: Python
+    - name: CoinMarketCap Elixir SDK by Arthur M. Collé
+      homepage_uri: https://github.com/arthurcolle/CoinMarketCap.ex
+      source_code_uri: ""
+      platform: Elixir
+    - name: CoinMarketCap Go SDK by Shaun Morrow
+      homepage_uri: https://github.com/shaunmza/coinmarketcap
+      source_code_uri: ""
+      platform: Go
+    - name: CoinMarketCap Python SDK by mharvilla
+      homepage_uri: https://github.com/mharvilla/crypto
+      source_code_uri: ""
+      platform: Python
+    - name: CoinMarketCap .NET SDK by Ryan L.
+      homepage_uri: https://github.com/MTS11648/Dogecoin-Live-Updater
+      source_code_uri: ""
+      platform: .Net, C#
+    - name: CoinMarketCap Swift SDK by Kuyawa Kata
+      homepage_uri: https://github.com/kuyawa/Altcoins
+      source_code_uri: ""
+      platform: Swift
+    - name: CoinMarketCap Wordpress PHP SDK by alpual
+      homepage_uri: https://github.com/alpual/coinvis
+      source_code_uri: ""
+      platform: PHP
+    - name: CoinMarketCap Python SDK by bobbysto
+      homepage_uri: https://github.com/bobbysto/python-coinmarketcap
+      source_code_uri: ""
+      platform: Python
+    - name: CoinMarketCap Python SDK by Ruan Bekker
+      homepage_uri: https://github.com/ruanbekker/faas-coinmarketcap
+      source_code_uri: ""
+      platform: Python
+    - name: CoinMarketCap C# SDK by raghupallavi
+      homepage_uri: https://github.com/raghupallavi/CoinMarketCap-CSharp-Api
+      source_code_uri: ""
+      platform: C#
+    - name: CoinMarketCap Python SDK by stephen-l
+      homepage_uri: https://github.com/stephen-l/CryptoTicker
+      source_code_uri: ""
+      platform: Python
+    - name: CoinMarketCap Python SDK by Cryptodroid
+      homepage_uri: https://github.com/cryptodroid-litecoin/Coinmarketcap-graph
+      source_code_uri: ""
+      platform: Python
+    - name: CoinMarketCap ReactJS SDK by gwolf2
+      homepage_uri: https://github.com/gwolf2/crypto-prices
+      source_code_uri: ""
+      platform: JavaScript
+    - name: CoinMarketCap Go SDK by Decarium
+      homepage_uri: https://github.com/Decarium/go-coinmarketcap
+      source_code_uri: ""
+      platform: Go
+    - name: CoinMarketCap .NET SDK by Scott Christian
+      homepage_uri: https://github.com/dezryth/ccticker
+      source_code_uri: ""
+      platform: .Net, C#
+    - name: CoinMarketCap GraphQL SDK by Arnaud Christ
+      homepage_uri: https://github.com/Onra/graphql-coinmarketcap
+      source_code_uri: ""
+      platform: Unspecified
+    - name: CoinMarketCap PHP SDK by Joshua Cidoni-Walker
+      homepage_uri: https://github.com/jcidoniwalker/coinmarket_json_parser
+      source_code_uri: ""
+      platform: PHP
+    - name: CoinMarketCap Node.js SDK by haakym
+      homepage_uri: https://github.com/haakym/coinme
+      source_code_uri: ""
+      platform: JavaScript, Node.js
+links:
+    - name: Docs / Website
+      url: https://coinmarketcap.com/api/

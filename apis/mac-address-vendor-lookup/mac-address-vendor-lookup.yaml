@@ -1,0 +1,19 @@
+name: MAC address vendor lookup
+slug: mac-address-vendor-lookup
+categories:
+    - Security
+    - Hardware
+    - Development
+description: The MAC address API allows you to retrieve OUI vendor information, detect virtual machines, possible applications, read the information encoded in the MAC, and get research's results regarding the given MAC address or the OUI.
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/mac-address-vendor-lookup/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: MAC address Vendor Lookup Python SDK
+      homepage_uri: https://github.com/CodeLineFi/maclookup-python
+      source_code_uri: ""
+      platform: Python
+links:
+    - name: Docs / Website
+      url: https://macaddress.io/api

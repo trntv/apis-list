@@ -6,16 +6,16 @@ Specializes more in electronic dance music genres such as hardstyle. You see thi
 **Docs / Website**: http://api.lololyrics.com/
 
 ## 🧬 Lololyrics API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11553)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11553)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11553)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lololyrics-api/lololyrics-api.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lololyrics-api/lololyrics-api.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lololyrics-api/lololyrics-api.yaml)
 
 ## 💬 Lololyrics API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11553)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/lololyrics-api/lololyrics-api.yaml)    
 
 
 ## 🗄️ Categories:

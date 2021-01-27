@@ -8,16 +8,16 @@ Skills API. Contribute to workforce-data-initiative/skills-api development by cr
 **Docs / Website**: https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview
 
 ## 🧬 Open Skills Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14202)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14202)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14202)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-skills/open-skills.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-skills/open-skills.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-skills/open-skills.yaml)
 
 ## 💬 Open Skills Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14202)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-skills/open-skills.yaml)    
 
 
 ## 🗄️ Categories:

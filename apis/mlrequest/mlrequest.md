@@ -8,16 +8,16 @@ Models are duplicated across 5 data centers around the world with latency-routed
 **Docs / Website**: https://dan.com/buy-domain/mlrequest.com?redirected=true&tld=com
 
 ## 🧬 Mlrequest Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12590)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12590)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12590)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mlrequest/mlrequest.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mlrequest/mlrequest.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mlrequest/mlrequest.yaml)
 
 ## 💬 Mlrequest Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L12590)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/mlrequest/mlrequest.yaml)    
 
 
 ## 🗄️ Categories:

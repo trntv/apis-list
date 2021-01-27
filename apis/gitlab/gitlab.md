@@ -8,9 +8,9 @@ Access to GitLab's API. Documentation for GitLab Community Edition, GitLab Enter
 **Docs / Website**: https://docs.gitlab.com/ce/api/README.html
 
 ## 🧬 GitLab Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7984)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7984)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L7984)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gitlab/gitlab.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gitlab/gitlab.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gitlab/gitlab.yaml)
 
 ## 💬 GitLab Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

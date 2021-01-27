@@ -8,16 +8,16 @@ Solar radiation and forecasting data globally available and free for researchers
 **Docs / Website**: https://solcast.com/solar-data-api/
 
 ## 🧬 Global Solar Forecasting And Irradiance Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8088)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8088)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8088)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/global-solar-forecasting-and-irradiance/global-solar-forecasting-and-irradiance.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/global-solar-forecasting-and-irradiance/global-solar-forecasting-and-irradiance.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/global-solar-forecasting-and-irradiance/global-solar-forecasting-and-irradiance.yaml)
 
 ## 💬 Global Solar Forecasting And Irradiance Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L8088)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/global-solar-forecasting-and-irradiance/global-solar-forecasting-and-irradiance.yaml)    
 
 
 ## 🗄️ Categories:

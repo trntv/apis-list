@@ -6,16 +6,16 @@ The Official Site of The Central Bank of Nigeria.
 **Docs / Website**: https://www.cbn.gov.ng/rates/
 
 ## 🧬 Nigeria Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13514)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13514)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13514)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nigeria/nigeria.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nigeria/nigeria.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nigeria/nigeria.yaml)
 
 ## 💬 Nigeria Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L13514)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/nigeria/nigeria.yaml)    
 
 
 ## 🗄️ Categories:

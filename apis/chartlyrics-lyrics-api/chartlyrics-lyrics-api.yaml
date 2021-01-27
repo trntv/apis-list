@@ -1,0 +1,11 @@
+name: ChartLyrics Lyrics API
+slug: chartlyrics-lyrics-api
+categories:
+    - Music & Audio
+description: v1. 1 Update, adding TrackId and TrackChecksum for future AddLyric function, Added new function SearchLyricDirect which returns the first lyric or trackId. Allows users to search for lyrics using the artist name, song title, or lyric text. ChartLyrics Lyric API v1. 0 Initial Release
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: http://www.chartlyrics.com/api.aspx

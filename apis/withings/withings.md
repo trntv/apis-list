@@ -6,9 +6,9 @@ Access to data from Withings activity trackers and body measures
 **Docs / Website**: http://oauth.withings.com/api
 
 ## 🧬 Withings Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22028)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22028)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22028)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/withings/withings.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/withings/withings.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/withings/withings.yaml)
 
 ## 💬 Withings Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

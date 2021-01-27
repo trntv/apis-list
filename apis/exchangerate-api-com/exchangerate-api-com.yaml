@@ -1,0 +1,12 @@
+name: ExchangeRate-API.com
+slug: exchangerate-api-com
+categories:
+    - Finance & Economics
+description: Accurate & reliable Exchange Rates API trusted by tens of thousands of developers since 2010. Free access, all world currencies, helpful support &amp; easy to integrate JSON API
+is_free: false
+type: REST
+contact: hello@edrv.io
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://www.exchangerate-api.com/docs/overview

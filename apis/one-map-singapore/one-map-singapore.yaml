@@ -1,0 +1,12 @@
+name: One Map, Singapore
+slug: one-map-singapore
+categories:
+    - Maps & Geo
+description: '####. #######. ##. Introduction. ###. ########'
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/one-map-singapore/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://docs.onemap.sg/

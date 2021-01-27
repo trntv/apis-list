@@ -1,0 +1,11 @@
+name: SHOUTCLOUD
+slug: shoutcloud
+categories:
+    - Fun
+description: ALL CAPS AS A SERVICE
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: http://shoutcloud.io/

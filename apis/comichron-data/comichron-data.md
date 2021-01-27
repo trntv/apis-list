@@ -8,16 +8,16 @@ com - comichron-data/api. JSON API for monthly sales data from comichron
 **Docs / Website**: https://github.com/comichron-data/api
 
 ## 🧬 Comichron Data Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4026)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4026)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4026)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/comichron-data/comichron-data.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/comichron-data/comichron-data.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/comichron-data/comichron-data.yaml)
 
 ## 💬 Comichron Data Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4026)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/comichron-data/comichron-data.yaml)    
 
 
 ## 🗄️ Categories:

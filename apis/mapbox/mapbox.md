@@ -6,9 +6,9 @@ Access to MapBox’s API
 **Docs / Website**: https://www.mapbox.com/developers/api/maps/
 
 ## 🧬 Mapbox Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11932)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11932)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11932)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mapbox/mapbox.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mapbox/mapbox.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mapbox/mapbox.yaml)
 
 ## 💬 Mapbox Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

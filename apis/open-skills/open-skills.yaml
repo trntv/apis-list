@@ -1,0 +1,12 @@
+name: Open Skills
+slug: open-skills
+categories:
+    - Jobs
+description: Skills API. Contribute to workforce-data-initiative/skills-api development by creating an account on GitHub. Skills API
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/open-skills/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview

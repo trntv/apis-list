@@ -8,16 +8,16 @@ Contribute to lukePeavey/quotable development by creating an account on GitHub. 
 **Docs / Website**: https://github.com/lukePeavey/quotable
 
 ## 🧬 Quotable Quotes Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16129)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16129)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16129)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/quotable-quotes/quotable-quotes.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/quotable-quotes/quotable-quotes.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/quotable-quotes/quotable-quotes.yaml)
 
 ## 💬 Quotable Quotes Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16129)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/quotable-quotes/quotable-quotes.yaml)    
 
 
 ## 🗄️ Categories:

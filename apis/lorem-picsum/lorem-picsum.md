@@ -8,16 +8,16 @@ Lorem Ipsum, but for photos.
 **Docs / Website**: https://picsum.photos/
 
 ## 🧬 Lorem Picsum Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11598)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11598)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11598)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lorem-picsum/lorem-picsum.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lorem-picsum/lorem-picsum.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lorem-picsum/lorem-picsum.yaml)
 
 ## 💬 Lorem Picsum Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L11598)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/lorem-picsum/lorem-picsum.yaml)    
 
 
 ## 🗄️ Categories:

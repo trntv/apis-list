@@ -1,0 +1,46 @@
+name: MusicBrainz
+slug: musicbrainz
+categories:
+    - Music & Audio
+    - Text Analysis & Tools
+description: The API discussed here is an interface to the MusicBrainz Database. It is aimed at developers of media players, CD rippers, taggers, and other applications requiring music metadata. The API's archi
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/musicbrainz/logo_256x256.png
+type: REST
+is_active: true
+libraries:
+    - name: MetaMusic .NET SDK by David Pires
+      homepage_uri: https://github.com/Davidblkx/MetaMusic
+      source_code_uri: ""
+      platform: .Net
+    - name: MusicApiCollection C# SDK by BigGranu
+      homepage_uri: https://github.com/BigGranu/MusicApiCollection
+      source_code_uri: ""
+      platform: C#
+    - name: Festival Search Engine JavaScript SDK by Steven Liatti
+      homepage_uri: https://github.com/steenput/FestivalSearchEngine
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Cover Art Archive Music Brainz JavaScript SDK by Cover Art Archive
+      homepage_uri: https://github.com/lastfm/coverartarchive-api
+      source_code_uri: ""
+      platform: JavaScript
+    - name: Cover Art Archive Music Brainz C SDK by Cover Art Archive
+      homepage_uri: https://github.com/metabrainz/libcoverart
+      source_code_uri: ""
+      platform: C
+    - name: MusicBrainz (gomusicbrainz) Golang SDK by Michael Wendland
+      homepage_uri: https://github.com/michiwend/gomusicbrainz/blob/master/README.md
+      source_code_uri: https://github.com/michiwend/gomusicbrainz
+      platform: Go
+    - name: MusicBrainz (libmusicbrainz-objc) Objective-C Library by Joachim Brandon LeBlanc
+      homepage_uri: https://github.com/demosdemon/libmusicbrainz-objc/blob/master/README.md
+      source_code_uri: https://github.com/demosdemon/libmusicbrainz-objc
+      platform: Objective-C
+    - name: MusicBrainz Python Library by MusicBrainz
+      homepage_uri: http://musicbrainz.org/
+      source_code_uri: https://python-musicbrainzngs.readthedocs.org/en/latest/
+      platform: Python
+links:
+    - name: Docs / Website
+      url: https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2

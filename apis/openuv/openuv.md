@@ -8,16 +8,16 @@ The minimalistic JSON real-time UV Index API
 **Docs / Website**: https://www.openuv.io
 
 ## 🧬 OpenUV Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14321)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14321)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14321)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/openuv/openuv.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/openuv/openuv.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/openuv/openuv.yaml)
 
 ## 💬 OpenUV Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L14321)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/openuv/openuv.yaml)    
 
 
 ## 🗄️ Categories:

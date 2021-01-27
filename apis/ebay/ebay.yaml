@@ -1,0 +1,52 @@
+name: eBay
+slug: ebay
+categories:
+    - Commerce
+description: eBay's APIs
+is_free: false
+type: REST
+is_active: true
+libraries:
+    - name: eBay PHP SDK for Enterprise Retail Order Management by Scott van Brug
+      homepage_uri: https://github.com/eBayEnterprise/RetailOrderManagement-SDK
+      source_code_uri: ""
+      platform: PHP
+    - name: eBay .NET SDK by Sergiy Bidnyi
+      homepage_uri: https://github.com/JustApplications/ebaysdk-nuget
+      source_code_uri: ""
+      platform: .Net
+    - name: eBay SDK for .NET
+      homepage_uri: http://www.ebay.com/
+      source_code_uri: https://go.developer.ebay.com/developers/ebay/documentation-tools/sdks/dotnet
+      platform: .Net
+    - name: eBay PHP Library by Rick Earley
+      homepage_uri: https://github.com/rearley/ebay
+      source_code_uri: ""
+      platform: PHP
+    - name: eBay Ruby Library by JJ Buckley
+      homepage_uri: https://github.com/bjjb/ebayr
+      source_code_uri: ""
+      platform: Ruby
+    - name: ' eBay Java Library by eBay'
+      homepage_uri: http://developer.ebay.com/devzone/javasdk-jaxb/docs/GettingStarted/GettingStarted.html
+      source_code_uri: ""
+      platform: Java
+    - name: ActionScript Library for eBay API
+      homepage_uri: http://code.google.com/p/as3ebaylib/
+      source_code_uri: ""
+      platform: ""
+    - name: eBay Flex ClientAlerts api
+      homepage_uri: http://developer.ebay.com/developercenter/flash/client-alerts/
+      source_code_uri: ""
+      platform: ""
+    - name: PHP Ultimate eBay Store
+      homepage_uri: ""
+      source_code_uri: ""
+      platform: ""
+    - name: PHP Ultimate eBay Store
+      homepage_uri: ""
+      source_code_uri: ""
+      platform: ""
+links:
+    - name: Docs / Website
+      url: https://go.developer.ebay.com/

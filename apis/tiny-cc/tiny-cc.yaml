@@ -1,0 +1,11 @@
+name: Tiny.cc
+slug: tiny-cc
+categories:
+    - URLs
+description: Easy-to-use URL shortener. Supports custom short link ending. API documentation
+is_free: false
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://tiny.cc/api-docs

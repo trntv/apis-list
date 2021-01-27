@@ -6,9 +6,9 @@ Weather API
 **Docs / Website**: https://darksky.net/dev
 
 ## 🧬 Dark Sky Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4598)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4598)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L4598)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dark-sky/dark-sky.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dark-sky/dark-sky.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dark-sky/dark-sky.yaml)
 
 ## 💬 Dark Sky Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

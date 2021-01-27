@@ -1,0 +1,12 @@
+name: GeoApi
+slug: geoapi
+categories:
+    - Maps & Geo
+description: Administrative Breakdown API - (Geo API) is one of the France's public service APIs.
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/geoapi/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://api.gouv.fr/api/geoapi.html

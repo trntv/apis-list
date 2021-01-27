@@ -7,16 +7,16 @@ A JSON/plain-text which returns the (approx) current time for a provided timezon
 **Docs / Website**: http://worldtimeapi.org
 
 ## 🧬 WorldTimeAPI Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22281)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22281)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22281)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/worldtimeapi/worldtimeapi.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/worldtimeapi/worldtimeapi.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/worldtimeapi/worldtimeapi.yaml)
 
 ## 💬 WorldTimeAPI Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L22281)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/worldtimeapi/worldtimeapi.yaml)    
 
 
 ## 🗄️ Categories:

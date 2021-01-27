@@ -8,16 +8,16 @@ Database contains a mixture of barcode types from the standard UPC numbering sys
 **Docs / Website**: https://upcdatabase.org/api
 
 ## 🧬 UPC database Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20588)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20588)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20588)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/upc-database/upc-database.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/upc-database/upc-database.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/upc-database/upc-database.yaml)
 
 ## 💬 UPC database Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L20588)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/upc-database/upc-database.yaml)    
 
 
 ## 🗄️ Categories:

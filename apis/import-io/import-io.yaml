@@ -1,0 +1,13 @@
+name: import.io
+slug: import-io
+categories:
+    - Development
+    - Scrapers & Data Mining
+description: Import.io enables any organization to gain intelligence, efficiencies, and competitive advantages from the vast amount of data on the web.
+is_free: false
+type: REST
+contact: contact@ijenko.com
+is_active: true
+links:
+    - name: Docs / Website
+      url: http://api.docs.import.io/

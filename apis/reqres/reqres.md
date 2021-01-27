@@ -6,16 +6,16 @@ A hosted REST-API ready to respond to AJAX requests
 **Docs / Website**: https://reqres.in/
 
 ## 🧬 ReqRes Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16540)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16540)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16540)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/reqres/reqres.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/reqres/reqres.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/reqres/reqres.yaml)
 
 ## 💬 ReqRes Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
 
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L16540)    
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/reqres/reqres.yaml)    
 
 
 ## 🗄️ Categories:

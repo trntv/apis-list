@@ -6,9 +6,9 @@ The world's best and longest running Cryptocurrency price API provider. These AP
 **Docs / Website**: https://apiv2.bitcoinaverage.com/
 
 ## 🧬 BitcoinAverage Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1599)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1599)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis.yaml#L1599)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bitcoinaverage/bitcoinaverage.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bitcoinaverage/bitcoinaverage.yaml)  
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bitcoinaverage/bitcoinaverage.yaml)
 
 ## 💬 BitcoinAverage Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

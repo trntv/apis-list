@@ -1,0 +1,12 @@
+name: Transportation in Honolulu, USA
+slug: transport-for-honolulu-us
+categories:
+    - Transportation
+description: « Return to TheBusHEA Web Services API The Web API (Application Programming Interface) allows a developer to access our real-time AVL data. To utilize OTS's web services, an application id (AppID)
+is_free: false
+logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-honolulu-us/logo_256x256.png
+type: REST
+is_active: true
+links:
+    - name: Docs / Website
+      url: http://hea.thebus.org/api_info.asp

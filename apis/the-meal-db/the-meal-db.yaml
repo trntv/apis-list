@@ -1,0 +1,11 @@
+name: The Meal Db
+slug: the-meal-db
+categories:
+    - Food & Drinks
+    - Open Source
+description: This food API is free to use and can get you recipes, food details, food names , meals by category, food images and more!. Support The API and site will always remain free at point of access
+is_free: false
+is_active: true
+links:
+    - name: Docs / Website
+      url: https://www.themealdb.com/api.php
