@@ -133,7 +133,6 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [LUIS AI](https://github.com/apis-list/apis-list/blob/main/apis/luis-ai/luis-ai.md) - Language Understanding Intelligent Service offers a fast and effective way of adding language understanding to applications
 - [MeaningCloud](https://github.com/apis-list/apis-list/blob/main/apis/meaningcloud/meaningcloud.md) - Text analysis APIs for topic extraction, sentiment analysis, automatic classification, morphosyntactic analysis, language detection and more
 - [Microsoft Azure Machine Learning API](https://github.com/apis-list/apis-list/blob/main/apis/microsoft-azure-machine-learning-api/microsoft-azure-machine-learning-api.md) - Azure Cognitive Services brings AI within reach of every developer through a family of APIs that don’t require machine-learning expertise
-- [Mlrequest](https://github.com/apis-list/apis-list/blob/main/apis/mlrequest/mlrequest.md) - Models are duplicated across 5 data centers around the world with latency-routed requests at less than 60ms response time
 - [MLScrape](https://github.com/apis-list/apis-list/blob/main/apis/mlscrape/mlscrape.md) - MLScrape is an API that allows you to scrape data from any online shop without having to maintain your own web scraper - simply send the product URL to our API
 - [Nudity Detection Api](https://github.com/apis-list/apis-list/blob/main/apis/nudity-detection-api/nudity-detection-api.md) - io detects nudity in images and helps to recognise and filter undesired content
 - [ObjectCut](https://github.com/apis-list/apis-list/blob/main/apis/objectcut/objectcut.md) - Automatic background removal real-time service powered by AI
@@ -2133,6 +2132,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Livecoin](https://github.com/apis-list/apis-list/blob/main/apis/livecoin/livecoin.md) - 
 - [Lorem Text](https://github.com/apis-list/apis-list/blob/main/apis/lorem-text/lorem-text.md) - Generates Lorem Ipsum text
 - [MercadoBitcoin](https://github.com/apis-list/apis-list/blob/main/apis/mercadobitcoin/mercadobitcoin.md) - 
+- [Mlrequest](https://github.com/apis-list/apis-list/blob/main/apis/mlrequest/mlrequest.md) - Serverless, high-performance machine learning contained in a simple API
 - [Musikki](https://github.com/apis-list/apis-list/blob/main/apis/musikki/musikki.md) - Music
 - [Myjson](https://github.com/apis-list/apis-list/blob/main/apis/myjson/myjson.md) - A simple JSON store for your web or mobile app
 - [MySpace API](https://github.com/apis-list/apis-list/blob/main/apis/myspace-api/myspace-api.md) - A social networking website offering an interactive, user-submitted network of friends, personal profiles, blogs, groups, photos, music, and videos
