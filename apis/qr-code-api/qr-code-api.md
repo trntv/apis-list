@@ -10,6 +10,9 @@ QR Code REST API. Can create QR code images or read existing images and return t
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/qr-code-api/qr-code-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/qr-code-api/qr-code-api.yaml)
 
+## 🆓 Is QR Code API free?
+ Unknown/No 
+
 ## 💬 QR Code API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -10,6 +10,9 @@ Free live exchange rates and currency conversion API for developers. ECB rates J
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/openrates-io/openrates-io.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/openrates-io/openrates-io.yaml)
 
+## 🆓 Is OpenRates.io free?
+ Unknown/No 
+
 ## 💬 OpenRates.io Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

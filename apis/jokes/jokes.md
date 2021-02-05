@@ -10,6 +10,9 @@ Full featured Jokes API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/jokes/jokes.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/jokes/jokes.yaml)
 
+## 🆓 Is Jokes free?
+ Unknown/No 
+
 ## 💬 Jokes Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

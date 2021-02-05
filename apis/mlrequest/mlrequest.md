@@ -12,6 +12,9 @@ Serverless, high-performance machine learning contained in a simple API. Models 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mlrequest/mlrequest.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mlrequest/mlrequest.yaml)
 
+## 🆓 Is Mlrequest free?
+ Unknown/No 
+
 ## 💬 Mlrequest Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

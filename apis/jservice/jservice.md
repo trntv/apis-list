@@ -10,6 +10,9 @@ Trivia Questions. Get answers (and the correct questions) from 20+ years of Jeop
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/jservice/jservice.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/jservice/jservice.yaml)
 
+## 🆓 Is Jservice free?
+ Unknown/No 
+
 ## 💬 Jservice Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

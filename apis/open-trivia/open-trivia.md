@@ -10,6 +10,9 @@ Free to use, user-contributed trivia questions!
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-trivia/open-trivia.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-trivia/open-trivia.yaml)
 
+## 🆓 Is Open Trivia free?
+ Unknown/No 
+
 ## 💬 Open Trivia Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

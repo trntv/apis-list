@@ -12,6 +12,9 @@ Secure and reliable Online Tools. Free URL Shortener API without limits
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shrtco-de-api/shrtco-de-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shrtco-de-api/shrtco-de-api.yaml)
 
+## 🆓 Is Shrtco.De Api free?
+ Unknown/No 
+
 ## 💬 Shrtco.De Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

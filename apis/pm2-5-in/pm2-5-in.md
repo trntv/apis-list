@@ -10,6 +10,9 @@ Air quality of China. 提供PM2. 5(细颗粒物)及空气质量指数(AQI)实时
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pm2-5-in/pm2-5-in.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pm2-5-in/pm2-5-in.yaml)
 
+## 🆓 Is Pm2.5.In free?
+ Unknown/No 
+
 ## 💬 Pm2.5.In Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -10,6 +10,9 @@ Random user generator is a FREE API for generating placeholder user information.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/randomusergenerator/randomusergenerator.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/randomusergenerator/randomusergenerator.yaml)
 
+## 🆓 Is RandomUserGenerator free?
+ Unknown/No 
+
 ## 💬 RandomUserGenerator Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

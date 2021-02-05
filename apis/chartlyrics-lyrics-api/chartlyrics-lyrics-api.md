@@ -10,6 +10,9 @@ v1. 1 Update, adding TrackId and TrackChecksum for future AddLyric function, Add
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/chartlyrics-lyrics-api/chartlyrics-lyrics-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/chartlyrics-lyrics-api/chartlyrics-lyrics-api.yaml)
 
+## 🆓 Is ChartLyrics Lyrics API free?
+ Unknown/No 
+
 ## 💬 ChartLyrics Lyrics API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

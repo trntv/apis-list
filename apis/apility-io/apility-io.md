@@ -12,6 +12,9 @@
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/apility-io/apility-io.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/apility-io/apility-io.yaml)
 
+## 🆓 Is Apility.io free?
+ Unknown/No 
+
 ## 💬 Apility.io Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ Extract USPS addresses from any text with our easy-to-use API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/us-extract/us-extract.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/us-extract/us-extract.yaml)
 
+## 🆓 Is US Extract free?
+ Unknown/No 
+
 ## 💬 US Extract Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

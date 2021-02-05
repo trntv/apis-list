@@ -12,6 +12,9 @@ A simple way to share and discover interesting events from your friends, followe
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/upcoming-org-api/upcoming-org-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/upcoming-org-api/upcoming-org-api.yaml)
 
+## 🆓 Is Upcoming.Org API free?
+ Unknown/No 
+
 ## 💬 Upcoming.Org API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

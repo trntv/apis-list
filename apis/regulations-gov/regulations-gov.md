@@ -10,6 +10,9 @@ More information is available here. Pleas. The Regulations. gov API is not accep
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/regulations-gov/regulations-gov.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/regulations-gov/regulations-gov.yaml)
 
+## 🆓 Is Regulations.gov free?
+ Unknown/No 
+
 ## 💬 Regulations.gov Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

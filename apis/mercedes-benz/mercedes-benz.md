@@ -12,6 +12,9 @@ Mercedes-Benz's live API products
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mercedes-benz/mercedes-benz.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mercedes-benz/mercedes-benz.yaml)
 
+## 🆓 Is Mercedes-Benz free?
+ Unknown/No 
+
 ## 💬 Mercedes-Benz Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

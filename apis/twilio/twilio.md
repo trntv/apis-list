@@ -12,6 +12,9 @@ APIs for SMS, Voice, Video and more. With Twilio, unite communications and stren
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/twilio/twilio.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/twilio/twilio.yaml)
 
+## 🆓 Is Twilio free?
+ Unknown/No 
+
 ## 💬 Twilio Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ Provision and manage your Classroom courses
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-classroom-api/google-classroom-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-classroom-api/google-classroom-api.yaml)
 
+## 🆓 Is Google Classroom API free?
+ Unknown/No 
+
 ## 💬 Google Classroom API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

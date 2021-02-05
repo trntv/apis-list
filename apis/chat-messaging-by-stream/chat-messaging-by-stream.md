@@ -16,6 +16,9 @@ Stream's API and SDKs enable developers to build messaging solutions very quickl
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/chat-messaging-by-stream/chat-messaging-by-stream.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/chat-messaging-by-stream/chat-messaging-by-stream.yaml)
 
+## 🆓 Is Chat Messaging By Stream free?
+ Unknown/No 
+
 ## 💬 Chat Messaging By Stream Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

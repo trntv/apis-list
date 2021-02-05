@@ -12,6 +12,9 @@ Weather API Documentation. Use our Weather API to access weather forecasts, and 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/weatherbit/weatherbit.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/weatherbit/weatherbit.yaml)
 
+## 🆓 Is Weatherbit free?
+ Unknown/No 
+
 ## 💬 Weatherbit Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

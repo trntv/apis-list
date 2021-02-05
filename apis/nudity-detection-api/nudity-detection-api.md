@@ -12,6 +12,9 @@ io detects nudity in images and helps to recognise and filter undesired content.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nudity-detection-api/nudity-detection-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nudity-detection-api/nudity-detection-api.yaml)
 
+## 🆓 Is Nudity Detection Api free?
+ Unknown/No 
+
 ## 💬 Nudity Detection Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

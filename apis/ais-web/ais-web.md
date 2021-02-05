@@ -12,6 +12,9 @@ Aeronautical information in digital media produced by the Department of Airspace
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ais-web/ais-web.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ais-web/ais-web.yaml)
 
+## 🆓 Is Ais Web free?
+ Unknown/No 
+
 ## 💬 Ais Web Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

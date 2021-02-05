@@ -11,6 +11,9 @@ Coinbase’s APIs enable a variety of capabilities; from simply gathering read-o
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/coinbase/coinbase.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/coinbase/coinbase.yaml)
 
+## 🆓 Is Coinbase free?
+ Unknown/No 
+
 ## 💬 Coinbase Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

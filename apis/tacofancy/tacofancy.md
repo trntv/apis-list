@@ -12,6 +12,9 @@ Making an API for https://github. Making an API for https://github. com/sinker/t
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/tacofancy/tacofancy.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/tacofancy/tacofancy.yaml)
 
+## 🆓 Is TacoFancy free?
+ Unknown/No 
+
 ## 💬 TacoFancy Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

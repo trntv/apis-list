@@ -10,6 +10,9 @@ Supports intraday, daily, weekly, and monthly quotes and technical analysis with
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/alpha-vantage/alpha-vantage.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/alpha-vantage/alpha-vantage.yaml)
 
+## 🆓 Is Alpha Vantage free?
+ Unknown/No 
+
 ## 💬 Alpha Vantage Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

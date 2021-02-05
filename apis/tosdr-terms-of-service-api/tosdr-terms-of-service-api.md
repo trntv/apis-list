@@ -10,6 +10,9 @@ Terms of service are often too long to read, but it's important to understand wh
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/tosdr-terms-of-service-api/tosdr-terms-of-service-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/tosdr-terms-of-service-api/tosdr-terms-of-service-api.yaml)
 
+## 🆓 Is ToSDR terms of service API free?
+ Unknown/No 
+
 ## 💬 ToSDR terms of service API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

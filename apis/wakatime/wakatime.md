@@ -12,6 +12,9 @@ Dashboards for developers. WakaTime is committed to making time tracking fully a
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wakatime/wakatime.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wakatime/wakatime.yaml)
 
+## 🆓 Is WakaTime free?
+ Unknown/No 
+
 ## 💬 WakaTime Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

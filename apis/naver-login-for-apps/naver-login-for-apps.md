@@ -12,6 +12,9 @@ Access to Naver’s Authentication API. 네이버 아이디로 로그인 별도�
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/naver-login-for-apps/naver-login-for-apps.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/naver-login-for-apps/naver-login-for-apps.yaml)
 
+## 🆓 Is Naver Login for Apps free?
+ Unknown/No 
+
 ## 💬 Naver Login for Apps Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

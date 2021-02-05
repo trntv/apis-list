@@ -10,6 +10,9 @@ United States patent and trademark office API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/uspto/uspto.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/uspto/uspto.yaml)
 
+## 🆓 Is USPTO free?
+ Unknown/No 
+
 ## 💬 USPTO Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

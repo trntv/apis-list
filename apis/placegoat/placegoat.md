@@ -10,6 +10,9 @@ PlaceGOAT placeholder service.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/placegoat/placegoat.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/placegoat/placegoat.yaml)
 
+## 🆓 Is PlaceGoat free?
+ Unknown/No 
+
 ## 💬 PlaceGoat Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ Climate Data Online (CDO) provides free access to NCDC's archive of global histo
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/noaa-climate-data/noaa-climate-data.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/noaa-climate-data/noaa-climate-data.yaml)
 
+## 🆓 Is NOAA Climate Data free?
+ Unknown/No 
+
 ## 💬 NOAA Climate Data Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

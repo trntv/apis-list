@@ -12,6 +12,9 @@ Live cricket scores
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cricket-live-scores/cricket-live-scores.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cricket-live-scores/cricket-live-scores.yaml)
 
+## 🆓 Is Cricket Live Scores free?
+ Unknown/No 
+
 ## 💬 Cricket Live Scores Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

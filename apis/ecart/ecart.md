@@ -10,6 +10,9 @@ Data is offered in JSON format. The following marketplaces are available: eBay, 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ecart/ecart.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ecart/ecart.yaml)
 
+## 🆓 Is Ecart free?
+ Unknown/No 
+
 ## 💬 Ecart Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

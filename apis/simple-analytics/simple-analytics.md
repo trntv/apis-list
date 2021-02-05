@@ -12,6 +12,9 @@ Simple, clean, and friendly analytics for developers (privacy focused alternativ
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/simple-analytics/simple-analytics.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/simple-analytics/simple-analytics.yaml)
 
+## 🆓 Is Simple Analytics free?
+ Unknown/No 
+
 ## 💬 Simple Analytics Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

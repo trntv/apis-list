@@ -12,6 +12,9 @@ Transport for London open data. All public TfL data (or 'open data') is freely r
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-london-england/transport-for-london-england.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-london-england/transport-for-london-england.yaml)
 
+## 🆓 Is Transportation in London, UK free?
+ Unknown/No 
+
 ## 💬 Transportation in London, UK Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

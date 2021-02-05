@@ -10,6 +10,9 @@ Build on-demand delivery into your app or website.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/postmates/postmates.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/postmates/postmates.yaml)
 
+## 🆓 Is Postmates free?
+ Unknown/No 
+
 ## 💬 Postmates Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

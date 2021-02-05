@@ -10,6 +10,9 @@ Cooper Hewitt, Smithsonian Design Museum Collections provides a REST-ish style a
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cooper-hewitt/cooper-hewitt.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cooper-hewitt/cooper-hewitt.yaml)
 
+## 🆓 Is Cooper Hewitt free?
+ Unknown/No 
+
 ## 💬 Cooper Hewitt Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -10,6 +10,9 @@ API for accessing stored files and pictures which is easy to use and free for sm
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dropbox/dropbox.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dropbox/dropbox.yaml)
 
+## 🆓 Is Dropbox free?
+ Unknown/No 
+
 ## 💬 Dropbox Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

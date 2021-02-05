@@ -12,6 +12,9 @@ You can use it to track page hits, and specific events among other things. Count
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/countapi/countapi.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/countapi/countapi.yaml)
 
+## 🆓 Is CountAPI free?
+ Unknown/No 
+
 ## 💬 CountAPI Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -19,6 +19,9 @@ The most powerful and cost-effective NLP AI APIs, continuously updated.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cloudmersive-natural-language-processing/cloudmersive-natural-language-processing.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cloudmersive-natural-language-processing/cloudmersive-natural-language-processing.yaml)
 
+## 🆓 Is Cloudmersive Natural Language Processing free?
+ Unknown/No 
+
 ## 💬 Cloudmersive Natural Language Processing Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

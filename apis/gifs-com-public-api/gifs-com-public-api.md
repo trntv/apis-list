@@ -12,6 +12,9 @@ com API makes it dead simple to convert and transcode a vast array of media into
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gifs-com-public-api/gifs-com-public-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gifs-com-public-api/gifs-com-public-api.yaml)
 
+## 🆓 Is Gifs.Com Public API free?
+ Unknown/No 
+
 ## 💬 Gifs.Com Public API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

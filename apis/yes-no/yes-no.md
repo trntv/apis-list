@@ -10,6 +10,9 @@ Yes or No
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yes-no/yes-no.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yes-no/yes-no.yaml)
 
+## 🆓 Is Yes No free?
+ Unknown/No 
+
 ## 💬 Yes No Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

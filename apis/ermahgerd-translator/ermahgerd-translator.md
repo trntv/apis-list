@@ -12,6 +12,9 @@ This translates text to ERMAHGERD
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ermahgerd-translator/ermahgerd-translator.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ermahgerd-translator/ermahgerd-translator.yaml)
 
+## 🆓 Is ERMAHGERD Translator free?
+ Unknown/No 
+
 ## 💬 ERMAHGERD Translator Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

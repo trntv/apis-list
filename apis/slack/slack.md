@@ -12,6 +12,9 @@ Slack APIs allow you to integrate complex services with Slack to go beyond the i
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/slack/slack.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/slack/slack.yaml)
 
+## 🆓 Is Slack free?
+ Unknown/No 
+
 ## 💬 Slack Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

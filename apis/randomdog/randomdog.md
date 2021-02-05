@@ -10,6 +10,9 @@ Random dog image API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/randomdog/randomdog.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/randomdog/randomdog.yaml)
 
+## 🆓 Is RandomDog free?
+ Unknown/No 
+
 ## 💬 RandomDog Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ Offers self-service website and application performance monitoring solutions
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/watchmouse-api/watchmouse-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/watchmouse-api/watchmouse-api.yaml)
 
+## 🆓 Is WatchMouse API free?
+ Unknown/No 
+
 ## 💬 WatchMouse API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

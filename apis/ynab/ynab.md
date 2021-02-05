@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ynab/logo_256x256.png" alt="YNAB Logo"/>
 </p>
-Introduction Hello Developers Welcome to the YNAB API! (If you aren't a developer or you have no idea what an "API" is and you just want to sign in to your YNAB account, you can do that here. ) The
+YNAB API. YNAB is a budgeting app that helps you confidently spend your money, get out of debt, and take control of your financial freedom.
 
 ##  🔗 Links
 **Docs / Website**: https://api.youneedabudget.com/
@@ -11,6 +11,9 @@ Introduction Hello Developers Welcome to the YNAB API! (If you aren't a develope
 **Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ynab/ynab.yaml)  
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ynab/ynab.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ynab/ynab.yaml)
+
+## 🆓 Is YNAB free?
+ Unknown/No 
 
 ## 💬 YNAB Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

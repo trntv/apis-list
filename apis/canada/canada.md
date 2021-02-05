@@ -12,6 +12,9 @@ Central bank of Canada
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/canada/canada.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/canada/canada.yaml)
 
+## 🆓 Is Canada free?
+ Unknown/No 
+
 ## 💬 Canada Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

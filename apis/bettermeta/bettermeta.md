@@ -12,6 +12,9 @@ A simple API to return the meta tags of any site in a digestable JSON format.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bettermeta/bettermeta.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bettermeta/bettermeta.yaml)
 
+## 🆓 Is BetterMeta free?
+ Unknown/No 
+
 ## 💬 BetterMeta Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

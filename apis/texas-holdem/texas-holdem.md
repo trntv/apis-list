@@ -12,6 +12,9 @@ With this API you can easily create a full Texas Holdem game, just create the gr
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/texas-holdem/texas-holdem.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/texas-holdem/texas-holdem.yaml)
 
+## 🆓 Is Texas Holdem free?
+ Unknown/No 
+
 ## 💬 Texas Holdem Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

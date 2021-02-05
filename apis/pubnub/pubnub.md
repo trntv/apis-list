@@ -12,6 +12,9 @@
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pubnub/pubnub.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pubnub/pubnub.yaml)
 
+## 🆓 Is PubNub free?
+ Unknown/No 
+
 ## 💬 PubNub Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -10,6 +10,9 @@ Capture every user event across your application with Full Story, it is an advan
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/full-story/full-story.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/full-story/full-story.yaml)
 
+## 🆓 Is Full Story free?
+ Unknown/No 
+
 ## 💬 Full Story Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

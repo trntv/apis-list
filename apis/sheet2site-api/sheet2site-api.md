@@ -11,6 +11,9 @@ Real time updates. Free
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/sheet2site-api/sheet2site-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/sheet2site-api/sheet2site-api.yaml)
 
+## 🆓 Is Sheet2site Api free?
+ Unknown/No 
+
 ## 💬 Sheet2site Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

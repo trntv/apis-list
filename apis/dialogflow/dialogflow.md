@@ -12,6 +12,9 @@ Natural Language Interactions for Bots, Applications, Services, and Devices. Vir
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dialogflow/dialogflow.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dialogflow/dialogflow.yaml)
 
+## 🆓 Is DialogFlow free?
+ Unknown/No 
+
 ## 💬 DialogFlow Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -10,6 +10,9 @@ Worldwide public holidays API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nager-date/nager-date.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nager-date/nager-date.yaml)
 
+## 🆓 Is Nager.Date free?
+ Unknown/No 
+
 ## 💬 Nager.Date Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

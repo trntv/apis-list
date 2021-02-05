@@ -12,6 +12,9 @@ A Rest Api of simple country information that you need. Gets all the countries, 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/countryapi/countryapi.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/countryapi/countryapi.yaml)
 
+## 🆓 Is CountryAPI free?
+ Unknown/No 
+
 ## 💬 CountryAPI Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

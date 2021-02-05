@@ -12,6 +12,9 @@
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-honolulu-us/transport-for-honolulu-us.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-honolulu-us/transport-for-honolulu-us.yaml)
 
+## 🆓 Is Transportation in Honolulu, USA free?
+ Unknown/No 
+
 ## 💬 Transportation in Honolulu, USA Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

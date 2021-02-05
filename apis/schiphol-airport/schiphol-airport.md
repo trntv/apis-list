@@ -10,6 +10,9 @@ Schiphol Airport's API. Through these APIs, it disclose an enormous amount of ai
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/schiphol-airport/schiphol-airport.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/schiphol-airport/schiphol-airport.yaml)
 
+## 🆓 Is Schiphol Airport free?
+ Unknown/No 
+
 ## 💬 Schiphol Airport Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

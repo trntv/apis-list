@@ -10,6 +10,9 @@ Oxford COVID-19 Government Response Tracker. Governments are taking a wide range
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/covid-19-government-response/covid-19-government-response.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/covid-19-government-response/covid-19-government-response.yaml)
 
+## 🆓 Is Covid-19 Government Response free?
+ Unknown/No 
+
 ## 💬 Covid-19 Government Response Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ koomalooma takes care of all the rest, from signing up users, keeping track of p
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/koomalooma/koomalooma.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/koomalooma/koomalooma.yaml)
 
+## 🆓 Is koomalooma free?
+ Unknown/No 
+
 ## 💬 koomalooma Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

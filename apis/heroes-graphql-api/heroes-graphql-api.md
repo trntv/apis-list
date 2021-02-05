@@ -10,6 +10,9 @@
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/heroes-graphql-api/heroes-graphql-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/heroes-graphql-api/heroes-graphql-api.yaml)
 
+## 🆓 Is Heroes GraphQL API free?
+ Unknown/No 
+
 ## 💬 Heroes GraphQL API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

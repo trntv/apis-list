@@ -10,6 +10,9 @@ Start developing for free. Public holiday API service for several supported coun
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/holiday-api/holiday-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/holiday-api/holiday-api.yaml)
 
+## 🆓 Is Holiday API free?
+ Unknown/No 
+
 ## 💬 Holiday API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

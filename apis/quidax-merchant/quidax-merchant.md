@@ -10,6 +10,9 @@ Buy, sell and store Bitcoin, Ethereum, Ripple (XRP), Litecoin & other cryptocurr
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/quidax-merchant/quidax-merchant.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/quidax-merchant/quidax-merchant.yaml)
 
+## 🆓 Is Quidax Merchant free?
+ Unknown/No 
+
 ## 💬 Quidax Merchant Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

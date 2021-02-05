@@ -12,6 +12,9 @@ Parameters callback string To define your own callback function name and return 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/advice-slip/advice-slip.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/advice-slip/advice-slip.yaml)
 
+## 🆓 Is Advice Slip free?
+ Unknown/No 
+
 ## 💬 Advice Slip Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

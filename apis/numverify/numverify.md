@@ -12,6 +12,9 @@ Free, powerful JSON API offering international and national phone number validat
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/numverify/numverify.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/numverify/numverify.yaml)
 
+## 🆓 Is numverify free?
+ Unknown/No 
+
 ## 💬 numverify Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

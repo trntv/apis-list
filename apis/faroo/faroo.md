@@ -12,6 +12,9 @@ Alternative to Google Web Search API / Google News Search API, allows you to sea
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/faroo/faroo.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/faroo/faroo.yaml)
 
+## 🆓 Is Faroo free?
+ Unknown/No 
+
 ## 💬 Faroo Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

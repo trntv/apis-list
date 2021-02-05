@@ -13,6 +13,9 @@ Take your ML projects to production, quickly and cost-effectively.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cloud-machine-learning-engine/cloud-machine-learning-engine.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cloud-machine-learning-engine/cloud-machine-learning-engine.yaml)
 
+## 🆓 Is Cloud Machine Learning Engine free?
+ Unknown/No 
+
 ## 💬 Cloud Machine Learning Engine Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

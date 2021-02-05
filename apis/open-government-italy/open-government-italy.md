@@ -10,6 +10,9 @@ dati. gov. it Il Portale dati. it, gestitodall’Agenzia per l’Italia digitale
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-government-italy/open-government-italy.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-government-italy/open-government-italy.yaml)
 
+## 🆓 Is Open Government, Italy free?
+ Unknown/No 
+
 ## 💬 Open Government, Italy Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

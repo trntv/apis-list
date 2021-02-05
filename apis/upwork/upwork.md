@@ -12,6 +12,9 @@ to your dashboards, websites and management systems.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/upwork/upwork.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/upwork/upwork.yaml)
 
+## 🆓 Is Upwork free?
+ Unknown/No 
+
 ## 💬 Upwork Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

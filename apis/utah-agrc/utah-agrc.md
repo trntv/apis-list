@@ -12,6 +12,9 @@ Geocoding API Methods API methods for finding a geolocation (x,y) for addresses.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/utah-agrc/utah-agrc.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/utah-agrc/utah-agrc.yaml)
 
+## 🆓 Is Utah AGRC free?
+ Unknown/No 
+
 ## 💬 Utah AGRC Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

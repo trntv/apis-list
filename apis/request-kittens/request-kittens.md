@@ -12,6 +12,9 @@ A randomized set of category-specific cat images.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/request-kittens/request-kittens.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/request-kittens/request-kittens.yaml)
 
+## 🆓 Is Request Kittens free?
+ Unknown/No 
+
 ## 💬 Request Kittens Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

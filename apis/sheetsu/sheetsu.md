@@ -12,6 +12,9 @@ Get data from Google Spreadsheet in a matter of seconds. You can copy the HTML S
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/sheetsu/sheetsu.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/sheetsu/sheetsu.yaml)
 
+## 🆓 Is Sheetsu free?
+ Unknown/No 
+
 ## 💬 Sheetsu Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

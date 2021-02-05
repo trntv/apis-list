@@ -10,6 +10,9 @@ The Bot API is an HTTP-based interface created for developers keen on building b
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/telegram-bot/telegram-bot.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/telegram-bot/telegram-bot.yaml)
 
+## 🆓 Is Telegram Bot free?
+ Unknown/No 
+
 ## 💬 Telegram Bot Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

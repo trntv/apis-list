@@ -12,6 +12,9 @@ Unlock the power of video and join over 200M professionals, teams, and organizat
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/vimeo/vimeo.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/vimeo/vimeo.yaml)
 
+## 🆓 Is Vimeo free?
+ Unknown/No 
+
 ## 💬 Vimeo Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

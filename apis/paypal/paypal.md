@@ -10,6 +10,9 @@ Enables your customers to sign in to your web site quickly and securely using th
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/paypal/paypal.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/paypal/paypal.yaml)
 
+## 🆓 Is PayPal free?
+ Unknown/No 
+
 ## 💬 PayPal Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

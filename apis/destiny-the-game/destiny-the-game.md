@@ -12,6 +12,9 @@ These endpoints constitute the functionality exposed by Bungie. net
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/destiny-the-game/destiny-the-game.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/destiny-the-game/destiny-the-game.yaml)
 
+## 🆓 Is Destiny The Game free?
+ Unknown/No 
+
 ## 💬 Destiny The Game Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ The Harvard Art Museums API is a REST-style service designed for developers who 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/harvard-art-museums/harvard-art-museums.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/harvard-art-museums/harvard-art-museums.yaml)
 
+## 🆓 Is Harvard Art Museums free?
+ Unknown/No 
+
 ## 💬 Harvard Art Museums Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

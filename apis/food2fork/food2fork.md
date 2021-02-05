@@ -12,6 +12,9 @@ Recipe Search
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/food2fork/food2fork.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/food2fork/food2fork.yaml)
 
+## 🆓 Is Food2fork free?
+ Unknown/No 
+
 ## 💬 Food2fork Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

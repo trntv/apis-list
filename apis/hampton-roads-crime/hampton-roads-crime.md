@@ -12,6 +12,9 @@ Let’s you get most recent and historical crime data so you feel safe in your n
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/hampton-roads-crime/hampton-roads-crime.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/hampton-roads-crime/hampton-roads-crime.yaml)
 
+## 🆓 Is Hampton Roads Crime free?
+ Unknown/No 
+
 ## 💬 Hampton Roads Crime Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

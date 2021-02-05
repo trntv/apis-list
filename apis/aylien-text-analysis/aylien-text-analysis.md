@@ -10,6 +10,9 @@ Explore AYLIEN’s advanced NLP APIs. Explore AYLIEN’s advanced NLP APIs
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/aylien-text-analysis/aylien-text-analysis.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/aylien-text-analysis/aylien-text-analysis.yaml)
 
+## 🆓 Is Aylien Text Analysis free?
+ Unknown/No 
+
 ## 💬 Aylien Text Analysis Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ Azure Cognitive Services brings AI within reach of every developer through a fam
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/microsoft-azure-machine-learning-api/microsoft-azure-machine-learning-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/microsoft-azure-machine-learning-api/microsoft-azure-machine-learning-api.yaml)
 
+## 🆓 Is Microsoft Azure Machine Learning API free?
+ Unknown/No 
+
 ## 💬 Microsoft Azure Machine Learning API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

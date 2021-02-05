@@ -12,6 +12,9 @@ Don't let sourcing and maintaining holiday information get in the way of buildin
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/holidays/holidays.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/holidays/holidays.yaml)
 
+## 🆓 Is Holidays free?
+ Unknown/No 
+
 ## 💬 Holidays Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

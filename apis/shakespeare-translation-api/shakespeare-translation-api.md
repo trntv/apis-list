@@ -12,6 +12,9 @@ Translate from English to Shakespeare English
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shakespeare-translation-api/shakespeare-translation-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shakespeare-translation-api/shakespeare-translation-api.yaml)
 
+## 🆓 Is Shakespeare Translation Api free?
+ Unknown/No 
+
 ## 💬 Shakespeare Translation Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

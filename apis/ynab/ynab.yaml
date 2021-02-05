@@ -2,7 +2,7 @@ name: YNAB
 slug: ynab
 categories:
     - Finance & Economics
-description: Introduction Hello Developers Welcome to the YNAB API! (If you aren't a developer or you have no idea what an "API" is and you just want to sign in to your YNAB account, you can do that here. ) The
+description: YNAB API. YNAB is a budgeting app that helps you confidently spend your money, get out of debt, and take control of your financial freedom.
 is_free: false
 logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ynab/logo_256x256.png
 type: REST

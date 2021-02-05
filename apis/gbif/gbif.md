@@ -10,6 +10,9 @@ Free and open access to biodiversity data. GBIF—the Global Biodiversity Inform
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gbif/gbif.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gbif/gbif.yaml)
 
+## 🆓 Is GBIF free?
+ Unknown/No 
+
 ## 💬 GBIF Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

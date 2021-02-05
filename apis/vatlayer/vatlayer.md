@@ -12,6 +12,9 @@ Free and HTTPS secured JSON API offering instant VAT number validation, reliable
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/vatlayer/vatlayer.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/vatlayer/vatlayer.yaml)
 
+## 🆓 Is vatlayer free?
+ Unknown/No 
+
 ## 💬 vatlayer Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

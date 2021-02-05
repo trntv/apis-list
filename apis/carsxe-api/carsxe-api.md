@@ -12,6 +12,9 @@ Get access to millions of vehicle records, specs, ownership costs and market val
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/carsxe-api/carsxe-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/carsxe-api/carsxe-api.yaml)
 
+## 🆓 Is CarsXE API free?
+ Unknown/No 
+
 ## 💬 CarsXE API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

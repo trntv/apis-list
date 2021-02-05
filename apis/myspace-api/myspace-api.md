@@ -12,6 +12,9 @@ A social networking website offering an interactive, user-submitted network of f
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/myspace-api/myspace-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/myspace-api/myspace-api.yaml)
 
+## 🆓 Is MySpace API free?
+ Unknown/No 
+
 ## 💬 MySpace API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ The GeoNames geographical database covers all countries and contains over eleven
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/geonames/geonames.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/geonames/geonames.yaml)
 
+## 🆓 Is GeoNames free?
+ Unknown/No 
+
 ## 💬 GeoNames Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

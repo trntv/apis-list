@@ -12,6 +12,9 @@ XYZ Menus API provides access to a Database of over 350,000 Restaurant Menus wit
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/xyz-menus/xyz-menus.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/xyz-menus/xyz-menus.yaml)
 
+## 🆓 Is Xyz Menus free?
+ Unknown/No 
+
 ## 💬 Xyz Menus Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

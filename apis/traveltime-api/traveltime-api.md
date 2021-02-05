@@ -10,6 +10,9 @@ Testing the TravelTime API is free. Transform location site search. Search and s
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/traveltime-api/traveltime-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/traveltime-api/traveltime-api.yaml)
 
+## 🆓 Is Traveltime Api free?
+ Unknown/No 
+
 ## 💬 Traveltime Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

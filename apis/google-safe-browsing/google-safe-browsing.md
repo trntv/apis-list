@@ -12,6 +12,9 @@ APIs to access the Google Safe Browsing lists of unsafe web resources
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-safe-browsing/google-safe-browsing.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-safe-browsing/google-safe-browsing.yaml)
 
+## 🆓 Is Google Safe Browsing free?
+ Unknown/No 
+
 ## 💬 Google Safe Browsing Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

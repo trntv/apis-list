@@ -10,6 +10,9 @@ viafintech API v2 allows you to create payment, partial payment, payout, and ref
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/barzahlen/barzahlen.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/barzahlen/barzahlen.yaml)
 
+## 🆓 Is Barzahlen free?
+ Unknown/No 
+
 ## 💬 Barzahlen Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

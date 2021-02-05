@@ -12,6 +12,9 @@ In this day and age, everyone and their dog has an API. So why not have an API f
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shibe-online/shibe-online.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shibe-online/shibe-online.yaml)
 
+## 🆓 Is Shibe.Online free?
+ Unknown/No 
+
 ## 💬 Shibe.Online Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

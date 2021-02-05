@@ -10,6 +10,9 @@ An open, programmatic interface for controlling smart devices The SmartThings pl
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/smartthings/smartthings.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/smartthings/smartthings.yaml)
 
+## 🆓 Is SmartThings free?
+ Unknown/No 
+
 ## 💬 SmartThings Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

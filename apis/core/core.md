@@ -10,6 +10,9 @@ CORE harvests, maintains, enriches and makes available metadata and full text co
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/core/core.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/core/core.yaml)
 
+## 🆓 Is CORE free?
+ Unknown/No 
+
 ## 💬 CORE Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

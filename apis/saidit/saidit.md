@@ -12,6 +12,9 @@ Raw Saidit API Wrapper. Raw Saidit API Wrapper. Contribute to IThinkImOKAY/rsaw 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/saidit/saidit.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/saidit/saidit.yaml)
 
+## 🆓 Is Saidit free?
+ Unknown/No 
+
 ## 💬 Saidit Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

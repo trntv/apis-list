@@ -10,6 +10,9 @@ io. Document, mock, test, and more, with the StopLight API Designer. Hosted API 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lexigram/lexigram.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lexigram/lexigram.yaml)
 
+## 🆓 Is Lexigram free?
+ Unknown/No 
+
 ## 💬 Lexigram Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

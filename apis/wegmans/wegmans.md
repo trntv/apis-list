@@ -12,6 +12,9 @@ APIs for products and store information
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wegmans/wegmans.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wegmans/wegmans.yaml)
 
+## 🆓 Is Wegmans free?
+ Unknown/No 
+
 ## 💬 Wegmans Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

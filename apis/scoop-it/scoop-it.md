@@ -12,6 +12,9 @@ Enables professionals and businesses to research and publish content through its
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/scoop-it/scoop-it.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/scoop-it/scoop-it.yaml)
 
+## 🆓 Is Scoop.it free?
+ Unknown/No 
+
 ## 💬 Scoop.it Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

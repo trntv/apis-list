@@ -12,6 +12,9 @@ Jeannie (Voice Actions) is a virtual assistant with over two Million downloads, 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/voice-actions-jeannie/voice-actions-jeannie.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/voice-actions-jeannie/voice-actions-jeannie.yaml)
 
+## 🆓 Is Voice Actions Jeannie free?
+ Unknown/No 
+
 ## 💬 Voice Actions Jeannie Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ Code against the Bitbucket API to automate simple tasks, embed Bitbucket data in
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bitbucket/bitbucket.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bitbucket/bitbucket.yaml)
 
+## 🆓 Is Bitbucket free?
+ Unknown/No 
+
 ## 💬 Bitbucket Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

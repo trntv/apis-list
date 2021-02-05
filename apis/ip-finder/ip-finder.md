@@ -10,6 +10,9 @@ Locate website visitors for free using ipfinder - a free, real-time IP address t
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ip-finder/ip-finder.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ip-finder/ip-finder.yaml)
 
+## 🆓 Is Ip Finder free?
+ Unknown/No 
+
 ## 💬 Ip Finder Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

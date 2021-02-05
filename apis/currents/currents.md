@@ -12,6 +12,9 @@ Currents - Capture the world news through simple json News API.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/currents/currents.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/currents/currents.yaml)
 
+## 🆓 Is Currents free?
+ Unknown/No 
+
 ## 💬 Currents Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

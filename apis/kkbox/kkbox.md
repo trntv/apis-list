@@ -12,6 +12,9 @@ Get ready to unbox the joy of music!
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/kkbox/kkbox.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/kkbox/kkbox.yaml)
 
+## 🆓 Is KKBOX free?
+ Unknown/No 
+
 ## 💬 KKBOX Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -11,6 +11,9 @@ and unified data APIs to cryptocurrency markets. All cryptocurrency exchanges in
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/coinapi/coinapi.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/coinapi/coinapi.yaml)
 
+## 🆓 Is CoinAPI free?
+ Unknown/No 
+
 ## 💬 CoinAPI Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

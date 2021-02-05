@@ -10,6 +10,9 @@ Shodan API, the easiest way to access the Shodan search engine on your own terms
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shodan/shodan.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shodan/shodan.yaml)
 
+## 🆓 Is Shodan free?
+ Unknown/No 
+
 ## 💬 Shodan Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

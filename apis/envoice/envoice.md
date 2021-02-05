@@ -12,6 +12,9 @@ Invoicing for online businesses. Simplify your invoicing process and get paid on
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/envoice/envoice.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/envoice/envoice.yaml)
 
+## 🆓 Is envoice free?
+ Unknown/No 
+
 ## 💬 envoice Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

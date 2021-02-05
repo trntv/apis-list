@@ -12,6 +12,9 @@ Numbers. Number of the day, random number generation , number facts and anything
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/numbers-api/numbers-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/numbers-api/numbers-api.yaml)
 
+## 🆓 Is Numbers Api free?
+ Unknown/No 
+
 ## 💬 Numbers Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

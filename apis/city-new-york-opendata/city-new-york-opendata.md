@@ -12,6 +12,9 @@ NYC Open Data helps New Yorkers use and learn about City data. NYC Open Data hel
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/city-new-york-opendata/city-new-york-opendata.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/city-new-york-opendata/city-new-york-opendata.yaml)
 
+## 🆓 Is City, New York Opendata free?
+ Unknown/No 
+
 ## 💬 City, New York Opendata Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

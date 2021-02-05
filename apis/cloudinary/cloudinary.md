@@ -12,6 +12,9 @@ API for image and video storage and manipulation - free for up to 75,000 images 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cloudinary/cloudinary.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cloudinary/cloudinary.yaml)
 
+## 🆓 Is Cloudinary free?
+ Unknown/No 
+
 ## 💬 Cloudinary Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

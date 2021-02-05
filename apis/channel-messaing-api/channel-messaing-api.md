@@ -12,6 +12,9 @@ Channel Messaging API lets your build real-time application
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/channel-messaing-api/channel-messaing-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/channel-messaing-api/channel-messaing-api.yaml)
 
+## 🆓 Is Channel Messaing API free?
+ Unknown/No 
+
 ## 💬 Channel Messaing API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

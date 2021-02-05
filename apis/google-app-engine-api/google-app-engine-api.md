@@ -12,6 +12,9 @@ Build scalable web and mobile backends in any language on Google’s infrastruct
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-app-engine-api/google-app-engine-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-app-engine-api/google-app-engine-api.yaml)
 
+## 🆓 Is Google App Engine API free?
+ Unknown/No 
+
 ## 💬 Google App Engine API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

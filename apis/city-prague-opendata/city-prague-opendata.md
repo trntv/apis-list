@@ -10,6 +10,9 @@ Welcome to the city-wide port. Here the municipality of the capital, contributor
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/city-prague-opendata/city-prague-opendata.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/city-prague-opendata/city-prague-opendata.yaml)
 
+## 🆓 Is City, Prague Opendata free?
+ Unknown/No 
+
 ## 💬 City, Prague Opendata Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

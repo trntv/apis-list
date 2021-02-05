@@ -10,6 +10,9 @@ Connect your B2B eCommerce solution with 40+ shopping platforms and marketplaces
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/api2cart/api2cart.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/api2cart/api2cart.yaml)
 
+## 🆓 Is API2Cart free?
+ Unknown/No 
+
 ## 💬 API2Cart Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

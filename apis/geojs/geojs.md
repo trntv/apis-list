@@ -12,6 +12,9 @@ REST/JSON/JSONP GeoIP API. REST/JSON/JSONP GeoIP API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/geojs/geojs.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/geojs/geojs.yaml)
 
+## 🆓 Is GeoJS free?
+ Unknown/No 
+
 ## 💬 GeoJS Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

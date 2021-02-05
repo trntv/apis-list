@@ -12,6 +12,9 @@ Access to Anti-Captcha’s API. Bypass reCAPTCHA, solve image captchas, hCaptcha
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/anti-captcha/anti-captcha.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/anti-captcha/anti-captcha.yaml)
 
+## 🆓 Is Anti-Captcha free?
+ Unknown/No 
+
 ## 💬 Anti-Captcha Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

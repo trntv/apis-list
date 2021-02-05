@@ -10,6 +10,9 @@ Secure, fast, convenient way to login in your app/website. A secure, quick, and 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/facebook-login-for-apps/facebook-login-for-apps.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/facebook-login-for-apps/facebook-login-for-apps.yaml)
 
+## 🆓 Is Facebook Login for Apps free?
+ Unknown/No 
+
 ## 💬 Facebook Login for Apps Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

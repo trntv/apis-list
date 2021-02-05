@@ -12,6 +12,9 @@ Zoho Analytics API Zoho Analytics API offers wide range of functions to help dev
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/zoho-reports-api/zoho-reports-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/zoho-reports-api/zoho-reports-api.yaml)
 
+## 🆓 Is Zoho Reports API free?
+ Unknown/No 
+
 ## 💬 Zoho Reports API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

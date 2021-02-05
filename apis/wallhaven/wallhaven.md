@@ -10,6 +10,9 @@ wallhaven. cc help docs!. A huge wallpaper library
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wallhaven/wallhaven.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wallhaven/wallhaven.yaml)
 
+## 🆓 Is Wallhaven free?
+ Unknown/No 
+
 ## 💬 Wallhaven Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

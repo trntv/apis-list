@@ -10,6 +10,9 @@ Wondering what to watch? Let Netflix Roulette pick a movie or TV show randomly f
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/netflix-roulette/netflix-roulette.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/netflix-roulette/netflix-roulette.yaml)
 
+## 🆓 Is Netflix Roulette free?
+ Unknown/No 
+
 ## 💬 Netflix Roulette Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

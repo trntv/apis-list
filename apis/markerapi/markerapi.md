@@ -12,6 +12,9 @@ Trademark search API to search the US trademarks database (USPTO) based on a sea
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/markerapi/markerapi.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/markerapi/markerapi.yaml)
 
+## 🆓 Is markerapi free?
+ Unknown/No 
+
 ## 💬 markerapi Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

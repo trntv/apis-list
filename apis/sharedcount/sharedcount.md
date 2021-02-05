@@ -10,6 +10,9 @@ Social media like and share data for any URL.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/sharedcount/sharedcount.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/sharedcount/sharedcount.yaml)
 
+## 🆓 Is Sharedcount free?
+ Unknown/No 
+
 ## 💬 Sharedcount Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -10,6 +10,9 @@ URL shortener API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shrtlnk-dev/shrtlnk-dev.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shrtlnk-dev/shrtlnk-dev.yaml)
 
+## 🆓 Is Shrtlnk.dev free?
+ Unknown/No 
+
 ## 💬 Shrtlnk.dev Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

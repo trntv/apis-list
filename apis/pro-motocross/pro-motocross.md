@@ -12,6 +12,9 @@ The RESTful AMA Pro Motocross lap times for every racer on the start gate
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pro-motocross/pro-motocross.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pro-motocross/pro-motocross.yaml)
 
+## 🆓 Is Pro Motocross free?
+ Unknown/No 
+
 ## 💬 Pro Motocross Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

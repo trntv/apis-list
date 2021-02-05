@@ -10,6 +10,9 @@ Quotes on Design
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/quotes-on-design/quotes-on-design.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/quotes-on-design/quotes-on-design.yaml)
 
+## 🆓 Is Quotes on Design free?
+ Unknown/No 
+
 ## 💬 Quotes on Design Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

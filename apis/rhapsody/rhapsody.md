@@ -12,6 +12,9 @@ Access metadata, user’s entire library of music and do much more. The Napster 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/rhapsody/rhapsody.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/rhapsody/rhapsody.yaml)
 
+## 🆓 Is Rhapsody free?
+ Unknown/No 
+
 ## 💬 Rhapsody Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

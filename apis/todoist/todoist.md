@@ -10,6 +10,9 @@ Todo Lists
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/todoist/todoist.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/todoist/todoist.yaml)
 
+## 🆓 Is Todoist free?
+ Unknown/No 
+
 ## 💬 Todoist Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

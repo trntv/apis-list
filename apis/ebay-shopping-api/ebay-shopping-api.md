@@ -10,6 +10,9 @@ If you're interested in . Offers access to public read-only data such as searchi
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ebay-shopping-api/ebay-shopping-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ebay-shopping-api/ebay-shopping-api.yaml)
 
+## 🆓 Is EBay Shopping API free?
+ Unknown/No 
+
 ## 💬 EBay Shopping API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ Streamline user experience with the stock image, video, and music API trusted by
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shutterstock/shutterstock.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shutterstock/shutterstock.yaml)
 
+## 🆓 Is Shutterstock free?
+ Unknown/No 
+
 ## 💬 Shutterstock Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

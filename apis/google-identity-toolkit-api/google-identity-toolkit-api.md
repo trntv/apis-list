@@ -12,6 +12,9 @@ Enable users to sign into apps and authorize apps to use Google services
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-identity-toolkit-api/google-identity-toolkit-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-identity-toolkit-api/google-identity-toolkit-api.yaml)
 
+## 🆓 Is Google Identity Toolkit API. free?
+ Unknown/No 
+
 ## 💬 Google Identity Toolkit API. Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

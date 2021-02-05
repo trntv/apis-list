@@ -12,6 +12,9 @@ The simplest way to cost effectively store, serve, backup, and archive a virtual
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/digitalocean-spaces/digitalocean-spaces.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/digitalocean-spaces/digitalocean-spaces.yaml)
 
+## 🆓 Is DigitalOcean Spaces free?
+ Unknown/No 
+
 ## 💬 DigitalOcean Spaces Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

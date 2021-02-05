@@ -12,6 +12,9 @@ Exchange between cryptocurrencies without an account. Well documented API for ea
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shapeshift-io/shapeshift-io.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shapeshift-io/shapeshift-io.yaml)
 
+## 🆓 Is ShapeShift.io free?
+ Unknown/No 
+
 ## 💬 ShapeShift.io Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

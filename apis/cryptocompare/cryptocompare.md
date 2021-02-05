@@ -12,6 +12,9 @@ Cryptocurrencies Comparison. Free cryptocurrency data APIs. Get high-quality his
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cryptocompare/cryptocompare.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cryptocompare/cryptocompare.yaml)
 
+## 🆓 Is CryptoCompare free?
+ Unknown/No 
+
 ## 💬 CryptoCompare Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

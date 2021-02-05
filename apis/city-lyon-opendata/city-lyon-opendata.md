@@ -12,6 +12,9 @@ Les données des acteurs du territoire de la Métropole de Lyon
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/city-lyon-opendata/city-lyon-opendata.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/city-lyon-opendata/city-lyon-opendata.yaml)
 
+## 🆓 Is City, Lyon Opendata free?
+ Unknown/No 
+
 ## 💬 City, Lyon Opendata Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

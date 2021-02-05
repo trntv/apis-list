@@ -12,6 +12,9 @@ A simple tool to generate names for use in designs and mockups
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ui-names/ui-names.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ui-names/ui-names.yaml)
 
+## 🆓 Is UI Names free?
+ Unknown/No 
+
 ## 💬 UI Names Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

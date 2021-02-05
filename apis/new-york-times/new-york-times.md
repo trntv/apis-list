@@ -10,6 +10,9 @@ Article search, best sellers, campaign finance, community, most popular, real es
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/new-york-times/new-york-times.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/new-york-times/new-york-times.yaml)
 
+## 🆓 Is New York Times free?
+ Unknown/No 
+
 ## 💬 New York Times Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

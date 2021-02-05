@@ -10,6 +10,9 @@ Natural Language Processing
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wit-ai/wit-ai.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wit-ai/wit-ai.yaml)
 
+## 🆓 Is Wit.ai free?
+ Unknown/No 
+
 ## 💬 Wit.ai Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

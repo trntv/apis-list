@@ -12,6 +12,9 @@ IO ♛ Keep all games in one profile ✔ See what friends are playing, and find 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/rawg/rawg.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/rawg/rawg.yaml)
 
+## 🆓 Is RAWG free?
+ Unknown/No 
+
 ## 💬 RAWG Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

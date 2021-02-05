@@ -10,6 +10,9 @@ This is the Official Carbon Intensity API for Great Britain developed by Nationa
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/uk-carbon-intensity/uk-carbon-intensity.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/uk-carbon-intensity/uk-carbon-intensity.yaml)
 
+## 🆓 Is UK Carbon Intensity free?
+ Unknown/No 
+
 ## 💬 UK Carbon Intensity Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

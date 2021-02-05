@@ -12,6 +12,9 @@ PageCDN provides a state of the art opensource content delivery network that use
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pagecdn/pagecdn.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pagecdn/pagecdn.yaml)
 
+## 🆓 Is PageCDN free?
+ Unknown/No 
+
 ## 💬 PageCDN Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ Real-time and historical currency rates JSON API. CurrencyScoop is a developer-f
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/currencyscoop-com/currencyscoop-com.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/currencyscoop-com/currencyscoop-com.yaml)
 
+## 🆓 Is CurrencyScoop.com free?
+ Unknown/No 
+
 ## 💬 CurrencyScoop.com Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
@@ -21,6 +24,6 @@ No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edi
 
 
 ## 🗄️ Categories:
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics-)
+- [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies-)- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

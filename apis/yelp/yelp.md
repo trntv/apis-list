@@ -10,6 +10,9 @@ Yelp's API exposes search to 3rd party developers. You can search location using
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yelp/yelp.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yelp/yelp.yaml)
 
+## 🆓 Is Yelp free?
+ Unknown/No 
+
 ## 💬 Yelp Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -10,6 +10,9 @@ Vagalume » API » Documentação Documentação Conteúdo disponível na API do
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/vagalume/vagalume.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/vagalume/vagalume.yaml)
 
+## 🆓 Is Vagalume free?
+ Unknown/No 
+
 ## 💬 Vagalume Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

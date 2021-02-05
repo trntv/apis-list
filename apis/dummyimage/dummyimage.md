@@ -12,6 +12,9 @@ Particularly nice, when compared to some of its competitors, in that it offers a
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dummyimage/dummyimage.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dummyimage/dummyimage.yaml)
 
+## 🆓 Is DummyImage free?
+ Unknown/No 
+
 ## 💬 DummyImage Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

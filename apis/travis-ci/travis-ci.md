@@ -10,6 +10,9 @@ If you’re new to the Travis CI API, you should be using API V3. The API V2 des
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/travis-ci/travis-ci.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/travis-ci/travis-ci.yaml)
 
+## 🆓 Is Travis CI free?
+ Unknown/No 
+
 ## 💬 Travis CI Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

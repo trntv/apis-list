@@ -10,6 +10,9 @@ Swiss National Bank
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/switzerland/switzerland.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/switzerland/switzerland.yaml)
 
+## 🆓 Is Switzerland free?
+ Unknown/No 
+
 ## 💬 Switzerland Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

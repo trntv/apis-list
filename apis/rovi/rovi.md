@@ -10,6 +10,9 @@ Access to Metadata, search capabilities and recommendations. Digital First Digit
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/rovi/rovi.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/rovi/rovi.yaml)
 
+## 🆓 Is Rovi free?
+ Unknown/No 
+
 ## 💬 Rovi Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ Free tool with a wide range of capabilities for visualizing data from a website.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-charts/google-charts.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-charts/google-charts.yaml)
 
+## 🆓 Is Google Charts free?
+ Unknown/No 
+
 ## 💬 Google Charts Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

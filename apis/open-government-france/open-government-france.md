@@ -12,6 +12,9 @@ data. gouv. fr accueil. data
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-government-france/open-government-france.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-government-france/open-government-france.yaml)
 
+## 🆓 Is Open Government, France free?
+ Unknown/No 
+
 ## 💬 Open Government, France Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

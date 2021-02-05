@@ -10,6 +10,9 @@ Language Understanding Intelligent Service offers a fast and effective way of ad
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/luis-ai/luis-ai.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/luis-ai/luis-ai.yaml)
 
+## 🆓 Is LUIS AI free?
+ Unknown/No 
+
 ## 💬 LUIS AI Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

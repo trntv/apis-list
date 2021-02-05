@@ -12,6 +12,9 @@ Perform geospatial processing powered by Google's cloud infrastructure.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-earth-engine/google-earth-engine.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-earth-engine/google-earth-engine.yaml)
 
+## 🆓 Is Google Earth Engine free?
+ Unknown/No 
+
 ## 💬 Google Earth Engine Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

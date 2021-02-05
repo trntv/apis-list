@@ -12,6 +12,9 @@ Build scalable news feed for your app. MySocialApp is simple, powerful APIs are 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mysocialapp/mysocialapp.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mysocialapp/mysocialapp.yaml)
 
+## 🆓 Is MySocialApp free?
+ Unknown/No 
+
 ## 💬 MySocialApp Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ World's best fun translation tools via REST API. Yoda speak converter, pirate co
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/fun-translations-api/fun-translations-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/fun-translations-api/fun-translations-api.yaml)
 
+## 🆓 Is Fun Translations API free?
+ Unknown/No 
+
 ## 💬 Fun Translations API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

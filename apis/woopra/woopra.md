@@ -11,6 +11,9 @@ No hours sank into aggregating and cleaning data. No complex SQL queries require
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/woopra/woopra.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/woopra/woopra.yaml)
 
+## 🆓 Is Woopra free?
+ Unknown/No 
+
 ## 💬 Woopra Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -10,6 +10,9 @@ Sell and buy music related merchandise. Join the millions of music lovers who us
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/reverb/reverb.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/reverb/reverb.yaml)
 
+## 🆓 Is Reverb free?
+ Unknown/No 
+
 ## 💬 Reverb Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

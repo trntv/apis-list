@@ -12,6 +12,9 @@ Cryptocurrencies price API, prices denoted in USD, EUR, CNY, GBP, RUB
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/worldcoinindex/worldcoinindex.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/worldcoinindex/worldcoinindex.yaml)
 
+## 🆓 Is WorldCoinIndex free?
+ Unknown/No 
+
 ## 💬 WorldCoinIndex Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

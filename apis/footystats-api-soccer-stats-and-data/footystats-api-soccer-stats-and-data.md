@@ -10,6 +10,9 @@ Affordable Soccer Stats API for making football predictions. Includes stats such
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/footystats-api-soccer-stats-and-data/footystats-api-soccer-stats-and-data.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/footystats-api-soccer-stats-and-data/footystats-api-soccer-stats-and-data.yaml)
 
+## 🆓 Is Footystats Api - Soccer Stats & Data free?
+ Unknown/No 
+
 ## 💬 Footystats Api - Soccer Stats & Data Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

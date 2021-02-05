@@ -12,6 +12,9 @@ Generates Lorem Ipsum text
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lorem-text/lorem-text.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lorem-text/lorem-text.yaml)
 
+## 🆓 Is Lorem Text free?
+ Unknown/No 
+
 ## 💬 Lorem Text Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

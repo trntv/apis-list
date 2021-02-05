@@ -10,6 +10,9 @@ What's this API for? This API is for fetching data from NASA's APOD website - a 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nasa-apod-unofficial-api/nasa-apod-unofficial-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nasa-apod-unofficial-api/nasa-apod-unofficial-api.yaml)
 
+## 🆓 Is NASA APOD (unofficial API) free?
+ Unknown/No 
+
 ## 💬 NASA APOD (unofficial API) Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

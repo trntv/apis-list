@@ -2,7 +2,7 @@ name: SecurityTrails
 slug: securitytrails
 categories:
     - Security
-    - Finance & Economics
+    - Validation & Verification
 description: SecurityTrails currently offers three different products that can help you enrich your data, search for information, and find relevant security information for organizations in no time
 is_free: false
 type: REST

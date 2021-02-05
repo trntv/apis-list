@@ -12,6 +12,9 @@ izi.TRAVEL is ready to spread all local stories globally. Every day numerous con
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/izi/izi.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/izi/izi.yaml)
 
+## 🆓 Is Izi free?
+ Unknown/No 
+
 ## 💬 Izi Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

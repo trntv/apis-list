@@ -12,6 +12,9 @@ Easily Convert URLs / Webpages or HTML to PDF in any Programming Language or on 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pdfmyurl/pdfmyurl.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pdfmyurl/pdfmyurl.yaml)
 
+## 🆓 Is PDFmyURL free?
+ Unknown/No 
+
 ## 💬 PDFmyURL Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

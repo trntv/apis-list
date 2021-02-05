@@ -10,6 +10,9 @@ Project that provides bike sharing data for apps, research and projects to use.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/city-bikes/city-bikes.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/city-bikes/city-bikes.yaml)
 
+## 🆓 Is City Bikes free?
+ Unknown/No 
+
 ## 💬 City Bikes Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

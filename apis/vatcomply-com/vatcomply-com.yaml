@@ -2,7 +2,8 @@ name: VATComply.com
 slug: vatcomply-com
 categories:
     - Finance & Economics
-description: Rate. VAT validation The VAT validation endpoint allows you to check whether a VAT number is valid. If the VAT number is valid, it returns information about the company with the countries VAT rates
+    - Validation & Verification
+description: VAT Number Validation API, Geolocation API, Exchange rates API
 is_free: false
 type: REST
 is_active: true

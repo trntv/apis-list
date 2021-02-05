@@ -10,6 +10,9 @@ Get NASA data, including imagery, list of asteroids based on their closest appro
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nasa/nasa.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nasa/nasa.yaml)
 
+## 🆓 Is NASA free?
+ Unknown/No 
+
 ## 💬 NASA Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -10,6 +10,9 @@ CircleCI API is a full-featured RESTful API that allows you to access all inform
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/circleci/circleci.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/circleci/circleci.yaml)
 
+## 🆓 Is CircleCI free?
+ Unknown/No 
+
 ## 💬 CircleCI Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

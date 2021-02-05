@@ -12,6 +12,9 @@ Access all stocks discounted cash flow statements, market price, stock markets n
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/financial-modeling-prep/financial-modeling-prep.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/financial-modeling-prep/financial-modeling-prep.yaml)
 
+## 🆓 Is Financial Modeling Prep free?
+ Unknown/No 
+
 ## 💬 Financial Modeling Prep Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -10,6 +10,9 @@ Marketing API Marketing APIs are a collection of Graph API endpoints that can be
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/facebook-marketing-api/facebook-marketing-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/facebook-marketing-api/facebook-marketing-api.yaml)
 
+## 🆓 Is Facebook Marketing API free?
+ Unknown/No 
+
 ## 💬 Facebook Marketing API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

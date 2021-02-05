@@ -16,6 +16,9 @@ World Bank APIs provide access to various types of data and databases:
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/world-bank/world-bank.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/world-bank/world-bank.yaml)
 
+## 🆓 Is World Bank free?
+ Unknown/No 
+
 ## 💬 World Bank Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

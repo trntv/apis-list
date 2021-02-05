@@ -12,6 +12,9 @@ Web Service allows you to search the Internet for images
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yahoo-image-search-api/yahoo-image-search-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yahoo-image-search-api/yahoo-image-search-api.yaml)
 
+## 🆓 Is Yahoo Image Search API free?
+ Unknown/No 
+
 ## 💬 Yahoo Image Search API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

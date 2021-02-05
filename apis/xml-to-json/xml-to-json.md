@@ -10,6 +10,9 @@ Integration developer utility APIs. By API Name [Default] By API Provider [ Synt
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/xml-to-json/xml-to-json.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/xml-to-json/xml-to-json.yaml)
 
+## 🆓 Is Xml To Json free?
+ Unknown/No 
+
 ## 💬 Xml To Json Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

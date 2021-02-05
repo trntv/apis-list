@@ -12,6 +12,9 @@ FavQs allows you to collect, discover, and share your favorite quotes.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/favqs/favqs.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/favqs/favqs.yaml)
 
+## 🆓 Is FavQs free?
+ Unknown/No 
+
 ## 💬 FavQs Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

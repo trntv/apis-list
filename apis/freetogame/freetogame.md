@@ -10,6 +10,9 @@ Free-to-play games database API. Free-To-Play Games Database API Create using th
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/freetogame/freetogame.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/freetogame/freetogame.yaml)
 
+## 🆓 Is FreeToGame free?
+ Unknown/No 
+
 ## 💬 FreeToGame Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

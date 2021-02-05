@@ -14,6 +14,9 @@ The Evident Proof API allows developers to access and integrate the functionalit
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/evident-proof/evident-proof.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/evident-proof/evident-proof.yaml)
 
+## 🆓 Is Evident Proof free?
+ Unknown/No 
+
 ## 💬 Evident Proof Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

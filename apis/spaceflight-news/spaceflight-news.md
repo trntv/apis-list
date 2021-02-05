@@ -12,6 +12,9 @@ The Spaceflight News API lets you add space related news to your apps
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/spaceflight-news/spaceflight-news.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/spaceflight-news/spaceflight-news.yaml)
 
+## 🆓 Is Spaceflight News free?
+ Unknown/No 
+
 ## 💬 Spaceflight News Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

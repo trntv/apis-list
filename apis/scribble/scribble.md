@@ -10,6 +10,9 @@ This service is an easy way to draw and share maps. The Scribble Maps API is a c
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/scribble/scribble.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/scribble/scribble.yaml)
 
+## 🆓 Is Scribble free?
+ Unknown/No 
+
 ## 💬 Scribble Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

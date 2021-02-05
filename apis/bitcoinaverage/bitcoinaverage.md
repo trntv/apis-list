@@ -10,6 +10,9 @@ The world's best and longest running Cryptocurrency price API provider. These AP
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bitcoinaverage/bitcoinaverage.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bitcoinaverage/bitcoinaverage.yaml)
 
+## 🆓 Is BitcoinAverage free?
+ Unknown/No 
+
 ## 💬 BitcoinAverage Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

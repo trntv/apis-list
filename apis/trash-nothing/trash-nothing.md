@@ -12,6 +12,9 @@ Developer API trash nothing! provides a REST API which allows developers to buil
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/trash-nothing/trash-nothing.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/trash-nothing/trash-nothing.yaml)
 
+## 🆓 Is Trash Nothing free?
+ Unknown/No 
+
 ## 💬 Trash Nothing Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

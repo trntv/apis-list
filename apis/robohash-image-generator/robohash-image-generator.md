@@ -12,6 +12,9 @@ Generates cool looking robot image for any text
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/robohash-image-generator/robohash-image-generator.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/robohash-image-generator/robohash-image-generator.yaml)
 
+## 🆓 Is Robohash Image Generator free?
+ Unknown/No 
+
 ## 💬 Robohash Image Generator Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

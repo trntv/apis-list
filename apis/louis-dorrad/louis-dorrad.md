@@ -12,6 +12,9 @@ Google’s product is quite similar to Amazon’s but it’s actually. Amazon Ma
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/louis-dorrad/louis-dorrad.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/louis-dorrad/louis-dorrad.yaml)
 
+## 🆓 Is Louis Dorrad free?
+ Unknown/No 
+
 ## 💬 Louis Dorrad Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

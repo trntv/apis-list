@@ -12,6 +12,9 @@ Collaborative chatbot software. Recast.AI provides an NLP API for text analysis 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/recast-ai/recast-ai.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/recast-ai/recast-ai.yaml)
 
+## 🆓 Is Recast.AI free?
+ Unknown/No 
+
 ## 💬 Recast.AI Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

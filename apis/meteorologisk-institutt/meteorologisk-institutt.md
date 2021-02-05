@@ -10,6 +10,9 @@ A. Q. Available products: LegendMeani. Introduction This is version 3 of the MET
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/meteorologisk-institutt/meteorologisk-institutt.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/meteorologisk-institutt/meteorologisk-institutt.yaml)
 
+## 🆓 Is Meteorologisk Institutt free?
+ Unknown/No 
+
 ## 💬 Meteorologisk Institutt Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

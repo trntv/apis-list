@@ -10,6 +10,9 @@ Information on campaign donations in federal elections
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/fec/fec.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/fec/fec.yaml)
 
+## 🆓 Is FEC free?
+ Unknown/No 
+
 ## 💬 FEC Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

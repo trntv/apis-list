@@ -294,6 +294,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Coinbase](https://github.com/apis-list/apis-list/blob/main/apis/coinbase/coinbase.md) - Coinbase’s API makes it easy to integrate bitcoin, bitcoin cash, litecoin and ethereum into both new and existing applications.
 - [Coinbase Pro](https://github.com/apis-list/apis-list/blob/main/apis/coinbase-pro/coinbase-pro.md) - Trading APIs require authentication and provide access to placing orders and other account information
 - [CoinDesk](https://github.com/apis-list/apis-list/blob/main/apis/coindesk/coindesk.md) - Bitcoin Price Index
+- [Coingecko.com](https://github.com/apis-list/apis-list/blob/main/apis/coingecko-com/coingecko-com.md) - Free, comprehensive cryptocurrency API
 - [Coinigy](https://github.com/apis-list/apis-list/blob/main/apis/coinigy/coinigy.md) - Interact with Coinigy Accounts and Exchange Accounts Directly
 - [CoinLayer](https://github.com/apis-list/apis-list/blob/main/apis/coinlayer/coinlayer.md) - Powerful cryptocurrency rates JSON API delivering real-time crypto exchange rate and conversion data for more than 25 exchanges and 385 coins worldwide
 - [Coinlib](https://github.com/apis-list/apis-list/blob/main/apis/coinlib/coinlib.md) - Coinlib - Crypto Prices, Charts, Lists & Crypto Market News
@@ -304,6 +305,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Crypto Monitor Api](https://github.com/apis-list/apis-list/blob/main/apis/crypto-monitor-api/crypto-monitor-api.md) - The Crypto monitor API provides bots that show savings in cryptocurrencies
 - [CryptoCompare](https://github.com/apis-list/apis-list/blob/main/apis/cryptocompare/cryptocompare.md) - Cryptocurrencies Comparison
 - [Cryptonator](https://github.com/apis-list/apis-list/blob/main/apis/cryptonator/cryptonator.md) - Prices are updated every 30 seconds, covering 300+ cryptocurrencies across 42 exchanges
+- [CurrencyScoop.com](https://github.com/apis-list/apis-list/blob/main/apis/currencyscoop-com/currencyscoop-com.md) - Real-time and historical currency rates JSON API
 - [Exchange Rates API](https://github.com/apis-list/apis-list/blob/main/apis/exchange-rates-api/exchange-rates-api.md) - The most popular place to securely buy, store, and trade Bitcoin, Ethereum, and other top cryptocurrencies
 - [Gemini](https://github.com/apis-list/apis-list/blob/main/apis/gemini/gemini.md) - Public REST APIs provide market data such as: current order book recent trading activity trade history
 - [Hybrix](https://github.com/apis-list/apis-list/blob/main/apis/hybrix/hybrix.md) - The API is an open source multi ledger API, that allows developers to build multi-blockchain and multi-ledger solutions on 26+ blockchains
@@ -366,7 +368,6 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Localytics](https://github.com/apis-list/apis-list/blob/main/apis/localytics/localytics.md) - Analytics Concepts In order to use an analytics API to its maximum potential, it is useful to agree on terminology
 - [MailboxValidator](https://github.com/apis-list/apis-list/blob/main/apis/mailboxvalidator/mailboxvalidator.md) - MailboxValidator provides single email validation API that checks if an email address is valid and exists
 - [markerapi](https://github.com/apis-list/apis-list/blob/main/apis/markerapi/markerapi.md) - Trademark search API to search the US trademarks database (USPTO) based on a search string
-- [Mercury](https://github.com/apis-list/apis-list/blob/main/apis/mercury/mercury.md) - Mercury Web Parser turns web articles into structured content reliably and easily
 - [Ontraport](https://github.com/apis-list/apis-list/blob/main/apis/ontraport/ontraport.md) - Marketing automation
 - [OpenCorporates](https://github.com/apis-list/apis-list/blob/main/apis/opencorporates/opencorporates.md) - World's largest open database of companies
 - [Postmark](https://github.com/apis-list/apis-list/blob/main/apis/postmark/postmark.md) - No bulk
@@ -511,7 +512,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Reverb](https://github.com/apis-list/apis-list/blob/main/apis/reverb/reverb.md) - Sell and buy music related merchandise
 - [Shippo](https://github.com/apis-list/apis-list/blob/main/apis/shippo/shippo.md) - Find the best shipping rates, integrate with e-commerce platforms, print shipping labels, track package delivery, and verify addresses with either our shipping API or web app
 - [Square](https://github.com/apis-list/apis-list/blob/main/apis/square/square.md) - Square provides support and tools for you to build apps for today’s business needs
-- [Stripe](https://github.com/apis-list/apis-list/blob/main/apis/stripe/stripe.md) - Complete reference documentation for the Stripe API
+- [Stripe](https://github.com/apis-list/apis-list/blob/main/apis/stripe/stripe.md) - Stripe's API
 - [Trash Nothing](https://github.com/apis-list/apis-list/blob/main/apis/trash-nothing/trash-nothing.md) - Developer API trash nothing! provides a REST API which allows developers to build apps on top of the trash nothing platform (with thousands of new posts every day and millions of users from around)
 - [Treopim Api](https://github.com/apis-list/apis-list/blob/main/apis/treopim-api/treopim-api.md) - AtroPIM is a free, modern, open source, GPLv3 licensed, web-based, feature-rich and configurable PIM solution of the new generation
 - [Uber](https://github.com/apis-list/apis-list/blob/main/apis/uber/uber.md) - Discover how the Uber API can easily enhance your app’s user experience and take your innovation further with a wide range of new capabilities
@@ -661,7 +662,6 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Freelancer Api](https://github.com/apis-list/apis-list/blob/main/apis/freelancer-api/freelancer-api.md) - It can be used to set up a food delivery network, crowdsource the price for a local repair job, plug into a large pool of translators and more
 - [Html2pdf.App](https://github.com/apis-list/apis-list/blob/main/apis/html2pdf-app/html2pdf-app.md) - Free Html to Pdf online generator.
 - [Intellexer](https://github.com/apis-list/apis-list/blob/main/apis/intellexer/intellexer.md) - Processing (NLP) Service including sentiment analysis, content extraction, and language detection
-- [Mercury](https://github.com/apis-list/apis-list/blob/main/apis/mercury/mercury.md) - Mercury Web Parser turns web articles into structured content reliably and easily
 - [Microsoft Graph](https://github.com/apis-list/apis-list/blob/main/apis/microsoft-graph/microsoft-graph.md) - Find out how you can use the Microsoft Graph API to connect to the data that drives productivity - mail, calendar, contacts, documents, directory, devices, and more
 - [Notepad Api - Simplenotes](https://github.com/apis-list/apis-list/blob/main/apis/notepad-api-simplenotes/notepad-api-simplenotes.md) - Share the notes with everyone you want
 - [pdflayer](https://github.com/apis-list/apis-list/blob/main/apis/pdflayer/pdflayer.md) - Free, powerful HTML to PDF API supporting both URL and raw HTML conversion
@@ -840,9 +840,8 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Afex](https://github.com/apis-list/apis-list/blob/main/apis/afex/afex.md) - Send payments to recipients all over the world 24/7 with secure and flexible online platform
 - [Barchart OnDemand](https://github.com/apis-list/apis-list/blob/main/apis/barchart-ondemand/barchart-ondemand.md) - Free Market Data APIs for Stock, futures and forex quotes, and historical data
 - [Bunq Api](https://github.com/apis-list/apis-list/blob/main/apis/bunq-api/bunq-api.md) - Open RESTful bank API that lets you work with bank cards, accounts, payments, transactions, attachments, and more!
-- [Coingecko.com](https://github.com/apis-list/apis-list/blob/main/apis/coingecko-com/coingecko-com.md) - Free, comprehensive cryptocurrency API
 - [Consumer Financial Protection Bureau](https://github.com/apis-list/apis-list/blob/main/apis/consumer-financial-protection-bureau/consumer-financial-protection-bureau.md) - Financial services consumer complaint data
-- [CurrencyLayer.com](https://github.com/apis-list/apis-list/blob/main/apis/currencylayer-com/currencylayer-com.md) - Documentation, code and integration guides for the currencylayer JSON API - reliable and accurate JSON exchange rates for 168 world currencies and metals
+- [CurrencyLayer.com](https://github.com/apis-list/apis-list/blob/main/apis/currencylayer-com/currencylayer-com.md) - Currencylayer provides a simple REST API with real-time and historical exchange rates for 168 world currencies, delivering currency pairs in universally usable JSON format
 - [CurrencyScoop.com](https://github.com/apis-list/apis-list/blob/main/apis/currencyscoop-com/currencyscoop-com.md) - Real-time and historical currency rates JSON API
 - [Currencystack](https://github.com/apis-list/apis-list/blob/main/apis/currencystack/currencystack.md) - Real-time exchange rates for 154 world currencies provided in JSON format and works for any programming environment
 - [Czech National Bank](https://github.com/apis-list/apis-list/blob/main/apis/czech-national-bank/czech-national-bank.md) - A collection of exchange rates
@@ -854,7 +853,6 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [IEX Trading](https://github.com/apis-list/apis-list/blob/main/apis/iex/iex.md) - Free Stocks and Market Data
 - [IEX Cloud](https://github.com/apis-list/apis-list/blob/main/apis/iex-cloud/iex-cloud.md) - IEX Cloud is a financial data infrastructure platform that connects developers and financial data creators
 - [Louis Dorrad](https://github.com/apis-list/apis-list/blob/main/apis/louis-dorrad/louis-dorrad.md) - Google’s product is quite similar to Amazon’s but it’s actually
-- [Mercury](https://github.com/apis-list/apis-list/blob/main/apis/mercury/mercury.md) - Mercury Web Parser turns web articles into structured content reliably and easily
 - [Music Machinery](https://github.com/apis-list/apis-list/blob/main/apis/music-machinery/music-machinery.md) - Here’s a categorized list of all the Music APIs
 - [NewStack](https://github.com/apis-list/apis-list/blob/main/apis/newstack/newstack.md) - Vendors offer a variety of methods and capabilities that allow devices to talk to each other and cloud/Web-based services
 - [OpenCorporates](https://github.com/apis-list/apis-list/blob/main/apis/opencorporates/opencorporates.md) - World's largest open database of companies
@@ -863,19 +861,18 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Plaid](https://github.com/apis-list/apis-list/blob/main/apis/plaid/plaid.md) - Plaid helps companies build fintech solutions by making it easy, safe and reliable for people to connect their financial data to apps and services
 - [Portfolio Optimizer](https://github.com/apis-list/apis-list/blob/main/apis/portfolio-optimizer/portfolio-optimizer.md) - API for investment portfolio optimization
 - [Quandl](https://github.com/apis-list/apis-list/blob/main/apis/quandl/quandl.md) - The source for financial, economic, and alternative datasets, serving investment professionals
-- [ratesapi.io](https://github.com/apis-list/apis-list/blob/main/apis/ratesapi-io/ratesapi-io.md) - Free foreign currency exchange rates and currency conversion
+- [ratesapi.io](https://github.com/apis-list/apis-list/blob/main/apis/ratesapi-io/ratesapi-io.md) - Free currency exchange rates and currency conversion
 - [Razorpay IFSC](https://github.com/apis-list/apis-list/blob/main/apis/razorpay-ifsc/razorpay-ifsc.md) - An API to query IFSC codes
-- [Routingnumbers.Info](https://github.com/apis-list/apis-list/blob/main/apis/routingnumbers-info/routingnumbers-info.md) - json Coming soon: Map of routing numbers for a given query
+- [Routingnumbers.Info](https://github.com/apis-list/apis-list/blob/main/apis/routingnumbers-info/routingnumbers-info.md) - API for ACH/NACHA Bank Routing Numbers
 - [Russian Central Bank](https://github.com/apis-list/apis-list/blob/main/apis/russian-federation/russian-federation.md) - Central bank of Russian Federation
-- [SecurityTrails](https://github.com/apis-list/apis-list/blob/main/apis/securitytrails/securitytrails.md) - SecurityTrails currently offers three different products that can help you enrich your data, search for information, and find relevant security information for organizations in no time
 - [Stock News API](https://github.com/apis-list/apis-list/blob/main/apis/stock-news-api/stock-news-api.md) - Get the latest stock news from the best news sources
-- [Stripe](https://github.com/apis-list/apis-list/blob/main/apis/stripe/stripe.md) - Complete reference documentation for the Stripe API
-- [Tradier](https://github.com/apis-list/apis-list/blob/main/apis/tradier/tradier.md) - Tradier's technology platform - an innovative set of fully hosted APIs, modules and 'out of the box' tools built to serve developers, providers and investors
-- [VATComply.com](https://github.com/apis-list/apis-list/blob/main/apis/vatcomply-com/vatcomply-com.md) - Rate
+- [Stripe](https://github.com/apis-list/apis-list/blob/main/apis/stripe/stripe.md) - Stripe's API
+- [Tradier](https://github.com/apis-list/apis-list/blob/main/apis/tradier/tradier.md) - Set of fully hosted APIs, modules and 'out of the box' tools built to serve developers, providers and investors
+- [VATComply.com](https://github.com/apis-list/apis-list/blob/main/apis/vatcomply-com/vatcomply-com.md) - VAT Number Validation API, Geolocation API, Exchange rates API
 - [vatlayer](https://github.com/apis-list/apis-list/blob/main/apis/vatlayer/vatlayer.md) - Free and HTTPS secured JSON API offering instant VAT number validation, reliable EU VAT rates and VAT compliant price calculations for developers & businesses
 - [World Bank](https://github.com/apis-list/apis-list/blob/main/apis/world-bank/world-bank.md) - World Bank APIs.
 - [World Trading Data](https://github.com/apis-list/apis-list/blob/main/apis/world-trading-data/world-trading-data.md) - World Trading Data is a worldwide market data provider, for example provide a stock name and dates and get trading data for those
-- [YNAB](https://github.com/apis-list/apis-list/blob/main/apis/ynab/ynab.md) - Introduction Hello Developers Welcome to the YNAB API! (If you aren't a developer or you have no idea what an "API" is and you just want to sign in to your YNAB account, you can do that here
+- [YNAB](https://github.com/apis-list/apis-list/blob/main/apis/ynab/ynab.md) - YNAB API
 - [You Need A Budget](https://github.com/apis-list/apis-list/blob/main/apis/you-need-a-budget/you-need-a-budget.md) - Introduction Hello Developers Welcome to the YNAB API! (If you aren't a developer or you have no idea what an "API" is and you just want to sign in to your YNAB account, you can do that here
 
  ### Food & Drinks 🍹
@@ -1457,7 +1454,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Picatic](https://github.com/apis-list/apis-list/blob/main/apis/picatic/picatic.md) - Sell tickets directly from your app or website
 - [Plaid](https://github.com/apis-list/apis-list/blob/main/apis/plaid/plaid.md) - Plaid helps companies build fintech solutions by making it easy, safe and reliable for people to connect their financial data to apps and services
 - [Square](https://github.com/apis-list/apis-list/blob/main/apis/square/square.md) - Square provides support and tools for you to build apps for today’s business needs
-- [Stripe](https://github.com/apis-list/apis-list/blob/main/apis/stripe/stripe.md) - Complete reference documentation for the Stripe API
+- [Stripe](https://github.com/apis-list/apis-list/blob/main/apis/stripe/stripe.md) - Stripe's API
 - [Telleroo](https://github.com/apis-list/apis-list/blob/main/apis/telleroo/telleroo.md) - Instant Bulk Payments for your Finance Team
 
  ### Point of Interest 🍺
@@ -1579,6 +1576,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [import.io](https://github.com/apis-list/apis-list/blob/main/apis/import-io/import-io.md) - Import
 - [Intellexer](https://github.com/apis-list/apis-list/blob/main/apis/intellexer/intellexer.md) - Processing (NLP) Service including sentiment analysis, content extraction, and language detection
 - [LinkPreview](https://github.com/apis-list/apis-list/blob/main/apis/linkpreview/linkpreview.md) - Preview Web links with our reliable API service
+- [Mercury](https://github.com/apis-list/apis-list/blob/main/apis/mercury/mercury.md) - Mercury Web Parser turns web articles into structured content reliably and easily
 - [Microlink](https://github.com/apis-list/apis-list/blob/main/apis/microlink/microlink.md) - Generate PDF from any website
 - [MLScrape](https://github.com/apis-list/apis-list/blob/main/apis/mlscrape/mlscrape.md) - MLScrape is an API that allows you to scrape data from any online shop without having to maintain your own web scraper - simply send the product URL to our API
 - [pdflayer](https://github.com/apis-list/apis-list/blob/main/apis/pdflayer/pdflayer.md) - Free, powerful HTML to PDF API supporting both URL and raw HTML conversion
@@ -1968,8 +1966,10 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Phone Number Validation](https://github.com/apis-list/apis-list/blob/main/apis/phone-number-validation/phone-number-validation.md) - Check phone number validity, location and timezones
 - [Phone Validator](https://github.com/apis-list/apis-list/blob/main/apis/phone-validator/phone-validator.md) - Free phone number validation provided by PhoneValidator
 - [PurgoMalum](https://github.com/apis-list/apis-list/blob/main/apis/purgomalum/purgomalum.md) - PurgoMalum is a simple, free, RESTful web service for filtering and removing content of profanity, obscenity and other unwanted text
+- [SecurityTrails](https://github.com/apis-list/apis-list/blob/main/apis/securitytrails/securitytrails.md) - SecurityTrails currently offers three different products that can help you enrich your data, search for information, and find relevant security information for organizations in no time
 - [US Street Address](https://github.com/apis-list/apis-list/blob/main/apis/us-street-address/us-street-address.md) - Verify one or more addresses using the SmartyStreets US Street Address API
 - [Validator.Pizza](https://github.com/apis-list/apis-list/blob/main/apis/validator-pizza/validator-pizza.md) - pizza is made to prevent users to register to websites with a disposable email address
+- [VATComply.com](https://github.com/apis-list/apis-list/blob/main/apis/vatcomply-com/vatcomply-com.md) - VAT Number Validation API, Geolocation API, Exchange rates API
 - [vatlayer](https://github.com/apis-list/apis-list/blob/main/apis/vatlayer/vatlayer.md) - Free and HTTPS secured JSON API offering instant VAT number validation, reliable EU VAT rates and VAT compliant price calculations for developers & businesses
 - [WebPurify](https://github.com/apis-list/apis-list/blob/main/apis/webpurify/webpurify.md) - Provides live image moderation by humans or AI-based image moderation service
 - [Whitepages Pro](https://github.com/apis-list/apis-list/blob/main/apis/whitepages-pro/whitepages-pro.md) - Global Identity Verification API

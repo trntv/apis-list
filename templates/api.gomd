@@ -18,6 +18,9 @@ No links added. [Add link ➕](https://github.com/apis-list/apis-list/edit/main/
 **URI**: {{ if  .API.Specification.Url }}{{ .API.Specification.Url }}{{ else }}N/A - [Add ➕]({{ .EditorLink }}){{ end }}  
 **Version**: {{ if  .API.Specification.Version }}{{ .API.Specification.Version }}{{ else }}N/A - [Add ➕]({{ .EditorLink }}){{ end }}
 
+## 🆓 Is {{ .API.Name }} free?
+{{ if .API.IsFree }} Yes! {{ else }} Unknown/No {{ end }}
+
 ## 💬 {{ .API.Name }} Discussion:
 {{ if .API.DiscussionURL -}}[Discuss {{ .API.Name }}](.API.DiscussionURL){{else}}Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new){{ end }}
 

@@ -10,6 +10,9 @@ Bratabase API Widget. Hello Developers! Welcome to the developers corner of Brat
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bratabase/bratabase.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bratabase/bratabase.yaml)
 
+## 🆓 Is Bratabase free?
+ Unknown/No 
+
 ## 💬 Bratabase Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

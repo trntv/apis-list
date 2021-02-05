@@ -10,6 +10,9 @@ Providing a places search that can be searched by hierarchical list of categorie
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/foursquare-venue/foursquare-venue.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/foursquare-venue/foursquare-venue.yaml)
 
+## 🆓 Is Foursquare Venue free?
+ Unknown/No 
+
 ## 💬 Foursquare Venue Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

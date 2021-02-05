@@ -10,6 +10,9 @@ urlscan. io - Website scanner for suspicious and malicious URLs. urlscan
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/urlscan-io/urlscan-io.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/urlscan-io/urlscan-io.yaml)
 
+## 🆓 Is URLScan.io free?
+ Unknown/No 
+
 ## 💬 URLScan.io Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

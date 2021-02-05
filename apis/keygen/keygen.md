@@ -12,6 +12,9 @@ Keygen is a dead-simple software licensing API built for developers of desktop a
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/keygen/keygen.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/keygen/keygen.yaml)
 
+## 🆓 Is Keygen free?
+ Unknown/No 
+
 ## 💬 Keygen Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

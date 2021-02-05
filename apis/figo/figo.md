@@ -12,6 +12,9 @@ Banking API that allows you to extract financial data such as transaction histor
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/figo/figo.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/figo/figo.yaml)
 
+## 🆓 Is Figo free?
+ Unknown/No 
+
 ## 💬 Figo Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

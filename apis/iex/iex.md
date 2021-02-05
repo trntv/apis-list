@@ -12,6 +12,9 @@ Free Stocks and Market Data. IEX Cloud is a financial data infrastructure platfo
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/iex/iex.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/iex/iex.yaml)
 
+## 🆓 Is IEX Trading free?
+ Unknown/No 
+
 ## 💬 IEX Trading Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

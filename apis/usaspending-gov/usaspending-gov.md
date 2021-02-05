@@ -10,6 +10,9 @@ Announcement The USASpending API is in V2. V1 endpoints are currently Deprecated
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/usaspending-gov/usaspending-gov.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/usaspending-gov/usaspending-gov.yaml)
 
+## 🆓 Is USAspending.gov free?
+ Unknown/No 
+
 ## 💬 USAspending.gov Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

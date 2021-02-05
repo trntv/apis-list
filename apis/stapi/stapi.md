@@ -10,6 +10,9 @@ Information on all things Star Trek
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/stapi/stapi.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/stapi/stapi.yaml)
 
+## 🆓 Is STAPI free?
+ Unknown/No 
+
 ## 💬 STAPI Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

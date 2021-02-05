@@ -12,6 +12,9 @@ Makes it easy to search for things on eBay
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shopping-com-api/shopping-com-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shopping-com-api/shopping-com-api.yaml)
 
+## 🆓 Is Shopping.Com API free?
+ Unknown/No 
+
 ## 💬 Shopping.Com API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

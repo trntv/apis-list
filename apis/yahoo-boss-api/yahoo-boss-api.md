@@ -12,6 +12,9 @@ Join the 200,000 developers using Yahoo tools to build their app businesses. Off
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yahoo-boss-api/yahoo-boss-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yahoo-boss-api/yahoo-boss-api.yaml)
 
+## 🆓 Is Yahoo BOSS API free?
+ Unknown/No 
+
 ## 💬 Yahoo BOSS API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

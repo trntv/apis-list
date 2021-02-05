@@ -10,6 +10,9 @@ You can GET to retrieve your text and you can POST to change your stored text. S
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/restwords/restwords.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/restwords/restwords.yaml)
 
+## 🆓 Is Restwords free?
+ Unknown/No 
+
 ## 💬 Restwords Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

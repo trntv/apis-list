@@ -12,6 +12,9 @@ Welcome to Teleport for Developers! Largest and most up-to-date quality of life 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/teleport/teleport.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/teleport/teleport.yaml)
 
+## 🆓 Is Teleport free?
+ Unknown/No 
+
 ## 💬 Teleport Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

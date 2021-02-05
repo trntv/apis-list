@@ -10,6 +10,9 @@ Generate fake data and get by REST API requests. Collection of completely free A
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/faker-api/faker-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/faker-api/faker-api.yaml)
 
+## 🆓 Is Faker API free?
+ Unknown/No 
+
 ## 💬 Faker API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

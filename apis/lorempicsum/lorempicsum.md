@@ -10,6 +10,9 @@ Generate placeholder pictures. The web host lorempicsum. com does not exist
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lorempicsum/lorempicsum.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lorempicsum/lorempicsum.yaml)
 
+## 🆓 Is Lorempicsum free?
+ Unknown/No 
+
 ## 💬 Lorempicsum Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

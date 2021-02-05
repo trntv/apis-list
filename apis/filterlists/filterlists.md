@@ -10,6 +10,9 @@ By Collin M. Barrett. FilterLists is the independent, comprehensive directory of
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/filterlists/filterlists.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/filterlists/filterlists.yaml)
 
+## 🆓 Is FilterLists free?
+ Unknown/No 
+
 ## 💬 FilterLists Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -10,6 +10,9 @@ The API is an open source multi ledger API, that allows developers to build mult
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/hybrix/hybrix.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/hybrix/hybrix.yaml)
 
+## 🆓 Is Hybrix free?
+ Unknown/No 
+
 ## 💬 Hybrix Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

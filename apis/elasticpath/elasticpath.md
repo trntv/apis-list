@@ -10,6 +10,9 @@ Provides the full commerce solution to bring your unique, revenue-driving experi
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/elasticpath/elasticpath.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/elasticpath/elasticpath.yaml)
 
+## 🆓 Is Elasticpath free?
+ Unknown/No 
+
 ## 💬 Elasticpath Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

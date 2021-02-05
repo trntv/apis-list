@@ -10,6 +10,9 @@ Get the very latest ads and data with Adzuna's API. Get job ads to display on yo
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/adzuna/adzuna.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/adzuna/adzuna.yaml)
 
+## 🆓 Is Adzuna free?
+ Unknown/No 
+
 ## 💬 Adzuna Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

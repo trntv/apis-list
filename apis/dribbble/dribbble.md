@@ -12,6 +12,9 @@ Build and integrate tools and applications to help members publish their design 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dribbble/dribbble.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dribbble/dribbble.yaml)
 
+## 🆓 Is Dribbble free?
+ Unknown/No 
+
 ## 💬 Dribbble Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

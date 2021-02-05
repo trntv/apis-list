@@ -12,6 +12,9 @@ RunKeeper's web-based HealthGraph API presents Health Graph data, and provides i
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/healthgraph/healthgraph.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/healthgraph/healthgraph.yaml)
 
+## 🆓 Is HealthGraph free?
+ Unknown/No 
+
 ## 💬 HealthGraph Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

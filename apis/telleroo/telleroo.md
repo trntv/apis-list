@@ -10,6 +10,9 @@ Instant Bulk Payments for your Finance Team. Finance teams use Telleroo’s Bulk
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/telleroo/telleroo.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/telleroo/telleroo.yaml)
 
+## 🆓 Is Telleroo free?
+ Unknown/No 
+
 ## 💬 Telleroo Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

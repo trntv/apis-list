@@ -12,6 +12,9 @@ Trawlingweb structures, stores and indexes millions of web pages per day in vert
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/trawlingweb/trawlingweb.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/trawlingweb/trawlingweb.yaml)
 
+## 🆓 Is Trawlingweb free?
+ Unknown/No 
+
 ## 💬 Trawlingweb Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

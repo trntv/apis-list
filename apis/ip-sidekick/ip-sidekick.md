@@ -10,6 +10,9 @@ IP Sidekick is an API that returns information about an IP address. You can use 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ip-sidekick/ip-sidekick.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ip-sidekick/ip-sidekick.yaml)
 
+## 🆓 Is IP Sidekick free?
+ Unknown/No 
+
 ## 💬 IP Sidekick Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

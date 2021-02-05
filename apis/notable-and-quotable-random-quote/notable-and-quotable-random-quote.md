@@ -10,6 +10,9 @@ Gets you a random quote from famous movies in XML,SOAP format
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/notable-and-quotable-random-quote/notable-and-quotable-random-quote.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/notable-and-quotable-random-quote/notable-and-quotable-random-quote.yaml)
 
+## 🆓 Is Notable And Quotable Random Quote free?
+ Unknown/No 
+
 ## 💬 Notable And Quotable Random Quote Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

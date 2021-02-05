@@ -10,6 +10,9 @@ Steam WEB API created to provide programmatic access to Steam data and services
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/steam/steam.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/steam/steam.yaml)
 
+## 🆓 Is Steam Web API free?
+ Unknown/No 
+
 ## 💬 Steam Web API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

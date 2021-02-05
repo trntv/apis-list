@@ -12,6 +12,9 @@ Millions of Viber users call, text, and send photos to each other, worldwide - f
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/viber/viber.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/viber/viber.yaml)
 
+## 🆓 Is Viber free?
+ Unknown/No 
+
 ## 💬 Viber Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

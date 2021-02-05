@@ -10,6 +10,9 @@ A comprehensive resource of dictionary and thesaurus data powered by Merriam-Web
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/merriam-webster-dictionary-api/merriam-webster-dictionary-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/merriam-webster-dictionary-api/merriam-webster-dictionary-api.yaml)
 
+## 🆓 Is Merriam-Webster Dictionary API free?
+ Unknown/No 
+
 ## 💬 Merriam-Webster Dictionary API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

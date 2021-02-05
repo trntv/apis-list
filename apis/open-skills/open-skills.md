@@ -12,6 +12,9 @@ Skills API. Contribute to workforce-data-initiative/skills-api development by cr
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-skills/open-skills.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-skills/open-skills.yaml)
 
+## 🆓 Is Open Skills free?
+ Unknown/No 
+
 ## 💬 Open Skills Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

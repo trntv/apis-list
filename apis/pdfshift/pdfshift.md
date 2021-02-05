@@ -13,6 +13,9 @@ The service is focused to help developers set up the conversion quickly and focu
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pdfshift/pdfshift.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pdfshift/pdfshift.yaml)
 
+## 🆓 Is Pdfshift  free?
+ Unknown/No 
+
 ## 💬 Pdfshift  Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

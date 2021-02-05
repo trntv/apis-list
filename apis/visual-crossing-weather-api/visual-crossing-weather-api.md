@@ -10,6 +10,9 @@ Weather API for businesses & data science. 0001/record. com/weather-data) inside
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/visual-crossing-weather-api/visual-crossing-weather-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/visual-crossing-weather-api/visual-crossing-weather-api.yaml)
 
+## 🆓 Is Visual Crossing Weather Api free?
+ Unknown/No 
+
 ## 💬 Visual Crossing Weather Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

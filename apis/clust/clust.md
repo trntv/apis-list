@@ -12,6 +12,9 @@ The best way to gather anyone’s documents, directly from your app & without ha
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/clust/clust.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/clust/clust.yaml)
 
+## 🆓 Is Clust free?
+ Unknown/No 
+
 ## 💬 Clust Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

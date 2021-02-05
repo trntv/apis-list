@@ -10,6 +10,9 @@ Attention Users 04/08/19 - Added support for eight digit IMDb IDs. 01/20/19 - Su
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-movie-database/open-movie-database.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-movie-database/open-movie-database.yaml)
 
+## 🆓 Is Open Movie Database free?
+ Unknown/No 
+
 ## 💬 Open Movie Database Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

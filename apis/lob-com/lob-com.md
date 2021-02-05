@@ -12,6 +12,9 @@ Lob provides direct mail and address verification APIs that allow businesses to 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lob-com/lob-com.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lob-com/lob-com.yaml)
 
+## 🆓 Is Lob.com free?
+ Unknown/No 
+
 ## 💬 Lob.com Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

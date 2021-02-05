@@ -12,6 +12,9 @@ Generates Hipster Ipsum text
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/hipster-ipsum/hipster-ipsum.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/hipster-ipsum/hipster-ipsum.yaml)
 
+## 🆓 Is Hipster Ipsum free?
+ Unknown/No 
+
 ## 💬 Hipster Ipsum Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

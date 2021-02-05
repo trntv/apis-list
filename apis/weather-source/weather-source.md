@@ -12,6 +12,9 @@ Powerful Weather API built for systems that demand speed, reliability and heavy 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/weather-source/weather-source.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/weather-source/weather-source.yaml)
 
+## 🆓 Is Weather Source free?
+ Unknown/No 
+
 ## 💬 Weather Source Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

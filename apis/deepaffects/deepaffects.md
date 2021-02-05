@@ -10,6 +10,9 @@ DeepAffects enables developers to analyze conversational audio by applying power
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/deepaffects/deepaffects.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/deepaffects/deepaffects.yaml)
 
+## 🆓 Is Deepaffects free?
+ Unknown/No 
+
 ## 💬 Deepaffects Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

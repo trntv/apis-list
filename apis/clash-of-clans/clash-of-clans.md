@@ -12,6 +12,9 @@ Access Clan Search, Global and Local Leaderboards, Clan and Player Profiles and 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/clash-of-clans/clash-of-clans.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/clash-of-clans/clash-of-clans.yaml)
 
+## 🆓 Is Clash of Clans free?
+ Unknown/No 
+
 ## 💬 Clash of Clans Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

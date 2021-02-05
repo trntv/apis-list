@@ -12,6 +12,9 @@ Search, validate and reverse geocode postcodes. An open sourced project by Ideal
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/postcodes-io/postcodes-io.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/postcodes-io/postcodes-io.yaml)
 
+## 🆓 Is Postcodes.io free?
+ Unknown/No 
+
 ## 💬 Postcodes.io Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

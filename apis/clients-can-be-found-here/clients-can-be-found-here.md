@@ -12,6 +12,9 @@ Google Maps has 35 repositories available. Follow their code on GitHub
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/clients-can-be-found-here/clients-can-be-found-here.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/clients-can-be-found-here/clients-can-be-found-here.yaml)
 
+## 🆓 Is Clients can be found here. free?
+ Unknown/No 
+
 ## 💬 Clients can be found here. Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

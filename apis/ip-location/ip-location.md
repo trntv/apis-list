@@ -10,6 +10,9 @@ Free IP Geolocation API - lookup any IP address. Free IP Geolocation API - looku
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ip-location/ip-location.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ip-location/ip-location.yaml)
 
+## 🆓 Is IP Location free?
+ Unknown/No 
+
 ## 💬 IP Location Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

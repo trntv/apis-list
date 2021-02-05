@@ -10,6 +10,9 @@ Eventful is a leading digital media company connecting consumers with entertainm
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/eventful-api/eventful-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/eventful-api/eventful-api.yaml)
 
+## 🆓 Is Eventful API free?
+ Unknown/No 
+
 ## 💬 Eventful API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

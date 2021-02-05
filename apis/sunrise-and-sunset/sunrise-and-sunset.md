@@ -10,6 +10,9 @@ Sunset and sunrise times API. Free API that provides sunset and sunrise times fo
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/sunrise-and-sunset/sunrise-and-sunset.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/sunrise-and-sunset/sunrise-and-sunset.yaml)
 
+## 🆓 Is Sunrise and Sunset free?
+ Unknown/No 
+
 ## 💬 Sunrise and Sunset Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

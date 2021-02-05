@@ -12,6 +12,9 @@ Harry Potter API Documentation Response Formats Authentication All Routes Sortin
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/harry-potter/harry-potter.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/harry-potter/harry-potter.yaml)
 
+## 🆓 Is Harry Potter free?
+ Unknown/No 
+
 ## 💬 Harry Potter Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

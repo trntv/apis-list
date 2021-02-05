@@ -10,6 +10,9 @@ Trusted source for IP address information, handling 20 billion IP geolocation AP
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ip-address-details/ip-address-details.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ip-address-details/ip-address-details.yaml)
 
+## 🆓 Is IP Address Details free?
+ Unknown/No 
+
 ## 💬 IP Address Details Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

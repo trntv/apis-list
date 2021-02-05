@@ -12,6 +12,9 @@ API for IP and Email Intelligence & Phone Number Validation. API for email valid
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/antideo/antideo.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/antideo/antideo.yaml)
 
+## 🆓 Is Antideo free?
+ Unknown/No 
+
 ## 💬 Antideo Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

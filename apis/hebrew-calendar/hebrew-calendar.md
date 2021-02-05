@@ -10,6 +10,9 @@ You can embed Hebcal. com content directly onto your synagogue website with our.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/hebrew-calendar/hebrew-calendar.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/hebrew-calendar/hebrew-calendar.yaml)
 
+## 🆓 Is Hebrew Calendar free?
+ Unknown/No 
+
 ## 💬 Hebrew Calendar Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

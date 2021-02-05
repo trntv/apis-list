@@ -12,6 +12,9 @@ Philips Hue, smart home lighting
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/philips-hue/philips-hue.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/philips-hue/philips-hue.yaml)
 
+## 🆓 Is Philips Hue free?
+ Unknown/No 
+
 ## 💬 Philips Hue Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

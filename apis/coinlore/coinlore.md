@@ -12,6 +12,9 @@ Coinlore presents public free crypto tick data api
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/coinlore/coinlore.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/coinlore/coinlore.yaml)
 
+## 🆓 Is Coinlore free?
+ Unknown/No 
+
 ## 💬 Coinlore Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

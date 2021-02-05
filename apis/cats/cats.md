@@ -10,6 +10,9 @@ A public service API all about Cats, free to use when making your fancy new App,
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cats/cats.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cats/cats.yaml)
 
+## 🆓 Is Cats free?
+ Unknown/No 
+
 ## 💬 Cats Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

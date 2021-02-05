@@ -12,6 +12,9 @@ Whether you have one input or billions, you are only steps away from using AI to
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/clarifai/clarifai.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/clarifai/clarifai.yaml)
 
+## 🆓 Is Clarifai free?
+ Unknown/No 
+
 ## 💬 Clarifai Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

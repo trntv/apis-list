@@ -12,6 +12,9 @@ Get a rank for any of 385 million domains. Visit Rank tells how popular and infl
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/visit-rank/visit-rank.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/visit-rank/visit-rank.yaml)
 
+## 🆓 Is Visit Rank free?
+ Unknown/No 
+
 ## 💬 Visit Rank Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

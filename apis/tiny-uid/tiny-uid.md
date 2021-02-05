@@ -10,6 +10,9 @@ API Documentation tinyuid. com exposes its data via an Application Programming I
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/tiny-uid/tiny-uid.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/tiny-uid/tiny-uid.yaml)
 
+## 🆓 Is Tiny.UID free?
+ Unknown/No 
+
 ## 💬 Tiny.UID Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

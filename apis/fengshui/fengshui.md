@@ -10,6 +10,9 @@ Let’s you enter your name and the name of your partner/lover/crush to find Lov
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/fengshui/fengshui.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/fengshui/fengshui.yaml)
 
+## 🆓 Is FengShui free?
+ Unknown/No 
+
 ## 💬 FengShui Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

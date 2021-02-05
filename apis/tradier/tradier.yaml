@@ -2,7 +2,7 @@ name: Tradier
 slug: tradier
 categories:
     - Finance & Economics
-description: Tradier's technology platform - an innovative set of fully hosted APIs, modules and 'out of the box' tools built to serve developers, providers and investors
+description: Set of fully hosted APIs, modules and 'out of the box' tools built to serve developers, providers and investors
 is_free: false
 type: REST
 is_active: true

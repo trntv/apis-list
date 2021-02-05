@@ -10,6 +10,9 @@ Exchange rates API is a free service for current and historical foreign exchange
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/exchangeratesapi-io/exchangeratesapi-io.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/exchangeratesapi-io/exchangeratesapi-io.yaml)
 
+## 🆓 Is ExchangeRatesAPI.io free?
+ Unknown/No 
+
 ## 💬 ExchangeRatesAPI.io Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ Get 100 of memes with Imgflip API, or add text/caption to memes directly from th
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/imgflip/imgflip.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/imgflip/imgflip.yaml)
 
+## 🆓 Is Imgflip free?
+ Unknown/No 
+
 ## 💬 Imgflip Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

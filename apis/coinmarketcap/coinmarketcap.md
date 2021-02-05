@@ -12,6 +12,9 @@ Cryptocurrencies Prices. Use CoinMarketCap's free crypto API to get the best, mo
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/coinmarketcap/coinmarketcap.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/coinmarketcap/coinmarketcap.yaml)
 
+## 🆓 Is CoinMarketCap free?
+ Unknown/No 
+
 ## 💬 CoinMarketCap Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

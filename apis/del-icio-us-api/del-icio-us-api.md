@@ -12,6 +12,9 @@ Keep, share, and discover the best of the Web using Delicious, the world's leadi
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/del-icio-us-api/del-icio-us-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/del-icio-us-api/del-icio-us-api.yaml)
 
+## 🆓 Is Del.Icio.Us API free?
+ Unknown/No 
+
 ## 💬 Del.Icio.Us API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

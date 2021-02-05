@@ -12,6 +12,9 @@ Eventbrite Python SDK. Contribute to eventbrite/eventbrite-sdk-python developmen
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/eventbrite/eventbrite.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/eventbrite/eventbrite.yaml)
 
+## 🆓 Is EventBrite free?
+ Unknown/No 
+
 ## 💬 EventBrite Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

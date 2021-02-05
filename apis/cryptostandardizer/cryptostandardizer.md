@@ -12,6 +12,9 @@ Standardize crypto coin symbols (eg. BTC, XBT) across 100+ exchanges.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cryptostandardizer/cryptostandardizer.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cryptostandardizer/cryptostandardizer.yaml)
 
+## 🆓 Is Cryptostandardizer free?
+ Unknown/No 
+
 ## 💬 Cryptostandardizer Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -10,6 +10,9 @@ A. callsign lookups. Look up information about United States ham radio callsigns
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/callook-info/callook-info.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/callook-info/callook-info.yaml)
 
+## 🆓 Is Callook.info free?
+ Unknown/No 
+
 ## 💬 Callook.info Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

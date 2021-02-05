@@ -10,6 +10,9 @@ Simple URL shortener. Supports custom short link ending. Our main portal for dev
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/is-gd/is-gd.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/is-gd/is-gd.yaml)
 
+## 🆓 Is Is.gd free?
+ Unknown/No 
+
 ## 💬 Is.gd Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

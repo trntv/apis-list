@@ -12,6 +12,9 @@ but for photos. Lorem Ipsum. Lorem Ipsum
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/unsplash/unsplash.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/unsplash/unsplash.yaml)
 
+## 🆓 Is Unsplash free?
+ Unknown/No 
+
 ## 💬 Unsplash Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

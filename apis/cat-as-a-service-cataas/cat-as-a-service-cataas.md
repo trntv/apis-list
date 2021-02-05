@@ -12,6 +12,9 @@ Cat as a service (CATAAS) is a REST API to spread peace and love (or not) thanks
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cat-as-a-service-cataas/cat-as-a-service-cataas.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cat-as-a-service-cataas/cat-as-a-service-cataas.yaml)
 
+## 🆓 Is Cat as a Service (CATAAS) free?
+ Unknown/No 
+
 ## 💬 Cat as a Service (CATAAS) Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

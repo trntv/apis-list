@@ -10,6 +10,9 @@ Catalog Vehicle Listing (vPIC) Application Programming Interface (API) provides 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nhtsa/nhtsa.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nhtsa/nhtsa.yaml)
 
+## 🆓 Is NHTSA free?
+ Unknown/No 
+
 ## 💬 NHTSA Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

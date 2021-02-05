@@ -10,6 +10,9 @@ General knowledge on every topic; query it all with natural language input. Easi
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wolfram-alpha/wolfram-alpha.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wolfram-alpha/wolfram-alpha.yaml)
 
+## 🆓 Is Wolfram|Alpha free?
+ Unknown/No 
+
 ## 💬 Wolfram|Alpha Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -10,6 +10,9 @@ The FEMA Flood Map API offers up-to-date FEMA flood zone maps and data that can 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/national-flood-data-us/national-flood-data-us.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/national-flood-data-us/national-flood-data-us.yaml)
 
+## 🆓 Is National Flood Data (US) free?
+ Unknown/No 
+
 ## 💬 National Flood Data (US) Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

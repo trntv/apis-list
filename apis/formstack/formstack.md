@@ -10,6 +10,9 @@ The Formstack API allows users and 3rd-party applications to access Formstack re
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/formstack/formstack.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/formstack/formstack.yaml)
 
+## 🆓 Is Formstack free?
+ Unknown/No 
+
 ## 💬 Formstack Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

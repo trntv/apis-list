@@ -10,6 +10,9 @@ IPFS API. Upload files, pin hashes, and send pubsub messages using our proprieta
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/temporal/temporal.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/temporal/temporal.yaml)
 
+## 🆓 Is Temporal free?
+ Unknown/No 
+
 ## 💬 Temporal Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

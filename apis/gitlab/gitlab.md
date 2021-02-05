@@ -12,6 +12,9 @@ Access to GitLab's API. Documentation for GitLab Community Edition, GitLab Enter
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gitlab/gitlab.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gitlab/gitlab.yaml)
 
+## 🆓 Is GitLab free?
+ Unknown/No 
+
 ## 💬 GitLab Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

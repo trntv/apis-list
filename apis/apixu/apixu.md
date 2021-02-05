@@ -10,6 +10,9 @@ Get current weather information, historical data and forecasts using weatherstac
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/apixu/apixu.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/apixu/apixu.yaml)
 
+## 🆓 Is APIXU free?
+ Unknown/No 
+
 ## 💬 APIXU Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

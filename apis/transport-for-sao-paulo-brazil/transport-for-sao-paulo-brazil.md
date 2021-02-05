@@ -10,6 +10,9 @@ Bus lines in the city of São Paulo
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-sao-paulo-brazil/transport-for-sao-paulo-brazil.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-sao-paulo-brazil/transport-for-sao-paulo-brazil.yaml)
 
+## 🆓 Is Transportation in Sao Paulo, Brazil free?
+ Unknown/No 
+
 ## 💬 Transportation in Sao Paulo, Brazil Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

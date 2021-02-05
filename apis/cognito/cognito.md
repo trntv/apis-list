@@ -12,6 +12,9 @@ Can take a customer's cellphone number and return name, address history, full SS
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cognito/cognito.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cognito/cognito.yaml)
 
+## 🆓 Is Cognito free?
+ Unknown/No 
+
 ## 💬 Cognito Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

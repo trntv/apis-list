@@ -12,6 +12,9 @@ Like job and skill match etc. The API is growing every day thanks to the mycru.i
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/job-titles-and-professionals-skills-api/job-titles-and-professionals-skills-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/job-titles-and-professionals-skills-api/job-titles-and-professionals-skills-api.yaml)
 
+## 🆓 Is Job Titles And Professionals Skills Api free?
+ Unknown/No 
+
 ## 💬 Job Titles And Professionals Skills Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

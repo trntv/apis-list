@@ -10,6 +10,9 @@ Maintains a custom datastore that queries your data in a fast, scalable, and rel
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mixpanel/mixpanel.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mixpanel/mixpanel.yaml)
 
+## 🆓 Is MixPanel free?
+ Unknown/No 
+
 ## 💬 MixPanel Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

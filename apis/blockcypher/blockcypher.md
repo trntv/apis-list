@@ -10,6 +10,9 @@ Build blockchain applications easily with our web APIs and callbacks. High throu
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/blockcypher/blockcypher.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/blockcypher/blockcypher.yaml)
 
+## 🆓 Is BlockCypher free?
+ Unknown/No 
+
 ## 💬 BlockCypher Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

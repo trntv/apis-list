@@ -12,6 +12,9 @@ Hypixel API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/hypixel/hypixel.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/hypixel/hypixel.yaml)
 
+## 🆓 Is Hypixel free?
+ Unknown/No 
+
 ## 💬 Hypixel Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

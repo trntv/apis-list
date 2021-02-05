@@ -10,6 +10,9 @@ Biography. From both the universe, and more. Images. Get all SuperHeroes and Vil
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/superhero-api/superhero-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/superhero-api/superhero-api.yaml)
 
+## 🆓 Is Superhero Api free?
+ Unknown/No 
+
 ## 💬 Superhero Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

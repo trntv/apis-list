@@ -12,6 +12,9 @@ Enigma Businesses provides the most accurate and reliable information on small a
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/enigma-public/enigma-public.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/enigma-public/enigma-public.yaml)
 
+## 🆓 Is Enigma Public free?
+ Unknown/No 
+
 ## 💬 Enigma Public Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

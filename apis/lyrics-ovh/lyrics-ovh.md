@@ -10,6 +10,9 @@ A place where APIs are kept. A place where APIs are kept
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lyrics-ovh/lyrics-ovh.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lyrics-ovh/lyrics-ovh.yaml)
 
+## 🆓 Is Lyrics.ovh free?
+ Unknown/No 
+
 ## 💬 Lyrics.ovh Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

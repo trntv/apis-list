@@ -10,6 +10,9 @@ FIFA women's world cup 2019 matches and group stage results
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/fifa-womens-world-cup-2019/fifa-womens-world-cup-2019.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/fifa-womens-world-cup-2019/fifa-womens-world-cup-2019.yaml)
 
+## 🆓 Is FIFA women's world cup 2019 free?
+ Unknown/No 
+
 ## 💬 FIFA women's world cup 2019 Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

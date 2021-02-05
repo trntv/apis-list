@@ -10,6 +10,9 @@ AP Media API Get all your AP multimedia content in one place Access the content 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/associated-press/associated-press.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/associated-press/associated-press.yaml)
 
+## 🆓 Is Associated Press free?
+ Unknown/No 
+
 ## 💬 Associated Press Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

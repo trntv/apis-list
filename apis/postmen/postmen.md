@@ -12,6 +12,9 @@ Download Postmen's JSON schema. Learn how to generate Postmen API key and make r
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/postmen/postmen.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/postmen/postmen.yaml)
 
+## 🆓 Is Postmen free?
+ Unknown/No 
+
 ## 💬 Postmen Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ Scryfall is a powerful Magic: The Gathering card search
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/scryfall/scryfall.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/scryfall/scryfall.yaml)
 
+## 🆓 Is Scryfall free?
+ Unknown/No 
+
 ## 💬 Scryfall Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -18,6 +18,9 @@ ScrapingBee is a simple API that does all the above for you. It is truly the mos
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/scrapingbee/scrapingbee.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/scrapingbee/scrapingbee.yaml)
 
+## 🆓 Is Scrapingbee free?
+ Unknown/No 
+
 ## 💬 Scrapingbee Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ This platform acts as a layer on top of third-party APIs, using code snippets to
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/temboo-sdk/temboo-sdk.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/temboo-sdk/temboo-sdk.yaml)
 
+## 🆓 Is Temboo SDK free?
+ Unknown/No 
+
 ## 💬 Temboo SDK Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

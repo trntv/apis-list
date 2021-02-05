@@ -10,6 +10,9 @@ Netherland's post codes search
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/postcodedata-nl/postcodedata-nl.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/postcodedata-nl/postcodedata-nl.yaml)
 
+## 🆓 Is PostcodeData.nl free?
+ Unknown/No 
+
 ## 💬 PostcodeData.nl Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ Grabs email addresses from a URL
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/scrape-website-email/scrape-website-email.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/scrape-website-email/scrape-website-email.yaml)
 
+## 🆓 Is Scrape Website Email free?
+ Unknown/No 
+
 ## 💬 Scrape Website Email Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

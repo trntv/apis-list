@@ -12,6 +12,9 @@ Contribute to IcaliaLabs/sepomex development by creating an account on GitHub. A
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mexico/mexico.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mexico/mexico.yaml)
 
+## 🆓 Is Mexico free?
+ Unknown/No 
+
 ## 💬 Mexico Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

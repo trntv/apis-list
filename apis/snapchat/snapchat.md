@@ -12,6 +12,9 @@ Snapchat’s private API. Contribute to mgp25/SC-API development by creating an 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/snapchat/snapchat.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/snapchat/snapchat.yaml)
 
+## 🆓 Is Snapchat free?
+ Unknown/No 
+
 ## 💬 Snapchat Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

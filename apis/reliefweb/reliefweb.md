@@ -13,6 +13,9 @@ and much much more
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/reliefweb/reliefweb.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/reliefweb/reliefweb.yaml)
 
+## 🆓 Is Reliefweb free?
+ Unknown/No 
+
 ## 💬 Reliefweb Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

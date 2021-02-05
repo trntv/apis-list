@@ -12,6 +12,9 @@ Wide range of APIs available through JavaScript, iOS, Android, or REST services.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/here-maps-api/here-maps-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/here-maps-api/here-maps-api.yaml)
 
+## 🆓 Is HERE Maps API free?
+ Unknown/No 
+
 ## 💬 HERE Maps API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

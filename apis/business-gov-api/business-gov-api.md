@@ -10,6 +10,9 @@ Create the Uber for anything, a small business API for on-demand fulfillment.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/business-gov-api/business-gov-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/business-gov-api/business-gov-api.yaml)
 
+## 🆓 Is Business.Gov API free?
+ Unknown/No 
+
 ## 💬 Business.Gov API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -10,6 +10,9 @@ Our aim is to make it easier for. Signup for a single API key and use it across 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/data-gov/data-gov.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/data-gov/data-gov.yaml)
 
+## 🆓 Is Data.gov free?
+ Unknown/No 
+
 ## 💬 Data.gov Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

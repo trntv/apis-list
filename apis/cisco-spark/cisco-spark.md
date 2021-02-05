@@ -12,6 +12,9 @@ Build the future of business collaboration with Webex!
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cisco-spark/cisco-spark.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cisco-spark/cisco-spark.yaml)
 
+## 🆓 Is Cisco Spark free?
+ Unknown/No 
+
 ## 💬 Cisco Spark Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

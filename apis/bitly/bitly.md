@@ -10,6 +10,9 @@ Access to Bitly’s API. The Bitly API Bitly is the most widely trusted link man
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bitly/bitly.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bitly/bitly.yaml)
 
+## 🆓 Is Bitly free?
+ Unknown/No 
+
 ## 💬 Bitly Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

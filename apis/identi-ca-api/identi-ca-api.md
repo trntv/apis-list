@@ -12,6 +12,9 @@ It pumps your life in and out of your friends, family and colleagues. Runs pump.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/identi-ca-api/identi-ca-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/identi-ca-api/identi-ca-api.yaml)
 
+## 🆓 Is Identi.Ca API free?
+ Unknown/No 
+
 ## 💬 Identi.Ca API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

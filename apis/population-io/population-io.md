@@ -12,6 +12,9 @@ Open demographic data such as population tables, population rank and life expect
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/population-io/population-io.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/population-io/population-io.yaml)
 
+## 🆓 Is Population.Io free?
+ Unknown/No 
+
 ## 💬 Population.Io Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

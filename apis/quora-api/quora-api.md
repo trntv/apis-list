@@ -10,6 +10,9 @@ Connect the people who have knowledge to the people who need it, to bring togeth
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/quora-api/quora-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/quora-api/quora-api.yaml)
 
+## 🆓 Is Quora API free?
+ Unknown/No 
+
 ## 💬 Quora API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

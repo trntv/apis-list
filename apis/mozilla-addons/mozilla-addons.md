@@ -10,6 +10,9 @@ Firefox Addons API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mozilla-addons/mozilla-addons.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mozilla-addons/mozilla-addons.yaml)
 
+## 🆓 Is Mozilla Addons free?
+ Unknown/No 
+
 ## 💬 Mozilla Addons Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

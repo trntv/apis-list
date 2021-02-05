@@ -12,6 +12,9 @@ The CTA's Developer Center offers a variety of data feeds that allow anyone to d
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-chicago-us/transport-for-chicago-us.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-chicago-us/transport-for-chicago-us.yaml)
 
+## 🆓 Is Transportation in Chicago, USA free?
+ Unknown/No 
+
 ## 💬 Transportation in Chicago, USA Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ Todo Lists
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wunderlist/wunderlist.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wunderlist/wunderlist.yaml)
 
+## 🆓 Is Wunderlist free?
+ Unknown/No 
+
 ## 💬 Wunderlist Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ A simple API to request a user's real-time approval on any device or platform vi
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/approveapi/approveapi.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/approveapi/approveapi.yaml)
 
+## 🆓 Is Approveapi free?
+ Unknown/No 
+
 ## 💬 Approveapi Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

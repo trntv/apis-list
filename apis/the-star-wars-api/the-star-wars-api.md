@@ -12,6 +12,9 @@ All the Star Wars data you've ever wanted: Planets, Spaceships, Vehicles, People
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-star-wars-api/the-star-wars-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-star-wars-api/the-star-wars-api.yaml)
 
+## 🆓 Is The Star Wars Api free?
+ Unknown/No 
+
 ## 💬 The Star Wars Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -10,6 +10,9 @@ Simple URL shortener. Supports custom short link ending. Our main portal for dev
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/v-gd/v-gd.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/v-gd/v-gd.yaml)
 
+## 🆓 Is V.gd free?
+ Unknown/No 
+
 ## 💬 V.gd Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

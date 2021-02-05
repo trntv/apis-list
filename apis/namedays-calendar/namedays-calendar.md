@@ -10,6 +10,9 @@ API returns namedays for various countries
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/namedays-calendar/namedays-calendar.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/namedays-calendar/namedays-calendar.yaml)
 
+## 🆓 Is Namedays Calendar free?
+ Unknown/No 
+
 ## 💬 Namedays Calendar Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

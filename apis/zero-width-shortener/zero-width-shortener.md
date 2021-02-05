@@ -12,6 +12,9 @@ Shorten URLs with invisible spaces. URL shortener that shortens URLs using space
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/zero-width-shortener/zero-width-shortener.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/zero-width-shortener/zero-width-shortener.yaml)
 
+## 🆓 Is Zero Width Shortener free?
+ Unknown/No 
+
 ## 💬 Zero Width Shortener Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -10,6 +10,9 @@ API exists to let users of the DigitalOcean status page programmatically access 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/digitalocean-status/digitalocean-status.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/digitalocean-status/digitalocean-status.yaml)
 
+## 🆓 Is DigitalOcean Status free?
+ Unknown/No 
+
 ## 💬 DigitalOcean Status Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

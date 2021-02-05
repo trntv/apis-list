@@ -10,6 +10,9 @@ API for accessing stored pictures and other files stored by users of Verizon Clo
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/verizon-cloud/verizon-cloud.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/verizon-cloud/verizon-cloud.yaml)
 
+## 🆓 Is Verizon Cloud free?
+ Unknown/No 
+
 ## 💬 Verizon Cloud Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

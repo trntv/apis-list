@@ -12,6 +12,9 @@ The source for financial, economic, and alternative datasets, serving investment
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/quandl/quandl.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/quandl/quandl.yaml)
 
+## 🆓 Is Quandl free?
+ Unknown/No 
+
 ## 💬 Quandl Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

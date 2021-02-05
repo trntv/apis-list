@@ -10,6 +10,9 @@ Manage your 3D assets. Distribute 3D & AR experiences. Collaborate with others. 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/sketchfab-api/sketchfab-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/sketchfab-api/sketchfab-api.yaml)
 
+## 🆓 Is Sketchfab API free?
+ Unknown/No 
+
 ## 💬 Sketchfab API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

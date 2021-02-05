@@ -10,6 +10,9 @@ The Bitfinex API is designed to allow access to all the features of the Bitfinex
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bitfinex/bitfinex.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bitfinex/bitfinex.yaml)
 
+## 🆓 Is Bitfinex free?
+ Unknown/No 
+
 ## 💬 Bitfinex Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

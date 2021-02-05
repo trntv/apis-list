@@ -10,6 +10,9 @@ Next Big Sound helps artists and their teams use Pandora to understand performan
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/next-big-sound/next-big-sound.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/next-big-sound/next-big-sound.yaml)
 
+## 🆓 Is Next Big Sound API free?
+ Unknown/No 
+
 ## 💬 Next Big Sound API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

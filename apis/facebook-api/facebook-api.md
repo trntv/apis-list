@@ -10,6 +10,9 @@ Helps developers build, grow and monetize their business. Code to connect people
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/facebook-api/facebook-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/facebook-api/facebook-api.yaml)
 
+## 🆓 Is Facebook API free?
+ Unknown/No 
+
 ## 💬 Facebook API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

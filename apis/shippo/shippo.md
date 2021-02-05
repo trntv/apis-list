@@ -12,6 +12,9 @@ Find the best shipping rates, integrate with e-commerce platforms, print shippin
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shippo/shippo.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shippo/shippo.yaml)
 
+## 🆓 Is Shippo free?
+ Unknown/No 
+
 ## 💬 Shippo Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

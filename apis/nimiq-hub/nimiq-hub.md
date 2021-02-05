@@ -10,6 +10,9 @@ Nimiq aims to be the best performing and easiest-to-use decentralized payment pr
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nimiq-hub/nimiq-hub.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nimiq-hub/nimiq-hub.yaml)
 
+## 🆓 Is Nimiq Hub free?
+ Unknown/No 
+
 ## 💬 Nimiq Hub Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

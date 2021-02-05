@@ -10,6 +10,9 @@ Free news search API. Easily search and filter news feeds to integrate them into
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/news-feed-search/news-feed-search.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/news-feed-search/news-feed-search.yaml)
 
+## 🆓 Is News Feed Search free?
+ Unknown/No 
+
 ## 💬 News Feed Search Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -11,6 +11,9 @@ Convert files and content between file formats. Convert data between file format
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cloudmersive-document-and-data-conversion/cloudmersive-document-and-data-conversion.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cloudmersive-document-and-data-conversion/cloudmersive-document-and-data-conversion.yaml)
 
+## 🆓 Is Cloudmersive Document and Data Conversion free?
+ Unknown/No 
+
 ## 💬 Cloudmersive Document and Data Conversion Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

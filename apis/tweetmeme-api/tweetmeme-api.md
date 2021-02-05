@@ -12,6 +12,9 @@ Provides third-party integration with the TweetMeme web service, used to track p
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/tweetmeme-api/tweetmeme-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/tweetmeme-api/tweetmeme-api.yaml)
 
+## 🆓 Is Tweetmeme API free?
+ Unknown/No 
+
 ## 💬 Tweetmeme API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

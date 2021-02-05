@@ -12,6 +12,9 @@ IP Address API free service provides country name, 2 symbol code and 3 symbol co
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ip-address-api/ip-address-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ip-address-api/ip-address-api.yaml)
 
+## 🆓 Is Ip Address Api free?
+ Unknown/No 
+
 ## 💬 Ip Address Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

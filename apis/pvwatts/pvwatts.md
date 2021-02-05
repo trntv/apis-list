@@ -10,6 +10,9 @@ system_capacit. format Yes Type: string Default: None Options: json, xml The out
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pvwatts/pvwatts.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pvwatts/pvwatts.yaml)
 
+## 🆓 Is PVWatts free?
+ Unknown/No 
+
 ## 💬 PVWatts Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ SFederal Register 2.0 is the unofficial daily publication for rules, proposed ru
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/federal-register/federal-register.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/federal-register/federal-register.yaml)
 
+## 🆓 Is Federal Register free?
+ Unknown/No 
+
 ## 💬 Federal Register Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

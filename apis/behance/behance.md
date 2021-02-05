@@ -12,6 +12,9 @@ Behance is the world's largest creative network for showcasing and discovering c
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/behance/behance.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/behance/behance.yaml)
 
+## 🆓 Is Behance free?
+ Unknown/No 
+
 ## 💬 Behance Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

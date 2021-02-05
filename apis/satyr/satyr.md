@@ -12,6 +12,9 @@ Free powerful API for generating dummy images with unique features like delay, a
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/satyr/satyr.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/satyr/satyr.yaml)
 
+## 🆓 Is Satyr free?
+ Unknown/No 
+
 ## 💬 Satyr Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

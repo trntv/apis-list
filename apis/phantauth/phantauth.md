@@ -12,6 +12,9 @@ Random User Generator + OpenID Connect Provider. Like Lorem Ipsum, but for user 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/phantauth/phantauth.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/phantauth/phantauth.yaml)
 
+## 🆓 Is PhantAuth free?
+ Unknown/No 
+
 ## 💬 PhantAuth Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

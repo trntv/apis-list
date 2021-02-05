@@ -10,6 +10,9 @@ Scrape websites and get their content as plaintext
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/website-text-extraction/website-text-extraction.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/website-text-extraction/website-text-extraction.yaml)
 
+## 🆓 Is Website Text Extraction free?
+ Unknown/No 
+
 ## 💬 Website Text Extraction Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

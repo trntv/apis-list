@@ -10,6 +10,9 @@ The StackExchange API provides RESTful services to all the sites on the StackExc
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/stackexchange/stackexchange.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/stackexchange/stackexchange.yaml)
 
+## 🆓 Is StackExchange free?
+ Unknown/No 
+
 ## 💬 StackExchange Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

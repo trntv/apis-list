@@ -10,6 +10,9 @@ Flutrack is a system that detects in real time influenza symptoms, using Twitter
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/flutrack/flutrack.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/flutrack/flutrack.yaml)
 
+## 🆓 Is Flutrack free?
+ Unknown/No 
+
 ## 💬 Flutrack Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

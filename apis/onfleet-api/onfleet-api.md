@@ -10,6 +10,9 @@ Onfleet is the easiest way for businesses to manage and analyze their last-mile 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/onfleet-api/onfleet-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/onfleet-api/onfleet-api.yaml)
 
+## 🆓 Is Onfleet API free?
+ Unknown/No 
+
 ## 💬 Onfleet API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

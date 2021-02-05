@@ -12,6 +12,9 @@ Contribute to reddit-archive/reddit development by creating an account on GitHub
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/reddit/reddit.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/reddit/reddit.yaml)
 
+## 🆓 Is Reddit free?
+ Unknown/No 
+
 ## 💬 Reddit Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

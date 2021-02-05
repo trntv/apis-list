@@ -12,6 +12,9 @@ Measure, monetize, advertise and improve your apps with Yahoo tools. Join the 20
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yahoo-map-image-api/yahoo-map-image-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yahoo-map-image-api/yahoo-map-image-api.yaml)
 
+## 🆓 Is Yahoo Map Image API free?
+ Unknown/No 
+
 ## 💬 Yahoo Map Image API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

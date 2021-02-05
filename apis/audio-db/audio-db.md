@@ -12,6 +12,9 @@ with the Audio DB API, you can get albums, artist, specific tracks data , youtub
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/audio-db/audio-db.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/audio-db/audio-db.yaml)
 
+## 🆓 Is Audio Db free?
+ Unknown/No 
+
 ## 💬 Audio Db Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

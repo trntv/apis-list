@@ -10,6 +10,9 @@ Gives you a random quote per click.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/forismatic/forismatic.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/forismatic/forismatic.yaml)
 
+## 🆓 Is Forismatic free?
+ Unknown/No 
+
 ## 💬 Forismatic Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

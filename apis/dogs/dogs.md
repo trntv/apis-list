@@ -12,6 +12,9 @@ Over 20,000 images of dogs programmaticaly accessible by over 120 breeds. Image 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dogs/dogs.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dogs/dogs.yaml)
 
+## 🆓 Is Dogs free?
+ Unknown/No 
+
 ## 💬 Dogs Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

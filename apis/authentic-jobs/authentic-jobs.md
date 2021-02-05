@@ -10,6 +10,9 @@ Since 2005. Job board for designers, hackers and creative pros. The leading job 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/authentic-jobs/authentic-jobs.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/authentic-jobs/authentic-jobs.yaml)
 
+## 🆓 Is Authentic Jobs free?
+ Unknown/No 
+
 ## 💬 Authentic Jobs Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

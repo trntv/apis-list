@@ -12,6 +12,9 @@ Integrate your existing service into DroneDeploy and reach tens of thousands of 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dronedeploy/dronedeploy.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dronedeploy/dronedeploy.yaml)
 
+## 🆓 Is DroneDeploy free?
+ Unknown/No 
+
 ## 💬 DroneDeploy Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

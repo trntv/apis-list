@@ -10,6 +10,9 @@ Search, correlate, and download PCAP files, based on their behaviors and content
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/packettotal-api/packettotal-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/packettotal-api/packettotal-api.yaml)
 
+## 🆓 Is Packettotal Api free?
+ Unknown/No 
+
 ## 💬 Packettotal Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

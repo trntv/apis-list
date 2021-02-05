@@ -10,6 +10,9 @@ The open product database.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/datakick/datakick.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/datakick/datakick.yaml)
 
+## 🆓 Is Datakick free?
+ Unknown/No 
+
 ## 💬 Datakick Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

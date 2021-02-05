@@ -12,6 +12,9 @@ Free multilingual Encyclopedia.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wikipedia/wikipedia.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wikipedia/wikipedia.yaml)
 
+## 🆓 Is Wikipedia free?
+ Unknown/No 
+
 ## 💬 Wikipedia Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

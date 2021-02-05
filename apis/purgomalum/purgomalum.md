@@ -10,6 +10,9 @@ PurgoMalum is a simple, free, RESTful web service for filtering and removing con
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/purgomalum/purgomalum.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/purgomalum/purgomalum.yaml)
 
+## 🆓 Is PurgoMalum free?
+ Unknown/No 
+
 ## 💬 PurgoMalum Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

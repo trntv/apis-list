@@ -10,6 +10,9 @@ Use the links below to find out more about constructing request URLs, different 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gravatar/gravatar.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gravatar/gravatar.yaml)
 
+## 🆓 Is Gravatar free?
+ Unknown/No 
+
 ## 💬 Gravatar Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ Get abbreviations and meanings
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/abbreviation/abbreviation.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/abbreviation/abbreviation.yaml)
 
+## 🆓 Is Abbreviation free?
+ Unknown/No 
+
 ## 💬 Abbreviation Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

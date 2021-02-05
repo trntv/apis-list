@@ -10,6 +10,9 @@ Pro, Client HTTP/2 Support API. HTTP2. HTTP2
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/http2-pro/http2-pro.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/http2-pro/http2-pro.yaml)
 
+## 🆓 Is HTTP2.Pro free?
+ Unknown/No 
+
 ## 💬 HTTP2.Pro Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

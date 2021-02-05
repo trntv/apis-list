@@ -10,6 +10,9 @@ Generate audio versions of your articles. Create realistic voice overs for blogs
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/blogcast/blogcast.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/blogcast/blogcast.yaml)
 
+## 🆓 Is Blogcast free?
+ Unknown/No 
+
 ## 💬 Blogcast Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

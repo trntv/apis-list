@@ -12,6 +12,9 @@ Powerful cryptocurrency rates JSON API delivering real-time crypto exchange rate
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/coinlayer/coinlayer.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/coinlayer/coinlayer.yaml)
 
+## 🆓 Is CoinLayer free?
+ Unknown/No 
+
 ## 💬 CoinLayer Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

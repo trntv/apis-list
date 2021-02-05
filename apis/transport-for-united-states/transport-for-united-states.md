@@ -10,6 +10,9 @@ NextBus API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-united-states/transport-for-united-states.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-united-states/transport-for-united-states.yaml)
 
+## 🆓 Is Transportation in United States free?
+ Unknown/No 
+
 ## 💬 Transportation in United States Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

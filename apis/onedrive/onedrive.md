@@ -10,6 +10,9 @@ File storage & sharing
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/onedrive/onedrive.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/onedrive/onedrive.yaml)
 
+## 🆓 Is OneDrive free?
+ Unknown/No 
+
 ## 💬 OneDrive Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

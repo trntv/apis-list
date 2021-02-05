@@ -10,6 +10,9 @@ Data access is free upon registration, in order to enhanc. Welcome to EMEL’s o
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-lisbon-portugal/transport-for-lisbon-portugal.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-lisbon-portugal/transport-for-lisbon-portugal.yaml)
 
+## 🆓 Is Transportation in Lisbon, Portugal free?
+ Unknown/No 
+
 ## 💬 Transportation in Lisbon, Portugal Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

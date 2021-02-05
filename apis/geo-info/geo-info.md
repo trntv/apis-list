@@ -10,6 +10,9 @@ A simple free reverse geocoding API for turning coordinates into human readable 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/geo-info/geo-info.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/geo-info/geo-info.yaml)
 
+## 🆓 Is Geo Info free?
+ Unknown/No 
+
 ## 💬 Geo Info Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

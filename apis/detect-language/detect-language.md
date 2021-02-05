@@ -12,6 +12,9 @@ Detects 164 languages. Supports short texts, batch requests, JavaScript, Python,
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/detect-language/detect-language.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/detect-language/detect-language.yaml)
 
+## 🆓 Is Detect Language free?
+ Unknown/No 
+
 ## 💬 Detect Language Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

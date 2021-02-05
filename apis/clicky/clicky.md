@@ -12,6 +12,9 @@ Clicky Web Analytics is simply the best way to monitor, analyze, and react to yo
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/clicky/clicky.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/clicky/clicky.yaml)
 
+## 🆓 Is Clicky free?
+ Unknown/No 
+
 ## 💬 Clicky Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

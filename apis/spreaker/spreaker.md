@@ -12,6 +12,9 @@ Enables developers to read and write data to Spreaker. Get started with one of o
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/spreaker/spreaker.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/spreaker/spreaker.yaml)
 
+## 🆓 Is Spreaker free?
+ Unknown/No 
+
 ## 💬 Spreaker Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

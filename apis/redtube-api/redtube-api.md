@@ -10,6 +10,9 @@ The Redtube API. RedTube API Documentation Welcome to the RedTube API developer 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/redtube-api/redtube-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/redtube-api/redtube-api.yaml)
 
+## 🆓 Is Redtube Api free?
+ Unknown/No 
+
 ## 💬 Redtube Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

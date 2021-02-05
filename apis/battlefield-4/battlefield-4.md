@@ -12,6 +12,9 @@ Battlefield 4 Information. P-Stats Player Stats Network As of October 27, 2019 t
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/battlefield-4/battlefield-4.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/battlefield-4/battlefield-4.yaml)
 
+## 🆓 Is Battlefield 4 free?
+ Unknown/No 
+
 ## 💬 Battlefield 4 Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

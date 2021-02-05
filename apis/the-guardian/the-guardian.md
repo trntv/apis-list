@@ -10,6 +10,9 @@ All accessible with a single open platform key. Get Started. Access a huge range
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-guardian/the-guardian.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-guardian/the-guardian.yaml)
 
+## 🆓 Is The Guardian free?
+ Unknown/No 
+
 ## 💬 The Guardian Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

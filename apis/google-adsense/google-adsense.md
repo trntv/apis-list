@@ -12,6 +12,9 @@ Google AdSense provides a free, flexible way to earn money from your websites, m
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-adsense/google-adsense.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-adsense/google-adsense.yaml)
 
+## 🆓 Is Google AdSense free?
+ Unknown/No 
+
 ## 💬 Google AdSense Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

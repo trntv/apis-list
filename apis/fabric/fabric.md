@@ -12,6 +12,9 @@ A platform that helps your mobile team build better apps, understand your users,
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/fabric/fabric.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/fabric/fabric.yaml)
 
+## 🆓 Is Fabric free?
+ Unknown/No 
+
 ## 💬 Fabric Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

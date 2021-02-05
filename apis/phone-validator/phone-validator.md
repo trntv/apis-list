@@ -10,6 +10,9 @@ Free phone number validation provided by PhoneValidator. Check phone numbers to 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/phone-validator/phone-validator.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/phone-validator/phone-validator.yaml)
 
+## 🆓 Is Phone Validator free?
+ Unknown/No 
+
 ## 💬 Phone Validator Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

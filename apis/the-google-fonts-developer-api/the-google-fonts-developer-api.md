@@ -12,6 +12,9 @@ High-quality fonts to use on your web site
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-google-fonts-developer-api/the-google-fonts-developer-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-google-fonts-developer-api/the-google-fonts-developer-api.yaml)
 
+## 🆓 Is The Google Fonts Developer API. free?
+ Unknown/No 
+
 ## 💬 The Google Fonts Developer API. Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

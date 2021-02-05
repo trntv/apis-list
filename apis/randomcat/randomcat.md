@@ -10,6 +10,9 @@ Random cat image API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/randomcat/randomcat.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/randomcat/randomcat.yaml)
 
+## 🆓 Is RandomCat free?
+ Unknown/No 
+
 ## 💬 RandomCat Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

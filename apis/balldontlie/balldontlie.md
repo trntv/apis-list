@@ -10,6 +10,9 @@ Access NBA related data
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/balldontlie/balldontlie.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/balldontlie/balldontlie.yaml)
 
+## 🆓 Is balldontlie free?
+ Unknown/No 
+
 ## 💬 balldontlie Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

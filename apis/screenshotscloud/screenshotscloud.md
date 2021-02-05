@@ -12,6 +12,9 @@ With this screenshot API you can automate high quality real browser screenshots 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/screenshotscloud/screenshotscloud.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/screenshotscloud/screenshotscloud.yaml)
 
+## 🆓 Is Screenshotscloud free?
+ Unknown/No 
+
 ## 💬 Screenshotscloud Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

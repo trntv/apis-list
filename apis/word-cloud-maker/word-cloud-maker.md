@@ -12,6 +12,9 @@ Multi color and different sizes illustrate the frequency, and the “vibe” of 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/word-cloud-maker/word-cloud-maker.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/word-cloud-maker/word-cloud-maker.yaml)
 
+## 🆓 Is Word Cloud Maker free?
+ Unknown/No 
+
 ## 💬 Word Cloud Maker Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

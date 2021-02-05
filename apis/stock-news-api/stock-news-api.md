@@ -10,6 +10,9 @@ Get the latest stock news from the best news sources. Use this API to get releva
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/stock-news-api/stock-news-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/stock-news-api/stock-news-api.yaml)
 
+## 🆓 Is Stock News API free?
+ Unknown/No 
+
 ## 💬 Stock News API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

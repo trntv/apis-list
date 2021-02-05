@@ -10,6 +10,9 @@ This food API is free to use and can get you recipes, food details, food names ,
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-meal-db/the-meal-db.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-meal-db/the-meal-db.yaml)
 
+## 🆓 Is The Meal Db free?
+ Unknown/No 
+
 ## 💬 The Meal Db Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -10,6 +10,9 @@ A Taylor Swift REST API, written in Deno
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/taylor-rest/taylor-rest.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/taylor-rest/taylor-rest.yaml)
 
+## 🆓 Is taylor.rest free?
+ Unknown/No 
+
 ## 💬 taylor.rest Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

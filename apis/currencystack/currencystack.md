@@ -12,6 +12,9 @@ Real-time exchange rates for 154 world currencies provided in JSON format and wo
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/currencystack/currencystack.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/currencystack/currencystack.yaml)
 
+## 🆓 Is Currencystack free?
+ Unknown/No 
+
 ## 💬 Currencystack Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

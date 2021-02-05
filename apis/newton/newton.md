@@ -10,6 +10,9 @@ A really micro micro-service for advanced math
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/newton/newton.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/newton/newton.yaml)
 
+## 🆓 Is Newton free?
+ Unknown/No 
+
 ## 💬 Newton Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

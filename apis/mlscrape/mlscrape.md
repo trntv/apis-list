@@ -10,6 +10,9 @@ MLScrape is an API that allows you to scrape data from any online shop without h
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mlscrape/mlscrape.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mlscrape/mlscrape.yaml)
 
+## 🆓 Is MLScrape free?
+ Unknown/No 
+
 ## 💬 MLScrape Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -10,6 +10,9 @@ Free Market Data APIs for Stock, futures and forex quotes, and historical data.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/barchart-ondemand/barchart-ondemand.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/barchart-ondemand/barchart-ondemand.yaml)
 
+## 🆓 Is Barchart OnDemand free?
+ Unknown/No 
+
 ## 💬 Barchart OnDemand Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

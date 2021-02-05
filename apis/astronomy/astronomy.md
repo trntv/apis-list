@@ -10,6 +10,9 @@ Astronomy API provides timings for sunrise, sunset, moonrise, moonset, sun azimu
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/astronomy/astronomy.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/astronomy/astronomy.yaml)
 
+## 🆓 Is Astronomy free?
+ Unknown/No 
+
 ## 💬 Astronomy Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

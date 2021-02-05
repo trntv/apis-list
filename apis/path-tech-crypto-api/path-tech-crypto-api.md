@@ -12,6 +12,9 @@ Single interface to retrieve transactions across crypto exchanges and wallets
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/path-tech-crypto-api/path-tech-crypto-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/path-tech-crypto-api/path-tech-crypto-api.yaml)
 
+## 🆓 Is Path Tech Crypto API free?
+ Unknown/No 
+
 ## 💬 Path Tech Crypto API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

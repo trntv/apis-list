@@ -10,6 +10,9 @@ Simple and fast and free weather API from OpenWeatherMap. With it you have acces
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/openweathermap/openweathermap.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/openweathermap/openweathermap.yaml)
 
+## 🆓 Is OpenWeatherMap free?
+ Unknown/No 
+
 ## 💬 OpenWeatherMap Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

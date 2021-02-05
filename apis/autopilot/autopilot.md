@@ -10,6 +10,9 @@ The Autopilot API documentation, examples and blog for Autopilot REST API. Marke
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/autopilot/autopilot.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/autopilot/autopilot.yaml)
 
+## 🆓 Is Autopilot free?
+ Unknown/No 
+
 ## 💬 Autopilot Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

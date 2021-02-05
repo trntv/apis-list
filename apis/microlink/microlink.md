@@ -12,6 +12,9 @@ Generate PDF from any website. Automate web performance. Turns any link into inf
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/microlink/microlink.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/microlink/microlink.yaml)
 
+## 🆓 Is Microlink free?
+ Unknown/No 
+
 ## 💬 Microlink Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

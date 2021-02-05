@@ -12,6 +12,9 @@ Our endpoints include face detection (detect 1 or multiple faces), face matching
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/trueface-ai-api/trueface-ai-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/trueface-ai-api/trueface-ai-api.yaml)
 
+## 🆓 Is TrueFace.Ai API free?
+ Unknown/No 
+
 ## 💬 TrueFace.Ai API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

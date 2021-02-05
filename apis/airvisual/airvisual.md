@@ -12,6 +12,9 @@ Enhance your projects with free trusted historical, real-time and forecast air q
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/airvisual/airvisual.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/airvisual/airvisual.yaml)
 
+## 🆓 Is AirVisual free?
+ Unknown/No 
+
 ## 💬 AirVisual Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

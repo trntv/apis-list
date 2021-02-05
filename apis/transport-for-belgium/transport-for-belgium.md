@@ -10,6 +10,9 @@ Belgian Transport API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-belgium/transport-for-belgium.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-belgium/transport-for-belgium.yaml)
 
+## 🆓 Is Transportation in Belgium free?
+ Unknown/No 
+
 ## 💬 Transportation in Belgium Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

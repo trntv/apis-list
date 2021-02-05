@@ -12,6 +12,9 @@ pizza is made to prevent users to register to websites with a disposable email a
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/validator-pizza/validator-pizza.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/validator-pizza/validator-pizza.yaml)
 
+## 🆓 Is Validator.Pizza free?
+ Unknown/No 
+
 ## 💬 Validator.Pizza Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

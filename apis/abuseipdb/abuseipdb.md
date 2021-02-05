@@ -10,6 +10,9 @@ This is most commonly done through Fail2Ban, which comes prepackaged with an Abu
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/abuseipdb/abuseipdb.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/abuseipdb/abuseipdb.yaml)
 
+## 🆓 Is AbuseIPDB free?
+ Unknown/No 
+
 ## 💬 AbuseIPDB Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

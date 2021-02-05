@@ -12,6 +12,9 @@ Coinlib - Crypto Prices, Charts, Lists & Crypto Market News
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/coinlib/coinlib.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/coinlib/coinlib.yaml)
 
+## 🆓 Is Coinlib free?
+ Unknown/No 
+
 ## 💬 Coinlib Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

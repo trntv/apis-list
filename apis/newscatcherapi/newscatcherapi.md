@@ -12,6 +12,9 @@ Search news articles from all over the world in real-time with News API. News AP
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/newscatcherapi/newscatcherapi.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/newscatcherapi/newscatcherapi.yaml)
 
+## 🆓 Is NewsCatcherAPI free?
+ Unknown/No 
+
 ## 💬 NewsCatcherAPI Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

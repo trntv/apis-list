@@ -10,6 +10,9 @@ XposedOrNot is a collection of ~850 million real time passwords collated from re
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/xposedornot-passwords/xposedornot-passwords.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/xposedornot-passwords/xposedornot-passwords.yaml)
 
+## 🆓 Is Xposedornot Passwords free?
+ Unknown/No 
+
 ## 💬 Xposedornot Passwords Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

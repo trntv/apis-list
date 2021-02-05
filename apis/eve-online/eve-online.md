@@ -12,6 +12,9 @@ An OpenAPI for EVE Online
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/eve-online/eve-online.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/eve-online/eve-online.yaml)
 
+## 🆓 Is Eve Online free?
+ Unknown/No 
+
 ## 💬 Eve Online Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

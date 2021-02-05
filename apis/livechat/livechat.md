@@ -12,6 +12,9 @@ Online Customer Service software with customizable chat, embeddable widgets, hel
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/livechat/livechat.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/livechat/livechat.yaml)
 
+## 🆓 Is LiveChat free?
+ Unknown/No 
+
 ## 💬 LiveChat Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

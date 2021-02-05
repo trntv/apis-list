@@ -12,6 +12,9 @@ HealthCare. gov for Developers We’re making our source code freely available o
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/healthcare-gov/healthcare-gov.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/healthcare-gov/healthcare-gov.yaml)
 
+## 🆓 Is Healthcare.gov free?
+ Unknown/No 
+
 ## 💬 Healthcare.gov Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -10,6 +10,9 @@ Maps and the necessary tools for working it on your web app or site
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yandex/yandex.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yandex/yandex.yaml)
 
+## 🆓 Is Yandex free?
+ Unknown/No 
+
 ## 💬 Yandex Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

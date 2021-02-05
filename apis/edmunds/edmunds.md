@@ -10,6 +10,9 @@ A dataset containing all the car makes. Edmunds has detailed specs, customer rat
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/edmunds/edmunds.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/edmunds/edmunds.yaml)
 
+## 🆓 Is Edmunds free?
+ Unknown/No 
+
 ## 💬 Edmunds Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

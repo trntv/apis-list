@@ -10,6 +10,9 @@ Introduction FOAAS (Fuck Off As A Service) provides a modern, RESTful, scalable 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/fuck-off-as-a-service/fuck-off-as-a-service.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/fuck-off-as-a-service/fuck-off-as-a-service.yaml)
 
+## 🆓 Is Fuck Off as a Service free?
+ Unknown/No 
+
 ## 💬 Fuck Off as a Service Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

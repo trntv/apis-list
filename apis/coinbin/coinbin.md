@@ -12,6 +12,9 @@ Cryptocurrency information
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/coinbin/coinbin.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/coinbin/coinbin.yaml)
 
+## 🆓 Is Coinbin free?
+ Unknown/No 
+
 ## 💬 Coinbin Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

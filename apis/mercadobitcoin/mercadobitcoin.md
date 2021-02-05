@@ -10,6 +10,9 @@
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mercadobitcoin/mercadobitcoin.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mercadobitcoin/mercadobitcoin.yaml)
 
+## 🆓 Is MercadoBitcoin free?
+ Unknown/No 
+
 ## 💬 MercadoBitcoin Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

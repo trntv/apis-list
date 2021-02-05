@@ -10,6 +10,9 @@ Get random Facts on different topics
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/random-facts-api/random-facts-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/random-facts-api/random-facts-api.yaml)
 
+## 🆓 Is Random Facts Api free?
+ Unknown/No 
+
 ## 💬 Random Facts Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

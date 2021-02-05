@@ -10,6 +10,9 @@ The GitHub Jobs API allows you to search, and view jobs with JSON over HTTP. To 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/github-jobs/github-jobs.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/github-jobs/github-jobs.yaml)
 
+## 🆓 Is Github Jobs free?
+ Unknown/No 
+
 ## 💬 Github Jobs Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

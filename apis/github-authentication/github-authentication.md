@@ -10,6 +10,9 @@ Click here if you are not redirected. Access to GitHub’s Authentication API. R
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/github-authentication/github-authentication.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/github-authentication/github-authentication.yaml)
 
+## 🆓 Is GitHub Authentication free?
+ Unknown/No 
+
 ## 💬 GitHub Authentication Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

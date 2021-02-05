@@ -12,6 +12,9 @@ Gather and compare all kinds of interesting data, they weren't really interactiv
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gowalla-api/gowalla-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gowalla-api/gowalla-api.yaml)
 
+## 🆓 Is Gowalla API free?
+ Unknown/No 
+
 ## 💬 Gowalla API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

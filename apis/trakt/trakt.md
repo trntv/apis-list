@@ -10,6 +10,9 @@ Trakt collect lots of information about what tv shows and movies everyone is wat
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/trakt/trakt.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/trakt/trakt.yaml)
 
+## 🆓 Is Trakt free?
+ Unknown/No 
+
 ## 💬 Trakt Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

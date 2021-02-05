@@ -10,6 +10,9 @@ AI Mastering API provides automated audio mastering service. You can upload your
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ai-mastering/ai-mastering.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ai-mastering/ai-mastering.yaml)
 
+## 🆓 Is AI Mastering free?
+ Unknown/No 
+
 ## 💬 AI Mastering Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ Use this proxy and web scraping REST API to extract html data from any web page,
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/scrapestack/scrapestack.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/scrapestack/scrapestack.yaml)
 
+## 🆓 Is Scrapestack free?
+ Unknown/No 
+
 ## 💬 Scrapestack Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

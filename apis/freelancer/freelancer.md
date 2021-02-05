@@ -12,6 +12,9 @@ Hire in any profession you can think of using our API, on demand–developers, d
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/freelancer/freelancer.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/freelancer/freelancer.yaml)
 
+## 🆓 Is Freelancer free?
+ Unknown/No 
+
 ## 💬 Freelancer Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

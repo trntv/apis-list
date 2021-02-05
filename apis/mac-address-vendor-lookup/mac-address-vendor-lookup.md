@@ -12,6 +12,9 @@ The MAC address API allows you to retrieve OUI vendor information, detect virtua
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mac-address-vendor-lookup/mac-address-vendor-lookup.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mac-address-vendor-lookup/mac-address-vendor-lookup.yaml)
 
+## 🆓 Is MAC address vendor lookup free?
+ Unknown/No 
+
 ## 💬 MAC address vendor lookup Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

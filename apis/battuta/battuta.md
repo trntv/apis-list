@@ -10,6 +10,9 @@ Country Region City. Country Region City
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/battuta/battuta.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/battuta/battuta.yaml)
 
+## 🆓 Is Battuta free?
+ Unknown/No 
+
 ## 💬 Battuta Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

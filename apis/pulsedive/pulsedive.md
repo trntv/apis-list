@@ -12,6 +12,9 @@ Pulsedive is a free threat intelligence platform. Search, scan, and enrich IPs, 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pulsedive/pulsedive.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pulsedive/pulsedive.yaml)
 
+## 🆓 Is Pulsedive free?
+ Unknown/No 
+
 ## 💬 Pulsedive Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

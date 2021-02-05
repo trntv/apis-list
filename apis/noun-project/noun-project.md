@@ -10,6 +10,9 @@ Grab a hold of the World’s Visual Language! Use it in your service or applicat
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/noun-project/noun-project.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/noun-project/noun-project.yaml)
 
+## 🆓 Is Noun Project free?
+ Unknown/No 
+
 ## 💬 Noun Project Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

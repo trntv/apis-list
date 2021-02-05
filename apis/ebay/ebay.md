@@ -10,6 +10,9 @@ eBay's APIs
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ebay/ebay.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ebay/ebay.yaml)
 
+## 🆓 Is eBay free?
+ Unknown/No 
+
 ## 💬 eBay Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

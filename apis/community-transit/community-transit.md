@@ -12,6 +12,9 @@ Transitland's centralized web service API for both querying and editing aggregat
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/community-transit/community-transit.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/community-transit/community-transit.yaml)
 
+## 🆓 Is Community Transit free?
+ Unknown/No 
+
 ## 💬 Community Transit Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

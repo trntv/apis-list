@@ -10,6 +10,9 @@ Ephemeral file sharing. Convenient, anonymous and secure.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/file-io/file-io.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/file-io/file-io.yaml)
 
+## 🆓 Is File.io free?
+ Unknown/No 
+
 ## 💬 File.io Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ Czech Television TV Program
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/czech-television/czech-television.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/czech-television/czech-television.yaml)
 
+## 🆓 Is Czech Television free?
+ Unknown/No 
+
 ## 💬 Czech Television Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -10,6 +10,9 @@ Page moved here. Page moved here
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/getty-images/getty-images.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/getty-images/getty-images.yaml)
 
+## 🆓 Is Getty Images free?
+ Unknown/No 
+
 ## 💬 Getty Images Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

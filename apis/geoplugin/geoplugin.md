@@ -10,6 +10,9 @@ geoPlugin is a free, fast and reliable Geolocation Webservice API to locate your
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/geoplugin/geoplugin.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/geoplugin/geoplugin.yaml)
 
+## 🆓 Is geoPlugin free?
+ Unknown/No 
+
 ## 💬 geoPlugin Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

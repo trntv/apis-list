@@ -10,6 +10,9 @@ Careerjet public search API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/careerjet/careerjet.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/careerjet/careerjet.yaml)
 
+## 🆓 Is Careerjet free?
+ Unknown/No 
+
 ## 💬 Careerjet Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

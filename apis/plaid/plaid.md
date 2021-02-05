@@ -12,6 +12,9 @@ Plaid helps companies build fintech solutions by making it easy, safe and reliab
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/plaid/plaid.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/plaid/plaid.yaml)
 
+## 🆓 Is Plaid free?
+ Unknown/No 
+
 ## 💬 Plaid Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

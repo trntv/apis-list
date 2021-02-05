@@ -14,6 +14,9 @@ Ola is India’s most popular cab booking app with availability of rides in more
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ola/ola.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ola/ola.yaml)
 
+## 🆓 Is Ola free?
+ Unknown/No 
+
 ## 💬 Ola Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -10,6 +10,9 @@ A collection of exchange rates
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/czech-national-bank/czech-national-bank.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/czech-national-bank/czech-national-bank.yaml)
 
+## 🆓 Is Czech National Bank free?
+ Unknown/No 
+
 ## 💬 Czech National Bank Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

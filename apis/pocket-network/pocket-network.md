@@ -12,6 +12,9 @@ Pocket proportionally rewards the participating nodes with native cryptographic 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pocket-network/pocket-network.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pocket-network/pocket-network.yaml)
 
+## 🆓 Is Pocket Network free?
+ Unknown/No 
+
 ## 💬 Pocket Network Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

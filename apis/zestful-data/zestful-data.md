@@ -12,6 +12,9 @@ The Zestful's ingredient parser API turns plain recipe strings into beautiful, s
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/zestful-data/zestful-data.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/zestful-data/zestful-data.yaml)
 
+## 🆓 Is Zestful Data free?
+ Unknown/No 
+
 ## 💬 Zestful Data Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

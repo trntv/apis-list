@@ -10,6 +10,9 @@ Historical menu data
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/whats-on-the-menu/whats-on-the-menu.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/whats-on-the-menu/whats-on-the-menu.yaml)
 
+## 🆓 Is What's on the menu? free?
+ Unknown/No 
+
 ## 💬 What's on the menu? Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

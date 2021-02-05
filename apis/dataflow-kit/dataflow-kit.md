@@ -12,6 +12,9 @@ Web Scraper API to extract information from web sites, scrape SERPs, convert web
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dataflow-kit/dataflow-kit.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dataflow-kit/dataflow-kit.yaml)
 
+## 🆓 Is Dataflow Kit free?
+ Unknown/No 
+
 ## 💬 Dataflow Kit Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

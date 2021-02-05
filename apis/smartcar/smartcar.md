@@ -12,6 +12,9 @@ Build web and mobile apps that communicate with vehicles
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/smartcar/smartcar.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/smartcar/smartcar.yaml)
 
+## 🆓 Is Smartcar free?
+ Unknown/No 
+
 ## 💬 Smartcar Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

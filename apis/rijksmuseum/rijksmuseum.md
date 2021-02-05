@@ -12,6 +12,9 @@ The Rijksmuseum links individuals with art and history. It's data services are i
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/rijksmuseum/rijksmuseum.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/rijksmuseum/rijksmuseum.yaml)
 
+## 🆓 Is Rijksmuseum free?
+ Unknown/No 
+
 ## 💬 Rijksmuseum Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

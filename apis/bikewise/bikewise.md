@@ -10,6 +10,9 @@ Bicycle registration service.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bikewise/bikewise.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bikewise/bikewise.yaml)
 
+## 🆓 Is BikeWise free?
+ Unknown/No 
+
 ## 💬 BikeWise Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

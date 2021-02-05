@@ -12,6 +12,9 @@ BitMEX is the world's most advanced P2P crypto-products trading platform and API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bitmex/bitmex.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bitmex/bitmex.yaml)
 
+## 🆓 Is Bitmex free?
+ Unknown/No 
+
 ## 💬 Bitmex Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

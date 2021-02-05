@@ -12,6 +12,9 @@ Let’s you detect the information of a given photo (face location, age, race, g
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/face/face.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/face/face.yaml)
 
+## 🆓 Is Face++ free?
+ Unknown/No 
+
 ## 💬 Face++ Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

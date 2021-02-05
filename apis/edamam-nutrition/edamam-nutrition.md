@@ -10,6 +10,9 @@ API for Nutrition Analysis, Food Database Lookup, Recipe Search and other.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/edamam-nutrition/edamam-nutrition.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/edamam-nutrition/edamam-nutrition.yaml)
 
+## 🆓 Is Edamam nutrition & recipes free?
+ Unknown/No 
+
 ## 💬 Edamam nutrition & recipes Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

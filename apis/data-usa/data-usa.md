@@ -12,6 +12,9 @@ public data. Data USA provides an open, easy-to-use platform that turns data int
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/data-usa/data-usa.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/data-usa/data-usa.yaml)
 
+## 🆓 Is Data USA free?
+ Unknown/No 
+
 ## 💬 Data USA Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

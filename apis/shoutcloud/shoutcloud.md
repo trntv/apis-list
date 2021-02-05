@@ -10,6 +10,9 @@ ALL CAPS AS A SERVICE
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shoutcloud/shoutcloud.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shoutcloud/shoutcloud.yaml)
 
+## 🆓 Is SHOUTCLOUD free?
+ Unknown/No 
+
 ## 💬 SHOUTCLOUD Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

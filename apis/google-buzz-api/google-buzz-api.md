@@ -12,6 +12,9 @@ A social platform that both users and developers can interact with, the company 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-buzz-api/google-buzz-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-buzz-api/google-buzz-api.yaml)
 
+## 🆓 Is Google Buzz API free?
+ Unknown/No 
+
 ## 💬 Google Buzz API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

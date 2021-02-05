@@ -10,6 +10,9 @@ It covers inventory and database, carts and checkout, payments, user authenticat
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/marketcloud/marketcloud.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/marketcloud/marketcloud.yaml)
 
+## 🆓 Is Marketcloud free?
+ Unknown/No 
+
 ## 💬 Marketcloud Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

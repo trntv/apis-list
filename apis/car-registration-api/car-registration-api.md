@@ -10,6 +10,9 @@ Get the Make, Model, Insurer, VIN and 50 other data fields from an Australian nu
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/car-registration-api/car-registration-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/car-registration-api/car-registration-api.yaml)
 
+## 🆓 Is Car Registration Api free?
+ Unknown/No 
+
 ## 💬 Car Registration Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

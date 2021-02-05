@@ -12,6 +12,9 @@ A web based system for managing collaborative projects. Simple manipulations of 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/basecamp-api/basecamp-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/basecamp-api/basecamp-api.yaml)
 
+## 🆓 Is Basecamp API free?
+ Unknown/No 
+
 ## 💬 Basecamp API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

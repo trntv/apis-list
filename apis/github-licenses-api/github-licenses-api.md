@@ -10,6 +10,9 @@ The Licenses API returns metadata about popular open source licenses and informa
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/github-licenses-api/github-licenses-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/github-licenses-api/github-licenses-api.yaml)
 
+## 🆓 Is GitHub Licenses API free?
+ Unknown/No 
+
 ## 💬 GitHub Licenses API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

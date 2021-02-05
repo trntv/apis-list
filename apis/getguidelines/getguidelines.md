@@ -11,6 +11,9 @@ Use biometric and demographic data to search the same medical references used by
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/getguidelines/getguidelines.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/getguidelines/getguidelines.yaml)
 
+## 🆓 Is Getguidelines free?
+ Unknown/No 
+
 ## 💬 Getguidelines Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

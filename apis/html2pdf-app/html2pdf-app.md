@@ -15,6 +15,9 @@ Easy to use.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/html2pdf-app/html2pdf-app.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/html2pdf-app/html2pdf-app.yaml)
 
+## 🆓 Is Html2pdf.App free?
+ Unknown/No 
+
 ## 💬 Html2pdf.App Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

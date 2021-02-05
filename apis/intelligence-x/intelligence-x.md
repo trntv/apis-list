@@ -12,6 +12,9 @@ Public SDK for Intelligence X. Contribute to IntelligenceX/SDK development by cr
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/intelligence-x/intelligence-x.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/intelligence-x/intelligence-x.yaml)
 
+## 🆓 Is Intelligence X free?
+ Unknown/No 
+
 ## 💬 Intelligence X Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

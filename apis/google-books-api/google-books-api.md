@@ -12,6 +12,9 @@ Access the full text of the Google Books repository.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-books-api/google-books-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-books-api/google-books-api.yaml)
 
+## 🆓 Is Google Books free?
+ Unknown/No 
+
 ## 💬 Google Books Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

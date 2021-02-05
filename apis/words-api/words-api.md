@@ -12,6 +12,9 @@ An API for the english language. Definitions, related words, rhymes, and more. U
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/words-api/words-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/words-api/words-api.yaml)
 
+## 🆓 Is Words API free?
+ Unknown/No 
+
 ## 💬 Words API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ NS has a large amount of data with information about the planned and current tim
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-the-netherlands/transport-for-the-netherlands.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-the-netherlands/transport-for-the-netherlands.yaml)
 
+## 🆓 Is Transportation in Netherlands free?
+ Unknown/No 
+
 ## 💬 Transportation in Netherlands Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

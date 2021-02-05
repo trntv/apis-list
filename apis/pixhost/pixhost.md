@@ -12,6 +12,9 @@ Upload images, photos, galleries
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pixhost/pixhost.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pixhost/pixhost.yaml)
 
+## 🆓 Is Pixhost free?
+ Unknown/No 
+
 ## 💬 Pixhost Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

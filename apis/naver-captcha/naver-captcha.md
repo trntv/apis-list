@@ -12,6 +12,9 @@ The image capturing function used by Naver Service can be used for customer serv
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/naver-captcha/naver-captcha.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/naver-captcha/naver-captcha.yaml)
 
+## 🆓 Is Naver Captcha free?
+ Unknown/No 
+
 ## 💬 Naver Captcha Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

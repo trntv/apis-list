@@ -12,6 +12,9 @@ A collection of the best open data sets and open-source tools for data science.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/data-science-toolkit/data-science-toolkit.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/data-science-toolkit/data-science-toolkit.yaml)
 
+## 🆓 Is Data Science Toolkit free?
+ Unknown/No 
+
 ## 💬 Data Science Toolkit Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

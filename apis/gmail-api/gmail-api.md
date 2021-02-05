@@ -12,6 +12,9 @@ The Gmail API: modern, fast, RESTful. The Gmail API: modern, fast, RESTful
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gmail-api/gmail-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gmail-api/gmail-api.yaml)
 
+## 🆓 Is Gmail API free?
+ Unknown/No 
+
 ## 💬 Gmail API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

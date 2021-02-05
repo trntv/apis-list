@@ -12,6 +12,9 @@ Our fast & reliable SERP API enables you to scrape search results in realtime an
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/zenserp/zenserp.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/zenserp/zenserp.yaml)
 
+## 🆓 Is Zenserp free?
+ Unknown/No 
+
 ## 💬 Zenserp Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

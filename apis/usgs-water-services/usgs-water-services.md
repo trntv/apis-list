@@ -12,6 +12,9 @@ Home page for water resources information from the US Geological Survey.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/usgs-water-services/usgs-water-services.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/usgs-water-services/usgs-water-services.yaml)
 
+## 🆓 Is USGS Water Services free?
+ Unknown/No 
+
 ## 💬 USGS Water Services Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using pur
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/json-2-jsonp/json-2-jsonp.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/json-2-jsonp/json-2-jsonp.yaml)
 
+## 🆓 Is JSON 2 JSONP free?
+ Unknown/No 
+
 ## 💬 JSON 2 JSONP Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

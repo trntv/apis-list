@@ -10,6 +10,9 @@ America's primary platform for aggregating Open Source Software from the federal
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/code-gov/code-gov.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/code-gov/code-gov.yaml)
 
+## 🆓 Is Code.gov free?
+ Unknown/No 
+
 ## 💬 Code.gov Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

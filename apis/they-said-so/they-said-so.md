@@ -10,6 +10,9 @@ They Said So Quotes API offers a complete feature rich REST API access to its qu
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/they-said-so/they-said-so.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/they-said-so/they-said-so.yaml)
 
+## 🆓 Is They Said So free?
+ Unknown/No 
+
 ## 💬 They Said So Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

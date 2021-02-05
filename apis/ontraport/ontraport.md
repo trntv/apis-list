@@ -10,6 +10,9 @@ Marketing automation
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ontraport/ontraport.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ontraport/ontraport.yaml)
 
+## 🆓 Is Ontraport free?
+ Unknown/No 
+
 ## 💬 Ontraport Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

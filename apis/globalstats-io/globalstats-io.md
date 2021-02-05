@@ -12,6 +12,9 @@ Enrich your games' experience by adding a global highscore for your games.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/globalstats-io/globalstats-io.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/globalstats-io/globalstats-io.yaml)
 
+## 🆓 Is Globalstats.Io free?
+ Unknown/No 
+
 ## 💬 Globalstats.Io Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

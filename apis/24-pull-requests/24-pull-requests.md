@@ -12,6 +12,9 @@
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/24-pull-requests/24-pull-requests.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/24-pull-requests/24-pull-requests.yaml)
 
+## 🆓 Is 24 Pull Requests free?
+ Unknown/No 
+
 ## 💬 24 Pull Requests Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

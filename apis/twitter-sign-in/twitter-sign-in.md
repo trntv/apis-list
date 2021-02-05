@@ -12,6 +12,9 @@ Works on websites, iOS, mobile and desktop applications. The browser log in flow
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/twitter-sign-in/twitter-sign-in.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/twitter-sign-in/twitter-sign-in.yaml)
 
+## 🆓 Is Twitter Sign-in free?
+ Unknown/No 
+
 ## 💬 Twitter Sign-in Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

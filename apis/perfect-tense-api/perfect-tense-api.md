@@ -10,6 +10,9 @@ Automated. Perfect Tense gives you error-free content in seconds. The Perfect Te
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/perfect-tense-api/perfect-tense-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/perfect-tense-api/perfect-tense-api.yaml)
 
+## 🆓 Is Perfect Tense API free?
+ Unknown/No 
+
 ## 💬 Perfect Tense API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

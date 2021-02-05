@@ -12,6 +12,9 @@ Gumroad helps creators do more of what they love by offering tools to get paid o
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gumroad/gumroad.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gumroad/gumroad.yaml)
 
+## 🆓 Is Gumroad free?
+ Unknown/No 
+
 ## 💬 Gumroad Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ Address Autocomplete
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/us-autocomplete/us-autocomplete.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/us-autocomplete/us-autocomplete.yaml)
 
+## 🆓 Is US Autocomplete free?
+ Unknown/No 
+
 ## 💬 US Autocomplete Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

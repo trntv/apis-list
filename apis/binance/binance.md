@@ -12,6 +12,9 @@ Binance cryptocurrency exchange official API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/binance/binance.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/binance/binance.yaml)
 
+## 🆓 Is Binance free?
+ Unknown/No 
+
 ## 💬 Binance Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

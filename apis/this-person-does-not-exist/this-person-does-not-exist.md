@@ -10,6 +10,9 @@ This Person Does Not Exist
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/this-person-does-not-exist/this-person-does-not-exist.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/this-person-does-not-exist/this-person-does-not-exist.yaml)
 
+## 🆓 Is This Person Does not Exist free?
+ Unknown/No 
+
 ## 💬 This Person Does not Exist Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

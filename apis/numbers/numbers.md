@@ -10,6 +10,9 @@ An API for interesting facts about numbers. An API for interesting facts about n
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/numbers/numbers.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/numbers/numbers.yaml)
 
+## 🆓 Is Numbers free?
+ Unknown/No 
+
 ## 💬 Numbers Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -10,6 +10,9 @@ BetterDoctor API is the most frequently updated and trusted source of doctor dat
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/betterdoctor/betterdoctor.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/betterdoctor/betterdoctor.yaml)
 
+## 🆓 Is BetterDoctor free?
+ Unknown/No 
+
 ## 💬 BetterDoctor Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

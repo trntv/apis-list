@@ -12,6 +12,9 @@ Unified REST APIs for world-wide astronomy data
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/arcsecond-io/arcsecond-io.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/arcsecond-io/arcsecond-io.yaml)
 
+## 🆓 Is arcsecond.io free?
+ Unknown/No 
+
 ## 💬 arcsecond.io Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

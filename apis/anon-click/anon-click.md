@@ -10,6 +10,9 @@ Shorten long URLs and optionally protect them with passwords or captcha. No regi
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/anon-click/anon-click.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/anon-click/anon-click.yaml)
 
+## 🆓 Is Anon.click free?
+ Unknown/No 
+
 ## 💬 Anon.click Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

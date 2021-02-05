@@ -12,6 +12,9 @@ Convenient HackerNews GraphQL wrapper API. Filter, sort, search and relations
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/hacker-news-graphql/hacker-news-graphql.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/hacker-news-graphql/hacker-news-graphql.yaml)
 
+## 🆓 Is Hacker News GraphQL free?
+ Unknown/No 
+
 ## 💬 Hacker News GraphQL Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

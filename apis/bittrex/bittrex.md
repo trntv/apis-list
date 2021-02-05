@@ -10,6 +10,9 @@ Bittrex provides a simple and powerful API consisting of REST endpoints for tran
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bittrex/bittrex.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bittrex/bittrex.yaml)
 
+## 🆓 Is Bittrex free?
+ Unknown/No 
+
 ## 💬 Bittrex Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

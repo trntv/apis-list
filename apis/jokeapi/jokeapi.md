@@ -10,6 +10,9 @@ JokeAPI is a RESTful API that serves jokes from many categories while also offer
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/jokeapi/jokeapi.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/jokeapi/jokeapi.yaml)
 
+## 🆓 Is JokeAPI free?
+ Unknown/No 
+
 ## 💬 JokeAPI Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

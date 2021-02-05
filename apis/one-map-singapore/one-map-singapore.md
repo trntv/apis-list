@@ -12,6 +12,9 @@
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/one-map-singapore/one-map-singapore.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/one-map-singapore/one-map-singapore.yaml)
 
+## 🆓 Is One Map, Singapore free?
+ Unknown/No 
+
 ## 💬 One Map, Singapore Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -10,6 +10,9 @@ CiviX Server is an electronic library providing free public access to law and by
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bclaws/bclaws.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bclaws/bclaws.yaml)
 
+## 🆓 Is BCLaws free?
+ Unknown/No 
+
 ## 💬 BCLaws Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ Fast Healthcare Interoperability Resources test data
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/fhir/fhir.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/fhir/fhir.yaml)
 
+## 🆓 Is Fhir free?
+ Unknown/No 
+
 ## 💬 Fhir Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

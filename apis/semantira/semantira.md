@@ -10,6 +10,9 @@ To get started check out Install the SDK. For detailed explana. In this document
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/semantira/semantira.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/semantira/semantira.yaml)
 
+## 🆓 Is Semantira free?
+ Unknown/No 
+
 ## 💬 Semantira Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

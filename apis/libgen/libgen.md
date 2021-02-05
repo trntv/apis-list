@@ -10,6 +10,9 @@ An English-language guide to using the LibGen API. An English-language guide to 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/libgen/libgen.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/libgen/libgen.yaml)
 
+## 🆓 Is LibGen free?
+ Unknown/No 
+
 ## 💬 LibGen Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

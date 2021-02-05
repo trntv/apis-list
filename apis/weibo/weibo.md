@@ -10,6 +10,9 @@
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/weibo/weibo.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/weibo/weibo.yaml)
 
+## 🆓 Is Weibo free?
+ Unknown/No 
+
 ## 💬 Weibo Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

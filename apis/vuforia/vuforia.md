@@ -10,6 +10,9 @@ Developers can easily add advanced computer vision functionality to Android, iOS
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/vuforia/vuforia.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/vuforia/vuforia.yaml)
 
+## 🆓 Is Vuforia free?
+ Unknown/No 
+
 ## 💬 Vuforia Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

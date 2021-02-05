@@ -10,6 +10,9 @@ Lisboa metro data
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/metro-lisboa/metro-lisboa.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/metro-lisboa/metro-lisboa.yaml)
 
+## 🆓 Is Metro Lisboa free?
+ Unknown/No 
+
 ## 💬 Metro Lisboa Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ Cryptocurrency, coin and token resource on the web. Full and free cryptocurrency
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/chasing-coin/chasing-coin.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/chasing-coin/chasing-coin.yaml)
 
+## 🆓 Is Chasing Coin free?
+ Unknown/No 
+
 ## 💬 Chasing Coin Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

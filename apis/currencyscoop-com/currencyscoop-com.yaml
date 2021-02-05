@@ -2,6 +2,7 @@ name: CurrencyScoop.com
 slug: currencyscoop-com
 categories:
     - Finance & Economics
+    - Blockchain & Cryptocurrencies
 description: Real-time and historical currency rates JSON API. CurrencyScoop is a developer-friendly REST API with real-time and historical exchange rates for 168 world currencies and 1600 cryptocurrencies
 is_free: false
 logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/currencyscoop-com/logo_256x256.png

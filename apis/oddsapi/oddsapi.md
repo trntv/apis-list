@@ -10,6 +10,9 @@ Sports data API provides live and historical sports data from all around the wor
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/oddsapi/oddsapi.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/oddsapi/oddsapi.yaml)
 
+## 🆓 Is Oddsapi free?
+ Unknown/No 
+
 ## 💬 Oddsapi Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

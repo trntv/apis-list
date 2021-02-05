@@ -12,6 +12,9 @@ Translate from imperial language ( English that is ) to one of the Starwars lang
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/starwars-translations-api/starwars-translations-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/starwars-translations-api/starwars-translations-api.yaml)
 
+## 🆓 Is Starwars Translations Api free?
+ Unknown/No 
+
 ## 💬 Starwars Translations Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

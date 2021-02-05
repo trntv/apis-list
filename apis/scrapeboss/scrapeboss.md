@@ -12,6 +12,9 @@ Return developer friendly JSON data for almost any article
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/scrapeboss/scrapeboss.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/scrapeboss/scrapeboss.yaml)
 
+## 🆓 Is Scrapeboss free?
+ Unknown/No 
+
 ## 💬 Scrapeboss Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/d3-visualization/d3-visualization.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/d3-visualization/d3-visualization.yaml)
 
+## 🆓 Is D3 Visualization free?
+ Unknown/No 
+
 ## 💬 D3 Visualization Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

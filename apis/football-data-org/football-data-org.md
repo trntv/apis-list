@@ -12,6 +12,9 @@ A restful API for football data. A restful API for football data
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/football-data-org/football-data-org.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/football-data-org/football-data-org.yaml)
 
+## 🆓 Is Football-Data.org free?
+ Unknown/No 
+
 ## 💬 Football-Data.org Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

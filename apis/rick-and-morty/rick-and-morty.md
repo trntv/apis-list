@@ -12,6 +12,9 @@ The Rick and Morty API is a REST and GraphQL API based on the television show Ri
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/rick-and-morty/rick-and-morty.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/rick-and-morty/rick-and-morty.yaml)
 
+## 🆓 Is Rick and Morty free?
+ Unknown/No 
+
 ## 💬 Rick and Morty Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

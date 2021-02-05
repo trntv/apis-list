@@ -10,6 +10,9 @@ TextRazor is the world's fastest and most accurate Natural Language Processing A
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/textrazor/textrazor.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/textrazor/textrazor.yaml)
 
+## 🆓 Is TextRazor free?
+ Unknown/No 
+
 ## 💬 TextRazor Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -10,6 +10,9 @@ Free IP Geolocation API with no registration required. 15000 requests per hour �
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/freegeoip/freegeoip.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/freegeoip/freegeoip.yaml)
 
+## 🆓 Is FreeGeoIP free?
+ Unknown/No 
+
 ## 💬 FreeGeoIP Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -10,6 +10,9 @@ API Documentation cleanuri. com exposes its data via an Application Programming 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cleanuri/cleanuri.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cleanuri/cleanuri.yaml)
 
+## 🆓 Is CleanURI free?
+ Unknown/No 
+
 ## 💬 CleanURI Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

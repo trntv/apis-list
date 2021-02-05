@@ -10,6 +10,9 @@ Trello is a web-based, Kanban-style, list-making application
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/trello/trello.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/trello/trello.yaml)
 
+## 🆓 Is Trello free?
+ Unknown/No 
+
 ## 💬 Trello Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

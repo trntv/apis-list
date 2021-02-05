@@ -10,6 +10,9 @@ Keen IO is a powerful, flexible, and scalable solution that’s literally Big Da
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/keen-io/keen-io.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/keen-io/keen-io.yaml)
 
+## 🆓 Is Keen IO free?
+ Unknown/No 
+
 ## 💬 Keen IO Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

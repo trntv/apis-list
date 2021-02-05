@@ -10,6 +10,9 @@ FoodData Central is an integrated data system that provides expanded nutrient pr
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/usda-nutrients/usda-nutrients.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/usda-nutrients/usda-nutrients.yaml)
 
+## 🆓 Is USDA Nutrients free?
+ Unknown/No 
+
 ## 💬 USDA Nutrients Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

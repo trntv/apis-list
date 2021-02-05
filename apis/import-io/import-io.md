@@ -10,6 +10,9 @@ Import.io enables any organization to gain intelligence, efficiencies, and compe
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/import-io/import-io.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/import-io/import-io.yaml)
 
+## 🆓 Is import.io free?
+ Unknown/No 
+
 ## 💬 import.io Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

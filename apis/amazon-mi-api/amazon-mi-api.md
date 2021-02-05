@@ -10,6 +10,9 @@ Amazon Machine Learning API simplifies the process of making predictions that re
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/amazon-mi-api/amazon-mi-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/amazon-mi-api/amazon-mi-api.yaml)
 
+## 🆓 Is Amazon MI API free?
+ Unknown/No 
+
 ## 💬 Amazon MI API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -10,6 +10,9 @@ Metadefender Cloud provides unique set of APIs for everyone who is working with 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/metadefnder-cloud-api/metadefnder-cloud-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/metadefnder-cloud-api/metadefnder-cloud-api.yaml)
 
+## 🆓 Is Metadefnder Cloud API free?
+ Unknown/No 
+
 ## 💬 Metadefnder Cloud API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

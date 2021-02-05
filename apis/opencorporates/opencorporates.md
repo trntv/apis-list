@@ -10,6 +10,9 @@ World's largest open database of companies
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/opencorporates/opencorporates.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/opencorporates/opencorporates.yaml)
 
+## 🆓 Is OpenCorporates free?
+ Unknown/No 
+
 ## 💬 OpenCorporates Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

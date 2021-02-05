@@ -12,6 +12,9 @@ Brewdog's DIY Dog as a searchable, filterable API. Brewdog's DIY Dog as a search
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/punkapi/punkapi.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/punkapi/punkapi.yaml)
 
+## 🆓 Is PunkAPI free?
+ Unknown/No 
+
 ## 💬 PunkAPI Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

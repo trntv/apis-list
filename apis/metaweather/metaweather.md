@@ -10,6 +10,9 @@ API MetaWeather provides an API that delivers JSON over HTTPS for access to our 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/metaweather/metaweather.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/metaweather/metaweather.yaml)
 
+## 🆓 Is MetaWeather free?
+ Unknown/No 
+
 ## 💬 MetaWeather Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

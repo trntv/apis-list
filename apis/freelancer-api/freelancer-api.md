@@ -12,6 +12,9 @@ It can be used to set up a food delivery network, crowdsource the price for a lo
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/freelancer-api/freelancer-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/freelancer-api/freelancer-api.yaml)
 
+## 🆓 Is Freelancer Api free?
+ Unknown/No 
+
 ## 💬 Freelancer Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -10,6 +10,9 @@ Current and historical NBA Statistics
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nba-stats/nba-stats.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nba-stats/nba-stats.yaml)
 
+## 🆓 Is NBA Stats free?
+ Unknown/No 
+
 ## 💬 NBA Stats Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

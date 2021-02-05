@@ -12,6 +12,9 @@ Introduction Hello Developers Welcome to the YNAB API! (If you aren't a develope
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/you-need-a-budget/you-need-a-budget.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/you-need-a-budget/you-need-a-budget.yaml)
 
+## 🆓 Is You Need A Budget free?
+ Unknown/No 
+
 ## 💬 You Need A Budget Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

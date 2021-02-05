@@ -12,6 +12,9 @@ The API discussed here is an interface to the MusicBrainz Database. It is aimed 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/musicbrainz/musicbrainz.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/musicbrainz/musicbrainz.yaml)
 
+## 🆓 Is MusicBrainz free?
+ Unknown/No 
+
 ## 💬 MusicBrainz Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

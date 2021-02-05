@@ -12,6 +12,9 @@ The largest collection of dad jokes on the internet.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/icanhazdadjoke/icanhazdadjoke.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/icanhazdadjoke/icanhazdadjoke.yaml)
 
+## 🆓 Is icanhazdadjoke free?
+ Unknown/No 
+
 ## 💬 icanhazdadjoke Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

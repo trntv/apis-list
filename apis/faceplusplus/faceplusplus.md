@@ -12,6 +12,9 @@ Meta description. A tool to detect face
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/faceplusplus/faceplusplus.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/faceplusplus/faceplusplus.yaml)
 
+## 🆓 Is Faceplusplus free?
+ Unknown/No 
+
 ## 💬 Faceplusplus Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

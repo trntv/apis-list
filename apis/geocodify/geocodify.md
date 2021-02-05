@@ -12,6 +12,9 @@ Worldwide geocoding, geoparsing and autocomplete for addresses. Geocodify is a f
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/geocodify/geocodify.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/geocodify/geocodify.yaml)
 
+## 🆓 Is Geocodify free?
+ Unknown/No 
+
 ## 💬 Geocodify Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

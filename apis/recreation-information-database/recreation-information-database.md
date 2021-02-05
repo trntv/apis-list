@@ -10,6 +10,9 @@ Recreation.gov is your source for discovering and experiencing America's federal
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/recreation-information-database/recreation-information-database.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/recreation-information-database/recreation-information-database.yaml)
 
+## 🆓 Is Recreation Information Database free?
+ Unknown/No 
+
 ## 💬 Recreation Information Database Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

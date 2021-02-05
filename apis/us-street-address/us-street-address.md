@@ -12,6 +12,9 @@ Verify one or more addresses using the SmartyStreets US Street Address API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/us-street-address/us-street-address.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/us-street-address/us-street-address.yaml)
 
+## 🆓 Is US Street Address free?
+ Unknown/No 
+
 ## 💬 US Street Address Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

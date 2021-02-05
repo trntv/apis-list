@@ -10,6 +10,9 @@ Halo Public API. With this API you’ll be able to craft your own experiences us
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/halo/halo.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/halo/halo.yaml)
 
+## 🆓 Is Halo free?
+ Unknown/No 
+
 ## 💬 Halo Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ Convert web page content into epub, Kindle/mobi and multi-column PDF files
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/textfilter-api/textfilter-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/textfilter-api/textfilter-api.yaml)
 
+## 🆓 Is Textfilter Api free?
+ Unknown/No 
+
 ## 💬 Textfilter Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

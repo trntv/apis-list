@@ -12,6 +12,9 @@ Extract relevant content from articles. ContentXtractor automatically extracts r
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/contentxtractor/contentxtractor.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/contentxtractor/contentxtractor.yaml)
 
+## 🆓 Is Contentxtractor free?
+ Unknown/No 
+
 ## 💬 Contentxtractor Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

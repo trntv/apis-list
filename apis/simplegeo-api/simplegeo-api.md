@@ -12,6 +12,9 @@ Offers an API that allows developers to build location-aware applications for mo
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/simplegeo-api/simplegeo-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/simplegeo-api/simplegeo-api.yaml)
 
+## 🆓 Is SimpleGeo API free?
+ Unknown/No 
+
 ## 💬 SimpleGeo API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

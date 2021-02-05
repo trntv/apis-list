@@ -10,6 +10,9 @@ The only Food API you'll ever need. Spoonacular offers its food parsing, matchin
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/spoonacular-food-api/spoonacular-food-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/spoonacular-food-api/spoonacular-food-api.yaml)
 
+## 🆓 Is Spoonacular Food API free?
+ Unknown/No 
+
 ## 💬 Spoonacular Food API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

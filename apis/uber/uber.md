@@ -12,6 +12,9 @@ Discover how the Uber API can easily enhance your app’s user experience and ta
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/uber/uber.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/uber/uber.yaml)
 
+## 🆓 Is Uber free?
+ Unknown/No 
+
 ## 💬 Uber Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ Mercury Web Parser turns web articles into structured content reliably and easil
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mercury/mercury.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mercury/mercury.yaml)
 
+## 🆓 Is Mercury free?
+ Unknown/No 
+
 ## 💬 Mercury Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
@@ -21,6 +24,6 @@ No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edi
 
 
 ## 🗄️ Categories:
-- [Business](https://github.com/apis-list/apis-list#business-)- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity-)- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics-)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

@@ -12,6 +12,9 @@ With this API, you can use RESTful req. The Custom Search JSON API lets you deve
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-customsearch-api/google-customsearch-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-customsearch-api/google-customsearch-api.yaml)
 
+## 🆓 Is Google CustomSearch API free?
+ Unknown/No 
+
 ## 💬 Google CustomSearch API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

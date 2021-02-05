@@ -10,6 +10,9 @@ Random image of a fox
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/randomfox/randomfox.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/randomfox/randomfox.yaml)
 
+## 🆓 Is RandomFox free?
+ Unknown/No 
+
 ## 💬 RandomFox Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

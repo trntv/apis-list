@@ -12,6 +12,9 @@ API for travel search
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/goibibo/goibibo.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/goibibo/goibibo.yaml)
 
+## 🆓 Is Goibibo free?
+ Unknown/No 
+
 ## 💬 Goibibo Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ It is mainly created for discord bots. . A chatbot api which is completely free
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cathyjs/cathyjs.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cathyjs/cathyjs.yaml)
 
+## 🆓 Is Cathyjs free?
+ Unknown/No 
+
 ## 💬 Cathyjs Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

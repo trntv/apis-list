@@ -12,6 +12,9 @@ Introduction Power your projects with the high quality cryptocurrency data coinr
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/coinranking/coinranking.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/coinranking/coinranking.yaml)
 
+## 🆓 Is CoinRanking free?
+ Unknown/No 
+
 ## 💬 CoinRanking Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

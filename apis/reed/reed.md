@@ -10,6 +10,9 @@ Official API for reed.co.uk jobs website
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/reed/reed.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/reed/reed.yaml)
 
+## 🆓 Is Reed free?
+ Unknown/No 
+
 ## 💬 Reed Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

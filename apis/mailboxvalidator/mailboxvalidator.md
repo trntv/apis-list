@@ -12,6 +12,9 @@ MailboxValidator provides single email validation API that checks if an email ad
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mailboxvalidator/mailboxvalidator.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mailboxvalidator/mailboxvalidator.yaml)
 
+## 🆓 Is MailboxValidator free?
+ Unknown/No 
+
 ## 💬 MailboxValidator Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

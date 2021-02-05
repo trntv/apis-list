@@ -10,6 +10,9 @@ UK's parliament Open Data
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/data-parliament-uk/data-parliament-uk.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/data-parliament-uk/data-parliament-uk.yaml)
 
+## 🆓 Is data.parliament.uk free?
+ Unknown/No 
+
 ## 💬 data.parliament.uk Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

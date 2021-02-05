@@ -10,6 +10,9 @@ Open public data (Open data) made available by the City of Nantes and Nantes Mé
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/city-nantes-opendata/city-nantes-opendata.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/city-nantes-opendata/city-nantes-opendata.yaml)
 
+## 🆓 Is City, Nantes Opendata free?
+ Unknown/No 
+
 ## 💬 City, Nantes Opendata Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

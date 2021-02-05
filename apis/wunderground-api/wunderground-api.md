@@ -10,6 +10,9 @@ Reliable data, accurate forecast, & global coverage in 80 languages
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wunderground-api/wunderground-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wunderground-api/wunderground-api.yaml)
 
+## 🆓 Is Wunderground API free?
+ Unknown/No 
+
 ## 💬 Wunderground API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

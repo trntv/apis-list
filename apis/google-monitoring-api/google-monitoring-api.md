@@ -12,6 +12,9 @@ This page describes some of the features of the Cloud Monitoring API v3. For the
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-monitoring-api/google-monitoring-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-monitoring-api/google-monitoring-api.yaml)
 
+## 🆓 Is Google Monitoring API free?
+ Unknown/No 
+
 ## 💬 Google Monitoring API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

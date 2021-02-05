@@ -10,6 +10,9 @@ SecurityTrails currently offers three different products that can help you enric
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/securitytrails/securitytrails.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/securitytrails/securitytrails.yaml)
 
+## 🆓 Is SecurityTrails free?
+ Unknown/No 
+
 ## 💬 SecurityTrails Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
@@ -19,6 +22,6 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 
 ## 🗄️ Categories:
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics-)- [Security](https://github.com/apis-list/apis-list#security-)
+- [Security](https://github.com/apis-list/apis-list#security-)- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

@@ -12,6 +12,9 @@ Gives you access to our world-class places database and the ability to interact 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/foursquare-api/foursquare-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/foursquare-api/foursquare-api.yaml)
 
+## 🆓 Is Foursquare API free?
+ Unknown/No 
+
 ## 💬 Foursquare API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

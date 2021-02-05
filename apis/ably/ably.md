@@ -12,6 +12,9 @@ API for making cross-protocol realtime communication between devices easy. Ably 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ably/ably.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ably/ably.yaml)
 
+## 🆓 Is Ably free?
+ Unknown/No 
+
 ## 💬 Ably Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

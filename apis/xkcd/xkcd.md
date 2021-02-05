@@ -10,6 +10,9 @@ xkcd API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/xkcd/xkcd.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/xkcd/xkcd.yaml)
 
+## 🆓 Is xkcd free?
+ Unknown/No 
+
 ## 💬 xkcd Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

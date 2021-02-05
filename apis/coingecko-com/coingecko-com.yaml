@@ -1,7 +1,7 @@
 name: Coingecko.com
 slug: coingecko-com
 categories:
-    - Finance & Economics
+    - Blockchain & Cryptocurrencies
 description: Free, comprehensive cryptocurrency API. Access free crypto API such as real-time market price, historical trading, tickers, and exchange data for cryptocurrencies
 is_free: false
 logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/coingecko-com/logo_256x256.png

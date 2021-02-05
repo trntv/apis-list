@@ -10,6 +10,9 @@ Open Patent Services (OPS) is a web service which provides access to the EPO's r
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/epo/epo.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/epo/epo.yaml)
 
+## 🆓 Is EPO free?
+ Unknown/No 
+
 ## 💬 EPO Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

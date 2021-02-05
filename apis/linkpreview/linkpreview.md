@@ -12,6 +12,9 @@ Preview Web links with our reliable API service. Get Detailed JSON Response for 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/linkpreview/linkpreview.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/linkpreview/linkpreview.yaml)
 
+## 🆓 Is LinkPreview free?
+ Unknown/No 
+
 ## 💬 LinkPreview Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ Broadage Sports provides comprehensive sports data API solutions for your projec
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/broadage-sports-data-api/broadage-sports-data-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/broadage-sports-data-api/broadage-sports-data-api.yaml)
 
+## 🆓 Is Broadage Sports Data Api free?
+ Unknown/No 
+
 ## 💬 Broadage Sports Data Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

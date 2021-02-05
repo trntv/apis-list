@@ -12,6 +12,9 @@ FraudLabs Pro Rest API to screen the order transaction for online fraud.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/fraudlabs-pro/fraudlabs-pro.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/fraudlabs-pro/fraudlabs-pro.yaml)
 
+## 🆓 Is FraudLabs Pro free?
+ Unknown/No 
+
 ## 💬 FraudLabs Pro Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

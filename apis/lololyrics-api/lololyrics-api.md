@@ -10,6 +10,9 @@ Specializes more in electronic dance music genres such as hardstyle. You see thi
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lololyrics-api/lololyrics-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lololyrics-api/lololyrics-api.yaml)
 
+## 🆓 Is Lololyrics API free?
+ Unknown/No 
+
 ## 💬 Lololyrics API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

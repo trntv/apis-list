@@ -12,6 +12,9 @@ It can also detect multiple barcodes at once. It reads the following barcode for
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-barcode/google-barcode.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-barcode/google-barcode.yaml)
 
+## 🆓 Is Google Barcode free?
+ Unknown/No 
+
 ## 💬 Google Barcode Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

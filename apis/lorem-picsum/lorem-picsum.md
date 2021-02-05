@@ -12,6 +12,9 @@ Lorem Ipsum, but for photos.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lorem-picsum/lorem-picsum.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lorem-picsum/lorem-picsum.yaml)
 
+## 🆓 Is Lorem Picsum free?
+ Unknown/No 
+
 ## 💬 Lorem Picsum Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

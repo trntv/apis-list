@@ -12,6 +12,9 @@ You'll fit in here. Using JavaScript, CSS, and SVG, developers now have a fast, 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/fitbit/fitbit.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/fitbit/fitbit.yaml)
 
+## 🆓 Is FitBit free?
+ Unknown/No 
+
 ## 💬 FitBit Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

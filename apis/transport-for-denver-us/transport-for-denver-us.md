@@ -12,6 +12,9 @@ RTD OPEN DATA
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-denver-us/transport-for-denver-us.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-denver-us/transport-for-denver-us.yaml)
 
+## 🆓 Is Transportation in Denver, USA free?
+ Unknown/No 
+
 ## 💬 Transportation in Denver, USA Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

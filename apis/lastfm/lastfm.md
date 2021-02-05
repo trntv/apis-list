@@ -12,6 +12,9 @@ fm. Allows anyone to build their own programs using Last. fm data, whether they'
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lastfm/lastfm.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lastfm/lastfm.yaml)
 
+## 🆓 Is LastFm free?
+ Unknown/No 
+
 ## 💬 LastFm Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

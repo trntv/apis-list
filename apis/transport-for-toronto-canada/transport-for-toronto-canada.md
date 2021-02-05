@@ -10,6 +10,9 @@ MyTTC is the best trip planner available for the TTC
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-toronto-canada/transport-for-toronto-canada.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-toronto-canada/transport-for-toronto-canada.yaml)
 
+## 🆓 Is Transportation in Toronto, Canada free?
+ Unknown/No 
+
 ## 💬 Transportation in Toronto, Canada Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

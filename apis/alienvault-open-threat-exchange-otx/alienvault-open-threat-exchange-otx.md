@@ -12,6 +12,9 @@ Share and collaborate in developing threat intelligence. Protect yourself and th
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/alienvault-open-threat-exchange-otx/alienvault-open-threat-exchange-otx.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/alienvault-open-threat-exchange-otx/alienvault-open-threat-exchange-otx.yaml)
 
+## 🆓 Is AlienVault Open Threat Exchange (OTX) free?
+ Unknown/No 
+
 ## 💬 AlienVault Open Threat Exchange (OTX) Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

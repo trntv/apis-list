@@ -12,6 +12,9 @@ Start building your own website today using official PUBG data
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/playerunknowns-battlegrounds/playerunknowns-battlegrounds.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/playerunknowns-battlegrounds/playerunknowns-battlegrounds.yaml)
 
+## 🆓 Is PlayerUnknown's Battlegrounds free?
+ Unknown/No 
+
 ## 💬 PlayerUnknown's Battlegrounds Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

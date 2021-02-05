@@ -10,6 +10,9 @@ For more information. Access to GitHub’s Gists API. You can read public gists 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/github-gists/github-gists.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/github-gists/github-gists.yaml)
 
+## 🆓 Is GitHub Gists free?
+ Unknown/No 
+
 ## 💬 GitHub Gists Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

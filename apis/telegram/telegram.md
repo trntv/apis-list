@@ -10,6 +10,9 @@ The Bot API allows you to easily create programs that use Telegram. The Telegram
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/telegram/telegram.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/telegram/telegram.yaml)
 
+## 🆓 Is Telegram free?
+ Unknown/No 
+
 ## 💬 Telegram Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

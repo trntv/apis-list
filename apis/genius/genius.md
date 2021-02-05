@@ -12,6 +12,9 @@ Allows users to find details about Genius artists and songs. Use our API and hel
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/genius/genius.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/genius/genius.yaml)
 
+## 🆓 Is Genius free?
+ Unknown/No 
+
 ## 💬 Genius Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

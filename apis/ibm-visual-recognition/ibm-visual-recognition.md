@@ -10,6 +10,9 @@ The IBM Watson Visual Recognition service uses deep learning algorithms to ident
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ibm-visual-recognition/ibm-visual-recognition.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ibm-visual-recognition/ibm-visual-recognition.yaml)
 
+## 🆓 Is IBM Visual Recognition free?
+ Unknown/No 
+
 ## 💬 IBM Visual Recognition Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

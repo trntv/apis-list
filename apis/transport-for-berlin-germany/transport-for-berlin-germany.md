@@ -12,6 +12,9 @@ An HTTP API for Berlin & Brandenburg public transport
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-berlin-germany/transport-for-berlin-germany.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-berlin-germany/transport-for-berlin-germany.yaml)
 
+## 🆓 Is Transportation in Berlin, Germany free?
+ Unknown/No 
+
 ## 💬 Transportation in Berlin, Germany Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

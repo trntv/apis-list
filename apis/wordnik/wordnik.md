@@ -12,6 +12,9 @@ The Wordnik API Docs. Dictionary functions
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wordnik/wordnik.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wordnik/wordnik.yaml)
 
+## 🆓 Is Wordnik free?
+ Unknown/No 
+
 ## 💬 Wordnik Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

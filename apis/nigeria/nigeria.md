@@ -10,6 +10,9 @@ The Official Site of The Central Bank of Nigeria.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nigeria/nigeria.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nigeria/nigeria.yaml)
 
+## 🆓 Is Nigeria free?
+ Unknown/No 
+
 ## 💬 Nigeria Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

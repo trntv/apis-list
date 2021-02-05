@@ -12,6 +12,9 @@ This is a full RESTful API linked to an extensive database detailing everything 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pokeapi/pokeapi.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pokeapi/pokeapi.yaml)
 
+## 🆓 Is Pokéapi free?
+ Unknown/No 
+
 ## 💬 Pokéapi Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

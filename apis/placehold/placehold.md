@@ -12,6 +12,9 @@ Contents1 What Is Placeholder. com?2 How To Use Our Placeholders3 How To Set Ima
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/placehold/placehold.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/placehold/placehold.yaml)
 
+## 🆓 Is Placehold free?
+ Unknown/No 
+
 ## 💬 Placehold Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

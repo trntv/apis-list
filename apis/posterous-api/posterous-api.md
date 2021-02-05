@@ -12,6 +12,9 @@ Similar to other blogging platforms. Posting could be done by logging into the w
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/posterous-api/posterous-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/posterous-api/posterous-api.yaml)
 
+## 🆓 Is Posterous API free?
+ Unknown/No 
+
 ## 💬 Posterous API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

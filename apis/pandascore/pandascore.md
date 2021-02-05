@@ -12,6 +12,9 @@ Get events and detailed match data in real time from major league tournaments, o
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pandascore/pandascore.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pandascore/pandascore.yaml)
 
+## 🆓 Is PandaScore free?
+ Unknown/No 
+
 ## 💬 PandaScore Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

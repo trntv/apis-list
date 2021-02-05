@@ -10,6 +10,9 @@ Explore lots from the past online whisky auctions. Whisky Hunter have collected 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/whisky-hunter/whisky-hunter.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/whisky-hunter/whisky-hunter.yaml)
 
+## 🆓 Is Whisky Hunter free?
+ Unknown/No 
+
 ## 💬 Whisky Hunter Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

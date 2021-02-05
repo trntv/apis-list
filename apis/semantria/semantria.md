@@ -10,6 +10,9 @@ Flexible natural language processing APIs and complete text analytics platform s
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/semantria/semantria.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/semantria/semantria.yaml)
 
+## 🆓 Is Lexalytics free?
+ Unknown/No 
+
 ## 💬 Lexalytics Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

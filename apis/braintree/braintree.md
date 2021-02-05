@@ -10,6 +10,9 @@ Specializes in mobile and web payment systems for ecommerce companies. Braintree
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/braintree/braintree.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/braintree/braintree.yaml)
 
+## 🆓 Is Braintree free?
+ Unknown/No 
+
 ## 💬 Braintree Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

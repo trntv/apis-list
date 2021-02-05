@@ -12,6 +12,9 @@ A collection of all VAT rates for EU countries
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/vat-rates/vat-rates.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/vat-rates/vat-rates.yaml)
 
+## 🆓 Is Vat Rates free?
+ Unknown/No 
+
 ## 💬 Vat Rates Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ Easily integrate Okta SAML, Google OAuth, and more. Support Single Sign-On for c
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/workos/workos.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/workos/workos.yaml)
 
+## 🆓 Is WorkOS free?
+ Unknown/No 
+
 ## 💬 WorkOS Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

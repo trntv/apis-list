@@ -10,6 +10,9 @@ The Strain API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/marijuana-strains/marijuana-strains.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/marijuana-strains/marijuana-strains.yaml)
 
+## 🆓 Is Marijuana Strains free?
+ Unknown/No 
+
 ## 💬 Marijuana Strains Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

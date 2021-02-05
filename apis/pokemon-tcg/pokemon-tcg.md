@@ -12,6 +12,9 @@ The Pokémon TCG API allows developers to easily consume Pokémon card and set d
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pokemon-tcg/pokemon-tcg.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pokemon-tcg/pokemon-tcg.yaml)
 
+## 🆓 Is Pokémon TCG free?
+ Unknown/No 
+
 ## 💬 Pokémon TCG Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

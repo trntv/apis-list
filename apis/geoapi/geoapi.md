@@ -12,6 +12,9 @@ Administrative Breakdown API - (Geo API) is one of the France's public service A
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/geoapi/geoapi.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/geoapi/geoapi.yaml)
 
+## 🆓 Is GeoApi free?
+ Unknown/No 
+
 ## 💬 GeoApi Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ Included a blogging system, photo gallery, lists, friends, a guestbook, and a so
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/windows-live-spaces-api/windows-live-spaces-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/windows-live-spaces-api/windows-live-spaces-api.yaml)
 
+## 🆓 Is Windows Live Spaces API free?
+ Unknown/No 
+
 ## 💬 Windows Live Spaces API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -10,6 +10,9 @@ geocode. xyz - A geoparser, geocoder and batch geocoder for the world. Map your 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/geocode-xyz/geocode-xyz.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/geocode-xyz/geocode-xyz.yaml)
 
+## 🆓 Is Geocode.xyz free?
+ Unknown/No 
+
 ## 💬 Geocode.xyz Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

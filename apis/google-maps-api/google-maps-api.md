@@ -12,6 +12,9 @@ Choose Google Maps Platform to create immersive location experiences and make be
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-maps-api/google-maps-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-maps-api/google-maps-api.yaml)
 
+## 🆓 Is Google Maps API free?
+ Unknown/No 
+
 ## 💬 Google Maps API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

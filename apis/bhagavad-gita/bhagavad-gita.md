@@ -12,6 +12,9 @@ Bhagwat Geeta in Hindi and English. Read Bhagavad Gita online in a simple, beaut
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bhagavad-gita/bhagavad-gita.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bhagavad-gita/bhagavad-gita.yaml)
 
+## 🆓 Is Bhagavad Gita free?
+ Unknown/No 
+
 ## 💬 Bhagavad Gita Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

@@ -12,6 +12,9 @@ A free API to retrieve some quotes of Breaking Bad.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/breaking-bad-quotes/breaking-bad-quotes.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/breaking-bad-quotes/breaking-bad-quotes.yaml)
 
+## 🆓 Is Breaking Bad Quotes free?
+ Unknown/No 
+
 ## 💬 Breaking Bad Quotes Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

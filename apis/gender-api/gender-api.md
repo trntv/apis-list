@@ -10,6 +10,9 @@ Keep your registration forms simple. Optimize your conversions and let us determ
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gender-api/gender-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gender-api/gender-api.yaml)
 
+## 🆓 Is Gender API free?
+ Unknown/No 
+
 ## 💬 Gender API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

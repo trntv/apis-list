@@ -12,6 +12,9 @@ API that provides informations about Clash Royale game
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/clash-royale/clash-royale.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/clash-royale/clash-royale.yaml)
 
+## 🆓 Is Clash Royale free?
+ Unknown/No 
+
 ## 💬 Clash Royale Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

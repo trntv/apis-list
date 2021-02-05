@@ -12,6 +12,9 @@ This page lists the objects exposed by the Google Visualization API, and the sta
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-visualization-api/google-visualization-api.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-visualization-api/google-visualization-api.yaml)
 
+## 🆓 Is Google Visualization API free?
+ Unknown/No 
+
 ## 💬 Google Visualization API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

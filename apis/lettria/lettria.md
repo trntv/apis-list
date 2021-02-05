@@ -12,6 +12,9 @@ LETTRIA is a natural language processing tool (NLP) dedicated to understanding F
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lettria/lettria.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lettria/lettria.yaml)
 
+## 🆓 Is Lettria free?
+ Unknown/No 
+
 ## 💬 Lettria Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 

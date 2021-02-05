@@ -10,6 +10,9 @@ Connects people together, making it possible to travel literally anywhere, direc
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/blablacar/blablacar.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/blablacar/blablacar.yaml)
 
+## 🆓 Is BlaBlaCar free?
+ Unknown/No 
+
 ## 💬 BlaBlaCar Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
