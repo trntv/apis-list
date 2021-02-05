@@ -3,7 +3,7 @@ slug: transport-for-sweden
 categories:
     - Transportation
 description: Arrival and departure forecasts for buses, metro, commuter trains, local railways and boats in Stockholm
-is_free: false
+is_free: true
 type: REST
 is_active: true
 links:

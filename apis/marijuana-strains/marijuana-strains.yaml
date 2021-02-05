@@ -3,7 +3,7 @@ slug: marijuana-strains
 categories:
     - Health
 description: The Strain API
-is_free: false
+is_free: true
 type: REST
 is_active: true
 links:

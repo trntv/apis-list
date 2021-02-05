@@ -3,7 +3,7 @@ slug: lcbo
 categories:
     - Food & Drinks
 description: 'LCBO API is open source now, find it on GitHub: heycarsten/lcbo-api'
-is_free: false
+is_free: true
 type: REST
 is_active: true
 links:

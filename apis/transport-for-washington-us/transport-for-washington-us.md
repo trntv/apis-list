@@ -11,7 +11,7 @@ GTFS Changes and GTFS-RT Debut Metro has officially launched GTFS-RT! Developers
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-washington-us/transport-for-washington-us.yaml)
 
 ## 🆓 Is Transportation in Washington, USA free?
- Unknown/No 
+ Yes! 
 
 ## 💬 Transportation in Washington, USA Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -5,7 +5,7 @@ categories:
     - Sport & Fitness
     - Statistics & Data
 description: Open Food Facts is a database of food products with ingredients, allergens, nutrition facts and all the tidbits of information we can find on product labels.
-is_free: false
+is_free: true
 type: REST
 is_active: true
 libraries:

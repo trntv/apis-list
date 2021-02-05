@@ -11,7 +11,7 @@ Madrid BUS transport API
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-madrid-spain/transport-for-madrid-spain.yaml)
 
 ## 🆓 Is Transportation in Madrid, Spain free?
- Unknown/No 
+ Yes! 
 
 ## 💬 Transportation in Madrid, Spain Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

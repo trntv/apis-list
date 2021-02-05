@@ -11,7 +11,7 @@ Service that brings together all your travel information in the Grenoble area
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-grenoble-france/transport-for-grenoble-france.yaml)
 
 ## 🆓 Is Transportation in Grenoble, France free?
- Unknown/No 
+ Yes! 
 
 ## 💬 Transportation in Grenoble, France Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

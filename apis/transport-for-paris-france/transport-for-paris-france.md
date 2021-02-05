@@ -11,7 +11,7 @@ Realtime schedules for Paris metro network (RATP - metro, bus, tram, rer)
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-paris-france/transport-for-paris-france.yaml)
 
 ## 🆓 Is Transportation in Paris, France free?
- Unknown/No 
+ Yes! 
 
 ## 💬 Transportation in Paris, France Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -3,7 +3,7 @@ slug: transport-for-madrid-spain
 categories:
     - Transportation
 description: Madrid BUS transport API
-is_free: false
+is_free: true
 is_active: true
 links:
     - name: Docs / Website

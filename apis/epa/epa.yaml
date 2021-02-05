@@ -4,7 +4,7 @@ categories:
     - Government
     - Environment & Nature
 description: United States Environmental Protection Agency API
-is_free: false
+is_free: true
 type: REST
 is_active: true
 links:

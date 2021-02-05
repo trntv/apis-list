@@ -11,7 +11,7 @@ A place where APIs are kept. A place where APIs are kept
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-budapest-hungary/transport-for-budapest-hungary.yaml)
 
 ## 🆓 Is Transportation in Budapest, Hungary free?
- Unknown/No 
+ Yes! 
 
 ## 💬 Transportation in Budapest, Hungary Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

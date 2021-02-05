@@ -4,7 +4,7 @@ categories:
     - Government
     - Statistics & Data
 description: Welcome to the city-wide port. Here the municipality of the capital, contributory organizations, city districts and other related entities publish the data in machine readable format
-is_free: false
+is_free: true
 type: REST
 is_active: true
 links:

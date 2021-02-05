@@ -3,7 +3,7 @@ slug: transport-for-budapest-hungary
 categories:
     - Transportation
 description: A place where APIs are kept. A place where APIs are kept
-is_free: false
+is_free: true
 type: REST
 is_active: true
 links:

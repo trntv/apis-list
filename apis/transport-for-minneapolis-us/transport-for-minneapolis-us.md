@@ -13,7 +13,7 @@ NexTrip API
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-minneapolis-us/transport-for-minneapolis-us.yaml)
 
 ## 🆓 Is Transportation in Minneapolis, USA free?
- Unknown/No 
+ Yes! 
 
 ## 💬 Transportation in Minneapolis, USA Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

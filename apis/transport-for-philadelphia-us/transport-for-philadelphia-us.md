@@ -13,7 +13,7 @@ Southeastern Pennsylvania Transportation Authority API
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-philadelphia-us/transport-for-philadelphia-us.yaml)
 
 ## 🆓 Is Transportation in Philadelphia, USA free?
- Unknown/No 
+ Yes! 
 
 ## 💬 Transportation in Philadelphia, USA Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

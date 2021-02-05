@@ -13,7 +13,7 @@ Geocode spreadsheets or use our API - without restrictions. Add census data, ZIP
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/geocod-io/geocod-io.yaml)
 
 ## 🆓 Is Geocod.io free?
- Unknown/No 
+ Yes! 
 
 ## 💬 Geocod.io Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

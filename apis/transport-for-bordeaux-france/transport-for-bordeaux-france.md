@@ -11,7 +11,7 @@ Bordeaux Transportion Data
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-bordeaux-france/transport-for-bordeaux-france.yaml)
 
 ## 🆓 Is Transportation in Bordeaux, France free?
- Unknown/No 
+ Yes! 
 
 ## 💬 Transportation in Bordeaux, France Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -4,7 +4,7 @@ categories:
     - Random
     - Testing
 description: Free and public API that generates random and fake people's data in JSON.
-is_free: false
+is_free: true
 type: REST
 is_active: true
 links:

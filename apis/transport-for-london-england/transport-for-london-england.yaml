@@ -3,7 +3,7 @@ slug: transport-for-london-england
 categories:
     - Transportation
 description: Transport for London open data. All public TfL data (or 'open data') is freely released here for developers to use in their own software and services. We encourage software developers to use these feeds to present customer travel information in innovative ways
-is_free: false
+is_free: true
 logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-london-england/logo_256x256.png
 type: REST
 contact: support@telnyx.com

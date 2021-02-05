@@ -3,7 +3,7 @@ slug: data-science-toolkit
 categories:
     - Statistics & Data
 description: A collection of the best open data sets and open-source tools for data science.
-is_free: false
+is_free: true
 logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/data-science-toolkit/logo_256x256.png
 type: REST
 is_active: true

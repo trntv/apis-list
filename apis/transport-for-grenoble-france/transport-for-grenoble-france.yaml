@@ -3,7 +3,7 @@ slug: transport-for-grenoble-france
 categories:
     - Transportation
 description: Service that brings together all your travel information in the Grenoble area
-is_free: false
+is_free: true
 type: REST
 is_active: true
 links:

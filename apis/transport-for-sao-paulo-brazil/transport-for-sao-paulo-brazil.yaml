@@ -3,7 +3,7 @@ slug: transport-for-sao-paulo-brazil
 categories:
     - Transportation
 description: Bus lines in the city of São Paulo
-is_free: false
+is_free: true
 type: REST
 is_active: true
 links:

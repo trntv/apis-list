@@ -3,7 +3,7 @@ slug: transport-for-denver-us
 categories:
     - Transportation
 description: RTD OPEN DATA
-is_free: false
+is_free: true
 logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-denver-us/logo_256x256.png
 type: REST
 is_active: true

@@ -3,7 +3,7 @@ slug: transport-for-switzerland
 categories:
     - Transportation
 description: Here you can view mobility data free of charge and access various services. The data. opentransportdata. swiss is the customer information platform for Swiss public transport and individual mobility
-is_free: false
+is_free: true
 type: REST
 is_active: true
 links:

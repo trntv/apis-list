@@ -11,7 +11,7 @@ Here you can view mobility data free of charge and access various services. The 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-switzerland/transport-for-switzerland.yaml)
 
 ## 🆓 Is Transportation in Switzerland free?
- Unknown/No 
+ Yes! 
 
 ## 💬 Transportation in Switzerland Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

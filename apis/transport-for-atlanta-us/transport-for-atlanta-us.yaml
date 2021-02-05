@@ -3,7 +3,7 @@ slug: transport-for-atlanta-us
 categories:
     - Transportation
 description: MARTA. Atlanta transporation services
-is_free: false
+is_free: true
 type: REST
 is_active: true
 links:

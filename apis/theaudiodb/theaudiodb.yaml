@@ -3,7 +3,7 @@ slug: theaudiodb
 categories:
     - Music & Audio
 description: TheAudioDB is a community database of Music Artwork, Metadata and Charts with a free JSON Music API
-is_free: false
+is_free: true
 type: REST
 is_active: true
 libraries:

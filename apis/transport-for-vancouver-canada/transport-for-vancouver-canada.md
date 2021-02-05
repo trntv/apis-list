@@ -11,7 +11,7 @@ The TransLink Open API provides access to data associated with the regional bus 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-vancouver-canada/transport-for-vancouver-canada.yaml)
 
 ## 🆓 Is Transportation in Vancouver, Canada free?
- Unknown/No 
+ Yes! 
 
 ## 💬 Transportation in Vancouver, Canada Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

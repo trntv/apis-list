@@ -4,7 +4,7 @@ categories:
     - Documents & Productivity
     - Scrapers & Data Mining
 description: Free, powerful HTML to PDF API supporting both URL and raw HTML conversion. Unlimited document size, lightning-fast and compatible PHP, Python, Ruby, etc
-is_free: false
+is_free: true
 logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pdflayer/logo_256x256.png
 type: REST
 is_active: true

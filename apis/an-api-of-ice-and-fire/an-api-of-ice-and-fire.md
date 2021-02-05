@@ -11,7 +11,7 @@ The API is open source!
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/an-api-of-ice-and-fire/an-api-of-ice-and-fire.yaml)
 
 ## 🆓 Is An API of Ice And Fire free?
- Unknown/No 
+ Yes! 
 
 ## 💬 An API of Ice And Fire Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -11,7 +11,7 @@ Free, legal research articles delivered instantly or automatically requested fro
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-access-button/open-access-button.yaml)
 
 ## 🆓 Is Open Access Button free?
- Unknown/No 
+ Yes! 
 
 ## 💬 Open Access Button Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

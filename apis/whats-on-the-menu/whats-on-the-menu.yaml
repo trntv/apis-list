@@ -3,7 +3,7 @@ slug: whats-on-the-menu
 categories:
     - Food & Drinks
 description: Historical menu data
-is_free: false
+is_free: true
 type: REST
 is_active: true
 links:

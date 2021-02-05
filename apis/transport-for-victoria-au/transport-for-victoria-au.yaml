@@ -6,7 +6,7 @@ description: |-
     This page is not yet available on the PTV Beta website. <br />
     <br />
     Please refer to the PTV website until further notice. PTV API
-is_free: false
+is_free: true
 is_active: true
 links:
     - name: Docs / Website

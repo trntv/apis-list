@@ -3,7 +3,7 @@ slug: transport-for-washington-us
 categories:
     - Transportation
 description: GTFS Changes and GTFS-RT Debut Metro has officially launched GTFS-RT! Developers now have access to the new Metrorail and Metrobus feeds through the Developer Portal. With the implementation of GTF
-is_free: false
+is_free: true
 type: REST
 is_active: true
 links:

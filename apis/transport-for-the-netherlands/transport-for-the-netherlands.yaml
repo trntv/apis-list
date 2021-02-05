@@ -3,7 +3,7 @@ slug: transport-for-the-netherlands
 categories:
     - Transportation
 description: NS has a large amount of data with information about the planned and current timetable
-is_free: false
+is_free: true
 logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-the-netherlands/logo_256x256.png
 type: REST
 is_active: true

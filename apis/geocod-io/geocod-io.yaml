@@ -3,7 +3,7 @@ slug: geocod-io
 categories:
     - Maps & Geo
 description: Geocode spreadsheets or use our API - without restrictions. Add census data, ZIP+4, congressional districts, timezones, and more
-is_free: false
+is_free: true
 logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/geocod-io/logo_256x256.png
 type: REST
 is_active: true

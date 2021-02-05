@@ -3,7 +3,7 @@ slug: city-bikes
 categories:
     - Sport & Fitness
 description: Project that provides bike sharing data for apps, research and projects to use.
-is_free: false
+is_free: true
 type: REST
 is_active: true
 links:

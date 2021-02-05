@@ -3,7 +3,7 @@ slug: transport-for-czech-republic
 categories:
     - Transportation
 description: CHAPS spol. s r. o. je společnost zabývající se vývojem IT aplikací a systémů, jejich údržbou a provozem. Zaměřujeme se na komplexní softwarová řešení zejména pro oblast osobní dopravy a to jak na železnici, tak na silnici
-is_free: false
+is_free: true
 logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-czech-republic/logo_256x256.png
 type: REST
 is_active: true

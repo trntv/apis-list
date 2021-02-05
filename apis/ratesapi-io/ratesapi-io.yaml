@@ -3,7 +3,7 @@ slug: ratesapi-io
 categories:
     - Finance & Economics
 description: Free currency exchange rates and currency conversion. Exchange rate API to convert one currency from another and returns in JSON format. RateAPI tracks rates daily published by European central bank
-is_free: false
+is_free: true
 type: REST
 is_active: true
 links:

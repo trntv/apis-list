@@ -13,7 +13,7 @@ Official website of the MBTA -- schedules, maps, and fare information for Greate
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-boston-us/transport-for-boston-us.yaml)
 
 ## 🆓 Is Transportation in Boston, USA free?
- Unknown/No 
+ Yes! 
 
 ## 💬 Transportation in Boston, USA Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

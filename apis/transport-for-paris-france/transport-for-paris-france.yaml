@@ -3,7 +3,7 @@ slug: transport-for-paris-france
 categories:
     - Transportation
 description: Realtime schedules for Paris metro network (RATP - metro, bus, tram, rer)
-is_free: false
+is_free: true
 type: REST
 is_active: false
 links:

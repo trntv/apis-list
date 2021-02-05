@@ -13,7 +13,7 @@ MTA
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-new-york-city-us/transport-for-new-york-city-us.yaml)
 
 ## 🆓 Is Transportation in New York City, USA free?
- Unknown/No 
+ Yes! 
 
 ## 💬 Transportation in New York City, USA Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

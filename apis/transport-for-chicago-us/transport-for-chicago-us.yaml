@@ -3,7 +3,7 @@ slug: transport-for-chicago-us
 categories:
     - Transportation
 description: The CTA's Developer Center offers a variety of data feeds that allow anyone to develop Web, mobile and other applications to help transit riders throughout the Chicago area
-is_free: false
+is_free: true
 logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-chicago-us/logo_256x256.png
 type: REST
 is_active: true

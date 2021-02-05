@@ -6,7 +6,7 @@ categories:
     - Search
     - News & Feeds
 description: Free, legal research articles delivered instantly or automatically requested from authors.
-is_free: false
+is_free: true
 type: REST
 is_active: true
 links:

@@ -13,7 +13,7 @@ Table FIPE Consultation API provides average vehicle prices in the brazilian mar
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/brazilian-vehicles-and-prices/brazilian-vehicles-and-prices.yaml)
 
 ## 🆓 Is Brazilian Vehicles and Prices free?
- Unknown/No 
+ Yes! 
 
 ## 💬 Brazilian Vehicles and Prices Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

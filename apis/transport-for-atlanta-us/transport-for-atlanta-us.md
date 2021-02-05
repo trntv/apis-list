@@ -11,7 +11,7 @@ MARTA. Atlanta transporation services
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-atlanta-us/transport-for-atlanta-us.yaml)
 
 ## 🆓 Is Transportation in Atlanta, USA free?
- Unknown/No 
+ Yes! 
 
 ## 💬 Transportation in Atlanta, USA Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
