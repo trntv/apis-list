@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/harry-potter/logo_256x256.png" alt="Harry Potter Logo"/>
 </p>
-Harry Potter API Documentation Response Formats Authentication All Routes Sorting Hat Route Character Routes House Routes Spell Routes 🚧 Under Construction 🚧 Trans Lives Matter
+Harry Potter API
 
 ##  🔗 Links
 **Docs / Website**: https://www.potterapi.com/
@@ -13,7 +13,7 @@ Harry Potter API Documentation Response Formats Authentication All Routes Sortin
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/harry-potter/harry-potter.yaml)
 
 ## 🆓 Is Harry Potter free?
- Unknown/No 
+ Yes! 
 
 ## 💬 Harry Potter Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

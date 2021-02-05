@@ -4,8 +4,8 @@ categories:
     - Video & Media
     - Entertainment
     - Books
-description: "Harry Potter API Documentation Response Formats Authentication All Routes Sorting Hat Route Character Routes House Routes Spell Routes \U0001F6A7 Under Construction \U0001F6A7 Trans Lives Matter"
-is_free: false
+description: Harry Potter API
+is_free: true
 logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/harry-potter/logo_256x256.png
 type: REST
 is_active: true
