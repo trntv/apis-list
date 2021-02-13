@@ -8,8 +8,8 @@ Here you will find everything you need to get started with your integration of o
 **Docs / Website**: https://www.ip1sms.com/en/developer/
 
 ## 🧬 iP1sms specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is iP1sms free?

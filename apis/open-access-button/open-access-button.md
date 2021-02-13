@@ -5,8 +5,8 @@ Free, legal research articles delivered instantly or automatically requested fro
 **Docs / Website**: https://openaccessbutton.org/api
 
 ## 🧬 Open Access Button specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Open Access Button free?

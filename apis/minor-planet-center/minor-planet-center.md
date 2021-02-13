@@ -5,8 +5,8 @@ Minor Planet Center API Overview Asterank offers a database API for the Minor Pl
 **Docs / Website**: http://www.asterank.com/mpc
 
 ## 🧬 Minor Planet Center specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Minor Planet Center free?

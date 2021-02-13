@@ -5,8 +5,8 @@ A comprehensive resource of dictionary and thesaurus data powered by Merriam-Web
 **Docs / Website**: http://www.dictionaryapi.com/
 
 ## 🧬 Merriam-Webster Dictionary API specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Merriam-Webster Dictionary API free?

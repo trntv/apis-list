@@ -5,8 +5,8 @@ ANN provides a direct feed to the Encyclopedia data in XML format
 **Docs / Website**: https://www.animenewsnetwork.com/encyclopedia/api.php
 
 ## 🧬 AnimeNewsNetwork specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is AnimeNewsNetwork free?

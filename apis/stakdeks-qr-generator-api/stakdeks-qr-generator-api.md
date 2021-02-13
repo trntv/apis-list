@@ -8,8 +8,8 @@ The QR-Code generator gets your data and generates a QR-Code
 **Docs / Website**: https://api.stakdek.de/blog?id&#x3D;1006
 
 ## 🧬 Stakdek&#x27;s QR generator API specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Stakdek&#x27;s QR generator API free?

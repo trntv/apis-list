@@ -8,8 +8,8 @@ The API discussed here is an interface to the MusicBrainz Database. It is aimed 
 **Docs / Website**: https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2
 
 ## 🧬 MusicBrainz specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is MusicBrainz free?

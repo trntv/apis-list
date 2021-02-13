@@ -5,8 +5,8 @@ Real-time forex and crypto quotes via JSON and WebSocket
 **Docs / Website**: https://1forge.com/
 
 ## 🧬 1Forge.com specification:
-**Type**: swagger
-**URI**: http://1forge.com/openapi.json
+**Type**: swagger  
+**URI**: http://1forge.com/openapi.json  
 **Version**: http://1forge.com/openapi.json
 
 ## 🆓 Is 1Forge.com free?

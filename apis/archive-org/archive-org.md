@@ -8,8 +8,8 @@ The Internet Archive (the “Archive”) is a 501(c)(3) nonprofit organization c
 **Docs / Website**: https://archive.readme.io/docs
 
 ## 🧬 Archive.org specification:
-**Type**: swagger
-**URI**: https://raw.githubusercontent.com/NYTimes/public_api_specs/master/archive_api/archive_api.json
+**Type**: swagger  
+**URI**: https://raw.githubusercontent.com/NYTimes/public_api_specs/master/archive_api/archive_api.json  
 **Version**: https://raw.githubusercontent.com/NYTimes/public_api_specs/master/archive_api/archive_api.json
 
 ## 🆓 Is Archive.org free?

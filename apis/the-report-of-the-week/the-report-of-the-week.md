@@ -8,8 +8,8 @@ API of The Report Of The Week Reviews. Contribute to andyklimczak/TheReportOfThe
 **Docs / Website**: https://github.com/andyklimczak/TheReportOfTheWeek-API
 
 ## 🧬 The Report of the Week specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is The Report of the Week free?

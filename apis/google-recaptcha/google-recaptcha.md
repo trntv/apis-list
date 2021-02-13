@@ -8,8 +8,8 @@ ReCAPTCHA lets you embed a CAPTCHA in your web pages in order to protect them ag
 **Docs / Website**: https://developers.google.com/recaptcha/intro?hl&#x3D;en
 
 ## 🧬 Google reCAPTCHA specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Google reCAPTCHA free?

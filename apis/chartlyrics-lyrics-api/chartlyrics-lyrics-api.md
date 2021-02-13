@@ -5,8 +5,8 @@ v1. 1 Update, adding TrackId and TrackChecksum for future AddLyric function, Add
 **Docs / Website**: http://www.chartlyrics.com/api.aspx
 
 ## 🧬 ChartLyrics Lyrics API specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is ChartLyrics Lyrics API free?

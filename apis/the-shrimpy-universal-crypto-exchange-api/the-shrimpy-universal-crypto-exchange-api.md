@@ -8,8 +8,8 @@ Collect real-time trade or order book data for free, manage user exchange accoun
 **Docs / Website**: https://developers.shrimpy.io/
 
 ## 🧬 The Shrimpy Universal Crypto Exchange Api specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is The Shrimpy Universal Crypto Exchange Api free?

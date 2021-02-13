@@ -8,8 +8,8 @@ Database of over 300,000 restaurant menus and over 30,000,000 Individual Menu It
 **Docs / Website**: https://rapidapi.com/restaurantmenus/api/restaurant-menus
 
 ## 🧬 US Restaurant Menus specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is US Restaurant Menus free?

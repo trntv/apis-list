@@ -8,8 +8,8 @@ API Generator for telephones, text, numbers, passwords, names, social security n
 **Docs / Website**: https://randommer.io/randommer-api
 
 ## 🧬 Random Data Generator specification:
-**Type**: openapi
-**URI**: https://randommer.io/api/docs/v1/swagger.json
+**Type**: openapi  
+**URI**: https://randommer.io/api/docs/v1/swagger.json  
 **Version**: https://randommer.io/api/docs/v1/swagger.json
 
 ## 🆓 Is Random Data Generator free?

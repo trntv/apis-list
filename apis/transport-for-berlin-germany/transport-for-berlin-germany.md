@@ -8,8 +8,8 @@ An HTTP API for Berlin &amp; Brandenburg public transport
 **Docs / Website**: https://github.com/derhuerst/vbb-rest/blob/3/docs/index.md
 
 ## 🧬 Transportation in Berlin, Germany specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Transportation in Berlin, Germany free?

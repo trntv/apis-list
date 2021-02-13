@@ -8,8 +8,8 @@ Table FIPE Consultation API provides average vehicle prices in the brazilian mar
 **Docs / Website**: https://deividfortuna.github.io/fipe/
 
 ## 🧬 Brazilian Vehicles and Prices specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Brazilian Vehicles and Prices free?

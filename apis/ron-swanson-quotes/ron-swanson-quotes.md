@@ -8,8 +8,8 @@ Node. Node. js server for providing Ron Swanson quotes. Contribute to jamesseanw
 **Docs / Website**: https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api
 
 ## 🧬 Ron Swanson Quotes specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Ron Swanson Quotes free?

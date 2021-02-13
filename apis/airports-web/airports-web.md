@@ -5,8 +5,8 @@ Covered Airports mostly Germany. Request Airport name and website URL for airpor
 **Docs / Website**: https://airport-web.appspot.com/api/docs/
 
 ## 🧬 Airports Web specification:
-**Type**: swagger
-**URI**: https://airport-web.appspot.com/api/docs/swagger.json
+**Type**: swagger  
+**URI**: https://airport-web.appspot.com/api/docs/swagger.json  
 **Version**: https://airport-web.appspot.com/api/docs/swagger.json
 
 ## 🆓 Is Airports Web free?

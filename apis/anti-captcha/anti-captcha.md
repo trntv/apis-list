@@ -8,8 +8,8 @@ Access to Anti-Captcha’s API. Bypass reCAPTCHA, solve image captchas, hCaptcha
 **Docs / Website**: https://anti-captcha.com/apidoc
 
 ## 🧬 Anti-Captcha specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Anti-Captcha free?

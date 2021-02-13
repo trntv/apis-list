@@ -8,8 +8,8 @@ Access to Cambridge’s custom-developed API. License our data. Use Cambridge Di
 **Docs / Website**: http://dictionary.cambridge.org/license.html
 
 ## 🧬 Cambridge Dictionaries Online specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Cambridge Dictionaries Online free?

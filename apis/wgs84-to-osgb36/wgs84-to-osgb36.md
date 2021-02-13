@@ -5,8 +5,8 @@ Convert a WGS84 latitude and longitude to OSGB36 easting and northing (British N
 **Docs / Website**: https://quicksold.co.uk/swagger
 
 ## 🧬 Wgs84 To Osgb36 specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Wgs84 To Osgb36 free?

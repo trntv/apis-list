@@ -8,8 +8,8 @@ Web Analytics, open sourced. Open Web Analytics is an open source alternative to
 **Docs / Website**: https://github.com/padams/Open-Web-Analytics/wiki/Data-Access-API
 
 ## 🧬 Open Web Analytics specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Open Web Analytics free?

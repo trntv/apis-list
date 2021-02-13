@@ -8,8 +8,8 @@ CHAPS spol. s r. o. je společnost zabývající se vývojem IT aplikací a syst
 **Docs / Website**: https://www.chaps.cz/eng/products/idos-internet
 
 ## 🧬 Transportation in Czech Republic specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Transportation in Czech Republic free?

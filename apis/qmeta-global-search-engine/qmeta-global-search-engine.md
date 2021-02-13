@@ -8,8 +8,8 @@ RadSportRadar ist eine Übersichtskarte über alle gemeldeten Straßenschäden u
 **Docs / Website**: https://www.radsportradar.de/#qmeta
 
 ## 🧬 Qmeta Global Search Engine specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Qmeta Global Search Engine free?

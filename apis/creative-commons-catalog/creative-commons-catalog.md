@@ -5,8 +5,8 @@ The Creative Commons Catalog API (&#x27;cccatalog-api&#x27;) is a system that al
 **Docs / Website**: https://api.creativecommons.engineering/
 
 ## 🧬 Creative Commons Catalog specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Creative Commons Catalog free?

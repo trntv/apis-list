@@ -5,8 +5,8 @@ Weather for boating
 **Docs / Website**: http://api.oceandrivers.com/static/docs.html
 
 ## 🧬 ODWeather specification:
-**Type**: swagger
-**URI**: https://api.oceandrivers.com/static/resources.json
+**Type**: swagger  
+**URI**: https://api.oceandrivers.com/static/resources.json  
 **Version**: https://api.oceandrivers.com/static/resources.json
 
 ## 🆓 Is ODWeather free?

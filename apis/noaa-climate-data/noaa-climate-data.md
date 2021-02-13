@@ -8,8 +8,8 @@ Climate Data Online (CDO) provides free access to NCDC&#x27;s archive of global 
 **Docs / Website**: https://www.ncdc.noaa.gov/cdo-web/
 
 ## 🧬 NOAA Climate Data specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is NOAA Climate Data free?

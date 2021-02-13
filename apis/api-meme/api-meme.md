@@ -5,8 +5,8 @@ Generate memes with a simple link!. Meme Top Text Bottom Text Link To access the
 **Docs / Website**: http://apimeme.com
 
 ## 🧬 Api Meme specification:
-**Type**: openapi
-**URI**: https://tl-api.azurewebsites.net/swagger/default/swagger.json
+**Type**: openapi  
+**URI**: https://tl-api.azurewebsites.net/swagger/default/swagger.json  
 **Version**: https://tl-api.azurewebsites.net/swagger/default/swagger.json
 
 ## 🆓 Is Api Meme free?

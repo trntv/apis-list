@@ -5,8 +5,8 @@ Monetize across platforms with multiple ad formats. Mobile Ads Monetize your glo
 **Docs / Website**: https://developer.amazon.com/mobile-ads
 
 ## 🧬 Amazon Mobile Ads specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Amazon Mobile Ads free?

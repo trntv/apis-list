@@ -5,8 +5,8 @@ Find out how you can use the Microsoft Graph API to connect to the data that dri
 **Docs / Website**: https://graph.microsoft.io/en-us/docs/api-reference/v1.0/resources/onedrive
 
 ## 🧬 Microsoft Graph specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Microsoft Graph free?

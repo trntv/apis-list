@@ -5,8 +5,8 @@ Service for collecting, visualizing, and understanding app usage data at scale
 **Docs / Website**: https://aws.amazon.com/documentation/mobileanalytics/
 
 ## 🧬 Amazon Mobile Analytics specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
-**URI**: https://raw.githubusercontent.com/aws/aws-sdk-js/master/apis/mobileanalytics-2014-06-05.normal.json
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
+**URI**: https://raw.githubusercontent.com/aws/aws-sdk-js/master/apis/mobileanalytics-2014-06-05.normal.json  
 **Version**: https://raw.githubusercontent.com/aws/aws-sdk-js/master/apis/mobileanalytics-2014-06-05.normal.json
 
 ## 🆓 Is Amazon Mobile Analytics free?

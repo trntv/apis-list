@@ -8,8 +8,8 @@ Take your ML projects to production, quickly and cost-effectively. Cloud-based m
 **Docs / Website**: https://cloud.google.com/ml-engine/docs/
 
 ## 🧬 Cloud Machine Learning Engine specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Cloud Machine Learning Engine free?

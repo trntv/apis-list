@@ -5,8 +5,8 @@ Accurate &amp; reliable Exchange Rates API trusted by tens of thousands of devel
 **Docs / Website**: https://www.exchangerate-api.com/docs/overview
 
 ## 🧬 ExchangeRate-API.com specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is ExchangeRate-API.com free?

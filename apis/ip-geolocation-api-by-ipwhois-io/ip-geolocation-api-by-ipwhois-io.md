@@ -8,8 +8,8 @@ Filter out bot traffic, customize content based on visitor&#x27;s location, disp
 **Docs / Website**: https://ipwhois.io
 
 ## 🧬 Ip Geolocation Api By Ipwhois.Io specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Ip Geolocation Api By Ipwhois.Io free?

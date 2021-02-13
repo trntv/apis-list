@@ -8,8 +8,8 @@ Start building your own website today using official PUBG data
 **Docs / Website**: https://pubgtracker.com/site-api
 
 ## 🧬 PlayerUnknown&#x27;s Battlegrounds specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is PlayerUnknown&#x27;s Battlegrounds free?

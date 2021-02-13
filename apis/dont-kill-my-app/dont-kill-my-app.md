@@ -8,8 +8,8 @@ Android vendors, don&#x27;t kill my app! dontkillmyapp.com official API
 **Docs / Website**: https://github.com/urbandroid-team/dont-kill-my-app
 
 ## 🧬 Don&#x27;t Kill My App specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Don&#x27;t Kill My App free?

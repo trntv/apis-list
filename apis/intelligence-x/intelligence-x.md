@@ -8,8 +8,8 @@ Public SDK for Intelligence X. Contribute to IntelligenceX/SDK development by cr
 **Docs / Website**: https://github.com/IntelligenceX/SDK/blob/master/Intelligence%20X%20API.pdf
 
 ## 🧬 Intelligence X specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Intelligence X free?

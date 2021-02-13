@@ -5,8 +5,8 @@ USGS Earthquake Hazards Program, responsible for monitoring, reporting, and rese
 **Docs / Website**: https://earthquake.usgs.gov/fdsnws/event/1/
 
 ## 🧬 USGS Earthquake Hazards Program specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is USGS Earthquake Hazards Program free?
