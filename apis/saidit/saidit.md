@@ -7,10 +7,10 @@ Raw Saidit API Wrapper. Raw Saidit API Wrapper. Contribute to IThinkImOKAY/rsaw 
 ##  🔗 Links
 **Docs / Website**: https://github.com/IThinkImOKAY/rsaw
 
-## 🧬 Saidit Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/saidit/saidit.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/saidit/saidit.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/saidit/saidit.yaml)
+## 🧬 Saidit specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Saidit free?
  Unknown/No 
@@ -19,9 +19,7 @@ Raw Saidit API Wrapper. Raw Saidit API Wrapper. Contribute to IThinkImOKAY/rsaw 
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/saidit/saidit.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Social](https://github.com/apis-list/apis-list#social-)

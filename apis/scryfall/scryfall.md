@@ -7,10 +7,10 @@ Scryfall is a powerful Magic: The Gathering card search
 ##  🔗 Links
 **Docs / Website**: https://scryfall.com/docs/api
 
-## 🧬 Scryfall Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/scryfall/scryfall.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/scryfall/scryfall.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/scryfall/scryfall.yaml)
+## 🧬 Scryfall specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Scryfall free?
  Unknown/No 
@@ -19,11 +19,10 @@ Scryfall is a powerful Magic: The Gathering card search
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/scryfall/scryfall.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)- [Games](https://github.com/apis-list/apis-list#games-)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
+- [Games](https://github.com/apis-list/apis-list#games-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

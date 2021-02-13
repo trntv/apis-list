@@ -7,10 +7,10 @@ Making an API for https://github. Making an API for https://github. com/sinker/t
 ##  🔗 Links
 **Docs / Website**: https://github.com/evz/tacofancy-api
 
-## 🧬 TacoFancy Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/tacofancy/tacofancy.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/tacofancy/tacofancy.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/tacofancy/tacofancy.yaml)
+## 🧬 TacoFancy specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is TacoFancy free?
  Unknown/No 
@@ -19,11 +19,10 @@ Making an API for https://github. Making an API for https://github. com/sinker/t
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/tacofancy/tacofancy.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks-)- [Fun](https://github.com/apis-list/apis-list#fun-)
+- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks-)
+- [Fun](https://github.com/apis-list/apis-list#fun-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

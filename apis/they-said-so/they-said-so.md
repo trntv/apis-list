@@ -1,14 +1,13 @@
 # They Said So
-
 They Said So Quotes API offers a complete feature rich REST API access to its quotes platform.
 
 ##  🔗 Links
 **Docs / Website**: http://quotes.rest/
 
-## 🧬 They Said So Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/they-said-so/they-said-so.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/they-said-so/they-said-so.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/they-said-so/they-said-so.yaml)
+## 🧬 They Said So specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is They Said So free?
  Unknown/No 

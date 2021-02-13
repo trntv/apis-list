@@ -7,10 +7,10 @@ MailboxValidator provides single email validation API that checks if an email ad
 ##  🔗 Links
 **Docs / Website**: https://www.mailboxvalidator.com/api-single-validation
 
-## 🧬 MailboxValidator Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mailboxvalidator/mailboxvalidator.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mailboxvalidator/mailboxvalidator.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mailboxvalidator/mailboxvalidator.yaml)
+## 🧬 MailboxValidator specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is MailboxValidator free?
  Unknown/No 
@@ -19,9 +19,7 @@ MailboxValidator provides single email validation API that checks if an email ad
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/mailboxvalidator/mailboxvalidator.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Business](https://github.com/apis-list/apis-list#business-)

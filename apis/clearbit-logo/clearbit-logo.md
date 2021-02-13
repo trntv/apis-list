@@ -7,10 +7,10 @@ If you’re only interested in a Company’s logo, and don’t need any other da
 ##  🔗 Links
 **Docs / Website**: https://clearbit.com/docs#logo-api
 
-## 🧬 Clearbit Logo Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/clearbit-logo/clearbit-logo.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/clearbit-logo/clearbit-logo.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/clearbit-logo/clearbit-logo.yaml)
+## 🧬 Clearbit Logo specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Clearbit Logo free?
  Unknown/No 
@@ -19,15 +19,20 @@ If you’re only interested in a Company’s logo, and don’t need any other da
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-### Go
-- Clearbit Go SDK by thoughtbot: [Documentation](https://github.com/thoughtbot/clearbit)
-- Clearbit Go SDK by Clearbit: [Documentation](https://github.com/clearbit/clearbit-go)
 ### Ruby
 - Clearbit Ruby SDK by Alex MacCaw: [Documentation](https://rubygems.org/gems/clearbit/versions/0.2.2)
+
 - Clearbit Ruby SDK by Clearbit: [Documentation](https://github.com/clearbit/clearbit-ruby)
+
+### Go
+- Clearbit Go SDK by thoughtbot: [Documentation](https://github.com/thoughtbot/clearbit)
+
+- Clearbit Go SDK by Clearbit: [Documentation](https://github.com/clearbit/clearbit-go)
 
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)- [Business](https://github.com/apis-list/apis-list#business-)- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
+- [Business](https://github.com/apis-list/apis-list#business-)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

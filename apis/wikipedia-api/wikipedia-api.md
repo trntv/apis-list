@@ -7,10 +7,10 @@ A web service that provides convenient access to wiki features, data, and meta-d
 ##  🔗 Links
 **Docs / Website**: https://www.mediawiki.org/wiki/API
 
-## 🧬 Wikipedia API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wikipedia-api/wikipedia-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wikipedia-api/wikipedia-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wikipedia-api/wikipedia-api.yaml)
+## 🧬 Wikipedia API specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Wikipedia API free?
  Unknown/No 
@@ -19,9 +19,7 @@ A web service that provides convenient access to wiki features, data, and meta-d
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/wikipedia-api/wikipedia-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Wiki](https://github.com/apis-list/apis-list#wiki-)

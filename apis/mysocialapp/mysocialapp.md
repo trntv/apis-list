@@ -7,10 +7,10 @@ Build scalable news feed for your app. MySocialApp is simple, powerful APIs are 
 ##  🔗 Links
 **Docs / Website**: https://mysocialapp.io
 
-## 🧬 MySocialApp Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mysocialapp/mysocialapp.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mysocialapp/mysocialapp.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mysocialapp/mysocialapp.yaml)
+## 🧬 MySocialApp specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is MySocialApp free?
  Unknown/No 
@@ -21,13 +21,17 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 ## 🗂️ Libraries
 ### Java
 - MySocialApp Java SDK: [Documentation](https://docs.mysocialapp.io/docs/quick-start-java)
-### Java, Kotlin
-- MySocialApp Android SDK: [Documentation](https://docs.mysocialapp.io/docs/quick-start-android), [Source code](https://github.com/MySocialApp/mysocialapp-java-client)
+
 ### Objective-C, Swift
 - MySocialApp iOS SDK: [Documentation](https://github.com/MySocialApp/mysocialapp-swift-client)
 
+### Java, Kotlin
+- MySocialApp Android SDK: [Documentation](https://docs.mysocialapp.io/docs/quick-start-android), [Source code](https://github.com/MySocialApp/mysocialapp-java-client)
+
 
 ## 🗄️ Categories:
-- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging-)- [Development](https://github.com/apis-list/apis-list#development-)- [Social](https://github.com/apis-list/apis-list#social-)
+- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging-)
+- [Development](https://github.com/apis-list/apis-list#development-)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

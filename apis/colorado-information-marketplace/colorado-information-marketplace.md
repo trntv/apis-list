@@ -7,10 +7,10 @@ Dive into Colorado’s water, including wells, surface water conditions, and wat
 ##  🔗 Links
 **Docs / Website**: https://data.colorado.gov/
 
-## 🧬 Colorado Information Marketplace Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/colorado-information-marketplace/colorado-information-marketplace.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/colorado-information-marketplace/colorado-information-marketplace.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/colorado-information-marketplace/colorado-information-marketplace.yaml)
+## 🧬 Colorado Information Marketplace specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Colorado Information Marketplace free?
  Unknown/No 
@@ -19,11 +19,10 @@ Dive into Colorado’s water, including wells, surface water conditions, and wat
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/colorado-information-marketplace/colorado-information-marketplace.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Government](https://github.com/apis-list/apis-list#government-)- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data-)
+- [Government](https://github.com/apis-list/apis-list#government-)
+- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

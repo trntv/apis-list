@@ -7,10 +7,10 @@ Detects 164 languages. Supports short texts, batch requests, JavaScript, Python,
 ##  🔗 Links
 **Docs / Website**: https://detectlanguage.com/
 
-## 🧬 Detect Language Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/detect-language/detect-language.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/detect-language/detect-language.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/detect-language/detect-language.yaml)
+## 🧬 Detect Language specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Detect Language free?
  Unknown/No 
@@ -19,11 +19,10 @@ Detects 164 languages. Supports short texts, batch requests, JavaScript, Python,
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/detect-language/detect-language.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools-)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
+- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

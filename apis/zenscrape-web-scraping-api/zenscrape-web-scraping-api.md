@@ -7,10 +7,10 @@ This web scraping API handles all problems that are related to web scraping. Ext
 ##  🔗 Links
 **Docs / Website**: https://zenscrape.com/web-scraping-api/
 
-## 🧬 Zenscrape Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/zenscrape-web-scraping-api/zenscrape-web-scraping-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/zenscrape-web-scraping-api/zenscrape-web-scraping-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/zenscrape-web-scraping-api/zenscrape-web-scraping-api.yaml)
+## 🧬 Zenscrape specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Zenscrape free?
  Unknown/No 
@@ -19,9 +19,7 @@ This web scraping API handles all problems that are related to web scraping. Ext
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/zenscrape-web-scraping-api/zenscrape-web-scraping-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining-)

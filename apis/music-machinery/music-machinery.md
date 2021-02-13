@@ -7,10 +7,10 @@ Here’s a categorized list of all the Music APIs. Notice one that is missing or
 ##  🔗 Links
 **Docs / Website**: https://musicmachinery.com/music-apis/
 
-## 🧬 Music Machinery Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/music-machinery/music-machinery.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/music-machinery/music-machinery.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/music-machinery/music-machinery.yaml)
+## 🧬 Music Machinery specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Music Machinery free?
  Unknown/No 
@@ -19,9 +19,7 @@ Here’s a categorized list of all the Music APIs. Notice one that is missing or
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/music-machinery/music-machinery.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics-)

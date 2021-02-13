@@ -7,10 +7,10 @@ Cryptocurrencies price API, prices denoted in USD, EUR, CNY, GBP, RUB
 ##  🔗 Links
 **Docs / Website**: https://www.worldcoinindex.com/apiservice
 
-## 🧬 WorldCoinIndex Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/worldcoinindex/worldcoinindex.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/worldcoinindex/worldcoinindex.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/worldcoinindex/worldcoinindex.yaml)
+## 🧬 WorldCoinIndex specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is WorldCoinIndex free?
  Unknown/No 
@@ -19,9 +19,7 @@ Cryptocurrencies price API, prices denoted in USD, EUR, CNY, GBP, RUB
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/worldcoinindex/worldcoinindex.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies-)

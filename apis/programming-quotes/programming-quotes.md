@@ -7,10 +7,10 @@ Programming Quotes API for open source projects. Contribute to skolakoda/program
 ##  🔗 Links
 **Docs / Website**: https://github.com/skolakoda/programming-quotes-api
 
-## 🧬 Programming Quotes Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/programming-quotes/programming-quotes.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/programming-quotes/programming-quotes.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/programming-quotes/programming-quotes.yaml)
+## 🧬 Programming Quotes specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Programming Quotes free?
  Unknown/No 
@@ -19,9 +19,7 @@ Programming Quotes API for open source projects. Contribute to skolakoda/program
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/programming-quotes/programming-quotes.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Health](https://github.com/apis-list/apis-list#health-)

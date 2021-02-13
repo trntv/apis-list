@@ -1,14 +1,13 @@
 # EBay Shopping API
-
-If you're interested in . Offers access to public read-only data such as searching for items, products, reviews, and eBay member profiles. The eBay Shopping API can be used in search tools and other buyer-focused applications. Shopping API Users Guide This document gives you a quick overview of the Shopping API, answers common questions, and points you to other resources where you can learn more
+If you&#x27;re interested in . Offers access to public read-only data such as searching for items, products, reviews, and eBay member profiles. The eBay Shopping API can be used in search tools and other buyer-focused applications. Shopping API Users Guide This document gives you a quick overview of the Shopping API, answers common questions, and points you to other resources where you can learn more
 
 ##  🔗 Links
 **Docs / Website**: http://developer.ebay.com/Devzone/shopping/docs/Concepts/ShoppingAPIGuide.html
 
-## 🧬 EBay Shopping API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ebay-shopping-api/ebay-shopping-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ebay-shopping-api/ebay-shopping-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ebay-shopping-api/ebay-shopping-api.yaml)
+## 🧬 EBay Shopping API specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is EBay Shopping API free?
  Unknown/No 
@@ -17,9 +16,7 @@ If you're interested in . Offers access to public read-only data such as searchi
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/ebay-shopping-api/ebay-shopping-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Commerce](https://github.com/apis-list/apis-list#commerce-)

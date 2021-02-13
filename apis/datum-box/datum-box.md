@@ -7,10 +7,10 @@ Unleash the power of Machine Learning by using the Powerful and Easy-to-Use API 
 ##  🔗 Links
 **Docs / Website**: http://www.datumbox.com/machine-learning-api/
 
-## 🧬 Datum Box Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/datum-box/datum-box.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/datum-box/datum-box.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/datum-box/datum-box.yaml)
+## 🧬 Datum Box specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Datum Box free?
  Unknown/No 
@@ -19,9 +19,7 @@ Unleash the power of Machine Learning by using the Powerful and Easy-to-Use API 
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/datum-box/datum-box.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)

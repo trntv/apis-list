@@ -7,10 +7,10 @@ Parameters callback string To define your own callback function name and return 
 ##  🔗 Links
 **Docs / Website**: http://api.adviceslip.com/
 
-## 🧬 Advice Slip Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/advice-slip/advice-slip.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/advice-slip/advice-slip.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/advice-slip/advice-slip.yaml)
+## 🧬 Advice Slip specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Advice Slip free?
  Unknown/No 
@@ -19,9 +19,7 @@ Parameters callback string To define your own callback function name and return 
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/advice-slip/advice-slip.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Fun](https://github.com/apis-list/apis-list#fun-)

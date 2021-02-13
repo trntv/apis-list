@@ -7,10 +7,10 @@ Various sports events, results, players, teams and high quality artwork. TheSpor
 ##  🔗 Links
 **Docs / Website**: http://www.thesportsdb.com/
 
-## 🧬 TheSportsDB Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/thesportsdb/thesportsdb.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/thesportsdb/thesportsdb.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/thesportsdb/thesportsdb.yaml)
+## 🧬 TheSportsDB specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is TheSportsDB free?
  Unknown/No 
@@ -19,11 +19,12 @@ Various sports events, results, players, teams and high quality artwork. TheSpor
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/thesportsdb/thesportsdb.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Art & Design](https://github.com/apis-list/apis-list#art--design-)- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness-)- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data-)
+- [Art & Design](https://github.com/apis-list/apis-list#art--design-)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness-)
+- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

@@ -8,10 +8,10 @@ RushTranslate offers certified document translation services in over 60 language
 ##  🔗 Links
 **Docs / Website**: https://rushtranslate.com/docs
 
-## 🧬 Rushtranslate Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/rushtranslate/rushtranslate.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/rushtranslate/rushtranslate.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/rushtranslate/rushtranslate.yaml)
+## 🧬 Rushtranslate specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Rushtranslate free?
  Unknown/No 
@@ -20,11 +20,11 @@ RushTranslate offers certified document translation services in over 60 language
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/rushtranslate/rushtranslate.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Business](https://github.com/apis-list/apis-list#business-)- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity-)- [Translation](https://github.com/apis-list/apis-list#translation-)
+- [Business](https://github.com/apis-list/apis-list#business-)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity-)
+- [Translation](https://github.com/apis-list/apis-list#translation-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

@@ -7,10 +7,10 @@ public data. Data USA provides an open, easy-to-use platform that turns data int
 ##  🔗 Links
 **Docs / Website**: https://datausa.io/about/api/
 
-## 🧬 Data USA Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/data-usa/data-usa.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/data-usa/data-usa.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/data-usa/data-usa.yaml)
+## 🧬 Data USA specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Data USA free?
  Unknown/No 
@@ -19,9 +19,7 @@ public data. Data USA provides an open, easy-to-use platform that turns data int
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/data-usa/data-usa.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Government](https://github.com/apis-list/apis-list#government-)

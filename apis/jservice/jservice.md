@@ -1,14 +1,13 @@
 # Jservice
-
 Trivia Questions. Get answers (and the correct questions) from 20+ years of Jeopardy episodes
 
 ##  🔗 Links
 **Docs / Website**: http://jservice.io
 
-## 🧬 Jservice Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/jservice/jservice.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/jservice/jservice.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/jservice/jservice.yaml)
+## 🧬 Jservice specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Jservice free?
  Unknown/No 
@@ -19,6 +18,7 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 ## 🗂️ Libraries
 ### JavaScript
 - jService JavaScript SDK by Keith Pops: [Documentation](https://github.com/keithpops/jeoparty)
+
 ### Ruby
 - jService Ruby SDK by Dean Silfen: [Documentation](https://github.com/djds23/jApi)
 

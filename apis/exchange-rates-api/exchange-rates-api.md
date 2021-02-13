@@ -7,10 +7,10 @@ The most popular place to securely buy, store, and trade Bitcoin, Ethereum, and 
 ##  🔗 Links
 **Docs / Website**: https://blockchain.info/api/exchange_rates_api
 
-## 🧬 Exchange Rates API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/exchange-rates-api/exchange-rates-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/exchange-rates-api/exchange-rates-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/exchange-rates-api/exchange-rates-api.yaml)
+## 🧬 Exchange Rates API specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Exchange Rates API free?
  Unknown/No 
@@ -19,9 +19,7 @@ The most popular place to securely buy, store, and trade Bitcoin, Ethereum, and 
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/exchange-rates-api/exchange-rates-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies-)

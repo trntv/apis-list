@@ -1,14 +1,13 @@
 # API2Cart
-
 Connect your B2B eCommerce solution with 40+ shopping platforms and marketplaces at once. Strengthen your business with shopping cart API integration. API2Cart provides a unified shopping cart API for interaction between the eCommerce software and 30+ shopping carts including Magento, Shopify, WooCommerce, BigCommerce, OpenCart, PrestaShop and others
 
 ##  🔗 Links
 **Docs / Website**: https://api2cart.com/
 
-## 🧬 API2Cart Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/api2cart/api2cart.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/api2cart/api2cart.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/api2cart/api2cart.yaml)
+## 🧬 API2Cart specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is API2Cart free?
  Unknown/No 
@@ -22,6 +21,7 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce-)- [Development](https://github.com/apis-list/apis-list#development-)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

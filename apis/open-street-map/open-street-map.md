@@ -7,10 +7,10 @@ Purge Help API - Other languages Afrikaans asturianu azərbaycanca Bahasa Indone
 ##  🔗 Links
 **Docs / Website**: http://wiki.openstreetmap.org/wiki/API
 
-## 🧬 Open Street Map Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-street-map/open-street-map.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-street-map/open-street-map.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-street-map/open-street-map.yaml)
+## 🧬 Open Street Map specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Open Street Map free?
  Unknown/No 
@@ -19,9 +19,7 @@ Purge Help API - Other languages Afrikaans asturianu azərbaycanca Bahasa Indone
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-street-map/open-street-map.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)

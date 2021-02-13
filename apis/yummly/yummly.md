@@ -1,14 +1,13 @@
 # Yummly
-
-Find food recipes. The Yummly Recipe API lets you integrate recipes and faceted recipe search into your websites or mobile applications. Since Yummly understands the recipe – ingredients, diets, allergies, nutrition, taste, techniques & more. It can connect your users with the best recipes available for their unique food preferences
+Find food recipes. The Yummly Recipe API lets you integrate recipes and faceted recipe search into your websites or mobile applications. Since Yummly understands the recipe – ingredients, diets, allergies, nutrition, taste, techniques &amp; more. It can connect your users with the best recipes available for their unique food preferences
 
 ##  🔗 Links
 **Docs / Website**: https://developer.yummly.com/
 
-## 🧬 Yummly Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yummly/yummly.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yummly/yummly.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yummly/yummly.yaml)
+## 🧬 Yummly specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Yummly free?
  Unknown/No 
@@ -17,15 +16,19 @@ Find food recipes. The Yummly Recipe API lets you integrate recipes and faceted 
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-### Node.js
-- Yummly Node.js SDK by Yummly: [Documentation](https://github.com/yummly/node-yummly)
-### Python
-- Yummly Python SDK by Derrick Gilland: [Documentation](https://github.com/dgilland/yummly.py)
 ### Ruby
 - Yummly Ruby SDK by Theo Mills: [Documentation](https://github.com/twmills/yummly)
 
+### Node.js
+- Yummly Node.js SDK by Yummly: [Documentation](https://github.com/yummly/node-yummly)
+
+### Python
+- Yummly Python SDK by Derrick Gilland: [Documentation](https://github.com/dgilland/yummly.py)
+
 
 ## 🗄️ Categories:
-- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks-)- [Search](https://github.com/apis-list/apis-list#search-)- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools-)
+- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks-)
+- [Search](https://github.com/apis-list/apis-list#search-)
+- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

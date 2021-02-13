@@ -7,10 +7,10 @@ API of The Report Of The Week Reviews. Contribute to andyklimczak/TheReportOfThe
 ##  🔗 Links
 **Docs / Website**: https://github.com/andyklimczak/TheReportOfTheWeek-API
 
-## 🧬 The Report of the Week Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-report-of-the-week/the-report-of-the-week.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-report-of-the-week/the-report-of-the-week.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-report-of-the-week/the-report-of-the-week.yaml)
+## 🧬 The Report of the Week specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is The Report of the Week free?
  Unknown/No 
@@ -19,9 +19,7 @@ API of The Report Of The Week Reviews. Contribute to andyklimczak/TheReportOfThe
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-report-of-the-week/the-report-of-the-week.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks-)

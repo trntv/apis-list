@@ -7,10 +7,10 @@ com - comichron-data/api. JSON API for monthly sales data from comichron
 ##  🔗 Links
 **Docs / Website**: https://github.com/comichron-data/api
 
-## 🧬 Comichron Data Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/comichron-data/comichron-data.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/comichron-data/comichron-data.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/comichron-data/comichron-data.yaml)
+## 🧬 Comichron Data specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Comichron Data free?
  Unknown/No 
@@ -19,9 +19,7 @@ com - comichron-data/api. JSON API for monthly sales data from comichron
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/comichron-data/comichron-data.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment-)

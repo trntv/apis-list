@@ -7,10 +7,10 @@ Web Analytics, open sourced. Open Web Analytics is an open source alternative to
 ##  🔗 Links
 **Docs / Website**: https://github.com/padams/Open-Web-Analytics/wiki/Data-Access-API
 
-## 🧬 Open Web Analytics Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-web-analytics/open-web-analytics.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-web-analytics/open-web-analytics.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-web-analytics/open-web-analytics.yaml)
+## 🧬 Open Web Analytics specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Open Web Analytics free?
  Unknown/No 
@@ -19,9 +19,7 @@ Web Analytics, open sourced. Open Web Analytics is an open source alternative to
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-web-analytics/open-web-analytics.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Analytics](https://github.com/apis-list/apis-list#analytics-)

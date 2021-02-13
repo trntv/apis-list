@@ -5,12 +5,12 @@
 The Gmail API: modern, fast, RESTful. The Gmail API: modern, fast, RESTful
 
 ##  🔗 Links
-**Docs / Website**: https://developers.google.com/gmail/api/?hl=en
+**Docs / Website**: https://developers.google.com/gmail/api/?hl&#x3D;en
 
-## 🧬 Gmail API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gmail-api/gmail-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gmail-api/gmail-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gmail-api/gmail-api.yaml)
+## 🧬 Gmail API specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Gmail API free?
  Unknown/No 
@@ -19,9 +19,7 @@ The Gmail API: modern, fast, RESTful. The Gmail API: modern, fast, RESTful
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/gmail-api/gmail-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Email & SMS](https://github.com/apis-list/apis-list#email--sms-)

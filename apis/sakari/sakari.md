@@ -7,10 +7,10 @@ Integrates with 1000+ applications with no code. Send and Receive SMS to over 20
 ##  🔗 Links
 **Docs / Website**: https://developer.sakari.io
 
-## 🧬 Sakari Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/sakari/sakari.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/sakari/sakari.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/sakari/sakari.yaml)
+## 🧬 Sakari specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Sakari free?
  Unknown/No 
@@ -19,9 +19,7 @@ Integrates with 1000+ applications with no code. Send and Receive SMS to over 20
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/sakari/sakari.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Email & SMS](https://github.com/apis-list/apis-list#email--sms-)

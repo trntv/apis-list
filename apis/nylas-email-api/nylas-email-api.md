@@ -7,10 +7,10 @@ Email API to integrate 100% of Email Services Providers directly into your app. 
 ##  🔗 Links
 **Docs / Website**: https://www.nylas.com/sdks/
 
-## 🧬 Nylas Email Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nylas-email-api/nylas-email-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nylas-email-api/nylas-email-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/nylas-email-api/nylas-email-api.yaml)
+## 🧬 Nylas Email Api specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Nylas Email Api free?
  Unknown/No 
@@ -19,9 +19,7 @@ Email API to integrate 100% of Email Services Providers directly into your app. 
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/nylas-email-api/nylas-email-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Email & SMS](https://github.com/apis-list/apis-list#email--sms-)

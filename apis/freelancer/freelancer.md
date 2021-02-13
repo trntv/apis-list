@@ -7,10 +7,10 @@ Hire in any profession you can think of using our API, on demand–developers, d
 ##  🔗 Links
 **Docs / Website**: https://developers.freelancer.com
 
-## 🧬 Freelancer Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/freelancer/freelancer.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/freelancer/freelancer.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/freelancer/freelancer.yaml)
+## 🧬 Freelancer specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Freelancer free?
  Unknown/No 
@@ -19,15 +19,19 @@ Hire in any profession you can think of using our API, on demand–developers, d
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-### JavaScript, Node.js
-- JSON Placeholder Node.js Library by typicode: [Documentation](https://github.com/typicode/json-server)
 ### Kotlin
 - Freelancer Android SDK: [Documentation](https://github.com/freelancer/freelancer-sdk-android)
+
 ### Python
 - Freelancer Python SDK : [Documentation](https://github.com/freelancer/freelancer-sdk-python)
 
+### JavaScript, Node.js
+- JSON Placeholder Node.js Library by typicode: [Documentation](https://github.com/typicode/json-server)
+
 
 ## 🗄️ Categories:
-- [Business](https://github.com/apis-list/apis-list#business-)- [Commerce](https://github.com/apis-list/apis-list#commerce-)- [Jobs](https://github.com/apis-list/apis-list#jobs-)
+- [Business](https://github.com/apis-list/apis-list#business-)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
+- [Jobs](https://github.com/apis-list/apis-list#jobs-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

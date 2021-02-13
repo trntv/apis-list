@@ -7,10 +7,10 @@ Search news articles from all over the world in real-time with News API. News AP
 ##  🔗 Links
 **Docs / Website**: https://newscatcherapi.com/news-api
 
-## 🧬 NewsCatcherAPI Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/newscatcherapi/newscatcherapi.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/newscatcherapi/newscatcherapi.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/newscatcherapi/newscatcherapi.yaml)
+## 🧬 NewsCatcherAPI specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is NewsCatcherAPI free?
  Unknown/No 
@@ -19,9 +19,7 @@ Search news articles from all over the world in real-time with News API. News AP
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/newscatcherapi/newscatcherapi.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [News & Feeds](https://github.com/apis-list/apis-list#news--feeds-)

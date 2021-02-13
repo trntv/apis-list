@@ -7,10 +7,10 @@ A simple API to return the meta tags of any site in a digestable JSON format.
 ##  🔗 Links
 **Docs / Website**: http://bettermeta.io
 
-## 🧬 BetterMeta Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bettermeta/bettermeta.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bettermeta/bettermeta.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bettermeta/bettermeta.yaml)
+## 🧬 BetterMeta specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is BetterMeta free?
  Unknown/No 
@@ -19,9 +19,7 @@ A simple API to return the meta tags of any site in a digestable JSON format.
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/bettermeta/bettermeta.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining-)

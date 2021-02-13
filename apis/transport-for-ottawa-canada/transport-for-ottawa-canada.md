@@ -7,10 +7,10 @@ OC Transpo next bus arrival API
 ##  🔗 Links
 **Docs / Website**: https://www.octranspo.com/developers
 
-## 🧬 Transportation in Ottawa, Canada Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-ottawa-canada/transport-for-ottawa-canada.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-ottawa-canada/transport-for-ottawa-canada.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-ottawa-canada/transport-for-ottawa-canada.yaml)
+## 🧬 Transportation in Ottawa, Canada specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Transportation in Ottawa, Canada free?
  Yes! 
@@ -19,9 +19,7 @@ OC Transpo next bus arrival API
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-ottawa-canada/transport-for-ottawa-canada.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation-)

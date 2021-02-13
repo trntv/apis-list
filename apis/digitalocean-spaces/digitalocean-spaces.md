@@ -7,10 +7,10 @@ The simplest way to cost effectively store, serve, backup, and archive a virtual
 ##  🔗 Links
 **Docs / Website**: https://www.digitalocean.com/products/spaces
 
-## 🧬 DigitalOcean Spaces Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/digitalocean-spaces/digitalocean-spaces.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/digitalocean-spaces/digitalocean-spaces.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/digitalocean-spaces/digitalocean-spaces.yaml)
+## 🧬 DigitalOcean Spaces specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is DigitalOcean Spaces free?
  Unknown/No 
@@ -19,9 +19,7 @@ The simplest way to cost effectively store, serve, backup, and archive a virtual
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/digitalocean-spaces/digitalocean-spaces.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Files & Storage](https://github.com/apis-list/apis-list#files--storage-)

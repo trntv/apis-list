@@ -7,10 +7,10 @@ Pocket proportionally rewards the participating nodes with native cryptographic 
 ##  🔗 Links
 **Docs / Website**: https://docs.pokt.network/docs
 
-## 🧬 Pocket Network Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pocket-network/pocket-network.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pocket-network/pocket-network.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pocket-network/pocket-network.yaml)
+## 🧬 Pocket Network specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Pocket Network free?
  Unknown/No 
@@ -19,16 +19,20 @@ Pocket proportionally rewards the participating nodes with native cryptographic 
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-### Go
-- Pocket Network Core Go SDK: [Documentation](https://github.com/pokt-network/pocket-core)
-### Java
-- Pocket Network Android SDK: [Documentation](https://github.com/pokt-network/pocket-android)
-### JavaScript
-- Pocket Network JavaScript SDK: [Documentation](https://github.com/pokt-network/pocket-js)
 ### Node.js
 - Pocket Network NodeJS SDK: [Documentation](https://github.com/pokt-network/pocket-node)
+
+### Go
+- Pocket Network Core Go SDK: [Documentation](https://github.com/pokt-network/pocket-core)
+
 ### Swift
 - Pocket Network Swift SDK: [Documentation](https://github.com/pokt-network/pocket-swift)
+
+### JavaScript
+- Pocket Network JavaScript SDK: [Documentation](https://github.com/pokt-network/pocket-js)
+
+### Java
+- Pocket Network Android SDK: [Documentation](https://github.com/pokt-network/pocket-android)
 
 
 ## 🗄️ Categories:

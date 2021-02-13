@@ -7,10 +7,10 @@ Integrate the Ryft ONE’s data analysis capabilities into existing big data env
 ##  🔗 Links
 **Docs / Website**: http://www.ryft.com/api
 
-## 🧬 Ryft Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ryft/ryft.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ryft/ryft.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ryft/ryft.yaml)
+## 🧬 Ryft specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Ryft free?
  Unknown/No 
@@ -19,11 +19,10 @@ Integrate the Ryft ONE’s data analysis capabilities into existing big data env
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/ryft/ryft.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)- [Analytics](https://github.com/apis-list/apis-list#analytics-)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
+- [Analytics](https://github.com/apis-list/apis-list#analytics-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

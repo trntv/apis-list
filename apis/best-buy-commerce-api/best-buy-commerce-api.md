@@ -7,10 +7,10 @@ Allows companies to conduct commerce with Best Buy services within their own e-c
 ##  🔗 Links
 **Docs / Website**: https://developer.bestbuy.com
 
-## 🧬 Best Buy Commerce API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/best-buy-commerce-api/best-buy-commerce-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/best-buy-commerce-api/best-buy-commerce-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/best-buy-commerce-api/best-buy-commerce-api.yaml)
+## 🧬 Best Buy Commerce API specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Best Buy Commerce API free?
  Unknown/No 
@@ -19,11 +19,10 @@ Allows companies to conduct commerce with Best Buy services within their own e-c
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/best-buy-commerce-api/best-buy-commerce-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management-)- [Commerce](https://github.com/apis-list/apis-list#commerce-)
+- [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management-)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

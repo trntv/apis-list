@@ -7,10 +7,10 @@ Universal links are the preferred method of linking to a WhatsApp account.
 ##  🔗 Links
 **Docs / Website**: https://faq.whatsapp.com/en/iphone/23559013
 
-## 🧬 Whatsapp Document Interaction Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/whatsapp-document-interaction/whatsapp-document-interaction.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/whatsapp-document-interaction/whatsapp-document-interaction.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/whatsapp-document-interaction/whatsapp-document-interaction.yaml)
+## 🧬 Whatsapp Document Interaction specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Whatsapp Document Interaction free?
  Unknown/No 
@@ -19,9 +19,7 @@ Universal links are the preferred method of linking to a WhatsApp account.
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/whatsapp-document-interaction/whatsapp-document-interaction.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Social](https://github.com/apis-list/apis-list#social-)

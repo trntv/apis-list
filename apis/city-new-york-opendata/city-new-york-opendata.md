@@ -7,10 +7,10 @@ NYC Open Data helps New Yorkers use and learn about City data. NYC Open Data hel
 ##  🔗 Links
 **Docs / Website**: https://opendata.cityofnewyork.us/
 
-## 🧬 City, New York Opendata Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/city-new-york-opendata/city-new-york-opendata.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/city-new-york-opendata/city-new-york-opendata.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/city-new-york-opendata/city-new-york-opendata.yaml)
+## 🧬 City, New York Opendata specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is City, New York Opendata free?
  Unknown/No 
@@ -19,9 +19,7 @@ NYC Open Data helps New Yorkers use and learn about City data. NYC Open Data hel
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/city-new-york-opendata/city-new-york-opendata.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Government](https://github.com/apis-list/apis-list#government-)

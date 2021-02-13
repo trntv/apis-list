@@ -7,10 +7,10 @@ Search changelogs from open source projects, or use the REST API for a parsed JS
 ##  🔗 Links
 **Docs / Website**: https://changelogs.md
 
-## 🧬 Changelogs.md Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/changelogs-md/changelogs-md.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/changelogs-md/changelogs-md.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/changelogs-md/changelogs-md.yaml)
+## 🧬 Changelogs.md specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Changelogs.md free?
  Unknown/No 
@@ -19,11 +19,10 @@ Search changelogs from open source projects, or use the REST API for a parsed JS
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/changelogs-md/changelogs-md.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development-)- [Open Source](https://github.com/apis-list/apis-list#open-source-)
+- [Development](https://github.com/apis-list/apis-list#development-)
+- [Open Source](https://github.com/apis-list/apis-list#open-source-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

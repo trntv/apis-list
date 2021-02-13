@@ -7,10 +7,10 @@ Whether you have one input or billions, you are only steps away from using AI to
 ##  🔗 Links
 **Docs / Website**: https://developer.clarifai.com/docs/
 
-## 🧬 Clarifai Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/clarifai/clarifai.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/clarifai/clarifai.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/clarifai/clarifai.yaml)
+## 🧬 Clarifai specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Clarifai free?
  Unknown/No 
@@ -19,33 +19,50 @@ Whether you have one input or billions, you are only steps away from using AI to
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-### 
-- Clarifai Node.js Library by Clarifai: [Documentation]()
-- Clarifai Node.js Library by Clarifai: [Documentation]()
-### Go
-- Clarifai Go SDK by Clarifai: [Documentation](https://github.com/Clarifai/clarifai-go), [Source code](https://github.com/Clarifai/clarifai-go)
-### Haskell
-- Clarifai Haskell SDK by Joe Canero: [Documentation](https://developer.clarifai.com/guide-v1/#api-clients), [Source code](https://github.com/caneroj1/clarifai-hs)
 ### Java
 -  Clarifai Android SDK: [Documentation](https://clarifai.com/developer/guide/android-sdk#android-sdk)
+
 - Clarifai Java SDK by Clarifai: [Documentation](https://github.com/Clarifai/clarifai-java), [Source code](https://github.com/Clarifai/clarifai-java)
+
 - Clarifai Java Library by Clarifai: [Documentation](https://github.com/Clarifai/clarifai-api-java)
-### JavaScript, Node.js
-- Clarifai JavaScript SDK by Clarifai: [Documentation](https://github.com/Clarifai/clarifai-javascript), [Source code](https://github.com/Clarifai/clarifai-javascript)
+
 ### Objective-C
 -  Clarifai Apple SDK: [Documentation](https://clarifai.com/developer/guide/apple-sdk#apple-sdk)
-### Objective-C, Swift
-- Clarifai iOS SDK by Clarifai: [Documentation](https://github.com/Clarifai/clarifai-ios), [Source code](https://github.com/Clarifai/clarifai-ios)
-### Python
-- Clarifai Python SDK by Clarifai: [Documentation](https://github.com/Clarifai/clarifai-python), [Source code](https://github.com/Clarifai/clarifai-python)
-- Clarifai Python Library by Clarifai: [Documentation](https://github.com/Clarifai/Clarifai_py)
-### R
-- Clarifai R SDK by soodoku: [Documentation](http://soodoku.github.io/clarifai/), [Source code](https://github.com/soodoku/clarifai)
+
 ### Ruby
 - Clarifai Ruby SDK by Charlyn G: [Documentation](https://github.com/chardane/ClarifaiRuby/wiki), [Source code](https://github.com/chardane/ClarifaiRuby)
 
+### R
+- Clarifai R SDK by soodoku: [Documentation](http://soodoku.github.io/clarifai/), [Source code](https://github.com/soodoku/clarifai)
+
+### Haskell
+- Clarifai Haskell SDK by Joe Canero: [Documentation](https://developer.clarifai.com/guide-v1/#api-clients), [Source code](https://github.com/caneroj1/clarifai-hs)
+
+### Go
+- Clarifai Go SDK by Clarifai: [Documentation](https://github.com/Clarifai/clarifai-go), [Source code](https://github.com/Clarifai/clarifai-go)
+
+### Python
+- Clarifai Python SDK by Clarifai: [Documentation](https://github.com/Clarifai/clarifai-python), [Source code](https://github.com/Clarifai/clarifai-python)
+
+- Clarifai Python Library by Clarifai: [Documentation](https://github.com/Clarifai/Clarifai_py)
+
+### Objective-C, Swift
+- Clarifai iOS SDK by Clarifai: [Documentation](https://github.com/Clarifai/clarifai-ios), [Source code](https://github.com/Clarifai/clarifai-ios)
+
+### JavaScript, Node.js
+- Clarifai JavaScript SDK by Clarifai: [Documentation](https://github.com/Clarifai/clarifai-javascript), [Source code](https://github.com/Clarifai/clarifai-javascript)
+
+### 
+- Clarifai Node.js Library by Clarifai: [Documentation]()
+
+- Clarifai Node.js Library by Clarifai: [Documentation]()
+
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)- [Recognition](https://github.com/apis-list/apis-list#recognition-)- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification-)- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Recognition](https://github.com/apis-list/apis-list#recognition-)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification-)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

@@ -7,10 +7,10 @@ A free API to retrieve some quotes of Breaking Bad.
 ##  🔗 Links
 **Docs / Website**: https://breakingbadquotes.xyz/
 
-## 🧬 Breaking Bad Quotes Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/breaking-bad-quotes/breaking-bad-quotes.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/breaking-bad-quotes/breaking-bad-quotes.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/breaking-bad-quotes/breaking-bad-quotes.yaml)
+## 🧬 Breaking Bad Quotes specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Breaking Bad Quotes free?
  Unknown/No 
@@ -19,9 +19,7 @@ A free API to retrieve some quotes of Breaking Bad.
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/breaking-bad-quotes/breaking-bad-quotes.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Video & Media](https://github.com/apis-list/apis-list#video--media-)

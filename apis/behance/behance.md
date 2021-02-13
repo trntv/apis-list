@@ -2,15 +2,15 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/behance/logo_256x256.png" alt="Behance Logo"/>
 </p>
-Behance is the world's largest creative network for showcasing and discovering creative work. Behance is the leading online platform to showcase & discover creative work
+Behance is the world&#x27;s largest creative network for showcasing and discovering creative work. Behance is the leading online platform to showcase &amp; discover creative work
 
 ##  🔗 Links
 **Docs / Website**: https://www.behance.net/dev/api/endpoints/
 
-## 🧬 Behance Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/behance/behance.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/behance/behance.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/behance/behance.yaml)
+## 🧬 Behance specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Behance free?
  Unknown/No 

@@ -5,12 +5,12 @@
 Google Fit is an open ecosystem that makes it easy to store, access, and manage fitness data
 
 ##  🔗 Links
-**Docs / Website**: https://developers.google.com/fit/?hl=en
+**Docs / Website**: https://developers.google.com/fit/?hl&#x3D;en
 
-## 🧬 Google Fitness API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-fitness-api/google-fitness-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-fitness-api/google-fitness-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-fitness-api/google-fitness-api.yaml)
+## 🧬 Google Fitness API specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Google Fitness API free?
  Unknown/No 
@@ -19,9 +19,7 @@ Google Fit is an open ecosystem that makes it easy to store, access, and manage 
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-fitness-api/google-fitness-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness-)

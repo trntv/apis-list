@@ -2,15 +2,15 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/final-fantasy-xiv/logo_256x256.png" alt="Final Fantasy XIV Logo"/>
 </p>
-A FINAL FANTASY XIV: Online REST API - Game data, characters, free companies, linkshells, lodestone, markets & maps
+A FINAL FANTASY XIV: Online REST API - Game data, characters, free companies, linkshells, lodestone, markets &amp; maps
 
 ##  🔗 Links
 **Docs / Website**: https://xivapi.com/
 
-## 🧬 Final Fantasy XIV Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/final-fantasy-xiv/final-fantasy-xiv.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/final-fantasy-xiv/final-fantasy-xiv.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/final-fantasy-xiv/final-fantasy-xiv.yaml)
+## 🧬 Final Fantasy XIV specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Final Fantasy XIV free?
  Unknown/No 
@@ -19,9 +19,7 @@ A FINAL FANTASY XIV: Online REST API - Game data, characters, free companies, li
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/final-fantasy-xiv/final-fantasy-xiv.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Entertainment](https://github.com/apis-list/apis-list#entertainment-)

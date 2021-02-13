@@ -7,10 +7,10 @@ Enables developers to read and write data to Spreaker. Get started with one of o
 ##  🔗 Links
 **Docs / Website**: https://developers.spreaker.com/
 
-## 🧬 Spreaker Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/spreaker/spreaker.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/spreaker/spreaker.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/spreaker/spreaker.yaml)
+## 🧬 Spreaker specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Spreaker free?
  Unknown/No 
@@ -19,9 +19,7 @@ Enables developers to read and write data to Spreaker. Get started with one of o
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/spreaker/spreaker.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)

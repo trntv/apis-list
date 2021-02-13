@@ -7,10 +7,10 @@ YNAB API. YNAB is a budgeting app that helps you confidently spend your money, g
 ##  🔗 Links
 **Docs / Website**: https://api.youneedabudget.com/
 
-## 🧬 YNAB Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ynab/ynab.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ynab/ynab.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ynab/ynab.yaml)
+## 🧬 YNAB specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is YNAB free?
  Yes! 
@@ -21,8 +21,10 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 ## 🗂️ Libraries
 ### .Net
 - YNAB PowerShell SDK by Connor Griffin: [Documentation](https://api.youneedabudget.com/#clients-community), [Source code](https://github.com/ConnorGriffin/Posh-YNAB)
+
 ### JavaScript
 - YNAB JavaScript SDK: [Documentation](https://api.youneedabudget.com/#client-javascript), [Source code](https://github.com/ynab/ynab-sdk-js)
+
 ### Ruby
 - YNAB Ruby SDK: [Documentation](https://api.youneedabudget.com/#client-ruby), [Source code](https://github.com/ynab/ynab-sdk-ruby)
 

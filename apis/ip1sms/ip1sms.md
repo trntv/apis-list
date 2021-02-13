@@ -7,10 +7,10 @@ Here you will find everything you need to get started with your integration of o
 ##  🔗 Links
 **Docs / Website**: https://www.ip1sms.com/en/developer/
 
-## 🧬 iP1sms Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ip1sms/ip1sms.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ip1sms/ip1sms.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ip1sms/ip1sms.yaml)
+## 🧬 iP1sms specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is iP1sms free?
  Unknown/No 
@@ -19,9 +19,7 @@ Here you will find everything you need to get started with your integration of o
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/ip1sms/ip1sms.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Email & SMS](https://github.com/apis-list/apis-list#email--sms-)

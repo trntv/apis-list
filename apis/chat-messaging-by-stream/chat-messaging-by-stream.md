@@ -2,19 +2,19 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/chat-messaging-by-stream/logo_256x256.png" alt="Chat Messaging By Stream Logo"/>
 </p>
-Stream's API and SDKs enable developers to build messaging solutions very quickly and reliably. Drive in-app conversion, engagement, and retention while letting the Stream backend handle all the heavy lifting. 
+Stream&#x27;s API and SDKs enable developers to build messaging solutions very quickly and reliably. Drive in-app conversion, engagement, and retention while letting the Stream backend handle all the heavy lifting. 
 
-* Chat UI & SDKs - Design and build with React Native, React, iOS and our UI Kit. 
+* Chat UI &amp; SDKs - Design and build with React Native, React, iOS and our UI Kit. 
 * Chat threads - With threads and replies you can build structured chat experiences. * Reactions - Add emoji reactions to messages just like Slack, Facebook or iMessage. 
 * Flexible API - Proven reliability that is flexible enough to build any chat experience. Stream provides an easy to use API, React components and UI kit for Chat
 
 ##  🔗 Links
 **Docs / Website**: https://getstream.io/chat/
 
-## 🧬 Chat Messaging By Stream Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/chat-messaging-by-stream/chat-messaging-by-stream.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/chat-messaging-by-stream/chat-messaging-by-stream.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/chat-messaging-by-stream/chat-messaging-by-stream.yaml)
+## 🧬 Chat Messaging By Stream specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Chat Messaging By Stream free?
  Unknown/No 
@@ -23,11 +23,11 @@ Stream's API and SDKs enable developers to build messaging solutions very quickl
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/chat-messaging-by-stream/chat-messaging-by-stream.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging-)- [Development](https://github.com/apis-list/apis-list#development-)- [Social](https://github.com/apis-list/apis-list#social-)
+- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging-)
+- [Development](https://github.com/apis-list/apis-list#development-)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

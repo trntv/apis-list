@@ -7,10 +7,10 @@ MATLAB is a high-level language and interactive environment for numerical comput
 ##  🔗 Links
 **Docs / Website**: https://www.programmableweb.com/api/matlab
 
-## 🧬 Matlab Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/matlab/matlab.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/matlab/matlab.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/matlab/matlab.yaml)
+## 🧬 Matlab specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Matlab free?
  Unknown/No 
@@ -24,6 +24,8 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development-)- [Science & Math](https://github.com/apis-list/apis-list#science--math-)- [Visualizations](https://github.com/apis-list/apis-list#visualizations-)
+- [Development](https://github.com/apis-list/apis-list#development-)
+- [Science & Math](https://github.com/apis-list/apis-list#science--math-)
+- [Visualizations](https://github.com/apis-list/apis-list#visualizations-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

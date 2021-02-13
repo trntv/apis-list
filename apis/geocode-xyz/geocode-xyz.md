@@ -1,14 +1,13 @@
 # Geocode.xyz
-
 geocode. xyz - A geoparser, geocoder and batch geocoder for the world. Map your data. geocode
 
 ##  🔗 Links
 **Docs / Website**: https://geocode.xyz/
 
-## 🧬 Geocode.xyz Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/geocode-xyz/geocode-xyz.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/geocode-xyz/geocode-xyz.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/geocode-xyz/geocode-xyz.yaml)
+## 🧬 Geocode.xyz specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Geocode.xyz free?
  Unknown/No 
@@ -17,9 +16,7 @@ geocode. xyz - A geoparser, geocoder and batch geocoder for the world. Map your 
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/geocode-xyz/geocode-xyz.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)

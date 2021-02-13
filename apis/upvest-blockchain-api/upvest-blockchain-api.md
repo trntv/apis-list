@@ -7,10 +7,10 @@ The Upvest Blockchain API is a multi-protocol blockchain API for building blockc
 ##  🔗 Links
 **Docs / Website**: https://doc.upvest.co/docs
 
-## 🧬 Upvest Blockchain Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/upvest-blockchain-api/upvest-blockchain-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/upvest-blockchain-api/upvest-blockchain-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/upvest-blockchain-api/upvest-blockchain-api.yaml)
+## 🧬 Upvest Blockchain Api specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Upvest Blockchain Api free?
  Unknown/No 
@@ -19,9 +19,7 @@ The Upvest Blockchain API is a multi-protocol blockchain API for building blockc
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/upvest-blockchain-api/upvest-blockchain-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies-)

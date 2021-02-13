@@ -1,14 +1,13 @@
 # Intellexer
-
 Processing (NLP) Service including sentiment analysis, content extraction, and language detection. The Intellexer API enables developers to embed text analysis solutions in consumer or enterprise applications, or web-services. You can use Intellexer API with any software component that issue an HTTPS requests
 
 ##  🔗 Links
 **Docs / Website**: http://esapi.intellexer.com/
 
-## 🧬 Intellexer Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/intellexer/intellexer.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/intellexer/intellexer.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/intellexer/intellexer.yaml)
+## 🧬 Intellexer specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Intellexer free?
  Unknown/No 
@@ -22,6 +21,11 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)- [Development](https://github.com/apis-list/apis-list#development-)- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity-)- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining-)- [Search](https://github.com/apis-list/apis-list#search-)- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools-)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
+- [Development](https://github.com/apis-list/apis-list#development-)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity-)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining-)
+- [Search](https://github.com/apis-list/apis-list#search-)
+- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

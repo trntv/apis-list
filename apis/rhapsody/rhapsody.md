@@ -7,10 +7,10 @@ Access metadata, user’s entire library of music and do much more. The Napster 
 ##  🔗 Links
 **Docs / Website**: https://developer.rhapsody.com/
 
-## 🧬 Rhapsody Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/rhapsody/rhapsody.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/rhapsody/rhapsody.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/rhapsody/rhapsody.yaml)
+## 🧬 Rhapsody specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Rhapsody free?
  Unknown/No 
@@ -21,10 +21,14 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 ## 🗂️ Libraries
 ### Java
 - PushSpring Android SDK by Rhapsody: [Documentation](https://github.com/Rhapsody/PushSpringSDK-Android), [Source code](https://github.com/Rhapsody/PushSpringSDK-Android/tree/master/PushSpringSDK/src/com/pushspring/sdk)
+
 - Rhapsody Java SDK by Kai Winter: [Documentation](https://github.com/kaiwinter/rhapsody-java-sdk)
+
 - Rhapsody Android SDK by Rhapsody: [Documentation](https://developer.rhapsody.com/sdks), [Source code](https://github.com/Rhapsody/rhapsody-android-sdk)
+
 ### JavaScript
 - Rhapsody JavaScript SDK by Rhapsody: [Documentation](https://github.com/Rhapsody/rhapsody.js)
+
 ### Objective-C
 - Rhapsody iOS SDK by Rhapsody: [Documentation](https://developers.coinbase.com/api/v2), [Source code](https://github.com/Rhapsody/rhapsody-ios-sdk)
 

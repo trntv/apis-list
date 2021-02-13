@@ -7,10 +7,10 @@ This page is a hub space linking to the Analytics API guides. There are two main
 ##  🔗 Links
 **Docs / Website**: https://matomo.org/docs/analytics-api/
 
-## 🧬 Matomo Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/matomo/matomo.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/matomo/matomo.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/matomo/matomo.yaml)
+## 🧬 Matomo specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Matomo free?
  Unknown/No 
@@ -19,9 +19,7 @@ This page is a hub space linking to the Analytics API guides. There are two main
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/matomo/matomo.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Analytics](https://github.com/apis-list/apis-list#analytics-)

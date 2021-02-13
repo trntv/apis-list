@@ -7,10 +7,10 @@ NexTrip API
 ##  🔗 Links
 **Docs / Website**: https://svc.metrotransit.org/
 
-## 🧬 Transportation in Minneapolis, USA Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-minneapolis-us/transport-for-minneapolis-us.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-minneapolis-us/transport-for-minneapolis-us.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-minneapolis-us/transport-for-minneapolis-us.yaml)
+## 🧬 Transportation in Minneapolis, USA specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Transportation in Minneapolis, USA free?
  Yes! 
@@ -19,9 +19,7 @@ NexTrip API
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-minneapolis-us/transport-for-minneapolis-us.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation-)

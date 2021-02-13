@@ -7,10 +7,10 @@ Powerful augmented reality apps. Create immersive Augmented Reality experiences 
 ##  🔗 Links
 **Docs / Website**: https://www.wikitude.com/developer-overview/
 
-## 🧬 Wikitude Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wikitude/wikitude.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wikitude/wikitude.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wikitude/wikitude.yaml)
+## 🧬 Wikitude specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Wikitude free?
  Unknown/No 
@@ -19,13 +19,16 @@ Powerful augmented reality apps. Create immersive Augmented Reality experiences 
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-### JavaScript
-- Wikitude Android SDK: [Documentation](http://www.wikitude.com/products/wikitude-augmented-reality-sdk-mobile/wikitude-sdk-android/)
 ### JavaScript, Objective-C
 - Wikitude iOS SDK: [Documentation](http://www.wikitude.com/products/wikitude-augmented-reality-sdk-mobile/wikitude-sdk-ios/)
 
+### JavaScript
+- Wikitude Android SDK: [Documentation](http://www.wikitude.com/products/wikitude-augmented-reality-sdk-mobile/wikitude-sdk-android/)
+
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)- [Virtual & Augmented Reality](https://github.com/apis-list/apis-list#virtual--augmented-reality-)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
+- [Virtual & Augmented Reality](https://github.com/apis-list/apis-list#virtual--augmented-reality-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

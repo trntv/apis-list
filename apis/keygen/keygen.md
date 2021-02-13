@@ -7,10 +7,10 @@ Keygen is a dead-simple software licensing API built for developers of desktop a
 ##  🔗 Links
 **Docs / Website**: https://keygen.sh
 
-## 🧬 Keygen Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/keygen/keygen.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/keygen/keygen.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/keygen/keygen.yaml)
+## 🧬 Keygen specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Keygen free?
  Unknown/No 
@@ -19,9 +19,7 @@ Keygen is a dead-simple software licensing API built for developers of desktop a
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/keygen/keygen.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Payments](https://github.com/apis-list/apis-list#payments-)

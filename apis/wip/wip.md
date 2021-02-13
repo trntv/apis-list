@@ -7,10 +7,10 @@ Open API for the maker community. WIP is a community of makers who help each oth
 ##  🔗 Links
 **Docs / Website**: https://wip.co/api
 
-## 🧬 Wip Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wip/wip.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wip/wip.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wip/wip.yaml)
+## 🧬 Wip specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Wip free?
  Unknown/No 
@@ -19,11 +19,10 @@ Open API for the maker community. WIP is a community of makers who help each oth
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/wip/wip.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce-)- [Social](https://github.com/apis-list/apis-list#social-)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

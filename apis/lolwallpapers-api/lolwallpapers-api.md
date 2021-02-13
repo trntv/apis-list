@@ -7,10 +7,10 @@ League of Legends Wallpapers website official API. This is a lightweight public 
 ##  🔗 Links
 **Docs / Website**: https://api.lolwallpapers.net
 
-## 🧬 Lolwallpapers Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lolwallpapers-api/lolwallpapers-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lolwallpapers-api/lolwallpapers-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/lolwallpapers-api/lolwallpapers-api.yaml)
+## 🧬 Lolwallpapers Api specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Lolwallpapers Api free?
  Unknown/No 
@@ -19,11 +19,11 @@ League of Legends Wallpapers website official API. This is a lightweight public 
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/lolwallpapers-api/lolwallpapers-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Games](https://github.com/apis-list/apis-list#games-)- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)- [Search](https://github.com/apis-list/apis-list#search-)
+- [Games](https://github.com/apis-list/apis-list#games-)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Search](https://github.com/apis-list/apis-list#search-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

@@ -13,10 +13,10 @@ ScrapingBee is a simple API that does all the above for you. It is truly the mos
 ##  🔗 Links
 **Docs / Website**: https://www.scrapingbee.com
 
-## 🧬 Scrapingbee Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/scrapingbee/scrapingbee.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/scrapingbee/scrapingbee.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/scrapingbee/scrapingbee.yaml)
+## 🧬 Scrapingbee specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Scrapingbee free?
  Unknown/No 
@@ -25,9 +25,7 @@ ScrapingBee is a simple API that does all the above for you. It is truly the mos
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/scrapingbee/scrapingbee.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining-)

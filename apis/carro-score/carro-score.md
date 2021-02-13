@@ -7,10 +7,10 @@ Carro makes finding influencers that love your brand easier than ever before
 ##  🔗 Links
 **Docs / Website**: https://docs.score.getcarro.com/
 
-## 🧬 Carro Score Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/carro-score/carro-score.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/carro-score/carro-score.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/carro-score/carro-score.yaml)
+## 🧬 Carro Score specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Carro Score free?
  Unknown/No 
@@ -19,9 +19,7 @@ Carro makes finding influencers that love your brand easier than ever before
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/carro-score/carro-score.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Social](https://github.com/apis-list/apis-list#social-)

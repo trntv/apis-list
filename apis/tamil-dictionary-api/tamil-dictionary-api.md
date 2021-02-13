@@ -7,10 +7,10 @@ Lookup Tamil words and build your own Tamil dictionary APP using this API
 ##  🔗 Links
 **Docs / Website**: https://agarathi.com/api/dictionary
 
-## 🧬 Tamil Dictionary Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/tamil-dictionary-api/tamil-dictionary-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/tamil-dictionary-api/tamil-dictionary-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/tamil-dictionary-api/tamil-dictionary-api.yaml)
+## 🧬 Tamil Dictionary Api specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Tamil Dictionary Api free?
  Unknown/No 
@@ -19,9 +19,7 @@ Lookup Tamil words and build your own Tamil dictionary APP using this API
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/tamil-dictionary-api/tamil-dictionary-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries-)

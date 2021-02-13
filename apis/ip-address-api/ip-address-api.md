@@ -7,10 +7,10 @@ IP Address API free service provides country name, 2 symbol code and 3 symbol co
 ##  🔗 Links
 **Docs / Website**: https://any.ge/api/
 
-## 🧬 Ip Address Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ip-address-api/ip-address-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ip-address-api/ip-address-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ip-address-api/ip-address-api.yaml)
+## 🧬 Ip Address Api specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Ip Address Api free?
  Unknown/No 
@@ -19,9 +19,7 @@ IP Address API free service provides country name, 2 symbol code and 3 symbol co
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/ip-address-api/ip-address-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Other](https://github.com/apis-list/apis-list#other-)

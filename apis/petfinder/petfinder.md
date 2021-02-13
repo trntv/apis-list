@@ -7,10 +7,10 @@ The Petfinder API (Application Programming Interface) allows you to access the P
 ##  🔗 Links
 **Docs / Website**: https://www.petfinder.com/developers/v2/docs/
 
-## 🧬 Petfinder Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/petfinder/petfinder.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/petfinder/petfinder.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/petfinder/petfinder.yaml)
+## 🧬 Petfinder specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Petfinder free?
  Unknown/No 
@@ -19,33 +19,48 @@ The Petfinder API (Application Programming Interface) allows you to access the P
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-### .Net
-- Petfinder .NET SDK by John Price: [Documentation](https://github.com/pricejc/petfinder-dotnet)
 ### Go
 - Petfinder Go SDK: [Documentation](https://github.com/petfinder-com/petfinder-go-sdk)
-### JavaScript
-- Petfinder JavaScript SDK: [Documentation](https://github.com/petfinder-com/petfinder-js-sdk)
-- Petfinder AngularJS SDK by Luke Schlangen: [Documentation](https://github.com/LukeSchlangen/angular-petfinder-api)
-### JavaScript, Node.js
-- Petfinder JavaScript SDK by Chris Ferdinandi: [Documentation](https://github.com/cferdinandi/petfinderAPI4everybody)
-### Node.js
-- Petfinder Node.js SDK by Angel S. Moreno: [Documentation](https://github.com/angelxmoreno/petfinder-promise)
+
 ### PHP
 - Petfinder PHP SDK: [Documentation](https://github.com/petfinder-com/petfinder-php-sdk)
+
 - Petfinder PHP SDK by Luke Bainbridge: [Documentation](https://github.com/midnightLuke/petfinder-api-php)
+
 - Petfinder PHP SDK by Salerno Labs: [Documentation](https://github.com/salernolabs/petfinder)
+
 - Petfinder PHP SDK by Brian Haveri: [Documentation](https://github.com/brianhaveri/Petfinder)
+
+### JavaScript
+- Petfinder JavaScript SDK: [Documentation](https://github.com/petfinder-com/petfinder-js-sdk)
+
+- Petfinder AngularJS SDK by Luke Schlangen: [Documentation](https://github.com/LukeSchlangen/angular-petfinder-api)
+
 ### Python
 - Petfinder Python SDK by Aaron Schlegel: [Documentation](https://github.com/aschleg/petpy)
+
 - Petfinder Python SDK by Greg Taylor: [Documentation](https://github.com/gtaylor/petfinder-api)
-### R
-- Petfinder R SDK by Aaron Schlegel: [Documentation](https://github.com/aschleg/PetfindeR)
+
+### .Net
+- Petfinder .NET SDK by John Price: [Documentation](https://github.com/pricejc/petfinder-dotnet)
+
+### Node.js
+- Petfinder Node.js SDK by Angel S. Moreno: [Documentation](https://github.com/angelxmoreno/petfinder-promise)
+
 ### Ruby
 - Petfinder Ruby SDK by Pedro De Ona: [Documentation](https://github.com/pdeona/petfinder_wrap)
+
 - Petfinder Ruby SDK by Eric Hutzelman: [Documentation](https://github.com/ehutzelman/petfinder)
+
+### R
+- Petfinder R SDK by Aaron Schlegel: [Documentation](https://github.com/aschleg/PetfindeR)
+
+### JavaScript, Node.js
+- Petfinder JavaScript SDK by Chris Ferdinandi: [Documentation](https://github.com/cferdinandi/petfinderAPI4everybody)
 
 
 ## 🗄️ Categories:
-- [Animals](https://github.com/apis-list/apis-list#animals-)- [Search](https://github.com/apis-list/apis-list#search-)
+- [Animals](https://github.com/apis-list/apis-list#animals-)
+- [Search](https://github.com/apis-list/apis-list#search-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

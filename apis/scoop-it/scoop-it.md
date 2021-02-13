@@ -7,10 +7,10 @@ Enables professionals and businesses to research and publish content through its
 ##  🔗 Links
 **Docs / Website**: http://www.scoop.it/dev
 
-## 🧬 Scoop.it Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/scoop-it/scoop-it.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/scoop-it/scoop-it.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/scoop-it/scoop-it.yaml)
+## 🧬 Scoop.it specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Scoop.it free?
  Unknown/No 
@@ -19,9 +19,7 @@ Enables professionals and businesses to research and publish content through its
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/scoop-it/scoop-it.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo-)

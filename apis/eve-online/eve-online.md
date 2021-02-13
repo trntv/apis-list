@@ -7,10 +7,10 @@ An OpenAPI for EVE Online
 ##  🔗 Links
 **Docs / Website**: https://esi.evetech.net/ui
 
-## 🧬 Eve Online Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/eve-online/eve-online.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/eve-online/eve-online.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/eve-online/eve-online.yaml)
+## 🧬 Eve Online specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Eve Online free?
  Unknown/No 
@@ -19,16 +19,21 @@ An OpenAPI for EVE Online
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-### PHP
-- Eve Online CREST Carbon RESTful API PHP Library: [Documentation](https://github.com/fuzzysteve/CrestLibrary)
-- EVE Online CREST Carbon RESTful API Perry PHP Library: [Documentation](https://github.com/3rdpartyeve/perry)
 ### Python
 - EVE Online CREST Carbon RESTful Python SDK by PyCrest: [Documentation](https://github.com/pycrest/PyCrest)
+
 - EveLink Python Library: [Documentation](https://pypi.python.org/pypi/EVELink/0.6.1)
+
 - EVE Online CREST Carbon RESTful API Crespy Python Library: [Documentation](https://github.com/jgoldshlag/crespy)
+
+### PHP
+- Eve Online CREST Carbon RESTful API PHP Library: [Documentation](https://github.com/fuzzysteve/CrestLibrary)
+
+- EVE Online CREST Carbon RESTful API Perry PHP Library: [Documentation](https://github.com/3rdpartyeve/perry)
 
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)- [Games](https://github.com/apis-list/apis-list#games-)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
+- [Games](https://github.com/apis-list/apis-list#games-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

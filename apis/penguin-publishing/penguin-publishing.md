@@ -1,14 +1,13 @@
 # Penguin Publishing
-
 Sample XML response Sample JSON response
 
 ##  🔗 Links
 **Docs / Website**: http://www.penguinrandomhouse.biz/webservices/rest/
 
-## 🧬 Penguin Publishing Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/penguin-publishing/penguin-publishing.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/penguin-publishing/penguin-publishing.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/penguin-publishing/penguin-publishing.yaml)
+## 🧬 Penguin Publishing specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Penguin Publishing free?
  Unknown/No 
@@ -17,9 +16,7 @@ Sample XML response Sample JSON response
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/penguin-publishing/penguin-publishing.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Books](https://github.com/apis-list/apis-list#books-)

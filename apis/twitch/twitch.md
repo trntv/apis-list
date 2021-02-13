@@ -7,10 +7,10 @@ The Twitch API enables you to develop your own applications using the rich featu
 ##  🔗 Links
 **Docs / Website**: https://dev.twitch.tv/docs
 
-## 🧬 Twitch Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/twitch/twitch.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/twitch/twitch.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/twitch/twitch.yaml)
+## 🧬 Twitch specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Twitch free?
  Unknown/No 
@@ -19,9 +19,7 @@ The Twitch API enables you to develop your own applications using the rich featu
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/twitch/twitch.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Social](https://github.com/apis-list/apis-list#social-)

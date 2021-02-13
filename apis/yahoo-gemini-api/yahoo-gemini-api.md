@@ -2,15 +2,15 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/yahoo-gemini-api/logo_256x256.png" alt="Yahoo Gemini API Logo"/>
 </p>
-Developer tools and the support you need to leverage Verizon Media's powerful data and advertising solutions. Allows advertisers to manage complex Gemini accounts and campaigns more efficiently
+Developer tools and the support you need to leverage Verizon Media&#x27;s powerful data and advertising solutions. Allows advertisers to manage complex Gemini accounts and campaigns more efficiently
 
 ##  🔗 Links
 **Docs / Website**: https://developer.yahoo.com/gemini/
 
-## 🧬 Yahoo Gemini API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yahoo-gemini-api/yahoo-gemini-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yahoo-gemini-api/yahoo-gemini-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yahoo-gemini-api/yahoo-gemini-api.yaml)
+## 🧬 Yahoo Gemini API specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Yahoo Gemini API free?
  Unknown/No 
@@ -19,9 +19,7 @@ Developer tools and the support you need to leverage Verizon Media's powerful da
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/yahoo-gemini-api/yahoo-gemini-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo-)

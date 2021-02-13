@@ -7,10 +7,10 @@ Free powerful API for generating dummy images with unique features like delay, a
 ##  🔗 Links
 **Docs / Website**: http://satyr.io/
 
-## 🧬 Satyr Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/satyr/satyr.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/satyr/satyr.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/satyr/satyr.yaml)
+## 🧬 Satyr specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Satyr free?
  Unknown/No 
@@ -19,11 +19,10 @@ Free powerful API for generating dummy images with unique features like delay, a
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/satyr/satyr.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development-)- [Testing](https://github.com/apis-list/apis-list#testing-)
+- [Development](https://github.com/apis-list/apis-list#development-)
+- [Testing](https://github.com/apis-list/apis-list#testing-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

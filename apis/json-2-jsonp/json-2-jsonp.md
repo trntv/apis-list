@@ -7,10 +7,10 @@ Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using pur
 ##  🔗 Links
 **Docs / Website**: https://json2jsonp.com/
 
-## 🧬 JSON 2 JSONP Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/json-2-jsonp/json-2-jsonp.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/json-2-jsonp/json-2-jsonp.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/json-2-jsonp/json-2-jsonp.yaml)
+## 🧬 JSON 2 JSONP specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is JSON 2 JSONP free?
  Unknown/No 
@@ -19,9 +19,7 @@ Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using pur
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/json-2-jsonp/json-2-jsonp.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Development](https://github.com/apis-list/apis-list#development-)

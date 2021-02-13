@@ -7,10 +7,10 @@ World Trading Data is a worldwide market data provider, for example provide a st
 ##  🔗 Links
 **Docs / Website**: https://marketstack.com/
 
-## 🧬 World Trading Data Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/world-trading-data/world-trading-data.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/world-trading-data/world-trading-data.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/world-trading-data/world-trading-data.yaml)
+## 🧬 World Trading Data specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is World Trading Data free?
  Unknown/No 
@@ -19,9 +19,7 @@ World Trading Data is a worldwide market data provider, for example provide a st
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/world-trading-data/world-trading-data.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics-)

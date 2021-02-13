@@ -7,10 +7,10 @@ Convenient HackerNews GraphQL wrapper API. Filter, sort, search and relations
 ##  🔗 Links
 **Docs / Website**: https://metamate.io/blog/most-advanced-hackernews-api/
 
-## 🧬 Hacker News GraphQL Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/hacker-news-graphql/hacker-news-graphql.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/hacker-news-graphql/hacker-news-graphql.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/hacker-news-graphql/hacker-news-graphql.yaml)
+## 🧬 Hacker News GraphQL specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Hacker News GraphQL free?
  Unknown/No 
@@ -19,9 +19,7 @@ Convenient HackerNews GraphQL wrapper API. Filter, sort, search and relations
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/hacker-news-graphql/hacker-news-graphql.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Social](https://github.com/apis-list/apis-list#social-)

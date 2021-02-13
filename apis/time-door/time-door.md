@@ -7,10 +7,10 @@ A time series analysis API. Time Door is an API for statistical insights into ti
 ##  🔗 Links
 **Docs / Website**: https://timedoor.io
 
-## 🧬 Time Door Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/time-door/time-door.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/time-door/time-door.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/time-door/time-door.yaml)
+## 🧬 Time Door specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Time Door free?
  Unknown/No 
@@ -19,11 +19,10 @@ A time series analysis API. Time Door is an API for statistical insights into ti
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/time-door/time-door.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Databases](https://github.com/apis-list/apis-list#databases-)- [Development](https://github.com/apis-list/apis-list#development-)
+- [Databases](https://github.com/apis-list/apis-list#databases-)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

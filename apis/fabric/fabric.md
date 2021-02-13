@@ -7,10 +7,10 @@ A platform that helps your mobile team build better apps, understand your users,
 ##  🔗 Links
 **Docs / Website**: https://get.fabric.io/
 
-## 🧬 Fabric Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/fabric/fabric.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/fabric/fabric.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/fabric/fabric.yaml)
+## 🧬 Fabric specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Fabric free?
  Unknown/No 
@@ -19,9 +19,7 @@ A platform that helps your mobile team build better apps, understand your users,
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/fabric/fabric.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Analytics](https://github.com/apis-list/apis-list#analytics-)

@@ -7,10 +7,10 @@ The Rick and Morty API is a REST and GraphQL API based on the television show Ri
 ##  🔗 Links
 **Docs / Website**: https://rickandmortyapi.com/
 
-## 🧬 Rick and Morty Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/rick-and-morty/rick-and-morty.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/rick-and-morty/rick-and-morty.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/rick-and-morty/rick-and-morty.yaml)
+## 🧬 Rick and Morty specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Rick and Morty free?
  Unknown/No 
@@ -19,11 +19,10 @@ The Rick and Morty API is a REST and GraphQL API based on the television show Ri
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/rick-and-morty/rick-and-morty.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Comics & Anime](https://github.com/apis-list/apis-list#comics--anime-)- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
+- [Comics & Anime](https://github.com/apis-list/apis-list#comics--anime-)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

@@ -7,10 +7,10 @@ A powerful API that provides detailed data on over 500,000 products such as nutr
 ##  🔗 Links
 **Docs / Website**: https://chompthis.com/api/
 
-## 🧬 Chomp - Food Nutrition Database Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/chomp-food-nutrition-database-api/chomp-food-nutrition-database-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/chomp-food-nutrition-database-api/chomp-food-nutrition-database-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/chomp-food-nutrition-database-api/chomp-food-nutrition-database-api.yaml)
+## 🧬 Chomp - Food Nutrition Database Api specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Chomp - Food Nutrition Database Api free?
  Unknown/No 
@@ -19,9 +19,7 @@ A powerful API that provides detailed data on over 500,000 products such as nutr
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/chomp-food-nutrition-database-api/chomp-food-nutrition-database-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks-)

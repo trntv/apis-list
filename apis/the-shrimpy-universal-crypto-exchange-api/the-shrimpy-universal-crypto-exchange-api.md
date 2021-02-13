@@ -7,10 +7,10 @@ Collect real-time trade or order book data for free, manage user exchange accoun
 ##  🔗 Links
 **Docs / Website**: https://developers.shrimpy.io/
 
-## 🧬 The Shrimpy Universal Crypto Exchange Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-shrimpy-universal-crypto-exchange-api/the-shrimpy-universal-crypto-exchange-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-shrimpy-universal-crypto-exchange-api/the-shrimpy-universal-crypto-exchange-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-shrimpy-universal-crypto-exchange-api/the-shrimpy-universal-crypto-exchange-api.yaml)
+## 🧬 The Shrimpy Universal Crypto Exchange Api specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is The Shrimpy Universal Crypto Exchange Api free?
  Unknown/No 
@@ -19,9 +19,7 @@ Collect real-time trade or order book data for free, manage user exchange accoun
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-shrimpy-universal-crypto-exchange-api/the-shrimpy-universal-crypto-exchange-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies-)

@@ -7,10 +7,10 @@ The API returns maximum 3 detected languages and a numeric confidences between 0
 ##  🔗 Links
 **Docs / Website**: https://rapidapi.com/BigLobster/api/language-identification-prediction
 
-## 🧬 Language Prediction Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/language-prediction/language-prediction.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/language-prediction/language-prediction.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/language-prediction/language-prediction.yaml)
+## 🧬 Language Prediction specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Language Prediction free?
  Unknown/No 
@@ -19,9 +19,7 @@ The API returns maximum 3 detected languages and a numeric confidences between 0
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/language-prediction/language-prediction.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)

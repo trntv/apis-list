@@ -7,9 +7,9 @@ The Internet Archive (the “Archive”) is a 501(c)(3) nonprofit organization c
 ##  🔗 Links
 **Docs / Website**: https://archive.readme.io/docs
 
-## 🧬 Archive.org Specification:
-**Type**: swagger  
-**URI**: https://raw.githubusercontent.com/NYTimes/public_api_specs/master/archive_api/archive_api.json  
+## 🧬 Archive.org specification:
+**Type**: swagger
+**URI**: https://raw.githubusercontent.com/NYTimes/public_api_specs/master/archive_api/archive_api.json
 **Version**: https://raw.githubusercontent.com/NYTimes/public_api_specs/master/archive_api/archive_api.json
 
 ## 🆓 Is Archive.org free?
@@ -19,9 +19,7 @@ The Internet Archive (the “Archive”) is a 501(c)(3) nonprofit organization c
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/archive-org/archive-org.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data-)

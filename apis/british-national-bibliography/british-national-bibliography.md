@@ -7,10 +7,10 @@ Welcome to bnb. data. bl. uk TheBritish National Bibliography(BNB) records the p
 ##  🔗 Links
 **Docs / Website**: http://bnb.data.bl.uk/
 
-## 🧬 British National Bibliography Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/british-national-bibliography/british-national-bibliography.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/british-national-bibliography/british-national-bibliography.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/british-national-bibliography/british-national-bibliography.yaml)
+## 🧬 British National Bibliography specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is British National Bibliography free?
  Unknown/No 
@@ -19,9 +19,7 @@ Welcome to bnb. data. bl. uk TheBritish National Bibliography(BNB) records the p
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/british-national-bibliography/british-national-bibliography.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Books](https://github.com/apis-list/apis-list#books-)

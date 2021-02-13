@@ -7,10 +7,10 @@ SparkPost is a cloud based email delivery service that sends 25% of the worlds l
 ##  🔗 Links
 **Docs / Website**: https://developers.sparkpost.com
 
-## 🧬 SparkPost Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/sparkpost/sparkpost.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/sparkpost/sparkpost.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/sparkpost/sparkpost.yaml)
+## 🧬 SparkPost specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is SparkPost free?
  Unknown/No 
@@ -19,19 +19,25 @@ SparkPost is a cloud based email delivery service that sends 25% of the worlds l
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-### C#
-- SparkPost C# SDK by SparkPost: [Documentation](https://github.com/SparkPost/csharp-sparkpost)
 ### Elixir
 - Sparkpost Elixir SDK: [Documentation](https://github.com/SparkPost/elixir-sparkpost)
-### Go
-- SparkPost Go SDK by SparkPost: [Documentation](https://github.com/SparkPost/gosparkpost)
+
 ### Java
 - SparkPost Java SDK by SparkPost: [Documentation](https://developers.sparkpost.com/), [Source code](https://github.com/sparkpost/java-sparkpost)
+
+### Go
+- SparkPost Go SDK by SparkPost: [Documentation](https://github.com/SparkPost/gosparkpost)
+
 ### Ruby
 - SparkPost Ruby SDK by SparkPost: [Documentation](https://github.com/SparkPost/ruby-sparkpost)
 
+### C#
+- SparkPost C# SDK by SparkPost: [Documentation](https://github.com/SparkPost/csharp-sparkpost)
+
 
 ## 🗄️ Categories:
-- [Analytics](https://github.com/apis-list/apis-list#analytics-)- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging-)- [Email & SMS](https://github.com/apis-list/apis-list#email--sms-)
+- [Analytics](https://github.com/apis-list/apis-list#analytics-)
+- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging-)
+- [Email & SMS](https://github.com/apis-list/apis-list#email--sms-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

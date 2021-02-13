@@ -7,10 +7,10 @@ Create and consume 360 degree panoramic tours using a GraphQL API. GraphQL 360 e
 ##  🔗 Links
 **Docs / Website**: https://graphql360.com
 
-## 🧬 Graphql360 Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/graphql360/graphql360.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/graphql360/graphql360.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/graphql360/graphql360.yaml)
+## 🧬 Graphql360 specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Graphql360 free?
  Unknown/No 
@@ -19,11 +19,12 @@ Create and consume 360 degree panoramic tours using a GraphQL API. GraphQL 360 e
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/graphql360/graphql360.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries-)- [Games](https://github.com/apis-list/apis-list#games-)- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)- [Real Estate](https://github.com/apis-list/apis-list#real-estate-)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries-)
+- [Games](https://github.com/apis-list/apis-list#games-)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Real Estate](https://github.com/apis-list/apis-list#real-estate-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

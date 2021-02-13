@@ -1,14 +1,13 @@
 # BitcoinAverage
-
-The world's best and longest running Cryptocurrency price API provider. These APIs can be used to gather real-time, OHLC, volume and historical price
+The world&#x27;s best and longest running Cryptocurrency price API provider. These APIs can be used to gather real-time, OHLC, volume and historical price
 
 ##  🔗 Links
 **Docs / Website**: https://apiv2.bitcoinaverage.com/
 
-## 🧬 BitcoinAverage Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bitcoinaverage/bitcoinaverage.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bitcoinaverage/bitcoinaverage.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bitcoinaverage/bitcoinaverage.yaml)
+## 🧬 BitcoinAverage specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is BitcoinAverage free?
  Unknown/No 
@@ -19,6 +18,7 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 ## 🗂️ Libraries
 ### Node.js
 - BitcoinAverage NodeJS SDK: [Documentation](https://www.npmjs.com/package/bitcoinaverage)
+
 ### Python
 - BitcoinAverage Python PIP SDK: [Documentation](https://github.com/bitcoinaverage/api-integration-examples/)
 

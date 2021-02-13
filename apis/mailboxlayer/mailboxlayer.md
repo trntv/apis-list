@@ -7,10 +7,10 @@ Simple and powerful email verification JSON API using SMTP, typo checks, syntax 
 ##  🔗 Links
 **Docs / Website**: https://mailboxlayer.com
 
-## 🧬 mailboxlayer Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mailboxlayer/mailboxlayer.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mailboxlayer/mailboxlayer.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mailboxlayer/mailboxlayer.yaml)
+## 🧬 mailboxlayer specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is mailboxlayer free?
  Unknown/No 
@@ -19,11 +19,11 @@ Simple and powerful email verification JSON API using SMTP, typo checks, syntax 
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/mailboxlayer/mailboxlayer.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Email & SMS](https://github.com/apis-list/apis-list#email--sms-)- [Security](https://github.com/apis-list/apis-list#security-)- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification-)
+- [Email & SMS](https://github.com/apis-list/apis-list#email--sms-)
+- [Security](https://github.com/apis-list/apis-list#security-)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

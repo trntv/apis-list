@@ -1,14 +1,13 @@
 # Yandex
-
 Maps and the necessary tools for working it on your web app or site
 
 ##  🔗 Links
 **Docs / Website**: https://tech.yandex.com/maps/
 
-## 🧬 Yandex Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yandex/yandex.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yandex/yandex.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yandex/yandex.yaml)
+## 🧬 Yandex specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Yandex free?
  Unknown/No 
@@ -19,12 +18,15 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 ## 🗂️ Libraries
 ### Go
 - Yandex Go SDK by Javier162380: [Documentation](https://github.com/Javier162380/yandexapi)
+
 ### PHP
 - Yandex PHP SDK by NIX Solutions: [Documentation](https://github.com/nixsolutions/yandex-php-library)
+
 -  Geocoder PHP Library by William Durand: [Documentation](https://github.com/geocoder-php/Geocoder)
 
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)- [Search](https://github.com/apis-list/apis-list#search-)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
+- [Search](https://github.com/apis-list/apis-list#search-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

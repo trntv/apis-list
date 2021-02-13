@@ -7,10 +7,10 @@ Shorten URLs with invisible spaces. URL shortener that shortens URLs using space
 ##  🔗 Links
 **Docs / Website**: https://docs.zws.im
 
-## 🧬 Zero Width Shortener Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/zero-width-shortener/zero-width-shortener.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/zero-width-shortener/zero-width-shortener.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/zero-width-shortener/zero-width-shortener.yaml)
+## 🧬 Zero Width Shortener specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Zero Width Shortener free?
  Unknown/No 
@@ -19,9 +19,7 @@ Shorten URLs with invisible spaces. URL shortener that shortens URLs using space
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/zero-width-shortener/zero-width-shortener.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [URLs](https://github.com/apis-list/apis-list#urls-)

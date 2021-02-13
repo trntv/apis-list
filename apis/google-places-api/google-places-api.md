@@ -5,12 +5,12 @@
 Providing a places search that can be searched by latitude/longitude, keyword matched against all fields, name of place, type of place restricted by radius. Places Help users discover the world with rich location data for over 100 million places. Enable them to find specific places using phone numbers, addresses, and real-time signals. Features include
 
 ##  🔗 Links
-**Docs / Website**: https://developers.google.com/places/documentation/?csw=1
+**Docs / Website**: https://developers.google.com/places/documentation/?csw&#x3D;1
 
-## 🧬 Google Places API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-places-api/google-places-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-places-api/google-places-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-places-api/google-places-api.yaml)
+## 🧬 Google Places API specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Google Places API free?
  Unknown/No 
@@ -19,9 +19,7 @@ Providing a places search that can be searched by latitude/longitude, keyword ma
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-places-api/google-places-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)

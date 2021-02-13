@@ -7,10 +7,10 @@ Online PAULING FILE materials database with nearly 2 million data entries (physi
 ##  🔗 Links
 **Docs / Website**: https://developer.mpds.io
 
-## 🧬 MPDS Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mpds/mpds.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mpds/mpds.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mpds/mpds.yaml)
+## 🧬 MPDS specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is MPDS free?
  Unknown/No 
@@ -19,9 +19,7 @@ Online PAULING FILE materials database with nearly 2 million data entries (physi
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/mpds/mpds.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Science & Math](https://github.com/apis-list/apis-list#science--math-)

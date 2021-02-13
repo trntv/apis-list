@@ -1,14 +1,13 @@
 # FilterLists
-
 By Collin M. Barrett. FilterLists is the independent, comprehensive directory of filter and host lists for advertisements, trackers, malware, and annoyances
 
 ##  🔗 Links
 **Docs / Website**: https://filterlists.com
 
-## 🧬 FilterLists Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/filterlists/filterlists.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/filterlists/filterlists.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/filterlists/filterlists.yaml)
+## 🧬 FilterLists specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is FilterLists free?
  Unknown/No 
@@ -17,9 +16,7 @@ By Collin M. Barrett. FilterLists is the independent, comprehensive directory of
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/filterlists/filterlists.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Security](https://github.com/apis-list/apis-list#security-)

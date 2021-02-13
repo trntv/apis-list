@@ -7,10 +7,10 @@ Real estate investors and lenders can make decisions in seconds that used to tak
 ##  🔗 Links
 **Docs / Website**: https://www.housecanary.com/product-analytics-api
 
-## 🧬 HouseCanary Analytics API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/housecanary-analytics-api/housecanary-analytics-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/housecanary-analytics-api/housecanary-analytics-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/housecanary-analytics-api/housecanary-analytics-api.yaml)
+## 🧬 HouseCanary Analytics API specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is HouseCanary Analytics API free?
  Unknown/No 
@@ -24,6 +24,7 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 
 ## 🗄️ Categories:
-- [Real Estate](https://github.com/apis-list/apis-list#real-estate-)- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data-)
+- [Real Estate](https://github.com/apis-list/apis-list#real-estate-)
+- [Statistics & Data](https://github.com/apis-list/apis-list#statistics--data-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

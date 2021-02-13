@@ -7,10 +7,10 @@ Web Scraper API to extract information from web sites, scrape SERPs, convert web
 ##  🔗 Links
 **Docs / Website**: https://dataflowkit.com/doc-api
 
-## 🧬 Dataflow Kit Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dataflow-kit/dataflow-kit.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dataflow-kit/dataflow-kit.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dataflow-kit/dataflow-kit.yaml)
+## 🧬 Dataflow Kit specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Dataflow Kit free?
  Unknown/No 
@@ -19,9 +19,7 @@ Web Scraper API to extract information from web sites, scrape SERPs, convert web
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/dataflow-kit/dataflow-kit.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Other](https://github.com/apis-list/apis-list#other-)

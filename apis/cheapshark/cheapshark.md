@@ -7,10 +7,10 @@ CheapShark is a price comparison website for digital PC Games. CheapShark keeps 
 ##  🔗 Links
 **Docs / Website**: https://www.cheapshark.com/api
 
-## 🧬 CheapShark Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cheapshark/cheapshark.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cheapshark/cheapshark.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cheapshark/cheapshark.yaml)
+## 🧬 CheapShark specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is CheapShark free?
  Unknown/No 
@@ -24,6 +24,8 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce-)- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)- [Games](https://github.com/apis-list/apis-list#games-)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
+- [Games](https://github.com/apis-list/apis-list#games-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

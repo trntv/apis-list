@@ -7,10 +7,10 @@ This platform acts as a layer on top of third-party APIs, using code snippets to
 ##  🔗 Links
 **Docs / Website**: https://temboo.com/download
 
-## 🧬 Temboo SDK Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/temboo-sdk/temboo-sdk.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/temboo-sdk/temboo-sdk.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/temboo-sdk/temboo-sdk.yaml)
+## 🧬 Temboo SDK specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Temboo SDK free?
  Unknown/No 
@@ -19,9 +19,7 @@ This platform acts as a layer on top of third-party APIs, using code snippets to
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/temboo-sdk/temboo-sdk.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [IoT & Home Automation](https://github.com/apis-list/apis-list#iot--home-automation-)

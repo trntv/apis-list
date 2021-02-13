@@ -7,10 +7,10 @@ Secure and reliable Online Tools. Free URL Shortener API without limits
 ##  🔗 Links
 **Docs / Website**: https://app.shrtco.de/docs
 
-## 🧬 Shrtco.De Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shrtco-de-api/shrtco-de-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shrtco-de-api/shrtco-de-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shrtco-de-api/shrtco-de-api.yaml)
+## 🧬 Shrtco.De Api specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Shrtco.De Api free?
  Unknown/No 
@@ -19,9 +19,7 @@ Secure and reliable Online Tools. Free URL Shortener API without limits
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/shrtco-de-api/shrtco-de-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [URLs](https://github.com/apis-list/apis-list#urls-)

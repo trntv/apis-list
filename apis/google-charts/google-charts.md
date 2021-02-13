@@ -7,10 +7,10 @@ Free tool with a wide range of capabilities for visualizing data from a website.
 ##  🔗 Links
 **Docs / Website**: https://developers.google.com/chart/interactive/docs/
 
-## 🧬 Google Charts Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-charts/google-charts.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-charts/google-charts.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-charts/google-charts.yaml)
+## 🧬 Google Charts specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Google Charts free?
  Unknown/No 
@@ -24,6 +24,8 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 
 ## 🗄️ Categories:
-- [Analytics](https://github.com/apis-list/apis-list#analytics-)- [Bar & QR Codes](https://github.com/apis-list/apis-list#bar--qr-codes-)- [Visualizations](https://github.com/apis-list/apis-list#visualizations-)
+- [Analytics](https://github.com/apis-list/apis-list#analytics-)
+- [Bar & QR Codes](https://github.com/apis-list/apis-list#bar--qr-codes-)
+- [Visualizations](https://github.com/apis-list/apis-list#visualizations-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

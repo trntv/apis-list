@@ -7,10 +7,10 @@ Zomato API. 5 million restaurants across 10,000 cities globally.
 ##  🔗 Links
 **Docs / Website**: https://developers.zomato.com/api
 
-## 🧬 Zomato Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/zomato/zomato.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/zomato/zomato.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/zomato/zomato.yaml)
+## 🧬 Zomato specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Zomato free?
  Unknown/No 
@@ -24,6 +24,8 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 
 ## 🗄️ Categories:
-- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks-)- [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest-)- [Social](https://github.com/apis-list/apis-list#social-)
+- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks-)
+- [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest-)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

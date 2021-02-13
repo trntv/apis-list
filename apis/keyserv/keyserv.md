@@ -7,10 +7,10 @@ SmartQ is an technology company founded in 2017 with the intention of providing 
 ##  🔗 Links
 **Docs / Website**: https://keyserv.solutions
 
-## 🧬 Keyserv Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/keyserv/keyserv.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/keyserv/keyserv.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/keyserv/keyserv.yaml)
+## 🧬 Keyserv specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Keyserv free?
  Unknown/No 
@@ -19,11 +19,11 @@ SmartQ is an technology company founded in 2017 with the intention of providing 
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/keyserv/keyserv.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Hardware](https://github.com/apis-list/apis-list#hardware-)- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot--home-automation-)- [Payments](https://github.com/apis-list/apis-list#payments-)
+- [Hardware](https://github.com/apis-list/apis-list#hardware-)
+- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot--home-automation-)
+- [Payments](https://github.com/apis-list/apis-list#payments-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

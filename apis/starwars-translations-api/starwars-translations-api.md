@@ -7,10 +7,10 @@ Translate from imperial language ( English that is ) to one of the Starwars lang
 ##  🔗 Links
 **Docs / Website**: https://funtranslations.com/api/starwars
 
-## 🧬 Starwars Translations Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/starwars-translations-api/starwars-translations-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/starwars-translations-api/starwars-translations-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/starwars-translations-api/starwars-translations-api.yaml)
+## 🧬 Starwars Translations Api specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Starwars Translations Api free?
  Unknown/No 
@@ -19,11 +19,10 @@ Translate from imperial language ( English that is ) to one of the Starwars lang
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/starwars-translations-api/starwars-translations-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)- [Translation](https://github.com/apis-list/apis-list#translation-)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
+- [Translation](https://github.com/apis-list/apis-list#translation-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

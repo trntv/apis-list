@@ -7,10 +7,10 @@ Integrate your existing service into DroneDeploy and reach tens of thousands of 
 ##  🔗 Links
 **Docs / Website**: https://developer.dronedeploy.com/
 
-## 🧬 DroneDeploy Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dronedeploy/dronedeploy.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dronedeploy/dronedeploy.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dronedeploy/dronedeploy.yaml)
+## 🧬 DroneDeploy specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is DroneDeploy free?
  Unknown/No 
@@ -19,11 +19,11 @@ Integrate your existing service into DroneDeploy and reach tens of thousands of 
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/dronedeploy/dronedeploy.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce-)- [Development](https://github.com/apis-list/apis-list#development-)- [Hardware](https://github.com/apis-list/apis-list#hardware-)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
+- [Development](https://github.com/apis-list/apis-list#development-)
+- [Hardware](https://github.com/apis-list/apis-list#hardware-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

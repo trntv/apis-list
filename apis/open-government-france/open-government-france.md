@@ -7,10 +7,10 @@ data. gouv. fr accueil. data
 ##  🔗 Links
 **Docs / Website**: https://www.data.gouv.fr/
 
-## 🧬 Open Government, France Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-government-france/open-government-france.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-government-france/open-government-france.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-government-france/open-government-france.yaml)
+## 🧬 Open Government, France specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Open Government, France free?
  Unknown/No 
@@ -19,9 +19,7 @@ data. gouv. fr accueil. data
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-government-france/open-government-france.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Government](https://github.com/apis-list/apis-list#government-)

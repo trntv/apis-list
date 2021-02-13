@@ -8,10 +8,10 @@ Chrome based screenshot API to convert URLs to images. ApiFlash is an easy to us
 ##  🔗 Links
 **Docs / Website**: https://apiflash.com/
 
-## 🧬 ApiFlash Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/apiflash/apiflash.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/apiflash/apiflash.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/apiflash/apiflash.yaml)
+## 🧬 ApiFlash specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is ApiFlash free?
  Unknown/No 
@@ -20,11 +20,11 @@ Chrome based screenshot API to convert URLs to images. ApiFlash is an easy to us
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/apiflash/apiflash.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity-)- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining-)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity-)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

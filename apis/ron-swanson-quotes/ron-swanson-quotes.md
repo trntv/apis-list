@@ -7,10 +7,10 @@ Node. Node. js server for providing Ron Swanson quotes. Contribute to jamesseanw
 ##  🔗 Links
 **Docs / Website**: https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api
 
-## 🧬 Ron Swanson Quotes Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ron-swanson-quotes/ron-swanson-quotes.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ron-swanson-quotes/ron-swanson-quotes.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ron-swanson-quotes/ron-swanson-quotes.yaml)
+## 🧬 Ron Swanson Quotes specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Ron Swanson Quotes free?
  Unknown/No 
@@ -19,11 +19,11 @@ Node. Node. js server for providing Ron Swanson quotes. Contribute to jamesseanw
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/ron-swanson-quotes/ron-swanson-quotes.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)- [Fun](https://github.com/apis-list/apis-list#fun-)- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
+- [Fun](https://github.com/apis-list/apis-list#fun-)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

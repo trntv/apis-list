@@ -7,10 +7,10 @@ Vendors offer a variety of methods and capabilities that allow devices to talk t
 ##  🔗 Links
 **Docs / Website**: http://thenewstack.io/the-different-flavors-of-iot-apis/
 
-## 🧬 NewStack Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/newstack/newstack.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/newstack/newstack.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/newstack/newstack.yaml)
+## 🧬 NewStack specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is NewStack free?
  Unknown/No 
@@ -19,9 +19,7 @@ Vendors offer a variety of methods and capabilities that allow devices to talk t
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/newstack/newstack.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics-)

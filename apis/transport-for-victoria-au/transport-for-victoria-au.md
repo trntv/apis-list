@@ -1,16 +1,15 @@
 # Transportation in Victoria, Australia
-
-This page is not yet available on the PTV Beta website. <br />
-<br />
+This page is not yet available on the PTV Beta website. &lt;br /&gt;
+&lt;br /&gt;
 Please refer to the PTV website until further notice. PTV API
 
 ##  🔗 Links
 **Docs / Website**: https://www.ptv.vic.gov.au/footer/ptv-data-and-reports/digital-products/ptv-timetable-api
 
-## 🧬 Transportation in Victoria, Australia Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-victoria-au/transport-for-victoria-au.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-victoria-au/transport-for-victoria-au.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-victoria-au/transport-for-victoria-au.yaml)
+## 🧬 Transportation in Victoria, Australia specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Transportation in Victoria, Australia free?
  Yes! 
@@ -19,9 +18,7 @@ Please refer to the PTV website until further notice. PTV API
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-victoria-au/transport-for-victoria-au.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation-)

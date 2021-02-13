@@ -7,10 +7,10 @@ An API-first, open source software platform for the Internet of Things. - zettaj
 ##  🔗 Links
 **Docs / Website**: https://github.com/zettajs/zetta/wiki
 
-## 🧬 Zetta Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/zetta/zetta.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/zetta/zetta.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/zetta/zetta.yaml)
+## 🧬 Zetta specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Zetta free?
  Unknown/No 
@@ -19,9 +19,7 @@ An API-first, open source software platform for the Internet of Things. - zettaj
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/zetta/zetta.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [IoT & Home Automation](https://github.com/apis-list/apis-list#iot--home-automation-)

@@ -7,10 +7,10 @@ Automatic image keywording and categorization API. The Everypixel Image Recognit
 ##  🔗 Links
 **Docs / Website**: https://labs.everypixel.com/api
 
-## 🧬 Everypixel Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/everypixel/everypixel.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/everypixel/everypixel.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/everypixel/everypixel.yaml)
+## 🧬 Everypixel specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Everypixel free?
  Unknown/No 
@@ -19,11 +19,12 @@ Automatic image keywording and categorization API. The Everypixel Image Recognit
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/everypixel/everypixel.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)- [Recognition](https://github.com/apis-list/apis-list#recognition-)- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools-)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Recognition](https://github.com/apis-list/apis-list#recognition-)
+- [Text Analysis & Tools](https://github.com/apis-list/apis-list#text-analysis--tools-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

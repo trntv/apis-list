@@ -7,10 +7,10 @@ Generate or get existing short URLs, with sequential or custom keyword. ➤ Abou
 ##  🔗 Links
 **Docs / Website**: https://yourls.org/#API
 
-## 🧬 Yourls Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yourls/yourls.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yourls/yourls.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yourls/yourls.yaml)
+## 🧬 Yourls specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Yourls free?
  Unknown/No 
@@ -19,9 +19,7 @@ Generate or get existing short URLs, with sequential or custom keyword. ➤ Abou
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/yourls/yourls.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [URLs](https://github.com/apis-list/apis-list#urls-)

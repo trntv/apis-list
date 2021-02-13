@@ -7,10 +7,10 @@ Get access to millions of vehicle records, specs, ownership costs and market val
 ##  🔗 Links
 **Docs / Website**: https://api.carsxe.com/
 
-## 🧬 CarsXE API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/carsxe-api/carsxe-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/carsxe-api/carsxe-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/carsxe-api/carsxe-api.yaml)
+## 🧬 CarsXE API specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is CarsXE API free?
  Unknown/No 
@@ -19,9 +19,7 @@ Get access to millions of vehicle records, specs, ownership costs and market val
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/carsxe-api/carsxe-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Vehicles](https://github.com/apis-list/apis-list#vehicles-)

@@ -1,14 +1,13 @@
 # Fortnite Api
-
 A fortnite tracker api that returns data about and account
 
 ##  🔗 Links
 **Docs / Website**: https://fortnitetracker.com/site-api
 
-## 🧬 Fortnite Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/fortnite-api/fortnite-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/fortnite-api/fortnite-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/fortnite-api/fortnite-api.yaml)
+## 🧬 Fortnite Api specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Fortnite Api free?
  Unknown/No 
@@ -17,9 +16,7 @@ A fortnite tracker api that returns data about and account
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/fortnite-api/fortnite-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Games](https://github.com/apis-list/apis-list#games-)

@@ -7,10 +7,10 @@ SFederal Register 2.0 is the unofficial daily publication for rules, proposed ru
 ##  🔗 Links
 **Docs / Website**: https://www.federalregister.gov/reader-aids/developer-resources
 
-## 🧬 Federal Register Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/federal-register/federal-register.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/federal-register/federal-register.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/federal-register/federal-register.yaml)
+## 🧬 Federal Register specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Federal Register free?
  Unknown/No 
@@ -19,9 +19,7 @@ SFederal Register 2.0 is the unofficial daily publication for rules, proposed ru
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/federal-register/federal-register.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Government](https://github.com/apis-list/apis-list#government-)

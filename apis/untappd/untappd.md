@@ -2,15 +2,15 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/untappd/logo_256x256.png" alt="Untappd Logo"/>
 </p>
-Access the Untappd API documentation to power your app or project. . Untappd is a mobile web app that allows you to socially share beers that you're enjoying
+Access the Untappd API documentation to power your app or project. . Untappd is a mobile web app that allows you to socially share beers that you&#x27;re enjoying
 
 ##  🔗 Links
 **Docs / Website**: https://untappd.com/api/docs
 
-## 🧬 Untappd Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/untappd/untappd.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/untappd/untappd.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/untappd/untappd.yaml)
+## 🧬 Untappd specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Untappd free?
  Unknown/No 
@@ -19,17 +19,21 @@ Access the Untappd API documentation to power your app or project. . Untappd is 
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-### Go
-- Untappd Go SDK by Matt Layher: [Documentation](https://github.com/mdlayher/untappd)
-### Node.js
-- Untappd Node.js SDK by Glen R. Goodwin: [Documentation](https://github.com/arei/node-untappd)
 ### PHP
 - Untappd PHP SDK by Jason Austin: [Documentation](https://github.com/PintLabs/Pintlabs_Service_Untappd)
+
+### Go
+- Untappd Go SDK by Matt Layher: [Documentation](https://github.com/mdlayher/untappd)
+
+### Node.js
+- Untappd Node.js SDK by Glen R. Goodwin: [Documentation](https://github.com/arei/node-untappd)
+
 ### Ruby
 - Untappd Ruby SDK by Chris Mar: [Documentation](https://github.com/cmar/untappd)
 
 
 ## 🗄️ Categories:
-- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks-)- [Social](https://github.com/apis-list/apis-list#social-)
+- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks-)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

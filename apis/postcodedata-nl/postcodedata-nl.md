@@ -1,14 +1,13 @@
 # PostcodeData.nl
-
-Netherland's post codes search
+Netherland&#x27;s post codes search
 
 ##  🔗 Links
-**Docs / Website**: http://api.postcodedata.nl/v1/postcode/?postcode=1211EP&streetnumber=60&ref=domeinnaam.nl&type=json
+**Docs / Website**: http://api.postcodedata.nl/v1/postcode/?postcode&#x3D;1211EP&amp;streetnumber&#x3D;60&amp;ref&#x3D;domeinnaam.nl&amp;type&#x3D;json
 
-## 🧬 PostcodeData.nl Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/postcodedata-nl/postcodedata-nl.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/postcodedata-nl/postcodedata-nl.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/postcodedata-nl/postcodedata-nl.yaml)
+## 🧬 PostcodeData.nl specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is PostcodeData.nl free?
  Unknown/No 
@@ -17,11 +16,10 @@ Netherland's post codes search
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/postcodedata-nl/postcodedata-nl.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics-)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
+- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

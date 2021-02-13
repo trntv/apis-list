@@ -7,10 +7,10 @@ Open Charge Map is a non-commercial, non-profit, electric vehicle data service h
 ##  🔗 Links
 **Docs / Website**: https://openchargemap.org/site/develop/api
 
-## 🧬 Open Charge Map Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-charge-map/open-charge-map.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-charge-map/open-charge-map.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-charge-map/open-charge-map.yaml)
+## 🧬 Open Charge Map specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Open Charge Map free?
  Unknown/No 
@@ -19,11 +19,11 @@ Open Charge Map is a non-commercial, non-profit, electric vehicle data service h
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-charge-map/open-charge-map.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Environment & Nature](https://github.com/apis-list/apis-list#environment--nature-)- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)- [Vehicles](https://github.com/apis-list/apis-list#vehicles-)
+- [Environment & Nature](https://github.com/apis-list/apis-list#environment--nature-)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
+- [Vehicles](https://github.com/apis-list/apis-list#vehicles-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

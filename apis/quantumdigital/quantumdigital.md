@@ -7,10 +7,10 @@ QuantumDigital’s APIs make navigating the USPS, securing national consumer and
 ##  🔗 Links
 **Docs / Website**: https://developer.quantumdigital.com
 
-## 🧬 Quantumdigital Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/quantumdigital/quantumdigital.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/quantumdigital/quantumdigital.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/quantumdigital/quantumdigital.yaml)
+## 🧬 Quantumdigital specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Quantumdigital free?
  Unknown/No 
@@ -19,11 +19,12 @@ QuantumDigital’s APIs make navigating the USPS, securing national consumer and
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/quantumdigital/quantumdigital.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Business](https://github.com/apis-list/apis-list#business-)- [Commerce](https://github.com/apis-list/apis-list#commerce-)- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo-)- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics-)
+- [Business](https://github.com/apis-list/apis-list#business-)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
+- [Marketing & SEO](https://github.com/apis-list/apis-list#marketing--seo-)
+- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

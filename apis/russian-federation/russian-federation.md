@@ -7,10 +7,10 @@ Central bank of Russian Federation
 ##  🔗 Links
 **Docs / Website**: https://www.cbr.ru/development/
 
-## 🧬 Russian Central Bank Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/russian-federation/russian-federation.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/russian-federation/russian-federation.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/russian-federation/russian-federation.yaml)
+## 🧬 Russian Central Bank specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Russian Central Bank free?
  Unknown/No 
@@ -19,11 +19,10 @@ Central bank of Russian Federation
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/russian-federation/russian-federation.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics-)- [Government](https://github.com/apis-list/apis-list#government-)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics-)
+- [Government](https://github.com/apis-list/apis-list#government-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

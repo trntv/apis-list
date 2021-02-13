@@ -7,10 +7,10 @@ A web based system for managing collaborative projects. Simple manipulations of 
 ##  🔗 Links
 **Docs / Website**: https://github.com/basecamp/bcx-api
 
-## 🧬 Basecamp API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/basecamp-api/basecamp-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/basecamp-api/basecamp-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/basecamp-api/basecamp-api.yaml)
+## 🧬 Basecamp API specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Basecamp API free?
  Unknown/No 
@@ -19,11 +19,11 @@ A web based system for managing collaborative projects. Simple manipulations of 
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/basecamp-api/basecamp-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Business](https://github.com/apis-list/apis-list#business-)- [Collaboration](https://github.com/apis-list/apis-list#collaboration-)- [Project Management](https://github.com/apis-list/apis-list#project-management-)
+- [Business](https://github.com/apis-list/apis-list#business-)
+- [Collaboration](https://github.com/apis-list/apis-list#collaboration-)
+- [Project Management](https://github.com/apis-list/apis-list#project-management-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

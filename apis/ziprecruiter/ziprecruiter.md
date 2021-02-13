@@ -7,10 +7,10 @@ Jobs API
 ##  🔗 Links
 **Docs / Website**: https://www.ziprecruiter.com/publishers
 
-## 🧬 ZipRecruiter Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ziprecruiter/ziprecruiter.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ziprecruiter/ziprecruiter.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ziprecruiter/ziprecruiter.yaml)
+## 🧬 ZipRecruiter specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is ZipRecruiter free?
  Unknown/No 
@@ -19,9 +19,7 @@ Jobs API
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/ziprecruiter/ziprecruiter.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Jobs](https://github.com/apis-list/apis-list#jobs-)

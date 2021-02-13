@@ -1,14 +1,13 @@
 # Factual
-
 Provids a places search that can be searched by latitude/longitude, and “where” using full text search query string
 
 ##  🔗 Links
 **Docs / Website**: https://developer.factual.com/docs/getting-started
 
-## 🧬 Factual Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/factual/factual.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/factual/factual.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/factual/factual.yaml)
+## 🧬 Factual specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Factual free?
  Unknown/No 

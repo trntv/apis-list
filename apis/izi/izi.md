@@ -7,10 +7,10 @@ izi.TRAVEL is ready to spread all local stories globally. Every day numerous con
 ##  🔗 Links
 **Docs / Website**: http://api-docs.izi.travel/
 
-## 🧬 Izi Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/izi/izi.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/izi/izi.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/izi/izi.yaml)
+## 🧬 Izi specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Izi free?
  Unknown/No 
@@ -19,11 +19,10 @@ izi.TRAVEL is ready to spread all local stories globally. Every day numerous con
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/izi/izi.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)- [Travel](https://github.com/apis-list/apis-list#travel-)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)
+- [Travel](https://github.com/apis-list/apis-list#travel-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

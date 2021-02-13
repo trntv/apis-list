@@ -7,10 +7,10 @@ The OpenAPI Specification: a broadly adopted industry standard for describing mo
 ##  🔗 Links
 **Docs / Website**: https://www.openapis.org
 
-## 🧬 OpenAPI Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/openapi/openapi.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/openapi/openapi.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/openapi/openapi.yaml)
+## 🧬 OpenAPI specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is OpenAPI free?
  Unknown/No 
@@ -19,9 +19,7 @@ The OpenAPI Specification: a broadly adopted industry standard for describing mo
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/openapi/openapi.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Development](https://github.com/apis-list/apis-list#development-)

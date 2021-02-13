@@ -7,10 +7,10 @@ Data feed of the governmental severe weather warnings. The Foreca Warning Feed i
 ##  🔗 Links
 **Docs / Website**: https://developer.foreca.com/weatherdata
 
-## 🧬 Foreca Weather Warnings Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/foreca-weather-warnings/foreca-weather-warnings.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/foreca-weather-warnings/foreca-weather-warnings.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/foreca-weather-warnings/foreca-weather-warnings.yaml)
+## 🧬 Foreca Weather Warnings specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Foreca Weather Warnings free?
  Unknown/No 
@@ -19,11 +19,10 @@ Data feed of the governmental severe weather warnings. The Foreca Warning Feed i
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/foreca-weather-warnings/foreca-weather-warnings.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Government](https://github.com/apis-list/apis-list#government-)- [Weather](https://github.com/apis-list/apis-list#weather-)
+- [Government](https://github.com/apis-list/apis-list#government-)
+- [Weather](https://github.com/apis-list/apis-list#weather-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

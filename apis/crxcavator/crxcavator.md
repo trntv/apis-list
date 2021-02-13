@@ -7,10 +7,10 @@ These factors include permissions, inclusion of vulnerable third party javascrip
 ##  🔗 Links
 **Docs / Website**: https://crxcavator.io/apidocs
 
-## 🧬 CRXcavator Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/crxcavator/crxcavator.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/crxcavator/crxcavator.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/crxcavator/crxcavator.yaml)
+## 🧬 CRXcavator specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is CRXcavator free?
  Unknown/No 
@@ -19,9 +19,7 @@ These factors include permissions, inclusion of vulnerable third party javascrip
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/crxcavator/crxcavator.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Security](https://github.com/apis-list/apis-list#security-)

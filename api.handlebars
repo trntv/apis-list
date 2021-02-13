@@ -1,0 +1,43 @@
+# {{ api.name }}
+{{# if api.logo }}
+<p align="center">
+    <img width="256" src="{{ api.logo }}" alt="{{ api.name }} Logo"/>
+</p>
+{{/if}}
+{{ api.description}}
+
+##  🔗 Links
+{{#each api.links}}
+**{{ this.name }}**: {{ this.url }}
+{{ else }}
+No links added. [Add link ➕]({{ editorLink }})
+{{/each}}
+
+## 🧬 {{ api.name }} specification:
+**Type**: {{# if  api.specification.type }}{{ api.specification.type }}{{ else }}N/A - [Add ➕]({{ editorLink }}){{/if}}
+**URI**: {{# if  api.specification.url }}{{ api.specification.url }}{{ else }}N/A - [Add ➕]({{ editorLink }}){{/if}}
+**Version**: {{# if  api.specification.version }}{{ api.specification.version }}{{ else }}N/A - [Add ➕]({{ editorLink }}){{/if}}
+
+## 🆓 Is {{ api.name }} free?
+{{# if api.is_free }} Yes! {{ else }} Unknown/No {{/if}}
+
+## 💬 {{ api.name }} Discussion:
+{{# if api.discussion_url }}[Discuss {{ api.name }}]({{api.discussion_url}}){{else}}Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new){{/if}}
+
+## 🗂️ Libraries
+{{#each libraries as |libs platform|}}
+### {{ platform }}
+{{#each libs}}
+- {{ this.name }}: [Documentation]({{ this.documentation_url }}){{# if this.source_code_url }}, [Source code]({{ this.source_code_url }}){{/if}}
+{{# if this.description }}  {{this.description}}{{/if}}
+{{/each}}
+{{ else }}
+No libraries added. [Add library ➕]({{ editorLink }})    
+{{/each}}
+
+## 🗄️ Categories:
+{{#each api.categories }}
+- [{{{ this }}}](https://github.com/apis-list/apis-list#{{slug this}}-)
+{{/each}}
+
+🔙  [Back to List](https://github.com/apis-list/apis-list)

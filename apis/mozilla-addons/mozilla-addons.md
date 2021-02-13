@@ -1,14 +1,13 @@
 # Mozilla Addons
-
 Firefox Addons API
 
 ##  🔗 Links
 **Docs / Website**: https://addons-server.readthedocs.io/en/latest/topics/api/index.html
 
-## 🧬 Mozilla Addons Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mozilla-addons/mozilla-addons.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mozilla-addons/mozilla-addons.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/mozilla-addons/mozilla-addons.yaml)
+## 🧬 Mozilla Addons specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Mozilla Addons free?
  Unknown/No 
@@ -17,9 +16,7 @@ Firefox Addons API
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/mozilla-addons/mozilla-addons.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Development](https://github.com/apis-list/apis-list#development-)

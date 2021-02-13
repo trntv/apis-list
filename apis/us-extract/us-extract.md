@@ -7,10 +7,10 @@ Extract USPS addresses from any text with our easy-to-use API
 ##  🔗 Links
 **Docs / Website**: https://smartystreets.com/products/apis/us-extract-api
 
-## 🧬 US Extract Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/us-extract/us-extract.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/us-extract/us-extract.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/us-extract/us-extract.yaml)
+## 🧬 US Extract specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is US Extract free?
  Unknown/No 
@@ -19,9 +19,7 @@ Extract USPS addresses from any text with our easy-to-use API
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/us-extract/us-extract.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics-)

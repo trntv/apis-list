@@ -2,15 +2,15 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/typeform/logo_256x256.png" alt="Typeform Logo"/>
 </p>
-Typeform's APIs allow you to create and edit Typeform surveys, and retrieve survey responses on demand. With Typeform's APIs and developer tools, you can do everything from the basics, like tweak your themes and add new images to your account, to the most powerful features Typeform offers
+Typeform&#x27;s APIs allow you to create and edit Typeform surveys, and retrieve survey responses on demand. With Typeform&#x27;s APIs and developer tools, you can do everything from the basics, like tweak your themes and add new images to your account, to the most powerful features Typeform offers
 
 ##  🔗 Links
 **Docs / Website**: https://developer.typeform.com/
 
-## 🧬 Typeform Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/typeform/typeform.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/typeform/typeform.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/typeform/typeform.yaml)
+## 🧬 Typeform specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Typeform free?
  Unknown/No 
@@ -19,10 +19,12 @@ Typeform's APIs allow you to create and edit Typeform surveys, and retrieve surv
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-### JavaScript
-- Typeform JavaScript SDK by Marc Cusso: [Documentation](https://github.com/CussoMarc/typeform-sdk)
 ### Python
 - Typeform Python SDK by Daniel Vidal de la Rubia: [Documentation](https://github.com/Vidimensional/py-typeformio)
+
+### JavaScript
+- Typeform JavaScript SDK by Marc Cusso: [Documentation](https://github.com/CussoMarc/typeform-sdk)
+
 ### Ruby
 - Typeform Ruby SDK by Philip De Smedt: [Documentation](https://github.com/philipdesmedt/typeform)
 

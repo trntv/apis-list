@@ -7,10 +7,10 @@ The AniList GraphQL Api provides quick and powerful access to over 500k anime an
 ##  🔗 Links
 **Docs / Website**: https://github.com/AniList/ApiV2-GraphQL-Docs
 
-## 🧬 AniList Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/anilist/anilist.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/anilist/anilist.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/anilist/anilist.yaml)
+## 🧬 AniList specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is AniList free?
  Unknown/No 

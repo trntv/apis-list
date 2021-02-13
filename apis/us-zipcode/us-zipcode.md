@@ -7,10 +7,10 @@ Easily look up, verify and append ZIP Code data using the US ZIP Code API from S
 ##  🔗 Links
 **Docs / Website**: https://smartystreets.com/docs/cloud/us-zipcode-api
 
-## 🧬 US ZipCode Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/us-zipcode/us-zipcode.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/us-zipcode/us-zipcode.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/us-zipcode/us-zipcode.yaml)
+## 🧬 US ZipCode specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is US ZipCode free?
  Unknown/No 
@@ -19,11 +19,10 @@ Easily look up, verify and append ZIP Code data using the US ZIP Code API from S
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/us-zipcode/us-zipcode.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics-)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
+- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

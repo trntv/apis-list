@@ -7,10 +7,10 @@ The Pokémon TCG API allows developers to easily consume Pokémon card and set d
 ##  🔗 Links
 **Docs / Website**: https://pokemontcg.io
 
-## 🧬 Pokémon TCG Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pokemon-tcg/pokemon-tcg.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pokemon-tcg/pokemon-tcg.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pokemon-tcg/pokemon-tcg.yaml)
+## 🧬 Pokémon TCG specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Pokémon TCG free?
  Unknown/No 
@@ -21,14 +21,18 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 ## 🗂️ Libraries
 ### JavaScript
 - Pokemon TCG JavaScript SDK by Pokemon TCG: [Documentation](https://github.com/PokemonTCG/pokemon-tcg-sdk-javascript), [Source code](https://github.com/PokemonTCG/pokemon-tcg-sdk-javascript)
+
 ### Python
 - Pokemon TCG Python SDK by Pokemon TCG: [Documentation](https://github.com/PokemonTCG/pokemon-tcg-sdk-python)
+
 - Pokemon TCG Python SDK by Joshua Hull: [Documentation](https://github.com/joshua-hull/pokemon-tcg-sdk-python)
+
 ### Ruby
 - Pokemon TCG Ruby SDK by Pokemon TCG: [Documentation](https://github.com/PokemonTCG/pokemon-tcg-sdk-ruby)
 
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)- [Games](https://github.com/apis-list/apis-list#games-)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
+- [Games](https://github.com/apis-list/apis-list#games-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

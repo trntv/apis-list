@@ -7,10 +7,10 @@ Have I Been Pwned allows you to search across multiple data breaches to see if y
 ##  🔗 Links
 **Docs / Website**: https://haveibeenpwned.com/API/v3
 
-## 🧬 HaveIBeenPwned Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/haveibeenpwned/haveibeenpwned.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/haveibeenpwned/haveibeenpwned.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/haveibeenpwned/haveibeenpwned.yaml)
+## 🧬 HaveIBeenPwned specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is HaveIBeenPwned free?
  Unknown/No 
@@ -19,9 +19,7 @@ Have I Been Pwned allows you to search across multiple data breaches to see if y
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/haveibeenpwned/haveibeenpwned.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Security](https://github.com/apis-list/apis-list#security-)

@@ -7,10 +7,10 @@ Be creative and create any type of marketplace. Whether you are looking for a we
 ##  🔗 Links
 **Docs / Website**: https://yclas.com/
 
-## 🧬 Yclas Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yclas/yclas.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yclas/yclas.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/yclas/yclas.yaml)
+## 🧬 Yclas specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Yclas free?
  Unknown/No 
@@ -19,9 +19,7 @@ Be creative and create any type of marketplace. Whether you are looking for a we
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/yclas/yclas.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Commerce](https://github.com/apis-list/apis-list#commerce-)

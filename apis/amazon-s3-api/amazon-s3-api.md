@@ -7,10 +7,10 @@ Amazon Simple Storage Service (Amazon S3) is storage for the internet. You can u
 ##  🔗 Links
 **Docs / Website**: https://aws.amazon.com/s3/
 
-## 🧬 Amazon S3 API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/amazon-s3-api/amazon-s3-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/amazon-s3-api/amazon-s3-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/amazon-s3-api/amazon-s3-api.yaml)
+## 🧬 Amazon S3 API specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Amazon S3 API free?
  Unknown/No 
@@ -19,9 +19,7 @@ Amazon Simple Storage Service (Amazon S3) is storage for the internet. You can u
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/amazon-s3-api/amazon-s3-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Files & Storage](https://github.com/apis-list/apis-list#files--storage-)

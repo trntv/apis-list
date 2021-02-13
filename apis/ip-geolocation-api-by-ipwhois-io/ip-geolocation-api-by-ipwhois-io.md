@@ -2,15 +2,15 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ip-geolocation-api-by-ipwhois-io/logo_256x256.png" alt="Ip Geolocation Api By Ipwhois.Io Logo"/>
 </p>
-Filter out bot traffic, customize content based on visitor's location, display full country names, perform bulk IP geolocation, and more. Free IP Geolocation API, the most accurate data, use our API to quickly and easily integrate the location of visitors into your script or website.
+Filter out bot traffic, customize content based on visitor&#x27;s location, display full country names, perform bulk IP geolocation, and more. Free IP Geolocation API, the most accurate data, use our API to quickly and easily integrate the location of visitors into your script or website.
 
 ##  🔗 Links
 **Docs / Website**: https://ipwhois.io
 
-## 🧬 Ip Geolocation Api By Ipwhois.Io Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ip-geolocation-api-by-ipwhois-io/ip-geolocation-api-by-ipwhois-io.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ip-geolocation-api-by-ipwhois-io/ip-geolocation-api-by-ipwhois-io.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ip-geolocation-api-by-ipwhois-io/ip-geolocation-api-by-ipwhois-io.yaml)
+## 🧬 Ip Geolocation Api By Ipwhois.Io specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Ip Geolocation Api By Ipwhois.Io free?
  Unknown/No 
@@ -19,9 +19,7 @@ Filter out bot traffic, customize content based on visitor's location, display f
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/ip-geolocation-api-by-ipwhois-io/ip-geolocation-api-by-ipwhois-io.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)

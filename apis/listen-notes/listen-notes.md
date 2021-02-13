@@ -7,10 +7,10 @@ Best podcast API trusted by 2,104 companies and developers. Search 1,904,658 pod
 ##  🔗 Links
 **Docs / Website**: https://www.listennotes.com/api/
 
-## 🧬 Listen Notes Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/listen-notes/listen-notes.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/listen-notes/listen-notes.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/listen-notes/listen-notes.yaml)
+## 🧬 Listen Notes specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Listen Notes free?
  Unknown/No 
@@ -19,9 +19,7 @@ Best podcast API trusted by 2,104 companies and developers. Search 1,904,658 pod
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/listen-notes/listen-notes.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)

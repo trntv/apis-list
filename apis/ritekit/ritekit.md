@@ -7,10 +7,10 @@ Looking for hashtag suggestions, analytics, trend data, influencers of a hashtag
 ##  🔗 Links
 **Docs / Website**: https://ritekit.com/api-demo/auto-hashtag
 
-## 🧬 RiteKit Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ritekit/ritekit.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ritekit/ritekit.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ritekit/ritekit.yaml)
+## 🧬 RiteKit specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is RiteKit free?
  Unknown/No 
@@ -19,9 +19,7 @@ Looking for hashtag suggestions, analytics, trend data, influencers of a hashtag
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/ritekit/ritekit.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Other](https://github.com/apis-list/apis-list#other-)

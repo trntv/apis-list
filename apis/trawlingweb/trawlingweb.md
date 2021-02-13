@@ -7,10 +7,10 @@ Trawlingweb structures, stores and indexes millions of web pages per day in vert
 ##  🔗 Links
 **Docs / Website**: https://trawlingweb.com/
 
-## 🧬 Trawlingweb Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/trawlingweb/trawlingweb.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/trawlingweb/trawlingweb.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/trawlingweb/trawlingweb.yaml)
+## 🧬 Trawlingweb specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Trawlingweb free?
  Unknown/No 
@@ -19,11 +19,10 @@ Trawlingweb structures, stores and indexes millions of web pages per day in vert
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/trawlingweb/trawlingweb.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds-)- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining-)
+- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds-)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

@@ -7,10 +7,10 @@ Battlefield 4 Information. P-Stats Player Stats Network As of October 27, 2019 t
 ##  🔗 Links
 **Docs / Website**: https://endof.p-stats.com/
 
-## 🧬 Battlefield 4 Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/battlefield-4/battlefield-4.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/battlefield-4/battlefield-4.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/battlefield-4/battlefield-4.yaml)
+## 🧬 Battlefield 4 specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Battlefield 4 free?
  Unknown/No 
@@ -19,9 +19,7 @@ Battlefield 4 Information. P-Stats Player Stats Network As of October 27, 2019 t
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/battlefield-4/battlefield-4.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Games](https://github.com/apis-list/apis-list#games-)

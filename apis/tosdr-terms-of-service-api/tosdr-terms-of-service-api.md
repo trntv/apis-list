@@ -1,14 +1,13 @@
 # ToSDR terms of service API
-
-Terms of service are often too long to read, but it's important to understand what's in them. Your rights online depend on them. This service can help you get informed about your rights.
+Terms of service are often too long to read, but it&#x27;s important to understand what&#x27;s in them. Your rights online depend on them. This service can help you get informed about your rights.
 
 ##  🔗 Links
 **Docs / Website**: https://tosdr.org/api.html
 
-## 🧬 ToSDR terms of service API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/tosdr-terms-of-service-api/tosdr-terms-of-service-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/tosdr-terms-of-service-api/tosdr-terms-of-service-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/tosdr-terms-of-service-api/tosdr-terms-of-service-api.yaml)
+## 🧬 ToSDR terms of service API specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is ToSDR terms of service API free?
  Unknown/No 
@@ -17,9 +16,7 @@ Terms of service are often too long to read, but it's important to understand wh
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/tosdr-terms-of-service-api/tosdr-terms-of-service-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Other](https://github.com/apis-list/apis-list#other-)

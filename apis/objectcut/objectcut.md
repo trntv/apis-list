@@ -7,10 +7,10 @@ Automatic background removal real-time service powered by AI. Automatic backgrou
 ##  🔗 Links
 **Docs / Website**: https://objectcut.com
 
-## 🧬 ObjectCut Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/objectcut/objectcut.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/objectcut/objectcut.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/objectcut/objectcut.yaml)
+## 🧬 ObjectCut specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is ObjectCut free?
  Unknown/No 
@@ -19,11 +19,10 @@ Automatic background removal real-time service powered by AI. Automatic backgrou
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/objectcut/objectcut.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)- [Art & Design](https://github.com/apis-list/apis-list#art--design-)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
+- [Art & Design](https://github.com/apis-list/apis-list#art--design-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

@@ -7,10 +7,10 @@ Database contains a mixture of barcode types from the standard UPC numbering sys
 ##  🔗 Links
 **Docs / Website**: https://upcdatabase.org/api
 
-## 🧬 UPC database Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/upc-database/upc-database.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/upc-database/upc-database.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/upc-database/upc-database.yaml)
+## 🧬 UPC database specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is UPC database free?
  Unknown/No 
@@ -19,11 +19,10 @@ Database contains a mixture of barcode types from the standard UPC numbering sys
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/upc-database/upc-database.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Bar & QR Codes](https://github.com/apis-list/apis-list#bar--qr-codes-)- [Commerce](https://github.com/apis-list/apis-list#commerce-)
+- [Bar & QR Codes](https://github.com/apis-list/apis-list#bar--qr-codes-)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

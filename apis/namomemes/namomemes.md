@@ -7,10 +7,10 @@ Is a description required ? Hail NaMo ! Contribute to theIYD/NaMoMemes developme
 ##  🔗 Links
 **Docs / Website**: https://github.com/theIYD/NaMoMemes
 
-## 🧬 NaMoMemes Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/namomemes/namomemes.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/namomemes/namomemes.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/namomemes/namomemes.yaml)
+## 🧬 NaMoMemes specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is NaMoMemes free?
  Unknown/No 
@@ -19,9 +19,7 @@ Is a description required ? Hail NaMo ! Contribute to theIYD/NaMoMemes developme
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/namomemes/namomemes.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Health](https://github.com/apis-list/apis-list#health-)

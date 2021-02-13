@@ -8,10 +8,10 @@ The service is focused to help developers set up the conversion quickly and focu
 ##  🔗 Links
 **Docs / Website**: https://pdfshift.io/
 
-## 🧬 Pdfshift  Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pdfshift/pdfshift.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pdfshift/pdfshift.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pdfshift/pdfshift.yaml)
+## 🧬 Pdfshift  specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Pdfshift  free?
  Unknown/No 
@@ -20,11 +20,10 @@ The service is focused to help developers set up the conversion quickly and focu
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/pdfshift/pdfshift.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity-)- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining-)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity-)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

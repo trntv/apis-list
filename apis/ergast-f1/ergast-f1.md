@@ -7,10 +7,10 @@ Please read the terms and conditions of use. The API pro. The Ergast Developer A
 ##  🔗 Links
 **Docs / Website**: http://ergast.com/mrd/
 
-## 🧬 Ergast F1 Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ergast-f1/ergast-f1.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ergast-f1/ergast-f1.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ergast-f1/ergast-f1.yaml)
+## 🧬 Ergast F1 specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Ergast F1 free?
  Unknown/No 
@@ -19,9 +19,7 @@ Please read the terms and conditions of use. The API pro. The Ergast Developer A
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/ergast-f1/ergast-f1.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness-)

@@ -7,10 +7,10 @@ Trademark search API to search the US trademarks database (USPTO) based on a sea
 ##  🔗 Links
 **Docs / Website**: http://www.markerapi.com/
 
-## 🧬 markerapi Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/markerapi/markerapi.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/markerapi/markerapi.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/markerapi/markerapi.yaml)
+## 🧬 markerapi specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is markerapi free?
  Unknown/No 
@@ -19,9 +19,7 @@ Trademark search API to search the US trademarks database (USPTO) based on a sea
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/markerapi/markerapi.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Business](https://github.com/apis-list/apis-list#business-)

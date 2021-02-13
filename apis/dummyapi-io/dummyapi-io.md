@@ -5,12 +5,12 @@
 Simple API that includes a common data for most of the applications. Like user info, some posts, comments, etc. This data is free to use for presentations, demos, learning tutorials. It is created especially for your education. Full cycle REST/GraphQL production API server with fake data, 100 Users, over 800 posts, 1000 comments, 24/7 available for your experiments
 
 ##  🔗 Links
-**Docs / Website**: https://dummyapi.io/?utm_source=n161tech
+**Docs / Website**: https://dummyapi.io/?utm_source&#x3D;n161tech
 
-## 🧬 Dummyapi.Io Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dummyapi-io/dummyapi-io.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dummyapi-io/dummyapi-io.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dummyapi-io/dummyapi-io.yaml)
+## 🧬 Dummyapi.Io specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Dummyapi.Io free?
  Unknown/No 
@@ -19,11 +19,10 @@ Simple API that includes a common data for most of the applications. Like user i
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/dummyapi-io/dummyapi-io.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Development](https://github.com/apis-list/apis-list#development-)- [Testing](https://github.com/apis-list/apis-list#testing-)
+- [Development](https://github.com/apis-list/apis-list#development-)
+- [Testing](https://github.com/apis-list/apis-list#testing-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

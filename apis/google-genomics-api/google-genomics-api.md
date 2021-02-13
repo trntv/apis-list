@@ -7,10 +7,10 @@ Beta This product or feature is covered by the Pre-GA Offerings Terms of the Goo
 ##  🔗 Links
 **Docs / Website**: https://cloud.google.com/genomics/reference/rest/
 
-## 🧬 Google Genomics API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-genomics-api/google-genomics-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-genomics-api/google-genomics-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-genomics-api/google-genomics-api.yaml)
+## 🧬 Google Genomics API specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Google Genomics API free?
  Unknown/No 
@@ -19,9 +19,7 @@ Beta This product or feature is covered by the Pre-GA Offerings Terms of the Goo
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-genomics-api/google-genomics-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Health](https://github.com/apis-list/apis-list#health-)

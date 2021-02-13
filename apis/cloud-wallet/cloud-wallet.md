@@ -1,14 +1,13 @@
 # Cloud Wallet
-
-Cloud Wallet enables closed-loop payments between IoT devices and facilitates IoT adoption worldwide. It allows developers to reduce cost & time-to-market while building and scaling
+Cloud Wallet enables closed-loop payments between IoT devices and facilitates IoT adoption worldwide. It allows developers to reduce cost &amp; time-to-market while building and scaling
 
 ##  🔗 Links
 **Docs / Website**: https://walletapi.cloud/index.html
 
-## 🧬 Cloud Wallet Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cloud-wallet/cloud-wallet.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cloud-wallet/cloud-wallet.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cloud-wallet/cloud-wallet.yaml)
+## 🧬 Cloud Wallet specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Cloud Wallet free?
  Unknown/No 
@@ -17,11 +16,10 @@ Cloud Wallet enables closed-loop payments between IoT devices and facilitates Io
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/cloud-wallet/cloud-wallet.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot--home-automation-)- [Payments](https://github.com/apis-list/apis-list#payments-)
+- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot--home-automation-)
+- [Payments](https://github.com/apis-list/apis-list#payments-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

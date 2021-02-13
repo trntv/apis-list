@@ -7,10 +7,10 @@ Welcome to Teleport for Developers! Largest and most up-to-date quality of life 
 ##  🔗 Links
 **Docs / Website**: https://developers.teleport.org/
 
-## 🧬 Teleport Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/teleport/teleport.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/teleport/teleport.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/teleport/teleport.yaml)
+## 🧬 Teleport specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Teleport free?
  Unknown/No 
@@ -24,6 +24,9 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 
 ## 🗄️ Categories:
-- [Environment & Nature](https://github.com/apis-list/apis-list#environment--nature-)- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds-)- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
+- [Environment & Nature](https://github.com/apis-list/apis-list#environment--nature-)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [News & Feeds](https://github.com/apis-list/apis-list#news--feeds-)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

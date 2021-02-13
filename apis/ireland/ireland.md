@@ -1,14 +1,13 @@
 # Ireland
-
 Central bank of Ireland
 
 ##  🔗 Links
-**Docs / Website**: https://data.gov.ie/data/search?publisher=central-bank-of-ireland
+**Docs / Website**: https://data.gov.ie/data/search?publisher&#x3D;central-bank-of-ireland
 
-## 🧬 Ireland Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ireland/ireland.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ireland/ireland.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ireland/ireland.yaml)
+## 🧬 Ireland specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Ireland free?
  Unknown/No 
@@ -17,9 +16,7 @@ Central bank of Ireland
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/ireland/ireland.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Government](https://github.com/apis-list/apis-list#government-)

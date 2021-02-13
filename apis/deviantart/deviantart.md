@@ -7,10 +7,10 @@ The largest social networking website for artists and art enthusiasts. Find out 
 ##  🔗 Links
 **Docs / Website**: https://www.deviantart.com/developers/
 
-## 🧬 DeviantArt Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/deviantart/deviantart.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/deviantart/deviantart.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/deviantart/deviantart.yaml)
+## 🧬 DeviantArt specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is DeviantArt free?
  Unknown/No 
@@ -19,15 +19,19 @@ The largest social networking website for artists and art enthusiasts. Find out 
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-### .Net, C#
-- uploaderNet .NET SDK by mOrfiUs: [Documentation](https://github.com/mOrfiUs/uploaderNet)
 ### Java
 - DeviantART Java SDK by Karson Kimbrel: [Documentation](https://github.com/KarsonKimbrel/DeviantArt-OAuth2-Java)
+
 ### PHP
 - DeviantART RSS PHP SDK by James Alexander Lee: [Documentation](https://github.com/jamesl1001/deviantART-API)
 
+### .Net, C#
+- uploaderNet .NET SDK by mOrfiUs: [Documentation](https://github.com/mOrfiUs/uploaderNet)
+
 
 ## 🗄️ Categories:
-- [Art & Design](https://github.com/apis-list/apis-list#art--design-)- [Files & Storage](https://github.com/apis-list/apis-list#files--storage-)- [Social](https://github.com/apis-list/apis-list#social-)
+- [Art & Design](https://github.com/apis-list/apis-list#art--design-)
+- [Files & Storage](https://github.com/apis-list/apis-list#files--storage-)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

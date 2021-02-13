@@ -7,10 +7,10 @@ WhereIsMyTransport connects public transport data in one place. WhereIsMyTranspo
 ##  🔗 Links
 **Docs / Website**: https://developer.whereismytransport.com/
 
-## 🧬 WhereIsMyTransport Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/whereismytransport/whereismytransport.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/whereismytransport/whereismytransport.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/whereismytransport/whereismytransport.yaml)
+## 🧬 WhereIsMyTransport specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is WhereIsMyTransport free?
  Unknown/No 

@@ -7,10 +7,10 @@ Gumroad helps creators do more of what they love by offering tools to get paid o
 ##  🔗 Links
 **Docs / Website**: https://gumroad.com/api
 
-## 🧬 Gumroad Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gumroad/gumroad.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gumroad/gumroad.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gumroad/gumroad.yaml)
+## 🧬 Gumroad specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Gumroad free?
  Unknown/No 
@@ -19,11 +19,11 @@ Gumroad helps creators do more of what they love by offering tools to get paid o
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/gumroad/gumroad.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce-)- [Payments](https://github.com/apis-list/apis-list#payments-)- [Social](https://github.com/apis-list/apis-list#social-)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
+- [Payments](https://github.com/apis-list/apis-list#payments-)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

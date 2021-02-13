@@ -1,5 +1,4 @@
 # World Bank
-
 World Bank APIs.
 World Bank APIs provide access to various types of data and databases:
 - The Indicators API provides programmatic access to time series development data and metadata. Most of the articles in this section are devoted to the Indicators API.
@@ -11,10 +10,10 @@ World Bank APIs provide access to various types of data and databases:
 ##  🔗 Links
 **Docs / Website**: https://datahelpdesk.worldbank.org/knowledgebase/topics/125589
 
-## 🧬 World Bank Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/world-bank/world-bank.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/world-bank/world-bank.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/world-bank/world-bank.yaml)
+## 🧬 World Bank specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is World Bank free?
  Unknown/No 
@@ -23,11 +22,10 @@ World Bank APIs provide access to various types of data and databases:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/world-bank/world-bank.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics-)- [Government](https://github.com/apis-list/apis-list#government-)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics-)
+- [Government](https://github.com/apis-list/apis-list#government-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

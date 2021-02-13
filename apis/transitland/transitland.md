@@ -7,10 +7,10 @@ Transitland is a community-edited open data service aggregating transit networks
 ##  🔗 Links
 **Docs / Website**: https://transit.land/documentation/datastore/api-endpoints.html
 
-## 🧬 TransitLand Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transitland/transitland.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transitland/transitland.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transitland/transitland.yaml)
+## 🧬 TransitLand specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is TransitLand free?
  Unknown/No 
@@ -19,9 +19,7 @@ Transitland is a community-edited open data service aggregating transit networks
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/transitland/transitland.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation-)

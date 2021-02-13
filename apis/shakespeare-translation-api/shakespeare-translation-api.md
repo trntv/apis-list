@@ -7,10 +7,10 @@ Translate from English to Shakespeare English
 ##  🔗 Links
 **Docs / Website**: https://funtranslations.com/api/shakespeare
 
-## 🧬 Shakespeare Translation Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shakespeare-translation-api/shakespeare-translation-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shakespeare-translation-api/shakespeare-translation-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/shakespeare-translation-api/shakespeare-translation-api.yaml)
+## 🧬 Shakespeare Translation Api specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Shakespeare Translation Api free?
  Unknown/No 
@@ -19,9 +19,7 @@ Translate from English to Shakespeare English
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/shakespeare-translation-api/shakespeare-translation-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Translation](https://github.com/apis-list/apis-list#translation-)

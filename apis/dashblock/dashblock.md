@@ -7,10 +7,10 @@ The easiest way to access websites programmatically and collect structured data.
 ##  🔗 Links
 **Docs / Website**: https://www.dashblock.com/
 
-## 🧬 Dashblock Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dashblock/dashblock.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dashblock/dashblock.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/dashblock/dashblock.yaml)
+## 🧬 Dashblock specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Dashblock free?
  Unknown/No 
@@ -19,9 +19,7 @@ The easiest way to access websites programmatically and collect structured data.
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/dashblock/dashblock.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining-)

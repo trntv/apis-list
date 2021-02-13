@@ -7,10 +7,10 @@ The goal of Open Brewery DB is to maintain an open-source, community-driven data
 ##  🔗 Links
 **Docs / Website**: https://www.openbrewerydb.org
 
-## 🧬 Open Brewery DB Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-brewery-db/open-brewery-db.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-brewery-db/open-brewery-db.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-brewery-db/open-brewery-db.yaml)
+## 🧬 Open Brewery DB specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Open Brewery DB free?
  Yes! 
@@ -19,11 +19,10 @@ The goal of Open Brewery DB is to maintain an open-source, community-driven data
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-brewery-db/open-brewery-db.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks-)- [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest-)
+- [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks-)
+- [Point of Interest](https://github.com/apis-list/apis-list#point-of-interest-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

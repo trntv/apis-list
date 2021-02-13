@@ -1,14 +1,13 @@
 # Frankfurter.app
-
 Frankfurter currency data API
 
 ##  🔗 Links
 **Docs / Website**: https://www.frankfurter.app/docs/
 
-## 🧬 Frankfurter.app Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/frankfurter-app/frankfurter-app.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/frankfurter-app/frankfurter-app.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/frankfurter-app/frankfurter-app.yaml)
+## 🧬 Frankfurter.app specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Frankfurter.app free?
  Unknown/No 
@@ -17,9 +16,7 @@ Frankfurter currency data API
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/frankfurter-app/frankfurter-app.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics-)

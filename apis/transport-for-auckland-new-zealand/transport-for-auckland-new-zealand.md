@@ -1,14 +1,13 @@
 # Transportation in Auckland, New Zealand
-
-The Auckland Transport developer portal is a platform that exposes a diverse range of API's and transport data
+The Auckland Transport developer portal is a platform that exposes a diverse range of API&#x27;s and transport data
 
 ##  🔗 Links
 **Docs / Website**: https://api.at.govt.nz/
 
-## 🧬 Transportation in Auckland, New Zealand Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-auckland-new-zealand/transport-for-auckland-new-zealand.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-auckland-new-zealand/transport-for-auckland-new-zealand.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-auckland-new-zealand/transport-for-auckland-new-zealand.yaml)
+## 🧬 Transportation in Auckland, New Zealand specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Transportation in Auckland, New Zealand free?
  Yes! 
@@ -17,9 +16,7 @@ The Auckland Transport developer portal is a platform that exposes a diverse ran
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/transport-for-auckland-new-zealand/transport-for-auckland-new-zealand.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation-)

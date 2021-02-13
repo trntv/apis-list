@@ -7,10 +7,10 @@ Our endpoints include face detection (detect 1 or multiple faces), face matching
 ##  🔗 Links
 **Docs / Website**: https://trueface.ai/sign-up
 
-## 🧬 TrueFace.Ai API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/trueface-ai-api/trueface-ai-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/trueface-ai-api/trueface-ai-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/trueface-ai-api/trueface-ai-api.yaml)
+## 🧬 TrueFace.Ai API specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is TrueFace.Ai API free?
  Unknown/No 
@@ -19,9 +19,7 @@ Our endpoints include face detection (detect 1 or multiple faces), face matching
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/trueface-ai-api/trueface-ai-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Recognition](https://github.com/apis-list/apis-list#recognition-)

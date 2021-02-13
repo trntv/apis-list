@@ -7,10 +7,10 @@ Meta description. A tool to detect face
 ##  🔗 Links
 **Docs / Website**: https://www.faceplusplus.com/
 
-## 🧬 Faceplusplus Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/faceplusplus/faceplusplus.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/faceplusplus/faceplusplus.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/faceplusplus/faceplusplus.yaml)
+## 🧬 Faceplusplus specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Faceplusplus free?
  Unknown/No 
@@ -19,9 +19,7 @@ Meta description. A tool to detect face
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/faceplusplus/faceplusplus.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Development](https://github.com/apis-list/apis-list#development-)

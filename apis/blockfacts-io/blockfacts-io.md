@@ -8,10 +8,10 @@ SDKs for integration, rich historic tick data. AllMarkets - US stock market: rea
 ##  🔗 Links
 **Docs / Website**: https://blockfacts.io/
 
-## 🧬 BlockFacts.io Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/blockfacts-io/blockfacts-io.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/blockfacts-io/blockfacts-io.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/blockfacts-io/blockfacts-io.yaml)
+## 🧬 BlockFacts.io specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is BlockFacts.io free?
  Unknown/No 
@@ -20,9 +20,7 @@ SDKs for integration, rich historic tick data. AllMarkets - US stock market: rea
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/blockfacts-io/blockfacts-io.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Blockchain & Cryptocurrencies](https://github.com/apis-list/apis-list#blockchain--cryptocurrencies-)

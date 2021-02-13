@@ -7,10 +7,10 @@ Access to Naver’s URL shortening API. 단축URL 웹 페이지의 링크 정보
 ##  🔗 Links
 **Docs / Website**: https://developers.naver.com/products/shortenurl
 
-## 🧬 Naver URL Shortener Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/naver-url-shortener/naver-url-shortener.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/naver-url-shortener/naver-url-shortener.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/naver-url-shortener/naver-url-shortener.yaml)
+## 🧬 Naver URL Shortener specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Naver URL Shortener free?
  Unknown/No 
@@ -19,9 +19,7 @@ Access to Naver’s URL shortening API. 단축URL 웹 페이지의 링크 정보
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/naver-url-shortener/naver-url-shortener.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [URLs](https://github.com/apis-list/apis-list#urls-)

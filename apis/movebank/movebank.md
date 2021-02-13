@@ -7,10 +7,10 @@ Movebank is a free, online database and research platform for animal tracking an
 ##  🔗 Links
 **Docs / Website**: https://github.com/movebank/movebank-api-doc
 
-## 🧬 Movebank Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/movebank/movebank.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/movebank/movebank.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/movebank/movebank.yaml)
+## 🧬 Movebank specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Movebank free?
  Yes! 
@@ -19,9 +19,7 @@ Movebank is a free, online database and research platform for animal tracking an
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/movebank/movebank.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Animals](https://github.com/apis-list/apis-list#animals-)

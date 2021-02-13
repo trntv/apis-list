@@ -7,10 +7,10 @@ Everything you need to start playing with the Ticketmaster API
 ##  🔗 Links
 **Docs / Website**: http://developer.ticketmaster.com/products-and-docs/apis/getting-started/
 
-## 🧬 Ticketmaster Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ticketmaster/ticketmaster.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ticketmaster/ticketmaster.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ticketmaster/ticketmaster.yaml)
+## 🧬 Ticketmaster specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Ticketmaster free?
  Unknown/No 
@@ -19,9 +19,7 @@ Everything you need to start playing with the Ticketmaster API
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/ticketmaster/ticketmaster.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Events](https://github.com/apis-list/apis-list#events-)

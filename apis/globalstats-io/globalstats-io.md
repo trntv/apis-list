@@ -2,15 +2,15 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/globalstats-io/logo_256x256.png" alt="Globalstats.Io Logo"/>
 </p>
-Enrich your games' experience by adding a global highscore for your games.
+Enrich your games&#x27; experience by adding a global highscore for your games.
 
 ##  🔗 Links
 **Docs / Website**:  platform agnostic infrastructure for your games statistics.
 
-## 🧬 Globalstats.Io Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/globalstats-io/globalstats-io.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/globalstats-io/globalstats-io.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/globalstats-io/globalstats-io.yaml)
+## 🧬 Globalstats.Io specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Globalstats.Io free?
  Unknown/No 

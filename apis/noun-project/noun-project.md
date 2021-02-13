@@ -1,14 +1,13 @@
 # Noun Project
-
 Grab a hold of the World’s Visual Language! Use it in your service or application.
 
 ##  🔗 Links
 **Docs / Website**: http://api.thenounproject.com/index.html
 
-## 🧬 Noun Project Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/noun-project/noun-project.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/noun-project/noun-project.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/noun-project/noun-project.yaml)
+## 🧬 Noun Project specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Noun Project free?
  Unknown/No 
@@ -22,6 +21,8 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 
 ## 🗄️ Categories:
-- [Art & Design](https://github.com/apis-list/apis-list#art--design-)- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)- [Visualizations](https://github.com/apis-list/apis-list#visualizations-)
+- [Art & Design](https://github.com/apis-list/apis-list#art--design-)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Visualizations](https://github.com/apis-list/apis-list#visualizations-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

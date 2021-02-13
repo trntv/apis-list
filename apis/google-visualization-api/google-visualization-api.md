@@ -7,10 +7,10 @@ This page lists the objects exposed by the Google Visualization API, and the sta
 ##  🔗 Links
 **Docs / Website**: https://developers.google.com/chart/interactive/docs/reference
 
-## 🧬 Google Visualization API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-visualization-api/google-visualization-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-visualization-api/google-visualization-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-visualization-api/google-visualization-api.yaml)
+## 🧬 Google Visualization API specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Google Visualization API free?
  Unknown/No 
@@ -19,9 +19,7 @@ This page lists the objects exposed by the Google Visualization API, and the sta
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-visualization-api/google-visualization-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Visualizations](https://github.com/apis-list/apis-list#visualizations-)

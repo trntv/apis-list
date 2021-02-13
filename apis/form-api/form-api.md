@@ -7,10 +7,10 @@ Build forms easily, autocomplete and validate data. using gender api and zip cod
 ##  🔗 Links
 **Docs / Website**: https://form-api.com
 
-## 🧬 Form-Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/form-api/form-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/form-api/form-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/form-api/form-api.yaml)
+## 🧬 Form-Api specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Form-Api free?
  Unknown/No 
@@ -19,11 +19,11 @@ Build forms easily, autocomplete and validate data. using gender api and zip cod
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/form-api/form-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Forms & Surveys](https://github.com/apis-list/apis-list#forms--surveys-)- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics-)- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification-)
+- [Forms & Surveys](https://github.com/apis-list/apis-list#forms--surveys-)
+- [Post & Logistics](https://github.com/apis-list/apis-list#post--logistics-)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

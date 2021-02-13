@@ -7,10 +7,10 @@ Build Voice, SMS, Fax, Networking and Cellular IoT applications on a private, pu
 ##  🔗 Links
 **Docs / Website**: https://developers.telnyx.com/
 
-## 🧬 Telnyx Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/telnyx/telnyx.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/telnyx/telnyx.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/telnyx/telnyx.yaml)
+## 🧬 Telnyx specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Telnyx free?
  Unknown/No 
@@ -19,9 +19,7 @@ Build Voice, SMS, Fax, Networking and Cellular IoT applications on a private, pu
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/telnyx/telnyx.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Email & SMS](https://github.com/apis-list/apis-list#email--sms-)

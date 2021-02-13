@@ -7,10 +7,10 @@ Easily Convert URLs / Webpages or HTML to PDF in any Programming Language or on 
 ##  🔗 Links
 **Docs / Website**: https://pdfmyurl.com/html-to-pdf-api
 
-## 🧬 PDFmyURL Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pdfmyurl/pdfmyurl.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pdfmyurl/pdfmyurl.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pdfmyurl/pdfmyurl.yaml)
+## 🧬 PDFmyURL specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is PDFmyURL free?
  Unknown/No 
@@ -19,11 +19,11 @@ Easily Convert URLs / Webpages or HTML to PDF in any Programming Language or on 
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/pdfmyurl/pdfmyurl.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity-)- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining-)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity-)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

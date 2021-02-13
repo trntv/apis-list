@@ -7,10 +7,10 @@ Simple, clean, and friendly analytics for developers (privacy focused alternativ
 ##  🔗 Links
 **Docs / Website**: https://docs.simpleanalytics.com/api
 
-## 🧬 Simple Analytics Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/simple-analytics/simple-analytics.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/simple-analytics/simple-analytics.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/simple-analytics/simple-analytics.yaml)
+## 🧬 Simple Analytics specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Simple Analytics free?
  Unknown/No 
@@ -19,9 +19,7 @@ Simple, clean, and friendly analytics for developers (privacy focused alternativ
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/simple-analytics/simple-analytics.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Other](https://github.com/apis-list/apis-list#other-)

@@ -1,14 +1,13 @@
 # Gapi
-
 Unofficial Google News API. GNews is an API to search for articles from a variety of sources, including Google News. Also provides top headlines from which you can filter by topic such as world, business, sports.
 
 ##  🔗 Links
 **Docs / Website**: https://gnews.io/
 
-## 🧬 Gapi Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gapi/gapi.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gapi/gapi.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gapi/gapi.yaml)
+## 🧬 Gapi specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Gapi free?
  Unknown/No 
@@ -17,9 +16,7 @@ Unofficial Google News API. GNews is an API to search for articles from a variet
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/gapi/gapi.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [News & Feeds](https://github.com/apis-list/apis-list#news--feeds-)

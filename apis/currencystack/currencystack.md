@@ -7,10 +7,10 @@ Real-time exchange rates for 154 world currencies provided in JSON format and wo
 ##  🔗 Links
 **Docs / Website**: https://currencystack.io
 
-## 🧬 Currencystack Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/currencystack/currencystack.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/currencystack/currencystack.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/currencystack/currencystack.yaml)
+## 🧬 Currencystack specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Currencystack free?
  Unknown/No 
@@ -19,12 +19,15 @@ Real-time exchange rates for 154 world currencies provided in JSON format and wo
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-### Go
-- CurrencyStack Go SDK: [Documentation](https://github.com/currencystack/currencystack-go)
 ### Node.js
 - CurrencyStack NodeJS SDK: [Documentation](https://github.com/currencystack/currencystack-node)
+
 ### PHP
 - CurrencyStack PHP SDK: [Documentation](https://github.com/currencystack/currencystack-php)
+
+### Go
+- CurrencyStack Go SDK: [Documentation](https://github.com/currencystack/currencystack-go)
+
 ### Python
 - CurrencyStack Python SDK: [Documentation](https://bitbucket.org/hd1/currencystack/src/master/main.py)
 

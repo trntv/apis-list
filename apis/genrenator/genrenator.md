@@ -7,10 +7,10 @@ Binary Jazz genrenator
 ##  🔗 Links
 **Docs / Website**: https://binaryjazz.us/genrenator-api/
 
-## 🧬 Genrenator Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/genrenator/genrenator.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/genrenator/genrenator.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/genrenator/genrenator.yaml)
+## 🧬 Genrenator specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Genrenator free?
  Unknown/No 
@@ -19,9 +19,7 @@ Binary Jazz genrenator
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/genrenator/genrenator.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)

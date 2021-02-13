@@ -7,10 +7,10 @@ Bhagwat Geeta in Hindi and English. Read Bhagavad Gita online in a simple, beaut
 ##  🔗 Links
 **Docs / Website**: https://bhagavadgita.io/
 
-## 🧬 Bhagavad Gita Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bhagavad-gita/bhagavad-gita.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bhagavad-gita/bhagavad-gita.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bhagavad-gita/bhagavad-gita.yaml)
+## 🧬 Bhagavad Gita specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Bhagavad Gita free?
  Unknown/No 
@@ -19,9 +19,7 @@ Bhagwat Geeta in Hindi and English. Read Bhagavad Gita online in a simple, beaut
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/bhagavad-gita/bhagavad-gita.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Books](https://github.com/apis-list/apis-list#books-)

@@ -7,10 +7,10 @@ Overview of integrating with Azure DevOps. . TFS APIs are based on REST, OAuth, 
 ##  🔗 Links
 **Docs / Website**: https://www.visualstudio.com/en-us/docs/integrate/get-started/overview
 
-## 🧬 Team Foundation Server Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/team-foundation-server/team-foundation-server.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/team-foundation-server/team-foundation-server.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/team-foundation-server/team-foundation-server.yaml)
+## 🧬 Team Foundation Server specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Team Foundation Server free?
  Unknown/No 
@@ -19,9 +19,7 @@ Overview of integrating with Azure DevOps. . TFS APIs are based on REST, OAuth, 
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/team-foundation-server/team-foundation-server.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Development](https://github.com/apis-list/apis-list#development-)

@@ -7,10 +7,10 @@ API for HTTP Cats. API for HTTP Cats
 ##  🔗 Links
 **Docs / Website**: https://http.cat/
 
-## 🧬 HTTPCat Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/httpcat/httpcat.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/httpcat/httpcat.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/httpcat/httpcat.yaml)
+## 🧬 HTTPCat specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is HTTPCat free?
  Unknown/No 
@@ -19,9 +19,7 @@ API for HTTP Cats. API for HTTP Cats
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/httpcat/httpcat.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Animals](https://github.com/apis-list/apis-list#animals-)

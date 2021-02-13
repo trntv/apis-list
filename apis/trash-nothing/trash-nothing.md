@@ -7,10 +7,10 @@ Developer API trash nothing! provides a REST API which allows developers to buil
 ##  🔗 Links
 **Docs / Website**: https://trashnothing.com/developer
 
-## 🧬 Trash Nothing Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/trash-nothing/trash-nothing.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/trash-nothing/trash-nothing.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/trash-nothing/trash-nothing.yaml)
+## 🧬 Trash Nothing specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Trash Nothing free?
  Unknown/No 
@@ -19,11 +19,11 @@ Developer API trash nothing! provides a REST API which allows developers to buil
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/trash-nothing/trash-nothing.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Commerce](https://github.com/apis-list/apis-list#commerce-)- [Environment & Nature](https://github.com/apis-list/apis-list#environment--nature-)- [Social](https://github.com/apis-list/apis-list#social-)
+- [Commerce](https://github.com/apis-list/apis-list#commerce-)
+- [Environment & Nature](https://github.com/apis-list/apis-list#environment--nature-)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

@@ -7,10 +7,10 @@ With this API, you can use RESTful req. Create a search engine for your website,
 ##  🔗 Links
 **Docs / Website**: https://developers.google.com/custom-search/v1/overview
 
-## 🧬 Google Custom Search API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-custom-search-api/google-custom-search-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-custom-search-api/google-custom-search-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-custom-search-api/google-custom-search-api.yaml)
+## 🧬 Google Custom Search API specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Google Custom Search API free?
  Unknown/No 
@@ -19,9 +19,7 @@ With this API, you can use RESTful req. Create a search engine for your website,
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-custom-search-api/google-custom-search-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Search](https://github.com/apis-list/apis-list#search-)

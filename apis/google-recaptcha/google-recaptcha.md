@@ -5,12 +5,12 @@
 ReCAPTCHA lets you embed a CAPTCHA in your web pages in order to protect them against spam and other types of automated abuse
 
 ##  🔗 Links
-**Docs / Website**: https://developers.google.com/recaptcha/intro?hl=en
+**Docs / Website**: https://developers.google.com/recaptcha/intro?hl&#x3D;en
 
-## 🧬 Google reCAPTCHA Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-recaptcha/google-recaptcha.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-recaptcha/google-recaptcha.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-recaptcha/google-recaptcha.yaml)
+## 🧬 Google reCAPTCHA specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Google reCAPTCHA free?
  Unknown/No 
@@ -24,6 +24,7 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 
 ## 🗄️ Categories:
-- [Captcha](https://github.com/apis-list/apis-list#captcha-)- [Security](https://github.com/apis-list/apis-list#security-)
+- [Captcha](https://github.com/apis-list/apis-list#captcha-)
+- [Security](https://github.com/apis-list/apis-list#security-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

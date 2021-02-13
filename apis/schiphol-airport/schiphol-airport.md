@@ -1,14 +1,13 @@
 # Schiphol Airport
-
-Schiphol Airport's API. Through these APIs, it disclose an enormous amount of airport data – for you to use and build fantastic, innovative solutions.
+Schiphol Airport&#x27;s API. Through these APIs, it disclose an enormous amount of airport data – for you to use and build fantastic, innovative solutions.
 
 ##  🔗 Links
 **Docs / Website**: https://developer.schiphol.nl/
 
-## 🧬 Schiphol Airport Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/schiphol-airport/schiphol-airport.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/schiphol-airport/schiphol-airport.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/schiphol-airport/schiphol-airport.yaml)
+## 🧬 Schiphol Airport specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Schiphol Airport free?
  Unknown/No 
@@ -17,9 +16,7 @@ Schiphol Airport's API. Through these APIs, it disclose an enormous amount of ai
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/schiphol-airport/schiphol-airport.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation-)

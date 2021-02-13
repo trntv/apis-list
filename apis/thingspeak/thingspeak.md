@@ -7,10 +7,10 @@ Ppen source “Internet of Things” application and API to store and retrieve d
 ##  🔗 Links
 **Docs / Website**: https://github.com/iobridge/ThingSpeak
 
-## 🧬 ThingSpeak Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/thingspeak/thingspeak.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/thingspeak/thingspeak.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/thingspeak/thingspeak.yaml)
+## 🧬 ThingSpeak specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is ThingSpeak free?
  Unknown/No 
@@ -21,11 +21,13 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 ## 🗂️ Libraries
 ### Python
 - ThingSpeak Python SDK by Chris Lee: [Documentation](https://github.com/sirleech/thingspeak)
+
 ### Ruby
 - ThingSpeak Ruby SDK by ThingSpeak: [Documentation](https://github.com/iobridge/thingspeak)
 
 
 ## 🗄️ Categories:
-- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot--home-automation-)- [Open Source](https://github.com/apis-list/apis-list#open-source-)
+- [IoT & Home Automation](https://github.com/apis-list/apis-list#iot--home-automation-)
+- [Open Source](https://github.com/apis-list/apis-list#open-source-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

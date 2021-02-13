@@ -7,10 +7,10 @@ Text analysis APIs for topic extraction, sentiment analysis, automatic classific
 ##  🔗 Links
 **Docs / Website**: https://www.meaningcloud.com
 
-## 🧬 MeaningCloud Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/meaningcloud/meaningcloud.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/meaningcloud/meaningcloud.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/meaningcloud/meaningcloud.yaml)
+## 🧬 MeaningCloud specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is MeaningCloud free?
  Unknown/No 
@@ -19,9 +19,7 @@ Text analysis APIs for topic extraction, sentiment analysis, automatic classific
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/meaningcloud/meaningcloud.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)

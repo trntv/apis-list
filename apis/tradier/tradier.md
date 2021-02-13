@@ -1,14 +1,13 @@
 # Tradier
-
-Set of fully hosted APIs, modules and 'out of the box' tools built to serve developers, providers and investors
+Set of fully hosted APIs, modules and &#x27;out of the box&#x27; tools built to serve developers, providers and investors
 
 ##  🔗 Links
 **Docs / Website**: https://developer.tradier.com
 
-## 🧬 Tradier Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/tradier/tradier.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/tradier/tradier.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/tradier/tradier.yaml)
+## 🧬 Tradier specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Tradier free?
  Unknown/No 

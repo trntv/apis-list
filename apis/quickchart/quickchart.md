@@ -7,10 +7,10 @@ Create a chart image with one API call and embed it anywhere. Send charts in ema
 ##  🔗 Links
 **Docs / Website**: https://quickchart.io
 
-## 🧬 QuickChart Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/quickchart/quickchart.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/quickchart/quickchart.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/quickchart/quickchart.yaml)
+## 🧬 QuickChart specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is QuickChart free?
  Unknown/No 
@@ -19,9 +19,7 @@ Create a chart image with one API call and embed it anywhere. Send charts in ema
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/quickchart/quickchart.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Visualizations](https://github.com/apis-list/apis-list#visualizations-)

@@ -7,10 +7,10 @@ Contribute to lukePeavey/quotable development by creating an account on GitHub. 
 ##  🔗 Links
 **Docs / Website**: https://github.com/lukePeavey/quotable
 
-## 🧬 Quotable Quotes Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/quotable-quotes/quotable-quotes.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/quotable-quotes/quotable-quotes.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/quotable-quotes/quotable-quotes.yaml)
+## 🧬 Quotable Quotes specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Quotable Quotes free?
  Unknown/No 
@@ -19,9 +19,7 @@ Contribute to lukePeavey/quotable development by creating an account on GitHub. 
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/quotable-quotes/quotable-quotes.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Health](https://github.com/apis-list/apis-list#health-)

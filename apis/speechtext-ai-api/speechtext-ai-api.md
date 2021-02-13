@@ -7,10 +7,10 @@ Cloud Speech Recognition API. Transform speech to text with high accuracy in mul
 ##  🔗 Links
 **Docs / Website**: https://speechtext.ai/speech-recognition-api
 
-## 🧬 SpeechText.AI API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/speechtext-ai-api/speechtext-ai-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/speechtext-ai-api/speechtext-ai-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/speechtext-ai-api/speechtext-ai-api.yaml)
+## 🧬 SpeechText.AI API specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is SpeechText.AI API free?
  Unknown/No 
@@ -19,9 +19,7 @@ Cloud Speech Recognition API. Transform speech to text with high accuracy in mul
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/speechtext-ai-api/speechtext-ai-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)

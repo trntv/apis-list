@@ -7,10 +7,10 @@ Pulsedive is a free threat intelligence platform. Search, scan, and enrich IPs, 
 ##  🔗 Links
 **Docs / Website**: https://pulsedive.com/api/
 
-## 🧬 Pulsedive Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pulsedive/pulsedive.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pulsedive/pulsedive.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pulsedive/pulsedive.yaml)
+## 🧬 Pulsedive specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Pulsedive free?
  Unknown/No 
@@ -19,9 +19,7 @@ Pulsedive is a free threat intelligence platform. Search, scan, and enrich IPs, 
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/pulsedive/pulsedive.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Security](https://github.com/apis-list/apis-list#security-)

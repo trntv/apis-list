@@ -7,10 +7,10 @@ A data platform for customers to create, manage, share and query data.
 ##  🔗 Links
 **Docs / Website**: https://cloud.google.com/bigquery/docs/reference/rest/v2/
 
-## 🧬 Google BigQuery API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-bigquery-api/google-bigquery-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-bigquery-api/google-bigquery-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-bigquery-api/google-bigquery-api.yaml)
+## 🧬 Google BigQuery API specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Google BigQuery API free?
  Unknown/No 
@@ -19,11 +19,10 @@ A data platform for customers to create, manage, share and query data.
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-bigquery-api/google-bigquery-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Databases](https://github.com/apis-list/apis-list#databases-)- [Development](https://github.com/apis-list/apis-list#development-)
+- [Databases](https://github.com/apis-list/apis-list#databases-)
+- [Development](https://github.com/apis-list/apis-list#development-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

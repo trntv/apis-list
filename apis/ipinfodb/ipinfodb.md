@@ -7,10 +7,10 @@ Free Geolocation tools and APIs for country, region, city and time zone lookup b
 ##  🔗 Links
 **Docs / Website**: https://ipinfodb.com/api
 
-## 🧬 IPInfoDB Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ipinfodb/ipinfodb.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ipinfodb/ipinfodb.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ipinfodb/ipinfodb.yaml)
+## 🧬 IPInfoDB specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is IPInfoDB free?
  Unknown/No 
@@ -19,9 +19,7 @@ Free Geolocation tools and APIs for country, region, city and time zone lookup b
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/ipinfodb/ipinfodb.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)

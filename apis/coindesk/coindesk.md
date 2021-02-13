@@ -7,10 +7,10 @@ Bitcoin Price Index. CoinDesk provides a simple and free API to make its Bitcoin
 ##  🔗 Links
 **Docs / Website**: http://www.coindesk.com/api/
 
-## 🧬 CoinDesk Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/coindesk/coindesk.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/coindesk/coindesk.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/coindesk/coindesk.yaml)
+## 🧬 CoinDesk specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is CoinDesk free?
  Unknown/No 
@@ -21,10 +21,12 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 ## 🗂️ Libraries
 ### Go
 -  CoinDesk Go SDK by Martín Raúl Villalba: [Documentation](https://github.com/mvillalba/go-coindesk)
-### Node.js
-- CoinDesk Node.js SDK by LapsuS: [Documentation](https://github.com/erlapso/node-coindesk)
+
 ### PHP
 - CoinDesk PHP SDK by haqqur: [Documentation](https://github.com/haqqur/php-btconv)
+
+### Node.js
+- CoinDesk Node.js SDK by LapsuS: [Documentation](https://github.com/erlapso/node-coindesk)
 
 
 ## 🗄️ Categories:

@@ -7,10 +7,10 @@ Enigma Businesses provides the most accurate and reliable information on small a
 ##  🔗 Links
 **Docs / Website**: http://docs.enigma.com/public/public_v20_api_about
 
-## 🧬 Enigma Public Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/enigma-public/enigma-public.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/enigma-public/enigma-public.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/enigma-public/enigma-public.yaml)
+## 🧬 Enigma Public specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Enigma Public free?
  Unknown/No 
@@ -19,9 +19,7 @@ Enigma Businesses provides the most accurate and reliable information on small a
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/enigma-public/enigma-public.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Business](https://github.com/apis-list/apis-list#business-)

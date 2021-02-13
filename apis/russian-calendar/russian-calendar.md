@@ -7,10 +7,10 @@ Work calendar service. Contribute to egno/work-calendar development by creating 
 ##  🔗 Links
 **Docs / Website**: https://github.com/egno/work-calendar
 
-## 🧬 Russian Calendar Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/russian-calendar/russian-calendar.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/russian-calendar/russian-calendar.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/russian-calendar/russian-calendar.yaml)
+## 🧬 Russian Calendar specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Russian Calendar free?
  Unknown/No 
@@ -19,9 +19,7 @@ Work calendar service. Contribute to egno/work-calendar development by creating 
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/russian-calendar/russian-calendar.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time-)

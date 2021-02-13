@@ -1,14 +1,13 @@
 # coinpaprika
-
 Cryptocurrencies prices, market capitalization, volume and more.
 
 ##  🔗 Links
 **Docs / Website**: https://api.coinpaprika.com
 
-## 🧬 coinpaprika Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/coinpaprika/coinpaprika.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/coinpaprika/coinpaprika.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/coinpaprika/coinpaprika.yaml)
+## 🧬 coinpaprika specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is coinpaprika free?
  Unknown/No 

@@ -7,10 +7,10 @@ Since 2005 Tunefind has been the leading site dedicated to tracking the music fe
 ##  🔗 Links
 **Docs / Website**: http://www.tunefind.com/api
 
-## 🧬 TuneFind Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/tunefind/tunefind.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/tunefind/tunefind.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/tunefind/tunefind.yaml)
+## 🧬 TuneFind specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is TuneFind free?
  Unknown/No 
@@ -19,20 +19,27 @@ Since 2005 Tunefind has been the leading site dedicated to tracking the music fe
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-### JavaScript
-- TuneFind JavaScript SDK by Autarc: [Documentation](https://github.com/Sonarvio/tunefind)
 ### Node.js
 - Spotifind NodeJS SDK by Pedro Otero Prada: [Documentation](https://github.com/pedro-otero/spotifind), [Source code](https://www.npmjs.com/package/spotifind)
+
 - TuneFind NodeJS SDK by Pedro Otero Prada: [Documentation](https://www.npmjs.com/package/tunefindjs)
+
 ### PERL
 - TuneFind Perl SDK by Hondallica : [Documentation](https://github.com/hondallica/p5-WebService-TuneFind)
+
 ### Python
 - TuneFind Python SDK by Christopher Brasington: [Documentation](https://github.com/chrisbrasington/tunefind-playlist-generator)
+
 ### Ruby
 - TuneFind Ruby SDK by Marcus Mansur: [Documentation](https://github.com/louman/tunefind)
 
+### JavaScript
+- TuneFind JavaScript SDK by Autarc: [Documentation](https://github.com/Sonarvio/tunefind)
+
 
 ## 🗄️ Categories:
-- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)- [Recognition](https://github.com/apis-list/apis-list#recognition-)
+- [Entertainment](https://github.com/apis-list/apis-list#entertainment-)
+- [Music & Audio](https://github.com/apis-list/apis-list#music--audio-)
+- [Recognition](https://github.com/apis-list/apis-list#recognition-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

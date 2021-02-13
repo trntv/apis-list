@@ -7,10 +7,10 @@ With this API, you can use RESTful req. The Custom Search JSON API lets you deve
 ##  🔗 Links
 **Docs / Website**: https://developers.google.com/custom-search/json-api/v1/overview
 
-## 🧬 Google CustomSearch API Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-customsearch-api/google-customsearch-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-customsearch-api/google-customsearch-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-customsearch-api/google-customsearch-api.yaml)
+## 🧬 Google CustomSearch API specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Google CustomSearch API free?
  Unknown/No 
@@ -19,9 +19,7 @@ With this API, you can use RESTful req. The Custom Search JSON API lets you deve
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/google-customsearch-api/google-customsearch-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Search](https://github.com/apis-list/apis-list#search-)

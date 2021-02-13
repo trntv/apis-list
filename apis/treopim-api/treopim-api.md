@@ -7,10 +7,10 @@ AtroPIM is a free, modern, open source, GPLv3 licensed, web-based, feature-rich 
 ##  🔗 Links
 **Docs / Website**: https://atropim.com/
 
-## 🧬 Treopim Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/treopim-api/treopim-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/treopim-api/treopim-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/treopim-api/treopim-api.yaml)
+## 🧬 Treopim Api specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Treopim Api free?
  Unknown/No 
@@ -19,9 +19,7 @@ AtroPIM is a free, modern, open source, GPLv3 licensed, web-based, feature-rich 
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/treopim-api/treopim-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Commerce](https://github.com/apis-list/apis-list#commerce-)

@@ -1,14 +1,13 @@
 # Jamendo
-
 Jamendo Api Documentation. Jamendo Api Documentation
 
 ##  🔗 Links
 **Docs / Website**: https://developer.jamendo.com/v3.0/docs
 
-## 🧬 Jamendo Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/jamendo/jamendo.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/jamendo/jamendo.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/jamendo/jamendo.yaml)
+## 🧬 Jamendo specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Jamendo free?
  Unknown/No 

@@ -7,10 +7,10 @@ Code against the Bitbucket API to automate simple tasks, embed Bitbucket data in
 ##  🔗 Links
 **Docs / Website**: https://developer.atlassian.com/bitbucket/api/2/reference/
 
-## 🧬 Bitbucket Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bitbucket/bitbucket.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bitbucket/bitbucket.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/bitbucket/bitbucket.yaml)
+## 🧬 Bitbucket specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Bitbucket free?
  Unknown/No 
@@ -19,9 +19,7 @@ Code against the Bitbucket API to automate simple tasks, embed Bitbucket data in
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/bitbucket/bitbucket.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Development](https://github.com/apis-list/apis-list#development-)

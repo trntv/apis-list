@@ -7,10 +7,10 @@ An API all about dogs. A public service API all about Dogs, free to use when mak
 ##  🔗 Links
 **Docs / Website**: https://thedogapi.com
 
-## 🧬 The Dog Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-dog-api/the-dog-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-dog-api/the-dog-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-dog-api/the-dog-api.yaml)
+## 🧬 The Dog Api specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is The Dog Api free?
  Unknown/No 
@@ -19,11 +19,10 @@ An API all about dogs. A public service API all about Dogs, free to use when mak
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/the-dog-api/the-dog-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Animals](https://github.com/apis-list/apis-list#animals-)- [Fun](https://github.com/apis-list/apis-list#fun-)
+- [Animals](https://github.com/apis-list/apis-list#animals-)
+- [Fun](https://github.com/apis-list/apis-list#fun-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

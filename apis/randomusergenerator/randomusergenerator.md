@@ -1,14 +1,13 @@
 # RandomUserGenerator
-
-Random user generator is a FREE API for generating placeholder user information. Get profile photos, names, and more. It's like Lorem Ipsum, for people.
+Random user generator is a FREE API for generating placeholder user information. Get profile photos, names, and more. It&#x27;s like Lorem Ipsum, for people.
 
 ##  🔗 Links
 **Docs / Website**: https://randomuser.me/
 
-## 🧬 RandomUserGenerator Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/randomusergenerator/randomusergenerator.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/randomusergenerator/randomusergenerator.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/randomusergenerator/randomusergenerator.yaml)
+## 🧬 RandomUserGenerator specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is RandomUserGenerator free?
  Unknown/No 
@@ -17,9 +16,7 @@ Random user generator is a FREE API for generating placeholder user information.
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/randomusergenerator/randomusergenerator.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Testing](https://github.com/apis-list/apis-list#testing-)

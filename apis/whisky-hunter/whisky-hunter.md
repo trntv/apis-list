@@ -1,14 +1,13 @@
 # Whisky Hunter
-
 Explore lots from the past online whisky auctions. Whisky Hunter have collected the results from whisky auction sites into a single up-to-date database.
 
 ##  🔗 Links
 **Docs / Website**: https://whiskyhunter.net/api/
 
-## 🧬 Whisky Hunter Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/whisky-hunter/whisky-hunter.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/whisky-hunter/whisky-hunter.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/whisky-hunter/whisky-hunter.yaml)
+## 🧬 Whisky Hunter specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Whisky Hunter free?
  Yes! 
@@ -17,9 +16,7 @@ Explore lots from the past online whisky auctions. Whisky Hunter have collected 
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/whisky-hunter/whisky-hunter.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Food & Drinks](https://github.com/apis-list/apis-list#food--drinks-)

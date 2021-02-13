@@ -7,10 +7,10 @@ A drop-in-replacement for the deprecated Google Image Charts. Easiest way to emb
 ##  🔗 Links
 **Docs / Website**: https://www.image-charts.com
 
-## 🧬 Image-Charts Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/image-charts/image-charts.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/image-charts/image-charts.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/image-charts/image-charts.yaml)
+## 🧬 Image-Charts specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Image-Charts free?
  Unknown/No 
@@ -19,11 +19,10 @@ A drop-in-replacement for the deprecated Google Image Charts. Easiest way to emb
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/image-charts/image-charts.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Email & SMS](https://github.com/apis-list/apis-list#email--sms-)- [Visualizations](https://github.com/apis-list/apis-list#visualizations-)
+- [Email & SMS](https://github.com/apis-list/apis-list#email--sms-)
+- [Visualizations](https://github.com/apis-list/apis-list#visualizations-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

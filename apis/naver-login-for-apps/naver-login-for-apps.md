@@ -7,10 +7,10 @@ Access to Naver’s Authentication API. 네이버 아이디로 로그인 별도�
 ##  🔗 Links
 **Docs / Website**: https://developers.naver.com/products/login/api
 
-## 🧬 Naver Login for Apps Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/naver-login-for-apps/naver-login-for-apps.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/naver-login-for-apps/naver-login-for-apps.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/naver-login-for-apps/naver-login-for-apps.yaml)
+## 🧬 Naver Login for Apps specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Naver Login for Apps free?
  Unknown/No 
@@ -19,9 +19,7 @@ Access to Naver’s Authentication API. 네이버 아이디로 로그인 별도�
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/naver-login-for-apps/naver-login-for-apps.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management-)

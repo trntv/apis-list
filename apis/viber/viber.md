@@ -7,10 +7,10 @@ Millions of Viber users call, text, and send photos to each other, worldwide - f
 ##  🔗 Links
 **Docs / Website**: https://developers.viber.com/docs/api/
 
-## 🧬 Viber Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/viber/viber.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/viber/viber.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/viber/viber.yaml)
+## 🧬 Viber specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Viber free?
  Unknown/No 
@@ -19,11 +19,12 @@ Millions of Viber users call, text, and send photos to each other, worldwide - f
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/viber/viber.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging-)- [Social](https://github.com/apis-list/apis-list#social-)- [Video & Media](https://github.com/apis-list/apis-list#video--media-)- [Voice](https://github.com/apis-list/apis-list#voice-)
+- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging-)
+- [Social](https://github.com/apis-list/apis-list#social-)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
+- [Voice](https://github.com/apis-list/apis-list#voice-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

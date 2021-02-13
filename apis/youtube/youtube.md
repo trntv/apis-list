@@ -1,14 +1,13 @@
 # YouTube
-
 Add YouTube functionality to your sites and apps. Add YouTube functionality to your sites and apps
 
 ##  🔗 Links
 **Docs / Website**: https://developers.google.com/youtube/
 
-## 🧬 YouTube Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/youtube/youtube.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/youtube/youtube.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/youtube/youtube.yaml)
+## 🧬 YouTube specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is YouTube free?
  Unknown/No 
@@ -17,47 +16,75 @@ Add YouTube functionality to your sites and apps. Add YouTube functionality to y
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-### 
-- AS3 Library for YouTube API: [Documentation](http://code.google.com/p/as3youtubelib/)
-- ActionScript YouTube Library: [Documentation](http://code.google.com/p/as3-youtube-data-api/)
-- Official YouTube Objective-C Library: [Documentation](http://code.google.com/p/gdata-objectivec-client/)
-- Perl Library for YouTube API: [Documentation](http://search.cpan.org/~yoshida/WebService-YouTube/)
-### .Net
-- ASP.NET Video Starter Kit - Youtube DATA SDK: [Documentation](http://www.mediasoftpro.com/video-starter-kit/youtube-sdk.html)
-- Youtube .Net Library .Net-youtube : [Documentation](https://developers.google.com/api-client-library/dotnet/apis/youtube/v3), [Source code](http://www.nuget.org/packages/Google.Apis.Tasks.v1/)
-- Google APIs Client Library for .NET: [Documentation](https://developers.google.com/api-client-library/dotnet/)
-### Go
-- Google Go SDK : [Documentation](https://github.com/google/google-api-go-client/blob/master/GettingStarted.md), [Source code](https://github.com/google/google-api-go-client)
-### Java
-- Google Java SDK: [Documentation](https://developers.google.com/api-client-library/java/), [Source code](https://developers.google.com/api-client-library/java/google-api-java-client/dev-guide)
-- Youtube Java LIbrary java-youtube: [Documentation](https://github.com/google/google-api-java-client)
-- Google APIs Client Library for Java: [Documentation](https://code.google.com/p/google-api-java-client/)
-- Official Java Source for YouTube : [Documentation](http://code.google.com/apis/youtube/developers_guide_java.html)
-### JavaScript
-- Social API JS JavaScript SDK by Joris Daniel: [Documentation](https://github.com/yoriiis/social-api.js)
-- YouTube Video Sync JavaScript SDK 3.7.2 by Pubnub: [Documentation](http://pubnub.github.io/video-sync/), [Source code](http://www.pubnub.com/docs/javascript/javascript-sdk.html)
-- Google APIs Client Library for JavaScript: [Documentation](https://developers.google.com/api-client-library/javascript/)
 ### JavaScript, Node.js
 - Media Now JavaScript SDK by internet4000: [Documentation](https://github.com/internet4000/media-now)
-### Node.js
-- YouTube Node.js SDK by node.js Nicaragua: [Documentation](https://github.com/nodenica/youtube-node)
-- YouTube Node.js Library by Ionică Bizău: [Documentation](https://github.com/IonicaBizau/youtube-api)
+
+### JavaScript
+- Social API JS JavaScript SDK by Joris Daniel: [Documentation](https://github.com/yoriiis/social-api.js)
+
+- YouTube Video Sync JavaScript SDK 3.7.2 by Pubnub: [Documentation](http://pubnub.github.io/video-sync/), [Source code](http://www.pubnub.com/docs/javascript/javascript-sdk.html)
+
+- Google APIs Client Library for JavaScript: [Documentation](https://developers.google.com/api-client-library/javascript/)
+
+### Go
+- Google Go SDK : [Documentation](https://github.com/google/google-api-go-client/blob/master/GettingStarted.md), [Source code](https://github.com/google/google-api-go-client)
+
 ### Objective-C
 - Google Objective-C SDK : [Documentation](https://github.com/google/google-api-objectivec-client-for-rest/wiki), [Source code](https://github.com/google/google-api-objectivec-client-for-rest)
+
 - Google APIs Client Library for Objective-C: [Documentation](https://code.google.com/p/google-api-objectivec-client/)
-### PHP
-- YouTube PHP SDK by Jason Leung: [Documentation](https://github.com/madcoda/php-youtube-api), [Source code](https://github.com/madcoda/php-youtube-api)
-- YouTube PHP SDK by Jan Galek: [Documentation](https://packagist.org/packages/galek/youtube-api), [Source code](https://github.com/JanGalek/YoutubeAPI)
-- YouTube Laravel PHP SDK by Joe Dawson: [Documentation](https://packagist.org/packages/dawson/youtube), [Source code](https://github.com/JoeDawson/youtube)
-- CodeIgniter YouTube API Library: [Documentation](https://developers.google.com/youtube/articles/codeigniter_library?csw=1), [Source code](https://github.com/jimdoescode/CodeIgniter-YouTube-API-Library)
-- Google APIs Client Library for PHP: [Documentation](https://developers.google.com/api-client-library/php/), [Source code](https://github.com/google/google-api-php-client)
+
+### Java
+- Google Java SDK: [Documentation](https://developers.google.com/api-client-library/java/), [Source code](https://developers.google.com/api-client-library/java/google-api-java-client/dev-guide)
+
+- Youtube Java LIbrary java-youtube: [Documentation](https://github.com/google/google-api-java-client)
+
+- Google APIs Client Library for Java: [Documentation](https://code.google.com/p/google-api-java-client/)
+
+- Official Java Source for YouTube : [Documentation](http://code.google.com/apis/youtube/developers_guide_java.html)
+
 ### Python
 - YouTube Python SDK by Chirag Rathod : [Documentation](https://github.com/srcecde/python-youtube-api)
+
 - Google APIs Client Library for Python: [Documentation](https://developers.google.com/api-client-library/python/), [Source code](https://code.google.com/p/google-api-python-client/downloads/list)
+
 - Official YouTube Python Library: [Documentation](http://code.google.com/apis/youtube/developers_guide_python.html)
+
+### PHP
+- YouTube PHP SDK by Jason Leung: [Documentation](https://github.com/madcoda/php-youtube-api), [Source code](https://github.com/madcoda/php-youtube-api)
+
+- YouTube PHP SDK by Jan Galek: [Documentation](https://packagist.org/packages/galek/youtube-api), [Source code](https://github.com/JanGalek/YoutubeAPI)
+
+- YouTube Laravel PHP SDK by Joe Dawson: [Documentation](https://packagist.org/packages/dawson/youtube), [Source code](https://github.com/JoeDawson/youtube)
+
+- CodeIgniter YouTube API Library: [Documentation](https://developers.google.com/youtube/articles/codeigniter_library?csw&#x3D;1), [Source code](https://github.com/jimdoescode/CodeIgniter-YouTube-API-Library)
+
+- Google APIs Client Library for PHP: [Documentation](https://developers.google.com/api-client-library/php/), [Source code](https://github.com/google/google-api-php-client)
+
+### Node.js
+- YouTube Node.js SDK by node.js Nicaragua: [Documentation](https://github.com/nodenica/youtube-node)
+
+- YouTube Node.js Library by Ionică Bizău: [Documentation](https://github.com/IonicaBizau/youtube-api)
+
+### .Net
+- ASP.NET Video Starter Kit - Youtube DATA SDK: [Documentation](http://www.mediasoftpro.com/video-starter-kit/youtube-sdk.html)
+
+- Youtube .Net Library .Net-youtube : [Documentation](https://developers.google.com/api-client-library/dotnet/apis/youtube/v3), [Source code](http://www.nuget.org/packages/Google.Apis.Tasks.v1/)
+
+- Google APIs Client Library for .NET: [Documentation](https://developers.google.com/api-client-library/dotnet/)
+
+### 
+- AS3 Library for YouTube API: [Documentation](http://code.google.com/p/as3youtubelib/)
+
+- ActionScript YouTube Library: [Documentation](http://code.google.com/p/as3-youtube-data-api/)
+
+- Official YouTube Objective-C Library: [Documentation](http://code.google.com/p/gdata-objectivec-client/)
+
+- Perl Library for YouTube API: [Documentation](http://search.cpan.org/~yoshida/WebService-YouTube/)
 
 
 ## 🗄️ Categories:
-- [Social](https://github.com/apis-list/apis-list#social-)- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
+- [Social](https://github.com/apis-list/apis-list#social-)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

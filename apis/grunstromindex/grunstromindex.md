@@ -7,10 +7,10 @@ The green electricity index shows when a lot of renewable electricity is in the 
 ##  🔗 Links
 **Docs / Website**: https://gruenstromindex.de/
 
-## 🧬 GrünstromIndex Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/grunstromindex/grunstromindex.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/grunstromindex/grunstromindex.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/grunstromindex/grunstromindex.yaml)
+## 🧬 GrünstromIndex specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is GrünstromIndex free?
  Unknown/No 
@@ -24,6 +24,7 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 
 ## 🗄️ Categories:
-- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)- [Environment & Nature](https://github.com/apis-list/apis-list#environment--nature-)
+- [AI & ML](https://github.com/apis-list/apis-list#ai--ml-)
+- [Environment & Nature](https://github.com/apis-list/apis-list#environment--nature-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

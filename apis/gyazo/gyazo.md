@@ -7,10 +7,10 @@ Take screenshots, GIFS, and replays that are ready to share. The Gyazo API can b
 ##  🔗 Links
 **Docs / Website**: https://gyazo.com/api/docs
 
-## 🧬 Gyazo Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gyazo/gyazo.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gyazo/gyazo.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/gyazo/gyazo.yaml)
+## 🧬 Gyazo specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Gyazo free?
  Unknown/No 
@@ -19,11 +19,13 @@ Take screenshots, GIFS, and replays that are ready to share. The Gyazo API can b
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/gyazo/gyazo.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Art & Design](https://github.com/apis-list/apis-list#art--design-)- [Collaboration](https://github.com/apis-list/apis-list#collaboration-)- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)- [Social](https://github.com/apis-list/apis-list#social-)- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
+- [Art & Design](https://github.com/apis-list/apis-list#art--design-)
+- [Collaboration](https://github.com/apis-list/apis-list#collaboration-)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Social](https://github.com/apis-list/apis-list#social-)
+- [Video & Media](https://github.com/apis-list/apis-list#video--media-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

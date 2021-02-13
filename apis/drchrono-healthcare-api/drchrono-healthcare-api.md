@@ -7,10 +7,10 @@ Electronic medical records, practice management and medical billing API. Explore
 ##  🔗 Links
 **Docs / Website**: https://www.drchrono.com/api/
 
-## 🧬 Drchrono Healthcare Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/drchrono-healthcare-api/drchrono-healthcare-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/drchrono-healthcare-api/drchrono-healthcare-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/drchrono-healthcare-api/drchrono-healthcare-api.yaml)
+## 🧬 Drchrono Healthcare Api specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Drchrono Healthcare Api free?
  Unknown/No 
@@ -19,9 +19,7 @@ Electronic medical records, practice management and medical billing API. Explore
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/drchrono-healthcare-api/drchrono-healthcare-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Health](https://github.com/apis-list/apis-list#health-)

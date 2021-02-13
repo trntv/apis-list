@@ -7,10 +7,10 @@ The largest collection of dad jokes on the internet.
 ##  🔗 Links
 **Docs / Website**: https://icanhazdadjoke.com/api
 
-## 🧬 icanhazdadjoke Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/icanhazdadjoke/icanhazdadjoke.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/icanhazdadjoke/icanhazdadjoke.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/icanhazdadjoke/icanhazdadjoke.yaml)
+## 🧬 icanhazdadjoke specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is icanhazdadjoke free?
  Unknown/No 
@@ -19,9 +19,7 @@ The largest collection of dad jokes on the internet.
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/icanhazdadjoke/icanhazdadjoke.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Fun](https://github.com/apis-list/apis-list#fun-)

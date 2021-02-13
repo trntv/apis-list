@@ -7,10 +7,10 @@ SkyBiometry uses completely different computer vision algorithms for face detect
 ##  🔗 Links
 **Docs / Website**: https://skybiometry.com/documentation/
 
-## 🧬 Sky Biometry Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/sky-biometry/sky-biometry.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/sky-biometry/sky-biometry.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/sky-biometry/sky-biometry.yaml)
+## 🧬 Sky Biometry specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Sky Biometry free?
  Unknown/No 
@@ -19,9 +19,7 @@ SkyBiometry uses completely different computer vision algorithms for face detect
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/sky-biometry/sky-biometry.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Recognition](https://github.com/apis-list/apis-list#recognition-)

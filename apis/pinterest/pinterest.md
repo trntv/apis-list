@@ -5,12 +5,12 @@
 Enables apps to view the most clicked-through or repinned Pins, view related posts, and user profiles. Discover recipes, home ideas, style inspiration and other ideas to try
 
 ##  🔗 Links
-**Docs / Website**: https://www.pinterest.com/login/?next=http%3A%2F%2Fdevelopers.pinterest.com%2Fapi_docs%2F
+**Docs / Website**: https://www.pinterest.com/login/?next&#x3D;http%3A%2F%2Fdevelopers.pinterest.com%2Fapi_docs%2F
 
-## 🧬 Pinterest Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pinterest/pinterest.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pinterest/pinterest.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/pinterest/pinterest.yaml)
+## 🧬 Pinterest specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Pinterest free?
  Unknown/No 
@@ -19,23 +19,32 @@ Enables apps to view the most clicked-through or repinned Pins, view related pos
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-### Go
-- SocialSharesCount Go SDK by Sumesh Suvarna: [Documentation](https://github.com/gssumesh/socialsharescount)
-- Pinterest Go SDK by Carrot Creative: [Documentation](https://github.com/carrot/go-pinterest)
-### Java
-- Pinterest Android SDK by Pinterest: [Documentation](https://developers.pinterest.com/docs/sdks/android/)
-- Pinterest Layout Android Library by Rahul Jiresal: [Documentation](http://www.rahuljiresal.com/2014/03/pinterest-style-layout-on-android/), [Source code](https://github.com/rahuljiresal/Pinterest-Layout-Android-Demo)
 ### JavaScript
 - Social API JS JavaScript SDK by Joris Daniel: [Documentation](https://github.com/yoriiis/social-api.js)
+
 - Pinterest JavaScript SDK by Pinterest: [Documentation](https://developers.pinterest.com/docs/sdks/js/)
-### Objective-C
-- Pinterest iOS SDK by Pinterest: [Documentation](https://developers.pinterest.com/docs/sdks/ios/)
+
+### Go
+- SocialSharesCount Go SDK by Sumesh Suvarna: [Documentation](https://github.com/gssumesh/socialsharescount)
+
+- Pinterest Go SDK by Carrot Creative: [Documentation](https://github.com/carrot/go-pinterest)
+
 ### PHP
 - Pinterest PHP SDK by Hans Ott: [Documentation](https://github.com/hansott/pinterest-php)
+
 - Pinterest PHP SDK by Dirk Groenen: [Documentation](https://github.com/dirkgroenen/Pinterest-API-PHP)
+
+### Java
+- Pinterest Android SDK by Pinterest: [Documentation](https://developers.pinterest.com/docs/sdks/android/)
+
+- Pinterest Layout Android Library by Rahul Jiresal: [Documentation](http://www.rahuljiresal.com/2014/03/pinterest-style-layout-on-android/), [Source code](https://github.com/rahuljiresal/Pinterest-Layout-Android-Demo)
+
+### Objective-C
+- Pinterest iOS SDK by Pinterest: [Documentation](https://developers.pinterest.com/docs/sdks/ios/)
 
 
 ## 🗄️ Categories:
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)- [Social](https://github.com/apis-list/apis-list#social-)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

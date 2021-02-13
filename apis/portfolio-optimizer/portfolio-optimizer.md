@@ -7,10 +7,10 @@ API for investment portfolio optimization. The science of portfolio optimization
 ##  🔗 Links
 **Docs / Website**: https://portfoliooptimizer.io/
 
-## 🧬 Portfolio Optimizer Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/portfolio-optimizer/portfolio-optimizer.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/portfolio-optimizer/portfolio-optimizer.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/portfolio-optimizer/portfolio-optimizer.yaml)
+## 🧬 Portfolio Optimizer specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Portfolio Optimizer free?
  Unknown/No 
@@ -19,11 +19,10 @@ API for investment portfolio optimization. The science of portfolio optimization
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/portfolio-optimizer/portfolio-optimizer.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics-)- [Science & Math](https://github.com/apis-list/apis-list#science--math-)
+- [Finance & Economics](https://github.com/apis-list/apis-list#finance--economics-)
+- [Science & Math](https://github.com/apis-list/apis-list#science--math-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

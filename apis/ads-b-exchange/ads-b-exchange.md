@@ -7,10 +7,10 @@ Access real-time and historical data of any and all airborne aircraft. Filtered 
 ##  🔗 Links
 **Docs / Website**: https://www.adsbexchange.com/data/
 
-## 🧬 ADS-B Exchange Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ads-b-exchange/ads-b-exchange.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ads-b-exchange/ads-b-exchange.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ads-b-exchange/ads-b-exchange.yaml)
+## 🧬 ADS-B Exchange specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is ADS-B Exchange free?
  Unknown/No 
@@ -19,9 +19,7 @@ Access real-time and historical data of any and all airborne aircraft. Filtered 
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/ads-b-exchange/ads-b-exchange.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Transportation](https://github.com/apis-list/apis-list#transportation-)

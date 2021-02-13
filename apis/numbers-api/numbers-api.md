@@ -7,10 +7,10 @@ Numbers. Number of the day, random number generation , number facts and anything
 ##  🔗 Links
 **Docs / Website**: https://math.tools/api/numbers/
 
-## 🧬 Numbers Api Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/numbers-api/numbers-api.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/numbers-api/numbers-api.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/numbers-api/numbers-api.yaml)
+## 🧬 Numbers Api specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Numbers Api free?
  Unknown/No 
@@ -19,11 +19,10 @@ Numbers. Number of the day, random number generation , number facts and anything
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/numbers-api/numbers-api.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Education](https://github.com/apis-list/apis-list#education-)- [Science & Math](https://github.com/apis-list/apis-list#science--math-)
+- [Education](https://github.com/apis-list/apis-list#education-)
+- [Science & Math](https://github.com/apis-list/apis-list#science--math-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

@@ -7,10 +7,10 @@ With this screenshot API you can automate high quality real browser screenshots 
 ##  🔗 Links
 **Docs / Website**: https://screenshots.cloud/
 
-## 🧬 Screenshotscloud Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/screenshotscloud/screenshotscloud.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/screenshotscloud/screenshotscloud.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/screenshotscloud/screenshotscloud.yaml)
+## 🧬 Screenshotscloud specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Screenshotscloud free?
  Unknown/No 
@@ -19,23 +19,30 @@ With this screenshot API you can automate high quality real browser screenshots 
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-### C#
-- ScreenshotsCloud C# SDK: [Documentation](https://github.com/ScreenshotsCloud/screenshotscloud-cs)
-### Java
-- ScreenshotsCloud Java SDK: [Documentation](https://github.com/ScreenshotsCloud/screenshotscloud-java)
 ### JavaScript
 - ScreenshotsCloud Shell Script SDK: [Documentation](https://github.com/ScreenshotsCloud/screenshotscloud-sh)
+
+### Java
+- ScreenshotsCloud Java SDK: [Documentation](https://github.com/ScreenshotsCloud/screenshotscloud-java)
+
+### C#
+- ScreenshotsCloud C# SDK: [Documentation](https://github.com/ScreenshotsCloud/screenshotscloud-cs)
+
 ### Node.js
 - ScreenshotsCloud NodeJS SDK: [Documentation](https://github.com/ScreenshotsCloud/screenshotscloud-node)
-### PHP
-- ScreenshotsCloud PHP SDK: [Documentation](https://github.com/ScreenshotsCloud/screenshotscloud-php)
+
 ### Python
 - ScreenshotsCloud Python SDK: [Documentation](https://github.com/ScreenshotsCloud/screenshotscloud-python)
+
 ### Ruby
 - ScreenshotsCloud Ruby SDK: [Documentation](https://github.com/ScreenshotsCloud/screenshotscloud-ruby)
 
+### PHP
+- ScreenshotsCloud PHP SDK: [Documentation](https://github.com/ScreenshotsCloud/screenshotscloud-php)
+
 
 ## 🗄️ Categories:
-- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining-)
+- [Images & Photography](https://github.com/apis-list/apis-list#images--photography-)
+- [Scrapers & Data Mining](https://github.com/apis-list/apis-list#scrapers--data-mining-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

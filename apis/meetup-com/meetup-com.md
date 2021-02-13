@@ -7,10 +7,10 @@ Find groups that host online or in person events and meet people in your local c
 ##  🔗 Links
 **Docs / Website**: https://www.meetup.com/meetup_api/
 
-## 🧬 Meetup.com Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/meetup-com/meetup-com.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/meetup-com/meetup-com.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/meetup-com/meetup-com.yaml)
+## 🧬 Meetup.com specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Meetup.com free?
  Unknown/No 
@@ -19,11 +19,10 @@ Find groups that host online or in person events and meet people in your local c
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/meetup-com/meetup-com.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Events](https://github.com/apis-list/apis-list#events-)- [Social](https://github.com/apis-list/apis-list#social-)
+- [Events](https://github.com/apis-list/apis-list#events-)
+- [Social](https://github.com/apis-list/apis-list#social-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

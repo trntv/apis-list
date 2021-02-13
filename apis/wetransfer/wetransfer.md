@@ -7,10 +7,10 @@ Put us in unexpected places, challenge the traditional creative flow, think big,
 ##  🔗 Links
 **Docs / Website**: https://developers.wetransfer.com
 
-## 🧬 Wetransfer Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wetransfer/wetransfer.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wetransfer/wetransfer.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/wetransfer/wetransfer.yaml)
+## 🧬 Wetransfer specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Wetransfer free?
  Unknown/No 
@@ -19,13 +19,15 @@ Put us in unexpected places, challenge the traditional creative flow, think big,
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-### JavaScript
-- WeTransfer JavaScript SDK: [Documentation](https://wetransfer.github.io/wt-api-docs/index.html#sdks), [Source code](https://github.com/WeTransfer/wt-js-sdk)
 ### Swift
 - WeTransfer WeScan Swift SDK: [Documentation](https://github.com/WeTransfer/WeScan)
 
+### JavaScript
+- WeTransfer JavaScript SDK: [Documentation](https://wetransfer.github.io/wt-api-docs/index.html#sdks), [Source code](https://github.com/WeTransfer/wt-js-sdk)
+
 
 ## 🗄️ Categories:
-- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity-)- [Files & Storage](https://github.com/apis-list/apis-list#files--storage-)
+- [Documents & Productivity](https://github.com/apis-list/apis-list#documents--productivity-)
+- [Files & Storage](https://github.com/apis-list/apis-list#files--storage-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

@@ -7,10 +7,10 @@ Integrate SMS, MMS and Phone calls into your applications with just a few lines 
 ##  🔗 Links
 **Docs / Website**: https://46elks.com
 
-## 🧬 Sms And Phone Calls Api - 46elks Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/sms-and-phone-calls-api-46elks/sms-and-phone-calls-api-46elks.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/sms-and-phone-calls-api-46elks/sms-and-phone-calls-api-46elks.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/sms-and-phone-calls-api-46elks/sms-and-phone-calls-api-46elks.yaml)
+## 🧬 Sms And Phone Calls Api - 46elks specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Sms And Phone Calls Api - 46elks free?
  Unknown/No 
@@ -19,11 +19,11 @@ Integrate SMS, MMS and Phone calls into your applications with just a few lines 
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/sms-and-phone-calls-api-46elks/sms-and-phone-calls-api-46elks.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging-)- [Email & SMS](https://github.com/apis-list/apis-list#email--sms-)- [Voice](https://github.com/apis-list/apis-list#voice-)
+- [Chats & Messaging](https://github.com/apis-list/apis-list#chats--messaging-)
+- [Email & SMS](https://github.com/apis-list/apis-list#email--sms-)
+- [Voice](https://github.com/apis-list/apis-list#voice-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

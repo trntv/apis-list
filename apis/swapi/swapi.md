@@ -1,14 +1,13 @@
 # SWAPI
-
 A Remake of the original api, using the MERN stack. A Remake of the original api, using the MERN stack
 
 ##  🔗 Links
 **Docs / Website**: https://www.swapi.tech
 
-## 🧬 SWAPI Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/swapi/swapi.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/swapi/swapi.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/swapi/swapi.yaml)
+## 🧬 SWAPI specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is SWAPI free?
  Unknown/No 
@@ -17,9 +16,7 @@ A Remake of the original api, using the MERN stack. A Remake of the original api
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/swapi/swapi.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Video & Media](https://github.com/apis-list/apis-list#video--media-)

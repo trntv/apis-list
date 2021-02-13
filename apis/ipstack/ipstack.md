@@ -7,10 +7,10 @@ Locate website visitors for free using ipstack - a free, real-time IP address to
 ##  🔗 Links
 **Docs / Website**: https://ipstack.com/
 
-## 🧬 ipstack Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ipstack/ipstack.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ipstack/ipstack.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/ipstack/ipstack.yaml)
+## 🧬 ipstack specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is ipstack free?
  Unknown/No 
@@ -19,11 +19,12 @@ Locate website visitors for free using ipstack - a free, real-time IP address to
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/ipstack/ipstack.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Analytics](https://github.com/apis-list/apis-list#analytics-)- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)- [Security](https://github.com/apis-list/apis-list#security-)- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification-)
+- [Analytics](https://github.com/apis-list/apis-list#analytics-)
+- [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
+- [Security](https://github.com/apis-list/apis-list#security-)
+- [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

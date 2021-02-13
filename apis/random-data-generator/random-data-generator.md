@@ -7,9 +7,9 @@ API Generator for telephones, text, numbers, passwords, names, social security n
 ##  🔗 Links
 **Docs / Website**: https://randommer.io/randommer-api
 
-## 🧬 Random Data Generator Specification:
-**Type**: openapi  
-**URI**: https://randommer.io/api/docs/v1/swagger.json  
+## 🧬 Random Data Generator specification:
+**Type**: openapi
+**URI**: https://randommer.io/api/docs/v1/swagger.json
 **Version**: https://randommer.io/api/docs/v1/swagger.json
 
 ## 🆓 Is Random Data Generator free?
@@ -19,11 +19,10 @@ API Generator for telephones, text, numbers, passwords, names, social security n
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/random-data-generator/random-data-generator.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Random](https://github.com/apis-list/apis-list#random-)- [Testing](https://github.com/apis-list/apis-list#testing-)
+- [Random](https://github.com/apis-list/apis-list#random-)
+- [Testing](https://github.com/apis-list/apis-list#testing-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

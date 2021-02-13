@@ -7,10 +7,10 @@ A restful API for football data. A restful API for football data
 ##  🔗 Links
 **Docs / Website**: http://api.football-data.org/index
 
-## 🧬 Football-Data.org Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/football-data-org/football-data-org.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/football-data-org/football-data-org.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/football-data-org/football-data-org.yaml)
+## 🧬 Football-Data.org specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Football-Data.org free?
  Unknown/No 
@@ -19,9 +19,7 @@ A restful API for football data. A restful API for football data
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/football-data-org/football-data-org.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Sport & Fitness](https://github.com/apis-list/apis-list#sport--fitness-)

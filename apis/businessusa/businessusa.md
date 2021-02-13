@@ -7,10 +7,10 @@ Software developers and researchers can use these APIs and data feeds to help pe
 ##  🔗 Links
 **Docs / Website**: https://business.usa.gov/developer
 
-## 🧬 BusinessUSA Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/businessusa/businessusa.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/businessusa/businessusa.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/businessusa/businessusa.yaml)
+## 🧬 BusinessUSA specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is BusinessUSA free?
  Unknown/No 

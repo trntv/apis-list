@@ -7,10 +7,10 @@ Access to Cambridge’s custom-developed API. License our data. Use Cambridge Di
 ##  🔗 Links
 **Docs / Website**: http://dictionary.cambridge.org/license.html
 
-## 🧬 Cambridge Dictionaries Online Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cambridge-dictionaries-online/cambridge-dictionaries-online.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cambridge-dictionaries-online/cambridge-dictionaries-online.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/cambridge-dictionaries-online/cambridge-dictionaries-online.yaml)
+## 🧬 Cambridge Dictionaries Online specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Cambridge Dictionaries Online free?
  Unknown/No 
@@ -24,6 +24,7 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 
 ## 🗄️ Categories:
-- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries-)- [Education](https://github.com/apis-list/apis-list#education-)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries-)
+- [Education](https://github.com/apis-list/apis-list#education-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

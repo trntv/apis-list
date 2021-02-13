@@ -7,10 +7,10 @@
 ##  🔗 Links
 **Docs / Website**: https://24pullrequests.com/api
 
-## 🧬 24 Pull Requests Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/24-pull-requests/24-pull-requests.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/24-pull-requests/24-pull-requests.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/24-pull-requests/24-pull-requests.yaml)
+## 🧬 24 Pull Requests specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is 24 Pull Requests free?
  Unknown/No 
@@ -19,11 +19,11 @@
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/24-pull-requests/24-pull-requests.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time-)- [Development](https://github.com/apis-list/apis-list#development-)- [Events](https://github.com/apis-list/apis-list#events-)
+- [Calendar & Time](https://github.com/apis-list/apis-list#calendar--time-)
+- [Development](https://github.com/apis-list/apis-list#development-)
+- [Events](https://github.com/apis-list/apis-list#events-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)

@@ -7,10 +7,10 @@ govt. nz provides access to guidance, standards, and data from New Zealand gover
 ##  🔗 Links
 **Docs / Website**: https://www.data.govt.nz/
 
-## 🧬 Open Government, New Zealand Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-government-new-zealand/open-government-new-zealand.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-government-new-zealand/open-government-new-zealand.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-government-new-zealand/open-government-new-zealand.yaml)
+## 🧬 Open Government, New Zealand specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Open Government, New Zealand free?
  Unknown/No 
@@ -19,9 +19,7 @@ govt. nz provides access to guidance, standards, and data from New Zealand gover
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/open-government-new-zealand/open-government-new-zealand.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Government](https://github.com/apis-list/apis-list#government-)

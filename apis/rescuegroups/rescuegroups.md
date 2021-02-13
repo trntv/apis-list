@@ -1,14 +1,13 @@
 # RescueGroups
-
 org APIs Not all adoptable pet data APIs are made equal! Choosing the right API service is more than just numbers. you also need to consider reliability, functio. Introduction to the RescueGroups. Introduction to the RescueGroups
 
 ##  🔗 Links
 **Docs / Website**: https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home
 
-## 🧬 RescueGroups Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/rescuegroups/rescuegroups.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/rescuegroups/rescuegroups.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/rescuegroups/rescuegroups.yaml)
+## 🧬 RescueGroups specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is RescueGroups free?
  Unknown/No 

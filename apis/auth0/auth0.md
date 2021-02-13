@@ -7,10 +7,10 @@ Rapidly integrate authentication and authorization for web, mobile, and legacy a
 ##  🔗 Links
 **Docs / Website**: https://auth0.com
 
-## 🧬 Auth0 Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/auth0/auth0.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/auth0/auth0.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/auth0/auth0.yaml)
+## 🧬 Auth0 specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Auth0 free?
  Unknown/No 
@@ -19,9 +19,7 @@ Rapidly integrate authentication and authorization for web, mobile, and legacy a
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/auth0/auth0.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Authentication & User Management](https://github.com/apis-list/apis-list#authentication--user-management-)

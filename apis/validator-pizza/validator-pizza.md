@@ -7,10 +7,10 @@ pizza is made to prevent users to register to websites with a disposable email a
 ##  🔗 Links
 **Docs / Website**: https://www.validator.pizza
 
-## 🧬 Validator.Pizza Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/validator-pizza/validator-pizza.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/validator-pizza/validator-pizza.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/validator-pizza/validator-pizza.yaml)
+## 🧬 Validator.Pizza specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Validator.Pizza free?
  Unknown/No 
@@ -19,9 +19,7 @@ pizza is made to prevent users to register to websites with a disposable email a
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/validator-pizza/validator-pizza.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Validation & Verification](https://github.com/apis-list/apis-list#validation--verification-)

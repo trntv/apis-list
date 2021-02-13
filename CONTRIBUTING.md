@@ -1,3 +1,8 @@
+# How to add my API?
+1. Add information about your in [`apis-list.yaml`](https://github.com/apis-list/apis-list/blob/main/apis-list.yaml) file
+2. Run `npm run build`
+3. Make PR with changes
+
 # How can I help?
 - add new API
 - suggest changes to API's information
@@ -14,10 +19,11 @@ Anyone can add or suggest changes to an API
 Publicly available APIs of any kind (paid or free)
 
 # Should I make changes in *.md files directly?
-No, they are generated from APIs specifications located in directories inside `apis` and named after API name
+No, they are generated from APIs database in `apis-list.yaml` file
 
-So, if you want to make changes in `README.md` texts, make changes in `templates/readme.gomd`. 
-If you want to modify api's data, make changes in corresponding specification `apis/[API NAME]/[API NAME].yaml`
+So, if you want to make changes in `README.md` texts, make changes in [`README.handlebars`](https://github.com/apis-list/apis-list/blob/main/README.handlebars)
+If you want to make changes in API's template change [`api.handlebars`](https://github.com/apis-list/apis-list/blob/main/api.handlebars) file
+If you want to modify API's information, make changes in corresponding specification in [`apis-list.yaml`](https://github.com/apis-list/apis-list/blob/main/apis-list.yaml) file
 
 # APIs to add
 Search for issues with labels ["help wanted" and "new api"](https://github.com/apis-list/apis-list/issues?q=is%3Aissue+is%3Aopen+label%3A"new+api"+label%3A"new+api"). These list one of more APIs that should be added.

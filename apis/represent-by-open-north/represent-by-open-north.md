@@ -7,10 +7,10 @@ Find the elected officials and electoral districts for any Canadian address or p
 ##  🔗 Links
 **Docs / Website**: https://represent.opennorth.ca/
 
-## 🧬 Represent by Open North Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/represent-by-open-north/represent-by-open-north.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/represent-by-open-north/represent-by-open-north.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/represent-by-open-north/represent-by-open-north.yaml)
+## 🧬 Represent by Open North specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is Represent by Open North free?
  Unknown/No 
@@ -19,9 +19,7 @@ Find the elected officials and electoral districts for any Canadian address or p
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/represent-by-open-north/represent-by-open-north.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
 - [Government](https://github.com/apis-list/apis-list#government-)

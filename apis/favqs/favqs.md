@@ -7,10 +7,10 @@ FavQs allows you to collect, discover, and share your favorite quotes.
 ##  🔗 Links
 **Docs / Website**: https://favqs.com/api
 
-## 🧬 FavQs Specification:
-**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/favqs/favqs.yaml)  
-**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/favqs/favqs.yaml)  
-**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis/favqs/favqs.yaml)
+## 🧬 FavQs specification:
+**Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
+**Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is FavQs free?
  Unknown/No 
@@ -19,11 +19,10 @@ FavQs allows you to collect, discover, and share your favorite quotes.
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis/favqs/favqs.yaml)    
-
+No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
 
 ## 🗄️ Categories:
-- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries-)- [Fun](https://github.com/apis-list/apis-list#fun-)
+- [Content & Dictionaries](https://github.com/apis-list/apis-list#content--dictionaries-)
+- [Fun](https://github.com/apis-list/apis-list#fun-)
 
 🔙  [Back to List](https://github.com/apis-list/apis-list)
