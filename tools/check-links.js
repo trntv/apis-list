@@ -16,11 +16,6 @@ exports.checkApiLinks = (source) => {
             }
             
             axios.get(link.url)
-                .then(function (response) {
-                    if (response.status !== 200 && response.status !== 429) {
-                        throw new Error(`status code is ${response.status}`)
-                    }
-                })
                 .catch(function (error) {
                     console.error(`failed to fetch link (${link.url}) in API (${api.name}) due to "${error.message}"`);
                 })
@@ -43,25 +38,20 @@ exports.checkLibrariesLinks = (source) => {
 
             if (lib.documentation_url) {
                 axios.get(lib.documentation_url)
-                    .then(function (response) {
-                        if (response.status !== 200 && response.status !== 429) {
-                            throw new Error(`status code is ${response.status}`)
-                        }
-                    })
                     .catch(function (error) {
-                        console.error(`failed to fetch documentation_url (${lib.documentation_url}) in API (${api.name}) due to "${error.message}"`);
+                        if (!error.response || (error.response.status && error.response.status !== 429)) {
+                            console.error(`failed to fetch documentation_url (${lib.documentation_url}) in API (${api.name}) due to "${error.message}"`);
+                        }
+
                     })
             }
 
             if (lib.source_code_url) {
                 axios.get(lib.source_code_url)
-                    .then(function (response) {
-                        if (response.status !== 200 && response.status !== 429) {
-                            throw new Error(`status code is ${response.status}`)
-                        }
-                    })
                     .catch(function (error) {
-                        console.error(`failed to fetch source_code_url (${lib.source_code_url}) in API (${api.name}) due to "${error.message}"`);
+                        if (!error.response || (error.response.status && error.response.status !== 429)) {
+                            console.error(`failed to fetch source_code_url (${lib.source_code_url}) in API (${api.name}) due to "${error.message}"`);
+                        }
                     })
             }
 

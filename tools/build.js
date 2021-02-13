@@ -33,7 +33,7 @@ module.exports = (source, destination) => {
     const graveyard = []
     const byCategory = {}
 
-    const apiTemplate = Handlebars.compile(fs.readFileSync("../api.handlebars").toString());
+    const apiTemplate = Handlebars.compile(fs.readFileSync(__dirname + "/../api.handlebars").toString());
     apis.forEach((api) => {
         if (!api.is_active) {
             graveyard.push(api)
@@ -64,15 +64,15 @@ module.exports = (source, destination) => {
             libraries: byPlatform
         })
 
-        fs.writeFileSync(`../apis/${api.slug}/${api.slug}.md`, apiData)
+        fs.writeFileSync(`${destination}/apis/${api.slug}/${api.slug}.md`, apiData)
     })
 
-    const readmeTemplate = Handlebars.compile(fs.readFileSync("../README.handlebars").toString());
+    const readmeTemplate = Handlebars.compile(fs.readFileSync(__dirname + "/../README.handlebars").toString());
     const readme = readmeTemplate({
         categoriesNames: categoriesNames.sort(sortCategories),
         apis:            byCategory,
         Graveyard:       graveyard,
     })
     
-    fs.writeFileSync(destination || "../README.md", readme)
+    fs.writeFileSync(destination + "/README.md", readme)
 }

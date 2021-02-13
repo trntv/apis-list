@@ -9013,7 +9013,7 @@
   slug: globalstats-io
   categories:
     - Games
-  description: Enrich your games' experience by adding a global highscore for your games.
+  description: Enrich your games' experience by adding a global highscore for your games. Platform agnostic infrastructure for your games statistics.
   is_free: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/globalstats-io/logo_256x256.png
   is_active: true
@@ -9021,10 +9021,10 @@
     - name: Globalstats IO Unity SDK
       documentation_url: https://github.com/globalstats-io/unity-library
       source_code_url: https://github.com/globalstats-io/unity-library.git
-      platform: ""
+      platform: "C#"
   links:
     - name: Docs / Website
-      url: " platform agnostic infrastructure for your games statistics."
+      url: "https://globalstats.io/"
 - name: Glosbe API
   slug: glosbe-api
   categories:
