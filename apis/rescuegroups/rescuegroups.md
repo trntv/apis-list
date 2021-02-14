@@ -17,7 +17,11 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Ruby
-- RescueGroups Ruby SDK by Harsha: [Documentation](https://github.com/bornfree/rescuegroups)
+- RescueGroups Ruby SDK by Harsha
+    - [Documentation](https://github.com/bornfree/rescuegroups)
+    - [Add source code URL ➕]()
+    - [Author: @bornfree](https://github.com/bornfree)
+    - 1 ⭐
 
 
 ## 🗄️ Categories:

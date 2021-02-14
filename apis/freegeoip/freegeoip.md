@@ -17,7 +17,11 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Node.js
--  Geocoder Node.js Library by Nicolas Chaulet: [Documentation](https://github.com/nchaulet/node-geocoder)
+-  Geocoder Node.js Library by Nicolas Chaulet
+    - [Documentation](https://github.com/nchaulet/node-geocoder)
+    - [Add source code URL ➕]()
+    - [Author: @nchaulet](https://github.com/nchaulet)
+    - 794 ⭐
 
 
 ## 🗄️ Categories:

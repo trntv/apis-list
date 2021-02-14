@@ -19,10 +19,17 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### PERL
-- Upwork PERL SDK by Upwork: [Documentation](https://metacpan.org/release/Net-Upwork-API)
+- Upwork PERL SDK by Upwork
+    - [Documentation](https://metacpan.org/release/Net-Upwork-API)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### JavaScript
-- Upwork JavaScript SDK by Upwork: [Documentation](https://developers.upwork.com/?lang&#x3D;python#getting-started_libraries-and-tools), [Source code](https://github.com/upwork/node-upwork)
+- Upwork JavaScript SDK by Upwork
+    - [Documentation](https://developers.upwork.com/?lang&#x3D;python#getting-started_libraries-and-tools)
+    - [Source code](https://github.com/upwork/node-upwork)
+    - [Add author ➕]
+    - 57 ⭐
 
 
 ## 🗄️ Categories:

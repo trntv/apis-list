@@ -17,13 +17,25 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Java
-- TextRazor Java SDK by TextRazor: [Documentation](https://www.textrazor.com/docs/java), [Source code](https://github.com/TextRazor/textrazor-java)
+- TextRazor Java SDK by TextRazor
+    - [Documentation](https://www.textrazor.com/docs/java)
+    - [Source code](https://github.com/TextRazor/textrazor-java)
+    - [Add author ➕]
+    - 12 ⭐
 
 ### PHP
-- TextRazor PHP SDK by TextRazor: [Documentation](https://www.textrazor.com/docs/php), [Source code](https://github.com/TextRazor/textrazor-php)
+- TextRazor PHP SDK by TextRazor
+    - [Documentation](https://www.textrazor.com/docs/php)
+    - [Source code](https://github.com/TextRazor/textrazor-php)
+    - [Add author ➕]
+    - 18 ⭐
 
 ### Python
-- TextRazor Python SDK by TextRazor: [Documentation](https://www.textrazor.com/docs/python), [Source code](https://github.com/TextRazor/textrazor-python)
+- TextRazor Python SDK by TextRazor
+    - [Documentation](https://www.textrazor.com/docs/python)
+    - [Source code](https://github.com/TextRazor/textrazor-python)
+    - [Add author ➕]
+    - 11 ⭐
 
 
 ## 🗄️ Categories:

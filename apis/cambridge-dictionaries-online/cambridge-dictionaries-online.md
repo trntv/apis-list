@@ -20,7 +20,10 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### JavaScript
-- Cambridge Dictionaries Online JavaScript Library: [Documentation](http://dictionary-api.cambridge.org/), [Source code](http://dictionary-api.cambridge.org/index.php/help/resources#javascript)
+- Cambridge Dictionaries Online JavaScript Library
+    - [Documentation](http://dictionary-api.cambridge.org/)
+    - [Source code](http://dictionary-api.cambridge.org/index.php/help/resources#javascript)
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

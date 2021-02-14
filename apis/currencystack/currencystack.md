@@ -20,16 +20,30 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Node.js
-- CurrencyStack NodeJS SDK: [Documentation](https://github.com/currencystack/currencystack-node)
+- CurrencyStack NodeJS SDK
+    - [Documentation](https://github.com/currencystack/currencystack-node)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 1 ⭐
 
 ### PHP
-- CurrencyStack PHP SDK: [Documentation](https://github.com/currencystack/currencystack-php)
+- CurrencyStack PHP SDK
+    - [Documentation](https://github.com/currencystack/currencystack-php)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Go
-- CurrencyStack Go SDK: [Documentation](https://github.com/currencystack/currencystack-go)
+- CurrencyStack Go SDK
+    - [Documentation](https://github.com/currencystack/currencystack-go)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 2 ⭐
 
 ### Python
-- CurrencyStack Python SDK: [Documentation](https://bitbucket.org/hd1/currencystack/src/master/main.py)
+- CurrencyStack Python SDK
+    - [Documentation](https://bitbucket.org/hd1/currencystack/src/master/main.py)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

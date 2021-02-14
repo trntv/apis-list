@@ -20,19 +20,38 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Ruby
-- Geocoder Ruby SDK by Alex Reisner: [Documentation](https://github.com/alexreisner/geocoder), [Source code](https://rubygems.org/gems/geocoder)
+- Geocoder Ruby SDK by Alex Reisner
+    - [Documentation](https://github.com/alexreisner/geocoder)
+    - [Source code](https://rubygems.org/gems/geocoder)
+    - [Author: @alexreisner](https://github.com/alexreisner)
+    - 5834 ⭐
 
 ### R
-- Data Science Toolkit R Library by Ryan Elmore: [Documentation](http://cran.r-project.org/web/packages/RDSTK/index.html), [Source code](https://github.com/rtelmore/RDSTK)
+- Data Science Toolkit R Library by Ryan Elmore
+    - [Documentation](http://cran.r-project.org/web/packages/RDSTK/index.html)
+    - [Source code](https://github.com/rtelmore/RDSTK)
+    - [Author: @rtelmore](https://github.com/rtelmore)
+    - 24 ⭐
 
 ### Node.js
--  Geocoder Node.js Library by Nicolas Chaulet: [Documentation](https://github.com/nchaulet/node-geocoder)
+-  Geocoder Node.js Library by Nicolas Chaulet
+    - [Documentation](https://github.com/nchaulet/node-geocoder)
+    - [Add source code URL ➕]()
+    - [Author: @nchaulet](https://github.com/nchaulet)
+    - 794 ⭐
 
 ### JavaScript
-- Data Science Toolkit JavaScript Library by Pete Warden: [Documentation](https://github.com/petewarden/dstk)
+- Data Science Toolkit JavaScript Library by Pete Warden
+    - [Documentation](https://github.com/petewarden/dstk)
+    - [Add source code URL ➕]()
+    - [Author: @petewarden](https://github.com/petewarden)
+    - 1071 ⭐
 
 ### Python
-- Data Science Toolkit Python Library by CloverHealth: [Documentation](https://github.com/CloverHealth/pydstk)
+- Data Science Toolkit Python Library by CloverHealth
+    - [Documentation](https://github.com/CloverHealth/pydstk)
+    - [Add source code URL ➕]()
+    - [Author: @gwax](https://github.com/gwax)
 
 
 ## 🗄️ Categories:

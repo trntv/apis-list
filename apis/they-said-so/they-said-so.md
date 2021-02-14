@@ -17,7 +17,10 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Node.js
-- They Said So Node.js SDK by Adam Barker: [Documentation](https://github.com/q-state/node-theysaidso)
+- They Said So Node.js SDK by Adam Barker
+    - [Documentation](https://github.com/q-state/node-theysaidso)
+    - [Add source code URL ➕]()
+    - [Author: @q-state](https://github.com/q-state)
 
 
 ## 🗄️ Categories:

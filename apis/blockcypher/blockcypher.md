@@ -17,25 +17,53 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### .Net
-- BlockCypher .Net SDK by Boris Scheiman: [Documentation](https://github.com/bscheiman/BlockCypher)
+- BlockCypher .Net SDK by Boris Scheiman
+    - [Documentation](https://github.com/bscheiman/BlockCypher)
+    - [Add source code URL ➕]()
+    - [Author: @bscheiman](https://github.com/bscheiman)
+    - 5 ⭐
 
 ### Node.js
-- BlockCypher Node.js SDK by BlockCypher: [Documentation](https://github.com/blockcypher/node-client)
+- BlockCypher Node.js SDK by BlockCypher
+    - [Documentation](https://github.com/blockcypher/node-client)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 73 ⭐
 
 ### Go
-- BlockCypher Go SDK by BlockCypher: [Documentation](https://github.com/blockcypher/gobcy)
+- BlockCypher Go SDK by BlockCypher
+    - [Documentation](https://github.com/blockcypher/gobcy)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 36 ⭐
 
 ### PHP
-- BlockCypher PHP SDK by BlockCypher: [Documentation](https://github.com/blockcypher/php-client)
+- BlockCypher PHP SDK by BlockCypher
+    - [Documentation](https://github.com/blockcypher/php-client)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 49 ⭐
 
 ### Java
-- BlockCypher Java SDK by BlockCypher: [Documentation](https://github.com/blockcypher/java-client)
+- BlockCypher Java SDK by BlockCypher
+    - [Documentation](https://github.com/blockcypher/java-client)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 32 ⭐
 
 ### Python
-- BlockCypher Python SDK by BlockCypher: [Documentation](https://github.com/blockcypher/blockcypher-python)
+- BlockCypher Python SDK by BlockCypher
+    - [Documentation](https://github.com/blockcypher/blockcypher-python)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 136 ⭐
 
 ### Ruby
-- BlockCypher Ruby SDK by BlockCypher: [Documentation](https://github.com/blockcypher/ruby-client)
+- BlockCypher Ruby SDK by BlockCypher
+    - [Documentation](https://github.com/blockcypher/ruby-client)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 29 ⭐
 
 
 ## 🗄️ Categories:

@@ -20,21 +20,40 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Node.js
-- Spotifind NodeJS SDK by Pedro Otero Prada: [Documentation](https://github.com/pedro-otero/spotifind), [Source code](https://www.npmjs.com/package/spotifind)
+- Spotifind NodeJS SDK by Pedro Otero Prada
+    - [Documentation](https://github.com/pedro-otero/spotifind)
+    - [Source code](https://www.npmjs.com/package/spotifind)
+    - [Author: @pedro-otero](https://github.com/pedro-otero)
 
-- TuneFind NodeJS SDK by Pedro Otero Prada: [Documentation](https://www.npmjs.com/package/tunefindjs)
+- TuneFind NodeJS SDK by Pedro Otero Prada
+    - [Documentation](https://www.npmjs.com/package/tunefindjs)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### PERL
-- TuneFind Perl SDK by Hondallica : [Documentation](https://github.com/hondallica/p5-WebService-TuneFind)
+- TuneFind Perl SDK by Hondallica 
+    - [Documentation](https://github.com/hondallica/p5-WebService-TuneFind)
+    - [Add source code URL ➕]()
+    - [Author: @hondallica](https://github.com/hondallica)
 
 ### Python
-- TuneFind Python SDK by Christopher Brasington: [Documentation](https://github.com/chrisbrasington/tunefind-playlist-generator)
+- TuneFind Python SDK by Christopher Brasington
+    - [Documentation](https://github.com/chrisbrasington/tunefind-playlist-generator)
+    - [Add source code URL ➕]()
+    - [Author: @achristrophe](https://github.com/achristrophe)
+    - 2 ⭐
 
 ### Ruby
-- TuneFind Ruby SDK by Marcus Mansur: [Documentation](https://github.com/louman/tunefind)
+- TuneFind Ruby SDK by Marcus Mansur
+    - [Documentation](https://github.com/louman/tunefind)
+    - [Add source code URL ➕]()
+    - [Author: @louman](https://github.com/louman)
 
 ### JavaScript
-- TuneFind JavaScript SDK by Autarc: [Documentation](https://github.com/Sonarvio/tunefind)
+- TuneFind JavaScript SDK by Autarc
+    - [Documentation](https://github.com/Sonarvio/tunefind)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

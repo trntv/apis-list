@@ -20,7 +20,11 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Python
-- Behance Python SDK by aravenel: [Documentation](https://www.behance.net/dev/api/libraries), [Source code](https://github.com/aravenel/behance_python)
+- Behance Python SDK by aravenel
+    - [Documentation](https://www.behance.net/dev/api/libraries)
+    - [Source code](https://github.com/aravenel/behance_python)
+    - [Author: @aravenel](https://github.com/aravenel)
+    - 24 ⭐
 
 
 ## 🗄️ Categories:

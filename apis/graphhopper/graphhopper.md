@@ -17,45 +17,89 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Swift
-- Graphhopper Swift SDK by Graphhopper: [Documentation](https://github.com/graphhopper/directions-api-clients-route-optimization/tree/master/swift)
+- Graphhopper Swift SDK by Graphhopper
+    - [Documentation](https://github.com/graphhopper/directions-api-clients-route-optimization/tree/master/swift)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Ruby
-- Graphhopper Ruby SDK by Graphhopper: [Documentation](https://github.com/graphhopper/directions-api-clients-route-optimization/tree/master/ruby)
+- Graphhopper Ruby SDK by Graphhopper
+    - [Documentation](https://github.com/graphhopper/directions-api-clients-route-optimization/tree/master/ruby)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Python
-- Graphhopper Python SDK by Graphhopper: [Documentation](https://github.com/graphhopper/directions-api-clients-route-optimization/tree/master/python)
+- Graphhopper Python SDK by Graphhopper
+    - [Documentation](https://github.com/graphhopper/directions-api-clients-route-optimization/tree/master/python)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### PERL
-- Graphhopper Perl SDK by Graphhopper: [Documentation](https://github.com/graphhopper/directions-api-clients-route-optimization/tree/master/perl)
+- Graphhopper Perl SDK by Graphhopper
+    - [Documentation](https://github.com/graphhopper/directions-api-clients-route-optimization/tree/master/perl)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Objective-C
-- Graphhopper ObjectiveC SDK by Graphhopper: [Documentation](https://github.com/graphhopper/directions-api-clients-route-optimization/tree/master/objc)
+- Graphhopper ObjectiveC SDK by Graphhopper
+    - [Documentation](https://github.com/graphhopper/directions-api-clients-route-optimization/tree/master/objc)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Java
-- Graphhopper Java SDK by Graphhopper: [Documentation](https://github.com/graphhopper/directions-api-clients-route-optimization/tree/master/java)
+- Graphhopper Java SDK by Graphhopper
+    - [Documentation](https://github.com/graphhopper/directions-api-clients-route-optimization/tree/master/java)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- GraphHopper Directions Java Library by GraphHopper: [Documentation](https://github.com/graphhopper/directions-api-java-client)
+- GraphHopper Directions Java Library by GraphHopper
+    - [Documentation](https://github.com/graphhopper/directions-api-java-client)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 27 ⭐
 
 ### Haskell
-- Graphhopper Haskell SDK by Graphhopper: [Documentation](https://github.com/graphhopper/directions-api-clients-route-optimization/tree/master/haskell)
+- Graphhopper Haskell SDK by Graphhopper
+    - [Documentation](https://github.com/graphhopper/directions-api-clients-route-optimization/tree/master/haskell)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Go
-- Graphhopper Go SDK by Graphhopper: [Documentation](https://github.com/graphhopper/directions-api-clients-route-optimization/tree/master/go)
+- Graphhopper Go SDK by Graphhopper
+    - [Documentation](https://github.com/graphhopper/directions-api-clients-route-optimization/tree/master/go)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Dart
-- Graphhopper Dart SDK by Graphhopper: [Documentation](https://github.com/graphhopper/directions-api-clients-route-optimization/tree/master/dart)
+- Graphhopper Dart SDK by Graphhopper
+    - [Documentation](https://github.com/graphhopper/directions-api-clients-route-optimization/tree/master/dart)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Clojure
-- Graphhopper Clojure SDK by Graphhopper: [Documentation](https://github.com/graphhopper/directions-api-clients-route-optimization/tree/master/clojure)
+- Graphhopper Clojure SDK by Graphhopper
+    - [Documentation](https://github.com/graphhopper/directions-api-clients-route-optimization/tree/master/clojure)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### C#
-- Graphhopper CSharp SDK by Graphhopper: [Documentation](https://github.com/graphhopper/directions-api-clients-route-optimization/tree/master/csharp/src/IO.Swagger.Test)
+- Graphhopper CSharp SDK by Graphhopper
+    - [Documentation](https://github.com/graphhopper/directions-api-clients-route-optimization/tree/master/csharp/src/IO.Swagger.Test)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### PHP
-- Graphhopper PHP SDK by Graphhopper: [Documentation](https://github.com/graphhopper/directions-api-clients-route-optimization/tree/master/php/SwaggerClient-php/test)
+- Graphhopper PHP SDK by Graphhopper
+    - [Documentation](https://github.com/graphhopper/directions-api-clients-route-optimization/tree/master/php/SwaggerClient-php/test)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### JavaScript
-- GraphHopper Directions JavaScript Library by GraphHopper: [Documentation](https://github.com/graphhopper/directions-api-js-client)
+- GraphHopper Directions JavaScript Library by GraphHopper
+    - [Documentation](https://github.com/graphhopper/directions-api-js-client)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 73 ⭐
 
 
 ## 🗄️ Categories:

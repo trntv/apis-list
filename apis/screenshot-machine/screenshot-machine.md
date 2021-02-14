@@ -17,10 +17,18 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Node.js
-- ScreenshotMachine Node SDK by Kevin Moritz: [Documentation](https://github.com/mayorbyrne/node-screenshot-machine/blob/master/README.md), [Source code](https://github.com/mayorbyrne/node-screenshot-machine)
+- ScreenshotMachine Node SDK by Kevin Moritz
+    - [Documentation](https://github.com/mayorbyrne/node-screenshot-machine/blob/master/README.md)
+    - [Source code](https://github.com/mayorbyrne/node-screenshot-machine)
+    - [Author: @mayorbyrne](https://github.com/mayorbyrne)
+    - 2 ⭐
 
 ### Ruby
-- ScreenshotMachine Ruby SDK by Tupalo: [Documentation](https://github.com/tupalo/screenshot_machine/blob/master/README.md), [Source code](https://github.com/tupalo/screenshot_machine)
+- ScreenshotMachine Ruby SDK by Tupalo
+    - [Documentation](https://github.com/tupalo/screenshot_machine/blob/master/README.md)
+    - [Source code](https://github.com/tupalo/screenshot_machine)
+    - [Add author ➕]
+    - 2 ⭐
 
 
 ## 🗄️ Categories:

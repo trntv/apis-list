@@ -20,10 +20,18 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Python
-- ThingSpeak Python SDK by Chris Lee: [Documentation](https://github.com/sirleech/thingspeak)
+- ThingSpeak Python SDK by Chris Lee
+    - [Documentation](https://github.com/sirleech/thingspeak)
+    - [Add source code URL ➕]()
+    - [Author: @sirleech](https://github.com/sirleech)
+    - 20 ⭐
 
 ### Ruby
-- ThingSpeak Ruby SDK by ThingSpeak: [Documentation](https://github.com/iobridge/thingspeak)
+- ThingSpeak Ruby SDK by ThingSpeak
+    - [Documentation](https://github.com/iobridge/thingspeak)
+    - [Add source code URL ➕]()
+    - [Author: @iobridge](https://github.com/iobridge)
+    - 962 ⭐
 
 
 ## 🗄️ Categories:

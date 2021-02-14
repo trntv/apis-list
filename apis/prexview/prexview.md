@@ -20,16 +20,32 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Python
-- PrexView Python SDK by PrexView: [Documentation](https://github.com/prexview/prexview-python/blob/master/README.md), [Source code](https://github.com/prexview/prexview-python)
+- PrexView Python SDK by PrexView
+    - [Documentation](https://github.com/prexview/prexview-python/blob/master/README.md)
+    - [Source code](https://github.com/prexview/prexview-python)
+    - [Add author ➕]
+    - 7 ⭐
 
 ### Ruby
-- PrexView Ruby SDK by PrexView: [Documentation](http://www.rubydoc.info/gems/PrexView/1.0.0), [Source code](https://github.com/prexview/prexview-ruby)
+- PrexView Ruby SDK by PrexView
+    - [Documentation](http://www.rubydoc.info/gems/PrexView/1.0.0)
+    - [Source code](https://github.com/prexview/prexview-ruby)
+    - [Add author ➕]
+    - 1 ⭐
 
 ### PHP
-- PrexView PHP SDK by PrexView: [Documentation](https://github.com/prexview/prexview-php/blob/master/README.md), [Source code](https://github.com/prexview/prexview-php)
+- PrexView PHP SDK by PrexView
+    - [Documentation](https://github.com/prexview/prexview-php/blob/master/README.md)
+    - [Source code](https://github.com/prexview/prexview-php)
+    - [Add author ➕]
+    - 4 ⭐
 
 ### Node.js
-- PrexView NodeJS SDK by PrexView: [Documentation](https://github.com/prexview/prexview-js/blob/master/Readme.md), [Source code](https://github.com/prexview/prexview-js)
+- PrexView NodeJS SDK by PrexView
+    - [Documentation](https://github.com/prexview/prexview-js/blob/master/Readme.md)
+    - [Source code](https://github.com/prexview/prexview-js)
+    - [Add author ➕]
+    - 21 ⭐
 
 
 ## 🗄️ Categories:

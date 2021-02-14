@@ -20,23 +20,51 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Node.js
-- Cronofy NodeJS SDK: [Documentation](https://www.cronofy.com/blog/introducing-the-node-js-sdk-for-the-cronofy-api/), [Source code](https://github.com/cronofy/cronofy-node)
+- Cronofy NodeJS SDK
+    - [Documentation](https://www.cronofy.com/blog/introducing-the-node-js-sdk-for-the-cronofy-api/)
+    - [Source code](https://github.com/cronofy/cronofy-node)
+    - [Add author ➕]
+    - 41 ⭐
 
 ### PHP
-- Cronofy PHP SDK: [Documentation](https://www.cronofy.com/blog/introducing-the-php-sdk-for-the-cronofy-calendar-api/), [Source code](https://github.com/cronofy/cronofy-php)
+- Cronofy PHP SDK
+    - [Documentation](https://www.cronofy.com/blog/introducing-the-php-sdk-for-the-cronofy-calendar-api/)
+    - [Source code](https://github.com/cronofy/cronofy-php)
+    - [Add author ➕]
+    - 18 ⭐
 
--  Cronofy PHP SDK by Stephen Binns: [Documentation](https://github.com/cronofy/cronofy-php)
+-  Cronofy PHP SDK by Stephen Binns
+    - [Documentation](https://github.com/cronofy/cronofy-php)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 18 ⭐
 
 ### Python
-- Cronofy Python SDK: [Documentation](https://www.cronofy.com/blog/python-sdk/), [Source code](https://github.com/cronofy/pycronofy)
+- Cronofy Python SDK
+    - [Documentation](https://www.cronofy.com/blog/python-sdk/)
+    - [Source code](https://github.com/cronofy/pycronofy)
+    - [Add author ➕]
+    - 14 ⭐
 
-- Cronofy Python SDK by nikola: [Documentation](https://github.com/Saberr/cronofy-python)
+- Cronofy Python SDK by nikola
+    - [Documentation](https://github.com/Saberr/cronofy-python)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 1 ⭐
 
 ### JavaScript
-- Cronofy JavaScript SDK by Brett Warner: [Documentation](https://github.com/warbrett/node-cronofy)
+- Cronofy JavaScript SDK by Brett Warner
+    - [Documentation](https://github.com/warbrett/node-cronofy)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 41 ⭐
 
 ### Ruby
-- Cronofy Ruby SDK by Cronofy: [Documentation](https://www.cronofy.com/developers/api-libraries/), [Source code](https://github.com/cronofy/cronofy-ruby)
+- Cronofy Ruby SDK by Cronofy
+    - [Documentation](https://www.cronofy.com/developers/api-libraries/)
+    - [Source code](https://github.com/cronofy/cronofy-ruby)
+    - [Add author ➕]
+    - 22 ⭐
 
 
 ## 🗄️ Categories:

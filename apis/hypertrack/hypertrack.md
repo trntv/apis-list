@@ -17,17 +17,33 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Python
-- HyperTrack Python SDK by HyperTrack: [Documentation](https://github.com/hypertrack/hypertrack-python)
+- HyperTrack Python SDK by HyperTrack
+    - [Documentation](https://github.com/hypertrack/hypertrack-python)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 2 ⭐
 
 ### Objective-C
-- HyperTrack iOS Consumer Objective-C SDK by HyperTrack: [Documentation](https://docs.hypertrack.com/v3/sdks/ios/installing.html)
+- HyperTrack iOS Consumer Objective-C SDK by HyperTrack
+    - [Documentation](https://docs.hypertrack.com/v3/sdks/ios/installing.html)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- HyperTrack iOS Driver Objective-C SDK by HyperTrack: [Documentation](http://docs.hypertrack.io/docs/getting-started-ios-driver)
+- HyperTrack iOS Driver Objective-C SDK by HyperTrack
+    - [Documentation](http://docs.hypertrack.io/docs/getting-started-ios-driver)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Java
-- HyperTrack Android Consumer Java SDK by HyperTrack: [Documentation](http://docs.hypertrack.io/docs/getting-started-android-consumer), [Source code](http://docs.hypertrack.io/docs/getting-started-android-consumer)
+- HyperTrack Android Consumer Java SDK by HyperTrack
+    - [Documentation](http://docs.hypertrack.io/docs/getting-started-android-consumer)
+    - [Source code](http://docs.hypertrack.io/docs/getting-started-android-consumer)
+    - [Add author ➕]
 
-- HyperTrack Android Driver Java SDK by HyperTrack: [Documentation](http://docs.hypertrack.io/docs/getting-started-android-driver), [Source code](http://docs.hypertrack.io/docs/getting-started-android-driver)
+- HyperTrack Android Driver Java SDK by HyperTrack
+    - [Documentation](http://docs.hypertrack.io/docs/getting-started-android-driver)
+    - [Source code](http://docs.hypertrack.io/docs/getting-started-android-driver)
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

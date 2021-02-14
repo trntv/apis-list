@@ -20,33 +20,71 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Node.js
-- Google AdWords NodeJS SDK by Sello: [Documentation](https://www.npmjs.com/package/@sellorex/adwords-api-vu), [Source code](https://github.com/sello-rex/adwords-api)
+- Google AdWords NodeJS SDK by Sello
+    - [Documentation](https://www.npmjs.com/package/@sellorex/adwords-api-vu)
+    - [Source code](https://github.com/sello-rex/adwords-api)
+    - [Add author ➕]
 
 ### PHP
-- Googleads PHP SDK by Google: [Documentation](https://github.com/googleads/googleads-php-lib)
+- Googleads PHP SDK by Google
+    - [Documentation](https://github.com/googleads/googleads-php-lib)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 567 ⭐
 
-- Google APIlity Library: [Documentation]()
+- Google APIlity Library
+    - [Documentation]()
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- Google APIlity Library: [Documentation]()
+- Google APIlity Library
+    - [Documentation]()
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Python
-- Googleads Python SDK by Google: [Documentation](https://github.com/googleads/googleads-python-lib)
+- Googleads Python SDK by Google
+    - [Documentation](https://github.com/googleads/googleads-python-lib)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 535 ⭐
 
 ### Ruby
-- Google API Ads Ruby SDK by Google: [Documentation](https://github.com/googleads/google-api-ads-ruby)
+- Google API Ads Ruby SDK by Google
+    - [Documentation](https://github.com/googleads/google-api-ads-ruby)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 282 ⭐
 
-- Ruby Gem for Google AdWords: [Documentation](http://code.google.com/p/google-api-adwords-ruby/)
+- Ruby Gem for Google AdWords
+    - [Documentation](http://code.google.com/p/google-api-adwords-ruby/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Swift
-- Google Mobile Ads Swift SDK by Google: [Documentation](https://github.com/googleads/googleads-mobile-ios-examples/tree/master/Swift)
+- Google Mobile Ads Swift SDK by Google
+    - [Documentation](https://github.com/googleads/googleads-mobile-ios-examples/tree/master/Swift)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 699 ⭐
 
 ### Objective-C
-- Google Mobile Ads Objective-C SDK by Google : [Documentation](https://developers.google.com/admob/ios/download), [Source code](https://github.com/googleads/googleads-mobile-ios-examples/tree/master/Objective-C)
+- Google Mobile Ads Objective-C SDK by Google 
+    - [Documentation](https://developers.google.com/admob/ios/download)
+    - [Source code](https://github.com/googleads/googleads-mobile-ios-examples/tree/master/Objective-C)
+    - [Add author ➕]
+    - 699 ⭐
 
-- Google AdWords Conversion Tracking and Remarketing iOS SDK by Google: [Documentation](https://developers.google.com/app-conversion-tracking/ios/)
+- Google AdWords Conversion Tracking and Remarketing iOS SDK by Google
+    - [Documentation](https://developers.google.com/app-conversion-tracking/ios/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Java
-- Google AdWords Conversion Tracking and Remarketing Android SDK by Google: [Documentation](https://developers.google.com/app-conversion-tracking/android/)
+- Google AdWords Conversion Tracking and Remarketing Android SDK by Google
+    - [Documentation](https://developers.google.com/app-conversion-tracking/android/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

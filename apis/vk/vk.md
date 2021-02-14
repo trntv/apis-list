@@ -20,18 +20,38 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Node.js
-- VK Node.js SDK by VK: [Documentation](https://github.com/VKCOM/node-vk-call)
+- VK Node.js SDK by VK
+    - [Documentation](https://github.com/VKCOM/node-vk-call)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 31 ⭐
 
 ### Java
-- VK Android SDK by VK: [Documentation](https://github.com/VKCOM/vk-android-sdk)
+- VK Android SDK by VK
+    - [Documentation](https://github.com/VKCOM/vk-android-sdk)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 388 ⭐
 
-- VK Java SDK by VK: [Documentation](https://github.com/VKCOM/vk-java-sdk)
+- VK Java SDK by VK
+    - [Documentation](https://github.com/VKCOM/vk-java-sdk)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 250 ⭐
 
 ### C#
-- VK Windows Phone SDK by VK: [Documentation](https://github.com/VKCOM/vk-windowsphone-sdk)
+- VK Windows Phone SDK by VK
+    - [Documentation](https://github.com/VKCOM/vk-windowsphone-sdk)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 21 ⭐
 
 ### Objective-C
-- VK iOS SDK by VK: [Documentation](https://github.com/VKCOM/vk-ios-sdk)
+- VK iOS SDK by VK
+    - [Documentation](https://github.com/VKCOM/vk-ios-sdk)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 285 ⭐
 
 
 ## 🗄️ Categories:

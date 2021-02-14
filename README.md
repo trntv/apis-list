@@ -888,7 +888,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [PunkAPI](https://github.com/apis-list/apis-list/blob/main/apis/punkapi/punkapi.md) - Brewdog&#x27;s DIY Dog as a searchable, filterable API
 - [Recipe Puppy](https://github.com/apis-list/apis-list/blob/main/apis/recipe-puppy/recipe-puppy.md) - Recipe Puppy API lets you search through recipe puppy database of over a million recipes by keyword and/or by search query
 - [Spoonacular Food API](https://github.com/apis-list/apis-list/blob/main/apis/spoonacular-food-api/spoonacular-food-api.md) - The only Food API you&#x27;ll ever need
-- [TacoFancy](https://github.com/apis-list/apis-list/blob/main/apis/tacofancy/tacofancy.md) - Making an API for https://github
+- [TacoFancy API](https://github.com/apis-list/apis-list/blob/main/apis/tacofancy/tacofancy.md) - API for community-driven, object-oriented taco recipe repo - https://github 🆓
 - [The Meal Db](https://github.com/apis-list/apis-list/blob/main/apis/the-meal-db/the-meal-db.md) - This food API is free to use and can get you recipes, food details, food names , meals by category, food images and more
 - [The Report of the Week](https://github.com/apis-list/apis-list/blob/main/apis/the-report-of-the-week/the-report-of-the-week.md) - API of The Report Of The Week Reviews
 - [TheCocktailDB](https://github.com/apis-list/apis-list/blob/main/apis/thecocktaildb/thecocktaildb.md) - An open, crowd-sourced database of drinks and cocktails from around the world
@@ -937,7 +937,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Ron Swanson Quotes](https://github.com/apis-list/apis-list/blob/main/apis/ron-swanson-quotes/ron-swanson-quotes.md) - Node
 - [SHOUTCLOUD](https://github.com/apis-list/apis-list/blob/main/apis/shoutcloud/shoutcloud.md) - ALL CAPS AS A SERVICE
 - [Superhero Api](https://github.com/apis-list/apis-list/blob/main/apis/superhero-api/superhero-api.md) - Biography
-- [TacoFancy](https://github.com/apis-list/apis-list/blob/main/apis/tacofancy/tacofancy.md) - Making an API for https://github
+- [TacoFancy API](https://github.com/apis-list/apis-list/blob/main/apis/tacofancy/tacofancy.md) - API for community-driven, object-oriented taco recipe repo - https://github 🆓
 - [The Cat Api](https://github.com/apis-list/apis-list/blob/main/apis/the-cat-api/the-cat-api.md) - A public service API all about cat pictures
 - [The Dog Api](https://github.com/apis-list/apis-list/blob/main/apis/the-dog-api/the-dog-api.md) - An API all about dogs
 - [They Said So](https://github.com/apis-list/apis-list/blob/main/apis/they-said-so/they-said-so.md) - They Said So Quotes API offers a complete feature rich REST API access to its quotes platform

@@ -20,7 +20,11 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### JavaScript
-- Mapstraction JavaScript SDK: [Documentation](http://mapstraction.com/), [Source code](https://github.com/mapstraction/mxn)
+- Mapstraction JavaScript SDK
+    - [Documentation](http://mapstraction.com/)
+    - [Source code](https://github.com/mapstraction/mxn)
+    - [Add author ➕]
+    - 579 ⭐
 
 
 ## 🗄️ Categories:

@@ -17,7 +17,11 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Python
-- UK Police Python SDK by Rock Kitchen Harris: [Documentation](https://github.com/rkhleics/police-api-client-python/)
+- UK Police Python SDK by Rock Kitchen Harris
+    - [Documentation](https://github.com/rkhleics/police-api-client-python/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 25 ⭐
 
 
 ## 🗄️ Categories:

@@ -17,17 +17,35 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### PERL
-- Shipment Perl SDK by Andrew Baerg: [Documentation](https://github.com/pullingshots/Shipment)
+- Shipment Perl SDK by Andrew Baerg
+    - [Documentation](https://github.com/pullingshots/Shipment)
+    - [Add source code URL ➕]()
+    - [Author: @pullingshots](https://github.com/pullingshots)
+    - 17 ⭐
 
 ### Python
-- python-ship SDK by benweatherman: [Documentation](https://github.com/benweatherman/python-ship)
+- python-ship SDK by benweatherman
+    - [Documentation](https://github.com/benweatherman/python-ship)
+    - [Add source code URL ➕]()
+    - [Author: @benweatherman](https://github.com/benweatherman)
+    - 43 ⭐
 
 ### PHP
-- Unofficial UPS PHP SDK by xujiajun: [Documentation](https://packagist.org/packages/xujiajun/ups-api), [Source code](https://github.com/xujiajun/php-ups-api)
+- Unofficial UPS PHP SDK by xujiajun
+    - [Documentation](https://packagist.org/packages/xujiajun/ups-api)
+    - [Source code](https://github.com/xujiajun/php-ups-api)
+    - [Author: @xujiajun](https://github.com/xujiajun)
 
-- UPS PHP Library php-ups-api: [Documentation](https://github.com/gabrielbull/php-ups-api)
+- UPS PHP Library php-ups-api
+    - [Documentation](https://github.com/gabrielbull/php-ups-api)
+    - [Add source code URL ➕]()
+    - [Author: @gabrielbull](https://github.com/gabrielbull)
+    - 367 ⭐
 
-- UPS Shipping PHP Library php-ups-api: [Documentation](https://code.google.com/p/php-ups-api/)
+- UPS Shipping PHP Library php-ups-api
+    - [Documentation](https://code.google.com/p/php-ups-api/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

@@ -20,7 +20,11 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### PHP
-- Zomato PHP SDK by Ruben Arakelyan: [Documentation](https://packagist.org/packages/rubenarakelyan/zomato-api-php), [Source code](https://github.com/rubenarakelyan/zomato-api-php)
+- Zomato PHP SDK by Ruben Arakelyan
+    - [Documentation](https://packagist.org/packages/rubenarakelyan/zomato-api-php)
+    - [Source code](https://github.com/rubenarakelyan/zomato-api-php)
+    - [Author: @rubenarakelyan](https://github.com/rubenarakelyan)
+    - 3 ⭐
 
 
 ## 🗄️ Categories:

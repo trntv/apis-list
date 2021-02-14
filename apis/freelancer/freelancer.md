@@ -20,13 +20,25 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Kotlin
-- Freelancer Android SDK: [Documentation](https://github.com/freelancer/freelancer-sdk-android)
+- Freelancer Android SDK
+    - [Documentation](https://github.com/freelancer/freelancer-sdk-android)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 19 ⭐
 
 ### Python
-- Freelancer Python SDK : [Documentation](https://github.com/freelancer/freelancer-sdk-python)
+- Freelancer Python SDK 
+    - [Documentation](https://github.com/freelancer/freelancer-sdk-python)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 41 ⭐
 
 ### JavaScript, Node.js
-- JSON Placeholder Node.js Library by typicode: [Documentation](https://github.com/typicode/json-server)
+- JSON Placeholder Node.js Library by typicode
+    - [Documentation](https://github.com/typicode/json-server)
+    - [Add source code URL ➕]()
+    - [Author: @typicode](https://github.com/typicode)
+    - 52187 ⭐
 
 
 ## 🗄️ Categories:

@@ -17,13 +17,25 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Java
-- TheAudioDB Java SDK by Guillaume Serre: [Documentation](https://github.com/mozvip/theaudiodb-client)
+- TheAudioDB Java SDK by Guillaume Serre
+    - [Documentation](https://github.com/mozvip/theaudiodb-client)
+    - [Add source code URL ➕]()
+    - [Author: @mozvip](https://github.com/mozvip)
+    - 2 ⭐
 
 ### .Net
-- TheAudioDB .NET SDK by BigGranu: [Documentation](https://github.com/BigGranu/TheAudioDB)
+- TheAudioDB .NET SDK by BigGranu
+    - [Documentation](https://github.com/BigGranu/TheAudioDB)
+    - [Add source code URL ➕]()
+    - [Author: @BigGranu](https://github.com/BigGranu)
+    - 4 ⭐
 
 ### C#
-- MusicApiCollection C# SDK by BigGranu: [Documentation](https://github.com/BigGranu/MusicApiCollection)
+- MusicApiCollection C# SDK by BigGranu
+    - [Documentation](https://github.com/BigGranu/MusicApiCollection)
+    - [Add source code URL ➕]()
+    - [Author: @BigGranu](https://github.com/BigGranu)
+    - 15 ⭐
 
 
 ## 🗄️ Categories:

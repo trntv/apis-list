@@ -20,13 +20,25 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### .Net
-- YNAB PowerShell SDK by Connor Griffin: [Documentation](https://api.youneedabudget.com/#clients-community), [Source code](https://github.com/ConnorGriffin/Posh-YNAB)
+- YNAB PowerShell SDK by Connor Griffin
+    - [Documentation](https://api.youneedabudget.com/#clients-community)
+    - [Source code](https://github.com/ConnorGriffin/Posh-YNAB)
+    - [Author: @ConnorGriffin](https://github.com/ConnorGriffin)
+    - 12 ⭐
 
 ### JavaScript
-- YNAB JavaScript SDK: [Documentation](https://api.youneedabudget.com/#client-javascript), [Source code](https://github.com/ynab/ynab-sdk-js)
+- YNAB JavaScript SDK
+    - [Documentation](https://api.youneedabudget.com/#client-javascript)
+    - [Source code](https://github.com/ynab/ynab-sdk-js)
+    - [Add author ➕]
+    - 164 ⭐
 
 ### Ruby
-- YNAB Ruby SDK: [Documentation](https://api.youneedabudget.com/#client-ruby), [Source code](https://github.com/ynab/ynab-sdk-ruby)
+- YNAB Ruby SDK
+    - [Documentation](https://api.youneedabudget.com/#client-ruby)
+    - [Source code](https://github.com/ynab/ynab-sdk-ruby)
+    - [Add author ➕]
+    - 49 ⭐
 
 
 ## 🗄️ Categories:

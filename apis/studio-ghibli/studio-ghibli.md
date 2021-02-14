@@ -17,7 +17,11 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Go
-- Studio Ghibli Go SDK by Ryan Christiani: [Documentation](https://github.com/Rchristiani/totoro)
+- Studio Ghibli Go SDK by Ryan Christiani
+    - [Documentation](https://github.com/Rchristiani/totoro)
+    - [Add source code URL ➕]()
+    - [Author: @Rchristiani](https://github.com/Rchristiani)
+    - 4 ⭐
 
 
 ## 🗄️ Categories:

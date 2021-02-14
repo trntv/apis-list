@@ -20,7 +20,11 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Python
-- Weatherbit Python SDK: [Documentation](https://github.com/weatherbit/weatherbit-python)
+- Weatherbit Python SDK
+    - [Documentation](https://github.com/weatherbit/weatherbit-python)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 18 ⭐
 
 
 ## 🗄️ Categories:

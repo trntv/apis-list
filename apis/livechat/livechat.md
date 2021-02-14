@@ -20,7 +20,11 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Ruby
--  LiveChat Ruby Library by LiveChat: [Documentation](https://developers.livechatinc.com/rest-api/#libraries), [Source code](https://github.com/cxz/livechat_client)
+-  LiveChat Ruby Library by LiveChat
+    - [Documentation](https://developers.livechatinc.com/rest-api/#libraries)
+    - [Source code](https://github.com/cxz/livechat_client)
+    - [Author: @cxz](https://github.com/cxz)
+    - 11 ⭐
 
 
 ## 🗄️ Categories:

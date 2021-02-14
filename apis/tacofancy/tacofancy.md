@@ -1,21 +1,21 @@
-# TacoFancy
+# TacoFancy API
 <p align="center">
-    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/tacofancy/logo_256x256.png" alt="TacoFancy Logo"/>
+    <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/tacofancy/logo_256x256.png" alt="TacoFancy API Logo"/>
 </p>
-Making an API for https://github. Making an API for https://github. com/sinker/tacofancy - evz/tacofancy-api
+API for community-driven, object-oriented taco recipe repo - https://github.com/sinker/tacofancy. Please fork and submit your own recipes, because the more there are, the more delicious it gets.
 
 ##  🔗 Links
-**Docs / Website**: https://github.com/evz/tacofancy-api
+**Docs / Website**: https://github.com/evz/tacofancy
 
-## 🧬 TacoFancy specification:
+## 🧬 TacoFancy API specification:
 **Type**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is TacoFancy free?
- Unknown/No 
+## 🆓 Is TacoFancy API free?
+ Yes! 
 
-## 💬 TacoFancy Discussion:
+## 💬 TacoFancy API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries

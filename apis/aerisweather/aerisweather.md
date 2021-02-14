@@ -17,26 +17,56 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Python
-- Aeris Weather Python SDK : [Documentation](https://www.aerisweather.com/support/docs/toolkits/aeris-python-sdk/)
+- Aeris Weather Python SDK 
+    - [Documentation](https://www.aerisweather.com/support/docs/toolkits/aeris-python-sdk/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Objective-C, Swift
-- AerisWeather iOS SDK: [Documentation](https://www.aerisweather.com/support/docs/toolkits/aeris-ios-sdk/), [Source code](https://github.com/aerisweather/Aeris-iOS-Library)
+- AerisWeather iOS SDK
+    - [Documentation](https://www.aerisweather.com/support/docs/toolkits/aeris-ios-sdk/)
+    - [Source code](https://github.com/aerisweather/Aeris-iOS-Library)
+    - [Add author ➕]
+    - 21 ⭐
 
 ### JavaScript, xml
-- AerisWeather Interactive Maps JavaScript SDK by AerisWeather: [Documentation](http://www.aerisweather.com/support/docs/toolkits/aeris-interactive-maps/)
+- AerisWeather Interactive Maps JavaScript SDK by AerisWeather
+    - [Documentation](http://www.aerisweather.com/support/docs/toolkits/aeris-interactive-maps/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Java
-- AerisWeather Android SDK by AerisWeather: [Documentation](https://github.com/aerisweather/AerisAndroidSDK)
+- AerisWeather Android SDK by AerisWeather
+    - [Documentation](https://github.com/aerisweather/AerisAndroidSDK)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 11 ⭐
 
-- AerisWeather Java SDK by AerisWeather: [Documentation](http://www.aerisweather.com/support/docs/toolkits/aeris-android-sdk/), [Source code](https://github.com/aerisweather/AerisAndroidLibrary)
+- AerisWeather Java SDK by AerisWeather
+    - [Documentation](http://www.aerisweather.com/support/docs/toolkits/aeris-android-sdk/)
+    - [Source code](https://github.com/aerisweather/AerisAndroidLibrary)
+    - [Add author ➕]
+    - 11 ⭐
 
 ### Objective-C
-- AerisWeather iOS SDK by AerisWeather: [Documentation](https://github.com/aerisweather/Aeris-iOS-Library)
+- AerisWeather iOS SDK by AerisWeather
+    - [Documentation](https://github.com/aerisweather/Aeris-iOS-Library)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 21 ⭐
 
-- AerisWeather Objective-C SDK by AerisWeather: [Documentation](http://www.aerisweather.com/support/docs/toolkits/), [Source code](https://github.com/aerisweather/Aeris-iOS-Library)
+- AerisWeather Objective-C SDK by AerisWeather
+    - [Documentation](http://www.aerisweather.com/support/docs/toolkits/)
+    - [Source code](https://github.com/aerisweather/Aeris-iOS-Library)
+    - [Add author ➕]
+    - 21 ⭐
 
 ### JavaScript
-- AerisWeather JavaScript SDK by AerisWeather: [Documentation](http://www.aerisweather.com/support/docs/toolkits/aeris-js-sdk/), [Source code](https://github.com/aerisweather/aerisjs)
+- AerisWeather JavaScript SDK by AerisWeather
+    - [Documentation](http://www.aerisweather.com/support/docs/toolkits/aeris-js-sdk/)
+    - [Source code](https://github.com/aerisweather/aerisjs)
+    - [Add author ➕]
+    - 54 ⭐
 
 
 ## 🗄️ Categories:

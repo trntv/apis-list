@@ -17,7 +17,11 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Python
-- VirusTotal Threat Intelligence Python SDK by Yelp: [Documentation](https://github.com/Yelp/threat_intel), [Source code](https://github.com/Yelp/threat_intel#virustotal-api)
+- VirusTotal Threat Intelligence Python SDK by Yelp
+    - [Documentation](https://github.com/Yelp/threat_intel)
+    - [Source code](https://github.com/Yelp/threat_intel#virustotal-api)
+    - [Add author ➕]
+    - 237 ⭐
 
 
 ## 🗄️ Categories:

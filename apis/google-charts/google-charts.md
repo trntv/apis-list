@@ -20,7 +20,10 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### JavaScript
-- Table2Charts: [Documentation](http://labs.umaniac.com/projects/table2charts/)
+- Table2Charts
+    - [Documentation](http://labs.umaniac.com/projects/table2charts/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

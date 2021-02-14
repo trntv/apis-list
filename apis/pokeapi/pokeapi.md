@@ -20,16 +20,31 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Ruby
-- Pokéapi Ruby Library Pokegem: [Documentation](https://github.com/baweaver/pokegem)
+- Pokéapi Ruby Library Pokegem
+    - [Documentation](https://github.com/baweaver/pokegem)
+    - [Add source code URL ➕]()
+    - [Author: @baweaver](https://github.com/baweaver)
+    - 24 ⭐
 
 ### Java
-- Pokéapi Java Library PokeJava: [Documentation](https://github.com/mickeyjk/PokeJava)
+- Pokéapi Java Library PokeJava
+    - [Documentation](https://github.com/mickeyjk/PokeJava)
+    - [Add source code URL ➕]()
+    - [Author: @mickeyjk](https://github.com/mickeyjk)
+    - 23 ⭐
 
 ### .Net
-- Pokéapi .NET Library PokeApi.NET: [Documentation](https://github.com/PoroCYon/PokeApi.NET)
+- Pokéapi .NET Library PokeApi.NET
+    - [Documentation](https://github.com/PoroCYon/PokeApi.NET)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Python
-- Pokéapi Python Library Pykemon: [Documentation](http://pykemon.readthedocs.org/en/latest/), [Source code](https://github.com/phalt/pykemon)
+- Pokéapi Python Library Pykemon
+    - [Documentation](http://pykemon.readthedocs.org/en/latest/)
+    - [Source code](https://github.com/phalt/pykemon)
+    - [Add author ➕]
+    - 93 ⭐
 
 
 ## 🗄️ Categories:

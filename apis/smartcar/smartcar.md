@@ -20,34 +20,82 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Java
-- Smartcar Connect Android SDK: [Documentation](https://github.com/smartcar/android-sdk), [Source code](https://smartcar.github.io/android-sdk/)
+- Smartcar Connect Android SDK
+    - [Documentation](https://github.com/smartcar/android-sdk)
+    - [Source code](https://smartcar.github.io/android-sdk/)
+    - [Add author ➕]
+    - 7 ⭐
 
-- Smartcar Java SDK : [Documentation](https://smartcar.github.io/java-sdk), [Source code](https://github.com/smartcar/java-sdk)
+- Smartcar Java SDK 
+    - [Documentation](https://smartcar.github.io/java-sdk)
+    - [Source code](https://github.com/smartcar/java-sdk)
+    - [Add author ➕]
+    - 6 ⭐
 
-- Smartcar Android SDK : [Documentation](https://smartcar.com/docs/integration-guides/android/introduction), [Source code](https://github.com/smartcar/android-sdk)
+- Smartcar Android SDK 
+    - [Documentation](https://smartcar.com/docs/integration-guides/android/introduction)
+    - [Source code](https://github.com/smartcar/android-sdk)
+    - [Add author ➕]
+    - 7 ⭐
 
 ### Objective-C
--  Smartcar Connect iOS SDK: [Documentation](https://github.com/smartcar/ios-sdk)
+-  Smartcar Connect iOS SDK
+    - [Documentation](https://github.com/smartcar/ios-sdk)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 6 ⭐
 
 ### JavaScript
-- Smartcar Connect JavaScript SDK: [Documentation](https://github.com/smartcar/javascript-sdk)
+- Smartcar Connect JavaScript SDK
+    - [Documentation](https://github.com/smartcar/javascript-sdk)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 3 ⭐
 
-- Smartcar JavaScript SDK: [Documentation](https://smartcar.com/docs/), [Source code](https://github.com/smartcar/javascript-sdk)
+- Smartcar JavaScript SDK
+    - [Documentation](https://smartcar.com/docs/)
+    - [Source code](https://github.com/smartcar/javascript-sdk)
+    - [Add author ➕]
+    - 3 ⭐
 
-- Smartcar React SDK : [Documentation](https://smartcar.com/docs/integration-guides/react/introduction), [Source code](https://github.com/smartcar/getting-started-javascript-sdk-react)
+- Smartcar React SDK 
+    - [Documentation](https://smartcar.com/docs/integration-guides/react/introduction)
+    - [Source code](https://github.com/smartcar/getting-started-javascript-sdk-react)
+    - [Add author ➕]
+    - 1 ⭐
 
-- Smartcar JavaScript Client OAuth SDK : [Documentation](https://github.com/smartcar/javascript-sdk/blob/master/README.md), [Source code](https://github.com/smartcar/javascript-sdk)
+- Smartcar JavaScript Client OAuth SDK 
+    - [Documentation](https://github.com/smartcar/javascript-sdk/blob/master/README.md)
+    - [Source code](https://github.com/smartcar/javascript-sdk)
+    - [Add author ➕]
+    - 3 ⭐
 
 ### Node.js
-- Smartcar ExpressJS SDK : [Documentation](https://smartcar.com/docs/integration-guides/express/introduction), [Source code](https://github.com/smartcar/getting-started-express)
+- Smartcar ExpressJS SDK 
+    - [Documentation](https://smartcar.com/docs/integration-guides/express/introduction)
+    - [Source code](https://github.com/smartcar/getting-started-express)
+    - [Add author ➕]
+    - 1 ⭐
 
-- Smartcar NodeJS SDK : [Documentation](https://github.com/smartcar/node-sdk#readme), [Source code](https://github.com/smartcar/node-sdk)
+- Smartcar NodeJS SDK 
+    - [Documentation](https://github.com/smartcar/node-sdk#readme)
+    - [Source code](https://github.com/smartcar/node-sdk)
+    - [Add author ➕]
+    - 24 ⭐
 
 ### Python
-- Smartcar Python SDK : [Documentation](https://github.com/smartcar/python-sdk)
+- Smartcar Python SDK 
+    - [Documentation](https://github.com/smartcar/python-sdk)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 19 ⭐
 
 ### Swift
-- Smartcar iOS SDK : [Documentation](https://smartcar.com/docs/integration-guides/ios/introduction), [Source code](https://github.com/smartcar/ios-sdk)
+- Smartcar iOS SDK 
+    - [Documentation](https://smartcar.com/docs/integration-guides/ios/introduction)
+    - [Source code](https://github.com/smartcar/ios-sdk)
+    - [Add author ➕]
+    - 6 ⭐
 
 
 ## 🗄️ Categories:

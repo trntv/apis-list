@@ -20,13 +20,24 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Go
-- Lyft Go SDK by Lyft: [Documentation](https://github.com/lyft/lyft-go-sdk)
+- Lyft Go SDK by Lyft
+    - [Documentation](https://github.com/lyft/lyft-go-sdk)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 7 ⭐
 
 ### Node.js
-- Lyft NodeJS SDK by Lyft: [Documentation](https://www.npmjs.com/package/lyft-api), [Source code](https://www.npmjs.com/package/lyft-api)
+- Lyft NodeJS SDK by Lyft
+    - [Documentation](https://www.npmjs.com/package/lyft-api)
+    - [Source code](https://www.npmjs.com/package/lyft-api)
+    - [Add author ➕]
 
 ### Java
-- Lyft Android SDK by Lyft: [Documentation](https://github.com/lyft/lyft-android-sdk)
+- Lyft Android SDK by Lyft
+    - [Documentation](https://github.com/lyft/lyft-android-sdk)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 70 ⭐
 
 
 ## 🗄️ Categories:

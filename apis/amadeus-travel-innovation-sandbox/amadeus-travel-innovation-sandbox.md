@@ -17,10 +17,18 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Python
-- Amadeus Python SDK: [Documentation](https://github.com/amadeus4dev/amadeus-python), [Source code](https://pypi.org/project/amadeus/)
+- Amadeus Python SDK
+    - [Documentation](https://github.com/amadeus4dev/amadeus-python)
+    - [Source code](https://pypi.org/project/amadeus/)
+    - [Add author ➕]
+    - 75 ⭐
 
 ### Ruby
-- Amadeus Ruby SDK: [Documentation](https://github.com/amadeus4dev/amadeus-ruby), [Source code](https://rubygems.org/gems/amadeus)
+- Amadeus Ruby SDK
+    - [Documentation](https://github.com/amadeus4dev/amadeus-ruby)
+    - [Source code](https://rubygems.org/gems/amadeus)
+    - [Add author ➕]
+    - 15 ⭐
 
 
 ## 🗄️ Categories:

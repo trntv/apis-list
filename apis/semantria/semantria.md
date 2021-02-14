@@ -17,13 +17,24 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### .Net
-- Semantria .NET Sample Code: [Documentation](https://semantria.readme.io/docs/quick-start-with-net)
+- Semantria .NET Sample Code
+    - [Documentation](https://semantria.readme.io/docs/quick-start-with-net)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Ruby
-- Semantria Ruby SDK by Lexalytics: [Documentation](https://semantria.readme.io/docs/sdks), [Source code](https://github.com/Semantria/semantria-sdk/tree/master/Ruby)
+- Semantria Ruby SDK by Lexalytics
+    - [Documentation](https://semantria.readme.io/docs/sdks)
+    - [Source code](https://github.com/Semantria/semantria-sdk/tree/master/Ruby)
+    - [Add author ➕]
+    - 39 ⭐
 
 ### JavaScript
-- Semantria JavaScript SDK by Semantria: [Documentation](https://semantria.com/support/developer/docs/sdks), [Source code](https://github.com/Semantria/semantria-sdk/tree/master/JavaScript)
+- Semantria JavaScript SDK by Semantria
+    - [Documentation](https://semantria.com/support/developer/docs/sdks)
+    - [Source code](https://github.com/Semantria/semantria-sdk/tree/master/JavaScript)
+    - [Add author ➕]
+    - 39 ⭐
 
 
 ## 🗄️ Categories:

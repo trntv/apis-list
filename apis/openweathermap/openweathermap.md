@@ -17,39 +17,89 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Java
-- OpenWeatherMap Android SDK by Slobodan Antonijević: [Documentation](https://jitpack.io/#slobodanantonijevic/OpenWeatherMap-SDK), [Source code](https://github.com/slobodanantonijevic/OpenWeatherMap-SDK)
+- OpenWeatherMap Android SDK by Slobodan Antonijević
+    - [Documentation](https://jitpack.io/#slobodanantonijevic/OpenWeatherMap-SDK)
+    - [Source code](https://github.com/slobodanantonijevic/OpenWeatherMap-SDK)
+    - [Author: @slobodanantonijevic](https://github.com/slobodanantonijevic)
+    - 1 ⭐
 
-- OpenWeatherMap Java Library: [Documentation](https://github.com/migtavares/owmClient)
+- OpenWeatherMap Java Library
+    - [Documentation](https://github.com/migtavares/owmClient)
+    - [Add source code URL ➕]()
+    - [Author: @migtavares](https://github.com/migtavares)
+    - 79 ⭐
 
 ### PHP
-- TYPO3 Weather Extension PHP SDK by jweiland: [Documentation](https://github.com/jweiland-net/weather2)
+- TYPO3 Weather Extension PHP SDK by jweiland
+    - [Documentation](https://github.com/jweiland-net/weather2)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 5 ⭐
 
-- OpenWeatherMap PHP SDK by MonkeyPHP: [Documentation](https://packagist.org/packages/monkeyphp/open-weather-map), [Source code](https://github.com/monkeyphp/open-weather-map)
+- OpenWeatherMap PHP SDK by MonkeyPHP
+    - [Documentation](https://packagist.org/packages/monkeyphp/open-weather-map)
+    - [Source code](https://github.com/monkeyphp/open-weather-map)
+    - [Author: @monkeyphp](https://github.com/monkeyphp)
 
-- OpenWeatherMap PHP SDK by Christian Flach: [Documentation](https://github.com/cmfcmf/OpenWeatherMap-PHP-Api)
+- OpenWeatherMap PHP SDK by Christian Flach
+    - [Documentation](https://github.com/cmfcmf/OpenWeatherMap-PHP-Api)
+    - [Add source code URL ➕]()
+    - [Author: @cmfcmf](https://github.com/cmfcmf)
+    - 293 ⭐
 
 ### Scala
-- OpenWeatherMap Scala SDK by Snowplow: [Documentation](http://snowplowanalytics.com/blog/2015/12/13/scala-weather-0.1.0-released/), [Source code](https://github.com/snowplow/scala-weather)
+- OpenWeatherMap Scala SDK by Snowplow
+    - [Documentation](http://snowplowanalytics.com/blog/2015/12/13/scala-weather-0.1.0-released/)
+    - [Source code](https://github.com/snowplow/scala-weather)
+    - [Add author ➕]
+    - 42 ⭐
 
 ### Node.js
-- OpenWeatherMap Node-RED SDK by dceejay and Nick O&#x27;Leary: [Documentation](http://flows.nodered.org/node/node-red-node-openweathermap), [Source code](https://github.com/node-red/node-red-web-nodes/tree/master/openweathermap)
+- OpenWeatherMap Node-RED SDK by dceejay and Nick O&#x27;Leary
+    - [Documentation](http://flows.nodered.org/node/node-red-node-openweathermap)
+    - [Source code](https://github.com/node-red/node-red-web-nodes/tree/master/openweathermap)
+    - [Add author ➕]
+    - 182 ⭐
 
 ### JavaScript
-- OpenWeatherMap AngularJS SDK by Jonathan Hornung: [Documentation](https://libraries.io/bower/angular-openweathermap-api-factory), [Source code](https://github.com/JohnnyTheTank/angular-openweathermap-api-factory)
+- OpenWeatherMap AngularJS SDK by Jonathan Hornung
+    - [Documentation](https://libraries.io/bower/angular-openweathermap-api-factory)
+    - [Source code](https://github.com/JohnnyTheTank/angular-openweathermap-api-factory)
+    - [Author: @JohnnyTheTank](https://github.com/JohnnyTheTank)
+    - 10 ⭐
 
-- OpenWeatherMap JavaScript Library: [Documentation](http://weatherjs.com/)
+- OpenWeatherMap JavaScript Library
+    - [Documentation](http://weatherjs.com/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Go
-- OpenWeatherMap Go SDK by Brian Downs: [Documentation](http://briandowns.github.io/openweathermap/), [Source code](https://github.com/briandowns/openweathermap)
+- OpenWeatherMap Go SDK by Brian Downs
+    - [Documentation](http://briandowns.github.io/openweathermap/)
+    - [Source code](https://github.com/briandowns/openweathermap)
+    - [Author: @briandowns](https://github.com/briandowns)
+    - 159 ⭐
 
 ### Python
-- OpenWeatherMap Python SDK by Claudio Sparpaglione: [Documentation](https://github.com/csparpa/pyowm)
+- OpenWeatherMap Python SDK by Claudio Sparpaglione
+    - [Documentation](https://github.com/csparpa/pyowm)
+    - [Add source code URL ➕]()
+    - [Author: @csparpa](https://github.com/csparpa)
+    - 637 ⭐
 
 ### C
-- OpenWeatherMap C SDK by Pebble Hacks: [Documentation](https://github.com/pebble-hacks/owm-weather)
+- OpenWeatherMap C SDK by Pebble Hacks
+    - [Documentation](https://github.com/pebble-hacks/owm-weather)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 19 ⭐
 
 ### .Net
-- Open Weather Map .NET Library by Joan Caron: [Documentation](https://github.com/joancaron/OpenWeatherMap-Api-Net)
+- Open Weather Map .NET Library by Joan Caron
+    - [Documentation](https://github.com/joancaron/OpenWeatherMap-Api-Net)
+    - [Add source code URL ➕]()
+    - [Author: @joancaron](https://github.com/joancaron)
+    - 35 ⭐
 
 
 ## 🗄️ Categories:

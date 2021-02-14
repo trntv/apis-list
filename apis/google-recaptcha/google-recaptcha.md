@@ -20,7 +20,10 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### JavaScript
-- Google reCAPTCHA JavaScript SDK : [Documentation](https://developers.google.com/recaptcha/docs/v3), [Source code](https://www.google.com/recaptcha/api.js)
+- Google reCAPTCHA JavaScript SDK 
+    - [Documentation](https://developers.google.com/recaptcha/docs/v3)
+    - [Source code](https://www.google.com/recaptcha/api.js)
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

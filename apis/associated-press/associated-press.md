@@ -17,7 +17,11 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Ruby
-- Associated Press Ruby Library by Jay Boice: [Documentation](https://github.com/huffpostdata/ap-election-loader)
+- Associated Press Ruby Library by Jay Boice
+    - [Documentation](https://github.com/huffpostdata/ap-election-loader)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 61 ⭐
 
 
 ## 🗄️ Categories:

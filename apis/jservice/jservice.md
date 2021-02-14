@@ -17,10 +17,18 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### JavaScript
-- jService JavaScript SDK by Keith Pops: [Documentation](https://github.com/keithpops/jeoparty)
+- jService JavaScript SDK by Keith Pops
+    - [Documentation](https://github.com/keithpops/jeoparty)
+    - [Add source code URL ➕]()
+    - [Author: @keithpops](https://github.com/keithpops)
+    - 104 ⭐
 
 ### Ruby
-- jService Ruby SDK by Dean Silfen: [Documentation](https://github.com/djds23/jApi)
+- jService Ruby SDK by Dean Silfen
+    - [Documentation](https://github.com/djds23/jApi)
+    - [Add source code URL ➕]()
+    - [Author: @djds23](https://github.com/djds23)
+    - 8 ⭐
 
 
 ## 🗄️ Categories:

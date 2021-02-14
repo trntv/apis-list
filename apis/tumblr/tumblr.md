@@ -17,15 +17,31 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Go
-- Tumblr Go SDK by Tumblr: [Documentation](https://engineering.tumblr.com/post/154723895033/golang-and-the-tumblr-api), [Source code](https://github.com/tumblr/tumblrclient.go)
+- Tumblr Go SDK by Tumblr
+    - [Documentation](https://engineering.tumblr.com/post/154723895033/golang-and-the-tumblr-api)
+    - [Source code](https://github.com/tumblr/tumblrclient.go)
+    - [Add author ➕]
+    - 36 ⭐
 
 ### Node.js
-- Social Networks Node.js SDK by Léo Pradel: [Documentation](https://www.npmjs.com/package/node-social-api), [Source code](https://github.com/pradel/node-social-api)
+- Social Networks Node.js SDK by Léo Pradel
+    - [Documentation](https://www.npmjs.com/package/node-social-api)
+    - [Source code](https://github.com/pradel/node-social-api)
+    - [Author: @pradel](https://github.com/pradel)
+    - 6 ⭐
 
 ### Objective-C
-- Tumblr Objective-C SDK by Tumblr: [Documentation](http://developers.tumblr.com/clients), [Source code](https://github.com/tumblr/TMTumblrSDK)
+- Tumblr Objective-C SDK by Tumblr
+    - [Documentation](http://developers.tumblr.com/clients)
+    - [Source code](https://github.com/tumblr/TMTumblrSDK)
+    - [Add author ➕]
+    - 412 ⭐
 
--  Tumblr iOS SDK by Tumblr: [Documentation](http://tumblr.github.io/TMTumblrSDK/), [Source code](https://github.com/tumblr/TMTumblrSDK)
+-  Tumblr iOS SDK by Tumblr
+    - [Documentation](http://tumblr.github.io/TMTumblrSDK/)
+    - [Source code](https://github.com/tumblr/TMTumblrSDK)
+    - [Add author ➕]
+    - 412 ⭐
 
 
 ## 🗄️ Categories:

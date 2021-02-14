@@ -20,7 +20,11 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### .Net
-- WhereIsMyTransport .NET SDK by WhereIsMyTransport: [Documentation](https://github.com/WhereIsMyTransport/TransportApiSdk.NET)
+- WhereIsMyTransport .NET SDK by WhereIsMyTransport
+    - [Documentation](https://github.com/WhereIsMyTransport/TransportApiSdk.NET)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 3 ⭐
 
 
 ## 🗄️ Categories:

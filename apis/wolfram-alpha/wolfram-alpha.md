@@ -17,10 +17,17 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### .Net, C#
-- Wolfram Alpha .Net SDK by Ian Qvist: [Documentation](https://github.com/Genbox/WolframAlpha.NET)
+- Wolfram Alpha .Net SDK by Ian Qvist
+    - [Documentation](https://github.com/Genbox/WolframAlpha.NET)
+    - [Add source code URL ➕]()
+    - [Author: @Genbox](https://github.com/Genbox)
+    - 45 ⭐
 
 ### Python
-- Wolfram Alpha Python Library by Derik Pereira: [Documentation](http://products.wolframalpha.com/api/libraries.html)
+- Wolfram Alpha Python Library by Derik Pereira
+    - [Documentation](http://products.wolframalpha.com/api/libraries.html)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

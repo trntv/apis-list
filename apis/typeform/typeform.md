@@ -20,13 +20,24 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Python
-- Typeform Python SDK by Daniel Vidal de la Rubia: [Documentation](https://github.com/Vidimensional/py-typeformio)
+- Typeform Python SDK by Daniel Vidal de la Rubia
+    - [Documentation](https://github.com/Vidimensional/py-typeformio)
+    - [Add source code URL ➕]()
+    - [Author: @Vidimensional](https://github.com/Vidimensional)
+    - 6 ⭐
 
 ### JavaScript
-- Typeform JavaScript SDK by Marc Cusso: [Documentation](https://github.com/CussoMarc/typeform-sdk)
+- Typeform JavaScript SDK by Marc Cusso
+    - [Documentation](https://github.com/CussoMarc/typeform-sdk)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Ruby
-- Typeform Ruby SDK by Philip De Smedt: [Documentation](https://github.com/philipdesmedt/typeform)
+- Typeform Ruby SDK by Philip De Smedt
+    - [Documentation](https://github.com/philipdesmedt/typeform)
+    - [Add source code URL ➕]()
+    - [Author: @philipdesmedt](https://github.com/philipdesmedt)
+    - 20 ⭐
 
 
 ## 🗄️ Categories:

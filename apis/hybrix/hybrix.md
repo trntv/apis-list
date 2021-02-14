@@ -17,10 +17,16 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Node.js
-- hybrix cli-wallet NodeJS SDK: [Documentation](https://api.hybrix.io/api/help/cli)
+- hybrix cli-wallet NodeJS SDK
+    - [Documentation](https://api.hybrix.io/api/help/cli)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### JavaScript
-- hybrix JavaScript SDK: [Documentation](https://api.hybrix.io/help/hybrix-lib.js)
+- hybrix JavaScript SDK
+    - [Documentation](https://api.hybrix.io/help/hybrix-lib.js)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

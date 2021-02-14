@@ -20,30 +20,63 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### PHP
-- Shippo PHP SDK by Mike Martin: [Documentation](https://github.com/mikemartin/statamic-v1-shippo)
+- Shippo PHP SDK by Mike Martin
+    - [Documentation](https://github.com/mikemartin/statamic-v1-shippo)
+    - [Add source code URL ➕]()
+    - [Author: @mikemartin](https://github.com/mikemartin)
 
-- Shippo Laravel SDK by Brandon Martus: [Documentation](https://github.com/bmartus/laravel-shippo)
+- Shippo Laravel SDK by Brandon Martus
+    - [Documentation](https://github.com/bmartus/laravel-shippo)
+    - [Add source code URL ➕]()
+    - [Author: @bmartus](https://github.com/bmartus)
+    - 12 ⭐
 
 ### Elixir
-- Shippo Elixir SDK by Alexander Mielczarek: [Documentation](https://github.com/almielczarek/shippo-elixir-client)
+- Shippo Elixir SDK by Alexander Mielczarek
+    - [Documentation](https://github.com/almielczarek/shippo-elixir-client)
+    - [Add source code URL ➕]()
+    - [Author: @almielczarek](https://github.com/almielczarek)
+    - 1 ⭐
 
 ### Python
-- Shippo Python SDK by bosswissam: [Documentation](https://github.com/bosswissam/shippo-python)
+- Shippo Python SDK by bosswissam
+    - [Documentation](https://github.com/bosswissam/shippo-python)
+    - [Add source code URL ➕]()
+    - [Author: @bosswissam](https://github.com/bosswissam)
 
 ### PERL
-- Shippo Perl SDK by Iain Campbell: [Documentation](https://github.com/cpanic/WebService-Shippo)
+- Shippo Perl SDK by Iain Campbell
+    - [Documentation](https://github.com/cpanic/WebService-Shippo)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Go
-- Shippo Go SDK by COLDBREW CLOUD: [Documentation](https://github.com/coldbrewcloud/go-shippo)
+- Shippo Go SDK by COLDBREW CLOUD
+    - [Documentation](https://github.com/coldbrewcloud/go-shippo)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 16 ⭐
 
 ### Java
-- Shippo Java SDK by Shippo: [Documentation](https://github.com/goshippo/shippo-java-client)
+- Shippo Java SDK by Shippo
+    - [Documentation](https://github.com/goshippo/shippo-java-client)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 41 ⭐
 
 ### C#
-- Shippo C# SDK by Shippo: [Documentation](https://github.com/goshippo/shippo-csharp-client)
+- Shippo C# SDK by Shippo
+    - [Documentation](https://github.com/goshippo/shippo-csharp-client)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 43 ⭐
 
 ### Ruby
-- Shippo Ruby SDK by Shippo: [Documentation](https://goshippo.com/docs/), [Source code](https://github.com/goshippo/shippo-ruby-client)
+- Shippo Ruby SDK by Shippo
+    - [Documentation](https://goshippo.com/docs/)
+    - [Source code](https://github.com/goshippo/shippo-ruby-client)
+    - [Add author ➕]
+    - 69 ⭐
 
 
 ## 🗄️ Categories:

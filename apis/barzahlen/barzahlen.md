@@ -17,10 +17,18 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Ruby
-- Barzahlen Ruby SDK: [Documentation](https://github.com/Barzahlen/Barzahlen-Ruby)
+- Barzahlen Ruby SDK
+    - [Documentation](https://github.com/Barzahlen/Barzahlen-Ruby)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 4 ⭐
 
 ### PHP
-- Barzahlen PHP SDK: [Documentation](https://github.com/Barzahlen/Barzahlen-PHP)
+- Barzahlen PHP SDK
+    - [Documentation](https://github.com/Barzahlen/Barzahlen-PHP)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 11 ⭐
 
 
 ## 🗄️ Categories:

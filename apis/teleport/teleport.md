@@ -20,7 +20,10 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### .Net
-- Teleport .NET SDK by Mark Embling: [Documentation](https://github.com/markembling/MarkEmbling.Teleport)
+- Teleport .NET SDK by Mark Embling
+    - [Documentation](https://github.com/markembling/MarkEmbling.Teleport)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

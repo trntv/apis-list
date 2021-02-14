@@ -20,15 +20,31 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### JavaScript
-- Pokemon TCG JavaScript SDK by Pokemon TCG: [Documentation](https://github.com/PokemonTCG/pokemon-tcg-sdk-javascript), [Source code](https://github.com/PokemonTCG/pokemon-tcg-sdk-javascript)
+- Pokemon TCG JavaScript SDK by Pokemon TCG
+    - [Documentation](https://github.com/PokemonTCG/pokemon-tcg-sdk-javascript)
+    - [Source code](https://github.com/PokemonTCG/pokemon-tcg-sdk-javascript)
+    - [Add author ➕]
+    - 41 ⭐
 
 ### Python
-- Pokemon TCG Python SDK by Pokemon TCG: [Documentation](https://github.com/PokemonTCG/pokemon-tcg-sdk-python)
+- Pokemon TCG Python SDK by Pokemon TCG
+    - [Documentation](https://github.com/PokemonTCG/pokemon-tcg-sdk-python)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 25 ⭐
 
-- Pokemon TCG Python SDK by Joshua Hull: [Documentation](https://github.com/joshua-hull/pokemon-tcg-sdk-python)
+- Pokemon TCG Python SDK by Joshua Hull
+    - [Documentation](https://github.com/joshua-hull/pokemon-tcg-sdk-python)
+    - [Add source code URL ➕]()
+    - [Author: @joshua-hull](https://github.com/joshua-hull)
+    - 7 ⭐
 
 ### Ruby
-- Pokemon TCG Ruby SDK by Pokemon TCG: [Documentation](https://github.com/PokemonTCG/pokemon-tcg-sdk-ruby)
+- Pokemon TCG Ruby SDK by Pokemon TCG
+    - [Documentation](https://github.com/PokemonTCG/pokemon-tcg-sdk-ruby)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 13 ⭐
 
 
 ## 🗄️ Categories:

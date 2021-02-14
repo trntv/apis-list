@@ -17,25 +17,51 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Java
-- Moltin Android SDK by Moltin: [Documentation](https://github.com/moltin/android-sdk)
+- Moltin Android SDK by Moltin
+    - [Documentation](https://github.com/moltin/android-sdk)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 6 ⭐
 
 ### Python
-- Moltin Python SDK by Moltin: [Documentation](https://github.com/moltin/python-sdk)
+- Moltin Python SDK by Moltin
+    - [Documentation](https://github.com/moltin/python-sdk)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 6 ⭐
 
 ### Ruby
-- Moltin Ruby SDK by Moltin: [Documentation](https://github.com/moltin/ruby-sdk)
+- Moltin Ruby SDK by Moltin
+    - [Documentation](https://github.com/moltin/ruby-sdk)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 15 ⭐
 
 ### C#
-- Moltin C# SDK by Moltin: [Documentation](https://github.com/moltin/csharp-sdk)
+- Moltin C# SDK by Moltin
+    - [Documentation](https://github.com/moltin/csharp-sdk)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 2 ⭐
 
 ### PHP
-- Moltin PHP SDK by Moltin: [Documentation](https://github.com/moltin/php-sdk)
+- Moltin PHP SDK by Moltin
+    - [Documentation](https://github.com/moltin/php-sdk)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 49 ⭐
 
 ### Objective-C
-- Moltin iOS eCommerce SDK by Moltin: [Documentation](https://moltin.com/ios-ecommerce-sdk)
+- Moltin iOS eCommerce SDK by Moltin
+    - [Documentation](https://moltin.com/ios-ecommerce-sdk)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### JavaScript
-- Moltin JavaScript SDK by Moltin: [Documentation](https://moltin.com/getting-started/js)
+- Moltin JavaScript SDK by Moltin
+    - [Documentation](https://moltin.com/getting-started/js)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

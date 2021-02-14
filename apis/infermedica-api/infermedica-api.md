@@ -20,13 +20,25 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Ruby
-- Infermedica Ruby SDK : [Documentation](https://github.com/mjskier/infermedica)
+- Infermedica Ruby SDK 
+    - [Documentation](https://github.com/mjskier/infermedica)
+    - [Add source code URL ➕]()
+    - [Author: @mjskier](https://github.com/mjskier)
+    - 2 ⭐
 
 ### Python
-- Infermedica Python SDK : [Documentation](https://github.com/infermedica/python-api)
+- Infermedica Python SDK 
+    - [Documentation](https://github.com/infermedica/python-api)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 44 ⭐
 
 ### Go
-- Infermedica Go SDK : [Documentation](https://github.com/torniker/infermedica)
+- Infermedica Go SDK 
+    - [Documentation](https://github.com/torniker/infermedica)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 7 ⭐
 
 
 ## 🗄️ Categories:

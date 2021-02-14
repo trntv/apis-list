@@ -17,27 +17,58 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Unity
-- Count.ly Unity3D SDK Countly: [Documentation](https://github.com/Countly/countly-sdk-unity)
+- Count.ly Unity3D SDK Countly
+    - [Documentation](https://github.com/Countly/countly-sdk-unity)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 32 ⭐
 
 ### Python
-- Count.ly Python IoT SDK by Countly: [Documentation](https://github.com/Countly/countly-sdk-iot-python)
+- Count.ly Python IoT SDK by Countly
+    - [Documentation](https://github.com/Countly/countly-sdk-iot-python)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 8 ⭐
 
 ### C++
-- Count.ly C++ IoT SDK by Countly: [Documentation](https://github.com/Countly/countly-sdk-iot-cpp)
+- Count.ly C++ IoT SDK by Countly
+    - [Documentation](https://github.com/Countly/countly-sdk-iot-cpp)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 7 ⭐
 
-- Count.ly C++ SDK by GithSystems: [Documentation](https://github.com/GithSystems/CountlyCpp)
+- Count.ly C++ SDK by GithSystems
+    - [Documentation](https://github.com/GithSystems/CountlyCpp)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Node.js
-- Count.ly Node.js SDK by Countly: [Documentation](https://github.com/Countly/countly-sdk-nodejs)
+- Count.ly Node.js SDK by Countly
+    - [Documentation](https://github.com/Countly/countly-sdk-nodejs)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 18 ⭐
 
 ### C#
-- Count.ly Windows SDK by Countly: [Documentation](https://github.com/Countly/countly-sdk-windows)
+- Count.ly Windows SDK by Countly
+    - [Documentation](https://github.com/Countly/countly-sdk-windows)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 22 ⭐
 
 ### Objective-C
-- Count.ly iOS SDK by Countly: [Documentation](https://github.com/Countly/countly-sdk-ios), [Source code](http://resources.count.ly/v1.0/docs/countly-sdk-for-ios-and-os-x)
+- Count.ly iOS SDK by Countly
+    - [Documentation](https://github.com/Countly/countly-sdk-ios)
+    - [Source code](http://resources.count.ly/v1.0/docs/countly-sdk-for-ios-and-os-x)
+    - [Add author ➕]
+    - 584 ⭐
 
 ### Java
-- Count.ly Android SDK by Countly: [Documentation](https://github.com/Countly/countly-sdk-android), [Source code](http://resources.count.ly/v1.0/docs/countly-sdk-for-android)
+- Count.ly Android SDK by Countly
+    - [Documentation](https://github.com/Countly/countly-sdk-android)
+    - [Source code](http://resources.count.ly/v1.0/docs/countly-sdk-for-android)
+    - [Add author ➕]
+    - 623 ⭐
 
 
 ## 🗄️ Categories:

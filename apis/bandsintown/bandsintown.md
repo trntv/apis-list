@@ -20,25 +20,52 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### JavaScript
-- Festival Search Engine JavaScript SDK by Steven Liatti: [Documentation](https://github.com/steenput/FestivalSearchEngine)
+- Festival Search Engine JavaScript SDK by Steven Liatti
+    - [Documentation](https://github.com/steenput/FestivalSearchEngine)
+    - [Add source code URL ➕]()
+    - [Author: @stevenliatti](https://github.com/stevenliatti)
+    - 1 ⭐
 
 ### Java
-- Bandsintown Java 8 SDK by Julian Wrastil: [Documentation](https://github.com/JayJayBinks/Bandsintown-API)
+- Bandsintown Java 8 SDK by Julian Wrastil
+    - [Documentation](https://github.com/JayJayBinks/Bandsintown-API)
+    - [Add source code URL ➕]()
+    - [Author: @JayJayBinks](https://github.com/JayJayBinks)
 
 ### Go
-- Bandsintown Go SDK by Nathan Cooper: [Documentation](https://github.com/NathanLBCooper/bandsintown-api)
+- Bandsintown Go SDK by Nathan Cooper
+    - [Documentation](https://github.com/NathanLBCooper/bandsintown-api)
+    - [Add source code URL ➕]()
+    - [Author: @NathanLBCooper](https://github.com/NathanLBCooper)
+    - 1 ⭐
 
 ### .Net
-- Bandsintown .NET SDK by Damian Karzon: [Documentation](https://github.com/dkarzon/BitSharp)
+- Bandsintown .NET SDK by Damian Karzon
+    - [Documentation](https://github.com/dkarzon/BitSharp)
+    - [Add source code URL ➕]()
+    - [Author: @dkarzon](https://github.com/dkarzon)
+    - 3 ⭐
 
 ### PHP
-- Bandsintown PHP SDK by dhavhid: [Documentation](https://github.com/dhavhid/php-bandsintown)
+- Bandsintown PHP SDK by dhavhid
+    - [Documentation](https://github.com/dhavhid/php-bandsintown)
+    - [Add source code URL ➕]()
+    - [Author: @dhavhid](https://github.com/dhavhid)
+    - 1 ⭐
 
 ### Python
-- Bandsintown Python SDK by Anthony Roscoe: [Documentation](https://github.com/WizKid/Bandsintown-API)
+- Bandsintown Python SDK by Anthony Roscoe
+    - [Documentation](https://github.com/WizKid/Bandsintown-API)
+    - [Add source code URL ➕]()
+    - [Author: @WizKid](https://github.com/WizKid)
+    - 5 ⭐
 
 ### Ruby
-- Bandsintown Ruby SDK by Mike Constanza: [Documentation](https://github.com/bandsintown/api-gem)
+- Bandsintown Ruby SDK by Mike Constanza
+    - [Documentation](https://github.com/bandsintown/api-gem)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 17 ⭐
 
 
 ## 🗄️ Categories:

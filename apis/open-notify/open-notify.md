@@ -17,12 +17,22 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Python
-- Open Notify Python SDK by James Gill: [Documentation](https://github.com/thinkhuman?tab&#x3D;repositories), [Source code](https://github.com/thinkhuman/iss-open-api)
+- Open Notify Python SDK by James Gill
+    - [Documentation](https://github.com/thinkhuman?tab&#x3D;repositories)
+    - [Source code](https://github.com/thinkhuman/iss-open-api)
+    - [Author: @thinkhuman](https://github.com/thinkhuman)
 
-- Open Notify Python SDK by brayovsky: [Documentation](https://github.com/brayovsky/ISSInfo/blob/master/README.md), [Source code](https://github.com/brayovsky/ISSInfo)
+- Open Notify Python SDK by brayovsky
+    - [Documentation](https://github.com/brayovsky/ISSInfo/blob/master/README.md)
+    - [Source code](https://github.com/brayovsky/ISSInfo)
+    - [Author: @brayovsky](https://github.com/brayovsky)
 
 ### C
-- Open Notify Javascript SDK by Cat Haines: [Documentation](https://github.com/cat-haines/ISS-Pebble-Example/blob/master/README.md), [Source code](https://github.com/cat-haines/ISS-Pebble-Example)
+- Open Notify Javascript SDK by Cat Haines
+    - [Documentation](https://github.com/cat-haines/ISS-Pebble-Example/blob/master/README.md)
+    - [Source code](https://github.com/cat-haines/ISS-Pebble-Example)
+    - [Author: @cat-haines](https://github.com/cat-haines)
+    - 1 ⭐
 
 
 ## 🗄️ Categories:

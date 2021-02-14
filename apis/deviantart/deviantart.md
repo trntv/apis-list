@@ -20,13 +20,24 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Java
-- DeviantART Java SDK by Karson Kimbrel: [Documentation](https://github.com/KarsonKimbrel/DeviantArt-OAuth2-Java)
+- DeviantART Java SDK by Karson Kimbrel
+    - [Documentation](https://github.com/KarsonKimbrel/DeviantArt-OAuth2-Java)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### PHP
-- DeviantART RSS PHP SDK by James Alexander Lee: [Documentation](https://github.com/jamesl1001/deviantART-API)
+- DeviantART RSS PHP SDK by James Alexander Lee
+    - [Documentation](https://github.com/jamesl1001/deviantART-API)
+    - [Add source code URL ➕]()
+    - [Author: @jamesl1001](https://github.com/jamesl1001)
+    - 16 ⭐
 
 ### .Net, C#
-- uploaderNet .NET SDK by mOrfiUs: [Documentation](https://github.com/mOrfiUs/uploaderNet)
+- uploaderNet .NET SDK by mOrfiUs
+    - [Documentation](https://github.com/mOrfiUs/uploaderNet)
+    - [Add source code URL ➕]()
+    - [Author: @mOrfiUs](https://github.com/mOrfiUs)
+    - 4 ⭐
 
 
 ## 🗄️ Categories:

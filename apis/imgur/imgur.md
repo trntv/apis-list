@@ -20,29 +20,63 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### PERL
-- Imgur Perl SDK by Michael Hollenbeck: [Documentation](http://search.cpan.org/~mlhollen/Imgur-API-0.1.0/)
+- Imgur Perl SDK by Michael Hollenbeck
+    - [Documentation](http://search.cpan.org/~mlhollen/Imgur-API-0.1.0/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Node.js
-- Imgur Node.js SDK by James Sigurðarson: [Documentation](https://www.npmjs.com/package/imgur-node-api), [Source code](https://github.com/jamiees2/imgur-node-api)
+- Imgur Node.js SDK by James Sigurðarson
+    - [Documentation](https://www.npmjs.com/package/imgur-node-api)
+    - [Source code](https://github.com/jamiees2/imgur-node-api)
+    - [Author: @jamiees2](https://github.com/jamiees2)
+    - 23 ⭐
 
 ### JavaScript
-- Imgur JavaScript SDK by Imgur: [Documentation](https://github.com/Imgur/imgur.js)
+- Imgur JavaScript SDK by Imgur
+    - [Documentation](https://github.com/Imgur/imgur.js)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Python
-- Imgur Python SDK by Imgur: [Documentation](https://github.com/Imgur/imgurpython)
+- Imgur Python SDK by Imgur
+    - [Documentation](https://github.com/Imgur/imgurpython)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 498 ⭐
 
-- Imgur Python Library by Imgur: [Documentation](https://api.imgur.com/#example_code), [Source code](https://github.com/Imgur/imgurpython)
+- Imgur Python Library by Imgur
+    - [Documentation](https://api.imgur.com/#example_code)
+    - [Source code](https://github.com/Imgur/imgurpython)
+    - [Add author ➕]
+    - 498 ⭐
 
 ### PHP
-- Imgur PHP SDK by Jeremy Benoist: [Documentation](https://packagist.org/packages/j0k3r/php-imgur-api-client), [Source code](https://github.com/j0k3r/php-imgur-api-client)
+- Imgur PHP SDK by Jeremy Benoist
+    - [Documentation](https://packagist.org/packages/j0k3r/php-imgur-api-client)
+    - [Source code](https://github.com/j0k3r/php-imgur-api-client)
+    - [Author: @j0k3r](https://github.com/j0k3r)
+    - 70 ⭐
 
-- Imgur PHP Library by Adrian Ghiuta: [Documentation](https://github.com/Adyg/php-imgur-api-client)
+- Imgur PHP Library by Adrian Ghiuta
+    - [Documentation](https://github.com/Adyg/php-imgur-api-client)
+    - [Add source code URL ➕]()
+    - [Author: @j0k3r](https://github.com/j0k3r)
+    - 70 ⭐
 
 ### .Net
-- Imgur .Net SDK by Damien Dennehy: [Documentation](https://github.com/DamienDennehy/Imgur.API)
+- Imgur .Net SDK by Damien Dennehy
+    - [Documentation](https://github.com/DamienDennehy/Imgur.API)
+    - [Add source code URL ➕]()
+    - [Author: @DamienDennehy](https://github.com/DamienDennehy)
+    - 35 ⭐
 
 ### .Net, C#
-- uploaderNet .NET SDK by mOrfiUs: [Documentation](https://github.com/mOrfiUs/uploaderNet)
+- uploaderNet .NET SDK by mOrfiUs
+    - [Documentation](https://github.com/mOrfiUs/uploaderNet)
+    - [Add source code URL ➕]()
+    - [Author: @mOrfiUs](https://github.com/mOrfiUs)
+    - 4 ⭐
 
 
 ## 🗄️ Categories:

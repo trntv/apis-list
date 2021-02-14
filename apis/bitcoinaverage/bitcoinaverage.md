@@ -17,10 +17,17 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Node.js
-- BitcoinAverage NodeJS SDK: [Documentation](https://www.npmjs.com/package/bitcoinaverage)
+- BitcoinAverage NodeJS SDK
+    - [Documentation](https://www.npmjs.com/package/bitcoinaverage)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Python
-- BitcoinAverage Python PIP SDK: [Documentation](https://github.com/bitcoinaverage/api-integration-examples/)
+- BitcoinAverage Python PIP SDK
+    - [Documentation](https://github.com/bitcoinaverage/api-integration-examples/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 58 ⭐
 
 
 ## 🗄️ Categories:

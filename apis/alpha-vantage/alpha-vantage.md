@@ -17,10 +17,18 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Java
-- Alpha Vantage Java SDK by Patrik Nygren: [Documentation](https://github.com/patriques82/alphavantage4j)
+- Alpha Vantage Java SDK by Patrik Nygren
+    - [Documentation](https://github.com/patriques82/alphavantage4j)
+    - [Add source code URL ➕]()
+    - [Author: @patriques82](https://github.com/patriques82)
+    - 119 ⭐
 
 ### Python
-- Alpha Vantage Python SDK by Romel Torres: [Documentation](https://github.com/RomelTorres/alpha_vantage)
+- Alpha Vantage Python SDK by Romel Torres
+    - [Documentation](https://github.com/RomelTorres/alpha_vantage)
+    - [Add source code URL ➕]()
+    - [Author: @RomelTorres](https://github.com/RomelTorres)
+    - 3121 ⭐
 
 
 ## 🗄️ Categories:

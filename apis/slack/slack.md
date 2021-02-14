@@ -20,44 +20,103 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Python
-- Slack Python SDK by Slack: [Documentation](http://slackapi.github.io/python-slackclient/), [Source code](https://github.com/slackapi/python-slackclient)
+- Slack Python SDK by Slack
+    - [Documentation](http://slackapi.github.io/python-slackclient/)
+    - [Source code](https://github.com/slackapi/python-slackclient)
+    - [Add author ➕]
+    - 3065 ⭐
 
 ### PHP
-- Slack Events PHP SDK by Jarrad Littleford: [Documentation](https://packagist.org/packages/suspectdoubloon/slack-api), [Source code](https://github.com/suspectdoubloon/slack-api)
+- Slack Events PHP SDK by Jarrad Littleford
+    - [Documentation](https://packagist.org/packages/suspectdoubloon/slack-api)
+    - [Source code](https://github.com/suspectdoubloon/slack-api)
+    - [Author: @suspectdoubloon](https://github.com/suspectdoubloon)
 
-- Slack PHP SDK by Morning Train: [Documentation](https://packagist.org/packages/morningtrain/slack-api), [Source code](https://github.com/Morning-Train/slack-api)
+- Slack PHP SDK by Morning Train
+    - [Documentation](https://packagist.org/packages/morningtrain/slack-api)
+    - [Source code](https://github.com/Morning-Train/slack-api)
+    - [Add author ➕]
+    - 4 ⭐
 
-- Slack Laravel Library by Vagner Luz do Carmo: [Documentation](https://github.com/vluzrmos/laravel-slack-api)
+- Slack Laravel Library by Vagner Luz do Carmo
+    - [Documentation](https://github.com/vluzrmos/laravel-slack-api)
+    - [Add source code URL ➕]()
+    - [Author: @vluzrmos](https://github.com/vluzrmos)
+    - 90 ⭐
 
 ### Ruby
-- Slack Ruby SDK by Akiteru Maeda: [Documentation](https://github.com/aki017/slack-ruby-gem)
+- Slack Ruby SDK by Akiteru Maeda
+    - [Documentation](https://github.com/aki017/slack-ruby-gem)
+    - [Add source code URL ➕]()
+    - [Author: @aki017](https://github.com/aki017)
+    - 245 ⭐
 
-- Slack Ruby SDK by SoundCloud: [Documentation](https://github.com/soundcloud/slack-ruby-gem)
+- Slack Ruby SDK by SoundCloud
+    - [Documentation](https://github.com/soundcloud/slack-ruby-gem)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- Slack Ruby SDK by Daniel Doubrovkine: [Documentation](https://github.com/dblock/slack-ruby-client)
+- Slack Ruby SDK by Daniel Doubrovkine
+    - [Documentation](https://github.com/dblock/slack-ruby-client)
+    - [Add source code URL ➕]()
+    - [Author: @dblock](https://github.com/dblock)
+    - 16 ⭐
 
 ### Node.js
-- Slack Node.js SDK by Slack: [Documentation](https://slackapi.github.io/node-slack-sdk/), [Source code](https://github.com/slackapi/node-slack-sdk)
+- Slack Node.js SDK by Slack
+    - [Documentation](https://slackapi.github.io/node-slack-sdk/)
+    - [Source code](https://github.com/slackapi/node-slack-sdk)
+    - [Add author ➕]
+    - 2849 ⭐
 
-- Slack Node.js Library by Tom Eklof: [Documentation](https://www.npmjs.com/package/hubot-slack-api), [Source code](https://github.com/ORBAT/hubot-slack-api)
+- Slack Node.js Library by Tom Eklof
+    - [Documentation](https://www.npmjs.com/package/hubot-slack-api)
+    - [Source code](https://github.com/ORBAT/hubot-slack-api)
+    - [Author: @ORBAT](https://github.com/ORBAT)
+    - 10 ⭐
 
 ### .Net
-- SlackAPI .Net SDK by Inumedia: [Documentation](https://github.com/Inumedia/SlackAPI/blob/master/README.md), [Source code](https://github.com/Inumedia/SlackAPI)
+- SlackAPI .Net SDK by Inumedia
+    - [Documentation](https://github.com/Inumedia/SlackAPI/blob/master/README.md)
+    - [Source code](https://github.com/Inumedia/SlackAPI)
+    - [Author: @Inumedia](https://github.com/Inumedia)
+    - 385 ⭐
 
-- Slack MargieBot .Net SDK by Jammerware: [Documentation](https://github.com/jammerware/margiebot/blob/master/README.md), [Source code](https://github.com/jammerware/margiebot)
+- Slack MargieBot .Net SDK by Jammerware
+    - [Documentation](https://github.com/jammerware/margiebot/blob/master/README.md)
+    - [Source code](https://github.com/jammerware/margiebot)
+    - [Author: @jammerware](https://github.com/jammerware)
+    - 117 ⭐
 
-- Slack .NET SDK by WooCode: [Documentation](https://github.com/WooCode/WooCode.Slack)
+- Slack .NET SDK by WooCode
+    - [Documentation](https://github.com/WooCode/WooCode.Slack)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 23 ⭐
 
 ### Go
-- Slack Go SDK by Norberto Lopes: [Documentation](https://github.com/nlopes/slack)
+- Slack Go SDK by Norberto Lopes
+    - [Documentation](https://github.com/nlopes/slack)
+    - [Add source code URL ➕]()
+    - [Author: @nlopes](https://github.com/nlopes)
+    - 8 ⭐
 
 ### JavaScript
-- Slack JavaScript SDK: [Documentation](https://www.npmjs.com/package/slack-api)
+- Slack JavaScript SDK
+    - [Documentation](https://www.npmjs.com/package/slack-api)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Haskell
-- Slack API Haskell Library: [Documentation](https://api.slack.com/web), [Source code](https://hackage.haskell.org/package/slack-api-0.1)
+- Slack API Haskell Library
+    - [Documentation](https://api.slack.com/web)
+    - [Source code](https://hackage.haskell.org/package/slack-api-0.1)
+    - [Add author ➕]
 
-- Slack API Haskell Library : [Documentation](https://hackage.haskell.org/package/slack), [Source code](https://hackage.haskell.org/package/slack)
+- Slack API Haskell Library 
+    - [Documentation](https://hackage.haskell.org/package/slack)
+    - [Source code](https://hackage.haskell.org/package/slack)
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

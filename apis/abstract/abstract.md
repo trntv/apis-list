@@ -20,9 +20,16 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### JavaScript
-- Abstract Link loader JavaScript SDK: [Documentation](https://github.com/goabstract/abstract-link-loader)
+- Abstract Link loader JavaScript SDK
+    - [Documentation](https://github.com/goabstract/abstract-link-loader)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- Abstract JavaScript SDK: [Documentation](https://github.com/goabstract/abstract-sdk)
+- Abstract JavaScript SDK
+    - [Documentation](https://github.com/goabstract/abstract-sdk)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 55 ⭐
 
 
 ## 🗄️ Categories:

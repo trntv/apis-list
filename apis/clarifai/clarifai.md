@@ -20,42 +20,94 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Java
--  Clarifai Android SDK: [Documentation](https://clarifai.com/developer/guide/android-sdk#android-sdk)
+-  Clarifai Android SDK
+    - [Documentation](https://clarifai.com/developer/guide/android-sdk#android-sdk)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- Clarifai Java SDK by Clarifai: [Documentation](https://github.com/Clarifai/clarifai-java), [Source code](https://github.com/Clarifai/clarifai-java)
+- Clarifai Java SDK by Clarifai
+    - [Documentation](https://github.com/Clarifai/clarifai-java)
+    - [Source code](https://github.com/Clarifai/clarifai-java)
+    - [Add author ➕]
+    - 90 ⭐
 
-- Clarifai Java Library by Clarifai: [Documentation](https://github.com/Clarifai/clarifai-api-java)
+- Clarifai Java Library by Clarifai
+    - [Documentation](https://github.com/Clarifai/clarifai-api-java)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 90 ⭐
 
 ### Objective-C
--  Clarifai Apple SDK: [Documentation](https://clarifai.com/developer/guide/apple-sdk#apple-sdk)
+-  Clarifai Apple SDK
+    - [Documentation](https://clarifai.com/developer/guide/apple-sdk#apple-sdk)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Ruby
-- Clarifai Ruby SDK by Charlyn G: [Documentation](https://github.com/chardane/ClarifaiRuby/wiki), [Source code](https://github.com/chardane/ClarifaiRuby)
+- Clarifai Ruby SDK by Charlyn G
+    - [Documentation](https://github.com/chardane/ClarifaiRuby/wiki)
+    - [Source code](https://github.com/chardane/ClarifaiRuby)
+    - [Author: @chardane](https://github.com/chardane)
+    - 16 ⭐
 
 ### R
-- Clarifai R SDK by soodoku: [Documentation](http://soodoku.github.io/clarifai/), [Source code](https://github.com/soodoku/clarifai)
+- Clarifai R SDK by soodoku
+    - [Documentation](http://soodoku.github.io/clarifai/)
+    - [Source code](https://github.com/soodoku/clarifai)
+    - [Author: @soodoku](https://github.com/soodoku)
+    - 13 ⭐
 
 ### Haskell
-- Clarifai Haskell SDK by Joe Canero: [Documentation](https://developer.clarifai.com/guide-v1/#api-clients), [Source code](https://github.com/caneroj1/clarifai-hs)
+- Clarifai Haskell SDK by Joe Canero
+    - [Documentation](https://developer.clarifai.com/guide-v1/#api-clients)
+    - [Source code](https://github.com/caneroj1/clarifai-hs)
+    - [Author: @caneroj1](https://github.com/caneroj1)
+    - 7 ⭐
 
 ### Go
-- Clarifai Go SDK by Clarifai: [Documentation](https://github.com/Clarifai/clarifai-go), [Source code](https://github.com/Clarifai/clarifai-go)
+- Clarifai Go SDK by Clarifai
+    - [Documentation](https://github.com/Clarifai/clarifai-go)
+    - [Source code](https://github.com/Clarifai/clarifai-go)
+    - [Add author ➕]
+    - 57 ⭐
 
 ### Python
-- Clarifai Python SDK by Clarifai: [Documentation](https://github.com/Clarifai/clarifai-python), [Source code](https://github.com/Clarifai/clarifai-python)
+- Clarifai Python SDK by Clarifai
+    - [Documentation](https://github.com/Clarifai/clarifai-python)
+    - [Source code](https://github.com/Clarifai/clarifai-python)
+    - [Add author ➕]
+    - 338 ⭐
 
-- Clarifai Python Library by Clarifai: [Documentation](https://github.com/Clarifai/Clarifai_py)
+- Clarifai Python Library by Clarifai
+    - [Documentation](https://github.com/Clarifai/Clarifai_py)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 338 ⭐
 
 ### Objective-C, Swift
-- Clarifai iOS SDK by Clarifai: [Documentation](https://github.com/Clarifai/clarifai-ios), [Source code](https://github.com/Clarifai/clarifai-ios)
+- Clarifai iOS SDK by Clarifai
+    - [Documentation](https://github.com/Clarifai/clarifai-ios)
+    - [Source code](https://github.com/Clarifai/clarifai-ios)
+    - [Add author ➕]
+    - 53 ⭐
 
 ### JavaScript, Node.js
-- Clarifai JavaScript SDK by Clarifai: [Documentation](https://github.com/Clarifai/clarifai-javascript), [Source code](https://github.com/Clarifai/clarifai-javascript)
+- Clarifai JavaScript SDK by Clarifai
+    - [Documentation](https://github.com/Clarifai/clarifai-javascript)
+    - [Source code](https://github.com/Clarifai/clarifai-javascript)
+    - [Add author ➕]
+    - 274 ⭐
 
 ### 
-- Clarifai Node.js Library by Clarifai: [Documentation]()
+- Clarifai Node.js Library by Clarifai
+    - [Documentation]()
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- Clarifai Node.js Library by Clarifai: [Documentation]()
+- Clarifai Node.js Library by Clarifai
+    - [Documentation]()
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

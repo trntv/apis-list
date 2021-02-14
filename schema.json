@@ -89,6 +89,12 @@
               },
               "platform": {
                 "type": "string"
+              },
+              "author": {
+                "type": "string"
+              },
+              "stargazers_count": {
+                "type": "integer"
               }
             },
             "additionalProperties": true

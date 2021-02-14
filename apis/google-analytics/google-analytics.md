@@ -20,35 +20,72 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Objective-C
-- Google Analytics Web Tracking iOS SDK: [Documentation](https://developers.google.com/analytics/devguides/collection/firebase/ios/)
+- Google Analytics Web Tracking iOS SDK
+    - [Documentation](https://developers.google.com/analytics/devguides/collection/firebase/ios/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- Google Analytics Management Objective-C Library by Google: [Documentation](https://code.google.com/p/google-api-objectivec-client/)
+- Google Analytics Management Objective-C Library by Google
+    - [Documentation](https://code.google.com/p/google-api-objectivec-client/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Java
-- Google Analytics Web Tracking Android SDK: [Documentation](https://developers.google.com/analytics/devguides/collection/firebase/android/)
+- Google Analytics Web Tracking Android SDK
+    - [Documentation](https://developers.google.com/analytics/devguides/collection/firebase/android/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- Google Analytics Java SDK by Google: [Documentation](https://developers.google.com/analytics/devguides/collection/android/v4/)
+- Google Analytics Java SDK by Google
+    - [Documentation](https://developers.google.com/analytics/devguides/collection/android/v4/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- Google Analytics Core Reporting Java Library by Google: [Documentation](https://developers.google.com/analytics/devguides/reporting/core/v2/gdataJava)
+- Google Analytics Core Reporting Java Library by Google
+    - [Documentation](https://developers.google.com/analytics/devguides/reporting/core/v2/gdataJava)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- Google Universal Analytics Web Tracking Java Library by Google: [Documentation](https://developers.google.com/analytics/devguides/collection/analyticsjs/), [Source code](https://developers.google.com/analytics/devguides/collection/analyticsjs/)
+- Google Universal Analytics Web Tracking Java Library by Google
+    - [Documentation](https://developers.google.com/analytics/devguides/collection/analyticsjs/)
+    - [Source code](https://developers.google.com/analytics/devguides/collection/analyticsjs/)
+    - [Add author ➕]
 
-- Google Analytics Java Library: [Documentation](https://developers.google.com/api-client-library/java/apis/analytics/v3)
+- Google Analytics Java Library
+    - [Documentation](https://developers.google.com/api-client-library/java/apis/analytics/v3)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Node.js
-- Google Analytics Node SDK by jsguy: [Documentation](https://www.npmjs.com/package/ga-api), [Source code](https://github.com/jsguy/ga-api)
+- Google Analytics Node SDK by jsguy
+    - [Documentation](https://www.npmjs.com/package/ga-api)
+    - [Source code](https://github.com/jsguy/ga-api)
+    - [Author: @jsguy](https://github.com/jsguy)
+    - 14 ⭐
 
 ### Python
-- Google Analytics Management Python Library by Google : [Documentation](https://developers.google.com/api-client-library/python/)
+- Google Analytics Management Python Library by Google 
+    - [Documentation](https://developers.google.com/api-client-library/python/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### PHP
-- Google Analytics Management PHP Library by Google: [Documentation](https://developers.google.com/api-client-library/php/)
+- Google Analytics Management PHP Library by Google
+    - [Documentation](https://developers.google.com/api-client-library/php/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### JavaScript
-- Google Analytics Management JavaScript Library by Google: [Documentation](https://developers.google.com/api-client-library/javascript/start/start-js)
+- Google Analytics Management JavaScript Library by Google
+    - [Documentation](https://developers.google.com/api-client-library/javascript/start/start-js)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### .Net
-- Google Analytics Management .NET Library by Google: [Documentation](https://developers.google.com/api-client-library/dotnet/get_started)
+- Google Analytics Management .NET Library by Google
+    - [Documentation](https://developers.google.com/api-client-library/dotnet/get_started)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

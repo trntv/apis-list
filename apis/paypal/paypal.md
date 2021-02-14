@@ -17,22 +17,47 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### PHP
-- PayPal PHP SDK: [Documentation](https://developer.paypal.com/docs/api/rest-sdks), [Source code](https://github.com/paypal/PayPal-PHP-SDK)
+- PayPal PHP SDK
+    - [Documentation](https://developer.paypal.com/docs/api/rest-sdks)
+    - [Source code](https://github.com/paypal/PayPal-PHP-SDK)
+    - [Add author ➕]
+    - 2061 ⭐
 
-- PayPal PHP SDK by Oswaldo Perez: [Documentation](https://packagist.org/packages/oslawso/paypal-api), [Source code](https://github.com/oslawso/paypal-api)
+- PayPal PHP SDK by Oswaldo Perez
+    - [Documentation](https://packagist.org/packages/oslawso/paypal-api)
+    - [Source code](https://github.com/oslawso/paypal-api)
+    - [Author: @oslawso](https://github.com/oslawso)
 
-- PayPal PHP SDK by PayPal: [Documentation](https://github.com/paypal/PayPal-PHP-SDK)
+- PayPal PHP SDK by PayPal
+    - [Documentation](https://github.com/paypal/PayPal-PHP-SDK)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 2061 ⭐
 
 ### Node.js
-- PayPal-nvp-api Node.js SDK by Dong Nguyen: [Documentation](https://www.npmjs.com/package/paypal-nvp-api), [Source code](https://github.com/ndaidong/paypal-nvp-api)
+- PayPal-nvp-api Node.js SDK by Dong Nguyen
+    - [Documentation](https://www.npmjs.com/package/paypal-nvp-api)
+    - [Source code](https://github.com/ndaidong/paypal-nvp-api)
+    - [Author: @ndaidong](https://github.com/ndaidong)
+    - 15 ⭐
 
 ### Java
-- PayPal Android SDK: [Documentation](https://github.com/paypal/PayPal-Android-SDK)
+- PayPal Android SDK
+    - [Documentation](https://github.com/paypal/PayPal-Android-SDK)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 770 ⭐
 
 ### Objective-C
-- PayPal iOS SDKDeprecated: [Documentation]()
+- PayPal iOS SDKDeprecated
+    - [Documentation]()
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- PayPal iOS SDKDeprecated: [Documentation]()
+- PayPal iOS SDKDeprecated
+    - [Documentation]()
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

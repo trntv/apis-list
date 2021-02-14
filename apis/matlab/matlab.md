@@ -20,7 +20,10 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Python
-- MATLAB Python SDK by Mathworks: [Documentation](https://www.mathworks.com/help/mps/client-programming.html), [Source code](https://www.mathworks.com/help/mps/python-client-programming.html)
+- MATLAB Python SDK by Mathworks
+    - [Documentation](https://www.mathworks.com/help/mps/client-programming.html)
+    - [Source code](https://www.mathworks.com/help/mps/python-client-programming.html)
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

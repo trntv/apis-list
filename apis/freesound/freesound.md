@@ -17,10 +17,18 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### C++
-- Freesound c++ SDK by Roger Morton: [Documentation](http://www.freesound.org/docs/api/client_libs.html), [Source code](https://github.com/ttguy/Qt_freesoundAPIv2)
+- Freesound c++ SDK by Roger Morton
+    - [Documentation](http://www.freesound.org/docs/api/client_libs.html)
+    - [Source code](https://github.com/ttguy/Qt_freesoundAPIv2)
+    - [Author: @ttguy](https://github.com/ttguy)
+    - 5 ⭐
 
 ### Objective-C
-- Freesound iOS SDK by Freesound : [Documentation](https://www.freesound.org/docs/api/client_libs.html), [Source code](https://github.com/ffont/Freesound-iOS)
+- Freesound iOS SDK by Freesound 
+    - [Documentation](https://www.freesound.org/docs/api/client_libs.html)
+    - [Source code](https://github.com/ffont/Freesound-iOS)
+    - [Author: @ffont](https://github.com/ffont)
+    - 7 ⭐
 
 
 ## 🗄️ Categories:

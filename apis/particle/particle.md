@@ -17,19 +17,38 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### JavaScript
-- Particle Cloud JavaScript SDK: [Documentation](https://docs.particle.io/reference/SDKs/javascript/)
+- Particle Cloud JavaScript SDK
+    - [Documentation](https://docs.particle.io/reference/SDKs/javascript/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- Particle JavaScript SDK by Particle: [Documentation](https://www.npmjs.com/package/@particle/api), [Source code](https://github.com/spark/particle-api-js)
+- Particle JavaScript SDK by Particle
+    - [Documentation](https://www.npmjs.com/package/@particle/api)
+    - [Source code](https://github.com/spark/particle-api-js)
+    - [Add author ➕]
+    - 112 ⭐
 
--  Particle JavaScript SDK by Particle: [Documentation](http://docs.particle.io/photon/javascript/)
+-  Particle JavaScript SDK by Particle
+    - [Documentation](http://docs.particle.io/photon/javascript/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Objective-C
-- Particle Objective-C Cloud SDK by Particle: [Documentation](https://docs.particle.io/reference/ios/)
+- Particle Objective-C Cloud SDK by Particle
+    - [Documentation](https://docs.particle.io/reference/ios/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- Particle iOS Cloud SDK by Particle: [Documentation](http://docs.particle.io/photon/ios/)
+- Particle iOS Cloud SDK by Particle
+    - [Documentation](http://docs.particle.io/photon/ios/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Java
--  Particle Android Cloud SDK by Particle: [Documentation](http://docs.particle.io/photon/android/)
+-  Particle Android Cloud SDK by Particle
+    - [Documentation](http://docs.particle.io/photon/android/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

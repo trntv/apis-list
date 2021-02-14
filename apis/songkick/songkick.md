@@ -20,22 +20,46 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Node.js
-- Songkick NodeJS SDK by Andrew Schneider: [Documentation](https://www.npmjs.com/package/songkick-api-node), [Source code](https://github.com/schnogz/songkick-api-node)
+- Songkick NodeJS SDK by Andrew Schneider
+    - [Documentation](https://www.npmjs.com/package/songkick-api-node)
+    - [Source code](https://github.com/schnogz/songkick-api-node)
+    - [Author: @schnogz](https://github.com/schnogz)
+    - 3 ⭐
 
-- Songkick Node.js SDK by Andrew Jaeger: [Documentation](https://www.npmjs.com/package/songkick-api), [Source code](https://github.com/MrJaeger/songkick-api)
+- Songkick Node.js SDK by Andrew Jaeger
+    - [Documentation](https://www.npmjs.com/package/songkick-api)
+    - [Source code](https://github.com/MrJaeger/songkick-api)
+    - [Author: @MrJaeger](https://github.com/MrJaeger)
+    - 3 ⭐
 
-- Songkick Node.js SDK by gig.today: [Documentation](https://github.com/gigtoday/sdk-songkick-nodejs)
+- Songkick Node.js SDK by gig.today
+    - [Documentation](https://github.com/gigtoday/sdk-songkick-nodejs)
+    - [Add source code URL ➕]()
+    - [Author: @matchilling](https://github.com/matchilling)
 
 ### PHP
-- Songkick PHP SDK by Antonello D&#x27;Ippolito: [Documentation](https://github.com/antodippo/SongkickPHP)
+- Songkick PHP SDK by Antonello D&#x27;Ippolito
+    - [Documentation](https://github.com/antodippo/SongkickPHP)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- Songkick PHP SDK by Tiago Pereira: [Documentation](https://github.com/wildlifechorus/songkick-php)
+- Songkick PHP SDK by Tiago Pereira
+    - [Documentation](https://github.com/wildlifechorus/songkick-php)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Java
-- Songkick Java SDK by Greg Knox: [Documentation](https://www.versioneye.com/java/com.randomnoun.songkick:songkick-api-client/0.0.2)
+- Songkick Java SDK by Greg Knox
+    - [Documentation](https://www.versioneye.com/java/com.randomnoun.songkick:songkick-api-client/0.0.2)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Ruby
-- Songkick Ruby SDK by Jared Mehle: [Documentation](https://github.com/jrmehle/songkickr)
+- Songkick Ruby SDK by Jared Mehle
+    - [Documentation](https://github.com/jrmehle/songkickr)
+    - [Add source code URL ➕]()
+    - [Author: @jrmehle](https://github.com/jrmehle)
+    - 41 ⭐
 
 
 ## 🗄️ Categories:

@@ -17,7 +17,10 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### C#
-- jobs-engine C# SDK by Ahmed Farahat: [Documentation](https://github.com/farahat80/jobs-engine)
+- jobs-engine C# SDK by Ahmed Farahat
+    - [Documentation](https://github.com/farahat80/jobs-engine)
+    - [Add source code URL ➕]()
+    - [Author: @farahat80](https://github.com/farahat80)
 
 
 ## 🗄️ Categories:

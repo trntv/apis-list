@@ -17,10 +17,18 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Python
-- DeepAffects Python SDK: [Documentation](https://github.com/SEERNET/deepaffects-python), [Source code](https://pypi.org/project/deepaffects/1.1.1/)
+- DeepAffects Python SDK
+    - [Documentation](https://github.com/SEERNET/deepaffects-python)
+    - [Source code](https://pypi.org/project/deepaffects/1.1.1/)
+    - [Add author ➕]
+    - 8 ⭐
 
 ### JavaScript, Node.js
-- DeepAffects Node.js SDK: [Documentation](https://github.com/SEERNET/deepaffects-node), [Source code](https://www.npmjs.com/package/deep-affects)
+- DeepAffects Node.js SDK
+    - [Documentation](https://github.com/SEERNET/deepaffects-node)
+    - [Source code](https://www.npmjs.com/package/deep-affects)
+    - [Add author ➕]
+    - 4 ⭐
 
 
 ## 🗄️ Categories:

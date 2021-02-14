@@ -20,7 +20,10 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Node.js
-- Grünstromindex NodeJS SDK: [Documentation](https://www.corrently.de/hintergrund/gruenstromindex/index.html), [Source code](https://app.swaggerhub.com/apis/corrently/Gruenstromindex/4.1.3)
+- Grünstromindex NodeJS SDK
+    - [Documentation](https://www.corrently.de/hintergrund/gruenstromindex/index.html)
+    - [Source code](https://app.swaggerhub.com/apis/corrently/Gruenstromindex/4.1.3)
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

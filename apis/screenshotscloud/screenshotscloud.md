@@ -20,25 +20,53 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### JavaScript
-- ScreenshotsCloud Shell Script SDK: [Documentation](https://github.com/ScreenshotsCloud/screenshotscloud-sh)
+- ScreenshotsCloud Shell Script SDK
+    - [Documentation](https://github.com/ScreenshotsCloud/screenshotscloud-sh)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 1 ⭐
 
 ### Java
-- ScreenshotsCloud Java SDK: [Documentation](https://github.com/ScreenshotsCloud/screenshotscloud-java)
+- ScreenshotsCloud Java SDK
+    - [Documentation](https://github.com/ScreenshotsCloud/screenshotscloud-java)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 1 ⭐
 
 ### C#
-- ScreenshotsCloud C# SDK: [Documentation](https://github.com/ScreenshotsCloud/screenshotscloud-cs)
+- ScreenshotsCloud C# SDK
+    - [Documentation](https://github.com/ScreenshotsCloud/screenshotscloud-cs)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 1 ⭐
 
 ### Node.js
-- ScreenshotsCloud NodeJS SDK: [Documentation](https://github.com/ScreenshotsCloud/screenshotscloud-node)
+- ScreenshotsCloud NodeJS SDK
+    - [Documentation](https://github.com/ScreenshotsCloud/screenshotscloud-node)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 1 ⭐
 
 ### Python
-- ScreenshotsCloud Python SDK: [Documentation](https://github.com/ScreenshotsCloud/screenshotscloud-python)
+- ScreenshotsCloud Python SDK
+    - [Documentation](https://github.com/ScreenshotsCloud/screenshotscloud-python)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 1 ⭐
 
 ### Ruby
-- ScreenshotsCloud Ruby SDK: [Documentation](https://github.com/ScreenshotsCloud/screenshotscloud-ruby)
+- ScreenshotsCloud Ruby SDK
+    - [Documentation](https://github.com/ScreenshotsCloud/screenshotscloud-ruby)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 1 ⭐
 
 ### PHP
-- ScreenshotsCloud PHP SDK: [Documentation](https://github.com/ScreenshotsCloud/screenshotscloud-php)
+- ScreenshotsCloud PHP SDK
+    - [Documentation](https://github.com/ScreenshotsCloud/screenshotscloud-php)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 3 ⭐
 
 
 ## 🗄️ Categories:

@@ -20,10 +20,18 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### JavaScript
-- Google Earth Engine Javascript SDK: [Documentation](https://developers.google.com/earth-engine/tutorial_api_01), [Source code](https://github.com/google/earthengine-api)
+- Google Earth Engine Javascript SDK
+    - [Documentation](https://developers.google.com/earth-engine/tutorial_api_01)
+    - [Source code](https://github.com/google/earthengine-api)
+    - [Add author ➕]
+    - 1414 ⭐
 
 ### Python
-- Google Earth Engine Python SDK by Google: [Documentation](https://developers.google.com/earth-engine/python_install), [Source code](https://github.com/google/earthengine-api)
+- Google Earth Engine Python SDK by Google
+    - [Documentation](https://developers.google.com/earth-engine/python_install)
+    - [Source code](https://github.com/google/earthengine-api)
+    - [Add author ➕]
+    - 1414 ⭐
 
 
 ## 🗄️ Categories:

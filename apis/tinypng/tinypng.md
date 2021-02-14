@@ -20,16 +20,32 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Java
-- TinyPNG Java SDK by TinyPNG: [Documentation](https://tinypng.com/developers/reference/java), [Source code](https://github.com/tinify/tinify-java)
+- TinyPNG Java SDK by TinyPNG
+    - [Documentation](https://tinypng.com/developers/reference/java)
+    - [Source code](https://github.com/tinify/tinify-java)
+    - [Add author ➕]
+    - 105 ⭐
 
 ### Node.js
-- TinyPNG Node.js SDK by TinyPNG: [Documentation](https://tinypng.com/developers/reference/nodejs), [Source code](https://github.com/tinify/tinify-nodejs)
+- TinyPNG Node.js SDK by TinyPNG
+    - [Documentation](https://tinypng.com/developers/reference/nodejs)
+    - [Source code](https://github.com/tinify/tinify-nodejs)
+    - [Add author ➕]
+    - 299 ⭐
 
 ### PHP
-- TinyPNG PHP SDK by TinyPNG: [Documentation](https://tinypng.com/developers/reference/php), [Source code](https://github.com/tinify/tinify-php)
+- TinyPNG PHP SDK by TinyPNG
+    - [Documentation](https://tinypng.com/developers/reference/php)
+    - [Source code](https://github.com/tinify/tinify-php)
+    - [Add author ➕]
+    - 202 ⭐
 
 ### Ruby
-- TinyPNG Ruby SDK by TinyPNG: [Documentation](https://tinypng.com/developers/reference/ruby), [Source code](https://github.com/tinify/tinify-ruby)
+- TinyPNG Ruby SDK by TinyPNG
+    - [Documentation](https://tinypng.com/developers/reference/ruby)
+    - [Source code](https://github.com/tinify/tinify-ruby)
+    - [Add author ➕]
+    - 35 ⭐
 
 
 ## 🗄️ Categories:

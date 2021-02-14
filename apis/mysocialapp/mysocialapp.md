@@ -20,13 +20,24 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Java
-- MySocialApp Java SDK: [Documentation](https://docs.mysocialapp.io/docs/quick-start-java)
+- MySocialApp Java SDK
+    - [Documentation](https://docs.mysocialapp.io/docs/quick-start-java)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Objective-C, Swift
-- MySocialApp iOS SDK: [Documentation](https://github.com/MySocialApp/mysocialapp-swift-client)
+- MySocialApp iOS SDK
+    - [Documentation](https://github.com/MySocialApp/mysocialapp-swift-client)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 5 ⭐
 
 ### Java, Kotlin
-- MySocialApp Android SDK: [Documentation](https://docs.mysocialapp.io/docs/quick-start-android), [Source code](https://github.com/MySocialApp/mysocialapp-java-client)
+- MySocialApp Android SDK
+    - [Documentation](https://docs.mysocialapp.io/docs/quick-start-android)
+    - [Source code](https://github.com/MySocialApp/mysocialapp-java-client)
+    - [Add author ➕]
+    - 5 ⭐
 
 
 ## 🗄️ Categories:

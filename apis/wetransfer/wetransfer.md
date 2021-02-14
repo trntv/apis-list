@@ -20,10 +20,18 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Swift
-- WeTransfer WeScan Swift SDK: [Documentation](https://github.com/WeTransfer/WeScan)
+- WeTransfer WeScan Swift SDK
+    - [Documentation](https://github.com/WeTransfer/WeScan)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 2219 ⭐
 
 ### JavaScript
-- WeTransfer JavaScript SDK: [Documentation](https://wetransfer.github.io/wt-api-docs/index.html#sdks), [Source code](https://github.com/WeTransfer/wt-js-sdk)
+- WeTransfer JavaScript SDK
+    - [Documentation](https://wetransfer.github.io/wt-api-docs/index.html#sdks)
+    - [Source code](https://github.com/WeTransfer/wt-js-sdk)
+    - [Add author ➕]
+    - 37 ⭐
 
 
 ## 🗄️ Categories:

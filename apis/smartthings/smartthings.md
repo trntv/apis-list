@@ -17,10 +17,18 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Node.js
-- Samsung SmartThings SmartApp NodeJS SDK: [Documentation](https://github.com/SmartThingsCommunity/smartapp-sdk-nodejs)
+- Samsung SmartThings SmartApp NodeJS SDK
+    - [Documentation](https://github.com/SmartThingsCommunity/smartapp-sdk-nodejs)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 90 ⭐
 
 ### Java
-- Samsung SmartThings SmartApp Java SDK: [Documentation](https://github.com/SmartThingsCommunity/smartapp-sdk-java), [Source code](https://search.maven.org/search?q&#x3D;g%3A%22com.smartthings.sdk%22)
+- Samsung SmartThings SmartApp Java SDK
+    - [Documentation](https://github.com/SmartThingsCommunity/smartapp-sdk-java)
+    - [Source code](https://search.maven.org/search?q&#x3D;g%3A%22com.smartthings.sdk%22)
+    - [Add author ➕]
+    - 37 ⭐
 
 
 ## 🗄️ Categories:

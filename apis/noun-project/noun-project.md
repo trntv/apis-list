@@ -17,7 +17,11 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Ruby
-- Noun Project Ruby Gem noun-project-api: [Documentation](https://github.com/TailorBrands/noun-project-api), [Source code](http://rubygems.org/gems/noun-project-api/versions/0.0.5)
+- Noun Project Ruby Gem noun-project-api
+    - [Documentation](https://github.com/TailorBrands/noun-project-api)
+    - [Source code](http://rubygems.org/gems/noun-project-api/versions/0.0.5)
+    - [Add author ➕]
+    - 21 ⭐
 
 
 ## 🗄️ Categories:

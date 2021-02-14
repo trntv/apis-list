@@ -20,28 +20,62 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Node.js
-- Dribbble Node.js SDK by Tim Marshall: [Documentation](https://www.npmjs.com/package/dribbble-api), [Source code](https://github.com/tmarshall/Dribbble-API)
+- Dribbble Node.js SDK by Tim Marshall
+    - [Documentation](https://www.npmjs.com/package/dribbble-api)
+    - [Source code](https://github.com/tmarshall/Dribbble-API)
+    - [Author: @tmarshall](https://github.com/tmarshall)
+    - 5 ⭐
 
 ### Ruby
-- Dribbble Ruby SDK by Charley David: [Documentation](https://github.com/Calyhre/dribbble)
+- Dribbble Ruby SDK by Charley David
+    - [Documentation](https://github.com/Calyhre/dribbble)
+    - [Add source code URL ➕]()
+    - [Author: @Calyhre](https://github.com/Calyhre)
+    - 32 ⭐
 
 ### Objective-C
-- Dribbble Objective-C SDK by Lex Tang: [Documentation](https://github.com/lexrus/LTDribbbleAPI)
+- Dribbble Objective-C SDK by Lex Tang
+    - [Documentation](https://github.com/lexrus/LTDribbbleAPI)
+    - [Add source code URL ➕]()
+    - [Author: @lexrus](https://github.com/lexrus)
+    - 15 ⭐
 
-- Dribbble iOS SDK by Agilie Team: [Documentation](https://github.com/agilie/dribbble-ios-sdk)
+- Dribbble iOS SDK by Agilie Team
+    - [Documentation](https://github.com/agilie/dribbble-ios-sdk)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 74 ⭐
 
 ### PHP
-- Dribbble PHP SDK by Martin Bean: [Documentation](https://github.com/martinbean/dribbble-php)
+- Dribbble PHP SDK by Martin Bean
+    - [Documentation](https://github.com/martinbean/dribbble-php)
+    - [Add source code URL ➕]()
+    - [Author: @martinbean](https://github.com/martinbean)
+    - 82 ⭐
 
-- Dribbble PHP SDK by Nahid Bin Azhar: [Documentation](https://github.com/nahid/dribbble-php-client)
+- Dribbble PHP SDK by Nahid Bin Azhar
+    - [Documentation](https://github.com/nahid/dribbble-php-client)
+    - [Add source code URL ➕]()
+    - [Author: @nahid](https://github.com/nahid)
+    - 2 ⭐
 
 ### Java
-- Dribbble Android SDK by Agilie Team: [Documentation](https://github.com/agilie/dribbble-android-sdk)
+- Dribbble Android SDK by Agilie Team
+    - [Documentation](https://github.com/agilie/dribbble-android-sdk)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 31 ⭐
 
 ### 
-- Dribbble client library for ActionScript: [Documentation](http://www.sangupta.com/projects/as3dribbble)
+- Dribbble client library for ActionScript
+    - [Documentation](http://www.sangupta.com/projects/as3dribbble)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- dribbble-java-client: [Documentation](http://www.sangupta.com/projects/dribbble-java-client.html)
+- dribbble-java-client
+    - [Documentation](http://www.sangupta.com/projects/dribbble-java-client.html)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

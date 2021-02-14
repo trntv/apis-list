@@ -17,24 +17,52 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Python
-- CartoDB Python SDK by CartoDB: [Documentation](https://github.com/CartoDB/carto-python)
+- CartoDB Python SDK by CartoDB
+    - [Documentation](https://github.com/CartoDB/carto-python)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 149 ⭐
 
-- CartoDB Python Library by CartoDB: [Documentation](https://github.com/CartoDB/cartodb-python)
+- CartoDB Python Library by CartoDB
+    - [Documentation](https://github.com/CartoDB/cartodb-python)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 149 ⭐
 
 ### R
-- CartoDB R SDK by CartoDB: [Documentation](https://github.com/CartoDB/cartodb-r)
+- CartoDB R SDK by CartoDB
+    - [Documentation](https://github.com/CartoDB/cartodb-r)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 60 ⭐
 
 ### Node.js
-- CartoDB Node.js SDK by CartoDB: [Documentation](https://github.com/CartoDB/cartodb-nodejs)
+- CartoDB Node.js SDK by CartoDB
+    - [Documentation](https://github.com/CartoDB/cartodb-nodejs)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 46 ⭐
 
 ### Java
-- CartoDB Java Library by CartoDB: [Documentation](https://github.com/CartoDB/cartodb-java-client)
+- CartoDB Java Library by CartoDB
+    - [Documentation](https://github.com/CartoDB/cartodb-java-client)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 10 ⭐
 
 ### JavaScript
-- CartoDB JavaScript Library by CartoDB: [Documentation](https://github.com/CartoDB/cartodb.js)
+- CartoDB JavaScript Library by CartoDB
+    - [Documentation](https://github.com/CartoDB/cartodb.js)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 414 ⭐
 
 ### SQL
-- CartoDB SQL Library by CartoDB: [Documentation](https://github.com/CartoDB/CartoDB-SQL-API)
+- CartoDB SQL Library by CartoDB
+    - [Documentation](https://github.com/CartoDB/CartoDB-SQL-API)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 57 ⭐
 
 
 ## 🗄️ Categories:

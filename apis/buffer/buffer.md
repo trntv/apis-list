@@ -20,18 +20,37 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Ruby
-- Buffer Ruby SDK: [Documentation](https://buffer.com/developers/libraries/ruby), [Source code](https://github.com/bufferapp/buffer-ruby)
+- Buffer Ruby SDK
+    - [Documentation](https://buffer.com/developers/libraries/ruby)
+    - [Source code](https://github.com/bufferapp/buffer-ruby)
+    - [Add author ➕]
+    - 59 ⭐
 
-- Buffer Ruby Library: [Documentation](https://github.com/bufferapp/buffer-ruby)
+- Buffer Ruby Library
+    - [Documentation](https://github.com/bufferapp/buffer-ruby)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 59 ⭐
 
 ### Go
-- SocialSharesCount Go SDK by Sumesh Suvarna: [Documentation](https://github.com/gssumesh/socialsharescount)
+- SocialSharesCount Go SDK by Sumesh Suvarna
+    - [Documentation](https://github.com/gssumesh/socialsharescount)
+    - [Add source code URL ➕]()
+    - [Author: @gssumesh](https://github.com/gssumesh)
+    - 9 ⭐
 
 ### Python
-- Buffer Python SDK by alex tsai: [Documentation](https://github.com/caffodian/mezzanine-buffer)
+- Buffer Python SDK by alex tsai
+    - [Documentation](https://github.com/caffodian/mezzanine-buffer)
+    - [Add source code URL ➕]()
+    - [Author: @caffodian](https://github.com/caffodian)
 
 ### Node.js
--  Buffer Node.js SDK by Joe McKie: [Documentation](https://github.com/joemckie/buffer-node)
+-  Buffer Node.js SDK by Joe McKie
+    - [Documentation](https://github.com/joemckie/buffer-node)
+    - [Add source code URL ➕]()
+    - [Author: @joemckie](https://github.com/joemckie)
+    - 1 ⭐
 
 
 ## 🗄️ Categories:

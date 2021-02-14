@@ -17,10 +17,18 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Python
-- Nexchange Python SDK by onitsoft: [Documentation](https://github.com/onitsoft/nexchange-sdk-python/blob/master/README.md), [Source code](https://github.com/onitsoft/nexchange-sdk-python)
+- Nexchange Python SDK by onitsoft
+    - [Documentation](https://github.com/onitsoft/nexchange-sdk-python/blob/master/README.md)
+    - [Source code](https://github.com/onitsoft/nexchange-sdk-python)
+    - [Add author ➕]
+    - 1 ⭐
 
 ### Go
-- Nexchange Go SDK by onitsoft: [Documentation](https://github.com/onitsoft/nexchange-sdk-go/blob/master/README.md), [Source code](https://github.com/onitsoft/nexchange-sdk-go)
+- Nexchange Go SDK by onitsoft
+    - [Documentation](https://github.com/onitsoft/nexchange-sdk-go/blob/master/README.md)
+    - [Source code](https://github.com/onitsoft/nexchange-sdk-go)
+    - [Add author ➕]
+    - 1 ⭐
 
 
 ## 🗄️ Categories:

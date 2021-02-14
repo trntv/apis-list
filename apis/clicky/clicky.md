@@ -20,10 +20,16 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### C#
-- Clicky C# SDK by Clicky: [Documentation](https://clicky.com/help/apps-plugins#csharp)
+- Clicky C# SDK by Clicky
+    - [Documentation](https://clicky.com/help/apps-plugins#csharp)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### PHP
-- Clicky PHP SDK by Clicky: [Documentation](https://clicky.com/help/apps-plugins#php)
+- Clicky PHP SDK by Clicky
+    - [Documentation](https://clicky.com/help/apps-plugins#php)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

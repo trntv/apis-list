@@ -17,10 +17,16 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Objective-C
-- Flurry Analytics iOS SDK: [Documentation](https://developer.yahoo.com/flurry/docs/analytics/gettingstarted/ios/)
+- Flurry Analytics iOS SDK
+    - [Documentation](https://developer.yahoo.com/flurry/docs/analytics/gettingstarted/ios/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Java
-- Flurry Analytics Android SDK: [Documentation](https://developer.yahoo.com/flurry/docs/analytics/gettingstarted/android/)
+- Flurry Analytics Android SDK
+    - [Documentation](https://developer.yahoo.com/flurry/docs/analytics/gettingstarted/android/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

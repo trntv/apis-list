@@ -17,25 +17,53 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### JavaScript
-- Microsoft Graph JavaScript SDK by Microsoft: [Documentation](https://github.com/microsoftgraph/msgraph-sdk-javascript)
+- Microsoft Graph JavaScript SDK by Microsoft
+    - [Documentation](https://github.com/microsoftgraph/msgraph-sdk-javascript)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 412 ⭐
 
 ### PHP
-- Microsoft Graph PHP SDK by Microsoft: [Documentation](https://github.com/microsoftgraph/msgraph-sdk-php)
+- Microsoft Graph PHP SDK by Microsoft
+    - [Documentation](https://github.com/microsoftgraph/msgraph-sdk-php)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 288 ⭐
 
 ### Objective-C
-- Microsoft Graph Objective-C SDK by Microsoft: [Documentation](https://github.com/microsoftgraph/msgraph-sdk-ios)
+- Microsoft Graph Objective-C SDK by Microsoft
+    - [Documentation](https://github.com/microsoftgraph/msgraph-sdk-ios)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 24 ⭐
 
 ### Java
-- Microsoft Graph Java SDK by Microsoft: [Documentation](https://github.com/microsoftgraph/msgraph-sdk-android)
+- Microsoft Graph Java SDK by Microsoft
+    - [Documentation](https://github.com/microsoftgraph/msgraph-sdk-android)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 52 ⭐
 
 ### Ruby
-- Microsoft Graph Ruby SDK by Microsoft: [Documentation](https://github.com/microsoftgraph/msgraph-sdk-ruby)
+- Microsoft Graph Ruby SDK by Microsoft
+    - [Documentation](https://github.com/microsoftgraph/msgraph-sdk-ruby)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 65 ⭐
 
 ### Python
-- Microsoft Graph Python SDK by Microsoft: [Documentation](https://github.com/microsoftgraph/msgraph-sdk-python)
+- Microsoft Graph Python SDK by Microsoft
+    - [Documentation](https://github.com/microsoftgraph/msgraph-sdk-python)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 40 ⭐
 
 ### .Net
-- Microsoft Graph .Net SDK by Microsoft: [Documentation](https://github.com/microsoftgraph/msgraph-sdk-dotnet)
+- Microsoft Graph .Net SDK by Microsoft
+    - [Documentation](https://github.com/microsoftgraph/msgraph-sdk-dotnet)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 374 ⭐
 
 
 ## 🗄️ Categories:

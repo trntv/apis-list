@@ -20,17 +20,34 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Java
-- PushSpring Android SDK by Rhapsody: [Documentation](https://github.com/Rhapsody/PushSpringSDK-Android), [Source code](https://github.com/Rhapsody/PushSpringSDK-Android/tree/master/PushSpringSDK/src/com/pushspring/sdk)
+- PushSpring Android SDK by Rhapsody
+    - [Documentation](https://github.com/Rhapsody/PushSpringSDK-Android)
+    - [Source code](https://github.com/Rhapsody/PushSpringSDK-Android/tree/master/PushSpringSDK/src/com/pushspring/sdk)
+    - [Add author ➕]
 
-- Rhapsody Java SDK by Kai Winter: [Documentation](https://github.com/kaiwinter/rhapsody-java-sdk)
+- Rhapsody Java SDK by Kai Winter
+    - [Documentation](https://github.com/kaiwinter/rhapsody-java-sdk)
+    - [Add source code URL ➕]()
+    - [Author: @kaiwinter](https://github.com/kaiwinter)
+    - 3 ⭐
 
-- Rhapsody Android SDK by Rhapsody: [Documentation](https://developer.rhapsody.com/sdks), [Source code](https://github.com/Rhapsody/rhapsody-android-sdk)
+- Rhapsody Android SDK by Rhapsody
+    - [Documentation](https://developer.rhapsody.com/sdks)
+    - [Source code](https://github.com/Rhapsody/rhapsody-android-sdk)
+    - [Add author ➕]
 
 ### JavaScript
-- Rhapsody JavaScript SDK by Rhapsody: [Documentation](https://github.com/Rhapsody/rhapsody.js)
+- Rhapsody JavaScript SDK by Rhapsody
+    - [Documentation](https://github.com/Rhapsody/rhapsody.js)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 13 ⭐
 
 ### Objective-C
-- Rhapsody iOS SDK by Rhapsody: [Documentation](https://developers.coinbase.com/api/v2), [Source code](https://github.com/Rhapsody/rhapsody-ios-sdk)
+- Rhapsody iOS SDK by Rhapsody
+    - [Documentation](https://developers.coinbase.com/api/v2)
+    - [Source code](https://github.com/Rhapsody/rhapsody-ios-sdk)
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

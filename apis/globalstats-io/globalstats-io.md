@@ -20,7 +20,11 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### C#
-- Globalstats IO Unity SDK: [Documentation](https://github.com/globalstats-io/unity-library), [Source code](https://github.com/globalstats-io/unity-library.git)
+- Globalstats IO Unity SDK
+    - [Documentation](https://github.com/globalstats-io/unity-library)
+    - [Source code](https://github.com/globalstats-io/unity-library.git)
+    - [Add author ➕]
+    - 3 ⭐
 
 
 ## 🗄️ Categories:

@@ -1,5 +1,4 @@
 const fs = require("fs");
-const YAML = require("yaml")
 const Handlebars = require("handlebars")
 const {read} = require("./list");
 const {categories, sortCategories} = require("./categories") 

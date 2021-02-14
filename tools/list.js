@@ -6,3 +6,7 @@ exports.read = (source) => {
 
     return YAML.parse(data)
 }
+
+exports.write = (source, apis) => {
+    fs.writeFileSync(source, YAML.stringify(apis))
+}

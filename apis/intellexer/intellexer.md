@@ -17,7 +17,10 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### C, C#, C++
-- Intellexer C# SDK by Intellexer: [Documentation](http://www.intellexer.com/), [Source code](http://www.intellexer.com/sdk_overview.html)
+- Intellexer C# SDK by Intellexer
+    - [Documentation](http://www.intellexer.com/)
+    - [Source code](http://www.intellexer.com/sdk_overview.html)
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

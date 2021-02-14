@@ -20,10 +20,16 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### JavaScript, Objective-C
-- Wikitude iOS SDK: [Documentation](http://www.wikitude.com/products/wikitude-augmented-reality-sdk-mobile/wikitude-sdk-ios/)
+- Wikitude iOS SDK
+    - [Documentation](http://www.wikitude.com/products/wikitude-augmented-reality-sdk-mobile/wikitude-sdk-ios/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### JavaScript
-- Wikitude Android SDK: [Documentation](http://www.wikitude.com/products/wikitude-augmented-reality-sdk-mobile/wikitude-sdk-android/)
+- Wikitude Android SDK
+    - [Documentation](http://www.wikitude.com/products/wikitude-augmented-reality-sdk-mobile/wikitude-sdk-android/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

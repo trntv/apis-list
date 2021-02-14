@@ -17,28 +17,60 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### PHP
-- Bitly PHP SDK by Kanan Langin-Hooper: [Documentation](https://packagist.org/packages/kananlanginhooper/bitly-api-php), [Source code](https://github.com/kananlanginhooper/bitly-api-php)
+- Bitly PHP SDK by Kanan Langin-Hooper
+    - [Documentation](https://packagist.org/packages/kananlanginhooper/bitly-api-php)
+    - [Source code](https://github.com/kananlanginhooper/bitly-api-php)
+    - [Author: @kananlanginhooper](https://github.com/kananlanginhooper)
 
-- Bit.ly PHP Library by Yii: [Documentation](http://www.yiiframework.com/extension/bitly-url-shortener)
+- Bit.ly PHP Library by Yii
+    - [Documentation](http://www.yiiframework.com/extension/bitly-url-shortener)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Ruby
-- Bit.ly Ruby Library by Louis Gillies: [Documentation](https://github.com/playgood/get_shorty)
+- Bit.ly Ruby Library by Louis Gillies
+    - [Documentation](https://github.com/playgood/get_shorty)
+    - [Add source code URL ➕]()
+    - [Author: @louisgillies](https://github.com/louisgillies)
+    - 7 ⭐
 
-- url_shortener (Bitly Ruby Gem): [Documentation](http://rdoc.info/github/nas/url_shortener), [Source code](https://github.com/nas/url_shortener)
+- url_shortener (Bitly Ruby Gem)
+    - [Documentation](http://rdoc.info/github/nas/url_shortener)
+    - [Source code](https://github.com/nas/url_shortener)
+    - [Author: @nas](https://github.com/nas)
+    - 40 ⭐
 
 ### Python
-- Bit.ly Python Library by Yoav Aviram: [Documentation](https://code.google.com/p/python-bitly/)
+- Bit.ly Python Library by Yoav Aviram
+    - [Documentation](https://code.google.com/p/python-bitly/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- Bit.ly Python Library bitly-api-python: [Documentation](https://github.com/bitly/bitly-api-python)
+- Bit.ly Python Library bitly-api-python
+    - [Documentation](https://github.com/bitly/bitly-api-python)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 235 ⭐
 
 ### .Net, Java
--  Bit.ly Java Library by Finn Johnsen : [Documentation](https://github.com/finnjohnsen/BitlyAndroid)
+-  Bit.ly Java Library by Finn Johnsen 
+    - [Documentation](https://github.com/finnjohnsen/BitlyAndroid)
+    - [Add source code URL ➕]()
+    - [Author: @finnjohnsen](https://github.com/finnjohnsen)
+    - 20 ⭐
 
 ### .Net
-- Bitly .NET library BitlyDotNET: [Documentation](http://dev.bitly.com/code_libraries.html), [Source code](https://code.google.com/p/bitly-dot-net/)
+- Bitly .NET library BitlyDotNET
+    - [Documentation](http://dev.bitly.com/code_libraries.html)
+    - [Source code](https://code.google.com/p/bitly-dot-net/)
+    - [Add author ➕]
 
 ### Node.js
-- node-bitlyapi: [Documentation](https://www.npmjs.org/package/node-bitlyapi), [Source code](https://github.com/nkirby/node-bitlyapi)
+- node-bitlyapi
+    - [Documentation](https://www.npmjs.org/package/node-bitlyapi)
+    - [Source code](https://github.com/nkirby/node-bitlyapi)
+    - [Author: @nkirby](https://github.com/nkirby)
+    - 35 ⭐
 
 
 ## 🗄️ Categories:

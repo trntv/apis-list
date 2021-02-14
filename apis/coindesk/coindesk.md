@@ -20,13 +20,23 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Go
--  CoinDesk Go SDK by Martín Raúl Villalba: [Documentation](https://github.com/mvillalba/go-coindesk)
+-  CoinDesk Go SDK by Martín Raúl Villalba
+    - [Documentation](https://github.com/mvillalba/go-coindesk)
+    - [Add source code URL ➕]()
+    - [Author: @mvillalba](https://github.com/mvillalba)
+    - 1 ⭐
 
 ### PHP
-- CoinDesk PHP SDK by haqqur: [Documentation](https://github.com/haqqur/php-btconv)
+- CoinDesk PHP SDK by haqqur
+    - [Documentation](https://github.com/haqqur/php-btconv)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Node.js
-- CoinDesk Node.js SDK by LapsuS: [Documentation](https://github.com/erlapso/node-coindesk)
+- CoinDesk Node.js SDK by LapsuS
+    - [Documentation](https://github.com/erlapso/node-coindesk)
+    - [Add source code URL ➕]()
+    - [Author: @erlapso](https://github.com/erlapso)
 
 
 ## 🗄️ Categories:

@@ -17,33 +17,68 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Node.js
-- Mailgun Node.js SDK by Bojan: [Documentation](https://www.npmjs.com/package/mailgun-js), [Source code](https://github.com/bojand/mailgun-js)
+- Mailgun Node.js SDK by Bojan
+    - [Documentation](https://www.npmjs.com/package/mailgun-js)
+    - [Source code](https://github.com/bojand/mailgun-js)
+    - [Add author ➕]
+    - 893 ⭐
 
-- Mailgun Node.js SDK by Mailgun: [Documentation](https://documentation.mailgun.com/libraries.html#node-js)
+- Mailgun Node.js SDK by Mailgun
+    - [Documentation](https://documentation.mailgun.com/libraries.html#node-js)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Objective-C
-- Mailgun Objective-C SDK by Rackspace Hosting: [Documentation](https://github.com/rackerlabs/objc-mailgun)
+- Mailgun Objective-C SDK by Rackspace Hosting
+    - [Documentation](https://github.com/rackerlabs/objc-mailgun)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 26 ⭐
 
 ### Go
-- Mailgun Go SDK by Mailgun: [Documentation](https://github.com/mailgun/mailgun-go)
+- Mailgun Go SDK by Mailgun
+    - [Documentation](https://github.com/mailgun/mailgun-go)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 499 ⭐
 
 ### PHP
-- Mailgun PHP SDK by Mailgun: [Documentation](https://github.com/mailgun/mailgun-php)
+- Mailgun PHP SDK by Mailgun
+    - [Documentation](https://github.com/mailgun/mailgun-php)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 956 ⭐
 
 ### Ruby
-- Mailgun Ruby SDK by Mailgun: [Documentation](https://documentation.mailgun.com/libraries.html#ruby)
+- Mailgun Ruby SDK by Mailgun
+    - [Documentation](https://documentation.mailgun.com/libraries.html#ruby)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### C#
-- Mailgun C# SDK by Mailgun: [Documentation](https://documentation.mailgun.com/libraries.html#c)
+- Mailgun C# SDK by Mailgun
+    - [Documentation](https://documentation.mailgun.com/libraries.html#c)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Java
-- Mailgun Java SDK by Mailgun: [Documentation](https://documentation.mailgun.com/libraries.html#java)
+- Mailgun Java SDK by Mailgun
+    - [Documentation](https://documentation.mailgun.com/libraries.html#java)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Python
-- Mailgun Python SDK by Mailgun: [Documentation](https://documentation.mailgun.com/libraries.html#python)
+- Mailgun Python SDK by Mailgun
+    - [Documentation](https://documentation.mailgun.com/libraries.html#python)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### JavaScript
-- Mailgun Meteor Library by GfK Business Applications: [Documentation](https://github.com/gfk-ba/meteor-mailgun-api/)
+- Mailgun Meteor Library by GfK Business Applications
+    - [Documentation](https://github.com/gfk-ba/meteor-mailgun-api/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 14 ⭐
 
 
 ## 🗄️ Categories:

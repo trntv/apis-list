@@ -17,19 +17,37 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Python
-- Minoshiro Python SDK by Minoshiro: [Documentation](https://github.com/Mino-shiro/Minoshiro)
+- Minoshiro Python SDK by Minoshiro
+    - [Documentation](https://github.com/Mino-shiro/Minoshiro)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 13 ⭐
 
 ### Objective-C
-- Hakuchou iOS SDK by MAL Updater OS X: [Documentation](https://github.com/Atelier-Shiori/Hakuchou)
+- Hakuchou iOS SDK by MAL Updater OS X
+    - [Documentation](https://github.com/Atelier-Shiori/Hakuchou)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 2 ⭐
 
 ### Java
-- AniRat Java SDK by acofmelt: [Documentation](https://github.com/acofmelt/AniRat)
+- AniRat Java SDK by acofmelt
+    - [Documentation](https://github.com/acofmelt/AniRat)
+    - [Add source code URL ➕]()
+    - [Author: @acofmelt](https://github.com/acofmelt)
 
 ### Node.js
-- Kitsu NodeJS SDK by Hieu Nguyen : [Documentation](https://www.npmjs.com/package/kitsu-api), [Source code](https://github.com/hieunhit/kitsu-api)
+- Kitsu NodeJS SDK by Hieu Nguyen 
+    - [Documentation](https://www.npmjs.com/package/kitsu-api)
+    - [Source code](https://github.com/hieunhit/kitsu-api)
+    - [Author: @hieunhit](https://github.com/hieunhit)
 
 ### JavaScript
-- Kitsu JavaScript SDK: [Documentation](https://github.com/hummingbird-me/hummingbird-client)
+- Kitsu JavaScript SDK
+    - [Documentation](https://github.com/hummingbird-me/hummingbird-client)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 156 ⭐
 
 
 ## 🗄️ Categories:

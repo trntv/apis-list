@@ -17,13 +17,23 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Ruby
-- Yummly Ruby SDK by Theo Mills: [Documentation](https://github.com/twmills/yummly)
+- Yummly Ruby SDK by Theo Mills
+    - [Documentation](https://github.com/twmills/yummly)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Node.js
-- Yummly Node.js SDK by Yummly: [Documentation](https://github.com/yummly/node-yummly)
+- Yummly Node.js SDK by Yummly
+    - [Documentation](https://github.com/yummly/node-yummly)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Python
-- Yummly Python SDK by Derrick Gilland: [Documentation](https://github.com/dgilland/yummly.py)
+- Yummly Python SDK by Derrick Gilland
+    - [Documentation](https://github.com/dgilland/yummly.py)
+    - [Add source code URL ➕]()
+    - [Author: @dgilland](https://github.com/dgilland)
+    - 27 ⭐
 
 
 ## 🗄️ Categories:

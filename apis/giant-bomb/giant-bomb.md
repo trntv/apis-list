@@ -20,10 +20,18 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Ruby
-- Giant Bomb Ruby SDK by Robert Coker: [Documentation](https://github.com/intelekshual/giantbomb)
+- Giant Bomb Ruby SDK by Robert Coker
+    - [Documentation](https://github.com/intelekshual/giantbomb)
+    - [Add source code URL ➕]()
+    - [Author: @intelekshual](https://github.com/intelekshual)
+    - 23 ⭐
 
 ### Python
-- Giant Bomb Python SDK by Leandro: [Documentation](https://github.com/xupisco/GiantBomb)
+- Giant Bomb Python SDK by Leandro
+    - [Documentation](https://github.com/xupisco/GiantBomb)
+    - [Add source code URL ➕]()
+    - [Author: @xupisco](https://github.com/xupisco)
+    - 20 ⭐
 
 
 ## 🗄️ Categories:

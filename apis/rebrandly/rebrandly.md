@@ -17,7 +17,11 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### PHP
-- Rebrandly PHP SDK by Partnermarketing: [Documentation](https://github.com/partnermarketing/rebrandly-sdk)
+- Rebrandly PHP SDK by Partnermarketing
+    - [Documentation](https://github.com/partnermarketing/rebrandly-sdk)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 3 ⭐
 
 
 ## 🗄️ Categories:

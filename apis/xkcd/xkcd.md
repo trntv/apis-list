@@ -17,15 +17,29 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Elixir
-- xkcd Elixir SDK by Devin Clark: [Documentation](https://libraries.io/hex/xkcd), [Source code](https://github.com/notdevinclark/xkcd)
+- xkcd Elixir SDK by Devin Clark
+    - [Documentation](https://libraries.io/hex/xkcd)
+    - [Source code](https://github.com/notdevinclark/xkcd)
+    - [Author: @notdevinclark](https://github.com/notdevinclark)
 
 ### Python
-- xkcd Python SDK by Ben Rosser: [Documentation](https://pypi.python.org/pypi/xkcd/)
+- xkcd Python SDK by Ben Rosser
+    - [Documentation](https://pypi.python.org/pypi/xkcd/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- xkcd Python SDK by JacobLandau: [Documentation](https://github.com/JacobLandau/pykcd)
+- xkcd Python SDK by JacobLandau
+    - [Documentation](https://github.com/JacobLandau/pykcd)
+    - [Add source code URL ➕]()
+    - [Author: @JacobLandau](https://github.com/JacobLandau)
+    - 33 ⭐
 
 ### Go
-- xkcd Go SDK by nishanths: [Documentation](https://github.com/nishanths/go-xkcd)
+- xkcd Go SDK by nishanths
+    - [Documentation](https://github.com/nishanths/go-xkcd)
+    - [Add source code URL ➕]()
+    - [Author: @nishanths](https://github.com/nishanths)
+    - 43 ⭐
 
 
 ## 🗄️ Categories:

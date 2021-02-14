@@ -17,22 +17,45 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Python
-- Nutritionix Python SDK by Lee Trout: [Documentation](https://github.com/leetrout/python-nutritionix)
+- Nutritionix Python SDK by Lee Trout
+    - [Documentation](https://github.com/leetrout/python-nutritionix)
+    - [Add source code URL ➕]()
+    - [Author: @leetrout](https://github.com/leetrout)
+    - 29 ⭐
 
 ### PHP
-- Nutritionix PHP SDK by Leejay Gajitos: [Documentation](https://github.com/nutritionix/api-library-php)
+- Nutritionix PHP SDK by Leejay Gajitos
+    - [Documentation](https://github.com/nutritionix/api-library-php)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 6 ⭐
 
 ### Node.js
-- Nutritionix Node.js SDK by James R. Qualls: [Documentation](https://www.npmjs.com/package/nutritionix)
+- Nutritionix Node.js SDK by James R. Qualls
+    - [Documentation](https://www.npmjs.com/package/nutritionix)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Objective-C
-- Nutritionix iOS SDK by Peter Kasson: [Documentation](https://github.com/pkasson/nutritionix_iOS_lib)
+- Nutritionix iOS SDK by Peter Kasson
+    - [Documentation](https://github.com/pkasson/nutritionix_iOS_lib)
+    - [Add source code URL ➕]()
+    - [Author: @pkasson](https://github.com/pkasson)
+    - 11 ⭐
 
 ### .Net
-- Nutritionix .NET SDK by Carolyn Van Slyck: [Documentation](https://github.com/carolynvs/nutritionix)
+- Nutritionix .NET SDK by Carolyn Van Slyck
+    - [Documentation](https://github.com/carolynvs/nutritionix)
+    - [Add source code URL ➕]()
+    - [Author: @carolynvs](https://github.com/carolynvs)
+    - 8 ⭐
 
 ### Ruby
-- Nutritionix Ruby SDK by JigneshGohel: [Documentation](https://github.com/JigneshGohel-BoTreeConsulting/nutritionix-api-ruby-library/tree/api_v_1_1)
+- Nutritionix Ruby SDK by JigneshGohel
+    - [Documentation](https://github.com/JigneshGohel-BoTreeConsulting/nutritionix-api-ruby-library/tree/api_v_1_1)
+    - [Add source code URL ➕]()
+    - [Author: @JigneshGohel-BoTreeConsulting](https://github.com/JigneshGohel-BoTreeConsulting)
+    - 1 ⭐
 
 
 ## 🗄️ Categories:

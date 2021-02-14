@@ -20,41 +20,89 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Scala
-- Cloudinary Scala SDK by Cloudinary: [Documentation](https://github.com/cloudinary/cloudinary_scala/blob/master/README.md), [Source code](https://github.com/cloudinary/cloudinary_scala)
+- Cloudinary Scala SDK by Cloudinary
+    - [Documentation](https://github.com/cloudinary/cloudinary_scala/blob/master/README.md)
+    - [Source code](https://github.com/cloudinary/cloudinary_scala)
+    - [Add author ➕]
+    - 16 ⭐
 
 ### Node.js
-- Cloudinary AngularJS SDK by Cloudinary: [Documentation](https://github.com/cloudinary/cloudinary_angular/wiki), [Source code](https://github.com/cloudinary/cloudinary_angular)
+- Cloudinary AngularJS SDK by Cloudinary
+    - [Documentation](https://github.com/cloudinary/cloudinary_angular/wiki)
+    - [Source code](https://github.com/cloudinary/cloudinary_angular)
+    - [Add author ➕]
+    - 303 ⭐
 
-- Cloudinary NodeJS SDK by Cloudinary: [Documentation](http://cloudinary.com/documentation/node_integration), [Source code](https://github.com/cloudinary/cloudinary_npm)
+- Cloudinary NodeJS SDK by Cloudinary
+    - [Documentation](http://cloudinary.com/documentation/node_integration)
+    - [Source code](https://github.com/cloudinary/cloudinary_npm)
+    - [Add author ➕]
+    - 440 ⭐
 
-- Cloudinary Node.js SDK by Cloudinary: [Documentation](http://cloudinary.com/documentation/node_image_upload#server_side_upload)
+- Cloudinary Node.js SDK by Cloudinary
+    - [Documentation](http://cloudinary.com/documentation/node_image_upload#server_side_upload)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Swift
-- Cloudinary iOS SDK by Cloudinary: [Documentation](https://github.com/cloudinary/cloudinary_ios/blob/master/README.md), [Source code](https://github.com/cloudinary/cloudinary_ios)
+- Cloudinary iOS SDK by Cloudinary
+    - [Documentation](https://github.com/cloudinary/cloudinary_ios/blob/master/README.md)
+    - [Source code](https://github.com/cloudinary/cloudinary_ios)
+    - [Add author ➕]
+    - 133 ⭐
 
 ### Java
-- Cloudinary Android SDK by Cloudinary: [Documentation](https://github.com/cloudinary/cloudinary_java/blob/master/cloudinary-android/README.md), [Source code](https://github.com/cloudinary/cloudinary_java/tree/master/cloudinary-android)
+- Cloudinary Android SDK by Cloudinary
+    - [Documentation](https://github.com/cloudinary/cloudinary_java/blob/master/cloudinary-android/README.md)
+    - [Source code](https://github.com/cloudinary/cloudinary_java/tree/master/cloudinary-android)
+    - [Add author ➕]
+    - 128 ⭐
 
-- Cloudinary Java SDK by Cloudinary: [Documentation](http://cloudinary.com/documentation/java_image_upload#server_side_upload)
+- Cloudinary Java SDK by Cloudinary
+    - [Documentation](http://cloudinary.com/documentation/java_image_upload#server_side_upload)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### .Net
-- Cloudinary .NET SDK by Cloudinary: [Documentation](http://cloudinary.com/documentation/dotnet_image_upload#server_side_upload)
+- Cloudinary .NET SDK by Cloudinary
+    - [Documentation](http://cloudinary.com/documentation/dotnet_image_upload#server_side_upload)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### PHP
-- Cloudinary PHP SDK by Cloudinary: [Documentation](http://cloudinary.com/documentation/php_image_upload#server_side_upload)
+- Cloudinary PHP SDK by Cloudinary
+    - [Documentation](http://cloudinary.com/documentation/php_image_upload#server_side_upload)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Ruby
-- Cloudinary Ruby SDK by Cloudinary: [Documentation](http://cloudinary.com/documentation/rails_image_upload#server_side_upload)
+- Cloudinary Ruby SDK by Cloudinary
+    - [Documentation](http://cloudinary.com/documentation/rails_image_upload#server_side_upload)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- Cloudinary Ruby Library for Ruby on Rails Framework: [Documentation](https://cloudinary.com/documentation/rails_integration)
+- Cloudinary Ruby Library for Ruby on Rails Framework
+    - [Documentation](https://cloudinary.com/documentation/rails_integration)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Python
-- Cloudinary Python Library for Django Framework: [Documentation](https://cloudinary.com/documentation/django_integration)
+- Cloudinary Python Library for Django Framework
+    - [Documentation](https://cloudinary.com/documentation/django_integration)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### JavaScript
-- Cloudinary React JavaScript Library for React Framework: [Documentation](https://github.com/cloudinary/cloudinary-react)
+- Cloudinary React JavaScript Library for React Framework
+    - [Documentation](https://github.com/cloudinary/cloudinary-react)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 422 ⭐
 
-- Cloudinary JavaScript Library for jQuery Framework: [Documentation](https://cloudinary.com/documentation/jquery_integration)
+- Cloudinary JavaScript Library for jQuery Framework
+    - [Documentation](https://cloudinary.com/documentation/jquery_integration)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

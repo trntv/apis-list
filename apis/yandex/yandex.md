@@ -17,12 +17,23 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Go
-- Yandex Go SDK by Javier162380: [Documentation](https://github.com/Javier162380/yandexapi)
+- Yandex Go SDK by Javier162380
+    - [Documentation](https://github.com/Javier162380/yandexapi)
+    - [Add source code URL ➕]()
+    - [Author: @Javier162380](https://github.com/Javier162380)
 
 ### PHP
-- Yandex PHP SDK by NIX Solutions: [Documentation](https://github.com/nixsolutions/yandex-php-library)
+- Yandex PHP SDK by NIX Solutions
+    - [Documentation](https://github.com/nixsolutions/yandex-php-library)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 515 ⭐
 
--  Geocoder PHP Library by William Durand: [Documentation](https://github.com/geocoder-php/Geocoder)
+-  Geocoder PHP Library by William Durand
+    - [Documentation](https://github.com/geocoder-php/Geocoder)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 3686 ⭐
 
 
 ## 🗄️ Categories:

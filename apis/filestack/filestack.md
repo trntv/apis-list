@@ -17,33 +17,75 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Java
-- Filestack File Picker Android SDK: [Documentation](https://github.com/filestack/filestack-android/)
+- Filestack File Picker Android SDK
+    - [Documentation](https://github.com/filestack/filestack-android/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 139 ⭐
 
-- Filestack Android SDK: [Documentation](https://github.com/filestack/filepicker-android)
+- Filestack Android SDK
+    - [Documentation](https://github.com/filestack/filepicker-android)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 139 ⭐
 
 ### Objective-C
-- Filestack File Picker iOS SDK: [Documentation](https://www.filestack.com/docs/api/sdk/ios/)
+- Filestack File Picker iOS SDK
+    - [Documentation](https://www.filestack.com/docs/api/sdk/ios/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- Filestack iOS SDK: [Documentation](https://github.com/filestack/filestack-ios)
+- Filestack iOS SDK
+    - [Documentation](https://github.com/filestack/filestack-ios)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 40 ⭐
 
 ### JavaScript
-- Filestack File Picker Web SDK: [Documentation](https://www.filestack.com/docs/concepts/pickers/web/)
+- Filestack File Picker Web SDK
+    - [Documentation](https://www.filestack.com/docs/concepts/pickers/web/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- Filestack React JS SDK: [Documentation](https://github.com/filestack/filestack-react)
+- Filestack React JS SDK
+    - [Documentation](https://github.com/filestack/filestack-react)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 131 ⭐
 
 ### Ruby
-- Filestack Rails Ruby SDK : [Documentation](https://www.filestack.com/docs/api/sdks), [Source code](https://github.com/filestack/filestack-rails)
+- Filestack Rails Ruby SDK 
+    - [Documentation](https://www.filestack.com/docs/api/sdks)
+    - [Source code](https://github.com/filestack/filestack-rails)
+    - [Add author ➕]
+    - 220 ⭐
 
-- Filestack Ruby SDK: [Documentation](https://github.com/filestack/filestack-ruby)
+- Filestack Ruby SDK
+    - [Documentation](https://github.com/filestack/filestack-ruby)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 23 ⭐
 
 ### Swift
-- Filestack Swift SDK : [Documentation](https://www.filestack.com/docs/api/sdk/swift), [Source code](https://github.com/filestack/filestack-swift)
+- Filestack Swift SDK 
+    - [Documentation](https://www.filestack.com/docs/api/sdk/swift)
+    - [Source code](https://github.com/filestack/filestack-swift)
+    - [Add author ➕]
+    - 10 ⭐
 
 ### PHP
-- Filestack PHP SDK: [Documentation](https://github.com/filestack/filestack-php)
+- Filestack PHP SDK
+    - [Documentation](https://github.com/filestack/filestack-php)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 45 ⭐
 
 ### Python
-- Filestack Python SDK: [Documentation](https://github.com/filestack/filestack-python)
+- Filestack Python SDK
+    - [Documentation](https://github.com/filestack/filestack-python)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 38 ⭐
 
 
 ## 🗄️ Categories:

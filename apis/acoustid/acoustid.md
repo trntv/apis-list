@@ -17,7 +17,11 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### C#
-- MusicApiCollection C# SDK by BigGranu: [Documentation](https://github.com/BigGranu/MusicApiCollection)
+- MusicApiCollection C# SDK by BigGranu
+    - [Documentation](https://github.com/BigGranu/MusicApiCollection)
+    - [Add source code URL ➕]()
+    - [Author: @BigGranu](https://github.com/BigGranu)
+    - 15 ⭐
 
 
 ## 🗄️ Categories:

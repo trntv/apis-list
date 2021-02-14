@@ -20,63 +20,148 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### PHP
-- Vonage PHP SDK by Connect Corp: [Documentation](https://github.com/ConnectCorp/nexmo-client)
+- Vonage PHP SDK by Connect Corp
+    - [Documentation](https://github.com/ConnectCorp/nexmo-client)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 16 ⭐
 
-- Vonage SMS PHP SDK by Darren Whitlen: [Documentation](https://github.com/prawnsalad/Nexmo-PHP-lib)
+- Vonage SMS PHP SDK by Darren Whitlen
+    - [Documentation](https://github.com/prawnsalad/Nexmo-PHP-lib)
+    - [Add source code URL ➕]()
+    - [Author: @prawnsalad](https://github.com/prawnsalad)
+    - 122 ⭐
 
-- Vonage SMS CodeIgniter PHP SDK by Bo-Yi Wu: [Documentation](https://github.com/appleboy/CodeIgniter-Nexmo-Message)
+- Vonage SMS CodeIgniter PHP SDK by Bo-Yi Wu
+    - [Documentation](https://github.com/appleboy/CodeIgniter-Nexmo-Message)
+    - [Add source code URL ➕]()
+    - [Author: @appleboy](https://github.com/appleboy)
+    - 49 ⭐
 
-- Nexmo PHP Library by Bo-Yi Wu: [Documentation]()
+- Nexmo PHP Library by Bo-Yi Wu
+    - [Documentation]()
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- Nexmo PHP Library by Darren: [Documentation]()
+- Nexmo PHP Library by Darren
+    - [Documentation]()
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- Nexmo PHP Library by Connect Corp: [Documentation]()
+- Nexmo PHP Library by Connect Corp
+    - [Documentation]()
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- Nexmo PHP Library by Bo-Yi Wu: [Documentation]()
+- Nexmo PHP Library by Bo-Yi Wu
+    - [Documentation]()
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- Nexmo PHP Library by Darren: [Documentation]()
+- Nexmo PHP Library by Darren
+    - [Documentation]()
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- Nexmo PHP Library by Connect Corp: [Documentation]()
+- Nexmo PHP Library by Connect Corp
+    - [Documentation]()
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Ruby
-- Vonage Ruby SDK: [Documentation](https://github.com/Nexmo/nexmo-ruby), [Source code](https://rubygems.org/gems/nexmo)
+- Vonage Ruby SDK
+    - [Documentation](https://github.com/Nexmo/nexmo-ruby)
+    - [Source code](https://rubygems.org/gems/nexmo)
+    - [Add author ➕]
 
-- Nexmo Ruby Library by Tim Craft: [Documentation]()
+- Nexmo Ruby Library by Tim Craft
+    - [Documentation]()
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- Nexmo Ruby Library by Tim Craft: [Documentation]()
+- Nexmo Ruby Library by Tim Craft
+    - [Documentation]()
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### JavaScript, Node.js
-- Vonage NodeJS SDK: [Documentation](https://github.com/Nexmo/nexmo-node), [Source code](https://www.npmjs.com/package/nexmo)
+- Vonage NodeJS SDK
+    - [Documentation](https://github.com/Nexmo/nexmo-node)
+    - [Source code](https://www.npmjs.com/package/nexmo)
+    - [Add author ➕]
+    - 1 ⭐
 
-- Vonage SMS NodeJS SDK by Aaron Blakely: [Documentation](https://github.com/ablakely/node-nexmo)
+- Vonage SMS NodeJS SDK by Aaron Blakely
+    - [Documentation](https://github.com/ablakely/node-nexmo)
+    - [Add source code URL ➕]()
+    - [Author: @ablakely](https://github.com/ablakely)
+    - 24 ⭐
 
 ### Python
-- Vonage SMS Python SDK by Marco Londero: [Documentation](https://github.com/marcuz/libpynexmo)
+- Vonage SMS Python SDK by Marco Londero
+    - [Documentation](https://github.com/marcuz/libpynexmo)
+    - [Add source code URL ➕]()
+    - [Author: @marcuz](https://github.com/marcuz)
+    - 65 ⭐
 
-- Nexmo Python Library by Marco Londero: [Documentation]()
+- Nexmo Python Library by Marco Londero
+    - [Documentation]()
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- Nexmo Python Library by Marco Londero: [Documentation]()
+- Nexmo Python Library by Marco Londero
+    - [Documentation]()
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### PERL
-- Vonage SMS Perl SDK by Renee Baecker: [Documentation](https://github.com/reneeb/perl-Nexmo-SMS)
+- Vonage SMS Perl SDK by Renee Baecker
+    - [Documentation](https://github.com/reneeb/perl-Nexmo-SMS)
+    - [Add source code URL ➕]()
+    - [Author: @reneeb](https://github.com/reneeb)
+    - 5 ⭐
 
-- Nexmo Perl Library by Renee Backer: [Documentation]()
+- Nexmo Perl Library by Renee Backer
+    - [Documentation]()
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- Nexmo Perl Library by Renee Backer: [Documentation]()
+- Nexmo Perl Library by Renee Backer
+    - [Documentation]()
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### C#
-- Nexmo C# Library by Jan Welker: [Documentation]()
+- Nexmo C# Library by Jan Welker
+    - [Documentation]()
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- Nexmo C# Library by Jan Welker: [Documentation]()
+- Nexmo C# Library by Jan Welker
+    - [Documentation]()
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Node.js
-- Nexmo Node.js Library by Aaron Blakely: [Documentation]()
+- Nexmo Node.js Library by Aaron Blakely
+    - [Documentation]()
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- Nexmo Node.js Library by Prabhu Velayutham: [Documentation]()
+- Nexmo Node.js Library by Prabhu Velayutham
+    - [Documentation]()
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- Nexmo Node.js Library by Aaron Blakely: [Documentation]()
+- Nexmo Node.js Library by Aaron Blakely
+    - [Documentation]()
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- Nexmo Node.js Library by Prabhu Velayutham: [Documentation]()
+- Nexmo Node.js Library by Prabhu Velayutham
+    - [Documentation]()
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

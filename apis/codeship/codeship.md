@@ -17,13 +17,25 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Node.js
-- Codeship NodeJS SDK by Che-Wei Lin: [Documentation](https://github.com/John-Lin/codeship-api)
+- Codeship NodeJS SDK by Che-Wei Lin
+    - [Documentation](https://github.com/John-Lin/codeship-api)
+    - [Add source code URL ➕]()
+    - [Author: @John-Lin](https://github.com/John-Lin)
+    - 1 ⭐
 
 ### Ruby
-- Codeship Ruby SDK: [Documentation](https://github.com/codeship/codeship-ruby)
+- Codeship Ruby SDK
+    - [Documentation](https://github.com/codeship/codeship-ruby)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 13 ⭐
 
 ### Go
-- Codeship Go SDK: [Documentation](https://godoc.org/github.com/codeship/codeship-go), [Source code](https://github.com/codeship/codeship-go)
+- Codeship Go SDK
+    - [Documentation](https://godoc.org/github.com/codeship/codeship-go)
+    - [Source code](https://github.com/codeship/codeship-go)
+    - [Add author ➕]
+    - 16 ⭐
 
 
 ## 🗄️ Categories:

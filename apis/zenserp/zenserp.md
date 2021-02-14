@@ -20,7 +20,10 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Python
-- Zenserp Python SDK: [Documentation](https://github.com/zenserp/zenserp-python)
+- Zenserp Python SDK
+    - [Documentation](https://github.com/zenserp/zenserp-python)
+    - [Add source code URL ➕]()
+    - [Author: @zenserp](https://github.com/zenserp)
 
 
 ## 🗄️ Categories:

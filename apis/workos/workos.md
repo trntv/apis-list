@@ -20,16 +20,28 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Python
-- WorkOS Python SDK: [Documentation](https://docs.workos.com/sdk/python)
+- WorkOS Python SDK
+    - [Documentation](https://docs.workos.com/sdk/python)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Go
-- WorkOS Go SDK: [Documentation](https://docs.workos.com/sdk/go)
+- WorkOS Go SDK
+    - [Documentation](https://docs.workos.com/sdk/go)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Ruby
-- WorkOS Ruby SDK: [Documentation](https://docs.workos.com/sdk/ruby)
+- WorkOS Ruby SDK
+    - [Documentation](https://docs.workos.com/sdk/ruby)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Node.js
-- WorkOS NodeJS SDK: [Documentation](https://docs.workos.com/sdk/node)
+- WorkOS NodeJS SDK
+    - [Documentation](https://docs.workos.com/sdk/node)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

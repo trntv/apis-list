@@ -17,16 +17,31 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Elixir
-- Travis CI Elixir SDK by Hugo Duksis: [Documentation](https://github.com/duksis/travis_ex)
+- Travis CI Elixir SDK by Hugo Duksis
+    - [Documentation](https://github.com/duksis/travis_ex)
+    - [Add source code URL ➕]()
+    - [Author: @duksis](https://github.com/duksis)
 
 ### Python
-- Travis CI Python SDK by Fabio Menegazzo: [Documentation](https://github.com/menegazzo/travispy)
+- Travis CI Python SDK by Fabio Menegazzo
+    - [Documentation](https://github.com/menegazzo/travispy)
+    - [Add source code URL ➕]()
+    - [Author: @menegazzo](https://github.com/menegazzo)
+    - 74 ⭐
 
 ### Ruby
-- Travis CI Ruby SDK: [Documentation](https://github.com/travis-ci/travis.rb)
+- Travis CI Ruby SDK
+    - [Documentation](https://github.com/travis-ci/travis.rb)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 1547 ⭐
 
 ### JavaScript
-- Travis CI Ember Web JavaScript SDK: [Documentation](https://github.com/travis-ci/travis-web)
+- Travis CI Ember Web JavaScript SDK
+    - [Documentation](https://github.com/travis-ci/travis-web)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 585 ⭐
 
 
 ## 🗄️ Categories:

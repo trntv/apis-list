@@ -20,19 +20,39 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Ruby
-- Postmen Ruby SDK : [Documentation](https://www.rubydoc.info/github/postmen/postmen-sdk-ruby), [Source code](https://github.com/postmen/postmen-sdk-ruby)
+- Postmen Ruby SDK 
+    - [Documentation](https://www.rubydoc.info/github/postmen/postmen-sdk-ruby)
+    - [Source code](https://github.com/postmen/postmen-sdk-ruby)
+    - [Add author ➕]
+    - 7 ⭐
 
 ### Node.js
-- Postmen NodeJS SDK: [Documentation](https://www.postmen.com/), [Source code](https://github.com/postmen/postmen-sdk-js)
+- Postmen NodeJS SDK
+    - [Documentation](https://www.postmen.com/)
+    - [Source code](https://github.com/postmen/postmen-sdk-js)
+    - [Add author ➕]
+    - 13 ⭐
 
 ### PHP
-- Postmen PHP SDK : [Documentation](https://www.postmen.com), [Source code](https://github.com/postmen/postmen-sdk-php)
+- Postmen PHP SDK 
+    - [Documentation](https://www.postmen.com)
+    - [Source code](https://github.com/postmen/postmen-sdk-php)
+    - [Add author ➕]
+    - 10 ⭐
 
 ### Python
-- Postmen Python SDK: [Documentation](https://github.com/postmen/sdk-python)
+- Postmen Python SDK
+    - [Documentation](https://github.com/postmen/sdk-python)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 11 ⭐
 
 ### .Net
-- Postmen .NET SDK: [Documentation](https://github.com/postmen/sdk-net)
+- Postmen .NET SDK
+    - [Documentation](https://github.com/postmen/sdk-net)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 4 ⭐
 
 
 ## 🗄️ Categories:

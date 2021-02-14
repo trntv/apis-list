@@ -28,7 +28,13 @@ No links added. [Add link ➕]({{ editorLink }})
 {{#each libraries as |libs platform|}}
 ### {{ platform }}
 {{#each libs}}
-- {{ this.name }}: [Documentation]({{ this.documentation_url }}){{# if this.source_code_url }}, [Source code]({{ this.source_code_url }}){{/if}}
+- {{ this.name }}
+    - [Documentation]({{ this.documentation_url }})
+    - {{# if this.source_code_url }}[Source code]({{ this.source_code_url }}){{else}}[Add source code URL ➕]({{ editorLink }}){{/if}}
+    - {{# if this.author }}[Author: @{{this.author}}](https://github.com/{{ this.author }}){{else}}[Add author ➕]{{/if}}
+{{# if this.stargazers_count }}
+    - {{ this.stargazers_count }} ⭐
+{{/if}}
 {{# if this.description }}  {{this.description}}{{/if}}
 {{/each}}
 {{ else }}

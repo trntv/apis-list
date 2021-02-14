@@ -17,21 +17,39 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Go
-- geoPlugin IP Geolocation CSV SDK: [Documentation](https://www.geoplugin.com/webservices/csv)
+- geoPlugin IP Geolocation CSV SDK
+    - [Documentation](https://www.geoplugin.com/webservices/csv)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### .Net
-- geoPlugin IP Geolocation ASP SDK: [Documentation](https://www.geoplugin.com/webservices/asp)
+- geoPlugin IP Geolocation ASP SDK
+    - [Documentation](https://www.geoplugin.com/webservices/asp)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### xml
-- geoPlugin IP Geolocation XML SDK: [Documentation](https://www.geoplugin.com/webservices/xml)
+- geoPlugin IP Geolocation XML SDK
+    - [Documentation](https://www.geoplugin.com/webservices/xml)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### JavaScript
-- geoPlugin IP Geolocation JSON SDK: [Documentation](https://www.geoplugin.com/webservices/json)
+- geoPlugin IP Geolocation JSON SDK
+    - [Documentation](https://www.geoplugin.com/webservices/json)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- geoPlugin IP Geolocation Javascript SDK: [Documentation](https://www.geoplugin.com/webservices/javascript), [Source code](http://www.geoplugin.net/javascript.gp)
+- geoPlugin IP Geolocation Javascript SDK
+    - [Documentation](https://www.geoplugin.com/webservices/javascript)
+    - [Source code](http://www.geoplugin.net/javascript.gp)
+    - [Add author ➕]
 
 ### PHP
-- geoPlugin IP Geolocation PHP SDK: [Documentation](https://www.geoplugin.com/webservices/php)
+- geoPlugin IP Geolocation PHP SDK
+    - [Documentation](https://www.geoplugin.com/webservices/php)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

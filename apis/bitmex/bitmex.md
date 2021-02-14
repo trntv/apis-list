@@ -20,29 +20,64 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Python
-- Store-json-in-Database Python SDK by Umar Mohamed: [Documentation](https://github.com/moroclash/Store-json-in-Database)
+- Store-json-in-Database Python SDK by Umar Mohamed
+    - [Documentation](https://github.com/moroclash/Store-json-in-Database)
+    - [Add source code URL ➕]()
+    - [Author: @moroclash](https://github.com/moroclash)
 
 ### .Net, C#
-- ExchangeSharp .NET/C# by Jeff Johnson: [Documentation](https://github.com/jjxtra/ExchangeSharp)
+- ExchangeSharp .NET/C# by Jeff Johnson
+    - [Documentation](https://github.com/jjxtra/ExchangeSharp)
+    - [Add source code URL ➕]()
+    - [Author: @jjxtra](https://github.com/jjxtra)
+    - 478 ⭐
 
 ### Java, Kotlin
-- Reactive Crypto Kotlin/Java SDK by namjug-kim: [Documentation](https://github.com/namjug-kim/reactive-crypto)
+- Reactive Crypto Kotlin/Java SDK by namjug-kim
+    - [Documentation](https://github.com/namjug-kim/reactive-crypto)
+    - [Add source code URL ➕]()
+    - [Author: @namjug-kim](https://github.com/namjug-kim)
+    - 54 ⭐
 
 ### Go
-- GoEx Go SDK by nntaoli.com: [Documentation](https://github.com/nntaoli-project/GoEx)
+- GoEx Go SDK by nntaoli.com
+    - [Documentation](https://github.com/nntaoli-project/GoEx)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 1152 ⭐
 
-- BitMEX Swagger Go SDK: [Documentation](https://github.com/BitMEX/api-connectors/tree/master/auto-generated/go)
+- BitMEX Swagger Go SDK
+    - [Documentation](https://github.com/BitMEX/api-connectors/tree/master/auto-generated/go)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 861 ⭐
 
 ### Java
-- BitMEX Swagger Java SDK: [Documentation](https://github.com/BitMEX/api-connectors/tree/master/auto-generated/java)
+- BitMEX Swagger Java SDK
+    - [Documentation](https://github.com/BitMEX/api-connectors/tree/master/auto-generated/java)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 861 ⭐
 
-- BitMEX Swagger Android SDK: [Documentation](https://github.com/BitMEX/api-connectors/tree/master/auto-generated/android)
+- BitMEX Swagger Android SDK
+    - [Documentation](https://github.com/BitMEX/api-connectors/tree/master/auto-generated/android)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 861 ⭐
 
 ### C#
-- BitMEX Swagger C# SDK: [Documentation](https://github.com/BitMEX/api-connectors/tree/master/auto-generated/csharp)
+- BitMEX Swagger C# SDK
+    - [Documentation](https://github.com/BitMEX/api-connectors/tree/master/auto-generated/csharp)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 861 ⭐
 
 ### Clojure
-- BitMEX Swagger Clojure SDK: [Documentation](https://github.com/BitMEX/api-connectors/tree/master/auto-generated/clojure)
+- BitMEX Swagger Clojure SDK
+    - [Documentation](https://github.com/BitMEX/api-connectors/tree/master/auto-generated/clojure)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 861 ⭐
 
 
 ## 🗄️ Categories:

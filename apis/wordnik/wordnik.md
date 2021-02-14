@@ -20,19 +20,38 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Scala
-- Wordnik Scala SDK by Wordnik: [Documentation](https://github.com/wordnik/wordnik-clients/tree/master/scala)
+- Wordnik Scala SDK by Wordnik
+    - [Documentation](https://github.com/wordnik/wordnik-clients/tree/master/scala)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 7 ⭐
 
 ### PHP
-- Wordnik PHP SDK by Wordnik: [Documentation](https://github.com/wordnik/wordnik-clients/tree/master/php)
+- Wordnik PHP SDK by Wordnik
+    - [Documentation](https://github.com/wordnik/wordnik-clients/tree/master/php)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 7 ⭐
 
 ### Objective-C
-- Wordnik Objective-C SDK by Wordnik: [Documentation](https://github.com/wordnik/wordnik-clients/tree/master/objc/)
+- Wordnik Objective-C SDK by Wordnik
+    - [Documentation](https://github.com/wordnik/wordnik-clients/tree/master/objc/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 7 ⭐
 
 ### Java
-- Wordnik Java SDK by Wordnik: [Documentation](https://github.com/wordnik/wordnik-clients/tree/master/java)
+- Wordnik Java SDK by Wordnik
+    - [Documentation](https://github.com/wordnik/wordnik-clients/tree/master/java)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 7 ⭐
 
 ### .Net, Java, Objective-C, PHP, Python, Ruby
-- Wordnik&#x27;s Library Page: [Documentation](http://developer.wordnik.com/libraries)
+- Wordnik&#x27;s Library Page
+    - [Documentation](http://developer.wordnik.com/libraries)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

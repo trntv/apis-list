@@ -17,10 +17,18 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Node.js
-- CityGrid Node.js SDK by Jon Wicks : [Documentation](https://github.com/jwicks/node-citygrid)
+- CityGrid Node.js SDK by Jon Wicks 
+    - [Documentation](https://github.com/jwicks/node-citygrid)
+    - [Add source code URL ➕]()
+    - [Author: @jwicks](https://github.com/jwicks)
+    - 2 ⭐
 
 ### Ruby
-- CityGrid Ruby SDK by CityGrid: [Documentation](https://github.com/CityGrid/citygrid_api)
+- CityGrid Ruby SDK by CityGrid
+    - [Documentation](https://github.com/CityGrid/citygrid_api)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 11 ⭐
 
 
 ## 🗄️ Categories:

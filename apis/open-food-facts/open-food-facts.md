@@ -17,30 +17,66 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Python
-- Open Food Facts Python SDK: [Documentation](https://github.com/openfoodfacts/openfoodfacts-python)
+- Open Food Facts Python SDK
+    - [Documentation](https://github.com/openfoodfacts/openfoodfacts-python)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 123 ⭐
 
 ### Elixir
-- Open Food Facts Elixir SDK: [Documentation](https://github.com/openfoodfacts/openfoodfacts-elixir)
+- Open Food Facts Elixir SDK
+    - [Documentation](https://github.com/openfoodfacts/openfoodfacts-elixir)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 1 ⭐
 
 ### Ruby
-- Open Food Facts Ruby SDK: [Documentation](https://github.com/openfoodfacts/openfoodfacts-ruby), [Source code](https://rubygems.org/gems/openfoodfacts)
+- Open Food Facts Ruby SDK
+    - [Documentation](https://github.com/openfoodfacts/openfoodfacts-ruby)
+    - [Source code](https://rubygems.org/gems/openfoodfacts)
+    - [Add author ➕]
+    - 23 ⭐
 
 ### JavaScript, Node.js
-- Open Food Facts NodeJS SDK: [Documentation](https://github.com/openfoodfacts/openfoodfacts-nodejs)
+- Open Food Facts NodeJS SDK
+    - [Documentation](https://github.com/openfoodfacts/openfoodfacts-nodejs)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 18 ⭐
 
 ### Go
-- Open Food Facts Go SDK: [Documentation](https://github.com/openfoodfacts/openfoodfacts-go)
+- Open Food Facts Go SDK
+    - [Documentation](https://github.com/openfoodfacts/openfoodfacts-go)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 22 ⭐
 
 ### PHP
-- Open Food Facts PHP SDK: [Documentation](https://github.com/openfoodfacts/openfoodfacts-php)
+- Open Food Facts PHP SDK
+    - [Documentation](https://github.com/openfoodfacts/openfoodfacts-php)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 29 ⭐
 
-- Open Food Facts Laravel PHP SDK: [Documentation](https://github.com/openfoodfacts/openfoodfacts-laravel), [Source code](https://packagist.org/packages/openfoodfacts/openfoodfacts-laravel)
+- Open Food Facts Laravel PHP SDK
+    - [Documentation](https://github.com/openfoodfacts/openfoodfacts-laravel)
+    - [Source code](https://packagist.org/packages/openfoodfacts/openfoodfacts-laravel)
+    - [Add author ➕]
+    - 72 ⭐
 
 ### Swift
-- Open Food Facts iOS SDK: [Documentation](https://github.com/openfoodfacts/openfoodfacts-ios)
+- Open Food Facts iOS SDK
+    - [Documentation](https://github.com/openfoodfacts/openfoodfacts-ios)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 190 ⭐
 
 ### Dart
-- Open Food Facts Dart SDK: [Documentation](https://github.com/openfoodfacts/openfoodfacts-dart)
+- Open Food Facts Dart SDK
+    - [Documentation](https://github.com/openfoodfacts/openfoodfacts-dart)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 49 ⭐
 
 
 ## 🗄️ Categories:

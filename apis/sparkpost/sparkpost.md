@@ -20,19 +20,39 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Elixir
-- Sparkpost Elixir SDK: [Documentation](https://github.com/SparkPost/elixir-sparkpost)
+- Sparkpost Elixir SDK
+    - [Documentation](https://github.com/SparkPost/elixir-sparkpost)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 43 ⭐
 
 ### Java
-- SparkPost Java SDK by SparkPost: [Documentation](https://developers.sparkpost.com/), [Source code](https://github.com/sparkpost/java-sparkpost)
+- SparkPost Java SDK by SparkPost
+    - [Documentation](https://developers.sparkpost.com/)
+    - [Source code](https://github.com/sparkpost/java-sparkpost)
+    - [Add author ➕]
+    - 40 ⭐
 
 ### Go
-- SparkPost Go SDK by SparkPost: [Documentation](https://github.com/SparkPost/gosparkpost)
+- SparkPost Go SDK by SparkPost
+    - [Documentation](https://github.com/SparkPost/gosparkpost)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 60 ⭐
 
 ### Ruby
-- SparkPost Ruby SDK by SparkPost: [Documentation](https://github.com/SparkPost/ruby-sparkpost)
+- SparkPost Ruby SDK by SparkPost
+    - [Documentation](https://github.com/SparkPost/ruby-sparkpost)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 28 ⭐
 
 ### C#
-- SparkPost C# SDK by SparkPost: [Documentation](https://github.com/SparkPost/csharp-sparkpost)
+- SparkPost C# SDK by SparkPost
+    - [Documentation](https://github.com/SparkPost/csharp-sparkpost)
+    - [Add source code URL ➕]()
+    - [Author: @darrencauthon](https://github.com/darrencauthon)
+    - 53 ⭐
 
 
 ## 🗄️ Categories:

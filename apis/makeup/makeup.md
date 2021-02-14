@@ -17,7 +17,10 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Go
-- Makeup Go SDK by Ryan Christiani: [Documentation](https://github.com/Rchristiani/gomakeup)
+- Makeup Go SDK by Ryan Christiani
+    - [Documentation](https://github.com/Rchristiani/gomakeup)
+    - [Add source code URL ➕]()
+    - [Author: @Rchristiani](https://github.com/Rchristiani)
 
 
 ## 🗄️ Categories:

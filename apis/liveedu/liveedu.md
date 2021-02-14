@@ -17,10 +17,17 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### .Net
-- LiveCoding .NET SDK: [Documentation](https://github.com/LiveCodingTVOfficial/LiveCoding.NET)
+- LiveCoding .NET SDK
+    - [Documentation](https://github.com/LiveCodingTVOfficial/LiveCoding.NET)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Python
-- LiveCoding.tv Python SDK: [Documentation](https://github.com/LiveCodingTVOfficial/python-livecodingtv)
+- LiveCoding.tv Python SDK
+    - [Documentation](https://github.com/LiveCodingTVOfficial/python-livecodingtv)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 1 ⭐
 
 
 ## 🗄️ Categories:

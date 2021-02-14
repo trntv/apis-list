@@ -20,15 +20,31 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Python
-- SpeechRecognition: [Documentation](https://pypi.python.org/pypi/SpeechRecognition/), [Source code](https://github.com/Uberi/speech_recognition)
+- SpeechRecognition
+    - [Documentation](https://pypi.python.org/pypi/SpeechRecognition/)
+    - [Source code](https://github.com/Uberi/speech_recognition)
+    - [Author: @Uberi](https://github.com/Uberi)
+    - 5425 ⭐
 
-- Houndify Python SDK by Dominic R. May: [Documentation](https://github.com/Mause/houndipy)
+- Houndify Python SDK by Dominic R. May
+    - [Documentation](https://github.com/Mause/houndipy)
+    - [Add source code URL ➕]()
+    - [Author: @Mause](https://github.com/Mause)
+    - 3 ⭐
 
 ### Node.js
-- Houndify Node.js SDK by Jeff Andersen: [Documentation](https://github.com/jeffandersen/houndify)
+- Houndify Node.js SDK by Jeff Andersen
+    - [Documentation](https://github.com/jeffandersen/houndify)
+    - [Add source code URL ➕]()
+    - [Author: @jeffandersen](https://github.com/jeffandersen)
+    - 5 ⭐
 
 ### Go
-- Houndify Go SDK by SoundHound: [Documentation](https://github.com/soundhound/houndify-sdk-go)
+- Houndify Go SDK by SoundHound
+    - [Documentation](https://github.com/soundhound/houndify-sdk-go)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 21 ⭐
 
 
 ## 🗄️ Categories:

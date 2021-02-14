@@ -20,7 +20,11 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Python
-- MAC address Vendor Lookup Python SDK: [Documentation](https://github.com/CodeLineFi/maclookup-python)
+- MAC address Vendor Lookup Python SDK
+    - [Documentation](https://github.com/CodeLineFi/maclookup-python)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 1 ⭐
 
 
 ## 🗄️ Categories:

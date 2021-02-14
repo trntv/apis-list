@@ -20,36 +20,84 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### .Net
-- Ably Xamarin SDK: [Documentation](https://github.com/ably/ably-dotnet)
+- Ably Xamarin SDK
+    - [Documentation](https://github.com/ably/ably-dotnet)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 22 ⭐
 
-- Ably .NET SDK by Ably: [Documentation](https://www.nuget.org/packages/ably.io/), [Source code](https://github.com/ably/ably-dotnet)
+- Ably .NET SDK by Ably
+    - [Documentation](https://www.nuget.org/packages/ably.io/)
+    - [Source code](https://github.com/ably/ably-dotnet)
+    - [Add author ➕]
+    - 22 ⭐
 
 ### Scala
-- Ably Scala SDK: [Documentation](https://github.com/ably/ably-java)
+- Ably Scala SDK
+    - [Documentation](https://github.com/ably/ably-java)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 29 ⭐
 
 ### JavaScript
-- Ably Cordova SDK: [Documentation](https://github.com/ably/ably-js)
+- Ably Cordova SDK
+    - [Documentation](https://github.com/ably/ably-js)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 95 ⭐
 
-- Ably React Native JavaScript SDK by Ably: [Documentation](https://github.com/ably/ably-js-react-native)
+- Ably React Native JavaScript SDK by Ably
+    - [Documentation](https://github.com/ably/ably-js-react-native)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 9 ⭐
 
-- Ably NativeScript SDK by Ably: [Documentation](https://github.com/ably/ably-js-nativescript)
+- Ably NativeScript SDK by Ably
+    - [Documentation](https://github.com/ably/ably-js-nativescript)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 4 ⭐
 
 ### Ruby
-- Ably Ruby SDK by Ably: [Documentation](https://rubygems.org/gems/ably), [Source code](https://github.com/ably/ably-ruby)
+- Ably Ruby SDK by Ably
+    - [Documentation](https://rubygems.org/gems/ably)
+    - [Source code](https://github.com/ably/ably-ruby)
+    - [Add author ➕]
+    - 22 ⭐
 
 ### Python
-- Ably Python SDK by Ably: [Documentation](https://pypi.python.org/pypi/ably), [Source code](https://github.com/ably/ably-python)
+- Ably Python SDK by Ably
+    - [Documentation](https://pypi.python.org/pypi/ably)
+    - [Source code](https://github.com/ably/ably-python)
+    - [Add author ➕]
+    - 14 ⭐
 
 ### PHP
-- Ably PHP SDK by Ably: [Documentation](https://github.com/ably/ably-php)
+- Ably PHP SDK by Ably
+    - [Documentation](https://github.com/ably/ably-php)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 19 ⭐
 
-- Ably PHP Library for Laravel Framework: [Documentation](https://github.com/ably/ably-php-laravel)
+- Ably PHP Library for Laravel Framework
+    - [Documentation](https://github.com/ably/ably-php-laravel)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 8 ⭐
 
 ### Swift
-- Ably Swift SDK by Ably: [Documentation](https://github.com/ably/ably-ios)
+- Ably Swift SDK by Ably
+    - [Documentation](https://github.com/ably/ably-ios)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 13 ⭐
 
 ### Go
-- Ably Go SDK by Ably : [Documentation](https://github.com/ably/ably-go)
+- Ably Go SDK by Ably 
+    - [Documentation](https://github.com/ably/ably-go)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 27 ⭐
 
 
 ## 🗄️ Categories:

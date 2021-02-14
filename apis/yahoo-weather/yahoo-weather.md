@@ -17,12 +17,22 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Python
-- Yahoo Weather Python SDK by Anthony Bloomer: [Documentation](https://github.com/AnthonyBloomer/weather-api), [Source code](https://pypi.python.org/pypi/weather-api/0.0.5)
+- Yahoo Weather Python SDK by Anthony Bloomer
+    - [Documentation](https://github.com/AnthonyBloomer/weather-api)
+    - [Source code](https://pypi.python.org/pypi/weather-api/0.0.5)
+    - [Add author ➕]
 
-- Python Weather Library python-weather-api: [Documentation](https://code.google.com/p/python-weather-api/)
+- Python Weather Library python-weather-api
+    - [Documentation](https://code.google.com/p/python-weather-api/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### PHP
-- Yahoo Weather PHP SDK by Jason Leung : [Documentation](https://github.com/Th3Mouk/YahooWeatherAPI), [Source code](https://github.com/Th3Mouk/YahooWeatherAPI)
+- Yahoo Weather PHP SDK by Jason Leung 
+    - [Documentation](https://github.com/Th3Mouk/YahooWeatherAPI)
+    - [Source code](https://github.com/Th3Mouk/YahooWeatherAPI)
+    - [Author: @Th3Mouk](https://github.com/Th3Mouk)
+    - 3 ⭐
 
 
 ## 🗄️ Categories:

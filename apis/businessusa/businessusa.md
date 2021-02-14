@@ -20,7 +20,10 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### 
-- Official GitHub Account: [Documentation](https://github.com/usagov/)
+- Official GitHub Account
+    - [Documentation](https://github.com/usagov/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

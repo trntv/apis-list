@@ -17,7 +17,10 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Swift
-- API2Cart Swift SDK: [Documentation](http://docs.api2cart.com/sdk), [Source code](https://app.api2cart.com/sdk/swift.tgz)
+- API2Cart Swift SDK
+    - [Documentation](http://docs.api2cart.com/sdk)
+    - [Source code](https://app.api2cart.com/sdk/swift.tgz)
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

@@ -20,13 +20,23 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Java
-- Weaver Android SDK by Weaver: [Documentation](http://www.weavingthings.com/), [Source code](https://github.com/Produvia-Weaver/weaver_lights)
+- Weaver Android SDK by Weaver
+    - [Documentation](http://www.weavingthings.com/)
+    - [Source code](https://github.com/Produvia-Weaver/weaver_lights)
+    - [Author: @Produvia-Weaver](https://github.com/Produvia-Weaver)
+    - 12 ⭐
 
 ### Java, Objective-C, PHP
-- Philips hue SDK: [Documentation](http://www.developers.meethue.com/tools-and-sdks)
+- Philips hue SDK
+    - [Documentation](http://www.developers.meethue.com/tools-and-sdks)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### ActionScript, C#, C++, Java, JavaScript, Node.js, Objective-C, PERL, PHP, Python, Ruby
-- Philips hue 3d party libraries: [Documentation](http://www.developers.meethue.com/), [Source code](http://www.developers.meethue.com/tools-and-sdks)
+- Philips hue 3d party libraries
+    - [Documentation](http://www.developers.meethue.com/)
+    - [Source code](http://www.developers.meethue.com/tools-and-sdks)
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

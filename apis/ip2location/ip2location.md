@@ -20,13 +20,24 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Python
-- IP2Location Python SDK: [Documentation](https://www.ip2location.com/developers/python), [Source code](https://github.com/chrislim2888/IP2Location-Python)
+- IP2Location Python SDK
+    - [Documentation](https://www.ip2location.com/developers/python)
+    - [Source code](https://github.com/chrislim2888/IP2Location-Python)
+    - [Author: @chrislim2888](https://github.com/chrislim2888)
+    - 72 ⭐
 
 ### PHP
-- IP2Proxy PHP SDK: [Documentation](https://www.ip2location.com/ip2proxy/developers/php-api), [Source code](https://github.com/ip2location/ip2proxy-php-api)
+- IP2Proxy PHP SDK
+    - [Documentation](https://www.ip2location.com/ip2proxy/developers/php-api)
+    - [Source code](https://github.com/ip2location/ip2proxy-php-api)
+    - [Author: @ip2location](https://github.com/ip2location)
+    - 3 ⭐
 
 ### 
-- IP2Location Ruby Library: [Documentation](https://github.com/ezkl/ip2location)
+- IP2Location Ruby Library
+    - [Documentation](https://github.com/ezkl/ip2location)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

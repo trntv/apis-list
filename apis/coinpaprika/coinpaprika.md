@@ -17,7 +17,11 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### .Net, C#
-- Coinpaprika C# SDK by Marco Siccardi: [Documentation](https://api.coinpaprika.com/#section/Clients), [Source code](https://github.com/MSiccDev/CoinpaprikaAPI)
+- Coinpaprika C# SDK by Marco Siccardi
+    - [Documentation](https://api.coinpaprika.com/#section/Clients)
+    - [Source code](https://github.com/MSiccDev/CoinpaprikaAPI)
+    - [Add author ➕]
+    - 7 ⭐
 
 
 ## 🗄️ Categories:

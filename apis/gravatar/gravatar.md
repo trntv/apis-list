@@ -17,12 +17,22 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Node.js
-- Gravatar grav.client NodeJS SDK: [Documentation](https://github.com/mrtillman/grav.client), [Source code](https://www.npmjs.com/package/grav.client)
+- Gravatar grav.client NodeJS SDK
+    - [Documentation](https://github.com/mrtillman/grav.client)
+    - [Source code](https://www.npmjs.com/package/grav.client)
+    - [Author: @mrtillman](https://github.com/mrtillman)
 
-- Gravatar Node.js SDK by Emerson Macedo: [Documentation](https://github.com/emerleite/node-gravatar)
+- Gravatar Node.js SDK by Emerson Macedo
+    - [Documentation](https://github.com/emerleite/node-gravatar)
+    - [Add source code URL ➕]()
+    - [Author: @emerleite](https://github.com/emerleite)
+    - 383 ⭐
 
 ### PHP
-- Gravatar PHP SDK by Gravatar: [Documentation](https://en.gravatar.com/site/implement/), [Source code](http://www.phpclasses.org/package/5700-PHP-Send-requests-to-the-Gravatar-API-about-images.html)
+- Gravatar PHP SDK by Gravatar
+    - [Documentation](https://en.gravatar.com/site/implement/)
+    - [Source code](http://www.phpclasses.org/package/5700-PHP-Send-requests-to-the-Gravatar-API-about-images.html)
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

@@ -17,7 +17,11 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Python
-- SecurityTrails Python SDK By secops4thewin: [Documentation](https://github.com/secops4thewin/securitytrails-python/blob/master/README.md), [Source code](https://github.com/secops4thewin/securitytrails-python)
+- SecurityTrails Python SDK By secops4thewin
+    - [Documentation](https://github.com/secops4thewin/securitytrails-python/blob/master/README.md)
+    - [Source code](https://github.com/secops4thewin/securitytrails-python)
+    - [Author: @secops4thewin](https://github.com/secops4thewin)
+    - 6 ⭐
 
 
 ## 🗄️ Categories:

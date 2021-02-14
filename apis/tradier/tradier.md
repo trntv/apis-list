@@ -17,7 +17,11 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Java
-- Tradier Android SDK by Tradier: [Documentation](https://developer.tradier.com/documentation/overview/libraries), [Source code](https://github.com/Utsav2/AndroidTradier)
+- Tradier Android SDK by Tradier
+    - [Documentation](https://developer.tradier.com/documentation/overview/libraries)
+    - [Source code](https://github.com/Utsav2/AndroidTradier)
+    - [Author: @Utsav2](https://github.com/Utsav2)
+    - 7 ⭐
 
 
 ## 🗄️ Categories:

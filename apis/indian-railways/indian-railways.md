@@ -17,7 +17,11 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Ruby
-- PNRAPI Ruby: [Documentation](https://github.com/alagu/pnrapi-ruby)
+- PNRAPI Ruby
+    - [Documentation](https://github.com/alagu/pnrapi-ruby)
+    - [Add source code URL ➕]()
+    - [Author: @alagu](https://github.com/alagu)
+    - 6 ⭐
 
 
 ## 🗄️ Categories:

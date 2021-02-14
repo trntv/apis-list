@@ -20,28 +20,59 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### JavaScript, Node.js
-- Media Now JavaScript SDK by internet4000: [Documentation](https://github.com/internet4000/media-now)
+- Media Now JavaScript SDK by internet4000
+    - [Documentation](https://github.com/internet4000/media-now)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 9 ⭐
 
 ### JavaScript
-- Vimeo Player JavaScript SDK: [Documentation](https://developer.vimeo.com/player/sdk/basics)
+- Vimeo Player JavaScript SDK
+    - [Documentation](https://developer.vimeo.com/player/sdk/basics)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Objective-C
-- Vimeo VimNetworking iOS SDK by Vimeo: [Documentation](https://github.com/vimeo/VIMNetworking), [Source code](https://github.com/vimeo/VIMNetworking)
+- Vimeo VimNetworking iOS SDK by Vimeo
+    - [Documentation](https://github.com/vimeo/VIMNetworking)
+    - [Source code](https://github.com/vimeo/VIMNetworking)
+    - [Add author ➕]
+    - 57 ⭐
 
 ### Node.js
-- Vimeo NodeJS SDK by Vimeo: [Documentation](https://github.com/vimeo/vimeo.js), [Source code](https://github.com/vimeo/vimeo.js)
+- Vimeo NodeJS SDK by Vimeo
+    - [Documentation](https://github.com/vimeo/vimeo.js)
+    - [Source code](https://github.com/vimeo/vimeo.js)
+    - [Add author ➕]
+    - 213 ⭐
 
 ### PHP
-- Vimeo PHP SDK by Vimeo: [Documentation](https://github.com/vimeo/vimeo.php), [Source code](https://github.com/vimeo/vimeo.php)
+- Vimeo PHP SDK by Vimeo
+    - [Documentation](https://github.com/vimeo/vimeo.php)
+    - [Source code](https://github.com/vimeo/vimeo.php)
+    - [Add author ➕]
+    - 377 ⭐
 
 ### Python
-- Vimeo Python Library by Vimeo: [Documentation](https://github.com/vimeo/vimeo.py)
+- Vimeo Python Library by Vimeo
+    - [Documentation](https://github.com/vimeo/vimeo.py)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 170 ⭐
 
 ### Ruby
-- Vimeo Ruby Library Vimeo API Gem: [Documentation](https://github.com/matthooks/vimeo/tree/master)
+- Vimeo Ruby Library Vimeo API Gem
+    - [Documentation](https://github.com/matthooks/vimeo/tree/master)
+    - [Add source code URL ➕]()
+    - [Author: @matthooks](https://github.com/matthooks)
+    - 330 ⭐
 
 ### Java
-- Scribe Java: [Documentation](https://github.com/fernandezpablo85/scribe-java)
+- Scribe Java
+    - [Documentation](https://github.com/fernandezpablo85/scribe-java)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 5136 ⭐
 
 
 ## 🗄️ Categories:

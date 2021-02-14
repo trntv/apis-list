@@ -17,18 +17,37 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### C#
-- OneDrive C# SDK by OneDrive: [Documentation](https://github.com/OneDrive/onedrive-sdk-csharp)
+- OneDrive C# SDK by OneDrive
+    - [Documentation](https://github.com/OneDrive/onedrive-sdk-csharp)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 241 ⭐
 
 ### Objective-C
-- OneDrive iOS SDK by OneDrive: [Documentation](https://github.com/OneDrive/onedrive-sdk-ios)
+- OneDrive iOS SDK by OneDrive
+    - [Documentation](https://github.com/OneDrive/onedrive-sdk-ios)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 92 ⭐
 
-- OneDrive Picker iOS SDK by OneDrive: [Documentation](https://dev.onedrive.com/sdks.htm)
+- OneDrive Picker iOS SDK by OneDrive
+    - [Documentation](https://dev.onedrive.com/sdks.htm)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Java
-- OneDrive Android SDK by OneDrive: [Documentation](https://github.com/OneDrive/onedrive-sdk-android)
+- OneDrive Android SDK by OneDrive
+    - [Documentation](https://github.com/OneDrive/onedrive-sdk-android)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 111 ⭐
 
 ### Python
-- OneDrive Python SDK by OneDrive: [Documentation](https://github.com/OneDrive/onedrive-sdk-python)
+- OneDrive Python SDK by OneDrive
+    - [Documentation](https://github.com/OneDrive/onedrive-sdk-python)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 676 ⭐
 
 
 ## 🗄️ Categories:

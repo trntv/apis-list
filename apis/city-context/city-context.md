@@ -17,7 +17,11 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### JavaScript
-- City Context JavaScript Library by City Context: [Documentation](https://github.com/citycontext/citycontext-ui), [Source code](https://github.com/citycontext/citycontext-ui)
+- City Context JavaScript Library by City Context
+    - [Documentation](https://github.com/citycontext/citycontext-ui)
+    - [Source code](https://github.com/citycontext/citycontext-ui)
+    - [Add author ➕]
+    - 4 ⭐
 
 
 ## 🗄️ Categories:

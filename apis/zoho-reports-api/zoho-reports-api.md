@@ -20,13 +20,24 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Ruby
-- Zoho Reports Ruby SDK by Neil Giarratana: [Documentation](https://github.com/neilsmind/zoho_reports)
+- Zoho Reports Ruby SDK by Neil Giarratana
+    - [Documentation](https://github.com/neilsmind/zoho_reports)
+    - [Add source code URL ➕]()
+    - [Author: @neilsmind](https://github.com/neilsmind)
+    - 2 ⭐
 
 ### Python
-- Zoho Python SDK by A2Z Cloud: [Documentation](https://github.com/A2Z-Cloud/Talk-Zoho)
+- Zoho Python SDK by A2Z Cloud
+    - [Documentation](https://github.com/A2Z-Cloud/Talk-Zoho)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 4 ⭐
 
 ### PHP
-- Zoho PHP SDK by oprimus: [Documentation](https://github.com/oprimus/PHP-Zoho)
+- Zoho PHP SDK by oprimus
+    - [Documentation](https://github.com/oprimus/PHP-Zoho)
+    - [Add source code URL ➕]()
+    - [Author: @oprimus](https://github.com/oprimus)
 
 
 ## 🗄️ Categories:

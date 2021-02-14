@@ -20,16 +20,32 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Python
-- ProxyCrawl Python SDK: [Documentation](https://github.com/proxycrawl/proxycrawl-python), [Source code](https://pypi.org/project/proxycrawl/)
+- ProxyCrawl Python SDK
+    - [Documentation](https://github.com/proxycrawl/proxycrawl-python)
+    - [Source code](https://pypi.org/project/proxycrawl/)
+    - [Author: @proxycrawl](https://github.com/proxycrawl)
+    - 38 ⭐
 
 ### PHP
-- ProxyCrawl PHP SDK: [Documentation](https://github.com/proxycrawl/proxycrawl-php), [Source code](https://packagist.org/packages/proxycrawl/proxycrawl)
+- ProxyCrawl PHP SDK
+    - [Documentation](https://github.com/proxycrawl/proxycrawl-php)
+    - [Source code](https://packagist.org/packages/proxycrawl/proxycrawl)
+    - [Author: @proxycrawl](https://github.com/proxycrawl)
+    - 11 ⭐
 
 ### Node.js
-- ProxyCrawl NodeJS SDK: [Documentation](https://www.npmjs.com/package/proxycrawl), [Source code](https://github.com/proxycrawl/proxycrawl-node)
+- ProxyCrawl NodeJS SDK
+    - [Documentation](https://www.npmjs.com/package/proxycrawl)
+    - [Source code](https://github.com/proxycrawl/proxycrawl-node)
+    - [Author: @proxycrawl](https://github.com/proxycrawl)
+    - 16 ⭐
 
 ### Ruby
-- ProxyCrawl Ruby SDK: [Documentation](https://rubygems.org/gems/proxycrawl), [Source code](https://github.com/proxycrawl/proxycrawl-ruby/)
+- ProxyCrawl Ruby SDK
+    - [Documentation](https://rubygems.org/gems/proxycrawl)
+    - [Source code](https://github.com/proxycrawl/proxycrawl-ruby/)
+    - [Author: @proxycrawl](https://github.com/proxycrawl)
+    - 9 ⭐
 
 
 ## 🗄️ Categories:

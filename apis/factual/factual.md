@@ -17,7 +17,10 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Objective-C
-- Factual Engine iOS SDK: [Documentation](http://developer.factual.com/engine/), [Source code](http://developer.factual.com/engine/ios/)
+- Factual Engine iOS SDK
+    - [Documentation](http://developer.factual.com/engine/)
+    - [Source code](http://developer.factual.com/engine/ios/)
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

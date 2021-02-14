@@ -17,7 +17,11 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Python
-- Jamendo Ratings Python SDK by Jamendo: [Documentation](https://github.com/jamendo/jamendo-ratings-sdk)
+- Jamendo Ratings Python SDK by Jamendo
+    - [Documentation](https://github.com/jamendo/jamendo-ratings-sdk)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 6 ⭐
 
 
 ## 🗄️ Categories:

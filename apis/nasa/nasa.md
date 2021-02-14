@@ -17,15 +17,31 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Java
-- NASA WorldWind Android SDK: [Documentation](https://github.com/NASAWorldWind/WorldWindAndroid)
+- NASA WorldWind Android SDK
+    - [Documentation](https://github.com/NASAWorldWind/WorldWindAndroid)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 199 ⭐
 
-- NASA WorldWind Java SDK: [Documentation](https://github.com/NASAWorldWind/WorldWindJava)
+- NASA WorldWind Java SDK
+    - [Documentation](https://github.com/NASAWorldWind/WorldWindJava)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 518 ⭐
 
 ### JavaScript
-- NASA WorldWind JavaScript SDK: [Documentation](https://github.com/NASAWorldWind/WebWorldWind)
+- NASA WorldWind JavaScript SDK
+    - [Documentation](https://github.com/NASAWorldWind/WebWorldWind)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 619 ⭐
 
 ### Node.js
-- NASA NodeJS SDK by AJ Funk: [Documentation](https://github.com/AJFunk/nasa-sdk)
+- NASA NodeJS SDK by AJ Funk
+    - [Documentation](https://github.com/AJFunk/nasa-sdk)
+    - [Add source code URL ➕]()
+    - [Author: @AJFunk](https://github.com/AJFunk)
+    - 43 ⭐
 
 
 ## 🗄️ Categories:

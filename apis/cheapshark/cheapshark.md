@@ -20,7 +20,10 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Ruby
-- CheapShark Ruby Library by Antonio Gurgel: [Documentation](https://github.com/GA114/cheapshark)
+- CheapShark Ruby Library by Antonio Gurgel
+    - [Documentation](https://github.com/GA114/cheapshark)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

@@ -20,7 +20,11 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Node.js
-- Currents NodeJS SDK: [Documentation](https://currentsapi.services/en/docs/official), [Source code](https://github.com/currentsapi-dev/currentsapi_nodejs)
+- Currents NodeJS SDK
+    - [Documentation](https://currentsapi.services/en/docs/official)
+    - [Source code](https://github.com/currentsapi-dev/currentsapi_nodejs)
+    - [Add author ➕]
+    - 1 ⭐
 
 
 ## 🗄️ Categories:

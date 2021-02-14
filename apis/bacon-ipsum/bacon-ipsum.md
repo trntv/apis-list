@@ -17,7 +17,11 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### PHP
-- Bacon Ipsum PHP SDK: [Documentation](https://github.com/petenelson/wp-any-ipsum/tree/master/lib)
+- Bacon Ipsum PHP SDK
+    - [Documentation](https://github.com/petenelson/wp-any-ipsum/tree/master/lib)
+    - [Add source code URL ➕]()
+    - [Author: @petenelson](https://github.com/petenelson)
+    - 79 ⭐
 
 
 ## 🗄️ Categories:

@@ -17,7 +17,11 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### JavaScript
-- AI Mastering Javascript SDK: [Documentation](https://aimastering.com/api_docs/), [Source code](https://github.com/ai-mastering/aimastering-js)
+- AI Mastering Javascript SDK
+    - [Documentation](https://aimastering.com/api_docs/)
+    - [Source code](https://github.com/ai-mastering/aimastering-js)
+    - [Add author ➕]
+    - 4 ⭐
 
 
 ## 🗄️ Categories:

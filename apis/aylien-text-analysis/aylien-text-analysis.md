@@ -17,22 +17,40 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Ruby
-- AYLIEN Text Analysis Ruby SDK: [Documentation](https://developer.aylien.com/getting-started/ruby)
+- AYLIEN Text Analysis Ruby SDK
+    - [Documentation](https://developer.aylien.com/getting-started/ruby)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Python
-- AYLIEN Text Analysis Python SDK: [Documentation](https://developer.aylien.com/getting-started/python)
+- AYLIEN Text Analysis Python SDK
+    - [Documentation](https://developer.aylien.com/getting-started/python)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### PHP
-- AYLIEN Text Analysis PHP SDK: [Documentation](https://developer.aylien.com/getting-started/php)
+- AYLIEN Text Analysis PHP SDK
+    - [Documentation](https://developer.aylien.com/getting-started/php)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Node.js
-- AYLIEN Text Analysis Node.js SDK: [Documentation](https://developer.aylien.com/getting-started/node)
+- AYLIEN Text Analysis Node.js SDK
+    - [Documentation](https://developer.aylien.com/getting-started/node)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Java
-- AYLIEN Text Analysis Java SDK: [Documentation](https://developer.aylien.com/getting-started/java)
+- AYLIEN Text Analysis Java SDK
+    - [Documentation](https://developer.aylien.com/getting-started/java)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### C#
-- AYLIEN Text Analysis C# SDK: [Documentation](https://developer.aylien.com/getting-started/cs)
+- AYLIEN Text Analysis C# SDK
+    - [Documentation](https://developer.aylien.com/getting-started/cs)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

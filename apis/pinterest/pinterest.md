@@ -20,27 +20,60 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### JavaScript
-- Social API JS JavaScript SDK by Joris Daniel: [Documentation](https://github.com/yoriiis/social-api.js)
+- Social API JS JavaScript SDK by Joris Daniel
+    - [Documentation](https://github.com/yoriiis/social-api.js)
+    - [Add source code URL ➕]()
+    - [Author: @yoriiis](https://github.com/yoriiis)
+    - 5 ⭐
 
-- Pinterest JavaScript SDK by Pinterest: [Documentation](https://developers.pinterest.com/docs/sdks/js/)
+- Pinterest JavaScript SDK by Pinterest
+    - [Documentation](https://developers.pinterest.com/docs/sdks/js/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Go
-- SocialSharesCount Go SDK by Sumesh Suvarna: [Documentation](https://github.com/gssumesh/socialsharescount)
+- SocialSharesCount Go SDK by Sumesh Suvarna
+    - [Documentation](https://github.com/gssumesh/socialsharescount)
+    - [Add source code URL ➕]()
+    - [Author: @gssumesh](https://github.com/gssumesh)
+    - 9 ⭐
 
-- Pinterest Go SDK by Carrot Creative: [Documentation](https://github.com/carrot/go-pinterest)
+- Pinterest Go SDK by Carrot Creative
+    - [Documentation](https://github.com/carrot/go-pinterest)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 22 ⭐
 
 ### PHP
-- Pinterest PHP SDK by Hans Ott: [Documentation](https://github.com/hansott/pinterest-php)
+- Pinterest PHP SDK by Hans Ott
+    - [Documentation](https://github.com/hansott/pinterest-php)
+    - [Add source code URL ➕]()
+    - [Author: @hansott](https://github.com/hansott)
+    - 47 ⭐
 
-- Pinterest PHP SDK by Dirk Groenen: [Documentation](https://github.com/dirkgroenen/Pinterest-API-PHP)
+- Pinterest PHP SDK by Dirk Groenen
+    - [Documentation](https://github.com/dirkgroenen/Pinterest-API-PHP)
+    - [Add source code URL ➕]()
+    - [Author: @dirkgroenen](https://github.com/dirkgroenen)
+    - 150 ⭐
 
 ### Java
-- Pinterest Android SDK by Pinterest: [Documentation](https://developers.pinterest.com/docs/sdks/android/)
+- Pinterest Android SDK by Pinterest
+    - [Documentation](https://developers.pinterest.com/docs/sdks/android/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- Pinterest Layout Android Library by Rahul Jiresal: [Documentation](http://www.rahuljiresal.com/2014/03/pinterest-style-layout-on-android/), [Source code](https://github.com/rahuljiresal/Pinterest-Layout-Android-Demo)
+- Pinterest Layout Android Library by Rahul Jiresal
+    - [Documentation](http://www.rahuljiresal.com/2014/03/pinterest-style-layout-on-android/)
+    - [Source code](https://github.com/rahuljiresal/Pinterest-Layout-Android-Demo)
+    - [Author: @rahuljiresal](https://github.com/rahuljiresal)
+    - 28 ⭐
 
 ### Objective-C
-- Pinterest iOS SDK by Pinterest: [Documentation](https://developers.pinterest.com/docs/sdks/ios/)
+- Pinterest iOS SDK by Pinterest
+    - [Documentation](https://developers.pinterest.com/docs/sdks/ios/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

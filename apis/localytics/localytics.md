@@ -17,16 +17,30 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### C#
-- Localytics Xamarin SDK by Localytics: [Documentation](https://github.com/localytics/localytics-xamarin)
+- Localytics Xamarin SDK by Localytics
+    - [Documentation](https://github.com/localytics/localytics-xamarin)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 6 ⭐
 
 ### JavaScript
-- Localytics Cordova SDK by Localytics: [Documentation](https://github.com/localytics/localytics-cordova)
+- Localytics Cordova SDK by Localytics
+    - [Documentation](https://github.com/localytics/localytics-cordova)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 13 ⭐
 
 ### Java
--  Localytics Java SDK by Localytics: [Documentation](http://docs.localytics.com/#Dev/sdk-downloads.html)
+-  Localytics Java SDK by Localytics
+    - [Documentation](http://docs.localytics.com/#Dev/sdk-downloads.html)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Objective-C
-- Localytics Objective-C SDK by Localytics: [Documentation](http://docs.localytics.com/index.html#Dev/Integrate/ios-integration.html), [Source code](http://docs.localytics.com/#Dev/sdk-downloads.html)
+- Localytics Objective-C SDK by Localytics
+    - [Documentation](http://docs.localytics.com/index.html#Dev/Integrate/ios-integration.html)
+    - [Source code](http://docs.localytics.com/#Dev/sdk-downloads.html)
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

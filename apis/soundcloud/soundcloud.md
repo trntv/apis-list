@@ -17,33 +17,70 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### C++
-- lizz C++ SDK by bx5a: [Documentation](https://github.com/bx5a/lizz)
+- lizz C++ SDK by bx5a
+    - [Documentation](https://github.com/bx5a/lizz)
+    - [Add source code URL ➕]()
+    - [Author: @bx5a](https://github.com/bx5a)
 
 ### Node.js
-- SoundCloud Node.js SDK by Jake Marsh: [Documentation](https://www.npmjs.com/package/node-soundcloud), [Source code](https://github.com/jakemmarsh/node-soundcloud)
+- SoundCloud Node.js SDK by Jake Marsh
+    - [Documentation](https://www.npmjs.com/package/node-soundcloud)
+    - [Source code](https://github.com/jakemmarsh/node-soundcloud)
+    - [Author: @jakemmarsh](https://github.com/jakemmarsh)
+    - 32 ⭐
 
 ### .Net
-- SoundCloud .Net SDK by Kirill Ivanov: [Documentation](https://github.com/kipwoker/SoundCloud.API.Client)
+- SoundCloud .Net SDK by Kirill Ivanov
+    - [Documentation](https://github.com/kipwoker/SoundCloud.API.Client)
+    - [Add source code URL ➕]()
+    - [Author: @kipwoker](https://github.com/kipwoker)
+    - 46 ⭐
 
 ### JavaScript
-- SoundCloud JavaScript SDK by SoundCloud: [Documentation](https://github.com/soundcloud/soundcloud-javascript)
+- SoundCloud JavaScript SDK by SoundCloud
+    - [Documentation](https://github.com/soundcloud/soundcloud-javascript)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 364 ⭐
 
 ### Python
-- SoundCloud Python SDK by SoundCloud: [Documentation](https://github.com/soundcloud/soundcloud-python)
+- SoundCloud Python SDK by SoundCloud
+    - [Documentation](https://github.com/soundcloud/soundcloud-python)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 47 ⭐
 
-- SoundCloud Python SDK by Alexander Skiridomov: [Documentation](https://github.com/n1nj4z33/soundcloud-python)
+- SoundCloud Python SDK by Alexander Skiridomov
+    - [Documentation](https://github.com/n1nj4z33/soundcloud-python)
+    - [Add source code URL ➕]()
+    - [Author: @n1nj4z33](https://github.com/n1nj4z33)
+    - 1 ⭐
 
 ### PHP
-- SoundCloud PHP SDK by Nelson J Morais: [Documentation](https://github.com/njasm/soundcloud)
+- SoundCloud PHP SDK by Nelson J Morais
+    - [Documentation](https://github.com/njasm/soundcloud)
+    - [Add source code URL ➕]()
+    - [Author: @njasm](https://github.com/njasm)
+    - 94 ⭐
 
 ### Ruby
-- SoundCloud Ruby SDK by SoundCloud: [Documentation](https://github.com/soundcloud/soundcloud-ruby)
+- SoundCloud Ruby SDK by SoundCloud
+    - [Documentation](https://github.com/soundcloud/soundcloud-ruby)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Objective-C
-- SoundCloud SDK: [Documentation](https://developers.soundcloud.com/), [Source code](https://developers.soundcloud.com/docs/api/ios-quickstart)
+- SoundCloud SDK
+    - [Documentation](https://developers.soundcloud.com/)
+    - [Source code](https://developers.soundcloud.com/docs/api/ios-quickstart)
+    - [Add author ➕]
 
 ### Java
--  SoundCloud Java Library by Darius Morawiec: [Documentation](https://github.com/nok/soundcloud-java-library)
+-  SoundCloud Java Library by Darius Morawiec
+    - [Documentation](https://github.com/nok/soundcloud-java-library)
+    - [Add source code URL ➕]()
+    - [Author: @nok](https://github.com/nok)
+    - 56 ⭐
 
 
 ## 🗄️ Categories:

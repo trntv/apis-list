@@ -20,14 +20,29 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Ruby
-- Clearbit Ruby SDK by Alex MacCaw: [Documentation](https://rubygems.org/gems/clearbit/versions/0.2.2)
+- Clearbit Ruby SDK by Alex MacCaw
+    - [Documentation](https://rubygems.org/gems/clearbit/versions/0.2.2)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- Clearbit Ruby SDK by Clearbit: [Documentation](https://github.com/clearbit/clearbit-ruby)
+- Clearbit Ruby SDK by Clearbit
+    - [Documentation](https://github.com/clearbit/clearbit-ruby)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 53 ⭐
 
 ### Go
-- Clearbit Go SDK by thoughtbot: [Documentation](https://github.com/thoughtbot/clearbit)
+- Clearbit Go SDK by thoughtbot
+    - [Documentation](https://github.com/thoughtbot/clearbit)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 31 ⭐
 
-- Clearbit Go SDK by Clearbit: [Documentation](https://github.com/clearbit/clearbit-go)
+- Clearbit Go SDK by Clearbit
+    - [Documentation](https://github.com/clearbit/clearbit-go)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 12 ⭐
 
 
 ## 🗄️ Categories:

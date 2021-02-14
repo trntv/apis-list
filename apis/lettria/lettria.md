@@ -20,7 +20,11 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Python
-- Lettria Python SDK: [Documentation](https://github.com/Lettria/sdk-python)
+- Lettria Python SDK
+    - [Documentation](https://github.com/Lettria/sdk-python)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 7 ⭐
 
 
 ## 🗄️ Categories:

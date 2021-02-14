@@ -17,16 +17,32 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### PERL
-- Shodan Perl SDK by Dudley Adams: [Documentation](https://metacpan.org/pod/WWW::Shodan::API), [Source code](https://github.com/Dudley5000/WWW-Shodan-API)
+- Shodan Perl SDK by Dudley Adams
+    - [Documentation](https://metacpan.org/pod/WWW::Shodan::API)
+    - [Source code](https://github.com/Dudley5000/WWW-Shodan-API)
+    - [Author: @Dudley5000](https://github.com/Dudley5000)
+    - 13 ⭐
 
 ### Java
-- Shodan Java SDK by newhouse: [Documentation](https://developer.shodan.io/api/clients), [Source code](https://github.com/fooock/jshodan)
+- Shodan Java SDK by newhouse
+    - [Documentation](https://developer.shodan.io/api/clients)
+    - [Source code](https://github.com/fooock/jshodan)
+    - [Author: @fooock](https://github.com/fooock)
+    - 48 ⭐
 
 ### Python
-- Shodan Python SDK by John Matherly: [Documentation](https://shodan.readthedocs.io/en/latest/index.html), [Source code](https://github.com/achillean/shodan-python)
+- Shodan Python SDK by John Matherly
+    - [Documentation](https://shodan.readthedocs.io/en/latest/index.html)
+    - [Source code](https://github.com/achillean/shodan-python)
+    - [Author: @achillean](https://github.com/achillean)
+    - 1538 ⭐
 
 ### Node.js
-- Shodan Node.js SDK by Jesús Pérez: [Documentation](https://github.com/jesusprubio/shodan-client.js)
+- Shodan Node.js SDK by Jesús Pérez
+    - [Documentation](https://github.com/jesusprubio/shodan-client.js)
+    - [Add source code URL ➕]()
+    - [Author: @jesusprubio](https://github.com/jesusprubio)
+    - 171 ⭐
 
 
 ## 🗄️ Categories:

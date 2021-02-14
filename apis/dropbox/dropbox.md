@@ -17,54 +17,126 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Ruby
-- Dropbox Ruby SDK by Jesús Burgos Maciá: [Documentation](https://github.com/Jesus/dropbox_api)
+- Dropbox Ruby SDK by Jesús Burgos Maciá
+    - [Documentation](https://github.com/Jesus/dropbox_api)
+    - [Add source code URL ➕]()
+    - [Author: @Jesus](https://github.com/Jesus)
+    - 140 ⭐
 
-- Dropbox Ruby SDK by Dropbox: [Documentation](https://www.dropbox.com/developers/core/sdks/ruby)
+- Dropbox Ruby SDK by Dropbox
+    - [Documentation](https://www.dropbox.com/developers/core/sdks/ruby)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Objective-C
-- Dropbox Objective-C SDK by Dropbox: [Documentation](https://github.com/dropbox/dropbox-sdk-obj-c)
+- Dropbox Objective-C SDK by Dropbox
+    - [Documentation](https://github.com/dropbox/dropbox-sdk-obj-c)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 156 ⭐
 
-- Dropbox iOS SDK Mirror by Dropbox SDK Mirror: [Documentation](https://github.com/dropbox-sdk-mirror/dropbox-sdk-ios)
+- Dropbox iOS SDK Mirror by Dropbox SDK Mirror
+    - [Documentation](https://github.com/dropbox-sdk-mirror/dropbox-sdk-ios)
+    - [Add source code URL ➕]()
+    - [Author: @dropbox-sdk-mirror](https://github.com/dropbox-sdk-mirror)
+    - 36 ⭐
 
-- Dropbox iOS X SDK by Dropbox: [Documentation](https://www.dropbox.com/developers/core/sdks/osx)
+- Dropbox iOS X SDK by Dropbox
+    - [Documentation](https://www.dropbox.com/developers/core/sdks/osx)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- Dropbox iOS SDK by Dropbox: [Documentation](https://www.dropbox.com/developers/core/sdks/ios)
+- Dropbox iOS SDK by Dropbox
+    - [Documentation](https://www.dropbox.com/developers/core/sdks/ios)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Java
-- Dropbox Java SDK by Gini: [Documentation](https://github.com/gini/dropbox-java-sdk)
+- Dropbox Java SDK by Gini
+    - [Documentation](https://github.com/gini/dropbox-java-sdk)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 1 ⭐
 
-- Dropbox Android SDK by Dropbox: [Documentation](https://www.dropbox.com/developers/core/sdks/android)
+- Dropbox Android SDK by Dropbox
+    - [Documentation](https://www.dropbox.com/developers/core/sdks/android)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- Dropbox Java SDK by Dropbox: [Documentation](https://www.dropbox.com/developers/documentation/java), [Source code](https://github.com/dropbox/dropbox-sdk-java)
+- Dropbox Java SDK by Dropbox
+    - [Documentation](https://www.dropbox.com/developers/documentation/java)
+    - [Source code](https://github.com/dropbox/dropbox-sdk-java)
+    - [Add author ➕]
+    - 454 ⭐
 
--  Dropbox Java Library by Kannan Goudan: [Documentation](https://github.com/dropbox/dropbox-sdk-java)
+-  Dropbox Java Library by Kannan Goudan
+    - [Documentation](https://github.com/dropbox/dropbox-sdk-java)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 454 ⭐
 
 ### Python
-- Dropbox Python SDK for Flask applications by Igor Davydenko: [Documentation](https://github.com/playpauseandstop/Flask-Dropbox)
+- Dropbox Python SDK for Flask applications by Igor Davydenko
+    - [Documentation](https://github.com/playpauseandstop/Flask-Dropbox)
+    - [Add source code URL ➕]()
+    - [Author: @playpauseandstop](https://github.com/playpauseandstop)
+    - 63 ⭐
 
-- Dropbox Python SDK by Dropbox: [Documentation](https://www.dropbox.com/developers/core/sdks/python), [Source code](https://github.com/dropbox/dropbox-sdk-python)
+- Dropbox Python SDK by Dropbox
+    - [Documentation](https://www.dropbox.com/developers/core/sdks/python)
+    - [Source code](https://github.com/dropbox/dropbox-sdk-python)
+    - [Add author ➕]
+    - 693 ⭐
 
 ### Node.js
-- Dropbox Node.js SDK by Brock Whitten: [Documentation](https://github.com/sintaxi/dbox)
+- Dropbox Node.js SDK by Brock Whitten
+    - [Documentation](https://github.com/sintaxi/dbox)
+    - [Add source code URL ➕]()
+    - [Author: @sintaxi](https://github.com/sintaxi)
+    - 520 ⭐
 
 ### PHP
-- Dropbox PHP SDK by Ben Tadiar: [Documentation](https://github.com/BenExile/Dropbox)
+- Dropbox PHP SDK by Ben Tadiar
+    - [Documentation](https://github.com/BenExile/Dropbox)
+    - [Add source code URL ➕]()
+    - [Author: @BenExile](https://github.com/BenExile)
+    - 542 ⭐
 
-- Dropbox PHP SDK by Dropbox: [Documentation](https://www.dropbox.com/developers/core/sdks/php)
+- Dropbox PHP SDK by Dropbox
+    - [Documentation](https://www.dropbox.com/developers/core/sdks/php)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- Dropbox PHP Library by Kannan Goudan: [Documentation](https://github.com/dropbox/dropbox-sdk-php)
+- Dropbox PHP Library by Kannan Goudan
+    - [Documentation](https://github.com/dropbox/dropbox-sdk-php)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### JavaScript
-- Instagram JavaScript SDK by Shayne Sweeney: [Documentation](https://github.com/facebookarchive/instagram-javascript-sdk)
+- Instagram JavaScript SDK by Shayne Sweeney
+    - [Documentation](https://github.com/facebookarchive/instagram-javascript-sdk)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 143 ⭐
 
 ### C++
-- Dropbox C++ Library by Daniel Eder: [Documentation](http://lycis.github.io/QtDropbox/)
+- Dropbox C++ Library by Daniel Eder
+    - [Documentation](http://lycis.github.io/QtDropbox/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### C
-- Dropbox C Library by Adrien Python: [Documentation](https://github.com/Dwii/Dropbox-C)
+- Dropbox C Library by Adrien Python
+    - [Documentation](https://github.com/Dwii/Dropbox-C)
+    - [Add source code URL ➕]()
+    - [Author: @Dwii](https://github.com/Dwii)
+    - 29 ⭐
 
 ### ActionScript
-- Dropbox ActionScript Library by zeshuo: [Documentation](https://code.google.com/p/dropbox-as3/)
+- Dropbox ActionScript Library by zeshuo
+    - [Documentation](https://code.google.com/p/dropbox-as3/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

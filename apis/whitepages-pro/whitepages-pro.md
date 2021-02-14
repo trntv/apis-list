@@ -20,10 +20,16 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### C#
-- Whitepages Pro C# SDK by Whitepages: [Documentation](http://pro.whitepages.com/developer/libraries/c-sharp/)
+- Whitepages Pro C# SDK by Whitepages
+    - [Documentation](http://pro.whitepages.com/developer/libraries/c-sharp/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Java
-- WhitePages Pro Java SDK by WhitePages: [Documentation](http://pro.whitepages.com/developer/libraries/java/)
+- WhitePages Pro Java SDK by WhitePages
+    - [Documentation](http://pro.whitepages.com/developer/libraries/java/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

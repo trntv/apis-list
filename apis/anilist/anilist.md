@@ -20,7 +20,11 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Python
-- Minoshiro Python SDK by Minoshiro: [Documentation](https://github.com/Mino-shiro/Minoshiro)
+- Minoshiro Python SDK by Minoshiro
+    - [Documentation](https://github.com/Mino-shiro/Minoshiro)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 13 ⭐
 
 
 ## 🗄️ Categories:

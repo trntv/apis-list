@@ -17,26 +17,56 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Unspecified
-- Netflix Roulette Nim SDK by Adam Chesak: [Documentation](https://github.com/achesak/nim-netflixroulette)
+- Netflix Roulette Nim SDK by Adam Chesak
+    - [Documentation](https://github.com/achesak/nim-netflixroulette)
+    - [Add source code URL ➕]()
+    - [Author: @achesak](https://github.com/achesak)
 
 ### Go
-- Netflix Roulette Go SDK by Julián Reyes: [Documentation](https://github.com/jreyeshdez/goroulette)
+- Netflix Roulette Go SDK by Julián Reyes
+    - [Documentation](https://github.com/jreyeshdez/goroulette)
+    - [Add source code URL ➕]()
+    - [Author: @jreyeshdez](https://github.com/jreyeshdez)
+    - 1 ⭐
 
-- Netflix Roulette Go SDK by Elijah Wilson: [Documentation](https://github.com/tizz98/go-netflix-roulette)
+- Netflix Roulette Go SDK by Elijah Wilson
+    - [Documentation](https://github.com/tizz98/go-netflix-roulette)
+    - [Add source code URL ➕]()
+    - [Author: @tizz98](https://github.com/tizz98)
+    - 2 ⭐
 
 ### PHP
-- Netflix Roulette PHP SDK by Luis Filipe Lima dos Santos Sousa: [Documentation](https://github.com/lionphilips/netflix-client)
+- Netflix Roulette PHP SDK by Luis Filipe Lima dos Santos Sousa
+    - [Documentation](https://github.com/lionphilips/netflix-client)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
-- Netflix Roulette PHP SDK by Gabriel de Tassigny: [Documentation](https://github.com/gabriel-detassigny/netflix-roulette)
+- Netflix Roulette PHP SDK by Gabriel de Tassigny
+    - [Documentation](https://github.com/gabriel-detassigny/netflix-roulette)
+    - [Add source code URL ➕]()
+    - [Author: @gabriel-detassigny](https://github.com/gabriel-detassigny)
+    - 1 ⭐
 
 ### Ruby
-- Netflix Roulette Ruby SDK by doesterr: [Documentation](https://github.com/doesterr/netflix_roulette)
+- Netflix Roulette Ruby SDK by doesterr
+    - [Documentation](https://github.com/doesterr/netflix_roulette)
+    - [Add source code URL ➕]()
+    - [Author: @doesterr](https://github.com/doesterr)
+    - 2 ⭐
 
 ### Node.js
-- Netflix Roulette Node.js SDK by Enzo Toshio: [Documentation](https://github.com/enzotoshio/netflixSearch)
+- Netflix Roulette Node.js SDK by Enzo Toshio
+    - [Documentation](https://github.com/enzotoshio/netflixSearch)
+    - [Add source code URL ➕]()
+    - [Author: @enzotoshio](https://github.com/enzotoshio)
+    - 4 ⭐
 
 ### Python
-- Netflix Roulette Python SDK by Elijah Wilson: [Documentation](https://github.com/tizz98/netflix_roulette)
+- Netflix Roulette Python SDK by Elijah Wilson
+    - [Documentation](https://github.com/tizz98/netflix_roulette)
+    - [Add source code URL ➕]()
+    - [Author: @tizz98](https://github.com/tizz98)
+    - 9 ⭐
 
 
 ## 🗄️ Categories:

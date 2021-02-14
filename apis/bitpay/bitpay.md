@@ -20,30 +20,65 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### JavaScript
-- BitPay Cordova SDK: [Documentation](https://github.com/bitpay/cordova-sdk)
+- BitPay Cordova SDK
+    - [Documentation](https://github.com/bitpay/cordova-sdk)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 10 ⭐
 
 ### Java
-- BitPay Android SDK: [Documentation](https://github.com/bitpay/android-sdk)
+- BitPay Android SDK
+    - [Documentation](https://github.com/bitpay/android-sdk)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 19 ⭐
 
-- BitPay Java Client Library: [Documentation](https://github.com/bitpay/java-bitpay-client)
+- BitPay Java Client Library
+    - [Documentation](https://github.com/bitpay/java-bitpay-client)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 29 ⭐
 
 ### Ruby
-- BitPay Ruby Client Library: [Documentation](https://github.com/bitpay/ruby-client)
+- BitPay Ruby Client Library
+    - [Documentation](https://github.com/bitpay/ruby-client)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 72 ⭐
 
 ### C#
-- BitPay C# Client Library: [Documentation](https://github.com/bitpay/csharp-bitpay-client)
+- BitPay C# Client Library
+    - [Documentation](https://github.com/bitpay/csharp-bitpay-client)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 23 ⭐
 
 ### PERL
-- BitPay Perl Client Library: [Documentation](https://github.com/bitpay/perl-client)
+- BitPay Perl Client Library
+    - [Documentation](https://github.com/bitpay/perl-client)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 7 ⭐
 
 ### PHP
-- BitPay PHP Client Library: [Documentation](https://github.com/bitpay/php-bitpay-client)
+- BitPay PHP Client Library
+    - [Documentation](https://github.com/bitpay/php-bitpay-client)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 161 ⭐
 
 ### Python
-- BitPay Python Client Library: [Documentation](https://github.com/bitpay/python-client)
+- BitPay Python Client Library
+    - [Documentation](https://github.com/bitpay/python-client)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Node.js
-- BitPay Node.js Client Library: [Documentation](https://github.com/bitpay/node-bitpay-client)
+- BitPay Node.js Client Library
+    - [Documentation](https://github.com/bitpay/node-bitpay-client)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 97 ⭐
 
 
 ## 🗄️ Categories:

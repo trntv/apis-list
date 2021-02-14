@@ -20,10 +20,17 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Objective-C
-- Antideo Objective-C SDK by Antideo: [Documentation](https://github.com/antideo/xcode)
+- Antideo Objective-C SDK by Antideo
+    - [Documentation](https://github.com/antideo/xcode)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### PHP
-- Antideo PHP Library by Antideo: [Documentation](https://www.antideo.com), [Source code](https://github.com/antideo/PHP)
+- Antideo PHP Library by Antideo
+    - [Documentation](https://www.antideo.com)
+    - [Source code](https://github.com/antideo/PHP)
+    - [Add author ➕]
+    - 2 ⭐
 
 
 ## 🗄️ Categories:

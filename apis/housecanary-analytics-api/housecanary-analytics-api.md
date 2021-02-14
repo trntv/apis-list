@@ -20,7 +20,11 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Python
-- HouseCanary Analytics Python SDK by HouseCanary: [Documentation](https://github.com/housecanary/hc-api-python)
+- HouseCanary Analytics Python SDK by HouseCanary
+    - [Documentation](https://github.com/housecanary/hc-api-python)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 17 ⭐
 
 
 ## 🗄️ Categories:

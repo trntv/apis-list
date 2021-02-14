@@ -18,27 +18,55 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Ruby
-- Woopra Ruby SDK by Woopra: [Documentation](https://www.woopra.com/docs/setup/ruby-on-rails-sdk/)
+- Woopra Ruby SDK by Woopra
+    - [Documentation](https://www.woopra.com/docs/setup/ruby-on-rails-sdk/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Python
-- Woopra Python SDK by Woopra: [Documentation](https://www.woopra.com/docs/setup/python-sdk/)
+- Woopra Python SDK by Woopra
+    - [Documentation](https://www.woopra.com/docs/setup/python-sdk/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Java
-- Woopra Java SDK by Woopra: [Documentation](https://www.woopra.com/docs/setup/java-sdk/), [Source code](https://github.com/Woopra/woopra-java-sdk)
+- Woopra Java SDK by Woopra
+    - [Documentation](https://www.woopra.com/docs/setup/java-sdk/)
+    - [Source code](https://github.com/Woopra/woopra-java-sdk)
+    - [Add author ➕]
+    - 2 ⭐
 
-- Woopra Android SDK by Woopra: [Documentation](https://www.woopra.com/docs/setup/android-sdk/), [Source code](https://github.com/Woopra/woopra-android-sdk)
+- Woopra Android SDK by Woopra
+    - [Documentation](https://www.woopra.com/docs/setup/android-sdk/)
+    - [Source code](https://github.com/Woopra/woopra-android-sdk)
+    - [Add author ➕]
+    - 6 ⭐
 
 ### Node.js
-- Woopra Node.js SDK by Woopra: [Documentation](https://www.woopra.com/docs/setup/node-js-sdk/), [Source code](https://github.com/woopra/node-woopra)
+- Woopra Node.js SDK by Woopra
+    - [Documentation](https://www.woopra.com/docs/setup/node-js-sdk/)
+    - [Source code](https://github.com/woopra/node-woopra)
+    - [Add author ➕]
+    - 5 ⭐
 
 ### Objective-C
-- Woopra iOS SDK by Woopra: [Documentation](https://www.woopra.com/docs/setup/ios-sdk/), [Source code](https://github.com/Woopra/woopra-ios-sdk)
+- Woopra iOS SDK by Woopra
+    - [Documentation](https://www.woopra.com/docs/setup/ios-sdk/)
+    - [Source code](https://github.com/Woopra/woopra-ios-sdk)
+    - [Add author ➕]
+    - 5 ⭐
 
 ### PHP
-- Woopra PHP SDK by Woopra: [Documentation](https://www.woopra.com/docs/setup/php-sdk/)
+- Woopra PHP SDK by Woopra
+    - [Documentation](https://www.woopra.com/docs/setup/php-sdk/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### JavaScript
-- Woopra JavaScript SDK by Woopra: [Documentation](https://www.woopra.com/docs/setup/javascript-tracking/)
+- Woopra JavaScript SDK by Woopra
+    - [Documentation](https://www.woopra.com/docs/setup/javascript-tracking/)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 
 ## 🗄️ Categories:

@@ -21,7 +21,11 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### C#
-- Salesforce C# SDK by Sean Fife: [Documentation](https://github.com/seanfifepep/SfdcConnect)
+- Salesforce C# SDK by Sean Fife
+    - [Documentation](https://github.com/seanfifepep/SfdcConnect)
+    - [Add source code URL ➕]()
+    - [Author: @seanfifepep](https://github.com/seanfifepep)
+    - 1 ⭐
 
 
 ## 🗄️ Categories:

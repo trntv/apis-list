@@ -21,4 +21,11 @@ program
         checkLibrariesLinks(source || defaultSource)
     });
 
-program.parse(process.argv);
+program
+    .command('lib [source]')
+    .action(async source => await require('./tools/lib')(source || defaultSource));
+
+program.parseAsync(process.argv)
+    .then(() => {
+        console.log("Goobye!");
+    })

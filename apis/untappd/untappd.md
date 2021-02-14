@@ -20,16 +20,32 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### PHP
-- Untappd PHP SDK by Jason Austin: [Documentation](https://github.com/PintLabs/Pintlabs_Service_Untappd)
+- Untappd PHP SDK by Jason Austin
+    - [Documentation](https://github.com/PintLabs/Pintlabs_Service_Untappd)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 30 ⭐
 
 ### Go
-- Untappd Go SDK by Matt Layher: [Documentation](https://github.com/mdlayher/untappd)
+- Untappd Go SDK by Matt Layher
+    - [Documentation](https://github.com/mdlayher/untappd)
+    - [Add source code URL ➕]()
+    - [Author: @mdlayher](https://github.com/mdlayher)
+    - 20 ⭐
 
 ### Node.js
-- Untappd Node.js SDK by Glen R. Goodwin: [Documentation](https://github.com/arei/node-untappd)
+- Untappd Node.js SDK by Glen R. Goodwin
+    - [Documentation](https://github.com/arei/node-untappd)
+    - [Add source code URL ➕]()
+    - [Author: @arei](https://github.com/arei)
+    - 62 ⭐
 
 ### Ruby
-- Untappd Ruby SDK by Chris Mar: [Documentation](https://github.com/cmar/untappd)
+- Untappd Ruby SDK by Chris Mar
+    - [Documentation](https://github.com/cmar/untappd)
+    - [Add source code URL ➕]()
+    - [Author: @cmar](https://github.com/cmar)
+    - 45 ⭐
 
 
 ## 🗄️ Categories:

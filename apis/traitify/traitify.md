@@ -30,27 +30,59 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### JavaScript
-- Traitify JavaScript SDK: [Documentation](https://github.com/traitify/traitify-js-client)
+- Traitify JavaScript SDK
+    - [Documentation](https://github.com/traitify/traitify-js-client)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 2 ⭐
 
 ### PHP
-- Traitify PHP SDK: [Documentation](https://github.com/traitify/traitify-php)
+- Traitify PHP SDK
+    - [Documentation](https://github.com/traitify/traitify-php)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 4 ⭐
 
 ### Python
-- Traitify Python SDK: [Documentation](https://github.com/traitify/traitify-python2.x)
+- Traitify Python SDK
+    - [Documentation](https://github.com/traitify/traitify-python2.x)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 7 ⭐
 
 ### Java
-- Traitify Java SDK: [Documentation](https://github.com/traitify/traitify-java)
+- Traitify Java SDK
+    - [Documentation](https://github.com/traitify/traitify-java)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 3 ⭐
 
-- Traitify API Java Library: [Documentation](https://developer.traitify.com/documentation), [Source code](https://github.com/traitify/traitify-java)
+- Traitify API Java Library
+    - [Documentation](https://developer.traitify.com/documentation)
+    - [Source code](https://github.com/traitify/traitify-java)
+    - [Add author ➕]
+    - 3 ⭐
 
 ### .Net
-- Traitify .NET SDK: [Documentation](https://github.com/traitify/traitify.net)
+- Traitify .NET SDK
+    - [Documentation](https://github.com/traitify/traitify.net)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 2 ⭐
 
 ### Node.js
-- Traitify Node.js SDK: [Documentation](https://github.com/traitify/traitify-node)
+- Traitify Node.js SDK
+    - [Documentation](https://github.com/traitify/traitify-node)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 3 ⭐
 
 ### Ruby
-- Traitify Ruby SDK: [Documentation](https://github.com/traitify/traitify-ruby)
+- Traitify Ruby SDK
+    - [Documentation](https://github.com/traitify/traitify-ruby)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 3 ⭐
 
 
 ## 🗄️ Categories:

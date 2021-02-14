@@ -17,19 +17,36 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### C#
-- Browshot CSharp SDK by Browshot: [Documentation](https://browshot.com/api/libraries/csharp)
+- Browshot CSharp SDK by Browshot
+    - [Documentation](https://browshot.com/api/libraries/csharp)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Ruby
-- Browshot Ruby SDK by Browshot: [Documentation](https://rubygems.org/gems/browshot)
+- Browshot Ruby SDK by Browshot
+    - [Documentation](https://rubygems.org/gems/browshot)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### Python
-- Browshot Python SDK by Browshot: [Documentation](https://github.com/juliensobrier/browshot-python)
+- Browshot Python SDK by Browshot
+    - [Documentation](https://github.com/juliensobrier/browshot-python)
+    - [Add source code URL ➕]()
+    - [Author: @juliensobrier](https://github.com/juliensobrier)
+    - 2 ⭐
 
 ### PHP
-- Browshot PHP SDK by Browshot: [Documentation](https://browshot.com/api/libraries/php)
+- Browshot PHP SDK by Browshot
+    - [Documentation](https://browshot.com/api/libraries/php)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
 
 ### PERL
-- Browshot Perl SDK by Browshot: [Documentation](https://github.com/juliensobrier/browshot-perl)
+- Browshot Perl SDK by Browshot
+    - [Documentation](https://github.com/juliensobrier/browshot-perl)
+    - [Add source code URL ➕]()
+    - [Author: @juliensobrier](https://github.com/juliensobrier)
+    - 1 ⭐
 
 
 ## 🗄️ Categories:

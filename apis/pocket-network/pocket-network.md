@@ -20,19 +20,39 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
 
 ## 🗂️ Libraries
 ### Node.js
-- Pocket Network NodeJS SDK: [Documentation](https://github.com/pokt-network/pocket-node)
+- Pocket Network NodeJS SDK
+    - [Documentation](https://github.com/pokt-network/pocket-node)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 11 ⭐
 
 ### Go
-- Pocket Network Core Go SDK: [Documentation](https://github.com/pokt-network/pocket-core)
+- Pocket Network Core Go SDK
+    - [Documentation](https://github.com/pokt-network/pocket-core)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 44 ⭐
 
 ### Swift
-- Pocket Network Swift SDK: [Documentation](https://github.com/pokt-network/pocket-swift)
+- Pocket Network Swift SDK
+    - [Documentation](https://github.com/pokt-network/pocket-swift)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 1 ⭐
 
 ### JavaScript
-- Pocket Network JavaScript SDK: [Documentation](https://github.com/pokt-network/pocket-js)
+- Pocket Network JavaScript SDK
+    - [Documentation](https://github.com/pokt-network/pocket-js)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 10 ⭐
 
 ### Java
-- Pocket Network Android SDK: [Documentation](https://github.com/pokt-network/pocket-android)
+- Pocket Network Android SDK
+    - [Documentation](https://github.com/pokt-network/pocket-android)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+    - 5 ⭐
 
 
 ## 🗄️ Categories:
