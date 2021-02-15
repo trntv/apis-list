@@ -12,7 +12,7 @@ Face recognition, emotion analysis and measuring engagement of people in images 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Kairos free?
+## 🆓 Is "Kairos" free?
  Unknown/No 
 
 ## 💬 Kairos Discussion:

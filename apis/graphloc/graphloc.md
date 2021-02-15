@@ -12,7 +12,7 @@ Free GraphQL IP Geolocation API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Graphloc free?
+## 🆓 Is "Graphloc" free?
  Unknown/No 
 
 ## 💬 Graphloc Discussion:

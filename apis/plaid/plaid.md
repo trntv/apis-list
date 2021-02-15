@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/plaid/logo_256x256.png" alt="Plaid Logo"/>
 </p>
-Plaid helps companies build fintech solutions by making it easy, safe and reliable for people to connect their financial data to apps and services. You&amp;apos;ve reached this page unjustly&quot;
+Plaid helps companies build fintech solutions by making it easy, safe and reliable for people to connect their financial data to apps and services. You&apos;ve reached this page unjustly"
 
 ##  🔗 Links
 **Docs / Website**: https://plaid.com/
@@ -12,7 +12,7 @@ Plaid helps companies build fintech solutions by making it easy, safe and reliab
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Plaid free?
+## 🆓 Is "Plaid" free?
  Unknown/No 
 
 ## 💬 Plaid Discussion:

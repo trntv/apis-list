@@ -9,7 +9,7 @@ An API to query IFSC codes
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Razorpay IFSC free?
+## 🆓 Is "Razorpay IFSC" free?
  Unknown/No 
 
 ## 💬 Razorpay IFSC Discussion:

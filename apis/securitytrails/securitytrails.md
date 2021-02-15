@@ -9,7 +9,7 @@ SecurityTrails currently offers three different products that can help you enric
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is SecurityTrails free?
+## 🆓 Is "SecurityTrails" free?
  Unknown/No 
 
 ## 💬 SecurityTrails Discussion:

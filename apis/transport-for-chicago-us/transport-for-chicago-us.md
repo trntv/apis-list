@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-chicago-us/logo_256x256.png" alt="Transportation in Chicago, USA Logo"/>
 </p>
-The CTA&#x27;s Developer Center offers a variety of data feeds that allow anyone to develop Web, mobile and other applications to help transit riders throughout the Chicago area
+The CTA's Developer Center offers a variety of data feeds that allow anyone to develop Web, mobile and other applications to help transit riders throughout the Chicago area
 
 ##  🔗 Links
 **Docs / Website**: http://www.transitchicago.com/developers/
@@ -12,7 +12,7 @@ The CTA&#x27;s Developer Center offers a variety of data feeds that allow anyone
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Transportation in Chicago, USA free?
+## 🆓 Is "Transportation in Chicago, USA" free?
  Yes! 
 
 ## 💬 Transportation in Chicago, USA Discussion:

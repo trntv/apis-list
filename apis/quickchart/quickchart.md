@@ -12,7 +12,7 @@ Create a chart image with one API call and embed it anywhere. Send charts in ema
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is QuickChart free?
+## 🆓 Is "QuickChart" free?
  Unknown/No 
 
 ## 💬 QuickChart Discussion:

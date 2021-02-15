@@ -12,7 +12,7 @@ Embed codes of videos of the goals and highlights from a number of football leag
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Football (Soccer) Video Api By Scorebat free?
+## 🆓 Is "Football (Soccer) Video Api By Scorebat" free?
  Unknown/No 
 
 ## 💬 Football (Soccer) Video Api By Scorebat Discussion:

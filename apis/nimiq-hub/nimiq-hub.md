@@ -1,5 +1,5 @@
 # Nimiq Hub
-Nimiq aims to be the best performing and easiest-to-use decentralized payment protocol ecosystem. The Nimiq Hub API enables website developers to integrate payment with Nimiq into their webapp, shop, and mobile app. It&#x27;s all open source, the GitHub repository is here: http://github. com/nimiq/hub
+Nimiq aims to be the best performing and easiest-to-use decentralized payment protocol ecosystem. The Nimiq Hub API enables website developers to integrate payment with Nimiq into their webapp, shop, and mobile app. It's all open source, the GitHub repository is here: http://github. com/nimiq/hub
 
 ##  🔗 Links
 **Docs / Website**: https://nimiq.github.io/hub/
@@ -9,7 +9,7 @@ Nimiq aims to be the best performing and easiest-to-use decentralized payment pr
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Nimiq Hub free?
+## 🆓 Is "Nimiq Hub" free?
  Unknown/No 
 
 ## 💬 Nimiq Hub Discussion:

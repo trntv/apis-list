@@ -9,7 +9,7 @@ Automated. Perfect Tense gives you error-free content in seconds. The Perfect Te
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Perfect Tense API free?
+## 🆓 Is "Perfect Tense API" free?
  Unknown/No 
 
 ## 💬 Perfect Tense API Discussion:

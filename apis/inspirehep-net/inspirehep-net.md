@@ -9,7 +9,7 @@ INSPIRE API Q: I want to do automated searching and receive machine readable res
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is inspirehep.net free?
+## 🆓 Is "inspirehep.net" free?
  Unknown/No 
 
 ## 💬 inspirehep.net Discussion:

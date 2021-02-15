@@ -9,7 +9,7 @@ Live Coding Streaming. Education Ecosystem is a project learning platform for pe
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Liveedu free?
+## 🆓 Is "Liveedu" free?
  Unknown/No 
 
 ## 💬 Liveedu Discussion:

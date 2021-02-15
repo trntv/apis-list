@@ -1,5 +1,5 @@
 # Quidax Merchant
-Buy, sell and store Bitcoin, Ethereum, Ripple (XRP), Litecoin &amp; other cryptocurrencies with Naira. Quidax is simple, secure and safe. . Our API makes it easy to integrate fiat currencies and cryptocurrencies such as; Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), XRP and several others into new and existing applications
+Buy, sell and store Bitcoin, Ethereum, Ripple (XRP), Litecoin & other cryptocurrencies with Naira. Quidax is simple, secure and safe. . Our API makes it easy to integrate fiat currencies and cryptocurrencies such as; Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), XRP and several others into new and existing applications
 
 ##  🔗 Links
 **Docs / Website**: https://www.quidax.com/developers/api_v2
@@ -9,7 +9,7 @@ Buy, sell and store Bitcoin, Ethereum, Ripple (XRP), Litecoin &amp; other crypto
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Quidax Merchant free?
+## 🆓 Is "Quidax Merchant" free?
  Unknown/No 
 
 ## 💬 Quidax Merchant Discussion:

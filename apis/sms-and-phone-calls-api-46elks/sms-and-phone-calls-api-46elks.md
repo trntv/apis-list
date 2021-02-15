@@ -12,7 +12,7 @@ Integrate SMS, MMS and Phone calls into your applications with just a few lines 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Sms And Phone Calls Api - 46elks free?
+## 🆓 Is "Sms And Phone Calls Api - 46elks" free?
  Unknown/No 
 
 ## 💬 Sms And Phone Calls Api - 46elks Discussion:

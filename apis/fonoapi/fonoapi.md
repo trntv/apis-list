@@ -9,7 +9,7 @@ Mobile Device Description Api
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is fonoApi free?
+## 🆓 Is "fonoApi" free?
  Unknown/No 
 
 ## 💬 fonoApi Discussion:

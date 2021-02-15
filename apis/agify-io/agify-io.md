@@ -9,7 +9,7 @@ Free API to check and predict the age of a name. Use the API for research, ad ta
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Agify.io free?
+## 🆓 Is "Agify.io" free?
  Unknown/No 
 
 ## 💬 Agify.io Discussion:

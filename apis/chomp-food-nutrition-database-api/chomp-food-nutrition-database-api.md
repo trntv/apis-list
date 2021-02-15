@@ -12,7 +12,7 @@ A powerful API that provides detailed data on over 500,000 products such as nutr
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Chomp - Food Nutrition Database Api free?
+## 🆓 Is "Chomp - Food Nutrition Database Api" free?
  Unknown/No 
 
 ## 💬 Chomp - Food Nutrition Database Api Discussion:

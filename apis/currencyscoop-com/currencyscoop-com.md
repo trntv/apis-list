@@ -12,7 +12,7 @@ Real-time and historical currency rates JSON API. CurrencyScoop is a developer-f
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is CurrencyScoop.com free?
+## 🆓 Is "CurrencyScoop.com" free?
  Unknown/No 
 
 ## 💬 CurrencyScoop.com Discussion:

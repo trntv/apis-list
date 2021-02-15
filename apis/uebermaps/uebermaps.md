@@ -9,7 +9,7 @@ uebermaps are interactive maps that enable people to. Hello developer. This is t
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Uebermaps free?
+## 🆓 Is "Uebermaps" free?
  Unknown/No 
 
 ## 💬 Uebermaps Discussion:

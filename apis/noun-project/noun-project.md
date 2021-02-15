@@ -9,7 +9,7 @@ Grab a hold of the World’s Visual Language! Use it in your service or applicat
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Noun Project free?
+## 🆓 Is "Noun Project" free?
  Unknown/No 
 
 ## 💬 Noun Project Discussion:

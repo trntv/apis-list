@@ -9,7 +9,7 @@ Free and open source REST API that provides a simple yet effective way to valida
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is NumValidate free?
+## 🆓 Is "NumValidate" free?
  Unknown/No 
 
 ## 💬 NumValidate Discussion:

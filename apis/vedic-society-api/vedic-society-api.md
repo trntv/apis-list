@@ -9,7 +9,7 @@ A description of all of the nouns in vedic literature, including the flora, faun
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Vedic Society API free?
+## 🆓 Is "Vedic Society API" free?
  Unknown/No 
 
 ## 💬 Vedic Society API Discussion:

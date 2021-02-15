@@ -9,7 +9,7 @@ Bing Maps platform provides multiple API options for your application. Explore B
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Bing Maps free?
+## 🆓 Is "Bing Maps" free?
  Unknown/No 
 
 ## 💬 Bing Maps Discussion:

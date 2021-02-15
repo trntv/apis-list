@@ -1,5 +1,5 @@
 # Adzuna
-Get the very latest ads and data with Adzuna&#x27;s API. Get job ads to display on your own website. Use Adzuna&#x27;s up-to-the-minute employment data to power your own website, reporting and data visualisations.
+Get the very latest ads and data with Adzuna's API. Get job ads to display on your own website. Use Adzuna's up-to-the-minute employment data to power your own website, reporting and data visualisations.
 
 ##  🔗 Links
 **Docs / Website**: https://developer.adzuna.com/overview
@@ -9,7 +9,7 @@ Get the very latest ads and data with Adzuna&#x27;s API. Get job ads to display 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Adzuna free?
+## 🆓 Is "Adzuna" free?
  Unknown/No 
 
 ## 💬 Adzuna Discussion:

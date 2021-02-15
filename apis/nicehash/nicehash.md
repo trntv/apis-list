@@ -9,7 +9,7 @@ Largest Crypto Mining Marketplace
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Nicehash free?
+## 🆓 Is "Nicehash" free?
  Unknown/No 
 
 ## 💬 Nicehash Discussion:

@@ -9,7 +9,7 @@ API for crypto currency exchange.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Nexchange free?
+## 🆓 Is "Nexchange" free?
  Unknown/No 
 
 ## 💬 Nexchange Discussion:

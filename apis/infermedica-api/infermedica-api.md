@@ -12,7 +12,7 @@ The most advanced Symptom Checker and Patient Triage API. Infermedica provides a
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Infermedica API free?
+## 🆓 Is "Infermedica API" free?
  Unknown/No 
 
 ## 💬 Infermedica API Discussion:

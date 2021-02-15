@@ -9,7 +9,7 @@ A real-time API for verifying an identity by name, address, date of birth, and s
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is BlockScore free?
+## 🆓 Is "BlockScore" free?
  Unknown/No 
 
 ## 💬 BlockScore Discussion:

@@ -1,5 +1,5 @@
 # Rovi
-Access to Metadata, search capabilities and recommendations. Digital First Digital First metadata drives interest to your short-form web content younger audiences are watching, and makes connections back to traditional shows &amp; movies, presenting a richer dis
+Access to Metadata, search capabilities and recommendations. Digital First Digital First metadata drives interest to your short-form web content younger audiences are watching, and makes connections back to traditional shows & movies, presenting a richer dis
 
 ##  🔗 Links
 **Docs / Website**: https://developers.rovicorp.com/
@@ -9,7 +9,7 @@ Access to Metadata, search capabilities and recommendations. Digital First Digit
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Rovi free?
+## 🆓 Is "Rovi" free?
  Unknown/No 
 
 ## 💬 Rovi Discussion:

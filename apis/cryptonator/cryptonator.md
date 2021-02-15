@@ -9,7 +9,7 @@ Prices are updated every 30 seconds, covering 300+ cryptocurrencies across 42 ex
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Cryptonator free?
+## 🆓 Is "Cryptonator" free?
  Unknown/No 
 
 ## 💬 Cryptonator Discussion:

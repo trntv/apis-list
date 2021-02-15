@@ -12,7 +12,7 @@ Contribute to lukePeavey/quotable development by creating an account on GitHub. 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Quotable Quotes free?
+## 🆓 Is "Quotable Quotes" free?
  Unknown/No 
 
 ## 💬 Quotable Quotes Discussion:

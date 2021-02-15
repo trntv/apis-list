@@ -9,7 +9,7 @@ Yahoo’s Flurry provides you with a number of APIs enabling you to export your 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Flurry free?
+## 🆓 Is "Flurry" free?
  Unknown/No 
 
 ## 💬 Flurry Discussion:

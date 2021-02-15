@@ -12,7 +12,7 @@ List of universities and their domain names
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Universities List free?
+## 🆓 Is "Universities List" free?
  Unknown/No 
 
 ## 💬 Universities List Discussion:

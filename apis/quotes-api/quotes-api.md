@@ -9,7 +9,7 @@ They Said So. Quotes API with lot of features
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Quotes Api free?
+## 🆓 Is "Quotes Api" free?
  Unknown/No 
 
 ## 💬 Quotes Api Discussion:

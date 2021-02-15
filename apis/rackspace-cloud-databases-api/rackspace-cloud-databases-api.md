@@ -9,7 +9,7 @@ Can be created, updated, and deleted using the OS::Trove::Instance resource. Clo
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Rackspace Cloud Databases API free?
+## 🆓 Is "Rackspace Cloud Databases API" free?
  Unknown/No 
 
 ## 💬 Rackspace Cloud Databases API Discussion:

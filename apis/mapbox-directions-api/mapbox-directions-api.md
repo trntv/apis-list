@@ -9,7 +9,7 @@ The Mapbox Directions API can calculate optimal driving, walking, and cycling ro
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Mapbox Directions API free?
+## 🆓 Is "Mapbox Directions API" free?
  Unknown/No 
 
 ## 💬 Mapbox Directions API Discussion:

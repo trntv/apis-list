@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/geoapi/logo_256x256.png" alt="GeoApi Logo"/>
 </p>
-Administrative Breakdown API - (Geo API) is one of the France&#x27;s public service APIs.
+Administrative Breakdown API - (Geo API) is one of the France's public service APIs.
 
 ##  🔗 Links
 **Docs / Website**: https://api.gouv.fr/api/geoapi.html
@@ -12,7 +12,7 @@ Administrative Breakdown API - (Geo API) is one of the France&#x27;s public serv
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is GeoApi free?
+## 🆓 Is "GeoApi" free?
  Unknown/No 
 
 ## 💬 GeoApi Discussion:

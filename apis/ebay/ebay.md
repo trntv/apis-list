@@ -1,5 +1,5 @@
 # eBay
-eBay&#x27;s APIs
+eBay's APIs
 
 ##  🔗 Links
 **Docs / Website**: https://go.developer.ebay.com/
@@ -9,7 +9,7 @@ eBay&#x27;s APIs
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is eBay free?
+## 🆓 Is "eBay" free?
  Unknown/No 
 
 ## 💬 eBay Discussion:

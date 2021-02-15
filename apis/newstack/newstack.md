@@ -12,7 +12,7 @@ Vendors offer a variety of methods and capabilities that allow devices to talk t
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is NewStack free?
+## 🆓 Is "NewStack" free?
  Unknown/No 
 
 ## 💬 NewStack Discussion:

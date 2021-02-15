@@ -12,7 +12,7 @@ Goal is for this API is to be your platform for developing apps around DC’s fr
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is District of Columbia Open Data free?
+## 🆓 Is "District of Columbia Open Data" free?
  Unknown/No 
 
 ## 💬 District of Columbia Open Data Discussion:

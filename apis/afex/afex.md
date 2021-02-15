@@ -12,7 +12,7 @@ Send payments to recipients all over the world 24/7 with secure and flexible onl
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Afex free?
+## 🆓 Is "Afex" free?
  Unknown/No 
 
 ## 💬 Afex Discussion:

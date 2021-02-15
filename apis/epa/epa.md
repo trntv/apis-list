@@ -9,7 +9,7 @@ United States Environmental Protection Agency API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is EPA free?
+## 🆓 Is "EPA" free?
  Yes! 
 
 ## 💬 EPA Discussion:

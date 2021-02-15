@@ -12,7 +12,7 @@ Check where a tv show or movie is available
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Utelly free?
+## 🆓 Is "Utelly" free?
  Unknown/No 
 
 ## 💬 Utelly Discussion:

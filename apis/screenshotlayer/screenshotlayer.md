@@ -12,7 +12,7 @@ Free for personal use. Free URL to Screenshot API - capture crisp and clean snap
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is ScreenShotLayer free?
+## 🆓 Is "ScreenShotLayer" free?
  Unknown/No 
 
 ## 💬 ScreenShotLayer Discussion:

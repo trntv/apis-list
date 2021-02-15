@@ -1,5 +1,5 @@
 # Yelp
-Yelp&#x27;s API exposes search to 3rd party developers. You can search location using longitude and latitude, neighborhood, address or city and filter listings by “where”, using a list of support categories
+Yelp's API exposes search to 3rd party developers. You can search location using longitude and latitude, neighborhood, address or city and filter listings by “where”, using a list of support categories
 
 ##  🔗 Links
 **Docs / Website**: https://www.yelp.com/developers/documentation/v3/
@@ -9,7 +9,7 @@ Yelp&#x27;s API exposes search to 3rd party developers. You can search location 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Yelp free?
+## 🆓 Is "Yelp" free?
  Unknown/No 
 
 ## 💬 Yelp Discussion:

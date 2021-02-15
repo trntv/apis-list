@@ -13,7 +13,7 @@ This simple RESTful interface is powerful, convenient, and great for writing mob
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Salesforce free?
+## 🆓 Is "Salesforce" free?
  Unknown/No 
 
 ## 💬 Salesforce Discussion:

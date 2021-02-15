@@ -12,7 +12,7 @@ The OpenAPI Specification: a broadly adopted industry standard for describing mo
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is OpenAPI free?
+## 🆓 Is "OpenAPI" free?
  Unknown/No 
 
 ## 💬 OpenAPI Discussion:

@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/clust/logo_256x256.png" alt="Clust Logo"/>
 </p>
-The best way to gather anyone’s documents, directly from your app &amp; without hassle. Offer the best online onboarding experience, document collection and approval workflows to your clients and partners (eSignature included)
+The best way to gather anyone’s documents, directly from your app & without hassle. Offer the best online onboarding experience, document collection and approval workflows to your clients and partners (eSignature included)
 
 ##  🔗 Links
 **Docs / Website**: https://clustdoc.com/developers
@@ -12,7 +12,7 @@ The best way to gather anyone’s documents, directly from your app &amp; withou
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Clust free?
+## 🆓 Is "Clust" free?
  Unknown/No 
 
 ## 💬 Clust Discussion:

@@ -9,7 +9,7 @@ gov • Terms of Service • Site Policies • D. Tap into a list of current job
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Search.Gov Jobs free?
+## 🆓 Is "Search.Gov Jobs" free?
  Unknown/No 
 
 ## 💬 Search.Gov Jobs Discussion:

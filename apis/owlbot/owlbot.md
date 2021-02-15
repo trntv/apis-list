@@ -12,7 +12,7 @@ OwlBot is an english dictionary API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is OwlBot free?
+## 🆓 Is "OwlBot" free?
  Unknown/No 
 
 ## 💬 OwlBot Discussion:

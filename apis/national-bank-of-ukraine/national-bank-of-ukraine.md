@@ -9,7 +9,7 @@ National Bank of Ukraine
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is National Bank of Ukraine free?
+## 🆓 Is "National Bank of Ukraine" free?
  Unknown/No 
 
 ## 💬 National Bank of Ukraine Discussion:

@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ynab/logo_256x256.png" alt="YNAB Logo"/>
 </p>
-YNAB API. YNAB is a budgeting app that helps you confidently spend your money, get out of debt, and take control of your financial freedom.
+You Need A Budget API. YNAB is a budgeting app that helps you confidently spend your money, get out of debt, and take control of your financial freedom.
 
 ##  🔗 Links
 **Docs / Website**: https://api.youneedabudget.com/
@@ -12,7 +12,7 @@ YNAB API. YNAB is a budgeting app that helps you confidently spend your money, g
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is YNAB free?
+## 🆓 Is "YNAB" free?
  Yes! 
 
 ## 💬 YNAB Discussion:

@@ -9,7 +9,7 @@ Regional Data new National Grid ESO forecasts the carbon intensity and generatio
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Carbon Intensity free?
+## 🆓 Is "Carbon Intensity" free?
  Unknown/No 
 
 ## 💬 Carbon Intensity Discussion:

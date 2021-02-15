@@ -12,7 +12,7 @@ Summarize articles, text, websites, essays and documents online for free with SM
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is SMMRY free?
+## 🆓 Is "SMMRY" free?
  Unknown/No 
 
 ## 💬 SMMRY Discussion:

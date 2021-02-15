@@ -12,7 +12,7 @@ The WOT reputation system computes website reputations using ratings received fr
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Web Of Trust (WOT) free?
+## 🆓 Is "Web Of Trust (WOT)" free?
  Unknown/No 
 
 ## 💬 Web Of Trust (WOT) Discussion:

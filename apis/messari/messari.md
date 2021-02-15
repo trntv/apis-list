@@ -12,7 +12,7 @@ Messari provides an institutional grade Bitcoin and blockchain data API, ranging
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Messari free?
+## 🆓 Is "Messari" free?
  Unknown/No 
 
 ## 💬 Messari Discussion:

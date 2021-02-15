@@ -9,7 +9,7 @@ AerisWeather provides a powerful weather API, mapping platform, and developer to
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is AerisWeather free?
+## 🆓 Is "AerisWeather" free?
  Unknown/No 
 
 ## 💬 AerisWeather Discussion:

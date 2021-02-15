@@ -9,7 +9,7 @@ Access to MapBox’s API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Mapbox free?
+## 🆓 Is "Mapbox" free?
  Unknown/No 
 
 ## 💬 Mapbox Discussion:

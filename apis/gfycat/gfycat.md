@@ -12,7 +12,7 @@ Gfycat’s API - collection of GIFs
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Gfycat free?
+## 🆓 Is "Gfycat" free?
  Unknown/No 
 
 ## 💬 Gfycat Discussion:

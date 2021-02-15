@@ -14,7 +14,7 @@ the Box Developer Console.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Box free?
+## 🆓 Is "Box" free?
  Unknown/No 
 
 ## 💬 Box Discussion:

@@ -9,7 +9,7 @@ Recipe Puppy API lets you search through recipe puppy database of over a million
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Recipe Puppy free?
+## 🆓 Is "Recipe Puppy" free?
  Unknown/No 
 
 ## 💬 Recipe Puppy Discussion:

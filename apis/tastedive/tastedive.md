@@ -12,7 +12,7 @@ The TasteDive API can be used to integrate recommendations in other products.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is TasteDive free?
+## 🆓 Is "TasteDive" free?
  Unknown/No 
 
 ## 💬 TasteDive Discussion:

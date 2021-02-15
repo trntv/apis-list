@@ -12,7 +12,7 @@ Text analysis APIs for topic extraction, sentiment analysis, automatic classific
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is MeaningCloud free?
+## 🆓 Is "MeaningCloud" free?
  Unknown/No 
 
 ## 💬 MeaningCloud Discussion:

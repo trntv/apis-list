@@ -9,7 +9,7 @@ The Goodreads API allows developers access to Goodreads data in order to help we
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is GoodReads free?
+## 🆓 Is "GoodReads" free?
  Unknown/No 
 
 ## 💬 GoodReads Discussion:

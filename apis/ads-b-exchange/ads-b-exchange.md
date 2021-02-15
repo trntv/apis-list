@@ -12,7 +12,7 @@ Access real-time and historical data of any and all airborne aircraft. Filtered 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is ADS-B Exchange free?
+## 🆓 Is "ADS-B Exchange" free?
  Unknown/No 
 
 ## 💬 ADS-B Exchange Discussion:

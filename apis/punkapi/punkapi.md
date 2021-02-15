@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/punkapi/logo_256x256.png" alt="PunkAPI Logo"/>
 </p>
-Brewdog&#x27;s DIY Dog as a searchable, filterable API. Brewdog&#x27;s DIY Dog as a searchable, filterable API
+Brewdog's DIY Dog as a searchable, filterable API. Brewdog's DIY Dog as a searchable, filterable API
 
 ##  🔗 Links
 **Docs / Website**: https://punkapi.com/
@@ -12,7 +12,7 @@ Brewdog&#x27;s DIY Dog as a searchable, filterable API. Brewdog&#x27;s DIY Dog a
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is PunkAPI free?
+## 🆓 Is "PunkAPI" free?
  Unknown/No 
 
 ## 💬 PunkAPI Discussion:

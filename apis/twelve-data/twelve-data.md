@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/twelve-data/logo_256x256.png" alt="Twelve Data Logo"/>
 </p>
-Stock market data (real-time &amp; historical). Explore real time stock market data, forex, and cryptocurrency exchanges, available in JSON &amp; CSV formats. Complete documentation of Twelve Data API
+Stock market data (real-time & historical). Explore real time stock market data, forex, and cryptocurrency exchanges, available in JSON & CSV formats. Complete documentation of Twelve Data API
 
 ##  🔗 Links
 **Docs / Website**: https://twelvedata.com/docs/
@@ -12,7 +12,7 @@ Stock market data (real-time &amp; historical). Explore real time stock market d
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Twelve Data free?
+## 🆓 Is "Twelve Data" free?
  Unknown/No 
 
 ## 💬 Twelve Data Discussion:

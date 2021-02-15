@@ -9,7 +9,7 @@ Power your music project by licensing access to the world’s most authoritative
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Musixmatch free?
+## 🆓 Is "Musixmatch" free?
  Unknown/No 
 
 ## 💬 Musixmatch Discussion:

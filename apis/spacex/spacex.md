@@ -12,7 +12,7 @@ Open Source REST API for rocket, core, capsule, pad, and launch data - r-spacex/
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is SpaceX free?
+## 🆓 Is "SpaceX" free?
  Unknown/No 
 
 ## 💬 SpaceX Discussion:

@@ -12,7 +12,7 @@ Access to Naver’s URL shortening API. 단축URL 웹 페이지의 링크 정보
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Naver URL Shortener free?
+## 🆓 Is "Naver URL Shortener" free?
  Unknown/No 
 
 ## 💬 Naver URL Shortener Discussion:

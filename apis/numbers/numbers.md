@@ -9,7 +9,7 @@ An API for interesting facts about numbers. An API for interesting facts about n
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Numbers free?
+## 🆓 Is "Numbers" free?
  Unknown/No 
 
 ## 💬 Numbers Discussion:

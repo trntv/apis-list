@@ -12,7 +12,7 @@ MetaCert reduces the risk of identity theft, data breaches, phishing, malware an
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Metacert free?
+## 🆓 Is "Metacert" free?
  Unknown/No 
 
 ## 💬 Metacert Discussion:

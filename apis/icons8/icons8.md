@@ -9,7 +9,7 @@ Icons8 offers simple reliable solutions to cope with all sorts of the challenges
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Icons8 free?
+## 🆓 Is "Icons8" free?
  Unknown/No 
 
 ## 💬 Icons8 Discussion:

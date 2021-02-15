@@ -9,7 +9,7 @@ The Iconfinder API is a HTTP JSON API and allows you to programatically access r
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Iconfinder free?
+## 🆓 Is "Iconfinder" free?
  Unknown/No 
 
 ## 💬 Iconfinder Discussion:

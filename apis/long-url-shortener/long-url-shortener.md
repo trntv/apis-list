@@ -9,7 +9,7 @@ Given a long URL, returns a short link
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Long Url Shortener free?
+## 🆓 Is "Long Url Shortener" free?
  Unknown/No 
 
 ## 💬 Long Url Shortener Discussion:

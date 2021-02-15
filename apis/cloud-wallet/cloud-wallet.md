@@ -1,5 +1,5 @@
 # Cloud Wallet
-Cloud Wallet enables closed-loop payments between IoT devices and facilitates IoT adoption worldwide. It allows developers to reduce cost &amp; time-to-market while building and scaling
+Cloud Wallet enables closed-loop payments between IoT devices and facilitates IoT adoption worldwide. It allows developers to reduce cost & time-to-market while building and scaling
 
 ##  🔗 Links
 **Docs / Website**: https://walletapi.cloud/index.html
@@ -9,7 +9,7 @@ Cloud Wallet enables closed-loop payments between IoT devices and facilitates Io
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Cloud Wallet free?
+## 🆓 Is "Cloud Wallet" free?
  Unknown/No 
 
 ## 💬 Cloud Wallet Discussion:

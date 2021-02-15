@@ -12,7 +12,7 @@ Integrates with 1000+ applications with no code. Send and Receive SMS to over 20
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Sakari free?
+## 🆓 Is "Sakari" free?
  Unknown/No 
 
 ## 💬 Sakari Discussion:

@@ -12,7 +12,7 @@ An API-first, open source software platform for the Internet of Things. - zettaj
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Zetta free?
+## 🆓 Is "Zetta" free?
  Unknown/No 
 
 ## 💬 Zetta Discussion:

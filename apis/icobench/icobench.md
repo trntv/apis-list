@@ -12,7 +12,7 @@ ICObench Data API allows you to get various information and data from the platfo
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is ICObench free?
+## 🆓 Is "ICObench" free?
  Unknown/No 
 
 ## 💬 ICObench Discussion:

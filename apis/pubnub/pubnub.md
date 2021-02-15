@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/pubnub/logo_256x256.png" alt="PubNub Logo"/>
 </p>
-&lt;div class&#x3D;&quot;homepage-wrap&quot;&gt;
+<div class="homepage-wrap">
 
 ##  🔗 Links
 **Docs / Website**: https://www.pubnub.com/docs
@@ -12,7 +12,7 @@
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is PubNub free?
+## 🆓 Is "PubNub" free?
  Unknown/No 
 
 ## 💬 PubNub Discussion:

@@ -12,7 +12,7 @@ Get realtime delivery and transparency to develop your iOS and Android apps. Pus
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Pusher Beams free?
+## 🆓 Is "Pusher Beams" free?
  Unknown/No 
 
 ## 💬 Pusher Beams Discussion:

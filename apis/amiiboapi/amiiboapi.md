@@ -12,7 +12,7 @@ The Amiibo RESTful API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is AmiiboAPI free?
+## 🆓 Is "AmiiboAPI" free?
  Unknown/No 
 
 ## 💬 AmiiboAPI Discussion:

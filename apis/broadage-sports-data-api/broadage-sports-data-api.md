@@ -1,6 +1,6 @@
 # Broadage Sports Data Api
 Create your unique project or enrich your content with Broadage Sports real-time data feeds, the flexible and cost effective data solution in the market for more than 10 years, reaching out to millions of users. Broadage Sports real time data, developers portal includes global API details, global API technical docs, global API sports list
-. Broadage Sports API&#x27;s
+. Broadage Sports API's
 Broadage Sports provides comprehensive sports data API solutions for your projects
 
 ##  🔗 Links
@@ -11,7 +11,7 @@ Broadage Sports provides comprehensive sports data API solutions for your projec
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Broadage Sports Data Api free?
+## 🆓 Is "Broadage Sports Data Api" free?
  Unknown/No 
 
 ## 💬 Broadage Sports Data Api Discussion:

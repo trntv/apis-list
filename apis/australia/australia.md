@@ -12,7 +12,7 @@ Central bank of Australia
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Australia free?
+## 🆓 Is "Australia" free?
  Unknown/No 
 
 ## 💬 Australia Discussion:

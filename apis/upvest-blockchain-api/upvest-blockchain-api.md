@@ -12,7 +12,7 @@ The Upvest Blockchain API is a multi-protocol blockchain API for building blockc
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Upvest Blockchain Api free?
+## 🆓 Is "Upvest Blockchain Api" free?
  Unknown/No 
 
 ## 💬 Upvest Blockchain Api Discussion:

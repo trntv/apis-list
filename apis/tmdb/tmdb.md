@@ -12,7 +12,7 @@ TMDb provides powerful searches as well as powerful movie discovery. The Movie D
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is TMDb free?
+## 🆓 Is "TMDb" free?
  Unknown/No 
 
 ## 💬 TMDb Discussion:

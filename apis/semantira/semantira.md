@@ -9,7 +9,7 @@ To get started check out Install the SDK. For detailed explana. In this document
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Semantira free?
+## 🆓 Is "Semantira" free?
  Unknown/No 
 
 ## 💬 Semantira Discussion:

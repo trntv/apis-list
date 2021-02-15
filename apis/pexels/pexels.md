@@ -9,7 +9,7 @@ Pexels provides high quality and completely free stock photos licensed under the
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Pexels free?
+## 🆓 Is "Pexels" free?
  Unknown/No 
 
 ## 💬 Pexels Discussion:

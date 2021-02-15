@@ -9,7 +9,7 @@ Get information about countries via a RESTful API.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is REST Countries free?
+## 🆓 Is "REST Countries" free?
  Unknown/No 
 
 ## 💬 REST Countries Discussion:

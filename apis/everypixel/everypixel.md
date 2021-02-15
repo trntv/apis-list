@@ -12,7 +12,7 @@ Automatic image keywording and categorization API. The Everypixel Image Recognit
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Everypixel free?
+## 🆓 Is "Everypixel" free?
  Unknown/No 
 
 ## 💬 Everypixel Discussion:

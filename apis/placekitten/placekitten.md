@@ -12,7 +12,7 @@ A quick and simple service for getting pictures of kittens for use as placeholde
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is PlaceKitten free?
+## 🆓 Is "PlaceKitten" free?
  Unknown/No 
 
 ## 💬 PlaceKitten Discussion:

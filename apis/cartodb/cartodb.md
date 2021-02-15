@@ -9,7 +9,7 @@ Allows you to generate maps based on data hosted in your CartoDB account.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is CartoDB free?
+## 🆓 Is "CartoDB" free?
  Unknown/No 
 
 ## 💬 CartoDB Discussion:

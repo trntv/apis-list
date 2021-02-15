@@ -1,5 +1,5 @@
 # Onfleet API
-Onfleet is the easiest way for businesses to manage and analyze their last-mile delivery operations. Dispatch tasks to drivers, monitor their location and status in real-time, and keep customers informed from door to door. Onfleet&#x27;s API provides programmatic access to our delightful delivery management and analytics solution
+Onfleet is the easiest way for businesses to manage and analyze their last-mile delivery operations. Dispatch tasks to drivers, monitor their location and status in real-time, and keep customers informed from door to door. Onfleet's API provides programmatic access to our delightful delivery management and analytics solution
 
 ##  🔗 Links
 **Docs / Website**: https://docs.onfleet.com/
@@ -9,7 +9,7 @@ Onfleet is the easiest way for businesses to manage and analyze their last-mile 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Onfleet API free?
+## 🆓 Is "Onfleet API" free?
  Unknown/No 
 
 ## 💬 Onfleet API Discussion:

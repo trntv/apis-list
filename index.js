@@ -22,6 +22,10 @@ program
     });
 
 program
+    .command('check-orphans [source]')
+    .action((source) => require('./tools/check-orphans')(source || defaultSource));
+
+program
     .command('lib [source]')
     .action(async source => await require('./tools/lib')(source || defaultSource));
 

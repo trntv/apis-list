@@ -2,7 +2,7 @@
 Open RESTful bank API that lets you work with bank cards, accounts, payments, transactions, attachments, and more! 
 200 endpoints to ensure our API is flexible enough to fit any project! 
 bunq is an anti-bank that is licenced to work in Europe. ApplePay integrated. 
-Let&#x27;s cooperate!
+Let's cooperate!
 
 ##  🔗 Links
 **Docs / Website**: https://doc.bunq.com/
@@ -12,7 +12,7 @@ Let&#x27;s cooperate!
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Bunq Api free?
+## 🆓 Is "Bunq Api" free?
  Unknown/No 
 
 ## 💬 Bunq Api Discussion:

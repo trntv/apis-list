@@ -12,7 +12,7 @@ The API tracks rates published daily by the European Central Bank. JSON API for 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Fixer.io free?
+## 🆓 Is "Fixer.io" free?
  Unknown/No 
 
 ## 💬 Fixer.io Discussion:

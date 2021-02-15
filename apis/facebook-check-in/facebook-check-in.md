@@ -9,7 +9,7 @@ A check-in made to a location-based Page
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Facebook Check-In free?
+## 🆓 Is "Facebook Check-In" free?
  Unknown/No 
 
 ## 💬 Facebook Check-In Discussion:

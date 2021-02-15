@@ -9,7 +9,7 @@ Free IP Geolocation API and Accurate IP Database provides country, city, zip cod
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Ip Geolocation Api free?
+## 🆓 Is "Ip Geolocation Api" free?
  Unknown/No 
 
 ## 💬 Ip Geolocation Api Discussion:

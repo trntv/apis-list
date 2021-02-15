@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/dogs/logo_256x256.png" alt="Dogs Logo"/>
 </p>
-Over 20,000 images of dogs programmaticaly accessible by over 120 breeds. Image supplied by the Stanford Dogs Dataset. Dog CEO&#x27;s Dog API. Dog CEO&#x27;s Dog API
+Over 20,000 images of dogs programmaticaly accessible by over 120 breeds. Image supplied by the Stanford Dogs Dataset. Dog CEO's Dog API. Dog CEO's Dog API
 
 ##  🔗 Links
 **Docs / Website**: https://dog.ceo/dog-api/
@@ -12,7 +12,7 @@ Over 20,000 images of dogs programmaticaly accessible by over 120 breeds. Image 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Dogs free?
+## 🆓 Is "Dogs" free?
  Unknown/No 
 
 ## 💬 Dogs Discussion:

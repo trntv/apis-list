@@ -1,5 +1,5 @@
 # TextRazor
-TextRazor is the world&#x27;s fastest and most accurate Natural Language Processing API. Helps you extract and understand the Who, What, Why, and How from your research with unprecedented accuracy and speed.
+TextRazor is the world's fastest and most accurate Natural Language Processing API. Helps you extract and understand the Who, What, Why, and How from your research with unprecedented accuracy and speed.
 
 ##  🔗 Links
 **Docs / Website**: https://www.textrazor.com/documentation
@@ -9,7 +9,7 @@ TextRazor is the world&#x27;s fastest and most accurate Natural Language Process
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is TextRazor free?
+## 🆓 Is "TextRazor" free?
  Unknown/No 
 
 ## 💬 TextRazor Discussion:

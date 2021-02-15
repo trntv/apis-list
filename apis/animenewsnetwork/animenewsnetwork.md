@@ -9,7 +9,7 @@ ANN provides a direct feed to the Encyclopedia data in XML format
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is AnimeNewsNetwork free?
+## 🆓 Is "AnimeNewsNetwork" free?
  Unknown/No 
 
 ## 💬 AnimeNewsNetwork Discussion:

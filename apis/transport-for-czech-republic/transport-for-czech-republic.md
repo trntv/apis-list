@@ -12,7 +12,7 @@ CHAPS spol. s r. o. je společnost zabývající se vývojem IT aplikací a syst
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Transportation in Czech Republic free?
+## 🆓 Is "Transportation in Czech Republic" free?
  Yes! 
 
 ## 💬 Transportation in Czech Republic Discussion:

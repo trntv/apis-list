@@ -1,5 +1,5 @@
 # Eventful API
-Eventful is a leading digital media company connecting consumers with entertainment, movies and local events. Concert &amp; Event API Eventful is the world&#x27;s largest collection of events, taking place in local markets throughout the world, from concerts and sports to singles events and political rallies. Event. Is a Paid Usage model and requires a licensing agreement directly with Eventful
+Eventful is a leading digital media company connecting consumers with entertainment, movies and local events. Concert & Event API Eventful is the world's largest collection of events, taking place in local markets throughout the world, from concerts and sports to singles events and political rallies. Event. Is a Paid Usage model and requires a licensing agreement directly with Eventful
 
 ##  🔗 Links
 **Docs / Website**: http://api.eventful.com/
@@ -9,7 +9,7 @@ Eventful is a leading digital media company connecting consumers with entertainm
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Eventful API free?
+## 🆓 Is "Eventful API" free?
  Unknown/No 
 
 ## 💬 Eventful API Discussion:

@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/deezer/logo_256x256.png" alt="Deezer Logo"/>
 </p>
-Deezer API provides a nice set of services to build up web applications allowing the discovery of Deezer&#x27;s music catalogue. You have to login to accept the terms and conditions of the simple API. Login Back to top Follow @deezer Terms of use Contact &amp; Support
+Deezer API provides a nice set of services to build up web applications allowing the discovery of Deezer's music catalogue. You have to login to accept the terms and conditions of the simple API. Login Back to top Follow @deezer Terms of use Contact & Support
 
 ##  🔗 Links
 **Docs / Website**: http://developers.deezer.com/api
@@ -12,7 +12,7 @@ Deezer API provides a nice set of services to build up web applications allowing
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Deezer free?
+## 🆓 Is "Deezer" free?
  Unknown/No 
 
 ## 💬 Deezer Discussion:

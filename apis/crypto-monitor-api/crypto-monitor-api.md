@@ -9,7 +9,7 @@ The Crypto monitor API provides bots that show savings in cryptocurrencies. Bad 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Crypto Monitor Api free?
+## 🆓 Is "Crypto Monitor Api" free?
  Unknown/No 
 
 ## 💬 Crypto Monitor Api Discussion:

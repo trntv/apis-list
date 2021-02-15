@@ -12,7 +12,7 @@ Open API for the maker community. WIP is a community of makers who help each oth
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Wip free?
+## 🆓 Is "Wip" free?
  Unknown/No 
 
 ## 💬 Wip Discussion:

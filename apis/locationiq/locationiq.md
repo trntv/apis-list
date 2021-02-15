@@ -12,7 +12,7 @@ Generous free tier, offering Enterprise-grade APIs for everyone!. Affordable Geo
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is LocationIQ free?
+## 🆓 Is "LocationIQ" free?
  Unknown/No 
 
 ## 💬 LocationIQ Discussion:

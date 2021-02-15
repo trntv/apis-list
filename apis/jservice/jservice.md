@@ -9,7 +9,7 @@ Trivia Questions. Get answers (and the correct questions) from 20+ years of Jeop
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Jservice free?
+## 🆓 Is "Jservice" free?
  Unknown/No 
 
 ## 💬 Jservice Discussion:

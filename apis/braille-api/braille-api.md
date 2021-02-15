@@ -12,7 +12,7 @@ It is traditionally written with embossed paper. Braille-users can read computer
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Braille Api free?
+## 🆓 Is "Braille Api" free?
  Unknown/No 
 
 ## 💬 Braille Api Discussion:

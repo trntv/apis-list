@@ -12,7 +12,7 @@ Allows anyone to create maps and markers for anything. Initially used to report 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Cartes.io free?
+## 🆓 Is "Cartes.io" free?
  Unknown/No 
 
 ## 💬 Cartes.io Discussion:

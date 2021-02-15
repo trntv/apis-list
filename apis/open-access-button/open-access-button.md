@@ -9,7 +9,7 @@ Free, legal research articles delivered instantly or automatically requested fro
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Open Access Button free?
+## 🆓 Is "Open Access Button" free?
  Yes! 
 
 ## 💬 Open Access Button Discussion:

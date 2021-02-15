@@ -9,7 +9,7 @@ Czech Holidays API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Czech Namedays Calendar free?
+## 🆓 Is "Czech Namedays Calendar" free?
  Unknown/No 
 
 ## 💬 Czech Namedays Calendar Discussion:

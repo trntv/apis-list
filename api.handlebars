@@ -4,7 +4,7 @@
     <img width="256" src="{{ api.logo }}" alt="{{ api.name }} Logo"/>
 </p>
 {{/if}}
-{{ api.description}}
+{{{ api.description }}}
 
 ##  🔗 Links
 {{#each api.links}}
@@ -18,7 +18,7 @@ No links added. [Add link ➕]({{ editorLink }})
 **URI**: {{# if  api.specification.url }}{{ api.specification.url }}{{ else }}N/A - [Add ➕]({{ editorLink }}){{/if}}  
 **Version**: {{# if  api.specification.version }}{{ api.specification.version }}{{ else }}N/A - [Add ➕]({{ editorLink }}){{/if}}
 
-## 🆓 Is {{ api.name }} free?
+## 🆓 Is "{{{ api.name }}}" free?
 {{# if api.is_free }} Yes! {{ else }} Unknown/No {{/if}}
 
 ## 💬 {{ api.name }} Discussion:

@@ -9,7 +9,7 @@ Web Service The AcoustID web service currently supports only two operations, sea
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Acoustid free?
+## 🆓 Is "Acoustid" free?
  Unknown/No 
 
 ## 💬 Acoustid Discussion:

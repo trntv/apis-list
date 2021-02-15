@@ -12,7 +12,7 @@ Documentation and Samples for the Official HN API. Contribute to HackerNews/API 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Hacker News free?
+## 🆓 Is "Hacker News" free?
  Unknown/No 
 
 ## 💬 Hacker News Discussion:

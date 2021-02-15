@@ -1,5 +1,5 @@
 # Bing Search API
-Add intelligent search to your app, combing hundreds of billions of webpages, images, videos, and news to provide relevant results with no ad requirements. The results can be automatically customized to your users&#x27; locations or markets, increasing relevancy by staying local. 415 Unsupported Media Type nginx
+Add intelligent search to your app, combing hundreds of billions of webpages, images, videos, and news to provide relevant results with no ad requirements. The results can be automatically customized to your users' locations or markets, increasing relevancy by staying local. 415 Unsupported Media Type nginx
 
 ##  🔗 Links
 **Docs / Website**: http://datamarket.azure.com/dataset/bing/search
@@ -9,7 +9,7 @@ Add intelligent search to your app, combing hundreds of billions of webpages, im
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Bing Search API free?
+## 🆓 Is "Bing Search API" free?
  Unknown/No 
 
 ## 💬 Bing Search API Discussion:

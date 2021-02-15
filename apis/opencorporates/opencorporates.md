@@ -1,5 +1,5 @@
 # OpenCorporates
-World&#x27;s largest open database of companies
+World's largest open database of companies
 
 ##  🔗 Links
 **Docs / Website**: http://api.opencorporates.com/documentation/API-Reference
@@ -9,7 +9,7 @@ World&#x27;s largest open database of companies
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is OpenCorporates free?
+## 🆓 Is "OpenCorporates" free?
  Unknown/No 
 
 ## 💬 OpenCorporates Discussion:

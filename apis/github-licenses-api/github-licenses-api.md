@@ -1,5 +1,5 @@
 # GitHub Licenses API
-The Licenses API returns metadata about popular open source licenses and information about a particular project&#x27;s license file.
+The Licenses API returns metadata about popular open source licenses and information about a particular project's license file.
 
 ##  🔗 Links
 **Docs / Website**: https://developer.github.com/v3/licenses/
@@ -9,7 +9,7 @@ The Licenses API returns metadata about popular open source licenses and informa
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is GitHub Licenses API free?
+## 🆓 Is "GitHub Licenses API" free?
  Unknown/No 
 
 ## 💬 GitHub Licenses API Discussion:

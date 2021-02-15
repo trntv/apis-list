@@ -12,7 +12,7 @@ Say hello to your website visitors in their native language
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is HelloSalut free?
+## 🆓 Is "HelloSalut" free?
  Unknown/No 
 
 ## 💬 HelloSalut Discussion:

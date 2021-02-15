@@ -12,7 +12,7 @@ SparkPost is a cloud based email delivery service that sends 25% of the worlds l
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is SparkPost free?
+## 🆓 Is "SparkPost" free?
  Unknown/No 
 
 ## 💬 SparkPost Discussion:

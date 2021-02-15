@@ -9,7 +9,7 @@ Innovative License Management Solution
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is API Test Center free?
+## 🆓 Is "API Test Center" free?
  Unknown/No 
 
 ## 💬 API Test Center Discussion:

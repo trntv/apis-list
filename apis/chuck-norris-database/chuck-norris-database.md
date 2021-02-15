@@ -9,7 +9,7 @@ API for online Chuck Norris jokes database
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Chuck Norris Database free?
+## 🆓 Is "Chuck Norris Database" free?
  Unknown/No 
 
 ## 💬 Chuck Norris Database Discussion:

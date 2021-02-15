@@ -1,5 +1,5 @@
 # Elasticpath
-Provides the full commerce solution to bring your unique, revenue-driving experiences to life, fast. It&#x27;s called Composable Commerce-as-a-Service
+Provides the full commerce solution to bring your unique, revenue-driving experiences to life, fast. It's called Composable Commerce-as-a-Service
 
 ##  🔗 Links
 **Docs / Website**: https://developers.elasticpath.com/
@@ -9,7 +9,7 @@ Provides the full commerce solution to bring your unique, revenue-driving experi
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Elasticpath free?
+## 🆓 Is "Elasticpath" free?
  Unknown/No 
 
 ## 💬 Elasticpath Discussion:

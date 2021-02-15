@@ -9,7 +9,7 @@ CitySDK is a “service development kit” for cities and developers that aims a
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is CitySDK free?
+## 🆓 Is "CitySDK" free?
  Unknown/No 
 
 ## 💬 CitySDK Discussion:

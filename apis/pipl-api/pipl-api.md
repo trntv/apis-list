@@ -1,5 +1,5 @@
 # PIPL API
-Free and public API that generates random and fake people&#x27;s data in JSON.
+Free and public API that generates random and fake people's data in JSON.
 
 ##  🔗 Links
 **Docs / Website**: https://pipl.ir
@@ -9,7 +9,7 @@ Free and public API that generates random and fake people&#x27;s data in JSON.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is PIPL API free?
+## 🆓 Is "PIPL API" free?
  Yes! 
 
 ## 💬 PIPL API Discussion:

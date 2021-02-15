@@ -12,7 +12,7 @@ Mercury Web Parser turns web articles into structured content reliably and easil
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Mercury free?
+## 🆓 Is "Mercury" free?
  Unknown/No 
 
 ## 💬 Mercury Discussion:

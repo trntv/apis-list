@@ -12,7 +12,7 @@ MATLAB is a high-level language and interactive environment for numerical comput
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Matlab free?
+## 🆓 Is "Matlab" free?
  Unknown/No 
 
 ## 💬 Matlab Discussion:

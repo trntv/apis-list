@@ -12,7 +12,7 @@ Centralized package to get data from qq, xiami, netease music - LIU9293/musicAPI
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is musicApi free?
+## 🆓 Is "musicApi" free?
  Unknown/No 
 
 ## 💬 musicApi Discussion:

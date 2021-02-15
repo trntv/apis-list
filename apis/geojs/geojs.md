@@ -12,7 +12,7 @@ REST/JSON/JSONP GeoIP API. REST/JSON/JSONP GeoIP API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is GeoJS free?
+## 🆓 Is "GeoJS" free?
  Unknown/No 
 
 ## 💬 GeoJS Discussion:

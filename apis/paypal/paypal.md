@@ -9,7 +9,7 @@ Enables your customers to sign in to your web site quickly and securely using th
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is PayPal free?
+## 🆓 Is "PayPal" free?
  Unknown/No 
 
 ## 💬 PayPal Discussion:

@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/musicbrainz/logo_256x256.png" alt="MusicBrainz Logo"/>
 </p>
-The API discussed here is an interface to the MusicBrainz Database. It is aimed at developers of media players, CD rippers, taggers, and other applications requiring music metadata. The API&#x27;s archi
+The API discussed here is an interface to the MusicBrainz Database. It is aimed at developers of media players, CD rippers, taggers, and other applications requiring music metadata. The API's archi
 
 ##  🔗 Links
 **Docs / Website**: https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2
@@ -12,7 +12,7 @@ The API discussed here is an interface to the MusicBrainz Database. It is aimed 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is MusicBrainz free?
+## 🆓 Is "MusicBrainz" free?
  Unknown/No 
 
 ## 💬 MusicBrainz Discussion:

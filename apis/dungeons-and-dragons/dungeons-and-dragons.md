@@ -1,5 +1,5 @@
 # Dungeons and Dragons
-D&amp;D 5th Edition SRD API. D&amp;D 5th Edition SRD API
+D&D 5th Edition SRD API. D&D 5th Edition SRD API
 
 ##  🔗 Links
 **Docs / Website**: http://www.dnd5eapi.co/
@@ -9,7 +9,7 @@ D&amp;D 5th Edition SRD API. D&amp;D 5th Edition SRD API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Dungeons and Dragons free?
+## 🆓 Is "Dungeons and Dragons" free?
  Unknown/No 
 
 ## 💬 Dungeons and Dragons Discussion:

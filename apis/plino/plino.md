@@ -9,7 +9,7 @@ Plino - A responsive spam filtering system
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Plino free?
+## 🆓 Is "Plino" free?
  Unknown/No 
 
 ## 💬 Plino Discussion:

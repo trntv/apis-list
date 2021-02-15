@@ -1,5 +1,5 @@
 # Minor Planet Center
-Minor Planet Center API Overview Asterank offers a database API for the Minor Planet Center&#x27;s MPCORB. DAT data files. This API is a simple way to quickly apply constraints to a set of over 600,000 a
+Minor Planet Center API Overview Asterank offers a database API for the Minor Planet Center's MPCORB. DAT data files. This API is a simple way to quickly apply constraints to a set of over 600,000 a
 
 ##  🔗 Links
 **Docs / Website**: http://www.asterank.com/mpc
@@ -9,7 +9,7 @@ Minor Planet Center API Overview Asterank offers a database API for the Minor Pl
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Minor Planet Center free?
+## 🆓 Is "Minor Planet Center" free?
  Unknown/No 
 
 ## 💬 Minor Planet Center Discussion:

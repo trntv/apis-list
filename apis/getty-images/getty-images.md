@@ -9,7 +9,7 @@ Page moved here. Page moved here
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Getty Images free?
+## 🆓 Is "Getty Images" free?
  Unknown/No 
 
 ## 💬 Getty Images Discussion:

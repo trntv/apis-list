@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/open-government-taiwan/logo_256x256.png" alt="Open Government, Taiwan Logo"/>
 </p>
-Taiwan&#x27;s open data and public service APIs
+Taiwan's open data and public service APIs
 
 ##  🔗 Links
 **Docs / Website**: https://data.gov.tw/
@@ -12,7 +12,7 @@ Taiwan&#x27;s open data and public service APIs
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Open Government, Taiwan free?
+## 🆓 Is "Open Government, Taiwan" free?
  Unknown/No 
 
 ## 💬 Open Government, Taiwan Discussion:

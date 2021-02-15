@@ -28048,7 +28048,7 @@
   slug: ynab
   categories:
     - Finance & Economics
-  description: YNAB API. YNAB is a budgeting app that helps you confidently spend
+  description: You Need A Budget API. YNAB is a budgeting app that helps you confidently spend
     your money, get out of debt, and take control of your financial freedom.
   is_free: true
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/ynab/logo_256x256.png

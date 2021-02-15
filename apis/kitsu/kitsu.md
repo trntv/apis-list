@@ -1,5 +1,5 @@
 # Kitsu
-Kitsu is a modern anime discovery platform that helps you track the anime you&#x27;re watching, discover new anime and socialize with other fans.
+Kitsu is a modern anime discovery platform that helps you track the anime you're watching, discover new anime and socialize with other fans.
 
 ##  🔗 Links
 **Docs / Website**: https://kitsu.docs.apiary.io/
@@ -9,7 +9,7 @@ Kitsu is a modern anime discovery platform that helps you track the anime you&#x
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Kitsu free?
+## 🆓 Is "Kitsu" free?
  Unknown/No 
 
 ## 💬 Kitsu Discussion:

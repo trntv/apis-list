@@ -9,7 +9,7 @@ LCBO API is open source now, find it on GitHub: heycarsten/lcbo-api
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is LCBO free?
+## 🆓 Is "LCBO" free?
  Yes! 
 
 ## 💬 LCBO Discussion:

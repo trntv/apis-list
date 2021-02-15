@@ -12,7 +12,7 @@ Database contains a mixture of barcode types from the standard UPC numbering sys
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is UPC database free?
+## 🆓 Is "UPC database" free?
  Unknown/No 
 
 ## 💬 UPC database Discussion:

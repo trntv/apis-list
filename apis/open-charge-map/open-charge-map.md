@@ -12,7 +12,7 @@ Open Charge Map is a non-commercial, non-profit, electric vehicle data service h
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Open Charge Map free?
+## 🆓 Is "Open Charge Map" free?
  Unknown/No 
 
 ## 💬 Open Charge Map Discussion:

@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/coinlib/logo_256x256.png" alt="Coinlib Logo"/>
 </p>
-Coinlib - Crypto Prices, Charts, Lists &amp; Crypto Market News
+Coinlib - Crypto Prices, Charts, Lists & Crypto Market News
 
 ##  🔗 Links
 **Docs / Website**: https://coinlib.io/apidocs
@@ -12,7 +12,7 @@ Coinlib - Crypto Prices, Charts, Lists &amp; Crypto Market News
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Coinlib free?
+## 🆓 Is "Coinlib" free?
  Unknown/No 
 
 ## 💬 Coinlib Discussion:

@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/marvel/logo_256x256.png" alt="Marvel Logo"/>
 </p>
-The Marvel developer portal gives Marvel fans, partners and other technologists access to an array of powerful APIs, documentation, and other tools to interact with Marvel&amp;#039;s systems. Access over 70 years of comic data with Marvel&#x27;s official developer API
+The Marvel developer portal gives Marvel fans, partners and other technologists access to an array of powerful APIs, documentation, and other tools to interact with Marvel&#039;s systems. Access over 70 years of comic data with Marvel's official developer API
 
 ##  🔗 Links
 **Docs / Website**: https://developer.marvel.com/
@@ -12,7 +12,7 @@ The Marvel developer portal gives Marvel fans, partners and other technologists 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Marvel free?
+## 🆓 Is "Marvel" free?
  Unknown/No 
 
 ## 💬 Marvel Discussion:

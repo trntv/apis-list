@@ -12,7 +12,7 @@ Build a clearer picture of your customers in minutes with our data-focused APIs.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Full Contact free?
+## 🆓 Is "Full Contact" free?
  Unknown/No 
 
 ## 💬 Full Contact Discussion:

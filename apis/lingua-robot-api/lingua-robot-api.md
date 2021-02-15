@@ -12,7 +12,7 @@ English dictionary API providing an access to the data of over 800 000 English l
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Lingua Robot API free?
+## 🆓 Is "Lingua Robot API" free?
  Unknown/No 
 
 ## 💬 Lingua Robot API Discussion:

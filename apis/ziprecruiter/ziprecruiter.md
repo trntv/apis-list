@@ -12,7 +12,7 @@ Jobs API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is ZipRecruiter free?
+## 🆓 Is "ZipRecruiter" free?
  Unknown/No 
 
 ## 💬 ZipRecruiter Discussion:

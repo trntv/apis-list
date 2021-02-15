@@ -9,7 +9,7 @@ ClickMeter API RESTful services. ClickMeter API RESTful services. Interact progr
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is ClickMeter free?
+## 🆓 Is "ClickMeter" free?
  Unknown/No 
 
 ## 💬 ClickMeter Discussion:

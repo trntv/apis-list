@@ -12,7 +12,7 @@ Join the 200,000 developers using Yahoo tools to build their app businesses. Loc
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Yahoo Local Search API free?
+## 🆓 Is "Yahoo Local Search API" free?
  Unknown/No 
 
 ## 💬 Yahoo Local Search API Discussion:

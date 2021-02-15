@@ -12,7 +12,7 @@ Google Analytics provides APIs to collect, configure, and report on user-interac
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Google Analytics free?
+## 🆓 Is "Google Analytics" free?
  Unknown/No 
 
 ## 💬 Google Analytics Discussion:

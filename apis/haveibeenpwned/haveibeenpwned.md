@@ -12,7 +12,7 @@ Have I Been Pwned allows you to search across multiple data breaches to see if y
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is HaveIBeenPwned free?
+## 🆓 Is "HaveIBeenPwned" free?
  Unknown/No 
 
 ## 💬 HaveIBeenPwned Discussion:

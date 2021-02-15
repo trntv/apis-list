@@ -9,7 +9,7 @@ It is intended mainly for programmers, both those working on Subversion itself, 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is SVN free?
+## 🆓 Is "SVN" free?
  Unknown/No 
 
 ## 💬 SVN Discussion:

@@ -12,7 +12,7 @@ de/api/v2/ Authentication Public endpoints, such as the list of exercises or the
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Wger free?
+## 🆓 Is "Wger" free?
  Unknown/No 
 
 ## 💬 Wger Discussion:

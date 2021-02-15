@@ -12,7 +12,7 @@ API for community-driven, object-oriented taco recipe repo - https://github.com/
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is TacoFancy API free?
+## 🆓 Is "TacoFancy API" free?
  Yes! 
 
 ## 💬 TacoFancy API Discussion:

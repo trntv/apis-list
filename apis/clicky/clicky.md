@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/clicky/logo_256x256.png" alt="Clicky Logo"/>
 </p>
-Clicky Web Analytics is simply the best way to monitor, analyze, and react to your blog or web site&#x27;s traffic in real time. Allows you to extract your web site&#x27;s traffic data into several formats, making it easy to integrate, analyze, or store your data within your own application
+Clicky Web Analytics is simply the best way to monitor, analyze, and react to your blog or web site's traffic in real time. Allows you to extract your web site's traffic data into several formats, making it easy to integrate, analyze, or store your data within your own application
 
 ##  🔗 Links
 **Docs / Website**: https://clicky.com/help/api
@@ -12,7 +12,7 @@ Clicky Web Analytics is simply the best way to monitor, analyze, and react to yo
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Clicky free?
+## 🆓 Is "Clicky" free?
  Unknown/No 
 
 ## 💬 Clicky Discussion:

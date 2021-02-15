@@ -9,7 +9,7 @@ University of Oslo
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is University of Oslo free?
+## 🆓 Is "University of Oslo" free?
  Unknown/No 
 
 ## 💬 University of Oslo Discussion:

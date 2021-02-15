@@ -12,7 +12,7 @@ The goal of Open Brewery DB is to maintain an open-source, community-driven data
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Open Brewery DB free?
+## 🆓 Is "Open Brewery DB" free?
  Yes! 
 
 ## 💬 Open Brewery DB Discussion:

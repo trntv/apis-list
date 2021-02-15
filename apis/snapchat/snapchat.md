@@ -12,7 +12,7 @@ Snapchat’s private API. Contribute to mgp25/SC-API development by creating an 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Snapchat free?
+## 🆓 Is "Snapchat" free?
  Unknown/No 
 
 ## 💬 Snapchat Discussion:

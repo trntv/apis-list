@@ -12,7 +12,7 @@ Easily look up, verify and append ZIP Code data using the US ZIP Code API from S
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is US ZipCode free?
+## 🆓 Is "US ZipCode" free?
  Unknown/No 
 
 ## 💬 US ZipCode Discussion:

@@ -9,7 +9,7 @@ ALL CAPS AS A SERVICE
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is SHOUTCLOUD free?
+## 🆓 Is "SHOUTCLOUD" free?
  Unknown/No 
 
 ## 💬 SHOUTCLOUD Discussion:

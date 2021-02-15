@@ -10,7 +10,7 @@ List all the addresses in the country and make them usable by everyone.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is adresse.data.gouv.fr free?
+## 🆓 Is "adresse.data.gouv.fr" free?
  Unknown/No 
 
 ## 💬 adresse.data.gouv.fr Discussion:

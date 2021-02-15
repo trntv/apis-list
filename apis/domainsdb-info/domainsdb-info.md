@@ -9,7 +9,7 @@ Registered domain names search checks the lists of registered domains for names 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Domainsdb.info free?
+## 🆓 Is "Domainsdb.info" free?
  Unknown/No 
 
 ## 💬 Domainsdb.info Discussion:

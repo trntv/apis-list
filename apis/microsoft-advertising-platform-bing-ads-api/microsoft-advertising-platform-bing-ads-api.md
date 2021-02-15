@@ -12,7 +12,7 @@ Official developer documentation for Microsoft Advertising. Provides programmati
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Microsoft Advertising Platform - Bing Ads API free?
+## 🆓 Is "Microsoft Advertising Platform - Bing Ads API" free?
  Unknown/No 
 
 ## 💬 Microsoft Advertising Platform - Bing Ads API Discussion:

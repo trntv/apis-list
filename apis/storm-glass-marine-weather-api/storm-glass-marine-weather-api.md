@@ -9,7 +9,7 @@ Read More. Global marine weather data from multiple sources in one single API!
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Storm Glass Marine Weather API free?
+## 🆓 Is "Storm Glass Marine Weather API" free?
  Unknown/No 
 
 ## 💬 Storm Glass Marine Weather API Discussion:

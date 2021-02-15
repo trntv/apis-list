@@ -12,7 +12,7 @@ USAJOBS API. USAJOBS is a United States Office of Personnel Management website
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is USAJOBS free?
+## 🆓 Is "USAJOBS" free?
  Unknown/No 
 
 ## 💬 USAJOBS Discussion:

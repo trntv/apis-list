@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/zoho-reports-api/logo_256x256.png" alt="Zoho Reports API Logo"/>
 </p>
-Zoho Analytics API Zoho Analytics API offers wide range of functions to help developers build &amp; manage powerful reporting and analytical capabilities for their business application needs
+Zoho Analytics API Zoho Analytics API offers wide range of functions to help developers build & manage powerful reporting and analytical capabilities for their business application needs
 
 ##  🔗 Links
 **Docs / Website**: https://zohoreportsapi.wiki.zoho.com/
@@ -12,7 +12,7 @@ Zoho Analytics API Zoho Analytics API offers wide range of functions to help dev
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Zoho Reports API free?
+## 🆓 Is "Zoho Reports API" free?
  Unknown/No 
 
 ## 💬 Zoho Reports API Discussion:

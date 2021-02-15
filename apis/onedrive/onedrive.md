@@ -1,5 +1,5 @@
 # OneDrive
-File storage &amp; sharing
+File storage & sharing
 
 ##  🔗 Links
 **Docs / Website**: https://dev.onedrive.com/
@@ -9,7 +9,7 @@ File storage &amp; sharing
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is OneDrive free?
+## 🆓 Is "OneDrive" free?
  Unknown/No 
 
 ## 💬 OneDrive Discussion:

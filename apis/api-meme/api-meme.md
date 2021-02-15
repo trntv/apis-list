@@ -9,7 +9,7 @@ Generate memes with a simple link!. Meme Top Text Bottom Text Link To access the
 **URI**: https://tl-api.azurewebsites.net/swagger/default/swagger.json  
 **Version**: https://tl-api.azurewebsites.net/swagger/default/swagger.json
 
-## 🆓 Is Api Meme free?
+## 🆓 Is "Api Meme" free?
  Unknown/No 
 
 ## 💬 Api Meme Discussion:

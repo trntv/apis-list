@@ -12,7 +12,7 @@ Explore now. Connect with your friends — and other fascinating people. Get in-
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Twitter API free?
+## 🆓 Is "Twitter API" free?
  Unknown/No 
 
 ## 💬 Twitter API Discussion:

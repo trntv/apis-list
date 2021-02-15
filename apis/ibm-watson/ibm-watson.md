@@ -13,7 +13,7 @@ A really simple api that lets you convert text to speech. It’s 100% free for u
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is IBM Watson free?
+## 🆓 Is "IBM Watson" free?
  Unknown/No 
 
 ## 💬 IBM Watson Discussion:

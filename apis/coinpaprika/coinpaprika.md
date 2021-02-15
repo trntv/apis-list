@@ -9,7 +9,7 @@ Cryptocurrencies prices, market capitalization, volume and more.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is coinpaprika free?
+## 🆓 Is "coinpaprika" free?
  Unknown/No 
 
 ## 💬 coinpaprika Discussion:

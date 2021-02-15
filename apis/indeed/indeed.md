@@ -12,7 +12,7 @@ Post your jobs on Indeed, the #1 job site worldwide.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Indeed free?
+## 🆓 Is "Indeed" free?
  Unknown/No 
 
 ## 💬 Indeed Discussion:

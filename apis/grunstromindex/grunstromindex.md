@@ -12,7 +12,7 @@ The green electricity index shows when a lot of renewable electricity is in the 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is GrünstromIndex free?
+## 🆓 Is "GrünstromIndex" free?
  Unknown/No 
 
 ## 💬 GrünstromIndex Discussion:

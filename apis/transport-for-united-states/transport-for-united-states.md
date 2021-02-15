@@ -9,7 +9,7 @@ NextBus API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Transportation in United States free?
+## 🆓 Is "Transportation in United States" free?
  Yes! 
 
 ## 💬 Transportation in United States Discussion:

@@ -12,7 +12,7 @@ BigML removes the complexities of Machine Learning so you can focus on what matt
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Big ML free?
+## 🆓 Is "Big ML" free?
  Unknown/No 
 
 ## 💬 Big ML Discussion:

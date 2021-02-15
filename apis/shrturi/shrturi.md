@@ -9,7 +9,7 @@ API Documentation This is version 3 of the shrturi. com API. It follows common R
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is ShrtURI free?
+## 🆓 Is "ShrtURI" free?
  Unknown/No 
 
 ## 💬 ShrtURI Discussion:

@@ -12,7 +12,7 @@ Everything you need to start playing with the Ticketmaster API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Ticketmaster free?
+## 🆓 Is "Ticketmaster" free?
  Unknown/No 
 
 ## 💬 Ticketmaster Discussion:

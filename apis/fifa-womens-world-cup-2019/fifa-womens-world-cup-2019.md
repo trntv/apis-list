@@ -1,5 +1,5 @@
 # FIFA women&#x27;s world cup 2019
-FIFA women&#x27;s world cup 2019 matches and group stage results
+FIFA women's world cup 2019 matches and group stage results
 
 ##  🔗 Links
 **Docs / Website**: https://worldcup.sfg.io/
@@ -9,7 +9,7 @@ FIFA women&#x27;s world cup 2019 matches and group stage results
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is FIFA women&#x27;s world cup 2019 free?
+## 🆓 Is "FIFA women's world cup 2019" free?
  Unknown/No 
 
 ## 💬 FIFA women&#x27;s world cup 2019 Discussion:

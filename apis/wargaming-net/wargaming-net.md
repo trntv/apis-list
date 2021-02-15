@@ -9,7 +9,7 @@ Wargaming Games API. Stats, Matches, Data
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Wargaming.net free?
+## 🆓 Is "Wargaming.net" free?
  Unknown/No 
 
 ## 💬 Wargaming.net Discussion:

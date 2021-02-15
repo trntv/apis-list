@@ -9,7 +9,7 @@ Access to data from Withings activity trackers and body measures
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Withings free?
+## 🆓 Is "Withings" free?
  Unknown/No 
 
 ## 💬 Withings Discussion:

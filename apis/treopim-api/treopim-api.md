@@ -12,7 +12,7 @@ AtroPIM is a free, modern, open source, GPLv3 licensed, web-based, feature-rich 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Treopim Api free?
+## 🆓 Is "Treopim Api" free?
  Unknown/No 
 
 ## 💬 Treopim Api Discussion:

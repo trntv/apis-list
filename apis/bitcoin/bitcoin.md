@@ -12,7 +12,7 @@ Bitcoin is an innovative payment network and a new kind of money. Find all you n
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Bitcoin free?
+## 🆓 Is "Bitcoin" free?
  Unknown/No 
 
 ## 💬 Bitcoin Discussion:

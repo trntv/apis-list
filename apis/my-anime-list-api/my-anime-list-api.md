@@ -12,7 +12,7 @@ Jikan is an unofficial MyAnimeList REST based API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is My Anime List API free?
+## 🆓 Is "My Anime List API" free?
  Unknown/No 
 
 ## 💬 My Anime List API Discussion:

@@ -9,7 +9,7 @@ A fortnite tracker api that returns data about and account
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Fortnite Api free?
+## 🆓 Is "Fortnite Api" free?
  Unknown/No 
 
 ## 💬 Fortnite Api Discussion:

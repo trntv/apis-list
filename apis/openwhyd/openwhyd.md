@@ -12,7 +12,7 @@
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Openwhyd free?
+## 🆓 Is "Openwhyd" free?
  Unknown/No 
 
 ## 💬 Openwhyd Discussion:

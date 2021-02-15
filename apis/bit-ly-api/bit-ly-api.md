@@ -9,7 +9,7 @@ The Bitly API Bitly is the most widely trusted link management platform in the w
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Bit.Ly API free?
+## 🆓 Is "Bit.Ly API" free?
  Unknown/No 
 
 ## 💬 Bit.Ly API Discussion:

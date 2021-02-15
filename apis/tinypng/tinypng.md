@@ -12,7 +12,7 @@ TinyPNG API will help you compress and reduce the size of your JPEF and PNG file
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Tinypng free?
+## 🆓 Is "Tinypng" free?
  Unknown/No 
 
 ## 💬 Tinypng Discussion:

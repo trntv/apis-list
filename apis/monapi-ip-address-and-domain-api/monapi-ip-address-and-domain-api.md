@@ -1,5 +1,5 @@
 # Monapi - Ip Address &amp; Domain Api
-Our Anomaly API gives you IP &amp; Domain Data for your Business. Lookup threat intelligence score. Prevend bad signups, enrich your SIEM &amp; secure your Application. . Data Intelligence for your Application - API Applications to protect your Service - Easy integration for developers and companies - start today with the free application
+Our Anomaly API gives you IP & Domain Data for your Business. Lookup threat intelligence score. Prevend bad signups, enrich your SIEM & secure your Application. . Data Intelligence for your Application - API Applications to protect your Service - Easy integration for developers and companies - start today with the free application
 
 ##  🔗 Links
 **Docs / Website**: https://www.monapi.io
@@ -9,7 +9,7 @@ Our Anomaly API gives you IP &amp; Domain Data for your Business. Lookup threat 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Monapi - Ip Address &amp; Domain Api free?
+## 🆓 Is "Monapi - Ip Address & Domain Api" free?
  Unknown/No 
 
 ## 💬 Monapi - Ip Address &amp; Domain Api Discussion:

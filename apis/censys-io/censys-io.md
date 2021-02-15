@@ -12,7 +12,7 @@ Censys helps organizations, individuals, and researchers find and monitor every 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Censys.io free?
+## 🆓 Is "Censys.io" free?
  Unknown/No 
 
 ## 💬 Censys.io Discussion:

@@ -9,7 +9,7 @@ Danbooru Imageboard API. Get images cartegorized by tags.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Danbooru free?
+## 🆓 Is "Danbooru" free?
  Unknown/No 
 
 ## 💬 Danbooru Discussion:

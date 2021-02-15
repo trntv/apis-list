@@ -12,7 +12,7 @@ This is an auto-generated MediaWiki API documentation page. Documentation and ex
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Wiktionary API free?
+## 🆓 Is "Wiktionary API" free?
  Unknown/No 
 
 ## 💬 Wiktionary API Discussion:

@@ -1,6 +1,6 @@
 # Upwork
-Upwork Developers Site offers you access to Upwork&#x27;s web services
-to build your own applications and to integrate it&#x27;s features and workflow
+Upwork Developers Site offers you access to Upwork's web services
+to build your own applications and to integrate it's features and workflow
 to your dashboards, websites and management systems.
 
 ##  🔗 Links
@@ -11,7 +11,7 @@ to your dashboards, websites and management systems.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Upwork free?
+## 🆓 Is "Upwork" free?
  Unknown/No 
 
 ## 💬 Upwork Discussion:

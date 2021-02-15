@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/community-transit/logo_256x256.png" alt="Community Transit Logo"/>
 </p>
-Transitland&#x27;s centralized web service API for both querying and editing aggregated transit data from around the world
+Transitland's centralized web service API for both querying and editing aggregated transit data from around the world
 
 ##  🔗 Links
 **Docs / Website**: https://github.com/transitland/transitland-datastore/blob/master/README.md#api-endpoints
@@ -12,7 +12,7 @@ Transitland&#x27;s centralized web service API for both querying and editing agg
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Community Transit free?
+## 🆓 Is "Community Transit" free?
  Unknown/No 
 
 ## 💬 Community Transit Discussion:

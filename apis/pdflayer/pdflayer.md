@@ -12,7 +12,7 @@ Free, powerful HTML to PDF API supporting both URL and raw HTML conversion. Unli
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is pdflayer free?
+## 🆓 Is "pdflayer" free?
  Yes! 
 
 ## 💬 pdflayer Discussion:

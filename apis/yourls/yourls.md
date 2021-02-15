@@ -12,7 +12,7 @@ Generate or get existing short URLs, with sequential or custom keyword. ➤ Abou
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Yourls free?
+## 🆓 Is "Yourls" free?
  Unknown/No 
 
 ## 💬 Yourls Discussion:

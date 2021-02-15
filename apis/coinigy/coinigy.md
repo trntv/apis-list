@@ -9,7 +9,7 @@ Interact with Coinigy Accounts and Exchange Accounts Directly.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Coinigy free?
+## 🆓 Is "Coinigy" free?
  Unknown/No 
 
 ## 💬 Coinigy Discussion:

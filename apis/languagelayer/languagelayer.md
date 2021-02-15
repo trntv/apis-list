@@ -12,7 +12,7 @@ Free, powerful language detection JSON API for 173 languages, supporting single 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is languagelayer free?
+## 🆓 Is "languagelayer" free?
  Unknown/No 
 
 ## 💬 languagelayer Discussion:

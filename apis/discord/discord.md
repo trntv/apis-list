@@ -1,5 +1,5 @@
 # Discord
-Integrate your service with Discord — whether it&#x27;s a bot or a game or whatever your wildest imagination can come up with
+Integrate your service with Discord — whether it's a bot or a game or whatever your wildest imagination can come up with
 
 ##  🔗 Links
 **Docs / Website**: https://discordapp.com/developers/docs/intro
@@ -9,7 +9,7 @@ Integrate your service with Discord — whether it&#x27;s a bot or a game or wha
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Discord free?
+## 🆓 Is "Discord" free?
  Unknown/No 
 
 ## 💬 Discord Discussion:

@@ -9,7 +9,7 @@ Product Lookup API gives access to item price and availability in real-time. Ite
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Wal-Mart free?
+## 🆓 Is "Wal-Mart" free?
  Unknown/No 
 
 ## 💬 Wal-Mart Discussion:

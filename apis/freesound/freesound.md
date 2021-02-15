@@ -9,7 +9,7 @@ With the Freesound API you can browse, search, and retrieve information about Fr
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Freesound free?
+## 🆓 Is "Freesound" free?
  Unknown/No 
 
 ## 💬 Freesound Discussion:

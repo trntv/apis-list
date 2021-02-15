@@ -12,7 +12,7 @@ Universal links are the preferred method of linking to a WhatsApp account.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Whatsapp Document Interaction free?
+## 🆓 Is "Whatsapp Document Interaction" free?
  Unknown/No 
 
 ## 💬 Whatsapp Document Interaction Discussion:

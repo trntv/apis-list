@@ -12,7 +12,7 @@ SmartQ is an technology company founded in 2017 with the intention of providing 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Keyserv free?
+## 🆓 Is "Keyserv" free?
  Unknown/No 
 
 ## 💬 Keyserv Discussion:

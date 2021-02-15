@@ -9,7 +9,7 @@ Learn more today!. Transactional Email API Service For Developers. Free first 10
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is MailGun free?
+## 🆓 Is "MailGun" free?
  Unknown/No 
 
 ## 💬 MailGun Discussion:

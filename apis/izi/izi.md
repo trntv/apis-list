@@ -12,7 +12,7 @@ izi.TRAVEL is ready to spread all local stories globally. Every day numerous con
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Izi free?
+## 🆓 Is "Izi" free?
  Unknown/No 
 
 ## 💬 Izi Discussion:

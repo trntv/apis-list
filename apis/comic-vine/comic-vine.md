@@ -12,7 +12,7 @@ An extremely mature, well organized and continuely updated resource of comic inf
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Comic Vine free?
+## 🆓 Is "Comic Vine" free?
  Unknown/No 
 
 ## 💬 Comic Vine Discussion:

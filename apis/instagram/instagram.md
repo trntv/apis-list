@@ -9,7 +9,7 @@ How to use the Instagram Graph API. Access to Instagram’s OAuth API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Instagram free?
+## 🆓 Is "Instagram" free?
  Unknown/No 
 
 ## 💬 Instagram Discussion:

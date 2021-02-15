@@ -12,7 +12,7 @@ Search through user Flickr content, contacts, upload or replace photos. Flickr i
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Flickr free?
+## 🆓 Is "Flickr" free?
  Unknown/No 
 
 ## 💬 Flickr Discussion:

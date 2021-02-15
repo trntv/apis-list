@@ -12,7 +12,7 @@ Unleash the power of Machine Learning by using the Powerful and Easy-to-Use API 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Datum Box free?
+## 🆓 Is "Datum Box" free?
  Unknown/No 
 
 ## 💬 Datum Box Discussion:

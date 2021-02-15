@@ -9,7 +9,7 @@ Resources from Studio Ghibli films
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Studio Ghibli free?
+## 🆓 Is "Studio Ghibli" free?
  Unknown/No 
 
 ## 💬 Studio Ghibli Discussion:

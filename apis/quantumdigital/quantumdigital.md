@@ -12,7 +12,7 @@ QuantumDigital’s APIs make navigating the USPS, securing national consumer and
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Quantumdigital free?
+## 🆓 Is "Quantumdigital" free?
  Unknown/No 
 
 ## 💬 Quantumdigital Discussion:

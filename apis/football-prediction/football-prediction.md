@@ -12,7 +12,7 @@ he API supports competitions in over 90 countries and over 140 national leagues.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Football Prediction free?
+## 🆓 Is "Football Prediction" free?
  Unknown/No 
 
 ## 💬 Football Prediction Discussion:

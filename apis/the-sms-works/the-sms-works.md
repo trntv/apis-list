@@ -9,7 +9,7 @@ The SMS Works provides a low-cost, reliable SMS API for developers. Pay only for
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is The SMS Works free?
+## 🆓 Is "The SMS Works" free?
  Unknown/No 
 
 ## 💬 The SMS Works Discussion:

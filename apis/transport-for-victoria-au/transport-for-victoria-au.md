@@ -1,6 +1,6 @@
 # Transportation in Victoria, Australia
-This page is not yet available on the PTV Beta website. &lt;br /&gt;
-&lt;br /&gt;
+This page is not yet available on the PTV Beta website. <br />
+<br />
 Please refer to the PTV website until further notice. PTV API
 
 ##  🔗 Links
@@ -11,7 +11,7 @@ Please refer to the PTV website until further notice. PTV API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Transportation in Victoria, Australia free?
+## 🆓 Is "Transportation in Victoria, Australia" free?
  Yes! 
 
 ## 💬 Transportation in Victoria, Australia Discussion:

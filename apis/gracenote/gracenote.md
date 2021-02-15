@@ -12,7 +12,7 @@ Largest source of music and video metadata on the planet. Gracenote is the leade
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Gracenote free?
+## 🆓 Is "Gracenote" free?
  Unknown/No 
 
 ## 💬 Gracenote Discussion:

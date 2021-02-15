@@ -9,7 +9,7 @@ API exists to let users of the DigitalOcean status page programmatically access 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is DigitalOcean Status free?
+## 🆓 Is "DigitalOcean Status" free?
  Unknown/No 
 
 ## 💬 DigitalOcean Status Discussion:

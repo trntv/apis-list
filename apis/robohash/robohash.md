@@ -12,7 +12,7 @@ Generate Unique images from any text. Robohash is a easy web service that makes 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is RoboHash free?
+## 🆓 Is "RoboHash" free?
  Unknown/No 
 
 ## 💬 RoboHash Discussion:

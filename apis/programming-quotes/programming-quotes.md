@@ -12,7 +12,7 @@ Programming Quotes API for open source projects. Contribute to skolakoda/program
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Programming Quotes free?
+## 🆓 Is "Programming Quotes" free?
  Unknown/No 
 
 ## 💬 Programming Quotes Discussion:

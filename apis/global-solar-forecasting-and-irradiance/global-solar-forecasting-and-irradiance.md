@@ -12,7 +12,7 @@ Solar radiation and forecasting data globally available and free for researchers
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Global Solar Forecasting And Irradiance free?
+## 🆓 Is "Global Solar Forecasting And Irradiance" free?
  Yes! 
 
 ## 💬 Global Solar Forecasting And Irradiance Discussion:

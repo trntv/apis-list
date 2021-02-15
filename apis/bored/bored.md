@@ -9,7 +9,7 @@ Find random activities to fight boredom
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Bored free?
+## 🆓 Is "Bored" free?
  Unknown/No 
 
 ## 💬 Bored Discussion:

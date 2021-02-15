@@ -9,7 +9,7 @@ When you find something you want to view later, put it in Pocket
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Pocket free?
+## 🆓 Is "Pocket" free?
  Unknown/No 
 
 ## 💬 Pocket Discussion:

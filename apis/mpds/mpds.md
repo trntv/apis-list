@@ -12,7 +12,7 @@ Online PAULING FILE materials database with nearly 2 million data entries (physi
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is MPDS free?
+## 🆓 Is "MPDS" free?
  Unknown/No 
 
 ## 💬 MPDS Discussion:

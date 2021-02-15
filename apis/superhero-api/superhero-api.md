@@ -1,5 +1,5 @@
 # Superhero Api
-Biography. From both the universe, and more. Images. Get all SuperHeroes and Villians data from all universes under a single API. For all the superhero data you&#x27;ve needed. Connections. Appearance. Work. Powerstats. Introduction What is this? The superhero API, is a quantifi
+Biography. From both the universe, and more. Images. Get all SuperHeroes and Villians data from all universes under a single API. For all the superhero data you've needed. Connections. Appearance. Work. Powerstats. Introduction What is this? The superhero API, is a quantifi
 
 ##  🔗 Links
 **Docs / Website**: https://superheroapi.com
@@ -9,7 +9,7 @@ Biography. From both the universe, and more. Images. Get all SuperHeroes and Vil
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Superhero Api free?
+## 🆓 Is "Superhero Api" free?
  Unknown/No 
 
 ## 💬 Superhero Api Discussion:

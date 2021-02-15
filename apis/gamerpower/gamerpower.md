@@ -9,7 +9,7 @@ The GamerPower API (Aka Game Giveaway Tracker API). Access programmatically the 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is GamerPower free?
+## 🆓 Is "GamerPower" free?
  Unknown/No 
 
 ## 💬 GamerPower Discussion:

@@ -1,5 +1,5 @@
 # data.parliament.uk
-UK&#x27;s parliament Open Data
+UK's parliament Open Data
 
 ##  🔗 Links
 **Docs / Website**: http://www.data.parliament.uk/developers/
@@ -9,7 +9,7 @@ UK&#x27;s parliament Open Data
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is data.parliament.uk free?
+## 🆓 Is "data.parliament.uk" free?
  Unknown/No 
 
 ## 💬 data.parliament.uk Discussion:

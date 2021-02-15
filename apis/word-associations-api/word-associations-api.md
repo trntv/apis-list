@@ -12,7 +12,7 @@ Provides service to get associations for a word or phrase. Words are grouped by 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Word Associations API free?
+## 🆓 Is "Word Associations API" free?
  Unknown/No 
 
 ## 💬 Word Associations API Discussion:

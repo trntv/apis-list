@@ -9,7 +9,7 @@ Hundereds of lottery games from various countries are supported. Generate lotter
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Lottery Number Generation free?
+## 🆓 Is "Lottery Number Generation" free?
  Unknown/No 
 
 ## 💬 Lottery Number Generation Discussion:

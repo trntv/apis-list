@@ -12,7 +12,7 @@ Sell tickets directly from your app or website. The ticketing and event manageme
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Picatic free?
+## 🆓 Is "Picatic" free?
  Unknown/No 
 
 ## 💬 Picatic Discussion:

@@ -12,7 +12,7 @@ Transform your data from XML or JSON to high quality, beautiful and readable doc
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is PrexView free?
+## 🆓 Is "PrexView" free?
  Unknown/No 
 
 ## 💬 PrexView Discussion:

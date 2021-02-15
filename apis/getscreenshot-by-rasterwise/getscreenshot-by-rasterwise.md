@@ -12,7 +12,7 @@ GetScreenshot is an affordable and highly scalable screenshot API service. With 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Getscreenshot By Rasterwise free?
+## 🆓 Is "Getscreenshot By Rasterwise" free?
  Unknown/No 
 
 ## 💬 Getscreenshot By Rasterwise Discussion:

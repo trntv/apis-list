@@ -13,7 +13,7 @@ Chrome based screenshot API to convert URLs to images. ApiFlash is an easy to us
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is ApiFlash free?
+## 🆓 Is "ApiFlash" free?
  Unknown/No 
 
 ## 💬 ApiFlash Discussion:

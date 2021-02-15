@@ -11,7 +11,7 @@ Responsive email design with MJML and Passport
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Mailjet free?
+## 🆓 Is "Mailjet" free?
  Unknown/No 
 
 ## 💬 Mailjet Discussion:

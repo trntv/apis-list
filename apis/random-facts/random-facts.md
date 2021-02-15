@@ -9,7 +9,7 @@ Random Facts API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Random Facts free?
+## 🆓 Is "Random Facts" free?
  Unknown/No 
 
 ## 💬 Random Facts Discussion:

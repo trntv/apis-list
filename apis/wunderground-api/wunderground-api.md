@@ -1,5 +1,5 @@
 # Wunderground API
-Reliable data, accurate forecast, &amp; global coverage in 80 languages
+Reliable data, accurate forecast, & global coverage in 80 languages
 
 ##  🔗 Links
 **Docs / Website**: https://www.wunderground.com/weather/api/
@@ -9,7 +9,7 @@ Reliable data, accurate forecast, &amp; global coverage in 80 languages
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Wunderground API free?
+## 🆓 Is "Wunderground API" free?
  Unknown/No 
 
 ## 💬 Wunderground API Discussion:

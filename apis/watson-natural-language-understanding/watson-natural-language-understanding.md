@@ -9,7 +9,7 @@ Provide text, raw HTML, or a public URL and IBM Watson Natural Language Understa
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Watson Natural Language Understanding free?
+## 🆓 Is "Watson Natural Language Understanding" free?
  Unknown/No 
 
 ## 💬 Watson Natural Language Understanding Discussion:

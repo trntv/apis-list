@@ -9,7 +9,7 @@ A Remake of the original api, using the MERN stack. A Remake of the original api
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is SWAPI free?
+## 🆓 Is "SWAPI" free?
  Unknown/No 
 
 ## 💬 SWAPI Discussion:

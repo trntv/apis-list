@@ -1,5 +1,5 @@
 # EBay Shopping API
-If you&#x27;re interested in . Offers access to public read-only data such as searching for items, products, reviews, and eBay member profiles. The eBay Shopping API can be used in search tools and other buyer-focused applications. Shopping API Users Guide This document gives you a quick overview of the Shopping API, answers common questions, and points you to other resources where you can learn more
+If you're interested in . Offers access to public read-only data such as searching for items, products, reviews, and eBay member profiles. The eBay Shopping API can be used in search tools and other buyer-focused applications. Shopping API Users Guide This document gives you a quick overview of the Shopping API, answers common questions, and points you to other resources where you can learn more
 
 ##  🔗 Links
 **Docs / Website**: http://developer.ebay.com/Devzone/shopping/docs/Concepts/ShoppingAPIGuide.html
@@ -9,7 +9,7 @@ If you&#x27;re interested in . Offers access to public read-only data such as se
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is EBay Shopping API free?
+## 🆓 Is "EBay Shopping API" free?
  Unknown/No 
 
 ## 💬 EBay Shopping API Discussion:

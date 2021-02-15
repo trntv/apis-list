@@ -12,7 +12,7 @@ SkyBiometry uses completely different computer vision algorithms for face detect
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Sky Biometry free?
+## 🆓 Is "Sky Biometry" free?
  Unknown/No 
 
 ## 💬 Sky Biometry Discussion:

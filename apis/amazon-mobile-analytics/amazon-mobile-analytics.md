@@ -9,7 +9,7 @@ Service for collecting, visualizing, and understanding app usage data at scale
 **URI**: https://raw.githubusercontent.com/aws/aws-sdk-js/master/apis/mobileanalytics-2014-06-05.normal.json  
 **Version**: https://raw.githubusercontent.com/aws/aws-sdk-js/master/apis/mobileanalytics-2014-06-05.normal.json
 
-## 🆓 Is Amazon Mobile Analytics free?
+## 🆓 Is "Amazon Mobile Analytics" free?
  Unknown/No 
 
 ## 💬 Amazon Mobile Analytics Discussion:

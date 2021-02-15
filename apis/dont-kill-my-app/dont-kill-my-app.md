@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/dont-kill-my-app/logo_256x256.png" alt="Don&#x27;t Kill My App Logo"/>
 </p>
-Android vendors, don&#x27;t kill my app! dontkillmyapp.com official API
+Android vendors, don't kill my app! dontkillmyapp.com official API
 
 ##  🔗 Links
 **Docs / Website**: https://github.com/urbandroid-team/dont-kill-my-app
@@ -12,7 +12,7 @@ Android vendors, don&#x27;t kill my app! dontkillmyapp.com official API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Don&#x27;t Kill My App free?
+## 🆓 Is "Don't Kill My App" free?
  Unknown/No 
 
 ## 💬 Don&#x27;t Kill My App Discussion:

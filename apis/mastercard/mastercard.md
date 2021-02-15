@@ -12,7 +12,7 @@ Mastercard official API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Mastercard free?
+## 🆓 Is "Mastercard" free?
  Unknown/No 
 
 ## 💬 Mastercard Discussion:

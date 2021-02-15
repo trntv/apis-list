@@ -9,7 +9,7 @@ Pastebin is a website where you can store text online for a set period of time. 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Pastebin free?
+## 🆓 Is "Pastebin" free?
  Unknown/No 
 
 ## 💬 Pastebin Discussion:

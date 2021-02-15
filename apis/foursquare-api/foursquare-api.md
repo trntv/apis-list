@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/foursquare-api/logo_256x256.png" alt="Foursquare API Logo"/>
 </p>
-Gives you access to our world-class places database and the ability to interact with Foursquare users and merchants. Start using the only location API you&#x27;ll ever need. Foursquare is the most trusted, independent location data platform for understanding how people move through the real world
+Gives you access to our world-class places database and the ability to interact with Foursquare users and merchants. Start using the only location API you'll ever need. Foursquare is the most trusted, independent location data platform for understanding how people move through the real world
 
 ##  🔗 Links
 **Docs / Website**: https://developer.foursquare.com/developer/
@@ -12,7 +12,7 @@ Gives you access to our world-class places database and the ability to interact 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Foursquare API free?
+## 🆓 Is "Foursquare API" free?
  Unknown/No 
 
 ## 💬 Foursquare API Discussion:

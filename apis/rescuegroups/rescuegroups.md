@@ -9,7 +9,7 @@ org APIs Not all adoptable pet data APIs are made equal! Choosing the right API 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is RescueGroups free?
+## 🆓 Is "RescueGroups" free?
  Unknown/No 
 
 ## 💬 RescueGroups Discussion:

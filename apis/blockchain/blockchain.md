@@ -12,7 +12,7 @@ The easiest and most trusted transaction search engine and block explorer.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Blockchain free?
+## 🆓 Is "Blockchain" free?
  Unknown/No 
 
 ## 💬 Blockchain Discussion:

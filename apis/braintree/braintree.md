@@ -1,5 +1,5 @@
 # Braintree
-Specializes in mobile and web payment systems for ecommerce companies. Braintree resources and tools for developers to integrate Braintree&#x27;s global payments platform
+Specializes in mobile and web payment systems for ecommerce companies. Braintree resources and tools for developers to integrate Braintree's global payments platform
 
 ##  🔗 Links
 **Docs / Website**: https://developers.braintreepayments.com
@@ -9,7 +9,7 @@ Specializes in mobile and web payment systems for ecommerce companies. Braintree
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Braintree free?
+## 🆓 Is "Braintree" free?
  Unknown/No 
 
 ## 💬 Braintree Discussion:

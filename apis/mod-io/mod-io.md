@@ -12,7 +12,7 @@ Cross-platform mod support
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is mod.io free?
+## 🆓 Is "mod.io" free?
  Unknown/No 
 
 ## 💬 mod.io Discussion:

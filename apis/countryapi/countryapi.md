@@ -12,7 +12,7 @@ A Rest Api of simple country information that you need. Gets all the countries, 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is CountryAPI free?
+## 🆓 Is "CountryAPI" free?
  Unknown/No 
 
 ## 💬 CountryAPI Discussion:

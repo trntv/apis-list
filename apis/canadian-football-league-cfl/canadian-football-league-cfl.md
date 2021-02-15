@@ -9,7 +9,7 @@ CFL API Need assistance? E-mail us or browse the API documentation
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Canadian Football League (CFL) free?
+## 🆓 Is "Canadian Football League (CFL)" free?
  Unknown/No 
 
 ## 💬 Canadian Football League (CFL) Discussion:

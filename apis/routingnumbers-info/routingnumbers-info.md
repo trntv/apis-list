@@ -9,7 +9,7 @@ API for ACH/NACHA Bank Routing Numbers
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Routingnumbers.Info free?
+## 🆓 Is "Routingnumbers.Info" free?
  Unknown/No 
 
 ## 💬 Routingnumbers.Info Discussion:

@@ -9,7 +9,7 @@ Innovative License Management Solution. NetLicensing RESTful APIis for developer
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Labs64 NetLicensing free?
+## 🆓 Is "Labs64 NetLicensing" free?
  Unknown/No 
 
 ## 💬 Labs64 NetLicensing Discussion:

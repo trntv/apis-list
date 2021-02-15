@@ -872,7 +872,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [vatlayer](https://github.com/apis-list/apis-list/blob/main/apis/vatlayer/vatlayer.md) - Free and HTTPS secured JSON API offering instant VAT number validation, reliable EU VAT rates and VAT compliant price calculations for developers &amp; businesses
 - [World Bank](https://github.com/apis-list/apis-list/blob/main/apis/world-bank/world-bank.md) - World Bank APIs
 - [World Trading Data](https://github.com/apis-list/apis-list/blob/main/apis/world-trading-data/world-trading-data.md) - World Trading Data is a worldwide market data provider, for example provide a stock name and dates and get trading data for those
-- [YNAB](https://github.com/apis-list/apis-list/blob/main/apis/ynab/ynab.md) - YNAB API 🆓
+- [YNAB](https://github.com/apis-list/apis-list/blob/main/apis/ynab/ynab.md) - You Need A Budget API 🆓
 - [You Need A Budget](https://github.com/apis-list/apis-list/blob/main/apis/you-need-a-budget/you-need-a-budget.md) - Introduction Hello Developers Welcome to the YNAB API
 
 ### Food & Drinks 🍹

@@ -12,7 +12,7 @@ Locate website visitors for free using ipstack - a free, real-time IP address to
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is ipstack free?
+## 🆓 Is "ipstack" free?
  Unknown/No 
 
 ## 💬 ipstack Discussion:

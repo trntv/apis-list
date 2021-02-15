@@ -1,5 +1,5 @@
 # RandomUserGenerator
-Random user generator is a FREE API for generating placeholder user information. Get profile photos, names, and more. It&#x27;s like Lorem Ipsum, for people.
+Random user generator is a FREE API for generating placeholder user information. Get profile photos, names, and more. It's like Lorem Ipsum, for people.
 
 ##  🔗 Links
 **Docs / Website**: https://randomuser.me/
@@ -9,7 +9,7 @@ Random user generator is a FREE API for generating placeholder user information.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is RandomUserGenerator free?
+## 🆓 Is "RandomUserGenerator" free?
  Unknown/No 
 
 ## 💬 RandomUserGenerator Discussion:

@@ -12,7 +12,7 @@ Feedbin API Documentation. Contribute to feedbin/feedbin-api development by crea
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Feedbin free?
+## 🆓 Is "Feedbin" free?
  Unknown/No 
 
 ## 💬 Feedbin Discussion:

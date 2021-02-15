@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/weather-source/logo_256x256.png" alt="Weather Source Logo"/>
 </p>
-Powerful Weather API built for systems that demand speed, reliability and heavy load. On-demand access to Hyper-local Global Weather History, Forecast, Nowcast, Climate, Hazards &amp; Astronomical data. Analytics-grade, Built for enterprises
+Powerful Weather API built for systems that demand speed, reliability and heavy load. On-demand access to Hyper-local Global Weather History, Forecast, Nowcast, Climate, Hazards & Astronomical data. Analytics-grade, Built for enterprises
 
 ##  🔗 Links
 **Docs / Website**: http://weathersource.com/weather-api
@@ -12,7 +12,7 @@ Powerful Weather API built for systems that demand speed, reliability and heavy 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Weather Source free?
+## 🆓 Is "Weather Source" free?
  Unknown/No 
 
 ## 💬 Weather Source Discussion:

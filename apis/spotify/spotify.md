@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/spotify/logo_256x256.png" alt="Spotify Logo"/>
 </p>
-Let’s you search and lookup metadata about artists, tracks and albums. Spotify’s Web API lets your applications fetch data from the Spotify music catalog, manage users&#x27; playlists and saved music, get recommendations, control Spotify Connect, and more. Simply put, your app receives Spotify content through the Spotify Web API
+Let’s you search and lookup metadata about artists, tracks and albums. Spotify’s Web API lets your applications fetch data from the Spotify music catalog, manage users' playlists and saved music, get recommendations, control Spotify Connect, and more. Simply put, your app receives Spotify content through the Spotify Web API
 
 ##  🔗 Links
 **Docs / Website**: https://developer.spotify.com/documentation/web-api/
@@ -12,7 +12,7 @@ Let’s you search and lookup metadata about artists, tracks and albums. Spotify
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Spotify free?
+## 🆓 Is "Spotify" free?
  Unknown/No 
 
 ## 💬 Spotify Discussion:

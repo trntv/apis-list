@@ -9,7 +9,7 @@ Yes or No
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Yes No free?
+## 🆓 Is "Yes No" free?
  Unknown/No 
 
 ## 💬 Yes No Discussion:

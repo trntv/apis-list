@@ -9,7 +9,7 @@ An open repository of web crawl data that can be accessed and analyzed by anyone
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Web Crawl Data free?
+## 🆓 Is "Web Crawl Data" free?
  Unknown/No 
 
 ## 💬 Web Crawl Data Discussion:

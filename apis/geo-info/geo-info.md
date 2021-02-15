@@ -9,7 +9,7 @@ A simple free reverse geocoding API for turning coordinates into human readable 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Geo Info free?
+## 🆓 Is "Geo Info" free?
  Unknown/No 
 
 ## 💬 Geo Info Discussion:

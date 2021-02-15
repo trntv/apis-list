@@ -9,7 +9,7 @@ This Hearthstone API provides up to date Hearthstone data pulled directly from t
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Hearthstone free?
+## 🆓 Is "Hearthstone" free?
  Unknown/No 
 
 ## 💬 Hearthstone Discussion:

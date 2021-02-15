@@ -1,5 +1,5 @@
 # IP Sidekick
-IP Sidekick is an API that returns information about an IP address. You can use it to customize your content based on the visitor&#x27;s location or display their country.
+IP Sidekick is an API that returns information about an IP address. You can use it to customize your content based on the visitor's location or display their country.
 
 ##  🔗 Links
 **Docs / Website**: https://ipsidekick.com
@@ -9,7 +9,7 @@ IP Sidekick is an API that returns information about an IP address. You can use 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is IP Sidekick free?
+## 🆓 Is "IP Sidekick" free?
  Unknown/No 
 
 ## 💬 IP Sidekick Discussion:

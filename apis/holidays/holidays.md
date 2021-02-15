@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/holidays/logo_256x256.png" alt="Holidays Logo"/>
 </p>
-Don&#x27;t let sourcing and maintaining holiday information get in the way of building your product
+Don't let sourcing and maintaining holiday information get in the way of building your product
 
 ##  🔗 Links
 **Docs / Website**: https://holidayapi.com/
@@ -12,7 +12,7 @@ Don&#x27;t let sourcing and maintaining holiday information get in the way of bu
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Holidays free?
+## 🆓 Is "Holidays" free?
  Unknown/No 
 
 ## 💬 Holidays Discussion:

@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-honolulu-us/logo_256x256.png" alt="Transportation in Honolulu, USA Logo"/>
 </p>
-« Return to TheBusHEA Web Services API The Web API (Application Programming Interface) allows a developer to access our real-time AVL data. To utilize OTS&#x27;s web services, an application id (AppID)
+« Return to TheBusHEA Web Services API The Web API (Application Programming Interface) allows a developer to access our real-time AVL data. To utilize OTS's web services, an application id (AppID)
 
 ##  🔗 Links
 **Docs / Website**: http://hea.thebus.org/api_info.asp
@@ -12,7 +12,7 @@
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Transportation in Honolulu, USA free?
+## 🆓 Is "Transportation in Honolulu, USA" free?
  Yes! 
 
 ## 💬 Transportation in Honolulu, USA Discussion:

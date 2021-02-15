@@ -12,7 +12,7 @@
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Foodish free?
+## 🆓 Is "Foodish" free?
  Unknown/No 
 
 ## 💬 Foodish Discussion:

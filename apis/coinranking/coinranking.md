@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/coinranking/logo.png" alt="CoinRanking Logo"/>
 </p>
-Introduction Power your projects with the high quality cryptocurrency data coinranking.com provides. They provides data about coins, exchanges, markets &amp; more
+Introduction Power your projects with the high quality cryptocurrency data coinranking.com provides. They provides data about coins, exchanges, markets & more
 
 ##  🔗 Links
 **Docs / Website**: https://docs.coinranking.com/
@@ -12,7 +12,7 @@ Introduction Power your projects with the high quality cryptocurrency data coinr
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is CoinRanking free?
+## 🆓 Is "CoinRanking" free?
  Unknown/No 
 
 ## 💬 CoinRanking Discussion:

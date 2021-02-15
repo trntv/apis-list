@@ -12,7 +12,7 @@ Add schedules, show, episode, cast information. TV Show and web series database.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is TVmaze free?
+## 🆓 Is "TVmaze" free?
  Unknown/No 
 
 ## 💬 TVmaze Discussion:

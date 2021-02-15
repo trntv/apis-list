@@ -12,7 +12,7 @@ Simple API that includes a common data for most of the applications. Like user i
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Dummyapi.Io free?
+## 🆓 Is "Dummyapi.Io" free?
  Unknown/No 
 
 ## 💬 Dummyapi.Io Discussion:

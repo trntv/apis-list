@@ -9,7 +9,7 @@ Search makeup products
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Makeup free?
+## 🆓 Is "Makeup" free?
  Unknown/No 
 
 ## 💬 Makeup Discussion:

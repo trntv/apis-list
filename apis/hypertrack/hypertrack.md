@@ -9,7 +9,7 @@ Build applications that track the movement of your business. HyperTrack is the A
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is HyperTrack free?
+## 🆓 Is "HyperTrack" free?
  Unknown/No 
 
 ## 💬 HyperTrack Discussion:

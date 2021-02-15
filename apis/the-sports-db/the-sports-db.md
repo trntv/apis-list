@@ -9,7 +9,7 @@ With the Sports DB API you can query teams, players in teams, player details, pl
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is The Sports Db free?
+## 🆓 Is "The Sports Db" free?
  Unknown/No 
 
 ## 💬 The Sports Db Discussion:

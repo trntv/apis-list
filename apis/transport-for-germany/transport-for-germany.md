@@ -12,7 +12,7 @@ API provides the timetable data
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Deutsche Bahn Open Data Portal free?
+## 🆓 Is "Deutsche Bahn Open Data Portal" free?
  Unknown/No 
 
 ## 💬 Deutsche Bahn Open Data Portal Discussion:

@@ -1,5 +1,5 @@
 # Nfl Arrests
-NFL Arrest provides an interactive visualized database of National Football League player Arrests &amp; Charges.
+NFL Arrest provides an interactive visualized database of National Football League player Arrests & Charges.
 
 ##  🔗 Links
 **Docs / Website**: http://www.nflarrest.com/
@@ -9,7 +9,7 @@ NFL Arrest provides an interactive visualized database of National Football Leag
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Nfl Arrests free?
+## 🆓 Is "Nfl Arrests" free?
  Unknown/No 
 
 ## 💬 Nfl Arrests Discussion:

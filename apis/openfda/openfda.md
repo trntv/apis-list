@@ -9,7 +9,7 @@ openFDA is an Elasticsearch-based API that serves public FDA data about nouns li
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is openFDA free?
+## 🆓 Is "openFDA" free?
  Unknown/No 
 
 ## 💬 openFDA Discussion:

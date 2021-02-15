@@ -12,7 +12,7 @@ artist events: returns the list of events including their date and time, venue n
 **URI**: https://app.swaggerhub.com/apiproxy/registry/Bandsintown/PublicAPI/3.0.0?resolved&#x3D;true&amp;flatten&#x3D;true&amp;pretty&#x3D;true  
 **Version**: https://app.swaggerhub.com/apiproxy/registry/Bandsintown/PublicAPI/3.0.0?resolved&#x3D;true&amp;flatten&#x3D;true&amp;pretty&#x3D;true
 
-## 🆓 Is Bandsintown free?
+## 🆓 Is "Bandsintown" free?
  Unknown/No 
 
 ## 💬 Bandsintown Discussion:

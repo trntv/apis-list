@@ -12,7 +12,7 @@ A simple, RESTful API to the most powerful bitcoin infrastructure on the planet.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is bitpay free?
+## 🆓 Is "bitpay" free?
  Unknown/No 
 
 ## 💬 bitpay Discussion:

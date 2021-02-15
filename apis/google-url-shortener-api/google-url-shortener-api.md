@@ -12,7 +12,7 @@ Used by Google products to create short URLs that can be easily shared, tweeted,
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Google URL Shortener API free?
+## 🆓 Is "Google URL Shortener API" free?
  Unknown/No 
 
 ## 💬 Google URL Shortener API Discussion:

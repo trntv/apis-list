@@ -1,5 +1,5 @@
 # Thumbnails Cloud
-Cloud API generates JPG and PDF file previews for all common document formats, using a super simple API. The simplest API for generating file thumbnails that you&#x27;ve ever seen.
+Cloud API generates JPG and PDF file previews for all common document formats, using a super simple API. The simplest API for generating file thumbnails that you've ever seen.
 
 ##  🔗 Links
 **Docs / Website**: https://thumbnails.cloud
@@ -9,7 +9,7 @@ Cloud API generates JPG and PDF file previews for all common document formats, u
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Thumbnails Cloud free?
+## 🆓 Is "Thumbnails Cloud" free?
  Unknown/No 
 
 ## 💬 Thumbnails Cloud Discussion:

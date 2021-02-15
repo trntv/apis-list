@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/healthgraph/logo_256x256.png" alt="HealthGraph Logo"/>
 </p>
-RunKeeper&#x27;s web-based HealthGraph API presents Health Graph data, and provides information about a user and friends. Join the community of over 45 million runners who make every run amazing with Runkeeper. Track your workouts and reach your fitness goals!
+RunKeeper's web-based HealthGraph API presents Health Graph data, and provides information about a user and friends. Join the community of over 45 million runners who make every run amazing with Runkeeper. Track your workouts and reach your fitness goals!
 
 ##  🔗 Links
 **Docs / Website**: https://runkeeper.com/developer/healthgraph/registration-authorization
@@ -12,7 +12,7 @@ RunKeeper&#x27;s web-based HealthGraph API presents Health Graph data, and provi
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is HealthGraph free?
+## 🆓 Is "HealthGraph" free?
  Unknown/No 
 
 ## 💬 HealthGraph Discussion:

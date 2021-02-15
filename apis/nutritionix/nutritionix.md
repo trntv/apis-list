@@ -9,7 +9,7 @@ Add robust nutrition tracking capability to any health app.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Nutritionix free?
+## 🆓 Is "Nutritionix" free?
  Unknown/No 
 
 ## 💬 Nutritionix Discussion:

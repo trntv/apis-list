@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cloudinary/logo_256x256.png" alt="Cloudinary Logo"/>
 </p>
-API for image and video storage and manipulation - free for up to 75,000 images and 7,500 manipulations per month, good documentation, it can also manipulate GIFs and PDFs. Search for Developer and DAM how-to info, find out What&#x27;s New, learn about our Framework SDKs, Add-ons, and Integrations, watch video tutorials, and more
+API for image and video storage and manipulation - free for up to 75,000 images and 7,500 manipulations per month, good documentation, it can also manipulate GIFs and PDFs. Search for Developer and DAM how-to info, find out What's New, learn about our Framework SDKs, Add-ons, and Integrations, watch video tutorials, and more
 
 ##  🔗 Links
 **Docs / Website**: http://cloudinary.com/documentation
@@ -12,7 +12,7 @@ API for image and video storage and manipulation - free for up to 75,000 images 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Cloudinary free?
+## 🆓 Is "Cloudinary" free?
  Unknown/No 
 
 ## 💬 Cloudinary Discussion:

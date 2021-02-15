@@ -9,7 +9,7 @@ Blizzard Entertainment
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Battle.Net free?
+## 🆓 Is "Battle.Net" free?
  Unknown/No 
 
 ## 💬 Battle.Net Discussion:

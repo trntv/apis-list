@@ -9,7 +9,7 @@ Stop bots and manual spam from reaching you or your customer. All with high accu
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is OOPSpam free?
+## 🆓 Is "OOPSpam" free?
  Unknown/No 
 
 ## 💬 OOPSpam Discussion:

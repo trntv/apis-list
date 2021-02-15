@@ -12,7 +12,7 @@ A free REST API for random Kanye West quotes. A free REST API for random Kanye W
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is kanye.rest free?
+## 🆓 Is "kanye.rest" free?
  Unknown/No 
 
 ## 💬 kanye.rest Discussion:

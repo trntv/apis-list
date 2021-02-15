@@ -12,7 +12,7 @@ The minimalistic JSON real-time UV Index API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is OpenUV free?
+## 🆓 Is "OpenUV" free?
  Unknown/No 
 
 ## 💬 OpenUV Discussion:

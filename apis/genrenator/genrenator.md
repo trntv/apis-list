@@ -12,7 +12,7 @@ Binary Jazz genrenator
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Genrenator free?
+## 🆓 Is "Genrenator" free?
  Unknown/No 
 
 ## 💬 Genrenator Discussion:

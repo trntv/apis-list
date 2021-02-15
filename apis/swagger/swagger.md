@@ -9,7 +9,7 @@ Find out how Swagger can help you and get started today. Simplify API developmen
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Swagger free?
+## 🆓 Is "Swagger" free?
  Unknown/No 
 
 ## 💬 Swagger Discussion:

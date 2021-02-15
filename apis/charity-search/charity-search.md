@@ -1,5 +1,5 @@
 # Charity Search
-The OrgHunter Charity API provides developers access to over 2M charities in it&#x27;s database
+The OrgHunter Charity API provides developers access to over 2M charities in it's database
 
 ##  🔗 Links
 **Docs / Website**: http://charityapi.orghunter.com/
@@ -9,7 +9,7 @@ The OrgHunter Charity API provides developers access to over 2M charities in it&
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Charity Search free?
+## 🆓 Is "Charity Search" free?
  Unknown/No 
 
 ## 💬 Charity Search Discussion:

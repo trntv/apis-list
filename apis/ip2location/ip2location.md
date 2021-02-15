@@ -12,7 +12,7 @@ IP Address Geolocation to Country, City, Region, Latitude, Longitude, ZIP Code, 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is IP2Location free?
+## 🆓 Is "IP2Location" free?
  Unknown/No 
 
 ## 💬 IP2Location Discussion:

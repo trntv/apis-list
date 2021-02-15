@@ -12,7 +12,7 @@ A time series analysis API. Time Door is an API for statistical insights into ti
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Time Door free?
+## 🆓 Is "Time Door" free?
  Unknown/No 
 
 ## 💬 Time Door Discussion:

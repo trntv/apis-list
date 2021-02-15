@@ -1,5 +1,5 @@
 # YouTube API
-Add YouTube functionality to your sites and apps. . Allows developers to access video statistics and YouTube channels&#x27; data via two types of calls, REST and XML-RPC
+Add YouTube functionality to your sites and apps. . Allows developers to access video statistics and YouTube channels' data via two types of calls, REST and XML-RPC
 
 ##  🔗 Links
 **Docs / Website**: https://developers.google.com/youtube/
@@ -9,7 +9,7 @@ Add YouTube functionality to your sites and apps. . Allows developers to access 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is YouTube API free?
+## 🆓 Is "YouTube API" free?
  Unknown/No 
 
 ## 💬 YouTube API Discussion:

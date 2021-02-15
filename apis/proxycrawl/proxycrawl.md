@@ -12,7 +12,7 @@ Crawl and scrape websites without the need of proxies, infrastructure or browser
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is ProxyCrawl free?
+## 🆓 Is "ProxyCrawl" free?
  Unknown/No 
 
 ## 💬 ProxyCrawl Discussion:

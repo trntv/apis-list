@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/untappd/logo_256x256.png" alt="Untappd Logo"/>
 </p>
-Access the Untappd API documentation to power your app or project. . Untappd is a mobile web app that allows you to socially share beers that you&#x27;re enjoying
+Access the Untappd API documentation to power your app or project. . Untappd is a mobile web app that allows you to socially share beers that you're enjoying
 
 ##  🔗 Links
 **Docs / Website**: https://untappd.com/api/docs
@@ -12,7 +12,7 @@ Access the Untappd API documentation to power your app or project. . Untappd is 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Untappd free?
+## 🆓 Is "Untappd" free?
  Unknown/No 
 
 ## 💬 Untappd Discussion:

@@ -9,7 +9,7 @@ Weather API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Dark Sky free?
+## 🆓 Is "Dark Sky" free?
  Unknown/No 
 
 ## 💬 Dark Sky Discussion:

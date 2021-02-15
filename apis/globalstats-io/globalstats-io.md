@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/globalstats-io/logo_256x256.png" alt="Globalstats.Io Logo"/>
 </p>
-Enrich your games&#x27; experience by adding a global highscore for your games. Platform agnostic infrastructure for your games statistics.
+Enrich your games' experience by adding a global highscore for your games. Platform agnostic infrastructure for your games statistics.
 
 ##  🔗 Links
 **Docs / Website**: https://globalstats.io/
@@ -12,7 +12,7 @@ Enrich your games&#x27; experience by adding a global highscore for your games. 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Globalstats.Io free?
+## 🆓 Is "Globalstats.Io" free?
  Unknown/No 
 
 ## 💬 Globalstats.Io Discussion:

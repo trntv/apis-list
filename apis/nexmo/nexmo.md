@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/nexmo/logo_256x256.png" alt="Nexmo Logo"/>
 </p>
-Make and receive phone calls, send and receive SMS worldwide. Libraries in Node, Ruby, Java, PHP, .NET &amp; Python. Get guides and code snippets, browse reference documentation, and more to develop connected applications with Vonage APIs and SDKs
+Make and receive phone calls, send and receive SMS worldwide. Libraries in Node, Ruby, Java, PHP, .NET & Python. Get guides and code snippets, browse reference documentation, and more to develop connected applications with Vonage APIs and SDKs
 
 ##  🔗 Links
 **Docs / Website**: https://developer.nexmo.com
@@ -12,7 +12,7 @@ Make and receive phone calls, send and receive SMS worldwide. Libraries in Node,
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Nexmo free?
+## 🆓 Is "Nexmo" free?
  Unknown/No 
 
 ## 💬 Nexmo Discussion:

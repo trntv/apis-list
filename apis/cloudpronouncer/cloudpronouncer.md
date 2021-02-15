@@ -9,7 +9,7 @@ Text To Speech API. CloudPronouncer (tts online or tts reader) is a cross browse
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Cloudpronouncer free?
+## 🆓 Is "Cloudpronouncer" free?
  Unknown/No 
 
 ## 💬 Cloudpronouncer Discussion:

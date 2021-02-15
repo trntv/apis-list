@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/genius/logo_256x256.png" alt="Genius Logo"/>
 </p>
-Allows users to find details about Genius artists and songs. Use our API and help build the world&#x27;s greatest public knowledge project since Wikipedia
+Allows users to find details about Genius artists and songs. Use our API and help build the world's greatest public knowledge project since Wikipedia
 
 ##  🔗 Links
 **Docs / Website**: https://docs.genius.com/#/getting-started-h1
@@ -12,7 +12,7 @@ Allows users to find details about Genius artists and songs. Use our API and hel
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Genius free?
+## 🆓 Is "Genius" free?
  Unknown/No 
 
 ## 💬 Genius Discussion:

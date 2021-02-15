@@ -1,5 +1,5 @@
 # Jooble
-The REST API allows developers to access and integrate Jooble&#x27;s search results within your web products, or to build an entirely new web product of your own.
+The REST API allows developers to access and integrate Jooble's search results within your web products, or to build an entirely new web product of your own.
 
 ##  🔗 Links
 **Docs / Website**: https://us.jooble.org/api/about
@@ -9,7 +9,7 @@ The REST API allows developers to access and integrate Jooble&#x27;s search resu
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Jooble free?
+## 🆓 Is "Jooble" free?
  Yes! 
 
 ## 💬 Jooble Discussion:

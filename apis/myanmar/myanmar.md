@@ -9,7 +9,7 @@ Central bank of New Myanmar
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Myanmar free?
+## 🆓 Is "Myanmar" free?
  Unknown/No 
 
 ## 💬 Myanmar Discussion:

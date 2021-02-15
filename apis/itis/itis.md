@@ -12,7 +12,7 @@ Hosted by the USGS Core Science Analytics and Synthesis. Page designed through t
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is ITIS free?
+## 🆓 Is "ITIS" free?
  Unknown/No 
 
 ## 💬 ITIS Discussion:

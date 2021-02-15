@@ -9,7 +9,7 @@ Free phone number validation provided by PhoneValidator. Check phone numbers to 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Phone Validator free?
+## 🆓 Is "Phone Validator" free?
  Unknown/No 
 
 ## 💬 Phone Validator Discussion:

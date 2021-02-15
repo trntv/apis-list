@@ -9,7 +9,7 @@ A comprehensive Cannabis database includes products, prices, stock and inventory
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Neobi free?
+## 🆓 Is "Neobi" free?
  Unknown/No 
 
 ## 💬 Neobi Discussion:

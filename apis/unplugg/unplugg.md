@@ -9,7 +9,7 @@ Add intelligence to your energy products. Automated Forecasting API for timeseri
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Unplugg free?
+## 🆓 Is "Unplugg" free?
  Unknown/No 
 
 ## 💬 Unplugg Discussion:

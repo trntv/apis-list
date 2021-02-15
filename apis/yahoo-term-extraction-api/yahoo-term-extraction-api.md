@@ -12,7 +12,7 @@ Join the 200,000 developers using Yahoo tools to build their app businesses. Con
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Yahoo Term Extraction API free?
+## 🆓 Is "Yahoo Term Extraction API" free?
  Unknown/No 
 
 ## 💬 Yahoo Term Extraction API Discussion:

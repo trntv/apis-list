@@ -9,7 +9,7 @@ Official Hytale API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Hytale free?
+## 🆓 Is "Hytale" free?
  Unknown/No 
 
 ## 💬 Hytale Discussion:

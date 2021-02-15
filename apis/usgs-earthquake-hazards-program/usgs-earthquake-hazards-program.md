@@ -9,7 +9,7 @@ USGS Earthquake Hazards Program, responsible for monitoring, reporting, and rese
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is USGS Earthquake Hazards Program free?
+## 🆓 Is "USGS Earthquake Hazards Program" free?
  Unknown/No 
 
 ## 💬 USGS Earthquake Hazards Program Discussion:

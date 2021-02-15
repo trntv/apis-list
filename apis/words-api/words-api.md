@@ -12,7 +12,7 @@ An API for the english language. Definitions, related words, rhymes, and more. U
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Words API free?
+## 🆓 Is "Words API" free?
  Unknown/No 
 
 ## 💬 Words API Discussion:

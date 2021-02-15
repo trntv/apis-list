@@ -9,7 +9,7 @@ WordPress is open source software you can use to create a beautiful website, blo
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Wordpress free?
+## 🆓 Is "Wordpress" free?
  Unknown/No 
 
 ## 💬 Wordpress Discussion:

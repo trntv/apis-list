@@ -9,7 +9,7 @@ Scraper. AI is a no-code data extraction tool that allows you to extract data fr
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Scraper.AI free?
+## 🆓 Is "Scraper.AI" free?
  Unknown/No 
 
 ## 💬 Scraper.AI Discussion:

@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/harvard-art-museums/logo_256x256.png" alt="Harvard Art Museums Logo"/>
 </p>
-The Harvard Art Museums API is a REST-style service designed for developers who wish to explore and integrate the museums’ collections in their projects. The API provides direct access to the data that powers the museums&#x27; website and many other aspects of the museums.
+The Harvard Art Museums API is a REST-style service designed for developers who wish to explore and integrate the museums’ collections in their projects. The API provides direct access to the data that powers the museums' website and many other aspects of the museums.
 
 ##  🔗 Links
 **Docs / Website**: https://github.com/harvardartmuseums/api-docs
@@ -12,7 +12,7 @@ The Harvard Art Museums API is a REST-style service designed for developers who 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Harvard Art Museums free?
+## 🆓 Is "Harvard Art Museums" free?
  Unknown/No 
 
 ## 💬 Harvard Art Museums Discussion:

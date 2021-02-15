@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/lastfm/logo_256x256.png" alt="LastFm Logo"/>
 </p>
-fm. Allows anyone to build their own programs using Last. fm data, whether they&#x27;re on the web, the desktop or mobile devices. The world&#x27;s largest online music service. Listen online, find out more about your favourite artists, and get music recommendations, only at Last
+fm. Allows anyone to build their own programs using Last. fm data, whether they're on the web, the desktop or mobile devices. The world's largest online music service. Listen online, find out more about your favourite artists, and get music recommendations, only at Last
 
 ##  🔗 Links
 **Docs / Website**: https://www.last.fm/api
@@ -12,7 +12,7 @@ fm. Allows anyone to build their own programs using Last. fm data, whether they&
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is LastFm free?
+## 🆓 Is "LastFm" free?
  Unknown/No 
 
 ## 💬 LastFm Discussion:

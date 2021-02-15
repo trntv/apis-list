@@ -1,5 +1,5 @@
 # Gravatar
-Use the links below to find out more about constructing request URLs, different imp. Create profiles and avatars using this web service. Developer Resources Gravatar &#x27;APIs&#x27; require no authentication, and are all based around simple HTTP GET requests
+Use the links below to find out more about constructing request URLs, different imp. Create profiles and avatars using this web service. Developer Resources Gravatar 'APIs' require no authentication, and are all based around simple HTTP GET requests
 
 ##  🔗 Links
 **Docs / Website**: https://en.gravatar.com/site/implement/
@@ -9,7 +9,7 @@ Use the links below to find out more about constructing request URLs, different 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Gravatar free?
+## 🆓 Is "Gravatar" free?
  Unknown/No 
 
 ## 💬 Gravatar Discussion:

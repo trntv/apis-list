@@ -9,7 +9,7 @@ API to query zip codes and orders in an easy, fast and free way.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Postmon free?
+## 🆓 Is "Postmon" free?
  Unknown/No 
 
 ## 💬 Postmon Discussion:

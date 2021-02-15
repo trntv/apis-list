@@ -1,5 +1,5 @@
 # Bitcoincharts
-You can use this API to include markets data in your websites, mobile apps or desktop applets. Bitcoincharts is the world&#x27;s leading provider for financial and technical data related to the Bitcoin network. It provides news, markets, price charts and more
+You can use this API to include markets data in your websites, mobile apps or desktop applets. Bitcoincharts is the world's leading provider for financial and technical data related to the Bitcoin network. It provides news, markets, price charts and more
 
 ##  🔗 Links
 **Docs / Website**: https://bitcoincharts.com/about/markets-api/
@@ -9,7 +9,7 @@ You can use this API to include markets data in your websites, mobile apps or de
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Bitcoincharts free?
+## 🆓 Is "Bitcoincharts" free?
  Unknown/No 
 
 ## 💬 Bitcoincharts Discussion:

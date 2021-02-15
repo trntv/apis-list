@@ -12,7 +12,7 @@ MyAnimeList.net official API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is MyAnimeList free?
+## 🆓 Is "MyAnimeList" free?
  Unknown/No 
 
 ## 💬 MyAnimeList Discussion:

@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/nppes/logo_256x256.png" alt="NPPES Logo"/>
 </p>
-National Plan &amp; Provider Enumeration System, info on healthcare providers registered in US
+National Plan & Provider Enumeration System, info on healthcare providers registered in US
 
 ##  🔗 Links
 **Docs / Website**: https://npiregistry.cms.hhs.gov/registry/help-api
@@ -12,7 +12,7 @@ National Plan &amp; Provider Enumeration System, info on healthcare providers re
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is NPPES free?
+## 🆓 Is "NPPES" free?
  Unknown/No 
 
 ## 💬 NPPES Discussion:

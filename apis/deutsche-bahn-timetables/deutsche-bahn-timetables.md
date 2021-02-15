@@ -1,5 +1,5 @@
 # Deutsche Bahn Timetables
-A RESTful web service for timetable information for train stations operated by DB Station&amp;Service AG.
+A RESTful web service for timetable information for train stations operated by DB Station&Service AG.
 
 ##  🔗 Links
 **Docs / Website**: https://api.deutschebahn.com/timetables/v1
@@ -9,7 +9,7 @@ A RESTful web service for timetable information for train stations operated by D
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Deutsche Bahn Timetables free?
+## 🆓 Is "Deutsche Bahn Timetables" free?
  Unknown/No 
 
 ## 💬 Deutsche Bahn Timetables Discussion:

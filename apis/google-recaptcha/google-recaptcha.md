@@ -12,7 +12,7 @@ ReCAPTCHA lets you embed a CAPTCHA in your web pages in order to protect them ag
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Google reCAPTCHA free?
+## 🆓 Is "Google reCAPTCHA" free?
  Unknown/No 
 
 ## 💬 Google reCAPTCHA Discussion:

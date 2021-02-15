@@ -9,7 +9,7 @@ Access database of artists, labels, releases, marketplace and more. Here’s you
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Discogs free?
+## 🆓 Is "Discogs" free?
  Unknown/No 
 
 ## 💬 Discogs Discussion:

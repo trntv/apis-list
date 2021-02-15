@@ -12,7 +12,7 @@ Deck of Cards - an API for playing cards
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Deck of Cards free?
+## 🆓 Is "Deck of Cards" free?
  Unknown/No 
 
 ## 💬 Deck of Cards Discussion:

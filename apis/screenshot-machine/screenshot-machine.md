@@ -9,7 +9,7 @@ Free screenshot api for capturing web pages. Let our website screenshot generato
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Screenshot Machine free?
+## 🆓 Is "Screenshot Machine" free?
  Unknown/No 
 
 ## 💬 Screenshot Machine Discussion:

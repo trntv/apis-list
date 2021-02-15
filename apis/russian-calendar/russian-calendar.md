@@ -12,7 +12,7 @@ Work calendar service. Contribute to egno/work-calendar development by creating 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Russian Calendar free?
+## 🆓 Is "Russian Calendar" free?
  Unknown/No 
 
 ## 💬 Russian Calendar Discussion:

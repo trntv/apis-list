@@ -12,7 +12,7 @@ Worlds largest library of GIFs
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Giphy free?
+## 🆓 Is "Giphy" free?
  Unknown/No 
 
 ## 💬 Giphy Discussion:

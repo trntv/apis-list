@@ -1,5 +1,5 @@
 # Stripe
-Stripe&#x27;s API. Payments, Billing, Business financing, Spend management, Fraud &amp; risk management etc
+Stripe's API. Payments, Billing, Business financing, Spend management, Fraud & risk management etc
 
 ##  🔗 Links
 **Docs / Website**: https://stripe.com/docs/api
@@ -9,7 +9,7 @@ Stripe&#x27;s API. Payments, Billing, Business financing, Spend management, Frau
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Stripe free?
+## 🆓 Is "Stripe" free?
  Unknown/No 
 
 ## 💬 Stripe Discussion:

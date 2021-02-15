@@ -9,7 +9,7 @@ Liturgical Calendar API. Browse the calendar on-line. The API provides access to
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Church Calendar free?
+## 🆓 Is "Church Calendar" free?
  Unknown/No 
 
 ## 💬 Church Calendar Discussion:

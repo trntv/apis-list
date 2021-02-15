@@ -1,5 +1,5 @@
 # BitcoinAverage
-The world&#x27;s best and longest running Cryptocurrency price API provider. These APIs can be used to gather real-time, OHLC, volume and historical price
+The world's best and longest running Cryptocurrency price API provider. These APIs can be used to gather real-time, OHLC, volume and historical price
 
 ##  🔗 Links
 **Docs / Website**: https://apiv2.bitcoinaverage.com/
@@ -9,7 +9,7 @@ The world&#x27;s best and longest running Cryptocurrency price API provider. The
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is BitcoinAverage free?
+## 🆓 Is "BitcoinAverage" free?
  Unknown/No 
 
 ## 💬 BitcoinAverage Discussion:

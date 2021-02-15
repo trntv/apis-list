@@ -12,7 +12,7 @@ Find groups that host online or in person events and meet people in your local c
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Meetup.com free?
+## 🆓 Is "Meetup.com" free?
  Unknown/No 
 
 ## 💬 Meetup.com Discussion:

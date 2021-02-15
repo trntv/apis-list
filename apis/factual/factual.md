@@ -9,7 +9,7 @@ Provids a places search that can be searched by latitude/longitude, and “where
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Factual free?
+## 🆓 Is "Factual" free?
  Unknown/No 
 
 ## 💬 Factual Discussion:

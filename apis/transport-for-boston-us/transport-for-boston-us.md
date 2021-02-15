@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/transport-for-boston-us/logo_256x256.png" alt="Transportation in Boston, USA Logo"/>
 </p>
-Official website of the MBTA -- schedules, maps, and fare information for Greater Boston&#x27;s public transportation system, including subway, commuter rail, bus routes, and boat lines
+Official website of the MBTA -- schedules, maps, and fare information for Greater Boston's public transportation system, including subway, commuter rail, bus routes, and boat lines
 
 ##  🔗 Links
 **Docs / Website**: https://mbta.com/developers/v3-api
@@ -12,7 +12,7 @@ Official website of the MBTA -- schedules, maps, and fare information for Greate
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Transportation in Boston, USA free?
+## 🆓 Is "Transportation in Boston, USA" free?
  Yes! 
 
 ## 💬 Transportation in Boston, USA Discussion:

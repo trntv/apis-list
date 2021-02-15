@@ -12,7 +12,7 @@ Use a set of easy-to-use class and method libraries to build interactive B2B and
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Nokia free?
+## 🆓 Is "Nokia" free?
  Unknown/No 
 
 ## 💬 Nokia Discussion:

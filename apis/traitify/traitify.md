@@ -1,5 +1,5 @@
 # Traitify
-A diverse set of fun visual assessments used to uncover personality types and traits. Your users simply select &quot;Me&quot; or &quot;Not Me&quot; to a brief series of images and voila! Instant, actionable data.
+A diverse set of fun visual assessments used to uncover personality types and traits. Your users simply select "Me" or "Not Me" to a brief series of images and voila! Instant, actionable data.
 
 With this psychology-backed data in hand, the possibilities are endless - any way that personalization can help you is now within reach. Potential uses include:
 - Applicant Fit Score
@@ -22,7 +22,7 @@ With this psychology-backed data in hand, the possibilities are endless - any wa
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Traitify free?
+## 🆓 Is "Traitify" free?
  Unknown/No 
 
 ## 💬 Traitify Discussion:

@@ -9,7 +9,7 @@ Free currency exchange rates and currency conversion. Exchange rate API to conve
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is ratesapi.io free?
+## 🆓 Is "ratesapi.io" free?
  Yes! 
 
 ## 💬 ratesapi.io Discussion:

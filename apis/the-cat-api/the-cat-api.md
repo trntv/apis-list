@@ -12,7 +12,7 @@ A public service API all about cat pictures. A public service API all about Cats
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is The Cat Api free?
+## 🆓 Is "The Cat Api" free?
  Unknown/No 
 
 ## 💬 The Cat Api Discussion:

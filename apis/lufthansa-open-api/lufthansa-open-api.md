@@ -1,5 +1,5 @@
 # Lufthansa Open API
-Lufthansa Developer Network. Use the data of Europe&#x27;s biggest airline group! Fight status,inflight amenities, partner program
+Lufthansa Developer Network. Use the data of Europe's biggest airline group! Fight status,inflight amenities, partner program
 
 ##  🔗 Links
 **Docs / Website**: https://developer.lufthansa.com/
@@ -9,7 +9,7 @@ Lufthansa Developer Network. Use the data of Europe&#x27;s biggest airline group
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Lufthansa Open API free?
+## 🆓 Is "Lufthansa Open API" free?
  Unknown/No 
 
 ## 💬 Lufthansa Open API Discussion:

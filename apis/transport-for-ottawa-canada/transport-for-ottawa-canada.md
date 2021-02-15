@@ -12,7 +12,7 @@ OC Transpo next bus arrival API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Transportation in Ottawa, Canada free?
+## 🆓 Is "Transportation in Ottawa, Canada" free?
  Yes! 
 
 ## 💬 Transportation in Ottawa, Canada Discussion:

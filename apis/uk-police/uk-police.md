@@ -9,7 +9,7 @@ Police API Documentation The API provides a rich data source for information, in
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is UK Police free?
+## 🆓 Is "UK Police" free?
  Unknown/No 
 
 ## 💬 UK Police Discussion:

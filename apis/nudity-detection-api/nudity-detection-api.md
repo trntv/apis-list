@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/nudity-detection-api/logo_256x256.png" alt="Nudity Detection Api Logo"/>
 </p>
-io detects nudity in images and helps to recognise and filter undesired content. uploadfilter. io offers you a powerful &amp; realtime JSON REST API that detects nudity in images and helps you to moderate user generated content
+io detects nudity in images and helps to recognise and filter undesired content. uploadfilter. io offers you a powerful & realtime JSON REST API that detects nudity in images and helps you to moderate user generated content
 
 ##  🔗 Links
 **Docs / Website**: https://uploadfilter.io
@@ -12,7 +12,7 @@ io detects nudity in images and helps to recognise and filter undesired content.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Nudity Detection Api free?
+## 🆓 Is "Nudity Detection Api" free?
  Unknown/No 
 
 ## 💬 Nudity Detection Api Discussion:

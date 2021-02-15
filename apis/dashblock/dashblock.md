@@ -12,7 +12,7 @@ The easiest way to access websites programmatically and collect structured data.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Dashblock free?
+## 🆓 Is "Dashblock" free?
  Unknown/No 
 
 ## 💬 Dashblock Discussion:

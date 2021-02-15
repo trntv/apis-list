@@ -9,7 +9,7 @@ Aggregated info about space launches.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is LaunchLibrary free?
+## 🆓 Is "LaunchLibrary" free?
  Unknown/No 
 
 ## 💬 LaunchLibrary Discussion:

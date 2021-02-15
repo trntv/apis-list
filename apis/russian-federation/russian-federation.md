@@ -12,7 +12,7 @@ Central bank of Russian Federation
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Russian Central Bank free?
+## 🆓 Is "Russian Central Bank" free?
  Unknown/No 
 
 ## 💬 Russian Central Bank Discussion:

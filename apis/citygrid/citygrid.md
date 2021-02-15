@@ -9,7 +9,7 @@ Enables developers to create web and mobile applications that find local busines
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is CityGrid free?
+## 🆓 Is "CityGrid" free?
  Unknown/No 
 
 ## 💬 CityGrid Discussion:

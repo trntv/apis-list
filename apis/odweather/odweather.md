@@ -9,7 +9,7 @@ Weather for boating
 **URI**: https://api.oceandrivers.com/static/resources.json  
 **Version**: https://api.oceandrivers.com/static/resources.json
 
-## 🆓 Is ODWeather free?
+## 🆓 Is "ODWeather" free?
  Unknown/No 
 
 ## 💬 ODWeather Discussion:

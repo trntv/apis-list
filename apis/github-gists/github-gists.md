@@ -1,5 +1,5 @@
 # GitHub Gists
-For more information. Access to GitHub’s Gists API. You can read public gists anonymously, but you must be signed into GitHub to create gists. To read or write gists on a user&#x27;s behalf, you need the gist OAuth scope and a token
+For more information. Access to GitHub’s Gists API. You can read public gists anonymously, but you must be signed into GitHub to create gists. To read or write gists on a user's behalf, you need the gist OAuth scope and a token
 
 ##  🔗 Links
 **Docs / Website**: https://developer.github.com/v3/gists/
@@ -9,7 +9,7 @@ For more information. Access to GitHub’s Gists API. You can read public gists 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is GitHub Gists free?
+## 🆓 Is "GitHub Gists" free?
  Unknown/No 
 
 ## 💬 GitHub Gists Discussion:

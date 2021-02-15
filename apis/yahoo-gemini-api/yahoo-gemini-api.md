@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/yahoo-gemini-api/logo_256x256.png" alt="Yahoo Gemini API Logo"/>
 </p>
-Developer tools and the support you need to leverage Verizon Media&#x27;s powerful data and advertising solutions. Allows advertisers to manage complex Gemini accounts and campaigns more efficiently
+Developer tools and the support you need to leverage Verizon Media's powerful data and advertising solutions. Allows advertisers to manage complex Gemini accounts and campaigns more efficiently
 
 ##  🔗 Links
 **Docs / Website**: https://developer.yahoo.com/gemini/
@@ -12,7 +12,7 @@ Developer tools and the support you need to leverage Verizon Media&#x27;s powerf
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Yahoo Gemini API free?
+## 🆓 Is "Yahoo Gemini API" free?
  Unknown/No 
 
 ## 💬 Yahoo Gemini API Discussion:

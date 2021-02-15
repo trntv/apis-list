@@ -12,7 +12,7 @@ League of Legends Wallpapers website official API. This is a lightweight public 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Lolwallpapers Api free?
+## 🆓 Is "Lolwallpapers Api" free?
  Unknown/No 
 
 ## 💬 Lolwallpapers Api Discussion:

@@ -9,7 +9,7 @@ The purpose of APIs.is is to make Iceland data readily available to anyone inter
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Icelandic APIs free?
+## 🆓 Is "Icelandic APIs" free?
  Unknown/No 
 
 ## 💬 Icelandic APIs Discussion:

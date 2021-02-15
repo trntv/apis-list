@@ -9,7 +9,7 @@ The open API for building cool stuff with transport data
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Navitia free?
+## 🆓 Is "Navitia" free?
  Unknown/No 
 
 ## 💬 Navitia Discussion:

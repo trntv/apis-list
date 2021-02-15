@@ -9,7 +9,7 @@ Sample XML response Sample JSON response
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Penguin Publishing free?
+## 🆓 Is "Penguin Publishing" free?
  Unknown/No 
 
 ## 💬 Penguin Publishing Discussion:

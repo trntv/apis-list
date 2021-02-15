@@ -1,6 +1,6 @@
 # Woopra
 End-to-end Customer Journey Analytics
-No hours sank into aggregating and cleaning data. No complex SQL queries required. Just the answers teams need to make smarter decisions, fast. Now, that&#x27;s data-driven.
+No hours sank into aggregating and cleaning data. No complex SQL queries required. Just the answers teams need to make smarter decisions, fast. Now, that's data-driven.
 
 ##  🔗 Links
 **Docs / Website**: https://www.woopra.com/docs/developer/analytics-api/
@@ -10,7 +10,7 @@ No hours sank into aggregating and cleaning data. No complex SQL queries require
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Woopra free?
+## 🆓 Is "Woopra" free?
  Unknown/No 
 
 ## 💬 Woopra Discussion:

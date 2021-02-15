@@ -12,7 +12,7 @@ Daily cat facts! 🐱
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Cat Facts free?
+## 🆓 Is "Cat Facts" free?
  Unknown/No 
 
 ## 💬 Cat Facts Discussion:

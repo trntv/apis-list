@@ -1,5 +1,5 @@
 # Spoonacular Food API
-The only Food API you&#x27;ll ever need. Spoonacular offers its food parsing, matching, and searching technology for businesses and developers to create outstanding applications. They automatically analyze recipes to check for ingredients that contain common allergens, such as wheat, dairy, eggs, soy, nuts, etc.
+The only Food API you'll ever need. Spoonacular offers its food parsing, matching, and searching technology for businesses and developers to create outstanding applications. They automatically analyze recipes to check for ingredients that contain common allergens, such as wheat, dairy, eggs, soy, nuts, etc.
 
 ##  🔗 Links
 **Docs / Website**: https://spoonacular.com/food-api
@@ -9,7 +9,7 @@ The only Food API you&#x27;ll ever need. Spoonacular offers its food parsing, ma
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Spoonacular Food API free?
+## 🆓 Is "Spoonacular Food API" free?
  Unknown/No 
 
 ## 💬 Spoonacular Food API Discussion:

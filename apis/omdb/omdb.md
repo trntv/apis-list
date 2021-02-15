@@ -9,7 +9,7 @@ The Open Movie Database. The OMDb API is a RESTful web service to obtain movie i
 **URI**: http://www.omdbapi.com/swagger.json  
 **Version**: http://www.omdbapi.com/swagger.json
 
-## 🆓 Is OMDB free?
+## 🆓 Is "OMDB" free?
  Unknown/No 
 
 ## 💬 OMDB Discussion:

@@ -9,7 +9,7 @@ The PWRTelegram MTProto API. Boosted version of the Telegram bot API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Pwrtelegram Bot free?
+## 🆓 Is "Pwrtelegram Bot" free?
  Unknown/No 
 
 ## 💬 Pwrtelegram Bot Discussion:

@@ -9,7 +9,7 @@ This API allows you to query our NFL, NBA and Crypto Exchange data. NFL and NBA 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is SuredBits free?
+## 🆓 Is "SuredBits" free?
  Unknown/No 
 
 ## 💬 SuredBits Discussion:

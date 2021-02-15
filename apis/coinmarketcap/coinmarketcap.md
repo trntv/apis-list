@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/coinmarketcap/logo_256x256.png" alt="CoinMarketCap Logo"/>
 </p>
-Cryptocurrencies Prices. Use CoinMarketCap&#x27;s free crypto API to get the best, most accurate real-time, historical cryptocurrency and exchange trade data for Bitcoin, Ethereum and more
+Cryptocurrencies Prices. Use CoinMarketCap's free crypto API to get the best, most accurate real-time, historical cryptocurrency and exchange trade data for Bitcoin, Ethereum and more
 
 ##  🔗 Links
 **Docs / Website**: https://coinmarketcap.com/api/
@@ -12,7 +12,7 @@ Cryptocurrencies Prices. Use CoinMarketCap&#x27;s free crypto API to get the bes
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is CoinMarketCap free?
+## 🆓 Is "CoinMarketCap" free?
  Unknown/No 
 
 ## 💬 CoinMarketCap Discussion:

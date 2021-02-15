@@ -9,7 +9,7 @@ The BART API gives you access to pretty much all of the BART service and station
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Bay Area Rapid Transit free?
+## 🆓 Is "Bay Area Rapid Transit" free?
  Unknown/No 
 
 ## 💬 Bay Area Rapid Transit Discussion:

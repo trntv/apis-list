@@ -12,7 +12,7 @@ Our document verification and facial biometrics technology lets your users verif
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Onfido free?
+## 🆓 Is "Onfido" free?
  Unknown/No 
 
 ## 💬 Onfido Discussion:

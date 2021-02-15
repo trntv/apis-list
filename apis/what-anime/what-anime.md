@@ -9,7 +9,7 @@ trace.moe is a test-of-concept prototype search engine that helps users trace ba
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is What Anime free?
+## 🆓 Is "What Anime" free?
  Unknown/No 
 
 ## 💬 What Anime Discussion:

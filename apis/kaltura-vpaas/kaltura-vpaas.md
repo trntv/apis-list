@@ -12,7 +12,7 @@ Build video apps and add native video capabilities to your products. Kaltura VPa
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Kaltura VPaaS free?
+## 🆓 Is "Kaltura VPaaS" free?
  Unknown/No 
 
 ## 💬 Kaltura VPaaS Discussion:

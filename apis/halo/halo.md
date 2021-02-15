@@ -1,5 +1,5 @@
 # Halo
-Halo Public API. With this API you’ll be able to craft your own experiences using the same APIs Halo&#x27;s team uses to build the game.
+Halo Public API. With this API you’ll be able to craft your own experiences using the same APIs Halo's team uses to build the game.
 
 ##  🔗 Links
 **Docs / Website**: https://developer.haloapi.com/
@@ -9,7 +9,7 @@ Halo Public API. With this API you’ll be able to craft your own experiences us
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Halo free?
+## 🆓 Is "Halo" free?
  Unknown/No 
 
 ## 💬 Halo Discussion:

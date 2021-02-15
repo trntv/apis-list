@@ -9,7 +9,7 @@ Using the SoundCloud API, you can build applications that take sound on the web 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is SoundCloud free?
+## 🆓 Is "SoundCloud" free?
  Unknown/No 
 
 ## 💬 SoundCloud Discussion:

@@ -9,7 +9,7 @@ ParallelDots AI APIs are the most comprehensive set of document classification a
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is ParallelDots free?
+## 🆓 Is "ParallelDots" free?
  Unknown/No 
 
 ## 💬 ParallelDots Discussion:

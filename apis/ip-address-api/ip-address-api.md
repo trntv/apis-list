@@ -12,7 +12,7 @@ IP Address API free service provides country name, 2 symbol code and 3 symbol co
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Ip Address Api free?
+## 🆓 Is "Ip Address Api" free?
  Unknown/No 
 
 ## 💬 Ip Address Api Discussion:

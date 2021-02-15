@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/alienvault-open-threat-exchange-otx/logo_256x256.png" alt="AlienVault Open Threat Exchange (OTX) Logo"/>
 </p>
-Share and collaborate in developing threat intelligence. Protect yourself and the community against today&#x27;s latest threats. Learn about the latest online threats
+Share and collaborate in developing threat intelligence. Protect yourself and the community against today's latest threats. Learn about the latest online threats
 
 ##  🔗 Links
 **Docs / Website**: https://otx.alienvault.com/api
@@ -12,7 +12,7 @@ Share and collaborate in developing threat intelligence. Protect yourself and th
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is AlienVault Open Threat Exchange (OTX) free?
+## 🆓 Is "AlienVault Open Threat Exchange (OTX)" free?
  Unknown/No 
 
 ## 💬 AlienVault Open Threat Exchange (OTX) Discussion:

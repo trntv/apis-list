@@ -1,5 +1,5 @@
 # Shodan
-Shodan API, the easiest way to access the Shodan search engine on your own terms. Shodan is the world&#x27;s first search engine for Internet-connected devices.
+Shodan API, the easiest way to access the Shodan search engine on your own terms. Shodan is the world's first search engine for Internet-connected devices.
 
 ##  🔗 Links
 **Docs / Website**: https://developer.shodan.io/
@@ -9,7 +9,7 @@ Shodan API, the easiest way to access the Shodan search engine on your own terms
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Shodan free?
+## 🆓 Is "Shodan" free?
  Unknown/No 
 
 ## 💬 Shodan Discussion:

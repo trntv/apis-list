@@ -9,7 +9,7 @@
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Trivia Api free?
+## 🆓 Is "Trivia Api" free?
  Unknown/No 
 
 ## 💬 Trivia Api Discussion:

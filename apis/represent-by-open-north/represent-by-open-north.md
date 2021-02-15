@@ -12,7 +12,7 @@ Find the elected officials and electoral districts for any Canadian address or p
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Represent by Open North free?
+## 🆓 Is "Represent by Open North" free?
  Unknown/No 
 
 ## 💬 Represent by Open North Discussion:

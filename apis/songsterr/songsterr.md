@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/songsterr/logo_256x256.png" alt="Songsterr Logo"/>
 </p>
-One accurate tab per song. Huge selection of 500,000 tabs. Guitar, bass and drum tabs &amp; chords with free online tab player.
+One accurate tab per song. Huge selection of 500,000 tabs. Guitar, bass and drum tabs & chords with free online tab player.
 
 ##  🔗 Links
 **Docs / Website**: https://www.songsterr.com/a/wa/api/
@@ -12,7 +12,7 @@ One accurate tab per song. Huge selection of 500,000 tabs. Guitar, bass and drum
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Songsterr free?
+## 🆓 Is "Songsterr" free?
  Unknown/No 
 
 ## 💬 Songsterr Discussion:

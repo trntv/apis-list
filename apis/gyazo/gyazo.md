@@ -12,7 +12,7 @@ Take screenshots, GIFS, and replays that are ready to share. The Gyazo API can b
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Gyazo free?
+## 🆓 Is "Gyazo" free?
  Unknown/No 
 
 ## 💬 Gyazo Discussion:

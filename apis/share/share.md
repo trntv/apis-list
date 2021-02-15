@@ -9,7 +9,7 @@ SHARE is a higher education initiative whose mission is to maximize research imp
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is SHARE free?
+## 🆓 Is "SHARE" free?
  Unknown/No 
 
 ## 💬 SHARE Discussion:

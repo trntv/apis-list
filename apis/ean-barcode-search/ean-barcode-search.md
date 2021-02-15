@@ -9,7 +9,7 @@ EAN Barcode API Integrate our database into your app or website! Easily query ou
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is EAN Barcode Search free?
+## 🆓 Is "EAN Barcode Search" free?
  Unknown/No 
 
 ## 💬 EAN Barcode Search Discussion:

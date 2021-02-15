@@ -12,7 +12,7 @@ Find live music near you, track your favorite artists, get instant concert alert
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Songkick free?
+## 🆓 Is "Songkick" free?
  Unknown/No 
 
 ## 💬 Songkick Discussion:

@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/gitlab/logo_256x256.png" alt="GitLab Logo"/>
 </p>
-Access to GitLab&#x27;s API. Documentation for GitLab Community Edition, GitLab Enterprise Edition, Omnibus GitLab, and GitLab Runner
+Access to GitLab's API. Documentation for GitLab Community Edition, GitLab Enterprise Edition, Omnibus GitLab, and GitLab Runner
 
 ##  🔗 Links
 **Docs / Website**: https://docs.gitlab.com/ce/api/README.html
@@ -12,7 +12,7 @@ Access to GitLab&#x27;s API. Documentation for GitLab Community Edition, GitLab 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is GitLab free?
+## 🆓 Is "GitLab" free?
  Unknown/No 
 
 ## 💬 GitLab Discussion:

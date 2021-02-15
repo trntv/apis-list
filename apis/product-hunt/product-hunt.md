@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/product-hunt/logo_256x256.png" alt="Product Hunt Logo"/>
 </p>
-The best new products, every day. Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone&#x27;s talking about
+The best new products, every day. Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and technology products that everyone's talking about
 
 ##  🔗 Links
 **Docs / Website**: https://api.producthunt.com/v2/docs
@@ -12,7 +12,7 @@ The best new products, every day. Product Hunt is a curation of the best new pro
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Product Hunt free?
+## 🆓 Is "Product Hunt" free?
  Unknown/No 
 
 ## 💬 Product Hunt Discussion:

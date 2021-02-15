@@ -9,7 +9,7 @@ Trefle is a botanical API and data source
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Trefle free?
+## 🆓 Is "Trefle" free?
  Unknown/No 
 
 ## 💬 Trefle Discussion:

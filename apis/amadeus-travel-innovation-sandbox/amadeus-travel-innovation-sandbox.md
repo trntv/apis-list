@@ -9,7 +9,7 @@ Discover Amadeus travel APIs and connect to the flight search, flight booking, h
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Amadeus Travel Innovation Sandbox free?
+## 🆓 Is "Amadeus Travel Innovation Sandbox" free?
  Unknown/No 
 
 ## 💬 Amadeus Travel Innovation Sandbox Discussion:

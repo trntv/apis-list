@@ -9,7 +9,7 @@ A-to-B routing with turn-by-turn instructions
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is GraphHopper free?
+## 🆓 Is "GraphHopper" free?
  Unknown/No 
 
 ## 💬 GraphHopper Discussion:

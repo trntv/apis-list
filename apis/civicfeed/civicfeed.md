@@ -12,7 +12,7 @@ Get online news, blogs, social and TV/radio through a JSON API - easy integratio
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is CivicFeed free?
+## 🆓 Is "CivicFeed" free?
  Unknown/No 
 
 ## 💬 CivicFeed Discussion:

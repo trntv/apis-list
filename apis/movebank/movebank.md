@@ -12,7 +12,7 @@ Movebank is a free, online database and research platform for animal tracking an
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Movebank free?
+## 🆓 Is "Movebank" free?
  Yes! 
 
 ## 💬 Movebank Discussion:

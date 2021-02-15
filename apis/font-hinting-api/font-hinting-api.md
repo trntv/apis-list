@@ -9,7 +9,7 @@ Fonts API - Subscription. Font hinting REST API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Font Hinting Api free?
+## 🆓 Is "Font Hinting Api" free?
  Unknown/No 
 
 ## 💬 Font Hinting Api Discussion:

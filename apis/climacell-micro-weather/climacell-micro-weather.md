@@ -12,7 +12,7 @@ Historical, real-time and nowcast weather data.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Climacell Micro Weather free?
+## 🆓 Is "Climacell Micro Weather" free?
  Unknown/No 
 
 ## 💬 Climacell Micro Weather Discussion:

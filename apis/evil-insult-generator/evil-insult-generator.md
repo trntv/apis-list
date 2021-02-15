@@ -9,7 +9,7 @@ The following parameters are optional lang - The language of the insult you want
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Evil Insult Generator free?
+## 🆓 Is "Evil Insult Generator" free?
  Unknown/No 
 
 ## 💬 Evil Insult Generator Discussion:

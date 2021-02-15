@@ -12,7 +12,7 @@ Financial services consumer complaint data
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Consumer Financial Protection Bureau free?
+## 🆓 Is "Consumer Financial Protection Bureau" free?
  Unknown/No 
 
 ## 💬 Consumer Financial Protection Bureau Discussion:

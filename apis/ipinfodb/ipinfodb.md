@@ -12,7 +12,7 @@ Free Geolocation tools and APIs for country, region, city and time zone lookup b
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is IPInfoDB free?
+## 🆓 Is "IPInfoDB" free?
  Unknown/No 
 
 ## 💬 IPInfoDB Discussion:

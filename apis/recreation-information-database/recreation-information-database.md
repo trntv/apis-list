@@ -1,5 +1,5 @@
 # Recreation Information Database
-Recreation.gov is your source for discovering and experiencing America&#x27;s federal recreation activities and outdoor adventures
+Recreation.gov is your source for discovering and experiencing America's federal recreation activities and outdoor adventures
 
 ##  🔗 Links
 **Docs / Website**: https://ridb.recreation.gov/
@@ -9,7 +9,7 @@ Recreation.gov is your source for discovering and experiencing America&#x27;s fe
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Recreation Information Database free?
+## 🆓 Is "Recreation Information Database" free?
  Unknown/No 
 
 ## 💬 Recreation Information Database Discussion:

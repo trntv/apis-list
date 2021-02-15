@@ -9,7 +9,7 @@ Easily detect possible bad users and act upon them. Simple and free to use IP lo
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Iplegit.Com free?
+## 🆓 Is "Iplegit.Com" free?
  Unknown/No 
 
 ## 💬 Iplegit.Com Discussion:

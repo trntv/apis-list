@@ -9,7 +9,7 @@ Share the notes with everyone you want.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Notepad Api - Simplenotes free?
+## 🆓 Is "Notepad Api - Simplenotes" free?
  Unknown/No 
 
 ## 💬 Notepad Api - Simplenotes Discussion:

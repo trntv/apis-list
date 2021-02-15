@@ -9,7 +9,7 @@ General knowledge on every topic; query it all with natural language input. Easi
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Wolfram|Alpha free?
+## 🆓 Is "Wolfram|Alpha" free?
  Unknown/No 
 
 ## 💬 Wolfram|Alpha Discussion:

@@ -1,5 +1,5 @@
 # Tronald Dump
-Tronald Dump Api &amp; web archive for the dumbest things Donald Trump has ever said
+Tronald Dump Api & web archive for the dumbest things Donald Trump has ever said
 
 ##  🔗 Links
 **Docs / Website**: https://www.tronalddump.io/
@@ -9,7 +9,7 @@ Tronald Dump Api &amp; web archive for the dumbest things Donald Trump has ever 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Tronald Dump free?
+## 🆓 Is "Tronald Dump" free?
  Unknown/No 
 
 ## 💬 Tronald Dump Discussion:

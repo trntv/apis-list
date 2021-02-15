@@ -9,7 +9,7 @@ Font subsetting REST API. Fonts API - Subscription
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Font Subsetting Api free?
+## 🆓 Is "Font Subsetting Api" free?
  Unknown/No 
 
 ## 💬 Font Subsetting Api Discussion:

@@ -12,7 +12,7 @@ Apiary provides the leading API-First platform designed specifically to help com
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Apiary free?
+## 🆓 Is "Apiary" free?
  Unknown/No 
 
 ## 💬 Apiary Discussion:

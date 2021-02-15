@@ -12,7 +12,7 @@ Allows companies to conduct commerce with Best Buy services within their own e-c
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Best Buy Commerce API free?
+## 🆓 Is "Best Buy Commerce API" free?
  Unknown/No 
 
 ## 💬 Best Buy Commerce API Discussion:

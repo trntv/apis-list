@@ -12,7 +12,7 @@ Dive into Colorado’s water, including wells, surface water conditions, and wat
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Colorado Information Marketplace free?
+## 🆓 Is "Colorado Information Marketplace" free?
  Unknown/No 
 
 ## 💬 Colorado Information Marketplace Discussion:

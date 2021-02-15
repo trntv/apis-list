@@ -9,7 +9,7 @@ Describes the iTunes Search API used to place search fields in a website. The Se
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is iTunes Search free?
+## 🆓 Is "iTunes Search" free?
  Unknown/No 
 
 ## 💬 iTunes Search Discussion:

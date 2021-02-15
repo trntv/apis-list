@@ -12,7 +12,7 @@ Open Library is an open, editable library catalog, building towards a web page f
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Open Library free?
+## 🆓 Is "Open Library" free?
  Unknown/No 
 
 ## 💬 Open Library Discussion:

@@ -9,7 +9,7 @@
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Pearson Dictionaries API free?
+## 🆓 Is "Pearson Dictionaries API" free?
  Unknown/No 
 
 ## 💬 Pearson Dictionaries API Discussion:

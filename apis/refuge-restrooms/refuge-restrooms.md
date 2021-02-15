@@ -9,7 +9,7 @@ Refuge Restrooms
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is REFUGE Restrooms free?
+## 🆓 Is "REFUGE Restrooms" free?
  Unknown/No 
 
 ## 💬 REFUGE Restrooms Discussion:

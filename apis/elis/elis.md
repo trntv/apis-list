@@ -12,7 +12,7 @@ Automate data extraction from your documents with Artificial Intelligence
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Elis free?
+## 🆓 Is "Elis" free?
  Unknown/No 
 
 ## 💬 Elis Discussion:

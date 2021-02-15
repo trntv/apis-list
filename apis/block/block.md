@@ -12,7 +12,7 @@ The most versatile and secure wallet for all your coins
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Block free?
+## 🆓 Is "Block" free?
  Unknown/No 
 
 ## 💬 Block Discussion:

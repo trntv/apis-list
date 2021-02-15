@@ -12,7 +12,7 @@ Free tool with a wide range of capabilities for visualizing data from a website.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Google Charts free?
+## 🆓 Is "Google Charts" free?
  Unknown/No 
 
 ## 💬 Google Charts Discussion:

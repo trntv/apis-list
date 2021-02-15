@@ -1,5 +1,5 @@
 # ExchangeRate-API.com
-Accurate &amp; reliable Exchange Rates API trusted by tens of thousands of developers since 2010. Free access, all world currencies, helpful support &amp;amp; easy to integrate JSON API
+Accurate & reliable Exchange Rates API trusted by tens of thousands of developers since 2010. Free access, all world currencies, helpful support &amp; easy to integrate JSON API
 
 ##  🔗 Links
 **Docs / Website**: https://www.exchangerate-api.com/docs/overview
@@ -9,7 +9,7 @@ Accurate &amp; reliable Exchange Rates API trusted by tens of thousands of devel
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is ExchangeRate-API.com free?
+## 🆓 Is "ExchangeRate-API.com" free?
  Yes! 
 
 ## 💬 ExchangeRate-API.com Discussion:

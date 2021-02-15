@@ -9,7 +9,7 @@ AISHub members have access to AISHub aggregated AIS data via this API and receiv
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is AIS Hub free?
+## 🆓 Is "AIS Hub" free?
  Unknown/No 
 
 ## 💬 AIS Hub Discussion:

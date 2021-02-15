@@ -10,7 +10,7 @@ Currency exchange rates and gold prices in the XML and JSON formats.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Poland free?
+## 🆓 Is "Poland" free?
  Unknown/No 
 
 ## 💬 Poland Discussion:

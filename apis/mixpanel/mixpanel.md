@@ -1,5 +1,5 @@
 # MixPanel
-Maintains a custom datastore that queries your data in a fast, scalable, and reliable manner. On top of that datastore is user-friendly web application which lets you visualize the data you have sent. Analytics for mobile and web which helps you analyze the actions people take in your application. Mixpanel was built to give you an answer about your product&#x27;s usage
+Maintains a custom datastore that queries your data in a fast, scalable, and reliable manner. On top of that datastore is user-friendly web application which lets you visualize the data you have sent. Analytics for mobile and web which helps you analyze the actions people take in your application. Mixpanel was built to give you an answer about your product's usage
 
 ##  🔗 Links
 **Docs / Website**: https://developer.mixpanel.com/docs/implement-mixpanel
@@ -9,7 +9,7 @@ Maintains a custom datastore that queries your data in a fast, scalable, and rel
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is MixPanel free?
+## 🆓 Is "MixPanel" free?
  Unknown/No 
 
 ## 💬 MixPanel Discussion:

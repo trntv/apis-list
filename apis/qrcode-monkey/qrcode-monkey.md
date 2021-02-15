@@ -12,7 +12,7 @@ Create thousands of QR codes with design and logo automatically. Integrate custo
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Qrcode Monkey free?
+## 🆓 Is "Qrcode Monkey" free?
  Unknown/No 
 
 ## 💬 Qrcode Monkey Discussion:

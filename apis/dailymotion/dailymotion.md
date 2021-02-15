@@ -12,7 +12,7 @@ Build applications centered around DailyMotion. Explore Dailymotion API document
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Dailymotion free?
+## 🆓 Is "Dailymotion" free?
  Unknown/No 
 
 ## 💬 Dailymotion Discussion:

@@ -9,7 +9,7 @@ Ultimate Fighting Championship information for events and fighters
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Ufc Data free?
+## 🆓 Is "Ufc Data" free?
  Unknown/No 
 
 ## 💬 Ufc Data Discussion:

@@ -9,7 +9,7 @@ The Mapbox Matrix API returns travel times between many points
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Mapbox Matrix API free?
+## 🆓 Is "Mapbox Matrix API" free?
  Unknown/No 
 
 ## 💬 Mapbox Matrix API Discussion:

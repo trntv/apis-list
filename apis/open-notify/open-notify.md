@@ -9,7 +9,7 @@ API Examples Current ISS Location The International Space Station is moving at c
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Open Notify free?
+## 🆓 Is "Open Notify" free?
  Unknown/No 
 
 ## 💬 Open Notify Discussion:

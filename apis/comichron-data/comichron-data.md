@@ -12,7 +12,7 @@ com - comichron-data/api. JSON API for monthly sales data from comichron
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Comichron Data free?
+## 🆓 Is "Comichron Data" free?
  Unknown/No 
 
 ## 💬 Comichron Data Discussion:

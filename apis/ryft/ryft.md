@@ -12,7 +12,7 @@ Integrate the Ryft ONE’s data analysis capabilities into existing big data env
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Ryft free?
+## 🆓 Is "Ryft" free?
  Unknown/No 
 
 ## 💬 Ryft Discussion:

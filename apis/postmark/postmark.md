@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/postmark/logo_256x256.png" alt="Postmark Logo"/>
 </p>
-No bulk. That means your app&#x27;s email isn&#x27;t stuck waiting behind 500,000 copies of a marketing campaign. Postmark API and developer documentation home with home about integration, API, webhooks and a user guide. Postmark delivers email triggered by an action in your app
+No bulk. That means your app's email isn't stuck waiting behind 500,000 copies of a marketing campaign. Postmark API and developer documentation home with home about integration, API, webhooks and a user guide. Postmark delivers email triggered by an action in your app
 
 ##  🔗 Links
 **Docs / Website**: https://postmarkapp.com/developer
@@ -12,7 +12,7 @@ No bulk. That means your app&#x27;s email isn&#x27;t stuck waiting behind 500,00
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Postmark free?
+## 🆓 Is "Postmark" free?
  Unknown/No 
 
 ## 💬 Postmark Discussion:

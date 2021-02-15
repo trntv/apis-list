@@ -9,7 +9,7 @@ Scraper API is a web scraping API that handles proxy rotation, browsers, and CAP
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Scraper API free?
+## 🆓 Is "Scraper API" free?
  Unknown/No 
 
 ## 💬 Scraper API Discussion:

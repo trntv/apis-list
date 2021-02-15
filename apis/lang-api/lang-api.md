@@ -12,7 +12,7 @@ LangAPI exists to help developers rapidly translate and localize their apps for 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Lang API free?
+## 🆓 Is "Lang API" free?
  Unknown/No 
 
 ## 💬 Lang API Discussion:

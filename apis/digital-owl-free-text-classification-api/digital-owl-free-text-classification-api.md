@@ -9,7 +9,7 @@ Free for use text classification, sentiment analysis, semantic similarity and wo
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Digital Owl Free Text Classification Api free?
+## 🆓 Is "Digital Owl Free Text Classification Api" free?
  Unknown/No 
 
 ## 💬 Digital Owl Free Text Classification Api Discussion:

@@ -12,7 +12,7 @@ Your daily lectionary readings…. Your daily lectionary readings…
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is LectServe free?
+## 🆓 Is "LectServe" free?
  Unknown/No 
 
 ## 💬 LectServe Discussion:

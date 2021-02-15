@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/zestful-data/logo_256x256.png" alt="Zestful Data Logo"/>
 </p>
-The Zestful&#x27;s ingredient parser API turns plain recipe strings into beautiful, structured data. You can get 30 ingredient parses per day for free. A machine-learning-powered ingredient parser API. Parse your recipe ingredients into clean, structured JSON. Built to power the best food apps online
+The Zestful's ingredient parser API turns plain recipe strings into beautiful, structured data. You can get 30 ingredient parses per day for free. A machine-learning-powered ingredient parser API. Parse your recipe ingredients into clean, structured JSON. Built to power the best food apps online
 
 ##  🔗 Links
 **Docs / Website**: https://zestfuldata.com/
@@ -12,7 +12,7 @@ The Zestful&#x27;s ingredient parser API turns plain recipe strings into beautif
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Zestful Data free?
+## 🆓 Is "Zestful Data" free?
  Unknown/No 
 
 ## 💬 Zestful Data Discussion:

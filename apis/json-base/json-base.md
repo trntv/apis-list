@@ -9,7 +9,7 @@ API Based JSON Storage. The free plan allows you to store 100,000 write ops per 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Json Base free?
+## 🆓 Is "Json Base" free?
  Unknown/No 
 
 ## 💬 Json Base Discussion:

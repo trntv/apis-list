@@ -9,7 +9,7 @@ US based digital asset exchange
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Poloniex free?
+## 🆓 Is "Poloniex" free?
  Unknown/No 
 
 ## 💬 Poloniex Discussion:

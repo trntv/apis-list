@@ -12,7 +12,7 @@ A web service that provides convenient access to wiki features, data, and meta-d
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Wikipedia API free?
+## 🆓 Is "Wikipedia API" free?
  Unknown/No 
 
 ## 💬 Wikipedia API Discussion:

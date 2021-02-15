@@ -9,7 +9,7 @@ Free API to predict the gender of a name. Easy integration into any platform. Ov
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Genderize.io free?
+## 🆓 Is "Genderize.io" free?
  Unknown/No 
 
 ## 💬 Genderize.io Discussion:

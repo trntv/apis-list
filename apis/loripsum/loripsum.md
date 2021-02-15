@@ -12,7 +12,7 @@ This Lorem Ipsum generator fits all your Lipsum needs! Come on over, make some L
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Loripsum free?
+## 🆓 Is "Loripsum" free?
  Unknown/No 
 
 ## 💬 Loripsum Discussion:

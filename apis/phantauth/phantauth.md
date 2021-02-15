@@ -12,7 +12,7 @@ Random User Generator + OpenID Connect Provider. Like Lorem Ipsum, but for user 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is PhantAuth free?
+## 🆓 Is "PhantAuth" free?
  Unknown/No 
 
 ## 💬 PhantAuth Discussion:

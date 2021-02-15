@@ -10,7 +10,7 @@ A JSON/plain-text which returns the (approx) current time for a provided timezon
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is WorldTimeAPI free?
+## 🆓 Is "WorldTimeAPI" free?
  Unknown/No 
 
 ## 💬 WorldTimeAPI Discussion:

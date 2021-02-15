@@ -12,7 +12,7 @@ Provides multi-carrier shipment tracking APIs.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is AfterShip free?
+## 🆓 Is "AfterShip" free?
  Unknown/No 
 
 ## 💬 AfterShip Discussion:

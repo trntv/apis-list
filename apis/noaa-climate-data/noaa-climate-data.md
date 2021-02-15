@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/noaa-climate-data/logo_256x256.png" alt="NOAA Climate Data Logo"/>
 </p>
-Climate Data Online (CDO) provides free access to NCDC&#x27;s archive of global historical weather and climate data in addition to station history information
+Climate Data Online (CDO) provides free access to NCDC's archive of global historical weather and climate data in addition to station history information
 
 ##  🔗 Links
 **Docs / Website**: https://www.ncdc.noaa.gov/cdo-web/
@@ -12,7 +12,7 @@ Climate Data Online (CDO) provides free access to NCDC&#x27;s archive of global 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is NOAA Climate Data free?
+## 🆓 Is "NOAA Climate Data" free?
  Unknown/No 
 
 ## 💬 NOAA Climate Data Discussion:

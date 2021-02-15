@@ -9,7 +9,7 @@ Crime, school and transportation data for US cities.
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is City Context free?
+## 🆓 Is "City Context" free?
  Unknown/No 
 
 ## 💬 City Context Discussion:

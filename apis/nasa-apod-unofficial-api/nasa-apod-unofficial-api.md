@@ -1,5 +1,5 @@
 # NASA APOD (unofficial API)
-What&#x27;s this API for? This API is for fetching data from NASA&#x27;s APOD website - a popular service showing the most beautiful astronomical photographs in the world. The data is returned in JSON format
+What's this API for? This API is for fetching data from NASA's APOD website - a popular service showing the most beautiful astronomical photographs in the world. The data is returned in JSON format
 
 ##  🔗 Links
 **Docs / Website**: https://apodapi.herokuapp.com/
@@ -9,7 +9,7 @@ What&#x27;s this API for? This API is for fetching data from NASA&#x27;s APOD we
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is NASA APOD (unofficial API) free?
+## 🆓 Is "NASA APOD (unofficial API)" free?
  Unknown/No 
 
 ## 💬 NASA APOD (unofficial API) Discussion:

@@ -9,7 +9,7 @@ A unified API platform for software developers in Africa building SMS, USSD, Voi
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Africa&#x27;s Talking free?
+## 🆓 Is "Africa's Talking" free?
  Unknown/No 
 
 ## 💬 Africa&#x27;s Talking Discussion:

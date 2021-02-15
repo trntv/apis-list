@@ -9,7 +9,7 @@ Trading APIs require authentication and provide access to placing orders and oth
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Coinbase Pro free?
+## 🆓 Is "Coinbase Pro" free?
  Unknown/No 
 
 ## 💬 Coinbase Pro Discussion:

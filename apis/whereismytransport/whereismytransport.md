@@ -12,7 +12,7 @@ WhereIsMyTransport connects public transport data in one place. WhereIsMyTranspo
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is WhereIsMyTransport free?
+## 🆓 Is "WhereIsMyTransport" free?
  Unknown/No 
 
 ## 💬 WhereIsMyTransport Discussion:

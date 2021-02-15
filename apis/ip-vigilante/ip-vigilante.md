@@ -9,7 +9,7 @@ IP Vigilante provides a free geographical IP locator API, so the developers can 
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is IP Vigilante free?
+## 🆓 Is "IP Vigilante" free?
  Unknown/No 
 
 ## 💬 IP Vigilante Discussion:

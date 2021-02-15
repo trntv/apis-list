@@ -9,7 +9,7 @@ A free API for sentiment analysis
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Sentim-API free?
+## 🆓 Is "Sentim-API" free?
  Unknown/No 
 
 ## 💬 Sentim-API Discussion:

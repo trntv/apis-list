@@ -9,7 +9,7 @@ Prague City Open Data. Vítejte na celoměstském portálu pro otevřená data h
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Prague Opendata free?
+## 🆓 Is "Prague Opendata" free?
  Unknown/No 
 
 ## 💬 Prague Opendata Discussion:

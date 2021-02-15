@@ -12,7 +12,7 @@ QMeta offers a free, uncensored and unlimited web search engine API
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Web Search Engine Api free?
+## 🆓 Is "Web Search Engine Api" free?
  Unknown/No 
 
 ## 💬 Web Search Engine Api Discussion:

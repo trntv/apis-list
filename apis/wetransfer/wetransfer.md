@@ -12,7 +12,7 @@ Put us in unexpected places, challenge the traditional creative flow, think big,
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Wetransfer free?
+## 🆓 Is "Wetransfer" free?
  Unknown/No 
 
 ## 💬 Wetransfer Discussion:

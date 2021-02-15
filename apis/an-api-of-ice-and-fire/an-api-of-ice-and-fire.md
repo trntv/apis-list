@@ -9,7 +9,7 @@ The API is open source!
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is An API of Ice And Fire free?
+## 🆓 Is "An API of Ice And Fire" free?
  Yes! 
 
 ## 💬 An API of Ice And Fire Discussion:

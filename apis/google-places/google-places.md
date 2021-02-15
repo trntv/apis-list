@@ -2,7 +2,7 @@
 <p align="center">
     <img width="256" src="https://raw.githubusercontent.com/apis-list/apis-list/main/apis/google-places/logo_256x256.png" alt="Google Places Logo"/>
 </p>
-Connect your app or website users to over 100 million points of interests with Places, using Autocomplete, Geocoding &amp; Place Search APIs
+Connect your app or website users to over 100 million points of interests with Places, using Autocomplete, Geocoding & Place Search APIs
 
 ##  🔗 Links
 **Docs / Website**: https://developers.google.com/places/?hl&#x3D;en
@@ -12,7 +12,7 @@ Connect your app or website users to over 100 million points of interests with P
 **URI**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)  
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
-## 🆓 Is Google Places free?
+## 🆓 Is "Google Places" free?
  Unknown/No 
 
 ## 💬 Google Places Discussion:
