@@ -20,7 +20,7 @@ Assess potential risks and threats coming from certain IP addresses by detecting
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Smartip.Io" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Smartip.Io Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

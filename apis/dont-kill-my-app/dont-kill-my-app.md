@@ -13,7 +13,7 @@ Android vendors, don't kill my app! dontkillmyapp.com official API
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Don't Kill My App" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Don&#x27;t Kill My App Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

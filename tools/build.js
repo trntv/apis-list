@@ -1,5 +1,6 @@
 const fs = require("fs");
 const Handlebars = require("handlebars")
+const slugify = require("slugify");
 const {read} = require("./list");
 const {categories, sortCategories} = require("./categories") 
 
@@ -34,11 +35,13 @@ module.exports = (source, destination) => {
 
     const apiTemplate = Handlebars.compile(fs.readFileSync(__dirname + "/../api.handlebars").toString());
     apis.forEach((api) => {
+        api.slug = api.slug || slugify(api.name).toLowerCase()
+        
         if (api.is_active === false) {
             graveyard.push(api)
             return
         }
-        
+
         api.categories.sort(sortCategories)
         api.categories.forEach((c) => {
             byCategory[c] = byCategory[c] || []
@@ -63,7 +66,13 @@ module.exports = (source, destination) => {
             libraries: byPlatform
         })
 
-        fs.writeFileSync(`${destination}/apis/${api.slug}/${api.slug}.md`, apiData)
+        const dir = `${destination}/apis/${api.slug}`
+        
+        if (!fs.existsSync(dir)){
+            fs.mkdirSync(dir);
+        }
+        
+        fs.writeFileSync(`${dir}/${api.slug}.md`, apiData)
     })
 
     const readmeTemplate = Handlebars.compile(fs.readFileSync(__dirname + "/../README.handlebars").toString());

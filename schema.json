@@ -4,9 +4,7 @@
   "type": "object",
   "required": [
     "name",
-    "slug",
-    "categories",
-    "is_active"
+    "categories"
   ],
   "properties": {
     "name": {

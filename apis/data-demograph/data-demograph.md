@@ -10,7 +10,7 @@ Enrich your contact lists with intelligent demographics. Add gender age, income,
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Data Demograph" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Data Demograph Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

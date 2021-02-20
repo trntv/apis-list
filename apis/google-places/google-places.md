@@ -13,7 +13,7 @@ Connect your app or website users to over 100 million points of interests with P
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Google Places" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Google Places Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

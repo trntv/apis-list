@@ -10,7 +10,7 @@ Flexible natural language processing APIs and complete text analytics platform s
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Lexalytics" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Lexalytics Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

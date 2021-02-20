@@ -13,7 +13,7 @@ API for HTTP Cats. API for HTTP Cats
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "HTTPCat" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 HTTPCat Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

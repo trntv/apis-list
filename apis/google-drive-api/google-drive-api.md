@@ -13,7 +13,7 @@ com/upload/drive/v2/files and PO. URIs relative to https://www. googleapis. com/
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Google Drive API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Google Drive API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

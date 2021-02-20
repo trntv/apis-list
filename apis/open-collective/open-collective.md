@@ -13,7 +13,7 @@ Learn more about it here: https://medium. GraphQL API The future of the Open Col
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Open Collective" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Open Collective Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

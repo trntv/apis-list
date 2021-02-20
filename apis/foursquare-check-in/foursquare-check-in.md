@@ -10,7 +10,7 @@ Allows you to check in to a place
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Foursquare Check-In" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Foursquare Check-In Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -10,7 +10,7 @@ Simple API to retrieve resources related to Age of Empires II
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Age of Empires II" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Age of Empires II Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

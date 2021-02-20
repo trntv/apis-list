@@ -12,7 +12,7 @@ Please refer to the PTV website until further notice. PTV API
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Transportation in Victoria, Australia" free?
- Yes! 
+Yes!  
 
 ## 💬 Transportation in Victoria, Australia Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

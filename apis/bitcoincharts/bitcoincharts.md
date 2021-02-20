@@ -10,7 +10,7 @@ You can use this API to include markets data in your websites, mobile apps or de
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Bitcoincharts" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Bitcoincharts Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

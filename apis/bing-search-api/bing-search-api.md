@@ -10,7 +10,7 @@ Add intelligent search to your app, combing hundreds of billions of webpages, im
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Bing Search API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Bing Search API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -10,7 +10,7 @@ Make screenshots from web pages and HTML
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Apileap" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Apileap Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

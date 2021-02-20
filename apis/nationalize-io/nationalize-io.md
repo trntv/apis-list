@@ -10,7 +10,7 @@ Free API to check and predict the nationality of a name
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Nationalize.io" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Nationalize.io Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

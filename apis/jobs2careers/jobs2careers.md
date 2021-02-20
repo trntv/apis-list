@@ -10,7 +10,7 @@
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Jobs2Careers" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Jobs2Careers Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

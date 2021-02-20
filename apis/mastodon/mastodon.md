@@ -13,7 +13,7 @@ Welcome to the Mastodon documentation!. Welcome to the Mastodon documentation!
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Mastodon" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Mastodon Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

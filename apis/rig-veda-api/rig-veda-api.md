@@ -10,7 +10,7 @@ All of the poets and gods in the Rig Veda, presented with the mandal and sukta n
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Rig Veda API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Rig Veda API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

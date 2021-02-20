@@ -10,7 +10,7 @@ Public REST APIs provide market data such as: current order book recent trading 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Gemini" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Gemini Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

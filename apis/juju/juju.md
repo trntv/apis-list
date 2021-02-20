@@ -10,7 +10,7 @@ Juju.com is a job search engine, not a job board. Juju's comprehensive search re
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Juju" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Juju Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

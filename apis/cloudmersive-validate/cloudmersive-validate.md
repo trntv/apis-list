@@ -10,7 +10,7 @@ Data Validation APIs. Validate key business data thoroughly - Email Address Vali
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Cloudmersive Validate" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Cloudmersive Validate Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

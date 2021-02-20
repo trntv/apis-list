@@ -13,7 +13,7 @@ A SOAP API that provides access to Google Ads accounts, campaigns, and reports. 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Google AdWords API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Google AdWords API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

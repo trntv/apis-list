@@ -10,7 +10,7 @@ Maintains a custom datastore that queries your data in a fast, scalable, and rel
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "MixPanel" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 MixPanel Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

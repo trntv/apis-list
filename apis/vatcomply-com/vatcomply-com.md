@@ -10,7 +10,7 @@ VAT Number Validation API, Geolocation API, Exchange rates API
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "VATComply.com" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 VATComply.com Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

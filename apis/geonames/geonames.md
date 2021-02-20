@@ -13,7 +13,7 @@ The GeoNames geographical database covers all countries and contains over eleven
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "GeoNames" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 GeoNames Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

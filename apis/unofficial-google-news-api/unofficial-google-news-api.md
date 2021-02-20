@@ -10,7 +10,7 @@ GNews is an API to search for articles from a variety of sources, including Goog
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Unofficial Google News Api" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Unofficial Google News Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

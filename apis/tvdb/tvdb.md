@@ -10,7 +10,7 @@ Token Added. Token Added
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "TVDB" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 TVDB Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

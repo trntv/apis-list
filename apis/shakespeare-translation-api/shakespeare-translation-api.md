@@ -13,7 +13,7 @@ Translate from English to Shakespeare English
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Shakespeare Translation Api" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Shakespeare Translation Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

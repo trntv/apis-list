@@ -10,7 +10,7 @@ A consensus driven API for national, federal and public holidays servicing over 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Holiday Oracle" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Holiday Oracle Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

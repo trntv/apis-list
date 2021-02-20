@@ -10,7 +10,7 @@ Central bank of Georgia
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Georgia" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Georgia Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

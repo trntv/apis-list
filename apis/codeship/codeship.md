@@ -10,7 +10,7 @@ Hosted API documentation for every OAS (Swagger) and RAML spec out there. Powere
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Codeship" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Codeship Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

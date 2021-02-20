@@ -1,5 +1,6 @@
 const prompt = require('prompt');
 const colors = require("colors/safe");
+const slugify = require('slugify')
 const schema = require('../schema.json')
 const list = require("./list");
 
@@ -37,6 +38,7 @@ module.exports = (source) => {
             
             let api = {
                 name: result.name,
+                slug: slugify(result.name),
                 description: result.description,
                 categories: result.categories,
                 logo: result.logo,
@@ -44,7 +46,7 @@ module.exports = (source) => {
                 is_free: result.is_free,
                 links: [
                     {
-                        name: "API's homepage",
+                        name: "Docs / Website",
                         url: result.url
                     }
                 ],

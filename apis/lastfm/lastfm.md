@@ -13,7 +13,7 @@ fm. Allows anyone to build their own programs using Last. fm data, whether they'
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "LastFm" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 LastFm Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
@@ -163,7 +163,7 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
     - [Add source code URL ➕]()
     - [Add author ➕]
 
-### 
+### undefined
 - Perl Library for Last.fm
     - [Documentation](http://search.cpan.org/~nilsonsfj/WebService-Audioscrobbler-0.07/lib/WebService/Audioscrobbler.pm)
     - [Add source code URL ➕]()

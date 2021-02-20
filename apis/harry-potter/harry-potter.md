@@ -13,7 +13,7 @@ Harry Potter API
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Harry Potter" free?
- Yes! 
+Yes!  
 
 ## 💬 Harry Potter Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

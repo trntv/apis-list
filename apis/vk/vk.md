@@ -13,7 +13,7 @@ Additionally, you may use the VK API to control much of the functionality on the
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "VK" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 VK Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

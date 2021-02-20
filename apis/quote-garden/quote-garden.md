@@ -10,7 +10,7 @@ A RESTful API for quotes. The database currently includes more than 75000 quotes
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Quote Garden" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Quote Garden Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

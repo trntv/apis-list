@@ -13,7 +13,7 @@ Transitland is a community-edited open data service aggregating transit networks
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "TransitLand" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 TransitLand Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

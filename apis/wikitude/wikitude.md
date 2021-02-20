@@ -13,7 +13,7 @@ Powerful augmented reality apps. Create immersive Augmented Reality experiences 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Wikitude" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Wikitude Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

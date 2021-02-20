@@ -10,7 +10,7 @@ Accurate & reliable Exchange Rates API trusted by tens of thousands of developer
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "ExchangeRate-API.com" free?
- Yes! 
+Yes!  
 
 ## 💬 ExchangeRate-API.com Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

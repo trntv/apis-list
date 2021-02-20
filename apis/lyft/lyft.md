@@ -13,7 +13,7 @@ Get real-time ETAs, availability, price estimates, ride status through the Lyft 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Lyft" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Lyft Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

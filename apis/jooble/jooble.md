@@ -10,7 +10,7 @@ The REST API allows developers to access and integrate Jooble's search results w
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Jooble" free?
- Yes! 
+Yes!  
 
 ## 💬 Jooble Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

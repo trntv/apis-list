@@ -10,7 +10,7 @@ OSF is a free, open platform to support your research and enable collaboration.
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Open Science Framework" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Open Science Framework Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

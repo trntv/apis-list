@@ -10,7 +10,7 @@ Add YouTube functionality to your sites and apps. Add YouTube functionality to y
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "YouTube" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 YouTube Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
@@ -157,7 +157,7 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
     - [Add source code URL ➕]()
     - [Add author ➕]
 
-### 
+### undefined
 - AS3 Library for YouTube API
     - [Documentation](http://code.google.com/p/as3youtubelib/)
     - [Add source code URL ➕]()

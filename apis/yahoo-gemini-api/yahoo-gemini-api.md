@@ -13,7 +13,7 @@ Developer tools and the support you need to leverage Verizon Media's powerful da
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Yahoo Gemini API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Yahoo Gemini API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -10,7 +10,7 @@ Formatted and geolocated Colorado public data
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Colorado Data Engine" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Colorado Data Engine Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

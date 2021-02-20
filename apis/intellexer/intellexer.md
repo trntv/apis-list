@@ -10,7 +10,7 @@ Processing (NLP) Service including sentiment analysis, content extraction, and l
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Intellexer" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Intellexer Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

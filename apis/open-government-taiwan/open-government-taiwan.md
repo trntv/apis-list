@@ -13,7 +13,7 @@ Taiwan's open data and public service APIs
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Open Government, Taiwan" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Open Government, Taiwan Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

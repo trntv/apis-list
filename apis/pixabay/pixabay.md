@@ -10,7 +10,7 @@ Restful API for searching and retrieving free images and videos
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Pixabay" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Pixabay Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

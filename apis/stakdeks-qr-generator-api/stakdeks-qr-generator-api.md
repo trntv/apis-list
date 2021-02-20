@@ -13,7 +13,7 @@ The QR-Code generator gets your data and generates a QR-Code
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Stakdek's QR generator API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Stakdek&#x27;s QR generator API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -10,7 +10,7 @@ IPFS API. Upload files, pin hashes, and send pubsub messages using our proprieta
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Temporal" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Temporal Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

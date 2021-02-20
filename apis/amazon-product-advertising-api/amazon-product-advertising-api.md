@@ -10,7 +10,7 @@ The web address you entered is not a functioning page on our site. Try one of th
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Amazon Product Advertising API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Amazon Product Advertising API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -10,7 +10,7 @@ Add interactive 3D maps, graphics, and custom overlays to your Fire Tablet and F
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Amazon Maps API v2" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Amazon Maps API v2 Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

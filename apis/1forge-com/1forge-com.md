@@ -10,7 +10,7 @@ Real-time forex and crypto quotes via JSON and WebSocket
 **Version**: http://1forge.com/openapi.json
 
 ## 🆓 Is "1Forge.com" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 1Forge.com Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -13,7 +13,7 @@ Purge Help API - Other languages Afrikaans asturianu azərbaycanca Bahasa Indone
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Open Street Map" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Open Street Map Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -13,7 +13,7 @@ Easily create custom HTTP resources complete with fake data. fakeJSON's API scal
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "FakeJSON" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 FakeJSON Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

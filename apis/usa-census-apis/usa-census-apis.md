@@ -10,7 +10,7 @@ These data are currently used to distribute around $400 B in Federal, State and 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "USA Census API'S" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 USA Census API&#x27;S Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

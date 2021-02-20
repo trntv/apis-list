@@ -13,7 +13,7 @@ Various sports events, results, players, teams and high quality artwork. TheSpor
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "TheSportsDB" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 TheSportsDB Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

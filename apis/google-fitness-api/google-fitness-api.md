@@ -13,7 +13,7 @@ Google Fit is an open ecosystem that makes it easy to store, access, and manage 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Google Fitness API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Google Fitness API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

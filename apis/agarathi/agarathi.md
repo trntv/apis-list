@@ -13,7 +13,7 @@ Tamil language Dictionary API. Fonts API - Subscription
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Agarathi" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Agarathi Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

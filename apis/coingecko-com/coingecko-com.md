@@ -13,7 +13,7 @@ Free, comprehensive cryptocurrency API. Access free crypto API such as real-time
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Coingecko.com" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Coingecko.com Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

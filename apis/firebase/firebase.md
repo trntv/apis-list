@@ -13,7 +13,7 @@ Authentication, analytics, cloud messaging, crash reporting, ads and more
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Firebase" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Firebase Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

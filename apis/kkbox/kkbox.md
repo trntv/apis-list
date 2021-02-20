@@ -13,7 +13,7 @@ Get ready to unbox the joy of music!
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "KKBOX" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 KKBOX Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -10,7 +10,7 @@ Current and historical NBA Statistics
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "NBA Stats" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 NBA Stats Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -10,7 +10,7 @@ IP Geolocation API is a free JSON REST API service for locating your visitors in
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "IPGeolocationAPI.com" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 IPGeolocationAPI.com Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

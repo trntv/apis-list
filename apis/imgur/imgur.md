@@ -13,7 +13,7 @@ Imgur: The magic of the Internet. Imgur's API exposes the entire Imgur infrastru
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Imgur" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Imgur Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

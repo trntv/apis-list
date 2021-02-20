@@ -10,7 +10,7 @@ The Lord of the Rings API - The one API
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "The Lord of the Rings" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 The Lord of the Rings Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

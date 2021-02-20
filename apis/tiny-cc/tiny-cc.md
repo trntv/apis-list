@@ -10,7 +10,7 @@ Easy-to-use URL shortener. Supports custom short link ending. API documentation
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Tiny.cc" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Tiny.cc Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

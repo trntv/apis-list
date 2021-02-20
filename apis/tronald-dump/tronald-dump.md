@@ -10,7 +10,7 @@ Tronald Dump Api & web archive for the dumbest things Donald Trump has ever said
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Tronald Dump" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Tronald Dump Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

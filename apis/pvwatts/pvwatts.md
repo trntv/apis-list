@@ -10,7 +10,7 @@ system_capacit. format Yes Type: string Default: None Options: json, xml The out
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "PVWatts" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 PVWatts Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

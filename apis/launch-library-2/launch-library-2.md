@@ -10,7 +10,7 @@ Upcoming Space Launches
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Launch Library 2" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Launch Library 2 Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

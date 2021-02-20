@@ -10,7 +10,7 @@ A check-in made to a location-based Page
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Facebook Check-In" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Facebook Check-In Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

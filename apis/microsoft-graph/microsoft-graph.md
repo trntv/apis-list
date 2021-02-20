@@ -10,7 +10,7 @@ Find out how you can use the Microsoft Graph API to connect to the data that dri
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Microsoft Graph" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Microsoft Graph Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

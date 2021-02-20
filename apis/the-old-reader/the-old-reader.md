@@ -13,7 +13,7 @@ The Old Reader API. The Old Reader API. Contribute to theoldreader/api developme
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "The Old Reader" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 The Old Reader Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

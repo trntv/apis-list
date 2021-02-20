@@ -19,7 +19,7 @@ ScrapingBee is a simple API that does all the above for you. It is truly the mos
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Scrapingbee" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Scrapingbee Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

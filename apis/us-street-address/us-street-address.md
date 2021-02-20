@@ -13,7 +13,7 @@ Verify one or more addresses using the SmartyStreets US Street Address API
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "US Street Address" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 US Street Address Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -13,7 +13,7 @@ Create multiple videos with your logo, captions, and background music in differe
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Rocketium Video API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Rocketium Video API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -13,7 +13,7 @@ RadSportRadar ist eine Übersichtskarte über alle gemeldeten Straßenschäden u
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Qmeta Global Search Engine" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Qmeta Global Search Engine Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

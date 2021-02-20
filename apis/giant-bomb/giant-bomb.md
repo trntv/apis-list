@@ -13,7 +13,7 @@ The largest video game database online
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Giant Bomb" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Giant Bomb Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -10,7 +10,7 @@ Article search, best sellers, campaign finance, community, most popular, real es
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "New York Times" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 New York Times Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

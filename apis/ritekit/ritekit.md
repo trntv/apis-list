@@ -13,7 +13,7 @@ Looking for hashtag suggestions, analytics, trend data, influencers of a hashtag
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "RiteKit" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 RiteKit Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

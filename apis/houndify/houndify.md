@@ -13,7 +13,7 @@ The Houndify Voice AI platform helps brands build voice user interfaces that enh
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Houndify" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Houndify Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

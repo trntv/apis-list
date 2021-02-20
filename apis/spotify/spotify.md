@@ -13,7 +13,7 @@ Let’s you search and lookup metadata about artists, tracks and albums. Spotify
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Spotify" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Spotify Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

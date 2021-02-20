@@ -10,7 +10,7 @@ cdnjs provides a simple API to allow anyone to quickly query the libraries it ha
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "CDNJS" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 CDNJS Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

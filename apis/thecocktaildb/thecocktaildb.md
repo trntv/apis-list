@@ -10,7 +10,7 @@ An open, crowd-sourced database of drinks and cocktails from around the world. A
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "TheCocktailDB" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 TheCocktailDB Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

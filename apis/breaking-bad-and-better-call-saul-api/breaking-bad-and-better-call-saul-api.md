@@ -10,7 +10,7 @@ Get data about characters, episodes, quotes, and deaths
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Breaking Bad & Better Call Saul API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Breaking Bad &amp; Better Call Saul API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

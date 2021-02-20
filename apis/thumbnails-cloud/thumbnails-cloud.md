@@ -10,7 +10,7 @@ Cloud API generates JPG and PDF file previews for all common document formats, u
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Thumbnails Cloud" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Thumbnails Cloud Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

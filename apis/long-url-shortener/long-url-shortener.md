@@ -10,7 +10,7 @@ Given a long URL, returns a short link
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Long Url Shortener" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Long Url Shortener Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

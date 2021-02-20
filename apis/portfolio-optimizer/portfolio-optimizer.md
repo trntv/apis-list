@@ -13,7 +13,7 @@ API for investment portfolio optimization. The science of portfolio optimization
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Portfolio Optimizer" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Portfolio Optimizer Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -13,7 +13,7 @@ Filter out bot traffic, customize content based on visitor's location, display f
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Ip Geolocation Api By Ipwhois.Io" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Ip Geolocation Api By Ipwhois.Io Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

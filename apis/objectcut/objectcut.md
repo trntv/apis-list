@@ -13,7 +13,7 @@ Automatic background removal real-time service powered by AI. Automatic backgrou
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "ObjectCut" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 ObjectCut Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

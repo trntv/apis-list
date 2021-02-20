@@ -10,7 +10,7 @@ Detect language(s) from pieces of text
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Language Detection" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Language Detection Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

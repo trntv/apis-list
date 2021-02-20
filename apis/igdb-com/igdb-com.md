@@ -10,7 +10,7 @@ Video Game database on demand! Images, info video and other data you can retriev
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "IGDB.com" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 IGDB.com Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

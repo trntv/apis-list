@@ -10,7 +10,7 @@ Lufthansa Developer Network. Use the data of Europe's biggest airline group! Fig
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Lufthansa Open API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Lufthansa Open API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

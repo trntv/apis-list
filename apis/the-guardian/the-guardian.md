@@ -10,7 +10,7 @@ All accessible with a single open platform key. Get Started. Access a huge range
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "The Guardian" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 The Guardian Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -13,7 +13,7 @@ KBB.com gives you everything you need to research a new, certified (CPO) or used
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Kelley Blue Book" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Kelley Blue Book Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

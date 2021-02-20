@@ -13,7 +13,7 @@ Suite of utility API's (validate emails, create user avatars, calculate VAT, and
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Abstract" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Abstract Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

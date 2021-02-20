@@ -13,7 +13,7 @@ The API provides realtime and historical data on Coronavirus COVID-19 confirmed 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "COVID-19 Data" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 COVID-19 Data Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

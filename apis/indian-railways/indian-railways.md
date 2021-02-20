@@ -10,7 +10,7 @@ Indian Railways Information. Rail Road Air USA Megabus Amtrak CANADA Transport G
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Indian Railways" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Indian Railways Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

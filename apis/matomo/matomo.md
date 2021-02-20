@@ -13,7 +13,7 @@ This page is a hub space linking to the Analytics API guides. There are two main
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Matomo" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Matomo Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

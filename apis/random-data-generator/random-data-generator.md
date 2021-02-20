@@ -13,7 +13,7 @@ API Generator for telephones, text, numbers, passwords, names, social security n
 **Version**: https://randommer.io/api/docs/v1/swagger.json
 
 ## 🆓 Is "Random Data Generator" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Random Data Generator Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

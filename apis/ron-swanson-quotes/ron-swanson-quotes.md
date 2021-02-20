@@ -13,7 +13,7 @@ Node. Node. js server for providing Ron Swanson quotes. Contribute to jamesseanw
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Ron Swanson Quotes" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Ron Swanson Quotes Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

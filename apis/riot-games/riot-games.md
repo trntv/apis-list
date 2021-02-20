@@ -10,7 +10,7 @@ Provide the League of Legends developer community with access to game data in a 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Riot Games" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Riot Games Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

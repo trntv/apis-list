@@ -13,7 +13,7 @@ com API makes it dead simple to convert and transcode a vast array of media into
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Gifs.Com Public API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Gifs.Com Public API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

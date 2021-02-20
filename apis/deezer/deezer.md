@@ -13,7 +13,7 @@ Deezer API provides a nice set of services to build up web applications allowing
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Deezer" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Deezer Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

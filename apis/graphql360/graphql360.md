@@ -13,7 +13,7 @@ Create and consume 360 degree panoramic tours using a GraphQL API. GraphQL 360 e
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Graphql360" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Graphql360 Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

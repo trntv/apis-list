@@ -10,7 +10,7 @@ Government’s open data Here you will find data, tools, and resources to conduc
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Open Government, USA" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Open Government, USA Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

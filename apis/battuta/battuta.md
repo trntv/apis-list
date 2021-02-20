@@ -10,7 +10,7 @@ Country Region City. Country Region City
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Battuta" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Battuta Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

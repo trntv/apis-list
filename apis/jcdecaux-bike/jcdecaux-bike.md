@@ -10,7 +10,7 @@ From the location of the bike stations to the availability of bikes and parking 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "JCDecaux Bike" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 JCDecaux Bike Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

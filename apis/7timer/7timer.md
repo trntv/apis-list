@@ -10,7 +10,7 @@ Last Update: November 1, 2012 7Timer! is a series of web-based meteorological fo
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "7Timer!" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 7Timer! Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

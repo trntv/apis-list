@@ -13,7 +13,7 @@ ipify API is a simple public IP address API, easy enough to integrate into any a
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "IPify" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 IPify Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -10,7 +10,7 @@ Australian Government Open Data
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Open Government, Australia" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Open Government, Australia Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

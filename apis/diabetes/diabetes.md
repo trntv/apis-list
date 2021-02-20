@@ -10,7 +10,7 @@ Welcome to the PredictBGL API The PredictBGL API allows you to build the power o
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Diabetes" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Diabetes Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

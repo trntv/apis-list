@@ -10,7 +10,7 @@ Connect the people who have knowledge to the people who need it, to bring togeth
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Quora API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Quora API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

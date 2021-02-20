@@ -10,7 +10,7 @@ UPS is an American multinational package delivery and supply chain management co
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "UPS" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 UPS Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -10,7 +10,7 @@ Add YouTube functionality to your sites and apps. . Allows developers to access 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "YouTube API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 YouTube API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

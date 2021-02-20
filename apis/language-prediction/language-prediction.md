@@ -13,7 +13,7 @@ The API returns maximum 3 detected languages and a numeric confidences between 0
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Language Prediction" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Language Prediction Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

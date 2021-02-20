@@ -10,7 +10,7 @@ Convert a WGS84 latitude and longitude to OSGB36 easting and northing (British N
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Wgs84 To Osgb36" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Wgs84 To Osgb36 Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

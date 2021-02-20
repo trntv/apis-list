@@ -10,7 +10,7 @@ For more information. Access to GitHub’s Gists API. You can read public gists 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "GitHub Gists" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 GitHub Gists Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

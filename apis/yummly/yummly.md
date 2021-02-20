@@ -10,7 +10,7 @@ Find food recipes. The Yummly Recipe API lets you integrate recipes and faceted 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Yummly" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Yummly Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

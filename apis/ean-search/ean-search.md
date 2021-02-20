@@ -13,7 +13,7 @@ Search our EAN database with over 230 million products by EAN, UPC, ISBN or prod
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "EAN-Search" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 EAN-Search Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

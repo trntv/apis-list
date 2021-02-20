@@ -13,7 +13,7 @@ An API all about dogs. A public service API all about Dogs, free to use when mak
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "The Dog Api" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 The Dog Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

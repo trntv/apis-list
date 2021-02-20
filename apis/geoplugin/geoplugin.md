@@ -10,7 +10,7 @@ geoPlugin is a free, fast and reliable Geolocation Webservice API to locate your
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "geoPlugin" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 geoPlugin Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

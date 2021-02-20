@@ -10,7 +10,7 @@ NFL Arrest provides an interactive visualized database of National Football Leag
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Nfl Arrests" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Nfl Arrests Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

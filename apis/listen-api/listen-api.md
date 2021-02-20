@@ -13,7 +13,7 @@ Simple & no-nonsense podcast search & directory API. Search the meta data of all
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Listen Api" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Listen Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

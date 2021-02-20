@@ -10,7 +10,7 @@ io. Document, mock, test, and more, with the StopLight API Designer. Hosted API 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Lexigram" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Lexigram Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

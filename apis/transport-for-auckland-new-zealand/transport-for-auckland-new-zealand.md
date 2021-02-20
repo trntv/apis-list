@@ -10,7 +10,7 @@ The Auckland Transport developer portal is a platform that exposes a diverse ran
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Transportation in Auckland, New Zealand" free?
- Yes! 
+Yes!  
 
 ## 💬 Transportation in Auckland, New Zealand Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

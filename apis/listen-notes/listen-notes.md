@@ -13,7 +13,7 @@ Best podcast API trusted by 2,104 companies and developers. Search 1,904,658 pod
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Listen Notes" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Listen Notes Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

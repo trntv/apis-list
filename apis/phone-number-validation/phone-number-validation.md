@@ -10,7 +10,7 @@ Check phone number validity, location and timezones
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Phone Number Validation" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Phone Number Validation Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

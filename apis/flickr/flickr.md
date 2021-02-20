@@ -13,7 +13,7 @@ Search through user Flickr content, contacts, upload or replace photos. Flickr i
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Flickr" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Flickr Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
@@ -247,7 +247,7 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
     - [Add source code URL ➕]()
     - [Add author ➕]
 
-### 
+### undefined
 - .NET Wrapper for Flickr API
     - [Documentation]()
     - [Add source code URL ➕]()

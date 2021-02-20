@@ -10,7 +10,7 @@ Judge0 is a robust, scalable, and open-source online code execution system that 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Judge0 API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Judge0 API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

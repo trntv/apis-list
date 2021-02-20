@@ -13,7 +13,7 @@ If you’re only interested in a Company’s logo, and don’t need any other da
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Clearbit Logo" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Clearbit Logo Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

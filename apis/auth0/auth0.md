@@ -13,7 +13,7 @@ Rapidly integrate authentication and authorization for web, mobile, and legacy a
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Auth0" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Auth0 Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

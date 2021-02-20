@@ -13,7 +13,7 @@ Enables apps to view the most clicked-through or repinned Pins, view related pos
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Pinterest" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Pinterest Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -10,7 +10,7 @@ Disqus is a global comment system that improves discussion on websites and conne
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Disqus" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Disqus Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

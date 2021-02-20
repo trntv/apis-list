@@ -13,7 +13,7 @@ A FINAL FANTASY XIV: Online REST API - Game data, characters, free companies, li
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Final Fantasy XIV" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Final Fantasy XIV Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

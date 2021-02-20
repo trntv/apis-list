@@ -10,7 +10,7 @@ setlist.fm is a free wiki-like service to collect and share setlists. The setlis
 **Version**: https://api.setlist.fm/docs/1.0/ui/swagger.json
 
 ## 🆓 Is "Setlist.fm" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Setlist.fm Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

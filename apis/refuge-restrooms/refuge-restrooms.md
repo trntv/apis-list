@@ -10,7 +10,7 @@ Refuge Restrooms
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "REFUGE Restrooms" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 REFUGE Restrooms Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

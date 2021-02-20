@@ -10,7 +10,7 @@ a RDF graph database as a service with W3C SPARQL query and SPARQL update apis
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "LinkedData.Center" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 LinkedData.Center Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

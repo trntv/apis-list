@@ -13,7 +13,7 @@ Build and integrate tools and applications to help members publish their design 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Dribbble" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Dribbble Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
@@ -66,7 +66,7 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
     - [Add author ➕]
     - 31 ⭐
 
-### 
+### undefined
 - Dribbble client library for ActionScript
     - [Documentation](http://www.sangupta.com/projects/as3dribbble)
     - [Add source code URL ➕]()

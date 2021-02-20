@@ -13,7 +13,7 @@ The Petfinder API (Application Programming Interface) allows you to access the P
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Petfinder" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Petfinder Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

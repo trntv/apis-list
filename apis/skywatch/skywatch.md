@@ -13,7 +13,7 @@ Instead, EarthCache allows development teams to focus on the business applicatio
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Skywatch" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Skywatch Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

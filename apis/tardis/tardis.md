@@ -13,7 +13,7 @@ Raw historical market data is available both in exchange native and normalized f
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Tardis" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Tardis Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

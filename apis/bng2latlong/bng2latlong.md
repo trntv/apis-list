@@ -13,7 +13,7 @@ Simple API to convert an OSGB36 easting and northing (British National Grid) to 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "bng2latlong" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 bng2latlong Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

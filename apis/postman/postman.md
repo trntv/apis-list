@@ -10,7 +10,7 @@ The Postman API allows you to programmatically access data stored in Postman acc
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Postman" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Postman Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

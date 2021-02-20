@@ -10,7 +10,7 @@ Open Food Facts is a database of food products with ingredients, allergens, nutr
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Open Food Facts" free?
- Yes! 
+Yes!  
 
 ## 💬 Open Food Facts Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

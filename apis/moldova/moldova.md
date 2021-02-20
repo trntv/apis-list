@@ -10,7 +10,7 @@ Central bank of Moldova
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Moldova" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Moldova Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

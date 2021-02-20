@@ -13,7 +13,7 @@ Yo API Documentation. Programmatically send Yos (contextual messages) through AP
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Yo Developers API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Yo Developers API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

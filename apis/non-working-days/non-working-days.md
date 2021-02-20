@@ -13,7 +13,7 @@ Open repository of non-working days ics files. Open repository of non-working da
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Non-Working Days" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Non-Working Days Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

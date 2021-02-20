@@ -13,7 +13,7 @@ Electronic medical records, practice management and medical billing API. Explore
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Drchrono Healthcare Api" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Drchrono Healthcare Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

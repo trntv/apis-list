@@ -13,7 +13,7 @@ Documentation for Medium's OAuth2 API. Documentation for Medium's OAuth2 API. Co
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Medium" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Medium Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

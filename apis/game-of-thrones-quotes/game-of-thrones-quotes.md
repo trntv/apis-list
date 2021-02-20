@@ -13,7 +13,7 @@ A free API to retrieve some quotes of Game of Thrones!
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Game of Thrones Quotes" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Game of Thrones Quotes Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

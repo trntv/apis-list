@@ -13,7 +13,7 @@ Here’s a categorized list of all the Music APIs. Notice one that is missing or
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Music Machinery" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Music Machinery Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

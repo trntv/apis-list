@@ -13,7 +13,7 @@ Whether you have one input or billions, you are only steps away from using AI to
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Clarifai" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Clarifai Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
@@ -98,7 +98,7 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
     - [Add author ➕]
     - 274 ⭐
 
-### 
+### undefined
 - Clarifai Node.js Library by Clarifai
     - [Documentation]()
     - [Add source code URL ➕]()

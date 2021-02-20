@@ -13,7 +13,7 @@ Documenting the publicly accessible portions of the NHL API
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "NHL Records and Stats" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 NHL Records and Stats Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -10,7 +10,7 @@ A Remake of the original api, using the MERN stack
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Star Wars API (SWAPI)" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Star Wars API (SWAPI) Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

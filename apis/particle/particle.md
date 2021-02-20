@@ -10,7 +10,7 @@ API to manage Particle devices (including their own Arduino-compatible ones and 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Particle" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Particle Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

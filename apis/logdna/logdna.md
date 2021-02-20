@@ -10,7 +10,7 @@ Learn about logging, how to get started, and how to maximize our log collection,
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Logdna" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Logdna Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

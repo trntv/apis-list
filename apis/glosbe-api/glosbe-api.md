@@ -13,7 +13,7 @@ Dictionary API and Translation Memory API description. Application Programming I
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Glosbe API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Glosbe API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

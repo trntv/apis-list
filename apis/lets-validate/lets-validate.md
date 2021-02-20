@@ -13,7 +13,7 @@ Uncovers the technologies used on websites and URL to thumbnail. API that uncove
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Let'S Validate" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Let&#x27;S Validate Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -11,7 +11,7 @@ List all the addresses in the country and make them usable by everyone.
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "adresse.data.gouv.fr" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 adresse.data.gouv.fr Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -13,7 +13,7 @@ Scheduler lets you share your availability with contacts no matter what applicat
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Cronofy" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Cronofy Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

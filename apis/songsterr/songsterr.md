@@ -13,7 +13,7 @@ One accurate tab per song. Huge selection of 500,000 tabs. Guitar, bass and drum
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Songsterr" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Songsterr Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

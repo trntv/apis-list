@@ -10,7 +10,7 @@ The s. Welcome to Transport for Greater Manchester’s new Real-Time Open Data P
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Transportation in Manchester, England" free?
- Yes! 
+Yes!  
 
 ## 💬 Transportation in Manchester, England Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

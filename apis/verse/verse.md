@@ -10,7 +10,7 @@ Check what's the latest version of your favorite open-source project. 無効なU
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Verse" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Verse Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -10,7 +10,7 @@ Sample XML response Sample JSON response
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Penguin Publishing" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Penguin Publishing Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

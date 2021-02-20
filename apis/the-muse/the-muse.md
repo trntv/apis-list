@@ -13,7 +13,7 @@ Public API to provide job and company listings.
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "The Muse" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 The Muse Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

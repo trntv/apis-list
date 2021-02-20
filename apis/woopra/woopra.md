@@ -11,7 +11,7 @@ No hours sank into aggregating and cleaning data. No complex SQL queries require
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Woopra" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Woopra Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

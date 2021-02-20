@@ -13,7 +13,7 @@ Introduction Power your projects with the high quality cryptocurrency data coinr
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "CoinRanking" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 CoinRanking Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

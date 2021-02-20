@@ -10,7 +10,7 @@ TheAudioDB is a community database of Music Artwork, Metadata and Charts with a 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "The Audio DB" free?
- Yes! 
+Yes!  
 
 ## 💬 The Audio DB Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

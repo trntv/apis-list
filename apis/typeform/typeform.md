@@ -13,7 +13,7 @@ Typeform's APIs allow you to create and edit Typeform surveys, and retrieve surv
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Typeform" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Typeform Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

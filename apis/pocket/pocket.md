@@ -10,7 +10,7 @@ When you find something you want to view later, put it in Pocket
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Pocket" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Pocket Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -10,7 +10,7 @@ The aim is to provide every bit of information which is felt required for a user
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Furniture Store Data Api" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Furniture Store Data Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

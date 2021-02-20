@@ -13,7 +13,7 @@ API to request Uber rides. Discover how the Uber API can easily enhance your app
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Uber API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Uber API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

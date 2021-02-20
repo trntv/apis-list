@@ -13,7 +13,7 @@ The Marvel developer portal gives Marvel fans, partners and other technologists 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Marvel" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Marvel Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

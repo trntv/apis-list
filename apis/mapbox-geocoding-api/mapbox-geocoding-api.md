@@ -10,7 +10,7 @@ The Mapbox Geocoding API does forward geocoding (search place names and return c
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Mapbox Geocoding API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Mapbox Geocoding API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

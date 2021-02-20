@@ -13,7 +13,7 @@ Make and receive phone calls, send and receive SMS worldwide. Libraries in Node,
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Nexmo" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Nexmo Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

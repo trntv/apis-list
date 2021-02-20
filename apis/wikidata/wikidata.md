@@ -13,7 +13,7 @@ Wikidata is a free and open knowledge base that can be read and edited by both h
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Wikidata" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Wikidata Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

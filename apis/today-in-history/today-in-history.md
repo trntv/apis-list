@@ -10,7 +10,7 @@ Database of historical events
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Today in History" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Today in History Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

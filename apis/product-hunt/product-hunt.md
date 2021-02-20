@@ -13,7 +13,7 @@ The best new products, every day. Product Hunt is a curation of the best new pro
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Product Hunt" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Product Hunt Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

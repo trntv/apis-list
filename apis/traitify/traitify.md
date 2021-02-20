@@ -23,7 +23,7 @@ With this psychology-backed data in hand, the possibilities are endless - any wa
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Traitify" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Traitify Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -10,7 +10,7 @@ Cloud Wallet enables closed-loop payments between IoT devices and facilitates Io
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Cloud Wallet" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Cloud Wallet Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

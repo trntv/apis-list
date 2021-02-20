@@ -10,7 +10,7 @@ This is a simple REST API that replies with an UTF8 encoded JSON Object. This AP
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Travel Advisory Data" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Travel Advisory Data Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

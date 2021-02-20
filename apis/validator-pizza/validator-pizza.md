@@ -13,7 +13,7 @@ pizza is made to prevent users to register to websites with a disposable email a
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Validator.Pizza" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Validator.Pizza Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

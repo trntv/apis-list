@@ -10,7 +10,7 @@ The requested URL was rejected. Please consult with your administrator. Your sup
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Open Government, India" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Open Government, India Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

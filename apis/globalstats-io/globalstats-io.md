@@ -13,7 +13,7 @@ Enrich your games' experience by adding a global highscore for your games. Platf
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Globalstats.Io" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Globalstats.Io Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

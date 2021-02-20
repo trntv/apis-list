@@ -1,5 +1,5 @@
 # An API of Ice And Fire
-The API is open source! 
+The API is open source!
 
 ##  🔗 Links
 **Docs / Website**: https://anapioficeandfire.com/
@@ -10,7 +10,7 @@ The API is open source!
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "An API of Ice And Fire" free?
- Yes! 
+Yes!  
 
 ## 💬 An API of Ice And Fire Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

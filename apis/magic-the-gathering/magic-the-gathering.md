@@ -13,7 +13,7 @@ The MTG API allows developers to easily consume MTG card and set data in JSON fo
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Magic The Gathering" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Magic The Gathering Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

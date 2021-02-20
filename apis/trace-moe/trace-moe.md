@@ -10,7 +10,7 @@ Scan anime image to get specific detail
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Trace.Moe" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Trace.Moe Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

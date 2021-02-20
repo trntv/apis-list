@@ -13,7 +13,7 @@ de/api/v2/ Authentication Public endpoints, such as the list of exercises or the
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Wger" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Wger Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

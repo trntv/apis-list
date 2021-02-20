@@ -10,7 +10,7 @@ Get data about the books, the movie trilogy, many characters and quotes
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Lord of the Rings API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Lord of the Rings API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

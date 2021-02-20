@@ -10,7 +10,7 @@ The Mapbox Maps API reads and renders raster map tilesets and vector map tileset
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Mapbox Maps API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Mapbox Maps API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

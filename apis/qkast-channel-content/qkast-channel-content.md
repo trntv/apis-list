@@ -13,7 +13,7 @@ qKast API documentation and examples. Contribute to egfx/qKast development by cr
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "qKast Channel Content" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 qKast Channel Content Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

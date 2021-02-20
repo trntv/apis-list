@@ -10,7 +10,7 @@ Multilingual summarization, keywords and sentiment analysis, language recognitio
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "SummarizeBot API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 SummarizeBot API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

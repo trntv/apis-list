@@ -13,7 +13,7 @@ World Trading Data is a worldwide market data provider, for example provide a st
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "World Trading Data" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 World Trading Data Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

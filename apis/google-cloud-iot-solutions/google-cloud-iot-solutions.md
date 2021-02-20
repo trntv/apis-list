@@ -10,7 +10,7 @@ Unlock insights from your global device network with an intelligent IoT platform
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Google Cloud IoT solutions" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Google Cloud IoT solutions Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

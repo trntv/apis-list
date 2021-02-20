@@ -13,7 +13,7 @@ API of The Report Of The Week Reviews. Contribute to andyklimczak/TheReportOfThe
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "The Report of the Week" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 The Report of the Week Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

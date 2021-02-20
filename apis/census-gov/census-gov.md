@@ -10,7 +10,7 @@ Access demographic, economic and population data from the U.S. Census Bureau. Ex
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Census.gov" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Census.gov Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

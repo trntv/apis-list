@@ -13,7 +13,7 @@ The Cartola FC API serves to check the partial points of your team. 🎩 Cartrol
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Cartola Fc" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Cartola Fc Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

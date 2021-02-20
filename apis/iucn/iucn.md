@@ -10,7 +10,7 @@ List of more than 35,500 species that are threatened with extinction
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "IUCN" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 IUCN Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

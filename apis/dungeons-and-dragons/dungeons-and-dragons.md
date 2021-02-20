@@ -10,7 +10,7 @@ D&D 5th Edition SRD API. D&D 5th Edition SRD API
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Dungeons and Dragons" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Dungeons and Dragons Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

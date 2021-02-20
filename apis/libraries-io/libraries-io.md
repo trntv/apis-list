@@ -10,7 +10,7 @@ Discover open source libraries, modules and frameworks you can use in your code.
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Libraries.Io" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Libraries.Io Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

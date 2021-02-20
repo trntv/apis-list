@@ -13,7 +13,7 @@ The best way to gather anyone’s documents, directly from your app & without ha
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Clust" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Clust Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

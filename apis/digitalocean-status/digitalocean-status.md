@@ -10,7 +10,7 @@ API exists to let users of the DigitalOcean status page programmatically access 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "DigitalOcean Status" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 DigitalOcean Status Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

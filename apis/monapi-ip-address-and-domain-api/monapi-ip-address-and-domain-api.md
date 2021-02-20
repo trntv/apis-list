@@ -10,7 +10,7 @@ Our Anomaly API gives you IP & Domain Data for your Business. Lookup threat inte
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Monapi - Ip Address & Domain Api" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Monapi - Ip Address &amp; Domain Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

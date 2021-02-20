@@ -13,7 +13,7 @@ NPR's API is a content API, which essentially provides a structured way for othe
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "NPR API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 NPR API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

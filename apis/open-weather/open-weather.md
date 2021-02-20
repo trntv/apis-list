@@ -11,7 +11,7 @@ Simple and fast and free weather API from OpenWeatherMap you have access to curr
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Open Weather" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Open Weather Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

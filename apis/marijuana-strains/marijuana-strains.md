@@ -10,7 +10,7 @@ The Strain API
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Marijuana Strains" free?
- Yes! 
+Yes!  
 
 ## 💬 Marijuana Strains Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

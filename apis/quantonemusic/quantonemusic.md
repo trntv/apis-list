@@ -10,7 +10,7 @@ Answers the need for digital music data. Our API delivers high-resolution data o
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "QuantOneMusic" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 QuantOneMusic Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

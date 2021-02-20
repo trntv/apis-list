@@ -10,7 +10,7 @@ The Secured Signing REST-based, JSON API allows you to add PKI based digital sig
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Secured Signing Digital Signature Api" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Secured Signing Digital Signature Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

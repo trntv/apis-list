@@ -10,7 +10,7 @@ JSON API returns the country of an IP address. Simple, fast, free. For open sour
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "IP 2 Country" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 IP 2 Country Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

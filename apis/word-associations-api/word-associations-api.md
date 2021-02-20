@@ -13,7 +13,7 @@ Provides service to get associations for a word or phrase. Words are grouped by 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Word Associations API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Word Associations API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

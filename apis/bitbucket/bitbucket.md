@@ -13,7 +13,7 @@ Code against the Bitbucket API to automate simple tasks, embed Bitbucket data in
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Bitbucket" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Bitbucket Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

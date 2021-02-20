@@ -13,7 +13,7 @@ Stock market data (real-time & historical). Explore real time stock market data,
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Twelve Data" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Twelve Data Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

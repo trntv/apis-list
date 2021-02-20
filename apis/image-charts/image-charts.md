@@ -13,7 +13,7 @@ A drop-in-replacement for the deprecated Google Image Charts. Easiest way to emb
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Image-Charts" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Image-Charts Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

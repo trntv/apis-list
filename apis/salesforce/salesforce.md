@@ -14,7 +14,7 @@ This simple RESTful interface is powerful, convenient, and great for writing mob
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Salesforce" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Salesforce Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

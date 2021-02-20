@@ -10,7 +10,7 @@ Leverage the power of our Open APIs and our FHIR capabilities to enable the best
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Orion Health" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Orion Health Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

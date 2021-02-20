@@ -10,7 +10,7 @@ AYLIEN Text Analysis API is a package of Natural Language Processing, Informatio
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "AYLIEN" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 AYLIEN Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

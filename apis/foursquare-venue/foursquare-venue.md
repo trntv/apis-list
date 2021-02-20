@@ -10,7 +10,7 @@ Providing a places search that can be searched by hierarchical list of categorie
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Foursquare Venue" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Foursquare Venue Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

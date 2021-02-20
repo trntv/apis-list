@@ -13,7 +13,7 @@ With this API, you can use RESTful req. Create a search engine for your website,
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Google Custom Search API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Google Custom Search API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

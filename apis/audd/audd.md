@@ -13,7 +13,7 @@ AudD Music Recognition API Docs: how to identify songs in audio using our API
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "AudD" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 AudD Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

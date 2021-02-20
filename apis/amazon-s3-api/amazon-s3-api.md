@@ -13,7 +13,7 @@ Amazon Simple Storage Service (Amazon S3) is storage for the internet. You can u
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Amazon S3 API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Amazon S3 API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -13,7 +13,7 @@ Contify's News Feed APIs provides a clean, company-based market and competitive 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Contify Newfeed Api" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Contify Newfeed Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

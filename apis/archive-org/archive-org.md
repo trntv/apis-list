@@ -13,7 +13,7 @@ The Internet Archive (the “Archive”) is a 501(c)(3) nonprofit organization c
 **Version**: https://raw.githubusercontent.com/NYTimes/public_api_specs/master/archive_api/archive_api.json
 
 ## 🆓 Is "Archive.org" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Archive.org Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

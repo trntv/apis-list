@@ -13,7 +13,7 @@ Location Search Web Service (RESTful API) enable you to find nearest city inform
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "GeoDataSource" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 GeoDataSource Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

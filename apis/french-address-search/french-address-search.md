@@ -10,7 +10,7 @@ Find addresses and localities in France
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "French Address Search" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 French Address Search Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

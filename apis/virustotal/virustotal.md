@@ -10,7 +10,7 @@ The VirusTotal API lets you upload and scan files or URLs, access finished scan 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "VirusTotal" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 VirusTotal Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

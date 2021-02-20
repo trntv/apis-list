@@ -13,7 +13,7 @@ Build Voice, SMS, Fax, Networking and Cellular IoT applications on a private, pu
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Telnyx" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Telnyx Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

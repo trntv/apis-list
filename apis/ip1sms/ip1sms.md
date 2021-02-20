@@ -13,7 +13,7 @@ Here you will find everything you need to get started with your integration of o
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "iP1sms" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 iP1sms Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

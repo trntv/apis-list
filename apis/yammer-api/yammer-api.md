@@ -13,7 +13,7 @@ Yammer Developer Site was created using ReadMe. Discuss ideas, share updates, an
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Yammer API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Yammer API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -13,13 +13,13 @@ Software developers and researchers can use these APIs and data feeds to help pe
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "BusinessUSA" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 BusinessUSA Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-### 
+### undefined
 - Official GitHub Account
     - [Documentation](https://github.com/usagov/)
     - [Add source code URL ➕]()

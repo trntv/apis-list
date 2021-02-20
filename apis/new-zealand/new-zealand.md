@@ -10,7 +10,7 @@ Central bank of New Zealand
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Central bank of New Zealand" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Central bank of New Zealand Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

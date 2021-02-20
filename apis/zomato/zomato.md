@@ -13,7 +13,7 @@ Zomato API. 5 million restaurants across 10,000 cities globally.
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Zomato" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Zomato Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

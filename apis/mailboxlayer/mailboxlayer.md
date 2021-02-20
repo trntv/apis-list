@@ -13,7 +13,7 @@ Simple and powerful email verification JSON API using SMTP, typo checks, syntax 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "mailboxlayer" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 mailboxlayer Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

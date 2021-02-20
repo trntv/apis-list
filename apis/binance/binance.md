@@ -13,7 +13,7 @@ Binance cryptocurrency exchange official API
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Binance" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Binance Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

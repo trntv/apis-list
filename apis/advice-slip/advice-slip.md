@@ -13,7 +13,7 @@ Parameters callback string To define your own callback function name and return 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Advice Slip" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Advice Slip Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

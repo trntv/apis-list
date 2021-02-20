@@ -10,7 +10,7 @@ Avatars is an avatar placeholder library for designers and developers. You can c
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Dicebear Avatars" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Dicebear Avatars Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -10,7 +10,7 @@ The OpenDota API provides Dota 2 related data including advanced match data extr
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Dota 2" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Dota 2 Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

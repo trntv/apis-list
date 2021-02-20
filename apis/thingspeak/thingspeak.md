@@ -13,7 +13,7 @@ Ppen source “Internet of Things” application and API to store and retrieve d
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "ThingSpeak" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 ThingSpeak Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

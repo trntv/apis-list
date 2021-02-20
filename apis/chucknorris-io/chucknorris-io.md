@@ -10,7 +10,7 @@ Read more Chuck Norris facts are satirical factoids about martial artist and act
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "ChuckNorris.io" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 ChuckNorris.io Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

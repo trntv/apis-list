@@ -10,7 +10,7 @@ Use the links below to find out more about constructing request URLs, different 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Gravatar" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Gravatar Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

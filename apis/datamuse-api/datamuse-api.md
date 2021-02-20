@@ -10,7 +10,7 @@ Word-finding query engine that finds words that match a given set of constraints
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Datamuse API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Datamuse API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

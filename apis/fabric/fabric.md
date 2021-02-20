@@ -13,7 +13,7 @@ A platform that helps your mobile team build better apps, understand your users,
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Fabric" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Fabric Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

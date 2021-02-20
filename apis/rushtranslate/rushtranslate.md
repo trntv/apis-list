@@ -14,7 +14,7 @@ RushTranslate offers certified document translation services in over 60 language
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Rushtranslate" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Rushtranslate Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

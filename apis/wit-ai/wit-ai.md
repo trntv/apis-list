@@ -10,7 +10,7 @@ Natural Language Processing
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Wit.ai" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Wit.ai Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

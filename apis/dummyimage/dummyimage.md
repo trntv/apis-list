@@ -13,7 +13,7 @@ Particularly nice, when compared to some of its competitors, in that it offers a
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "DummyImage" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 DummyImage Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

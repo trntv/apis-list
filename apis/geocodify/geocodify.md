@@ -13,7 +13,7 @@ Worldwide geocoding, geoparsing and autocomplete for addresses. Geocodify is a f
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Geocodify" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Geocodify Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

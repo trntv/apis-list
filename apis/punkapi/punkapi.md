@@ -13,7 +13,7 @@ Brewdog's DIY Dog as a searchable, filterable API. Brewdog's DIY Dog as a search
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "PunkAPI" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 PunkAPI Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

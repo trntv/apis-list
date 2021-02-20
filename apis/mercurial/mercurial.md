@@ -13,7 +13,7 @@ Access to Mercurial’s API. Note: This page is primarily intended for developer
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Mercurial" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Mercurial Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

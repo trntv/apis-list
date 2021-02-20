@@ -13,7 +13,7 @@ Screenshot API, HTML to PDF API, Content Extraction API
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Restpack" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Restpack Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

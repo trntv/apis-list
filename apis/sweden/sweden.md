@@ -10,7 +10,7 @@ Information you need to get started using PostNord API. PostNord provides a rang
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Sweden" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Sweden Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

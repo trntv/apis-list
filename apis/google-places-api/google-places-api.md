@@ -13,7 +13,7 @@ Providing a places search that can be searched by latitude/longitude, keyword ma
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Google Places API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Google Places API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

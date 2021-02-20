@@ -13,7 +13,7 @@ A data platform for customers to create, manage, share and query data.
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Google BigQuery API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Google BigQuery API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

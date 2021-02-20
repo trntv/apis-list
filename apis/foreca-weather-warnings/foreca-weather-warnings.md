@@ -13,7 +13,7 @@ Data feed of the governmental severe weather warnings. The Foreca Warning Feed i
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Foreca Weather Warnings" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Foreca Weather Warnings Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

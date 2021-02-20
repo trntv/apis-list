@@ -10,7 +10,7 @@ Find out if a restaurant, takeaway or food shop you want to visit has good food 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Food Standards Agency" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Food Standards Agency Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

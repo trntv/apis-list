@@ -13,7 +13,7 @@ Enables easy integration of Google natural language understanding technologies i
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Google Cloud Natural" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Google Cloud Natural Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

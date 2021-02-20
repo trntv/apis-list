@@ -10,7 +10,7 @@ The service that handles the (sign-up, discovery and playback) traffic from all 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Netflix API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Netflix API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

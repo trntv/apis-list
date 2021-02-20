@@ -10,7 +10,7 @@ Free webservice for address search via CEP
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "ViaCep" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 ViaCep Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

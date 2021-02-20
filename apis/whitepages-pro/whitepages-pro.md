@@ -13,7 +13,7 @@ Global Identity Verification API. Get a clearer picture of your customer. Instan
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Whitepages Pro" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Whitepages Pro Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

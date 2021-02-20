@@ -10,7 +10,7 @@ JSON API for returning meaty lorem ipsum filler text.
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Bacon Ipsum" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Bacon Ipsum Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

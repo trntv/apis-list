@@ -10,7 +10,7 @@ Kitsu is a modern anime discovery platform that helps you track the anime you're
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Kitsu" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Kitsu Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

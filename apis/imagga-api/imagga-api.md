@@ -13,7 +13,7 @@ identifies the content of images and videos, classify images based on content, e
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Imagga Api" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Imagga Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

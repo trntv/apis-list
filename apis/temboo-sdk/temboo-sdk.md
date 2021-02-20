@@ -13,7 +13,7 @@ This platform acts as a layer on top of third-party APIs, using code snippets to
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Temboo SDK" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Temboo SDK Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

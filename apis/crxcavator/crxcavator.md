@@ -13,7 +13,7 @@ These factors include permissions, inclusion of vulnerable third party javascrip
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "CRXcavator" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 CRXcavator Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

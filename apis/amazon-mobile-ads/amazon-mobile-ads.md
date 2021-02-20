@@ -10,7 +10,7 @@ Monetize across platforms with multiple ad formats. Mobile Ads Monetize your glo
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Amazon Mobile Ads" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Amazon Mobile Ads Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

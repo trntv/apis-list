@@ -10,7 +10,7 @@ Ziptastic API is a super easy to use API that returns the Country, State, City o
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Zipstatic" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Zipstatic Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

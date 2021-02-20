@@ -10,7 +10,7 @@ Newspaper Directory to find information about American newspapers published betw
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Chronicling America" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Chronicling America Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

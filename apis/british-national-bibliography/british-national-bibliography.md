@@ -13,7 +13,7 @@ Welcome to bnb. data. bl. uk TheBritish National Bibliography(BNB) records the p
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "British National Bibliography" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 British National Bibliography Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -13,7 +13,7 @@ IP Address Geolocation to Country, City, Region, Latitude, Longitude, ZIP Code, 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "IP2Location" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 IP2Location Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
@@ -33,7 +33,7 @@ Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-lis
     - [Author: @ip2location](https://github.com/ip2location)
     - 3 ⭐
 
-### 
+### undefined
 - IP2Location Ruby Library
     - [Documentation](https://github.com/ezkl/ip2location)
     - [Add source code URL ➕]()

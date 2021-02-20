@@ -13,7 +13,7 @@ com. Contribute to cmccandless/license-api development by creating an account on
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "License-API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 License-API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

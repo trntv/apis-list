@@ -746,6 +746,7 @@
   links:
     - name: Docs / Website
       url: https://anon.click/api/
+  is_active: false
 - name: Anti-Captcha
   slug: anti-captcha
   categories:
@@ -1166,7 +1167,7 @@
   is_free: false
   links:
     - name: Docs / Website
-      url: https://authenticjobs.com/api/docs
+      url: https://authenticjobs.com/
 - name: Autopilot
   slug: autopilot
   categories:
@@ -1474,6 +1475,7 @@
   links:
     - name: Docs / Website
       url: https://developer.betterdoctor.com/
+  is_active: false
 - name: BetterMeta
   slug: bettermeta
   categories:
@@ -2932,17 +2934,6 @@
   links:
     - name: Docs / Website
       url: https://alexwohlbruck.github.io/cat-facts/
-- name: Cathyjs
-  slug: cathyjs
-  categories:
-    - Bots
-  description: It is mainly created for discord bots. . A chatbot api which is
-    completely free
-  is_free: false
-  logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/cathyjs/logo_256x256.png
-  links:
-    - name: Docs / Website
-      url: https://www.npmjs.com/package/cathyjs
 - name: Cats
   slug: cats
   categories:
@@ -3471,6 +3462,7 @@
   links:
     - name: Docs / Website
       url: https://www.citycontext.com/api-reference#/
+  is_active: false
 - name: City, Lyon Opendata
   slug: city-lyon-opendata
   categories:
@@ -5626,14 +5618,13 @@
   categories:
     - Entertainment
     - Games
-  description: These endpoints constitute the functionality exposed by Bungie. net
+  description: These endpoints constitute the functionality exposed by Bungie.net both for more traditional website functionality and for connectivity to Bungie video games and their related functionality.
   is_free: false
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/destiny-the-game/logo_256x256.png
   type: REST
   links:
     - name: Docs / Website
-      url: " both for more traditional website functionality and for connectivity to
-        Bungie video games and their related functionality."
+      url: "https://github.com/Bungie-net/api"
 - name: Detect Language
   slug: detect-language
   categories:
@@ -5734,6 +5725,7 @@
   description: Free for use text classification, sentiment analysis, semantic
     similarity and word analysis api.
   is_free: false
+  is_active: false  
   links:
     - name: Docs / Website
       url: https://digitalowl.org
@@ -10383,11 +10375,11 @@
   links:
     - name: Docs / Website
       url: http://hipsterjesus.com
-- name: Holiday API
+- name: Holiday API (holidayapi.pl)
   slug: holiday-api
   categories:
     - Calendar & Time
-  description: Start developing for free. Public holiday API service for several
+  description: Public holiday API service for several
     supported countries. Don't let sourcing and maintaining holiday information
     get in the way of building your product
   is_free: false
@@ -10395,6 +10387,7 @@
   links:
     - name: Docs / Website
       url: https://holidayapi.pl/
+  is_active: false
 - name: Holiday Oracle
   slug: holiday-oracle
   categories:
@@ -11558,6 +11551,7 @@
   links:
     - name: Docs / Website
       url: https://www.ipvigilante.com/
+  is_active: false
 - name: iP1sms
   slug: ip1sms
   categories:
@@ -24464,6 +24458,7 @@
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/windows-live-spaces-api/logo_256x256.png
   links:
     - name: Docs / Website
+  is_active: false
 - name: Wip
   slug: wip
   categories:
@@ -25609,7 +25604,7 @@
   is_free: false
   type: REST, gRPC
   links:
-    - name: API's homepage
+    - name: Docs / Website
       url: https://cloud.google.com/speech-to-text
 - name: Microsoft Cognitive Services
   description: A comprehensive family of AI services and cognitive APIs to help
@@ -25621,7 +25616,7 @@
     - Recognition
   is_free: false
   links:
-    - name: API's homepage
+    - name: Docs / Website
       url: https://azure.microsoft.com/en-us/services/cognitive-services/
 - name: rev.ai
   description: Accurate Speech-to-Text APIs for all of your speech recognition needs
@@ -25631,7 +25626,7 @@
   is_free: false
   logo: https://www.rev.ai/Content/curve/img/revai/logo/logo-blue.svg
   links:
-    - name: API's homepage
+    - name: Docs / Website
       url: https://www.rev.ai/
   libraries:
     - name: Rev.ai Python SDK
@@ -25654,7 +25649,7 @@
   is_free: false
   type: REST
   links:
-    - name: API's homepage
+    - name: Docs / Website
       url: https://aws.amazon.com/transcribe/
 - name: Otter.ai
   description: Generates rich notes for meetings, interviews, lectures, and other
@@ -25664,7 +25659,7 @@
     - Voice
   is_free: false
   links:
-    - name: API's homepage
+    - name: Docs / Website
       url: https://otter.ai
 - name: VOCAPIA
   description: Speech Recognition, Broadcast Monitoring, Lecture and Seminar
@@ -25674,19 +25669,21 @@
     - AI & ML
   logo: https://www.vocapia.com/logos/vocapialogo_blue5x2.png
   links:
-    - name: API's homepage
+    - name: Docs / Website
       url: https://www.vocapia.com/
 - name: Gender API
+  slug: gender-api
   description: Determine gender of first name
   categories:
     - Other
   links:
-    - name: API's homepage
+    - name: Docs / Website
       url: https://genderapi.io
     - name: Documentation
       url: https://genderapi.io/api-documentation
   is_free: false
 - name: aScraper
+  slug: ascraper
   description: Scraping Service API. Simple and ultrafast web crawler, webpages
     Javascript rendering
   categories:
@@ -25694,9 +25691,10 @@
   logo: https://ascraper.com/static/images/logo_white.svg
   type: REST
   links:
-    - name: API's homepage
+    - name: Docs / Website
       url: https://ascraper.com/
 - name: ITA's Data Services Platform
+  slug: itas-data-services-platform
   description: The Data Services Platform from the International Trade
     Administration (ITA) provides direct access to authoritative information on
     U.S. exporting and international trade via standard APIs. ITA has built the
@@ -25707,5 +25705,5 @@
     - Business
   is_free: true
   links:
-    - name: API's homepage
+    - name: Docs / Website
       url: https://api.trade.gov/apps/store/ita

@@ -13,7 +13,7 @@ Search worldwide news articles and headlines from all over the web in real-time 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "NewsAPI" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 NewsAPI Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

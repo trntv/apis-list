@@ -13,7 +13,7 @@ Coin predictions as a service. Automatically fetch coin data from various exchan
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Technical Analysis" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Technical Analysis Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

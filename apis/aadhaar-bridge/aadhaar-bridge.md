@@ -10,7 +10,7 @@ Aadhaar is a 12-digit unique identification number issued by the Indian governme
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Aadhaar Bridge" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Aadhaar Bridge Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

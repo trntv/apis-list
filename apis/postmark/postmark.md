@@ -13,7 +13,7 @@ No bulk. That means your app's email isn't stuck waiting behind 500,000 copies o
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Postmark" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Postmark Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -13,7 +13,7 @@ Webcams.Travel aggregates and distributes landscape webcams worldwide. Add webca
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Webcams.Travel" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Webcams.Travel Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

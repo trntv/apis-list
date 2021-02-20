@@ -10,7 +10,7 @@ Loading
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "OpenAQ" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 OpenAQ Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

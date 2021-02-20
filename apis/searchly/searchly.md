@@ -13,7 +13,7 @@ Contribute to AlbertSuarez/searchly development by creating an account on GitHub
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "SearchLy" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 SearchLy Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -10,7 +10,7 @@ Minor Planet Center API Overview Asterank offers a database API for the Minor Pl
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Minor Planet Center" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Minor Planet Center Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

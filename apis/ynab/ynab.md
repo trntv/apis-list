@@ -13,7 +13,7 @@ You Need A Budget API. YNAB is a budgeting app that helps you confidently spend 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "YNAB" free?
- Yes! 
+Yes!  
 
 ## 💬 YNAB Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

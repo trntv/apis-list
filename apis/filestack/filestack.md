@@ -10,7 +10,7 @@ API for image and file manipulation, 250 uploads and 500 uploads per month for f
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Filestack" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Filestack Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

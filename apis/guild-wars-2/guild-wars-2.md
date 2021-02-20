@@ -10,7 +10,7 @@ The current version of the API. The Guild Wars 2 API (application programming in
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Guild Wars 2" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Guild Wars 2 Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

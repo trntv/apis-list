@@ -10,7 +10,7 @@ API for accessing and managing data about athletes, activities and segments. Str
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Strava" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Strava Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

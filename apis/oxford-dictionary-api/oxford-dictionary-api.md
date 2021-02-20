@@ -10,7 +10,7 @@ Access to Oxford Dictionary services with several different subscription options
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Oxford Dictionary API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Oxford Dictionary API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

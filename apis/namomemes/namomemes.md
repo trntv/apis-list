@@ -13,7 +13,7 @@ Is a description required ? Hail NaMo ! Contribute to theIYD/NaMoMemes developme
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "NaMoMemes" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 NaMoMemes Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

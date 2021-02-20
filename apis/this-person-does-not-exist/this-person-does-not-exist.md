@@ -10,7 +10,7 @@ This Person Does Not Exist
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "This Person Does not Exist" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 This Person Does not Exist Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

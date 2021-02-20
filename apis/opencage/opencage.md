@@ -13,7 +13,7 @@ An easy-to-use forward and reverse geocoding API. Worldwide coverage. Affordable
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "OpenCage" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 OpenCage Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

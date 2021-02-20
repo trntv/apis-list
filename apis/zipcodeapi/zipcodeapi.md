@@ -10,7 +10,7 @@ Zip Codes to Location The API can convert a zip code to the primary location for
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "ZipCodeAPI" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 ZipCodeAPI Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

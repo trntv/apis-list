@@ -10,7 +10,7 @@ Free JSON data storage service, ideal for small scale web apps, website, mobile 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "JSONbin.io" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 JSONbin.io Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

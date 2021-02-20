@@ -10,7 +10,7 @@ Countly is the best analytics platform to understand and enhance customer journe
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Countly" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Countly Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

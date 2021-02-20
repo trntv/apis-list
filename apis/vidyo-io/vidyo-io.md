@@ -10,7 +10,7 @@ Developers do not need to be experts in video, all of the complexities of video 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Vidyo.Io" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Vidyo.Io Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

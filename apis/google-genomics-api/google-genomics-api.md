@@ -13,7 +13,7 @@ Beta This product or feature is covered by the Pre-GA Offerings Terms of the Goo
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Google Genomics API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Google Genomics API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

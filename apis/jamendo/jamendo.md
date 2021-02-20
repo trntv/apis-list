@@ -10,7 +10,7 @@ Jamendo Api Documentation. Jamendo Api Documentation
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Jamendo" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Jamendo Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

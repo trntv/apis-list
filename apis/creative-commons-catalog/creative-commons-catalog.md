@@ -10,7 +10,7 @@ The Creative Commons Catalog API ('cccatalog-api') is a system that allows progr
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Creative Commons Catalog" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Creative Commons Catalog Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

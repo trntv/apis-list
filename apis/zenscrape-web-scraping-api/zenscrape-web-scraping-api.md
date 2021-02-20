@@ -13,7 +13,7 @@ This web scraping API handles all problems that are related to web scraping. Ext
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Zenscrape" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Zenscrape Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

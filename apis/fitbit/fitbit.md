@@ -13,7 +13,7 @@ You'll fit in here. Using JavaScript, CSS, and SVG, developers now have a fast, 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "FitBit" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 FitBit Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -13,7 +13,7 @@ A RESTful API as pizza restaurant ordering system. swagger Explore
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Order Pizza Api" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Order Pizza Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

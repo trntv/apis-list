@@ -13,7 +13,7 @@ FIDEL is a card-linked API that lets developers create web and mobile applicatio
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "FIDEL API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 FIDEL API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

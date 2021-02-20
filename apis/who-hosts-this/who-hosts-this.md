@@ -10,7 +10,7 @@ Detect the hosting provider powering any web site. API
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Who Hosts This" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Who Hosts This Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

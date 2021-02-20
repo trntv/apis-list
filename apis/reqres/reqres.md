@@ -10,7 +10,7 @@ A hosted REST-API ready to respond to AJAX requests
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "ReqRes" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 ReqRes Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

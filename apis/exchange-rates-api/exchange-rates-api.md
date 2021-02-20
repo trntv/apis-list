@@ -13,7 +13,7 @@ The most popular place to securely buy, store, and trade Bitcoin, Ethereum, and 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Exchange Rates API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Exchange Rates API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

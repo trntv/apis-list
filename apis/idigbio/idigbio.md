@@ -13,7 +13,7 @@ Making data and images of millions of biological specimens available on the web
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "iDigBio" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 iDigBio Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

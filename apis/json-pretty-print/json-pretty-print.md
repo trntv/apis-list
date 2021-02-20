@@ -10,7 +10,7 @@ JSON Pretty Print with modern user interface and ssl.
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "JSON Pretty Print" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 JSON Pretty Print Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

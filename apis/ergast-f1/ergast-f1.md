@@ -13,7 +13,7 @@ Please read the terms and conditions of use. The API pro. The Ergast Developer A
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Ergast F1" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Ergast F1 Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

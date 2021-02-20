@@ -10,7 +10,7 @@ Data access is free upon registration, in order to enhanc. Welcome to EMEL’s o
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Transportation in Lisbon, Portugal" free?
- Yes! 
+Yes!  
 
 ## 💬 Transportation in Lisbon, Portugal Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

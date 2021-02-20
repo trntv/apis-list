@@ -10,7 +10,7 @@ Provides live image moderation by humans or AI-based image moderation service.
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "WebPurify" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 WebPurify Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

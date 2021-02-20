@@ -13,7 +13,7 @@ The SMS Service,allows you to send and receive text messages, of up to 160 chara
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Orange SMS API" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Orange SMS API Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

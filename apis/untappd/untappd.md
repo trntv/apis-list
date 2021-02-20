@@ -13,7 +13,7 @@ Access the Untappd API documentation to power your app or project. . Untappd is 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Untappd" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Untappd Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

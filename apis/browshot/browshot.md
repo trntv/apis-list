@@ -10,7 +10,7 @@ Full API to take screenshots of any website.
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Browshot" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Browshot Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

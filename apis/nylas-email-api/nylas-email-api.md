@@ -13,7 +13,7 @@ Email API to integrate 100% of Email Services Providers directly into your app. 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Nylas Email Api" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Nylas Email Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

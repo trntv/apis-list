@@ -10,7 +10,7 @@ Arrival and departure forecasts for buses, metro, commuter trains, local railway
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Transportation in Sweden" free?
- Yes! 
+Yes!  
 
 ## 💬 Transportation in Sweden Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

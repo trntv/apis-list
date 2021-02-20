@@ -13,7 +13,7 @@ govt. nz provides access to guidance, standards, and data from New Zealand gover
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Open Government, New Zealand" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Open Government, New Zealand Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

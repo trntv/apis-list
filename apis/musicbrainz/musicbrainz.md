@@ -13,7 +13,7 @@ The API discussed here is an interface to the MusicBrainz Database. It is aimed 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "MusicBrainz" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 MusicBrainz Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -13,7 +13,7 @@ Lookup Tamil words and build your own Tamil dictionary APP using this API
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Tamil Dictionary Api" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Tamil Dictionary Api Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

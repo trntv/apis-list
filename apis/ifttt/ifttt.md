@@ -13,7 +13,7 @@ Learn how to build an API to show and update connections, run actions, perform q
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "IFTTT" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 IFTTT Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

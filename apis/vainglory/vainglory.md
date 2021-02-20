@@ -13,7 +13,7 @@ Vainglory Players, Matches and Telemetry
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Vainglory" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Vainglory Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

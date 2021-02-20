@@ -14,7 +14,7 @@ modern, highly available route planning service
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Transportation in Finland" free?
- Yes! 
+Yes!  
 
 ## 💬 Transportation in Finland Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

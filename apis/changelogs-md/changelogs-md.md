@@ -13,7 +13,7 @@ Search changelogs from open source projects, or use the REST API for a parsed JS
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Changelogs.md" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Changelogs.md Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

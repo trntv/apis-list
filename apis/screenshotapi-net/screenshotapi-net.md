@@ -10,7 +10,7 @@ Use one simple API call to generate screenshots of any website. Use this screens
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "ScreenshotAPI.net" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 ScreenshotAPI.net Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

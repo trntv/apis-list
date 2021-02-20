@@ -13,7 +13,7 @@ IP Address Geolocation to Country, City, Region, Latitude, Longitude, ZIP Code, 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "IP2Proxy" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 IP2Proxy Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

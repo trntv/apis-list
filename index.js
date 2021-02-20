@@ -4,7 +4,6 @@ const program = new Command();
 program.version('0.1.0');
 
 const build = require('./tools/build');
-const { checkApiLinks, checkLibrariesLinks } = require('./tools/check-links');
 
 const defaultSource = __dirname + '/apis-list.yaml';
 const defaultDestination = __dirname;
@@ -16,10 +15,7 @@ program
 
 program
     .command('check-links [source]')
-    .action((source) => {
-        checkApiLinks(source || defaultSource)
-        checkLibrariesLinks(source || defaultSource)
-    });
+    .action(async (source) => await require('./tools/check-links')(source || defaultSource));
 
 program
     .command('check-orphans [source]')
@@ -35,5 +31,5 @@ program
 
 program.parseAsync(process.argv)
     .then(() => {
-        console.log("Goobye!");
-    })
+        console.log("Goodbye!");
+    }).catch(console.error)

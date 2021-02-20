@@ -10,7 +10,7 @@ Gitter is a chat and networking platform that helps to manage, grow and connect 
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Gitter" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Gitter Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)

@@ -10,7 +10,7 @@ Rebrandly is the link management platform to brand, track and share short URLs u
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "Rebrandly" free?
- Unknown/No 
+Unknown/No  
 
 ## 💬 Rebrandly Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
