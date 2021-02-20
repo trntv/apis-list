@@ -6,12 +6,15 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^0.21.1",
+    "colors": "^1.4.0",
     "commander": "^7.0.0",
     "glob": "^7.1.6",
     "handlebars": "^4.7.6",
+    "prompt": "^1.1.0",
     "yaml": "^1.10.0"
   },
   "scripts": {
+    "add": "node index.js add",
     "build": "node index.js build",
     "check-links": "node index.js check-links"
   }

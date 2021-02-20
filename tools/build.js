@@ -34,7 +34,7 @@ module.exports = (source, destination) => {
 
     const apiTemplate = Handlebars.compile(fs.readFileSync(__dirname + "/../api.handlebars").toString());
     apis.forEach((api) => {
-        if (!api.is_active) {
+        if (api.is_active === false) {
             graveyard.push(api)
             return
         }

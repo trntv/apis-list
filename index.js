@@ -29,6 +29,10 @@ program
     .command('lib [source]')
     .action(async source => await require('./tools/lib')(source || defaultSource));
 
+program
+    .command('add [source]')
+    .action(async source => await require('./tools/add')(source || defaultSource));
+
 program.parseAsync(process.argv)
     .then(() => {
         console.log("Goobye!");

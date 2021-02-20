@@ -1,5 +1,5 @@
 {
-  "$schema": "http://json-schema.org/draft-07/schema",
+  "$schema": "https://json-schema.org/draft-07/schema",
   "$id": "https://raw.githubusercontent.com/apis-list/apis-list/main/schema.json",
   "type": "object",
   "required": [
@@ -10,58 +10,72 @@
   ],
   "properties": {
     "name": {
-      "type": "string"
+      "type": "string",
+      "description": "Name"
     },
     "slug": {
       "type": "string"
     },
+    "description": {
+      "type": "string",
+      "description": "Description"
+    },
     "categories": {
       "type": "array",
+      "description": "List of API's categories",
       "additionalItems": true,
       "items": {
         "anyOf": [
           {
-            "type": "string"
+            "type": "string",
+            "description": "Category name"
           }
         ]
       }
     },
-    "description": {
-      "type": "string"
-    },
     "is_free": {
-      "type": "boolean"
+      "type": "boolean",
+      "description": "Is this API has open source or have free plans"
     },
     "logo": {
-      "type": "string"
+      "type": "string",
+      "description": "URL to API's logo"
     },
     "discussion_url": {
-      "type": "string"
+      "type": "string",
+      "description": "Discussion URL of this API"
     },
     "type": {
-      "type": "string"
+      "type": "string",
+      "description": "API type (REST, GraphQL etc)"
     },
     "contact": {
-      "type": "string"
+      "type": "string",
+      "description": "Contact person"
     },
     "is_active": {
-      "type": "boolean"
+      "type": "boolean",
+      "description": "Is this API active"
     },
     "specification": {
       "type": "object",
       "properties": {
-        "type": {
-          "type": "string"
-        },
         "url": {
-          "type": "string"
+          "type": "string",
+          "description": "Specification's URL"
+        },
+        "type": {
+          "type": "string",
+          "description": "Specification's type (OpenAPI, Swagger, RAML etc)"
         },
         "version": {
-          "type": "string"
+          "type": "string",
+          "description": "Specification's version"
         }
       }
     },
     "libraries": {
+      "description": "SDK, Libs etc",
       "type": "array",
       "additionalItems": true,
       "items": {
@@ -73,28 +87,36 @@
             ],
             "properties": {
               "name": {
-                "type": "string"
+                "type": "string",
+                "description": "Library's name"
               },
               "description": {
-                "type": "string"
+                "type": "string",
+                "description": "Library's description"
               },
               "documentation_url": {
-                "type": "string"
+                "type": "string",
+                "description": "Library's documentation URL"
               },
               "source_code_url": {
-                "type": "string"
+                "type": "string",
+                "description": "Library's source code URL (VCS, Repository etc)"
               },
               "version": {
-                "type": "string"
+                "type": "string",
+                "description": "Library's version"
               },
               "platform": {
-                "type": "string"
+                "type": "string",
+                "description": "Library's programing language or platform"
               },
               "author": {
-                "type": "string"
+                "type": "string",
+                "description": "Library's author"
               },
               "stargazers_count": {
-                "type": "integer"
+                "type": "integer",
+                "description": "Stargazers count"
               }
             },
             "additionalProperties": true
@@ -114,10 +136,12 @@
             ],
             "properties": {
               "name": {
-                "type": "string"
+                "type": "string",
+                "description": "Link's name"
               },
               "url": {
-                "type": "string"
+                "type": "string",
+                "description": "Link's URL"
               }
             },
             "additionalProperties": true

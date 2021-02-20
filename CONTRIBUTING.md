@@ -1,7 +1,16 @@
 # How to add my API?
-1. Add information about your in [`apis-list.yaml`](https://github.com/apis-list/apis-list/blob/main/apis-list.yaml) file
-2. Run `npm run build`
+### Method #1
+1. Add information about an API at the end of [`apis-list.yaml`](https://github.com/apis-list/apis-list/blob/main/apis-list.yaml) file
+2. Run `npm run build` to rebuild README and generate API`s page
 3. Make PR with changes
+
+### Method #2
+1. Run `npm run add` to run an interactive editor. Provide it with required information
+2. Run `npm run build` to rebuild README and generate API`s page
+3. Make PR with changes
+
+### Method #3
+1. Create an issue with API's description and provide as much information about it as possible
 
 # How can I help?
 - add new API
