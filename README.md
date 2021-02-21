@@ -32,7 +32,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
     - [Casino & Gambling](#casino--gambling-) 🎰
     - [Chats & Messaging](#chats--messaging-) 💬
     - [Collaboration](#collaboration-) 👨‍👩‍👦‍👦
-    - [Comics & Anime](#comics--anime-) U0001F9B8🏻‍️️
+    - [Comics & Anime](#comics--anime-) 🦸
     - [Commerce](#commerce-) 💰
     - [Content & Dictionaries](#content--dictionaries-) 📃
     - [Databases](#databases-) 🗄️
@@ -74,7 +74,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
     - [Social](#social-) 📃
     - [Space](#space-) 🚀
     - [Sport & Fitness](#sport--fitness-) ⚾
-    - [Statistics & Data](#statistics--data-) U0001F9EE
+    - [Statistics & Data](#statistics--data-) 🗃️
     - [Testing](#testing-) 🐞
     - [Text Analysis & Tools](#text-analysis--tools-) 📖
     - [Translation](#translation-) ㊗️
@@ -471,7 +471,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Slack](https://github.com/apis-list/apis-list/blob/main/apis/slack/slack.md) - Slack APIs allow you to integrate complex services with Slack to go beyond the integrations they provide out of the box
 - [Trello](https://github.com/apis-list/apis-list/blob/main/apis/trello/trello.md) - Trello is a web-based, Kanban-style, list-making application
 
-### Comics & Anime U0001F9B8🏻‍️️
+### Comics & Anime 🦸
 - [AniList](https://github.com/apis-list/apis-list/blob/main/apis/anilist/anilist.md) - The AniList GraphQL Api provides quick and powerful access to over 500k anime and manga entries, including character, staff, and live airing data
 - [Comic Vine](https://github.com/apis-list/apis-list/blob/main/apis/comic-vine/comic-vine.md) - An extremely mature, well organized and continuely updated resource of comic information
 - [Danbooru](https://github.com/apis-list/apis-list/blob/main/apis/danbooru/danbooru.md) - Danbooru Imageboard API
@@ -1743,7 +1743,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Wger](https://github.com/apis-list/apis-list/blob/main/apis/wger/wger.md) - de/api/v2/ Authentication Public endpoints, such as the list of exercises or the ingredients can be accessed with
 - [Withings](https://github.com/apis-list/apis-list/blob/main/apis/withings/withings.md) - Access to data from Withings activity trackers and body measures
 
-### Statistics & Data U0001F9EE
+### Statistics & Data 🗃️
 - [Archive.org](https://github.com/apis-list/apis-list/blob/main/apis/archive-org/archive-org.md) - The Internet Archive (the “Archive”) is a 501(c)(3) nonprofit organization committed to Universal Access of Knowledge
 - [Census.gov](https://github.com/apis-list/apis-list/blob/main/apis/census-gov/census-gov.md) - Access demographic, economic and population data from the U
 - [City, Prague Opendata](https://github.com/apis-list/apis-list/blob/main/apis/city-prague-opendata/city-prague-opendata.md) - Welcome to the city-wide port 🆓
