@@ -8840,17 +8840,43 @@
   links:
     - name: Docs / Website
       url: https://developers.giphy.com/docs/
-- name: GitHub Authentication
-  slug: github-authentication
+- name: GitHub
+  slug: github
   categories:
-    - Authentication & User Management
-  description: Click here if you are not redirected. Access to GitHub’s
-    Authentication API. Redirecting
-  is_free: false
+    - Development
+  description: World's most famous code hosting service. You can use the official Octokit library and other third-party libraries to extend and simplify how you use the GitHub API.
+  is_free: true
   type: REST
   links:
-    - name: Docs / Website
-      url: https://developer.github.com/guides/basics-of-authentication/
+    - name: REST API
+      url: https://docs.github.com/en/rest
+    - name: GitHub GraphQL API
+      url: https://docs.github.com/en/graphql
+  libraries:
+    - name: octokit.rb
+      documentation_url: https://github.com/Giphy/giphy-js-sdk-core
+      platform: Ruby
+    - name: octokit.net
+      documentation_url: https://github.com/octokit/octokit.net
+      platform: .NET
+    - name: octokit/rest.js
+      documentation_url: https://github.com/octokit/rest.js
+      platform: JvaScript
+    - name: octokit/rest.js
+      documentation_url: https://github.com/octokit/rest.js
+      platform: JavaScript
+    - name: go-github 
+      documentation_url: https://github.com/google/go-github
+      platform: Go
+    - name: go-github
+      documentation_url: https://github.com/google/go-github
+      platform: Go
+    - name: PHP GitHub API
+      documentation_url: https://github.com/KnpLabs/php-github-api
+      platform: PHP
+    - name: ghapi
+      documentation_url: https://github.com/fastai/ghapi
+      platform: Python
 - name: GitHub Gists
   slug: github-gists
   categories:

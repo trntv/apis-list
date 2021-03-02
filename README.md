@@ -256,7 +256,6 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [EventBrite](https://github.com/apis-list/apis-list/blob/main/apis/eventbrite/eventbrite.md) - Eventbrite Python SDK
 - [Facebook Login for Apps](https://github.com/apis-list/apis-list/blob/main/apis/facebook-login-for-apps/facebook-login-for-apps.md) - Secure, fast, convenient way to login in your app/website
 - [Firebase](https://github.com/apis-list/apis-list/blob/main/apis/firebase/firebase.md) - Authentication, analytics, cloud messaging, crash reporting, ads and more
-- [GitHub Authentication](https://github.com/apis-list/apis-list/blob/main/apis/github-authentication/github-authentication.md) - Click here if you are not redirected
 - [Google Identity Toolkit API.](https://github.com/apis-list/apis-list/blob/main/apis/google-identity-toolkit-api/google-identity-toolkit-api.md) - Enable users to sign into apps and authorize apps to use Google services
 - [Instagram](https://github.com/apis-list/apis-list/blob/main/apis/instagram/instagram.md) - How to use the Instagram Graph API
 - [LinkedIn](https://github.com/apis-list/apis-list/blob/main/apis/linkedin/linkedin.md) - Make it convenient for your users to sign in with their professional identity
@@ -597,6 +596,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [FakeJSON](https://github.com/apis-list/apis-list/blob/main/apis/fakejson/fakejson.md) - Easily create custom HTTP resources complete with fake data
 - [Firebase](https://github.com/apis-list/apis-list/blob/main/apis/firebase/firebase.md) - Authentication, analytics, cloud messaging, crash reporting, ads and more
 - [Genderize.io](https://github.com/apis-list/apis-list/blob/main/apis/genderize-io/genderize-io.md) - Free API to predict the gender of a name
+- [GitHub](https://github.com/apis-list/apis-list/blob/main/apis/github/github.md) - World&#x27;s most famous code hosting service 🆓
 - [GitHub Gists](https://github.com/apis-list/apis-list/blob/main/apis/github-gists/github-gists.md) - For more information
 - [GitHub Licenses API](https://github.com/apis-list/apis-list/blob/main/apis/github-licenses-api/github-licenses-api.md) - The Licenses API returns metadata about popular open source licenses and information about a particular project&#x27;s license file
 - [GitLab](https://github.com/apis-list/apis-list/blob/main/apis/gitlab/gitlab.md) - Access to GitLab&#x27;s API
