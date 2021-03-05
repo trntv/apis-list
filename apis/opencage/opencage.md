@@ -13,13 +13,18 @@ An easy-to-use forward and reverse geocoding API. Worldwide coverage. Affordable
 **Version**: N/A - [Add ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)
 
 ## 🆓 Is "OpenCage" free?
-Unknown/No  
+Yes!  
 
 ## 💬 OpenCage Discussion:
 Not yet started. [Start discussion ➡️](https://github.com/apis-list/apis-list/discussions/new)
 
 ## 🗂️ Libraries
-No libraries added. [Add library ➕](https://github.com/apis-list/apis-list/edit/main/apis-list.yaml)    
+### many
+- list of 30+ different SDKs (Python, PHP, Java, etc)
+    - [Documentation](https://opencagedata.com/sdks)
+    - [Add source code URL ➕]()
+    - [Add author ➕]
+
 
 ## 🗄️ Categories:
 - [Maps & Geo](https://github.com/apis-list/apis-list#maps--geo-)
