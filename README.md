@@ -1246,7 +1246,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [OnWater](https://github.com/apis-list/apis-list/blob/main/apis/onwater/onwater.md) - An API to determine if a point (latitude and longitude) is on water, sea, lake, river, or land
 - [Open Charge Map](https://github.com/apis-list/apis-list/blob/main/apis/open-charge-map/open-charge-map.md) - Open Charge Map is a non-commercial, non-profit, electric vehicle data service hosted and supported by a community of businesses, charities, developers and interested parties around the world
 - [Open Street Map](https://github.com/apis-list/apis-list/blob/main/apis/open-street-map/open-street-map.md) - Purge Help API - Other languages Afrikaans asturianu azərbaycanca Bahasa Indonesia Bahasa Melayu bosanski brezhoneg català čeština dansk Deutsch eesti English español Esperanto euskara français Fry
-- [OpenCage](https://github.com/apis-list/apis-list/blob/main/apis/opencage/opencage.md) - An easy-to-use forward and reverse geocoding API
+- [OpenCage](https://github.com/apis-list/apis-list/blob/main/apis/opencage/opencage.md) - An easy-to-use forward and reverse geocoding API 🆓
 - [OpenWeatherMap](https://github.com/apis-list/apis-list/blob/main/apis/openweathermap/openweathermap.md) - Simple and fast and free weather API from OpenWeatherMap
 - [PostcodeData.nl](https://github.com/apis-list/apis-list/blob/main/apis/postcodedata-nl/postcodedata-nl.md) - Netherland&#x27;s post codes search
 - [Postcodes.io](https://github.com/apis-list/apis-list/blob/main/apis/postcodes-io/postcodes-io.md) - Search, validate and reverse geocode postcodes

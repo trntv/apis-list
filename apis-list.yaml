@@ -15843,8 +15843,12 @@
   description: An easy-to-use forward and reverse geocoding API. Worldwide
     coverage. Affordable, predictable pricing. Open data. An easy-to-use forward
     and reverse geocoding API
-  is_free: false
+  is_free: yes
   logo: https://raw.githubusercontent.com/apis-list/apis-list/main/apis/opencage/logo_256x256.png
+  libraries:
+    - name: list of 30+ different SDKs (Python, PHP, Java, etc)
+      documentation_url: https://opencagedata.com/sdks
+      platform: many 
   type: REST
   links:
     - name: Docs / Website
