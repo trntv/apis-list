@@ -1307,6 +1307,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Yahoo Gemini API](https://github.com/apis-list/apis-list/blob/main/apis/yahoo-gemini-api/yahoo-gemini-api.md) - Developer tools and the support you need to leverage Verizon Media&#x27;s powerful data and advertising solutions
 - [Yo Developers API](https://github.com/apis-list/apis-list/blob/main/apis/yo-developers-api/yo-developers-api.md) - Yo API Documentation
 - [Zenserp](https://github.com/apis-list/apis-list/blob/main/apis/zenserp/zenserp.md) - Our fast &amp; reliable SERP API enables you to scrape search results in realtime and without interruption
+- [SearchApi](https://github.com/apis-list/apis-list/blob/main/apis/searchapi/searchapi.md) - SearchApi is a robust real-time SERP API delivering structured data from Google and other search engine results pages
 
 ### Music & Audio 🎸
 - [Acoustid](https://github.com/apis-list/apis-list/blob/main/apis/acoustid/acoustid.md) - Web Service The AcoustID web service currently supports only two operations, searching in the fingerprint database and submitting new fingerprints into the database
@@ -1558,6 +1559,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Zenscrape](https://github.com/apis-list/apis-list/blob/main/apis/zenscrape-web-scraping-api/zenscrape-web-scraping-api.md) - This web scraping API handles all problems that are related to web scraping
 - [Zenserp](https://github.com/apis-list/apis-list/blob/main/apis/zenserp/zenserp.md) - Our fast &amp; reliable SERP API enables you to scrape search results in realtime and without interruption
 - [aScraper](https://github.com/apis-list/apis-list/blob/main/apis/ascraper/ascraper.md) - Scraping Service API
+- [SearchApi](https://github.com/apis-list/apis-list/blob/main/apis/searchapi/searchapi.md) - SearchApi is a robust real-time SERP API delivering structured data from Google and other search engine results pages
 
 ### Search 🔎
 - [Bing Search API](https://github.com/apis-list/apis-list/blob/main/apis/bing-search-api/bing-search-api.md) - Add intelligent search to your app, combing hundreds of billions of webpages, images, videos, and news to provide relevant results with no ad requirements
@@ -1598,6 +1600,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 - [Yelp](https://github.com/apis-list/apis-list/blob/main/apis/yelp/yelp.md) - Yelp&#x27;s API exposes search to 3rd party developers
 - [Yummly](https://github.com/apis-list/apis-list/blob/main/apis/yummly/yummly.md) - Find food recipes
 - [Zenserp](https://github.com/apis-list/apis-list/blob/main/apis/zenserp/zenserp.md) - Our fast &amp; reliable SERP API enables you to scrape search results in realtime and without interruption
+- [SearchApi](https://github.com/apis-list/apis-list/blob/main/apis/searchapi/searchapi.md) - SearchApi is a robust real-time SERP API delivering structured data from Google and other search engine results pages
 
 ### Security 🛡️
 - [AbuseIPDB](https://github.com/apis-list/apis-list/blob/main/apis/abuseipdb/abuseipdb.md) - This is most commonly done through Fail2Ban, which comes prepackaged with an AbuseIPDB configuration
