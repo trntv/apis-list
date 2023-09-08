@@ -25737,3 +25737,18 @@
   links:
     - name: Docs / Website
       url: https://api.trade.gov/apps/store/ita
+- name: SearchApi
+  slug: searchapi
+  categories:
+    - Marketing & SEO
+    - Scrapers & Data Mining
+    - Search
+  description: SearchApi is a robust real-time SERP API delivering structured 
+    data from Google and other search engine results pages. SearchApi offers precise 
+    location targeting, extensive search results, a reliable 99.9% SLA guarantee, 
+    pay-for-success pricing, and expert customer support from real engineers.
+  is_free: false
+  logo: https://www.searchapi.io/press/searchapi-logo-symbol-screen.png
+  links:
+    - name: Docs / Website
+      url: https://www.searchapi.io/
