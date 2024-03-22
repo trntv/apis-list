@@ -282,6 +282,7 @@ Discuss any topic related to the specific API you can [here](https://github.com/
 ### Blockchain & Cryptocurrencies 📒️
 - [Alpha Vantage](https://github.com/apis-list/apis-list/blob/main/apis/alpha-vantage/alpha-vantage.md) - Supports intraday, daily, weekly, and monthly quotes and technical analysis with chart-ready time series
 - [Binance](https://github.com/apis-list/apis-list/blob/main/apis/binance/binance.md) - Binance cryptocurrency exchange official API
+- [Bitquery](https://github.com/apis-list/apis-list/blob/main/apis/Bitquery/Bitquery.md) - Bitquery provides blockchain data, offering real-time streaming APIs for 40+ chains, NFT APIs, and a money flow investigation tool. 
 - [Bitcoin](https://github.com/apis-list/apis-list/blob/main/apis/bitcoin/bitcoin.md) - Bitcoin is an innovative payment network and a new kind of money
 - [BitcoinAverage](https://github.com/apis-list/apis-list/blob/main/apis/bitcoinaverage/bitcoinaverage.md) - The world&#x27;s best and longest running Cryptocurrency price API provider
 - [Bitcoincharts](https://github.com/apis-list/apis-list/blob/main/apis/bitcoincharts/bitcoincharts.md) - You can use this API to include markets data in your websites, mobile apps or desktop applets
